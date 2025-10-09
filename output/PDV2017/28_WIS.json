@@ -1,0 +1,4322 @@
+[
+  {
+    "id": "28001001",
+    "b": 28,
+    "c": 1,
+    "v": 1,
+    "t": "Vous qui gouvernez la terre, aimez ce qui est bien. À propos du Seigneur, ayez des pensées justes, cherchez-le avec un cœur simple.",
+    "h": "LA SAGESSE ET LE SORT DES HUMAINS\n  1–5\nAimer ce qui est bien",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "28001002",
+    "b": 28,
+    "c": 1,
+    "v": 2,
+    "t": "En effet, il se laisse trouver par ceux qui ne le provoquent pas. Il se montre à ceux qui ne refusent pas de croire en lui.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "28001003",
+    "b": 28,
+    "c": 1,
+    "v": 3,
+    "t": "Les pensées tordues éloignent les gens de Dieu, et si des sots le provoquent, sa puissance les couvre de honte.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "28001004",
+    "b": 28,
+    "c": 1,
+    "v": 4,
+    "t": "Non, la Sagesse n’entre pas dans un cœur qui médite le mal. Et si quelqu’un est dominé par le péché, elle n’habite pas chez lui.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "28001005",
+    "b": 28,
+    "c": 1,
+    "v": 5,
+    "t": "En effet, l’esprit saint qui enseigne les humains fuit le mensonge. Il s’éloigne des gens qui ont des idées stupides. Il déteste celui qui fait le mal.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "28001006",
+    "b": 28,
+    "c": 1,
+    "v": 6,
+    "t": "La Sagesse est un esprit qui aime les êtres humains, mais elle ne laisse pas sans punition celui qui insulte Dieu par ses paroles. En effet, Dieu voit jusqu’au fond du cœur de l’homme, il connaît vraiment tout ce qu’il pense et il entend tout ce qu’il dit.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "28001007",
+    "b": 28,
+    "c": 1,
+    "v": 7,
+    "t": "Oui, l’esprit du Seigneur remplit le monde entier. Il tient ensemble tout ce qui existe, il connaît chaque parole prononcée.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "28001008",
+    "b": 28,
+    "c": 1,
+    "v": 8,
+    "t": "Si quelqu’un dit des paroles méchantes, il sera toujours découvert. Et il n’échappera pas au juge qui punit avec justice.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "28001009",
+    "b": 28,
+    "c": 1,
+    "v": 9,
+    "t": "Dieu commandera une enquête sur les projets des gens qui le méprisent. Ce qu’ils disent arrivera jusqu’au Seigneur pour qu’il punisse leurs crimes.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "28001010",
+    "b": 28,
+    "c": 1,
+    "v": 10,
+    "t": "En effet, ses oreilles attentives écoutent tout, elles entendent même la plus petite critique.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "28001011",
+    "b": 28,
+    "c": 1,
+    "v": 11,
+    "t": "Évitez donc les critiques inutiles, soyez maîtres de votre langue pour ne pas dire du mal des autres. Une parole dite en secret ne reste pas sans résultat. Une bouche menteuse donne la mort au menteur.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "28001012",
+    "b": 28,
+    "c": 1,
+    "v": 12,
+    "t": "Ne cherchez pas la mort en vivant n’importe comment. Ne vous détruisez pas vous-mêmes par vos actions.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "28001013",
+    "b": 28,
+    "c": 1,
+    "v": 13,
+    "t": "Non, Dieu n’a pas fait la mort, la disparition des vivants ne lui plaît pas.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "28001014",
+    "b": 28,
+    "c": 1,
+    "v": 14,
+    "t": "Il a créé tous les êtres pour qu’ils existent. Tout ce qu’il a mis dans le monde apporte la vie. Dans ce qu’il a fait, il n’y a pas de poison qui donne la mort. La mort ne domine pas la terre,",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "28001015",
+    "b": 28,
+    "c": 1,
+    "v": 15,
+    "t": "car ce qui est juste ne meurt pas.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "28001016",
+    "b": 28,
+    "c": 1,
+    "v": 16,
+    "t": "Les gens qui méprisent Dieu appellent la mort par leurs actes et leurs paroles. Ils croient qu’elle est leur amie, ils la désirent avec ardeur et font un pacte avec elle. Oui, ils méritent vraiment de lui appartenir.",
+    "h": "Les gens qui méprisent Dieu raisonnent mal",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "28002001",
+    "b": 28,
+    "c": 2,
+    "v": 1,
+    "t": "Ils raisonnent mal quand ils disent entre eux : « Notre vie est courte et triste. Il n’y a pas de remède contre la mort. Nous ne connaissons personne qui soit revenu du monde des morts.",
+    "h": "",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "28002002",
+    "b": 28,
+    "c": 2,
+    "v": 2,
+    "t": "Nous naissons par hasard, et, après notre vie, ce sera comme si nous n’avions jamais existé. Le souffle dans notre nez n’est qu’une fumée légère. La pensée n’est qu’une étincelle allumée par le battement de notre cœur.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "28002003",
+    "b": 28,
+    "c": 2,
+    "v": 3,
+    "t": "Quand elle s’éteint, le corps devient de la cendre, et l’esprit disparaît comme l’air qu’on ne peut saisir.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "28002004",
+    "b": 28,
+    "c": 2,
+    "v": 4,
+    "t": "Avec le temps, les gens oublieront même notre nom, personne ne se souviendra de ce que nous avons fait. Notre vie passera comme un nuage, sans laisser de traces. Elle disparaîtra comme le brouillard chassé par les rayons du soleil et vaincu par sa chaleur.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "28002005",
+    "b": 28,
+    "c": 2,
+    "v": 5,
+    "t": "Oui, notre existence dure aussi peu qu’une ombre. Le moment de sa fin est fixé pour toujours. Personne ne peut revenir en arrière.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "28002006",
+    "b": 28,
+    "c": 2,
+    "v": 6,
+    "t": "« Venez donc, goûtons aux bonnes choses qui sont là ! Profitons pleinement de tout ce qui est créé, comme au temps de notre jeunesse.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "28002007",
+    "b": 28,
+    "c": 2,
+    "v": 7,
+    "t": "Buvons abondamment des vins de grand prix, respirons les parfums les plus précieux. N’oublions pas de cueillir les premières fleurs.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "28002008",
+    "b": 28,
+    "c": 2,
+    "v": 8,
+    "t": "Portons des couronnes de roses avant qu’elles se fanent.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "28002009",
+    "b": 28,
+    "c": 2,
+    "v": 9,
+    "t": "Tous doivent participer à nos fêtes folles, laissons partout des traces de notre joie. En effet, nous avons droit à tout cela, c’est la part qui nous est réservée.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "28002010",
+    "b": 28,
+    "c": 2,
+    "v": 10,
+    "t": "« Maltraitons ceux qui agissent bien et qui sont pauvres. N’ayons pas pitié des veuves et ne respectons pas les cheveux blancs des personnes âgées.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "28002011",
+    "b": 28,
+    "c": 2,
+    "v": 11,
+    "t": "Pour nous, la justice c’est la loi du plus fort, la faiblesse ne sert à rien.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "28002012",
+    "b": 28,
+    "c": 2,
+    "v": 12,
+    "t": "Tendons des pièges à celui qui agit bien. Il nous gêne, il s’oppose à ce que nous faisons. Il nous reproche nos fautes contre la loi. Il nous accuse de ne pas être fidèles à l’éducation que nous avons reçue.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "28002013",
+    "b": 28,
+    "c": 2,
+    "v": 13,
+    "t": "Celui qui agit bien se vante de connaître Dieu et il se dit enfant du Seigneur.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "28002014",
+    "b": 28,
+    "c": 2,
+    "v": 14,
+    "t": "Il est devenu un reproche vivant pour notre façon de penser. Nous ne pouvons même pas supporter de le voir.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "28002015",
+    "b": 28,
+    "c": 2,
+    "v": 15,
+    "t": "En effet, il ne vit pas comme les autres, il se conduit de façon différente.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "28002016",
+    "b": 28,
+    "c": 2,
+    "v": 16,
+    "t": "Pour lui, nous sommes comme de fausses pièces de monnaie. Il s’écarte de nous comme d’un tas d’ordures. Il déclare : ceux qui agissent bien meurent heureux. Et il se vante d’avoir Dieu pour père.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "28002017",
+    "b": 28,
+    "c": 2,
+    "v": 17,
+    "t": "Mais nous verrons bien s’il dit la vérité. Provoquons-le pour voir comment sa vie finira.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "28002018",
+    "b": 28,
+    "c": 2,
+    "v": 18,
+    "t": "En effet, si celui qui agit bien est vraiment fils de Dieu, Dieu l’aidera et le délivrera de ses ennemis.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "28002019",
+    "b": 28,
+    "c": 2,
+    "v": 19,
+    "t": "Voyons ce qu’il vaut en l’insultant et en le torturant. Nous saurons alors jusqu’où va sa douceur, nous pourrons vérifier sa patience.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "28002020",
+    "b": 28,
+    "c": 2,
+    "v": 20,
+    "t": "Condamnons-le à une mort honteuse, puisque, d’après ses paroles, Dieu agira en sa faveur. »",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "28002021",
+    "b": 28,
+    "c": 2,
+    "v": 21,
+    "t": "Voilà comment ces gens-là raisonnent. Mais ils se trompent parce que leur méchanceté les rend aveugles.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "28002022",
+    "b": 28,
+    "c": 2,
+    "v": 22,
+    "t": "Ils ignorent les intentions cachées de Dieu. Ils n’attendent pas de récompense pour une vie qui plaît à Dieu. Ceux qui se conduisent parfaitement seront honorés, mais ces gens-là ne le croient pas.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "28002023",
+    "b": 28,
+    "c": 2,
+    "v": 23,
+    "t": "Or, Dieu a créé les êtres humains pour une vie qui ne connaîtra pas la mort. Il les a faits à l’image de ce qu’il est lui-même.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "28002024",
+    "b": 28,
+    "c": 2,
+    "v": 24,
+    "t": "La mort est entrée dans le monde, parce que l’esprit du mal était jaloux. Et ceux qui appartiennent à cet esprit doivent mourir.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "28003001",
+    "b": 28,
+    "c": 3,
+    "v": 1,
+    "t": "Après leur mort, les âmes de ceux qui agissent bien sont dans la main de Dieu.",
+    "h": "Le sort des gens qui agissent bien",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "28003002",
+    "b": 28,
+    "c": 3,
+    "v": 2,
+    "t": "Ceux qui ne réfléchissent pas pensent que ces gens sont morts pour toujours. Ils regardent leur départ de ce monde comme une catastrophe,",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "28003003",
+    "b": 28,
+    "c": 3,
+    "v": 3,
+    "t": "ils considèrent que leur absence loin de nous est pour toujours. Pourtant, ces morts sont dans la paix.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "28003004",
+    "b": 28,
+    "c": 3,
+    "v": 4,
+    "t": "Ils ont espéré avec force que Dieu leur donnerait une vie sans fin. Mais les gens pensent qu’ils ont souffert à cause de leurs fautes.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "28003005",
+    "b": 28,
+    "c": 3,
+    "v": 5,
+    "t": "En réalité, leurs souffrances ont été peu de chose, et ils recevront un grand bonheur. En effet, Dieu les a mis à l’épreuve et les a trouvés dignes de lui.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "28003006",
+    "b": 28,
+    "c": 3,
+    "v": 6,
+    "t": "Comme on purifie l’or dans le feu, Dieu a voulu voir ce qu’ils valaient. Il les a accueillis comme un sacrifice complet offert sur l’autel.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "28003007",
+    "b": 28,
+    "c": 3,
+    "v": 7,
+    "t": "Quand Dieu viendra, ils brilleront d’une grande lumière, ils seront comme des étincelles qui brûlent la paille en un instant.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "28003008",
+    "b": 28,
+    "c": 3,
+    "v": 8,
+    "t": "Ils jugeront les nations, ils domineront les peuples, et le Seigneur sera leur roi pour toujours.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "28003009",
+    "b": 28,
+    "c": 3,
+    "v": 9,
+    "t": "Les gens qui mettent leur confiance dans le Seigneur sauront la vérité : ceux qui lui sont fidèles resteront unis à lui dans l’amour. Oui, le Seigneur montre sa bonté et sa tendresse à ceux qui lui sont attachés et il veille sur ceux qu’il a choisis.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "28003010",
+    "b": 28,
+    "c": 3,
+    "v": 10,
+    "t": "Les gens qui méprisent Dieu recevront la punition que leur façon de penser mérite. En effet, ils ont méprisé ceux qui agissent bien et ils se sont révoltés contre le Seigneur.",
+    "h": "Le sort des gens qui méprisent Dieu",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "28003011",
+    "b": 28,
+    "c": 3,
+    "v": 11,
+    "t": "Ceux qui se moquent des enseignements et des conseils des sages sont des gens malheureux. Ils n’attendent rien de bon, ils se fatiguent pour rien, ce qu’ils font ne sert à rien.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "28003012",
+    "b": 28,
+    "c": 3,
+    "v": 12,
+    "t": "Leurs femmes sont stupides, et leurs enfants sont méchants. Une malédiction frappera tous ceux qui naîtront d’eux.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "28003013",
+    "b": 28,
+    "c": 3,
+    "v": 13,
+    "t": "Elle est heureuse, la femme stérile qui est restée pure en n’ayant pas de relations interdites avec un homme. Le jour du jugement, elle sera récompensée.",
+    "h": "Être fidèle à Dieu vaut mieux que d’avoir beaucoup d’enfants",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "28003014",
+    "b": 28,
+    "c": 3,
+    "v": 14,
+    "t": "Il est heureux aussi, l’eunuque qui n’a pas fait de mal et qui n’a pas de pensées mauvaises contre le Seigneur. À cause de sa fidélité, il recevra une récompense particulière, il occupera une place d’honneur dans le temple du Seigneur.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "28003015",
+    "b": 28,
+    "c": 3,
+    "v": 15,
+    "t": "En effet, le travail au service du bien donne de beaux fruits. Oui, la sagesse est comme un arbre aux racines toujours vivantes.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "28003016",
+    "b": 28,
+    "c": 3,
+    "v": 16,
+    "t": "Mais les enfants nés de l’adultère ne réussiront pas, et ceux qui sont nés d’une union contraire à la loi de Dieu disparaîtront.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "28003017",
+    "b": 28,
+    "c": 3,
+    "v": 17,
+    "t": "Même s’ils vivent longtemps, ils seront comptés pour rien, et quand ils seront vieux, ils seront méprisés jusqu’à leur mort.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "28003018",
+    "b": 28,
+    "c": 3,
+    "v": 18,
+    "t": "S’ils meurent jeunes, ils seront sans espérance. Le jour du jugement, ils seront sans consolation.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "28003019",
+    "b": 28,
+    "c": 3,
+    "v": 19,
+    "t": "Oui, le sort d’une famille mauvaise est cruel.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "28004001",
+    "b": 28,
+    "c": 4,
+    "v": 1,
+    "t": "Il vaut mieux ne pas avoir d’enfant et faire le bien. Ceux qui font le bien laisseront un souvenir qui ne disparaîtra jamais. En effet, Dieu et les hommes les approuvent.",
+    "h": "",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "28004002",
+    "b": 28,
+    "c": 4,
+    "v": 2,
+    "t": "Pendant leur vie, on les imite, quand ils ne sont plus là, on les regrette. Dans le monde qui dure toujours, ils reçoivent la récompense du vainqueur. Ils ont remporté la victoire en combattant pour obtenir un prix qui n’est jamais détruit.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "28004003",
+    "b": 28,
+    "c": 4,
+    "v": 3,
+    "t": "Au contraire, les enfants des gens qui méprisent Dieu ne serviront à rien, même s’ils sont nombreux. Ils sont comme des pousses de plantes sauvages. Ils n’ont pas de racines profondes et manquent d’une base solide.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "28004004",
+    "b": 28,
+    "c": 4,
+    "v": 4,
+    "t": "Même s’ils portent quelques branches pendant un certain temps, ils ne sont pas solides. Le vent les secoue, et la tornade les arrache de terre.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "28004005",
+    "b": 28,
+    "c": 4,
+    "v": 5,
+    "t": "Leurs jeunes branches seront cassées avant d’être formées. Leurs fruits sont trop verts pour être mangés. Ils ne servent à rien.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "28004006",
+    "b": 28,
+    "c": 4,
+    "v": 6,
+    "t": "Oui, le jour du jugement, les enfants nés d’unions contraires à la loi de Dieu sont des preuves de la mauvaise conduite de leurs parents.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "28004007",
+    "b": 28,
+    "c": 4,
+    "v": 7,
+    "t": "Celui qui agit bien, même s’il meurt jeune, connaîtra le repos.",
+    "h": "La mort des jeunes qui agissent bien",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "28004008",
+    "b": 28,
+    "c": 4,
+    "v": 8,
+    "t": "Un vieillard est digne de respect, mais ce n’est pas à cause de son grand âge, ni de sa longue vie.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "28004009",
+    "b": 28,
+    "c": 4,
+    "v": 9,
+    "t": "En fait, la sagesse peut remplacer les cheveux blancs, et une vie sans tache peut remplacer une longue vieillesse.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "28004010",
+    "b": 28,
+    "c": 4,
+    "v": 10,
+    "t": "Par exemple, un jeune homme a su plaire à Dieu, et Dieu l’a aimé. Il vivait parmi des gens corrompus, et Dieu l’a enlevé de ce monde.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "28004011",
+    "b": 28,
+    "c": 4,
+    "v": 11,
+    "t": "Il l’a retiré de là pour que le mal ne fausse pas sa conscience, pour que les mensonges n’attirent pas son cœur.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "28004012",
+    "b": 28,
+    "c": 4,
+    "v": 12,
+    "t": "Oui, le mal attire les gens, et ceux-ci ne voient plus le bien. L’agitation causée par le désir trouble un cœur innocent.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "28004013",
+    "b": 28,
+    "c": 4,
+    "v": 13,
+    "t": "Ce jeune homme est devenu parfait en peu de temps, et sa vie a été aussi remplie que s’il avait vécu longtemps.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "28004014",
+    "b": 28,
+    "c": 4,
+    "v": 14,
+    "t": "Il a plu au Seigneur. C’est pourquoi celui-ci l’a retiré rapidement d’un monde mauvais. Les gens voient cela sans comprendre. Dieu montre sa bonté et sa tendresse à ceux qu’il a choisis pour lui, et il veille sur ceux qui lui appartiennent. Mais cela ne leur vient pas à l’esprit.",
+    "h": "",
+    "o": 14,
+    "l": "14-15"
+  },
+  {
+    "id": "28004015",
+    "b": 28,
+    "c": 4,
+    "v": 16,
+    "t": "Un jeune qui agit bien et qui meurt condamne les gens encore vivants qui méprisent Dieu. Ce jeune qui a atteint rapidement une vie parfaite accuse ainsi ceux qui vivent longtemps tout en restant mauvais.",
+    "h": "",
+    "o": 15,
+    "l": "16"
+  },
+  {
+    "id": "28004016",
+    "b": 28,
+    "c": 4,
+    "v": 17,
+    "t": "Les gens voient que le sage meurt. Mais ils ne comprennent pas ce que le Seigneur a voulu pour lui, ni pourquoi il a mis cet homme en sûreté.",
+    "h": "",
+    "o": 16,
+    "l": "17"
+  },
+  {
+    "id": "28004017",
+    "b": 28,
+    "c": 4,
+    "v": 18,
+    "t": "Ils voient cela et ils s’en moquent, mais c’est d’eux que le Seigneur rira.",
+    "h": "",
+    "o": 17,
+    "l": "18"
+  },
+  {
+    "id": "28004018",
+    "b": 28,
+    "c": 4,
+    "v": 19,
+    "t": "Quand ils mourront, les gens ne respecteront pas leur corps. Dans le monde des morts, ils seront pour toujours couverts de honte. Le Seigneur les arrachera de leur place, il les jettera par terre, et ils ne pourront pas dire un mot. Ils seront brisés, complètement détruits, remplis de douleur, et personne ne se souviendra d’eux.",
+    "h": "",
+    "o": 18,
+    "l": "19"
+  },
+  {
+    "id": "28004019",
+    "b": 28,
+    "c": 4,
+    "v": 20,
+    "t": "Dieu demandera compte de leurs péchés aux gens qui agissent mal. Alors ils s’approcheront tout tremblants, et leurs crimes se dresseront contre eux pour les accuser.",
+    "h": "Les regrets des gens qui agissent mal",
+    "o": 19,
+    "l": "20"
+  },
+  {
+    "id": "28005001",
+    "b": 28,
+    "c": 5,
+    "v": 1,
+    "t": "À ce moment-là, celui qui a bien agi se tiendra debout, plein d’assurance, devant ceux qui l’ont fait souffrir et qui se sont moqués de ses efforts.",
+    "h": "",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "28005002",
+    "b": 28,
+    "c": 5,
+    "v": 2,
+    "t": "Quand ces gens-là le verront, ils trembleront de peur. Ils seront très étonnés de le voir sauvé, contrairement à ce qu’ils attendaient.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "28005003",
+    "b": 28,
+    "c": 5,
+    "v": 3,
+    "t": "Pleins d’angoisse, ils gémiront. Ils regretteront ce qu’ils ont fait et se diront entre eux :",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "28005004",
+    "b": 28,
+    "c": 5,
+    "v": 4,
+    "t": "« Autrefois, nous avons ri de cet homme, nous nous sommes moqués de lui. Eh bien, n’est-ce pas lui qui est là ? Nous étions vraiment stupides. Nous pensions que sa façon de vivre était une folie, et sa mort nous a semblé honteuse.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "28005005",
+    "b": 28,
+    "c": 5,
+    "v": 5,
+    "t": "Or, il fait partie des enfants de Dieu, de ceux qui lui appartiennent. Comment est-ce possible ?",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "28005006",
+    "b": 28,
+    "c": 5,
+    "v": 6,
+    "t": "Nous nous sommes perdus loin du chemin de la vérité. La lumière de la justice n’a pas éclairé notre vie, le soleil ne s’est pas levé pour nous.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "28005007",
+    "b": 28,
+    "c": 5,
+    "v": 7,
+    "t": "Nous nous sommes enfoncés dans les chemins du mal qui détruit. Nous avons traversé des déserts sans pistes, et nous n’avons pas connu le chemin du Seigneur.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "28005008",
+    "b": 28,
+    "c": 5,
+    "v": 8,
+    "t": "« Nous étions fiers de nous, cela nous a servi à quoi ? Nous nous vantions de notre richesse, qu’est-ce qu’elle nous a rapporté ?",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "28005009",
+    "b": 28,
+    "c": 5,
+    "v": 9,
+    "t": "Tout cela a disparu comme une ombre, comme une nouvelle vite oubliée.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "28005010",
+    "b": 28,
+    "c": 5,
+    "v": 10,
+    "t": "Nous ressemblons au bateau qui fend l’eau agitée. On ne trouve plus de trace de son passage, sa coque ne laisse aucune marque sur les vagues.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "28005011",
+    "b": 28,
+    "c": 5,
+    "v": 11,
+    "t": "Nous ressemblons à l’oiseau qui vole dans le ciel. On ne découvre aucun signe de son trajet. Il frappe l’air de ses ailes, il le fend en un élan puissant et ouvre un chemin. Mais ensuite, on ne voit plus rien de son passage.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "28005012",
+    "b": 28,
+    "c": 5,
+    "v": 12,
+    "t": "Nous ressemblons à la flèche lancée vers le but. L’air qu’elle a déchiré se referme aussitôt, et nous ignorons le chemin qu’elle a pris.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "28005013",
+    "b": 28,
+    "c": 5,
+    "v": 13,
+    "t": "Pour nous, c’est la même chose : nous venons de naître, et déjà, nous disparaissons. Nous n’avons laissé aucune trace de bien, notre méchanceté nous a détruits. »",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "28005014",
+    "b": 28,
+    "c": 5,
+    "v": 14,
+    "t": "Oui, l’espoir des gens qui méprisent Dieu est comme la paille emportée par le vent, comme l’écume légère chassée par la tempête. Il disparaît comme la fumée poussée par le vent, il passe comme le souvenir du visiteur d’un jour.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "28005015",
+    "b": 28,
+    "c": 5,
+    "v": 15,
+    "t": "Ceux qui agissent bien vivent pour toujours. Le Seigneur leur donne leur récompense, le Très-Haut prend soin d’eux.",
+    "h": "Le Seigneur est vainqueur",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "28005016",
+    "b": 28,
+    "c": 5,
+    "v": 16,
+    "t": "C’est pourquoi ils recevront de sa main une couronne magnifique, signe glorieux du pouvoir royal. En effet, la main puissante du Seigneur les protégera, il les couvrira de son bras comme d’un bouclier.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "28005017",
+    "b": 28,
+    "c": 5,
+    "v": 17,
+    "t": "Le Seigneur prendra son ardeur comme équipement de guerre, il se servira de ce qu’il a créé comme d’une arme pour repousser ses ennemis.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "28005018",
+    "b": 28,
+    "c": 5,
+    "v": 18,
+    "t": "Comme cuirasse, il mettra la justice, comme casque, il prendra un jugement juste.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "28005019",
+    "b": 28,
+    "c": 5,
+    "v": 19,
+    "t": "Comme bouclier, il prendra sa sainteté que rien ne peut vaincre.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "28005020",
+    "b": 28,
+    "c": 5,
+    "v": 20,
+    "t": "De sa colère sans faiblesse, il fera une épée coupante. Et le monde entier ira combattre avec lui contre les gens qui manquent de sagesse.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "28005021",
+    "b": 28,
+    "c": 5,
+    "v": 21,
+    "t": "Comme des flèches bien dirigées, lancées par un arc solidement tendu, les éclairs jailliront des nuages pour courir vers le but.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "28005022",
+    "b": 28,
+    "c": 5,
+    "v": 22,
+    "t": "La grêle tombera avec colère, comme des pierres lancées par une fronde. Les eaux de la mer combattront violemment contre les gens mauvais, les fleuves les recouvriront sans pitié.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "28005023",
+    "b": 28,
+    "c": 5,
+    "v": 23,
+    "t": "Un vent terrible se lèvera contre eux et les emportera comme une tornade. Ainsi, toute la terre deviendra un désert par la faute des gens qui agissent mal. Le pouvoir des rois sera renversé à cause de leurs mauvaises actions.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "28006001",
+    "b": 28,
+    "c": 6,
+    "v": 1,
+    "t": "Écoutez donc, vous les rois, et comprenez ! Laissez-vous instruire, vous les dirigeants du monde !",
+    "h": "LOUANGE DE LA SAGESSE\n  6–9\nLes rois doivent rechercher la sagesse",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "28006002",
+    "b": 28,
+    "c": 6,
+    "v": 2,
+    "t": "Tendez l’oreille, vous qui êtes les maîtres des foules, et qui êtes fiers de dominer un grand nombre de peuples.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "28006003",
+    "b": 28,
+    "c": 6,
+    "v": 3,
+    "t": "En effet, c’est le Seigneur qui vous a donné le pouvoir, c’est le Très-Haut qui vous a donné l’autorité. C’est lui qui examinera vos actes, qui regardera attentivement vos intentions.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "28006004",
+    "b": 28,
+    "c": 6,
+    "v": 4,
+    "t": "Oui, vous êtes au service de son pouvoir royal. Pourtant, vous n’avez pas jugé avec justice. Vous n’avez pas respecté la loi ni agi selon la volonté de Dieu.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "28006005",
+    "b": 28,
+    "c": 6,
+    "v": 5,
+    "t": "Eh bien, le Seigneur va se dresser devant vous tout à coup d’une façon effrayante, il jugera les gens importants très sévèrement.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "28006006",
+    "b": 28,
+    "c": 6,
+    "v": 6,
+    "t": "En effet, par bonté, on pardonne aux gens simples, mais les gens puissants seront traités sans faiblesse.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "28006007",
+    "b": 28,
+    "c": 6,
+    "v": 7,
+    "t": "En effet, le Maître de tous ne recule devant personne, la grandeur ne l’influence pas. C’est lui qui a créé les petits et les grands, et il s’occupe de tous de la même manière.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "28006008",
+    "b": 28,
+    "c": 6,
+    "v": 8,
+    "t": "Mais il mène une enquête sévère sur ceux qui possèdent la force.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "28006009",
+    "b": 28,
+    "c": 6,
+    "v": 9,
+    "t": "C’est donc à vous, les rois, que je parle. Apprenez la sagesse et ne commettez pas de péchés.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "28006010",
+    "b": 28,
+    "c": 6,
+    "v": 10,
+    "t": "Ceux qui obéissent parfaitement aux lois sacrées seront reconnus comme appartenant à Dieu. Ceux qui se laissent instruire par elles pourront se défendre quand ils seront jugés.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "28006011",
+    "b": 28,
+    "c": 6,
+    "v": 11,
+    "t": "Alors, écoutez bien mon enseignement, désirez-le du fond du cœur, et vous serez vraiment instruits.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "28006012",
+    "b": 28,
+    "c": 6,
+    "v": 12,
+    "t": "La Sagesse est brillante, elle ne perd pas sa lumière. Elle se laisse admirer par ceux qui l’aiment. Elle se laisse trouver par ceux qui la cherchent.",
+    "h": "La Sagesse vient à la rencontre de ceux qui la cherchent",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "28006013",
+    "b": 28,
+    "c": 6,
+    "v": 13,
+    "t": "Elle vient à la rencontre de ceux qui la désirent, elle se fait connaître la première.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "28006014",
+    "b": 28,
+    "c": 6,
+    "v": 14,
+    "t": "Celui qui se lève tôt pour la chercher ne se fatiguera pas : il la trouvera assise à sa porte.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "28006015",
+    "b": 28,
+    "c": 6,
+    "v": 15,
+    "t": "Celui qui ne pense qu’à la Sagesse montre une intelligence parfaite. Celui qui passe des soirées à l’étudier sera vite libéré de tout souci.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "28006016",
+    "b": 28,
+    "c": 6,
+    "v": 16,
+    "t": "En effet, elle va chercher partout ceux qui sont dignes d’elle. Elle leur apparaît avec bonté sur leur chemin. Chaque fois qu’ils pensent à elle, elle vient à leur rencontre.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "28006017",
+    "b": 28,
+    "c": 6,
+    "v": 17,
+    "t": "Le commencement de la Sagesse, c’est le désir sincère de recevoir son enseignement.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "28006018",
+    "b": 28,
+    "c": 6,
+    "v": 18,
+    "t": "Désirer son enseignement, c’est l’aimer. Aimer la Sagesse, c’est obéir à ses lois. Respecter ses lois, c’est être sûr qu’on ne mourra jamais.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "28006019",
+    "b": 28,
+    "c": 6,
+    "v": 19,
+    "t": "Et ne pas mourir, c’est être près de Dieu.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "28006020",
+    "b": 28,
+    "c": 6,
+    "v": 20,
+    "t": "Ainsi, désirer la Sagesse conduit à devenir roi.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "28006021",
+    "b": 28,
+    "c": 6,
+    "v": 21,
+    "t": "Si donc vous, les rois des peuples, vous aimez commander et dominer, honorez la Sagesse, et vous serez rois pour toujours.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "28006022",
+    "b": 28,
+    "c": 6,
+    "v": 22,
+    "t": "Mais qu’est-ce que la Sagesse ? D’où vient-elle ? Je vais vous le dire sans vous cacher aucun secret. Je partirai du début de son existence. Je présenterai en pleine lumière tout ce qu’il faut connaître d’elle, sans m’éloigner de la vérité.",
+    "h": "Qu’est-ce que la Sagesse ?",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "28006023",
+    "b": 28,
+    "c": 6,
+    "v": 23,
+    "t": "Je ne me laisserai pas guider par l’envie qui détruit. En effet, l’envie n’a rien de commun avec la Sagesse.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "28006024",
+    "b": 28,
+    "c": 6,
+    "v": 24,
+    "t": "Un grand nombre de sages sauve le monde, un roi intelligent assure le bonheur de son peuple.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "28006025",
+    "b": 28,
+    "c": 6,
+    "v": 25,
+    "t": "Laissez-vous instruire par mes paroles, cela vous rendra service.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "28007001",
+    "b": 28,
+    "c": 7,
+    "v": 1,
+    "t": "Je suis, moi aussi, un homme qui doit mourir, comme tous les humains. Je viens du premier être humain, formé à partir de la poussière du sol. Je suis né de la semence d’un homme, dans le plaisir de l’amour. Mon corps s’est formé dans le ventre de ma mère. Pendant neuf mois, son sang m’a rendu solide.",
+    "h": "Les rois naissent de la même manière que tous les humains",
+    "o": 1,
+    "l": "1-2"
+  },
+  {
+    "id": "28007002",
+    "b": 28,
+    "c": 7,
+    "v": 3,
+    "t": "À ma naissance, je suis arrivé sur la terre qui nous reçoit tous de la même manière, et j’ai respiré l’air que nous respirons tous. Comme les autres bébés, j’ai poussé mon premier cri en pleurant.",
+    "h": "",
+    "o": 2,
+    "l": "3"
+  },
+  {
+    "id": "28007003",
+    "b": 28,
+    "c": 7,
+    "v": 4,
+    "t": "On m’a habillé, nourri et entouré de soins.",
+    "h": "",
+    "o": 3,
+    "l": "4"
+  },
+  {
+    "id": "28007004",
+    "b": 28,
+    "c": 7,
+    "v": 5,
+    "t": "Aucun roi n’a commencé sa vie autrement.",
+    "h": "",
+    "o": 4,
+    "l": "5"
+  },
+  {
+    "id": "28007005",
+    "b": 28,
+    "c": 7,
+    "v": 6,
+    "t": "Pour tous les humains, il y a une seule façon d’entrer dans la vie et une seule façon d’en sortir.",
+    "h": "",
+    "o": 5,
+    "l": "6"
+  },
+  {
+    "id": "28007006",
+    "b": 28,
+    "c": 7,
+    "v": 7,
+    "t": "C’est pourquoi j’ai prié, et Dieu m’a donné l’intelligence. J’ai supplié, et l’esprit de la Sagesse est venu en moi.",
+    "h": "L’amour pour la Sagesse",
+    "o": 6,
+    "l": "7"
+  },
+  {
+    "id": "28007007",
+    "b": 28,
+    "c": 7,
+    "v": 8,
+    "t": "Je l’ai trouvée plus importante qu’un siège royal ou que le pouvoir d’un roi. Pour moi, la richesse ne vaut rien à côté de la Sagesse.",
+    "h": "",
+    "o": 7,
+    "l": "8"
+  },
+  {
+    "id": "28007008",
+    "b": 28,
+    "c": 7,
+    "v": 9,
+    "t": "Je ne la compare même pas à la pierre la plus précieuse. En effet, à côté d’elle, tout l’or du monde n’est qu’un peu de sable. En face d’elle, l’argent a aussi peu de valeur que la boue.",
+    "h": "",
+    "o": 8,
+    "l": "9"
+  },
+  {
+    "id": "28007009",
+    "b": 28,
+    "c": 7,
+    "v": 10,
+    "t": "J’ai aimé la Sagesse plus que la santé et la beauté. Je l’ai préférée à la lumière, parce que sa clarté ne s’éteint pas.",
+    "h": "",
+    "o": 9,
+    "l": "10"
+  },
+  {
+    "id": "28007010",
+    "b": 28,
+    "c": 7,
+    "v": 11,
+    "t": "Elle m’a apporté tous les biens à la fois. Elle tenait dans ses mains une richesse immense.",
+    "h": "",
+    "o": 10,
+    "l": "11"
+  },
+  {
+    "id": "28007011",
+    "b": 28,
+    "c": 7,
+    "v": 12,
+    "t": "J’ai goûté à tous les biens de la Sagesse, car c’est elle qui les apporte. Pourtant, j’ignorais encore qu’elle en était la source.",
+    "h": "",
+    "o": 11,
+    "l": "12"
+  },
+  {
+    "id": "28007012",
+    "b": 28,
+    "c": 7,
+    "v": 13,
+    "t": "Ce que j’ai appris d’elle avec un cœur droit, je le partage volontiers, je ne cache pas sa richesse.",
+    "h": "",
+    "o": 12,
+    "l": "13"
+  },
+  {
+    "id": "28007013",
+    "b": 28,
+    "c": 7,
+    "v": 14,
+    "t": "En effet, la Sagesse est pour les humains un trésor qui les enrichit sans cesse. Tous ceux qui le possèdent sont aimés de Dieu. Et les bienfaits de l’éducation les rendent agréables à ses yeux.",
+    "h": "",
+    "o": 13,
+    "l": "14"
+  },
+  {
+    "id": "28007014",
+    "b": 28,
+    "c": 7,
+    "v": 15,
+    "t": "Dieu conduit la Sagesse et il dirige les sages. Qu’il me donne alors de parler en réfléchissant et de penser d’une façon digne des dons reçus.",
+    "h": "Dieu est la source de toute connaissance",
+    "o": 14,
+    "l": "15"
+  },
+  {
+    "id": "28007015",
+    "b": 28,
+    "c": 7,
+    "v": 16,
+    "t": "Oui, nous sommes sous son pouvoir, nous et nos paroles, ainsi que toute notre intelligence et toute notre habileté.",
+    "h": "",
+    "o": 15,
+    "l": "16"
+  },
+  {
+    "id": "28007016",
+    "b": 28,
+    "c": 7,
+    "v": 17,
+    "t": "C’est Dieu qui m’a donné une connaissance exacte de tout ce qui existe. Il m’a appris comment le monde est composé et comment agissent l’air, l’eau, le feu, la terre.",
+    "h": "",
+    "o": 16,
+    "l": "17"
+  },
+  {
+    "id": "28007017",
+    "b": 28,
+    "c": 7,
+    "v": 18,
+    "t": "Il m’a appris aussi l’organisation du temps, les déplacements du soleil et les changements de saisons,",
+    "h": "",
+    "o": 17,
+    "l": "18"
+  },
+  {
+    "id": "28007018",
+    "b": 28,
+    "c": 7,
+    "v": 19,
+    "t": "le retour des années et les positions des astres,",
+    "h": "",
+    "o": 18,
+    "l": "19"
+  },
+  {
+    "id": "28007019",
+    "b": 28,
+    "c": 7,
+    "v": 20,
+    "t": "la nature des animaux et les réactions des bêtes sauvages. Il m’a appris encore la puissance des esprits et les raisonnements des humains, les espèces de plantes et le pouvoir guérisseur de leurs racines.",
+    "h": "",
+    "o": 19,
+    "l": "20"
+  },
+  {
+    "id": "28007020",
+    "b": 28,
+    "c": 7,
+    "v": 21,
+    "t": "Je connais à la fois tout ce qui est caché et tout ce qu’on peut voir. En effet, c’est la Sagesse qui m’a enseigné cela, elle qui a fait toutes choses.",
+    "h": "",
+    "o": 20,
+    "l": "21"
+  },
+  {
+    "id": "28007021",
+    "b": 28,
+    "c": 7,
+    "v": 22,
+    "t": "La Sagesse possède un esprit intelligent et saint. Il est unique et agit pourtant de mille manières. Il est fin et mobile, sans tache et clair, il comprend tout. Le mal ne peut le toucher, il aime le bien et il est vif.",
+    "h": "Les qualités de la Sagesse",
+    "o": 21,
+    "l": "22"
+  },
+  {
+    "id": "28007022",
+    "b": 28,
+    "c": 7,
+    "v": 23,
+    "t": "Il ne se laisse arrêter par rien, il fait du bien, il aime les humains, il est solide, sûr et tranquille. Il peut tout, surveille tout, pénètre tous les esprits intelligents et purs, même les plus fins.",
+    "h": "",
+    "o": 22,
+    "l": "23"
+  },
+  {
+    "id": "28007023",
+    "b": 28,
+    "c": 7,
+    "v": 24,
+    "t": "Car la Sagesse est plus rapide que tout ce qui se déplace. Elle traverse tout et pénètre tout parce qu’elle est pure.",
+    "h": "",
+    "o": 23,
+    "l": "24"
+  },
+  {
+    "id": "28007024",
+    "b": 28,
+    "c": 7,
+    "v": 25,
+    "t": "En effet, elle est un souffle de la puissance de Dieu, elle sort directement de la gloire du Tout-Puissant. C’est pourquoi rien d’impur ne peut entrer en elle.",
+    "h": "",
+    "o": 24,
+    "l": "25"
+  },
+  {
+    "id": "28007025",
+    "b": 28,
+    "c": 7,
+    "v": 26,
+    "t": "Elle est un reflet de la lumière qui dure toujours, un miroir sans tache de l’action de Dieu, une image de sa bonté.",
+    "h": "",
+    "o": 25,
+    "l": "26"
+  },
+  {
+    "id": "28007026",
+    "b": 28,
+    "c": 7,
+    "v": 27,
+    "t": "Elle est seule et pourtant, elle peut tout. Elle ne change jamais et pourtant, elle renouvelle toutes choses. De génération en génération, elle passe dans les personnes qui appartiennent à Dieu, pour en faire des amis de Dieu et des prophètes.",
+    "h": "",
+    "o": 26,
+    "l": "27"
+  },
+  {
+    "id": "28007027",
+    "b": 28,
+    "c": 7,
+    "v": 28,
+    "t": "En effet, Dieu aime seulement ceux qui sont unis à la Sagesse.",
+    "h": "",
+    "o": 27,
+    "l": "28"
+  },
+  {
+    "id": "28007028",
+    "b": 28,
+    "c": 7,
+    "v": 29,
+    "t": "Oui, la Sagesse est plus belle que le soleil, plus lumineuse que toutes les étoiles. Comparée à la lumière du jour, elle la dépasse,",
+    "h": "",
+    "o": 28,
+    "l": "29"
+  },
+  {
+    "id": "28007029",
+    "b": 28,
+    "c": 7,
+    "v": 30,
+    "t": "car le jour laisse place à la nuit. Mais la Sagesse ne disparaît jamais devant le mal.",
+    "h": "",
+    "o": 29,
+    "l": "30"
+  },
+  {
+    "id": "28008001",
+    "b": 28,
+    "c": 8,
+    "v": 1,
+    "t": "Elle répand sa puissance d’un bout du monde à l’autre et dirige toutes choses avec bonté.",
+    "h": "",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "28008002",
+    "b": 28,
+    "c": 8,
+    "v": 2,
+    "t": "C’est la Sagesse que j’ai aimée et recherchée depuis ma jeunesse. Je suis devenu amoureux de sa beauté et j’ai voulu la prendre pour femme.",
+    "h": "La Sagesse, la meilleure femme du monde",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "28008003",
+    "b": 28,
+    "c": 8,
+    "v": 3,
+    "t": "Elle montre clairement sa glorieuse naissance, car elle partage la vie de Dieu, et elle est aimée du Maître de toutes choses.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "28008004",
+    "b": 28,
+    "c": 8,
+    "v": 4,
+    "t": "En effet, Dieu lui a fait connaître sa science cachée, alors elle décide ce qu’il va faire.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "28008005",
+    "b": 28,
+    "c": 8,
+    "v": 5,
+    "t": "Dans la vie, la richesse est un bien qu’on désire. Mais est-ce qu’il y a quelque chose de plus riche que la Sagesse, elle qui fait toutes choses ?",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "28008006",
+    "b": 28,
+    "c": 8,
+    "v": 6,
+    "t": "L’intelligence est active, mais est-ce que la Sagesse n’agit pas davantage, elle qui fabrique tout ce qui existe ?",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "28008007",
+    "b": 28,
+    "c": 8,
+    "v": 7,
+    "t": "Est-ce que vous aimez ce qui est droit ? Eh bien, c’est la Sagesse qui est la source des habitudes bonnes. En effet, elle apprend la maîtrise de soi et le jugement droit, la justice et le courage. Dans la vie, il n’y a rien de plus utile aux gens.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "28008008",
+    "b": 28,
+    "c": 8,
+    "v": 8,
+    "t": "Est-ce que vous désirez profiter d’une longue expérience ? La Sagesse connaît le passé et imagine l’avenir. Elle sait interpréter les paroles compliquées et comprendre les choses difficiles. Elle prévoit les faits étonnants et extraordinaires, ainsi que les différentes époques de l’histoire.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "28008009",
+    "b": 28,
+    "c": 8,
+    "v": 9,
+    "t": "J’ai donc décidé de prendre la Sagesse comme compagne de ma vie. En effet, je le sais, elle me conseillera pour faire le bien et elle m’encouragera dans les difficultés ou les moments tristes.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "28008010",
+    "b": 28,
+    "c": 8,
+    "v": 10,
+    "t": "Je me suis dit : « Grâce à elle, je deviendrai célèbre parmi les foules, et les gens âgés me respecteront malgré ma jeunesse.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "28008011",
+    "b": 28,
+    "c": 8,
+    "v": 11,
+    "t": "Quand je rendrai la justice, on reconnaîtra la profondeur de mon jugement, et devant les gens importants, je serai admiré.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "28008012",
+    "b": 28,
+    "c": 8,
+    "v": 12,
+    "t": "Quand je me tairai, ils attendront, quand je parlerai, ils seront attentifs. Si je parle longtemps, ils écouteront avec respect en mettant la main sur leur bouche.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "28008013",
+    "b": 28,
+    "c": 8,
+    "v": 13,
+    "t": "Grâce à la Sagesse, je ne connaîtrai pas la mort, ceux qui viendront après moi se souviendront toujours de moi.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "28008014",
+    "b": 28,
+    "c": 8,
+    "v": 14,
+    "t": "Je gouvernerai des peuples, des nations seront sous mon pouvoir.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "28008015",
+    "b": 28,
+    "c": 8,
+    "v": 15,
+    "t": "En entendant parler de moi, des rois terribles auront peur. Je me montrerai bon avec mon peuple et courageux à la guerre.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "28008016",
+    "b": 28,
+    "c": 8,
+    "v": 16,
+    "t": "De retour chez moi, je me reposerai auprès de la Sagesse, car rien n’est amer en sa compagnie. Avec elle, personne n’est triste, mais tout le monde ressent du plaisir et de la joie. »",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "28008017",
+    "b": 28,
+    "c": 8,
+    "v": 17,
+    "t": "J’ai réfléchi à tout cela en moi-même. Dans mon cœur, j’ai compris ceci : quand on est uni à la Sagesse, on ne connaît pas la mort.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "28008018",
+    "b": 28,
+    "c": 8,
+    "v": 18,
+    "t": "Quand elle donne son amitié à quelqu’un, il goûte au bonheur parfait. Quand elle agit, elle produit une richesse qui n’a pas de fin. En la fréquentant régulièrement, on devient intelligent. En parlant avec elle, on devient célèbre. C’est pourquoi je suis parti à sa recherche afin de la prendre pour moi.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "28008019",
+    "b": 28,
+    "c": 8,
+    "v": 19,
+    "t": "J’étais un bel enfant, et j’avais reçu une âme bonne.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "28008020",
+    "b": 28,
+    "c": 8,
+    "v": 20,
+    "t": "Ou plus exactement, parce que j’étais bon, je suis entré dans un corps sans tache.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "28008021",
+    "b": 28,
+    "c": 8,
+    "v": 21,
+    "t": "Mais j’ai compris que je ne posséderais la Sagesse que si Dieu me la donnait. Savoir qui la donne, c’est déjà être intelligent. Aussi je me suis tourné vers le Seigneur pour le prier de tout mon cœur.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "28009001",
+    "b": 28,
+    "c": 9,
+    "v": 1,
+    "t": "« Dieu de mes ancêtres, Seigneur plein de tendresse, tu as fait l’univers par ta parole.",
+    "h": "Prière pour avoir la Sagesse",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "28009002",
+    "b": 28,
+    "c": 9,
+    "v": 2,
+    "t": "Tu as formé les humains par ta Sagesse pour qu’ils soient maîtres de tout ce que tu as créé.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "28009003",
+    "b": 28,
+    "c": 9,
+    "v": 3,
+    "t": "Tu leur as demandé de gouverner le monde selon ta volonté et avec justice, de rendre des jugements avec un cœur droit.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "28009004",
+    "b": 28,
+    "c": 9,
+    "v": 4,
+    "t": "Donne-moi la Sagesse assise près de toi sur ton siège royal. Ne me chasse pas, permets que je reste toujours ton enfant.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "28009005",
+    "b": 28,
+    "c": 9,
+    "v": 5,
+    "t": "En effet, je suis ton serviteur, le fils de ta servante, un homme faible, à la vie courte, peu capable de comprendre la justice et les lois.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "28009006",
+    "b": 28,
+    "c": 9,
+    "v": 6,
+    "t": "D’ailleurs, même si un être humain est parfait, s’il ne possède pas la Sagesse qui vient de toi, on le comptera pour rien.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "28009007",
+    "b": 28,
+    "c": 9,
+    "v": 7,
+    "t": "C’est toi qui m’as choisi pour être roi de ton peuple, pour juger tes fils et tes filles.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "28009008",
+    "b": 28,
+    "c": 9,
+    "v": 8,
+    "t": "Tu m’as commandé de construire un temple sur ta montagne sacrée, un autel dans la ville où tu habites. Je devais prendre comme modèle la tente sacrée que tu avais préparée depuis le commencement.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "28009009",
+    "b": 28,
+    "c": 9,
+    "v": 9,
+    "t": "« La Sagesse se tient auprès de toi. Elle connaît ce que tu fais. Elle était là quand tu as créé le monde. Elle sait ce qui te plaît et ce qui est en accord avec tes commandements.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "28009010",
+    "b": 28,
+    "c": 9,
+    "v": 10,
+    "t": "Fais-la descendre du ciel où tu es, envoie-la depuis ton siège glorieux. Alors elle m’aidera dans mes travaux et me fera connaître ce qui te plaît.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "28009011",
+    "b": 28,
+    "c": 9,
+    "v": 11,
+    "t": "Oui, elle sait tout, elle comprend tout. Elle me guidera intelligemment dans mes actions, elle me protégera par sa lumière éclatante.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "28009012",
+    "b": 28,
+    "c": 9,
+    "v": 12,
+    "t": "Alors mes actions te plairont, Seigneur. Je jugerai ton peuple avec justice et je serai digne de m’asseoir sur le siège de mon père.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "28009013",
+    "b": 28,
+    "c": 9,
+    "v": 13,
+    "t": "– Quel être humain peut comprendre la volonté de Dieu ? Qui peut imaginer les intentions du Seigneur ?",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "28009014",
+    "b": 28,
+    "c": 9,
+    "v": 14,
+    "t": "Oui, les pensées de gens qui doivent mourir sont peu sûres, et nos réflexions ne sont pas solides.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "28009015",
+    "b": 28,
+    "c": 9,
+    "v": 15,
+    "t": "En effet, notre corps qui doit pourrir pèse sur notre âme. Cette enveloppe faite à partir de la terre est une charge pour l’esprit et lui donne de nombreux soucis.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "28009016",
+    "b": 28,
+    "c": 9,
+    "v": 16,
+    "t": "Nous avons du mal à nous représenter ce qui existe sur la terre, nous trouvons difficilement ce qui est près de nous. Alors, qui est capable de découvrir ce qui existe dans le ciel ? –",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "28009017",
+    "b": 28,
+    "c": 9,
+    "v": 17,
+    "t": "Seigneur, si quelqu’un connaît ta volonté, c’est que tu lui as donné la Sagesse, tu lui as envoyé d’en haut ton esprit saint.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "28009018",
+    "b": 28,
+    "c": 9,
+    "v": 18,
+    "t": "Ainsi, les habitants de la terre sont revenus sur un chemin droit, ainsi les êtres humains ont appris ce qui te plaît, et la Sagesse les a sauvés. »",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "28010001",
+    "b": 28,
+    "c": 10,
+    "v": 1,
+    "t": "La Sagesse a protégé le père du monde formé le premier, lui qui avait été créé seul. Ensuite, quand il est tombé dans le péché, c’est la Sagesse qui l’a tiré de là",
+    "h": "LA SAGESSE ET L’HISTOIRE DU PEUPLE DE DIEU\n  10–19\nD’Adam à Joseph",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "28010002",
+    "b": 28,
+    "c": 10,
+    "v": 2,
+    "t": "et lui a donné le pouvoir d’être maître de tout.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "28010003",
+    "b": 28,
+    "c": 10,
+    "v": 3,
+    "t": "Mais dans sa colère, un homme mauvais s’est détourné de la Sagesse. Et il est mort parce que, dans sa fureur, il a tué son frère.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "28010004",
+    "b": 28,
+    "c": 10,
+    "v": 4,
+    "t": "La terre a été inondée à cause de lui, mais c’est la Sagesse qui l’a sauvée. Dans un simple bateau en bois, elle a conduit sur l’eau l’homme qui obéissait à Dieu.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "28010005",
+    "b": 28,
+    "c": 10,
+    "v": 5,
+    "t": "Quand les peuples ont été d’accord pour faire le mal, ils ont été punis et ils ne pouvaient plus se comprendre. Alors la Sagesse a trouvé un homme fidèle à Dieu et elle l’a gardé sans défaut. Elle lui a donné la force d’obéir à Dieu malgré sa tendresse pour son fils.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "28010006",
+    "b": 28,
+    "c": 10,
+    "v": 6,
+    "t": "Au moment où des gens qui méprisaient Dieu sont morts, c’est encore la Sagesse qui a délivré un homme obéissant à Dieu. Il a pu fuir devant le feu qui est tombé sur cinq villes.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "28010007",
+    "b": 28,
+    "c": 10,
+    "v": 7,
+    "t": "On peut encore voir aujourd’hui les traces qui restent de leur méchanceté : une terre sèche qui continue de fumer, des arbres portant des fruits qui ne mûrissent jamais, et une statue de sel dressée en souvenir d’une femme qui a refusé de croire.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "28010008",
+    "b": 28,
+    "c": 10,
+    "v": 8,
+    "t": "Car ces gens se sont éloignés du chemin de la Sagesse. Alors ils ont souffert de ne pas connaître le bien. De plus, ils ont laissé un souvenir de leur folie. Ainsi, leurs erreurs ne pourront pas être oubliées.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "28010009",
+    "b": 28,
+    "c": 10,
+    "v": 9,
+    "t": "Mais la Sagesse a délivré de leurs malheurs ceux qui la servaient.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "28010010",
+    "b": 28,
+    "c": 10,
+    "v": 10,
+    "t": "Un homme obéissant à Dieu a dû fuir pour échapper à son frère qui était en colère contre lui. La Sagesse l’a conduit sur un chemin droit. Elle lui a montré le royaume de Dieu et lui a fait connaître les choses saintes. Elle a fait réussir son dur travail, elle a vraiment récompensé ses efforts.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "28010011",
+    "b": 28,
+    "c": 10,
+    "v": 11,
+    "t": "Alors des gens aimant la richesse ont cherché à profiter de lui. Mais la Sagesse l’a aidé et elle l’a rendu riche.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "28010012",
+    "b": 28,
+    "c": 10,
+    "v": 12,
+    "t": "Elle l’a protégé contre ses ennemis et l’a sauvé de ceux qui lui tendaient des pièges. Elle lui a donné la victoire pendant un dur combat. Ainsi, il a appris que la fidélité à Dieu est plus puissante que tout.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "28010013",
+    "b": 28,
+    "c": 10,
+    "v": 13,
+    "t": "Quand un autre homme qui obéissait à Dieu a été vendu, la Sagesse ne l’a pas abandonné, mais elle l’a arraché au péché.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "28010014",
+    "b": 28,
+    "c": 10,
+    "v": 14,
+    "t": "Elle est descendue avec lui dans le puits, elle ne l’a pas abandonné quand il a été mis en prison. Mais elle lui a donné le pouvoir d’un roi, et grâce à elle, ceux qui l’avaient fait souffrir durement ont été mis sous ses ordres. Ainsi, la Sagesse a prouvé que ceux qui avaient accusé faussement cet homme étaient des menteurs, et elle l’a rendu célèbre pour toujours.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "28010015",
+    "b": 28,
+    "c": 10,
+    "v": 15,
+    "t": "La Sagesse a délivré de la nation qui le dominait le peuple sans défaut qui appartient à Dieu.",
+    "h": "Les événements de la sortie d’Égypte (Première partie)\na. La sortie d’Égypte",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "28010016",
+    "b": 28,
+    "c": 10,
+    "v": 16,
+    "t": "La Sagesse est entrée dans le cœur d’un serviteur du Seigneur et elle s’est opposée à des rois terribles par des actions extraordinaires.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "28010017",
+    "b": 28,
+    "c": 10,
+    "v": 17,
+    "t": "Elle a donné à ceux qui appartiennent à Dieu la récompense de leurs durs travaux et les a conduits sur un chemin merveilleux. Elle est devenue pour eux un abri pendant le jour et comme la lumière des étoiles pendant la nuit.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "28010018",
+    "b": 28,
+    "c": 10,
+    "v": 18,
+    "t": "Elle leur a fait traverser la mer Rouge et les a conduits à travers l’eau immense.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "28010019",
+    "b": 28,
+    "c": 10,
+    "v": 19,
+    "t": "Elle a noyé leurs ennemis, puis, du fond de la mer, elle les a rejetés sur les bords.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "28010020",
+    "b": 28,
+    "c": 10,
+    "v": 20,
+    "t": "Alors ceux qui obéissaient à Dieu ont pu prendre les biens des gens qui le méprisaient. Ils ont chanté ton saint nom, Seigneur, ils ont rendu gloire tous ensemble à ta puissance qui les avait défendus.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "28010021",
+    "b": 28,
+    "c": 10,
+    "v": 21,
+    "t": "Oui, la Sagesse a ouvert la bouche des muets, elle a permis que même les tout-petits parlent clairement.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "28011001",
+    "b": 28,
+    "c": 11,
+    "v": 1,
+    "t": "Grâce à la Sagesse, ceux qui appartiennent à Dieu ont réussi tout ce qu’ils ont fait avec l’aide d’un saint prophète.",
+    "h": "",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "28011002",
+    "b": 28,
+    "c": 11,
+    "v": 2,
+    "t": "Ils ont traversé un désert sans habitants. Ils ont planté leurs tentes dans des endroits où personne ne pouvait aller.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "28011003",
+    "b": 28,
+    "c": 11,
+    "v": 3,
+    "t": "Ils ont résisté à leurs ennemis et repoussé leurs adversaires.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "28011004",
+    "b": 28,
+    "c": 11,
+    "v": 4,
+    "t": "Ils avaient soif, ils t’ont appelé à leur secours, Seigneur. Alors grâce à toi, un rocher pointu leur a donné de l’eau, une pierre dure a fourni un remède pour calmer leur soif.",
+    "h": "b. L’eau du rocher et l’eau du fleuve",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "28011005",
+    "b": 28,
+    "c": 11,
+    "v": 5,
+    "t": "Ainsi, l’eau qui avait servi à punir leurs ennemis est devenue pour eux un bienfait dans leur malheur.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "28011006",
+    "b": 28,
+    "c": 11,
+    "v": 6,
+    "t": "Ces ennemis avaient donné l’ordre de tuer les bébés. Pour les punir, tu as troublé l’eau de leur fleuve qui n’arrête jamais de couler, par du sang mélangé à la boue. Mais à ceux qui t’appartiennent, tu as donné une eau abondante qu’ils n’attendaient plus.",
+    "h": "",
+    "o": 6,
+    "l": "6-7"
+  },
+  {
+    "id": "28011007",
+    "b": 28,
+    "c": 11,
+    "v": 8,
+    "t": "Par la soif qu’ils ont connue alors, tu leur as montré comment tu avais puni leurs ennemis.",
+    "h": "",
+    "o": 7,
+    "l": "8"
+  },
+  {
+    "id": "28011008",
+    "b": 28,
+    "c": 11,
+    "v": 9,
+    "t": "Oui, tu les as mis à l’épreuve, tout en les corrigeant avec bonté. Mais par là, ils ont compris les souffrances des gens que tu juges avec colère parce qu’ils te méprisent.",
+    "h": "",
+    "o": 8,
+    "l": "9"
+  },
+  {
+    "id": "28011009",
+    "b": 28,
+    "c": 11,
+    "v": 10,
+    "t": "Eux, tu les as mis à l’épreuve comme un père qui veut avertir ses enfants. Mais à leurs ennemis, tu as demandé des comptes comme un roi qui punit très sévèrement.",
+    "h": "",
+    "o": 9,
+    "l": "10"
+  },
+  {
+    "id": "28011010",
+    "b": 28,
+    "c": 11,
+    "v": 11,
+    "t": "Près des tiens ou loin d’eux, leur ennemis souffraient de la même façon.",
+    "h": "",
+    "o": 10,
+    "l": "11"
+  },
+  {
+    "id": "28011011",
+    "b": 28,
+    "c": 11,
+    "v": 12,
+    "t": "Ainsi ils étaient tristes pour deux raisons. D’abord, ils gémissaient en se souvenant des malheurs passés.",
+    "h": "",
+    "o": 11,
+    "l": "12"
+  },
+  {
+    "id": "28011012",
+    "b": 28,
+    "c": 11,
+    "v": 13,
+    "t": "Ensuite, ils voyaient cela : les malheurs qui les avaient punis étaient devenus un bienfait pour les autres. Alors ils ont compris que tu avais agi toi-même, Seigneur.",
+    "h": "",
+    "o": 12,
+    "l": "13"
+  },
+  {
+    "id": "28011013",
+    "b": 28,
+    "c": 11,
+    "v": 14,
+    "t": "Celui qu’ils avaient rejeté en le laissant sur l’eau, ils l’ont chassé en se moquant de lui. Mais après ces événements, ils ont souffert de la soif d’une autre façon que ceux qui obéissaient à Dieu. Alors, ils étaient dans l’admiration.",
+    "h": "",
+    "o": 13,
+    "l": "14"
+  },
+  {
+    "id": "28011014",
+    "b": 28,
+    "c": 11,
+    "v": 15,
+    "t": "Ces gens-là étaient méchants, alors ils avaient des idées stupides et mauvaises qui les perdaient. En effet, elles leur faisaient adorer des serpents sans intelligence, et des bêtes de rien du tout. Pour les punir, Seigneur, tu leur as envoyé de nombreux animaux sans intelligence.",
+    "h": "c. Dieu punit les Égyptiens avec mesure",
+    "o": 14,
+    "l": "15"
+  },
+  {
+    "id": "28011015",
+    "b": 28,
+    "c": 11,
+    "v": 16,
+    "t": "Par là, ils devaient apprendre qu’on est puni par où on a péché.",
+    "h": "",
+    "o": 15,
+    "l": "16"
+  },
+  {
+    "id": "28011016",
+    "b": 28,
+    "c": 11,
+    "v": 17,
+    "t": "C’est ta main toute-puissante qui a créé le monde sans effort à partir d’une matière sans forme. Ainsi, tu pouvais facilement envoyer contre eux une grande quantité d’animaux féroces, ours ou lions.",
+    "h": "",
+    "o": 16,
+    "l": "17"
+  },
+  {
+    "id": "28011017",
+    "b": 28,
+    "c": 11,
+    "v": 18,
+    "t": "Tu pouvais aussi créer de nouvelles espèces de bêtes, inconnues et remplies de colère, des êtres capables de cracher du feu, ou de répandre de la fumée en rugissant, ou encore de lancer des éclairs terribles avec leurs yeux.",
+    "h": "",
+    "o": 17,
+    "l": "18"
+  },
+  {
+    "id": "28011018",
+    "b": 28,
+    "c": 11,
+    "v": 19,
+    "t": "Ces bêtes pouvaient non seulement détruire ces gens-là par leur cruauté, mais rien qu’en se montrant, elles pouvaient les faire mourir de peur.",
+    "h": "",
+    "o": 18,
+    "l": "19"
+  },
+  {
+    "id": "28011019",
+    "b": 28,
+    "c": 11,
+    "v": 20,
+    "t": "D’ailleurs, même sans cela, tu étais capable de les renverser d’un seul souffle, en envoyant ta justice contre eux et en les chassant par ton souffle puissant. Mais tu as tout organisé avec mesure, en calculant les choses et en les pesant.",
+    "h": "",
+    "o": 19,
+    "l": "20"
+  },
+  {
+    "id": "28011020",
+    "b": 28,
+    "c": 11,
+    "v": 21,
+    "t": "Seigneur, tu peux montrer ta grande puissance à tout moment, et personne ne peut résister à ton pouvoir.",
+    "h": "Dieu aime tout ce qu’il a créé",
+    "o": 20,
+    "l": "21"
+  },
+  {
+    "id": "28011021",
+    "b": 28,
+    "c": 11,
+    "v": 22,
+    "t": "Oui, pour toi, le monde entier est comme un grain de sable sur le plateau d’une balance, ou comme une goutte d’eau qui descend le matin sur la terre.",
+    "h": "",
+    "o": 21,
+    "l": "22"
+  },
+  {
+    "id": "28011022",
+    "b": 28,
+    "c": 11,
+    "v": 23,
+    "t": "Mais parce que tu peux tout faire, tu as pitié de tous. Tu fermes les yeux sur les péchés des humains pour leur donner le temps de changer leur vie.",
+    "h": "",
+    "o": 22,
+    "l": "23"
+  },
+  {
+    "id": "28011023",
+    "b": 28,
+    "c": 11,
+    "v": 24,
+    "t": "En effet, tu aimes tout ce qui existe, tu ne détestes rien de ce que tu as fait. Si tu avais de la haine pour quelque chose, tu ne l’aurais pas créé.",
+    "h": "",
+    "o": 23,
+    "l": "24"
+  },
+  {
+    "id": "28011024",
+    "b": 28,
+    "c": 11,
+    "v": 25,
+    "t": "Et comment une chose pourrait-elle durer si tu ne l’avais pas voulue ? Comment pourrait-elle continuer si tu ne l’avais pas appelée à exister ?",
+    "h": "",
+    "o": 24,
+    "l": "25"
+  },
+  {
+    "id": "28011025",
+    "b": 28,
+    "c": 11,
+    "v": 26,
+    "t": "Tu laisses en vie tout ce que tu as créé, parce que tout est à toi, Maître qui aimes la vie.",
+    "h": "",
+    "o": 25,
+    "l": "26"
+  },
+  {
+    "id": "28012001",
+    "b": 28,
+    "c": 12,
+    "v": 1,
+    "t": "Oui, ton esprit qui ne peut pas mourir habite en toutes choses.",
+    "h": "",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "28012002",
+    "b": 28,
+    "c": 12,
+    "v": 2,
+    "t": "C’est peu à peu que tu corriges ceux qui tombent dans le péché. Tu les avertis en leur rappelant leurs fautes. Alors ils peuvent s’éloigner du mal et croire en toi, Seigneur.",
+    "h": "Dieu punit les Cananéens avec mesure",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "28012003",
+    "b": 28,
+    "c": 12,
+    "v": 3,
+    "t": "Tu as agi de cette façon avec les anciens habitants de ta terre sainte.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "28012004",
+    "b": 28,
+    "c": 12,
+    "v": 4,
+    "t": "Tu les as détestés à cause de leurs actions horribles : sorcellerie, rites effrayants,",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "28012005",
+    "b": 28,
+    "c": 12,
+    "v": 5,
+    "t": "cruels sacrifices d’enfants, repas de fête où ils mangeaient la chair, le sang et même les entrailles d’êtres humains. Ces initiés faisaient partie de sociétés secrètes.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "28012006",
+    "b": 28,
+    "c": 12,
+    "v": 6,
+    "t": "Tu as voulu faire mourir par la main de nos ancêtres, ces gens qui tuaient leurs enfants sans défense.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "28012007",
+    "b": 28,
+    "c": 12,
+    "v": 7,
+    "t": "Tu voulais que ce pays, que tu aimes plus que tous les autres, accueille des enfants de Dieu, dignes de l’habiter.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "28012008",
+    "b": 28,
+    "c": 12,
+    "v": 8,
+    "t": "Pourtant, tu as eu pitié même de ces gens-là, parce qu’ils étaient des êtres humains. Tu as envoyé de grosses guêpes en avant de ton armée pour les faire disparaître peu à peu.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "28012009",
+    "b": 28,
+    "c": 12,
+    "v": 9,
+    "t": "Tu pouvais dans un seul combat livrer ces gens qui te méprisent au pouvoir de ceux qui t’obéissent. Tu pouvais aussi les faire disparaître d’un seul coup en leur envoyant des animaux féroces ou en donnant un ordre sans pitié.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "28012010",
+    "b": 28,
+    "c": 12,
+    "v": 10,
+    "t": "Mais tu as rendu ton jugement peu à peu, pour leur permettre de regretter leurs fautes. Pourtant, tu le savais : leur nature était mauvaise, ils étaient méchants depuis leur naissance, ils ne changeraient jamais d’idée.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "28012011",
+    "b": 28,
+    "c": 12,
+    "v": 11,
+    "t": "En effet, c’était une race maudite depuis le commencement. Si tu n’as pas puni leurs péchés, ce n’est pas parce que quelqu’un te faisait peur.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "28012012",
+    "b": 28,
+    "c": 12,
+    "v": 12,
+    "t": "En effet, qui peut te demander : « Qu’est-ce que tu fais ? » Qui peut aller contre ton jugement ? Qui peut porter plainte contre toi parce que tu as détruit des peuples que tu as créés ? Qui osera aller au tribunal pour défendre contre toi des gens mauvais ?",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "28012013",
+    "b": 28,
+    "c": 12,
+    "v": 13,
+    "t": "Personne, car en dehors de toi, il n’y a aucun dieu qui prenne soin de tous. Tu n’as pas besoin de montrer que tu ne juges pas de façon injuste.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "28012014",
+    "b": 28,
+    "c": 12,
+    "v": 14,
+    "t": "Aucun roi et aucun maître ne peut s’opposer à toi pour défendre ceux que tu punis.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "28012015",
+    "b": 28,
+    "c": 12,
+    "v": 15,
+    "t": "Tu es juste, Seigneur, c’est pourquoi tu gouvernes le monde avec justice. Le fait de condamner quelqu’un qui ne doit pas être puni, te semble contraire à ta puissance.",
+    "h": "Dieu gouverne le monde avec justice",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "28012016",
+    "b": 28,
+    "c": 12,
+    "v": 16,
+    "t": "En effet, ta force est la source de ta justice. Tu es bon envers tous, parce que tu es le Maître de tout.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "28012017",
+    "b": 28,
+    "c": 12,
+    "v": 17,
+    "t": "Tu montres ta force seulement à ceux qui ne croient pas que tu es tout-puissant. Tu fais taire ceux qui te provoquent, même s’ils connaissent ton pouvoir.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "28012018",
+    "b": 28,
+    "c": 12,
+    "v": 18,
+    "t": "Toi, tu es maître de ta force, tu juges avec mesure, tu nous gouvernes avec une grande douceur. En effet, tu peux agir quand tu veux.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "28012019",
+    "b": 28,
+    "c": 12,
+    "v": 19,
+    "t": "En agissant de cette façon, Seigneur, tu apprends ceci à ton peuple : celui qui t’obéit doit aimer les êtres humains. Tu as rempli tes enfants d’espérance, puisque tu leur fais regretter leurs fautes.",
+    "h": "Dieu donne une leçon à son peuple",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "28012020",
+    "b": 28,
+    "c": 12,
+    "v": 20,
+    "t": "Les ennemis de tes enfants ont mérité la mort. Pourtant, tu les as punis avec beaucoup de patience et d’indulgence. Tu voulais leur donner le temps et l’occasion d’abandonner leur méchanceté.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "28012021",
+    "b": 28,
+    "c": 12,
+    "v": 21,
+    "t": "Mais tu as jugé tes enfants avec une attention plus grande encore. C’est toi qui as fait alliance avec leurs ancêtres en leur promettant par serment toutes sortes de bienfaits.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "28012022",
+    "b": 28,
+    "c": 12,
+    "v": 22,
+    "t": "Pour nous donner une leçon, tu frappes nos ennemis de mille manières. Ainsi tu nous apprends à nous rappeler ta bonté quand nous jugeons les autres, et à compter sur ta pitié quand tu nous juges.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "28012023",
+    "b": 28,
+    "c": 12,
+    "v": 23,
+    "t": "Ceux qui, dans leur folie, ont mené une vie mauvaise, tu les as fait souffrir par les bêtes horribles qu’ils adoraient.",
+    "h": "Dieu punit ceux qui adorent des animaux",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "28012024",
+    "b": 28,
+    "c": 12,
+    "v": 24,
+    "t": "En effet, ils se sont perdus très loin sur le chemin de l’erreur. Ils ont pris comme dieux les animaux les plus laids et les plus méprisés. Ils se sont laissé tromper comme des bébés sans raison.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "28012025",
+    "b": 28,
+    "c": 12,
+    "v": 25,
+    "t": "Alors, comme à des enfants stupides, tu leur as envoyé une punition pour te moquer d’eux.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "28012026",
+    "b": 28,
+    "c": 12,
+    "v": 26,
+    "t": "Mais ceux qui n’ont pas compris cette punition légère, allaient supporter un jugement digne de Dieu.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "28012027",
+    "b": 28,
+    "c": 12,
+    "v": 27,
+    "t": "À cause de tout cela, le jugement qui les condamnait est tombé sur eux. Ces bêtes les faisaient souffrir, et ils étaient en colère contre elles. Ils étaient punis par les bêtes qui étaient pour eux comme des dieux. Alors ils ont vu clair et ils ont compris ceci : celui qu’ils avaient refusé autrefois de connaître était le vrai Dieu.",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "28013001",
+    "b": 28,
+    "c": 13,
+    "v": 1,
+    "t": "Tous les humains qui ignoraient Dieu étaient profondément stupides. En regardant les biens qu’ils avaient sous les yeux, ils ont été incapables de connaître celui qui est. En voyant les choses qui existent, ils n’ont pas reconnu l’artisan qui les avait faites.",
+    "h": "Ceux qui adorent la nature",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "28013002",
+    "b": 28,
+    "c": 13,
+    "v": 2,
+    "t": "Mais le feu, le vent, l’air rapide, les étoiles, l’eau violente, le soleil et la lune, ils les ont considérés comme des dieux qui gouvernent le monde.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "28013003",
+    "b": 28,
+    "c": 13,
+    "v": 3,
+    "t": "Ils ont peut-être été attirés par leur beauté. C’est pourquoi ils les ont pris pour des dieux. Ils doivent alors savoir que le Maître de ces choses est bien au-dessus d’elles. En effet, celui qui est la source de la beauté, voilà leur Créateur.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "28013004",
+    "b": 28,
+    "c": 13,
+    "v": 4,
+    "t": "Ces gens-là ont peut-être été influencés par leur puissance et leurs actions. Ils doivent alors se dire ceci : celui qui les a formées est beaucoup plus puissant qu’elles.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "28013005",
+    "b": 28,
+    "c": 13,
+    "v": 5,
+    "t": "Car, en voyant la grandeur et la beauté des créatures, nous pouvons, par comparaison, regarder avec admiration leur Créateur.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "28013006",
+    "b": 28,
+    "c": 13,
+    "v": 6,
+    "t": "Pourtant, ces gens-là ne méritent que de légers reproches. En effet, quand ils prennent un mauvais chemin, ils cherchent peut-être Dieu et veulent réellement le trouver.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "28013007",
+    "b": 28,
+    "c": 13,
+    "v": 7,
+    "t": "Ils mènent leur recherche en vivant au milieu de ce qu’il a fait. Et les réalités visibles sont si belles qu’ils se laissent influencer par ce qu’ils voient.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "28013008",
+    "b": 28,
+    "c": 13,
+    "v": 8,
+    "t": "Pourtant, eux non plus n’ont pas d’excuse.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "28013009",
+    "b": 28,
+    "c": 13,
+    "v": 9,
+    "t": "Ils sont devenus assez savants pour arriver à étudier les secrets du monde. Et ils n’ont pas encore découvert le Maître de toutes choses ! Comment est-ce possible ?",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "28013010",
+    "b": 28,
+    "c": 13,
+    "v": 10,
+    "t": "Ceux qui mettent leur espoir dans des choses sans vie sont bien malheureux. Ils appellent dieux ce que leurs mains humaines ont fabriqué : objets en or, en argent, travaillés avec goût, statues d’animaux ou encore pierre inutile, taillée voici longtemps.",
+    "h": "Le bûcheron qui fabrique des faux dieux",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "28013011",
+    "b": 28,
+    "c": 13,
+    "v": 11,
+    "t": "Prenons l’exemple d’un bûcheron : il scie un arbre facile à transporter. Il lui enlève son écorce avec soin. Il le travaille avec habileté et fabrique un ustensile qui sert dans la vie de tous les jours.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "28013012",
+    "b": 28,
+    "c": 13,
+    "v": 12,
+    "t": "Avec les déchets du bois, il fait du feu pour préparer sa nourriture et il mange bien.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "28013013",
+    "b": 28,
+    "c": 13,
+    "v": 13,
+    "t": "Parmi ces déchets, il y a un morceau de bois qui reste et qui ne sert à rien, il est tordu et plein de nœuds. Le bûcheron le prend et le sculpte pour passer le temps. Il le travaille tranquillement avec habileté. Il lui donne la forme d’un être humain",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "28013014",
+    "b": 28,
+    "c": 13,
+    "v": 14,
+    "t": "ou bien d’un animal horrible. Il le recouvre de peinture, il le teint entièrement en rouge vif et recouvre toutes ses taches.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "28013015",
+    "b": 28,
+    "c": 13,
+    "v": 15,
+    "t": "Il lui fait l’abri qui convient, il le place contre un mur et le fixe avec une pointe de fer.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "28013016",
+    "b": 28,
+    "c": 13,
+    "v": 16,
+    "t": "Il fait attention que cette statue ne tombe pas. En effet, il le sait, ce morceau de bois n’est pas capable de se soutenir tout seul. Ce n’est qu’une statue, et elle a besoin d’un appui.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "28013017",
+    "b": 28,
+    "c": 13,
+    "v": 17,
+    "t": "Mais quand le sculpteur veut prier pour ses biens, pour son mariage ou ses enfants, il n’a pas honte de parler à cet objet sans vie. Il demande la santé à ce qui est faible,",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "28013018",
+    "b": 28,
+    "c": 13,
+    "v": 18,
+    "t": "il demande la vie à ce qui est mort. Pour être aidé, il fait appel à ce qui manque d’expérience. Pour ses voyages, il compte sur un objet qui ne peut pas se servir de ses pieds.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "28013019",
+    "b": 28,
+    "c": 13,
+    "v": 19,
+    "t": "Enfin, pour gagner sa vie, pour faire toutes sortes de choses, et réussir le travail de ses mains, il demande de la force à des mains sans force.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "28014001",
+    "b": 28,
+    "c": 14,
+    "v": 1,
+    "t": "Voici un autre exemple : un homme va partir en bateau. Il se prépare à voyager sur les vagues terribles de la mer. Il supplie à grands cris un morceau de bois plus fragile que le bateau qui va l’emmener.",
+    "h": "Exemple d’un voyageur",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "28014002",
+    "b": 28,
+    "c": 14,
+    "v": 2,
+    "t": "Quelqu’un a eu l’idée de faire construire ce bateau pour gagner de l’argent, et un habile artisan l’a fabriqué.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "28014003",
+    "b": 28,
+    "c": 14,
+    "v": 3,
+    "t": "Mais c’est ta bonté qui prévoit tout, Père, c’est elle qui le dirige. Oui, tu lui prépares une route sur la mer, un chemin sûr à travers les vagues.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "28014004",
+    "b": 28,
+    "c": 14,
+    "v": 4,
+    "t": "Tu montres par là que tu peux sauver de tout danger : même quelqu’un qui manque d’expérience, voyage en bateau.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "28014005",
+    "b": 28,
+    "c": 14,
+    "v": 5,
+    "t": "Tu veux que les actions de ta sagesse soient utiles. C’est pourquoi, les humains qui confient leur vie à un objet en bois peu important traversent les vagues sur une pirogue tout en restant en vie.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "28014006",
+    "b": 28,
+    "c": 14,
+    "v": 6,
+    "t": "Au commencement, cela s’est passé de la même façon. Les géants orgueilleux sont morts, mais ceux qui étaient l’espoir du monde se sont réfugiés sur un bateau. Et, dirigés par ta main, ils ont donné au monde le début d’une génération nouvelle.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "28014007",
+    "b": 28,
+    "c": 14,
+    "v": 7,
+    "t": "Oui, il est béni, le bois qui a permis de faire ta volonté !",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "28014008",
+    "b": 28,
+    "c": 14,
+    "v": 8,
+    "t": "Mais la statue et l’ouvrier qui l’a fabriquée avec ses mains sont maudits : l’ouvrier, parce qu’il l’a sculptée, et la statue, parce qu’on l’a appelée « dieu ». Pourtant, elle n’est qu’un bout de bois qui peut être détruit.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "28014009",
+    "b": 28,
+    "c": 14,
+    "v": 9,
+    "t": "En effet, Dieu déteste de la même façon l’homme qui le méprise et la statue méprisable.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "28014010",
+    "b": 28,
+    "c": 14,
+    "v": 10,
+    "t": "Il punira donc la statue et son sculpteur.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "28014011",
+    "b": 28,
+    "c": 14,
+    "v": 11,
+    "t": "Ainsi Dieu agira contre les faux dieux des peuples. Leurs statues font partie du monde qu’il a créé, mais pour lui, elles sont devenues quelque chose d’horrible. Elles font tomber les humains dans le péché, elles sont un piège sous les pieds des gens stupides.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "28014012",
+    "b": 28,
+    "c": 14,
+    "v": 12,
+    "t": "Les gens ont commencé à être infidèles à Dieu quand ils ont eu l’idée de fabriquer des statues de leurs dieux. Cette découverte les a entraînés à abîmer complètement la vie.",
+    "h": "Comment est né le culte des faux dieux ?",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "28014013",
+    "b": 28,
+    "c": 14,
+    "v": 13,
+    "t": "Au début, ces statues n’existaient pas et elles n’existeront pas toujours.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "28014014",
+    "b": 28,
+    "c": 14,
+    "v": 14,
+    "t": "C’est parce que les humains croient à des choses sans valeur que ces faux dieux sont entrés dans le monde. C’est aussi pour cela que ces dieux vont disparaître rapidement. Voilà ce qui est prévu pour eux.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "28014015",
+    "b": 28,
+    "c": 14,
+    "v": 15,
+    "t": "Voici un exemple : Un père vient de perdre son jeune fils. Il est fou de douleur et fait reproduire le portrait de son enfant qui a été emporté trop vite. Celui qui n’était qu’un être humain sans vie, il se met alors à l’honorer comme un dieu. Il apprend à ceux qui dépendent de lui des coutumes secrètes et des rites.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "28014016",
+    "b": 28,
+    "c": 14,
+    "v": 16,
+    "t": "Puis avec le temps, cette habitude contraire à la foi devient plus forte, et les gens la respectent comme une loi. De la même façon, des rois ont commandé de rendre un culte à leurs statues.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "28014017",
+    "b": 28,
+    "c": 14,
+    "v": 17,
+    "t": "Ceux qui habitaient loin ne pouvaient pas les honorer directement. Ils ont donc fait leur portrait, ils ont reproduit une image visible du roi qu’ils respectaient. Ainsi, ils pouvaient flatter avec ardeur le roi absent comme s’il était présent.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "28014018",
+    "b": 28,
+    "c": 14,
+    "v": 18,
+    "t": "Et même ceux qui ne le connaissaient pas pouvaient développer son culte, grâce à la volonté de l’artiste.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "28014019",
+    "b": 28,
+    "c": 14,
+    "v": 19,
+    "t": "Celui-ci voulait sans doute plaire au roi. C’est pourquoi il s’est servi de tous ses dons pour faire de lui un portrait plus beau que la réalité.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "28014020",
+    "b": 28,
+    "c": 14,
+    "v": 20,
+    "t": "Alors la foule a été conquise par la beauté de la statue. Elle s’est mise à adorer celui qu’elle honorait comme un homme peu de temps avant.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "28014021",
+    "b": 28,
+    "c": 14,
+    "v": 21,
+    "t": "Cette façon de faire est devenue un piège pour la vie des humains. Cela est arrivé quand des gens, esclaves du malheur ou du pouvoir, ont donné à des statues en pierre ou en bois le nom qui appartient à Dieu seul.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "28014022",
+    "b": 28,
+    "c": 14,
+    "v": 22,
+    "t": "Ces gens-là se sont trompés au sujet de la connaissance de Dieu. Mais de plus, comme ils sont ignorants, ils sont toujours en train de se battre. Et ils donnent le nom de paix à ces querelles.",
+    "h": "L’adoration des faux dieux est le commencement de tout mal",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "28014023",
+    "b": 28,
+    "c": 14,
+    "v": 23,
+    "t": "Ils font des sacrifices d’enfants, ils ont des rites secrets, ils organisent des fêtes où ils se conduisent n’importe comment.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "28014024",
+    "b": 28,
+    "c": 14,
+    "v": 24,
+    "t": "Ils ne savent plus garder leur vie pure, ils ne sont plus fidèles dans le mariage. Un homme tue un autre homme en le trahissant, ou bien il l’insulte en prenant sa femme pour lui.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "28014025",
+    "b": 28,
+    "c": 14,
+    "v": 25,
+    "t": "Il n’y a plus de règles : ils répandent le sang, ils tuent, ils volent et ils trompent les gens. Ils sont corrompus, ils ne sont pas francs, ils se querellent, ils prononcent des serments faux.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "28014026",
+    "b": 28,
+    "c": 14,
+    "v": 26,
+    "t": "Ils font souffrir les gens honnêtes, ils oublient les bienfaits reçus. Ils abîment la vie, les hommes couchent entre eux et les femmes entre elles. Les mariages se font en dehors de la loi, les gens sont adultères et couchent avec n’importe qui.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "28014027",
+    "b": 28,
+    "c": 14,
+    "v": 27,
+    "t": "Oui, le culte des faux dieux qui n’existent pas est le commencement de tout mal. Il est la cause du mal et il a le mal comme résultat.",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "28014028",
+    "b": 28,
+    "c": 14,
+    "v": 28,
+    "t": "Ceux qui adorent ces dieux perdent la tête et tombent en transe. Ils annoncent des choses fausses, ou bien ils vivent n’importe comment, ou encore ils trahissent rapidement leurs serments.",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "28014029",
+    "b": 28,
+    "c": 14,
+    "v": 29,
+    "t": "Comme ils mettent leur confiance dans des statues sans vie, ils sont sûrs qu’ils ne seront pas punis pour leurs serments faux.",
+    "h": "",
+    "o": 29,
+    "l": "29"
+  },
+  {
+    "id": "28014030",
+    "b": 28,
+    "c": 14,
+    "v": 30,
+    "t": "Mais ils finiront par être punis pour deux raisons. Tout d’abord, ils se sont trompés sur Dieu en s’attachant aux faux dieux. Ensuite, ils ont méprisé ce qui est sacré en faisant des serments faux pour tromper les gens.",
+    "h": "",
+    "o": 30,
+    "l": "30"
+  },
+  {
+    "id": "28014031",
+    "b": 28,
+    "c": 14,
+    "v": 31,
+    "t": "En jurant, ils ont pris comme témoins les faux dieux. Mais ces statues sont impuissantes, et ce n’est pas elles qui les puniront. Ils seront frappés de la punition réservée aux pécheurs. Oui, ceux qui font le mal seront toujours punis.",
+    "h": "",
+    "o": 31,
+    "l": "31"
+  },
+  {
+    "id": "28015001",
+    "b": 28,
+    "c": 15,
+    "v": 1,
+    "t": "Mais toi, notre Dieu, tu es bon et vrai, tu es patient et tu gouvernes toutes choses avec tendresse.",
+    "h": "Les Israélites n’adorent pas les faux dieux",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "28015002",
+    "b": 28,
+    "c": 15,
+    "v": 2,
+    "t": "Même si nous péchons, nous sommes à toi et nous reconnaissons ton pouvoir. Mais nous ne pécherons pas, car, nous le savons, tu nous reconnais comme étant à toi.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "28015003",
+    "b": 28,
+    "c": 15,
+    "v": 3,
+    "t": "En effet, ceux qui te connaissent se conduisent parfaitement, ceux qui reconnaissent ton pouvoir sont sûrs de vivre pour toujours.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "28015004",
+    "b": 28,
+    "c": 15,
+    "v": 4,
+    "t": "Les productions humaines d’artistes mauvais et le travail inutile de ceux qui barbouillent des portraits de toutes les couleurs ne nous ont pas trompés.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "28015005",
+    "b": 28,
+    "c": 15,
+    "v": 5,
+    "t": "Quand les gens stupides voient ces réalisations, ils sont fous de joie et s’attachent avec passion à un portrait sans vie, à une statue immobile.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "28015006",
+    "b": 28,
+    "c": 15,
+    "v": 6,
+    "t": "Ceux qui fabriquent ces objets, ceux qui les désirent et les adorent aiment tous le mal. Et ils méritent de recevoir ce qui les attend !",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "28015007",
+    "b": 28,
+    "c": 15,
+    "v": 7,
+    "t": "Prenons l’exemple d’un potier. Il travaille avec peine de la terre molle et il fabrique toutes sortes d’ustensiles qui nous servent tous les jours. Avec la même terre, il fabrique de la même façon des plats qui serviront à des usages nobles et des plats très ordinaires. Mais c’est lui, le potier, qui décide si tel plat servira à ceci ou à cela.",
+    "h": "Le potier qui fabrique des faux dieux",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "28015008",
+    "b": 28,
+    "c": 15,
+    "v": 8,
+    "t": "Puis, avec la même terre, il sculpte la statue d’un dieu qui n’existe pas. Il se fatigue pour rien ! Or, ce potier, né de la terre voici peu de temps, retournera bientôt à la terre d’où il a été tiré. Cela arrivera quand Dieu lui demandera de nouveau l’âme qu’il lui a prêtée.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "28015009",
+    "b": 28,
+    "c": 15,
+    "v": 9,
+    "t": "Sa vie est courte, et il doit mourir un jour. Pourtant cet homme n’y pense pas. Au lieu de cela, il veut faire aussi bien que ceux qui travaillent l’or et l’argent. Il imite ceux qui fondent le bronze, il est fier de fabriquer des objets faux.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "28015010",
+    "b": 28,
+    "c": 15,
+    "v": 10,
+    "t": "Son cœur n’est que de la cendre. Ce qu’il attend vaut moins que la poussière du sol, sa vie a moins de prix que l’argile.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "28015011",
+    "b": 28,
+    "c": 15,
+    "v": 11,
+    "t": "En effet, il ignore Dieu qui l’a modelé. Pourtant, par son souffle, celui-ci lui a donné une âme qui agit et un esprit qui fait vivre.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "28015012",
+    "b": 28,
+    "c": 15,
+    "v": 12,
+    "t": "Ce potier pense : notre vie est un jeu d’enfant, et l’existence est un grand marché où nous pouvons gagner beaucoup d’argent. Il dit : « Il faut en gagner par tous les moyens, même s’ils sont mauvais. »",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "28015013",
+    "b": 28,
+    "c": 15,
+    "v": 13,
+    "t": "Oui, cet homme-là sait mieux que personne qu’il agit mal. En effet, il fabrique avec la même terre des plats fragiles et des statues de dieux.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "28015014",
+    "b": 28,
+    "c": 15,
+    "v": 14,
+    "t": "Seigneur, les ennemis de ton peuple, ceux qui l’ont écrasé autrefois sous leur pouvoir, sont complètement stupides. Ils sont moins intelligents qu’un enfant.",
+    "h": "Les Égyptiens qui adorent même les animaux",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "28015015",
+    "b": 28,
+    "c": 15,
+    "v": 15,
+    "t": "Oui, ils ont pris pour dieux toutes les statues des peuples. Or elles ont des yeux, mais elles ne voient pas. Elles ont un nez, mais elles ne respirent pas. Elles ont des oreilles, mais elles n’entendent pas. Elles ont des doigts aux mains, mais elles ne touchent pas. Elles ont des pieds, mais elles ne peuvent pas marcher.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "28015016",
+    "b": 28,
+    "c": 15,
+    "v": 16,
+    "t": "C’est un être humain qui les a faites. Celui qui les a fabriquées a lui-même reçu le souffle de vie qu’on lui a prêté. Or personne n’est capable de fabriquer un dieu semblable à lui.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "28015017",
+    "b": 28,
+    "c": 15,
+    "v": 17,
+    "t": "L’être humain doit mourir un jour. Donc, avec ses mains, qu’il met au service du mal, il peut seulement produire un objet sans vie. Bien sûr, cet artisan vaut mieux que les objets qu’il adore : lui, il a reçu la vie, eux, par contre, ne seront jamais vivants.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "28015018",
+    "b": 28,
+    "c": 15,
+    "v": 18,
+    "t": "Ces gens-là adorent même les animaux les plus détestables, ceux qui sont les plus bêtes de tous.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "28015019",
+    "b": 28,
+    "c": 15,
+    "v": 19,
+    "t": "Contrairement à d’autres animaux, ils ne sont pas beaux et ils n’ont rien pour attirer le regard. Dieu ne peut pas les approuver ni les bénir.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "28016001",
+    "b": 28,
+    "c": 16,
+    "v": 1,
+    "t": "C’est pourquoi ceux qui adoraient des animaux ont été punis par d’autres animaux, comme ils le méritaient. Et une foule d’insectes les ont fait souffrir.",
+    "h": "Les événements de la sortie d’Égypte (Deuxième partie)\nd. Les animaux qui nourrissent et les animaux qui dégoûtent",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "28016002",
+    "b": 28,
+    "c": 16,
+    "v": 2,
+    "t": "Mais ton peuple, Seigneur, tu ne l’as pas puni de cette façon, tu as été bon pour lui. Pour calmer sa grande faim, tu lui as préparé une nourriture délicieuse : des cailles !",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "28016003",
+    "b": 28,
+    "c": 16,
+    "v": 3,
+    "t": "Leurs ennemis, qui avaient envie de manger, ont perdu tout appétit en voyant les horribles bêtes envoyées contre eux. Par contre, ton peuple qui a eu faim pendant peu de temps, a reçu une nourriture délicieuse.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "28016004",
+    "b": 28,
+    "c": 16,
+    "v": 4,
+    "t": "Il fallait que ceux qui l’écrasaient souffrent une famine terrible. Pour ton peuple, cela lui suffisait de voir comment ses ennemis souffraient.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "28016005",
+    "b": 28,
+    "c": 16,
+    "v": 5,
+    "t": "Ton peuple, lui aussi, a été attaqué violemment par des bêtes très méchantes. Beaucoup sont morts, piqués par les serpents qui avancent en rampant. Mais ta colère, Seigneur, n’a pas duré. Tu ne les as pas détruits.",
+    "h": "e. Les serpents qui tuent et le serpent qui sauve",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "28016006",
+    "b": 28,
+    "c": 16,
+    "v": 6,
+    "t": "C’est seulement pour les avertir que tu leur as fait peur pendant peu de temps. Ensuite, tu leur as donné un signe de salut pour leur rappeler les commandements de ta loi.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "28016007",
+    "b": 28,
+    "c": 16,
+    "v": 7,
+    "t": "Celui qui se tournait vers ce signe était sauvé, non par l’objet qu’il regardait, mais par toi, le Sauveur de tous.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "28016008",
+    "b": 28,
+    "c": 16,
+    "v": 8,
+    "t": "De cette façon, tu as montré à nos ennemis que c’est toi qui délivres de tout mal.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "28016009",
+    "b": 28,
+    "c": 16,
+    "v": 9,
+    "t": "Eux sont morts, piqués par les mouches et mordus par les sauterelles. Ils n’ont trouvé aucun remède pour leur sauver la vie. C’est qu’ils méritaient d’être punis par ces insectes-là.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "28016010",
+    "b": 28,
+    "c": 16,
+    "v": 10,
+    "t": "Par contre, même les morsures des serpents venimeux n’ont pas pu supprimer totalement les gens de ton peuple. Car, dans ta bonté, tu es venu à leur secours et tu les a guéris.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "28016011",
+    "b": 28,
+    "c": 16,
+    "v": 11,
+    "t": "Les morsures qu’ils recevaient servaient à leur rappeler tes paroles. Mais ils ont été vite délivrés. Ils ne devaient pas tout oublier, mais continuer à recevoir tes bienfaits.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "28016012",
+    "b": 28,
+    "c": 16,
+    "v": 12,
+    "t": "Ce ne sont pas des plantes ni des pommades qui leur ont rendu la santé, mais c’est ta parole, Seigneur, elle qui guérit tout.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "28016013",
+    "b": 28,
+    "c": 16,
+    "v": 13,
+    "t": "En effet, c’est toi qui es le maître de la vie et de la mort. Tu fais descendre les gens dans le monde des morts et tu les fais remonter.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "28016014",
+    "b": 28,
+    "c": 16,
+    "v": 14,
+    "t": "Oui, un être humain peut tuer par méchanceté. Mais il ne peut pas rendre le souffle de vie quand celui-ci est parti, et il ne libère pas l’âme enfermée dans le monde des morts.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "28016015",
+    "b": 28,
+    "c": 16,
+    "v": 15,
+    "t": "Personne ne peut échapper à ton pouvoir, Seigneur.",
+    "h": "f. La grêle détruit les récoltes et l’aliment du ciel nourrit",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "28016016",
+    "b": 28,
+    "c": 16,
+    "v": 16,
+    "t": "Alors, tu as frappé avec puissance ceux qui ont refusé de te connaître. Ils ont été attaqués par des pluies bizarres, par la grêle et des orages terribles, et la foudre les a détruits.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "28016017",
+    "b": 28,
+    "c": 16,
+    "v": 17,
+    "t": "Et voici ce qui est le plus étonnant : dans l’eau qui d’habitude éteint tout, le feu reprenait de la force. En effet, la nature combat pour les gens qui t’obéissent.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "28016018",
+    "b": 28,
+    "c": 16,
+    "v": 18,
+    "t": "À certains moments, les flammes se calmaient. Ainsi, elles ne brûlaient pas complètement les animaux envoyés contre tes ennemis. Et, en voyant cela, ils pouvaient comprendre que ta justice les poursuivait.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "28016019",
+    "b": 28,
+    "c": 16,
+    "v": 19,
+    "t": "À d’autres moments, le feu brûlait même au milieu de l’eau, avec plus de force que d’habitude, pour détruire les récoltes de ce pays mauvais.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "28016020",
+    "b": 28,
+    "c": 16,
+    "v": 20,
+    "t": "Par contre, tu as donné à ton peuple la nourriture des anges, tu lui as envoyé du haut du ciel un aliment tout préparé, et ton peuple n’a fait aucun effort. Cette nourriture était si bonne qu’elle pouvait satisfaire tous les besoins et tous les goûts.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "28016021",
+    "b": 28,
+    "c": 16,
+    "v": 21,
+    "t": "Cette nourriture qui venait de toi montrait ta douceur envers tes enfants. Elle s’adaptait au goût de celui qui la mangeait et devenait ce que chacun voulait.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "28016022",
+    "b": 28,
+    "c": 16,
+    "v": 22,
+    "t": "Elle ressemblait à de la neige ou à de la glace. Pourtant, elle résistait au feu et ne fondait pas. De cette manière, ton peuple devait comprendre ceci : le feu qui brûlait au milieu de la grêle et lançait des éclairs sous la pluie devait détruire les récoltes des ennemis.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "28016023",
+    "b": 28,
+    "c": 16,
+    "v": 23,
+    "t": "Par contre, le même feu perdait son pouvoir destructeur pour permettre à ceux qui obéissaient à Dieu de se nourrir.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "28016024",
+    "b": 28,
+    "c": 16,
+    "v": 24,
+    "t": "Oui, les choses créées sont prêtes à te servir, toi, leur Créateur. Comme un arc, elles se tendent pour punir les gens mauvais. Et elles se détendent pour faire du bien à ceux qui mettent leur confiance en toi.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "28016025",
+    "b": 28,
+    "c": 16,
+    "v": 25,
+    "t": "C’est pourquoi elles ont été capables de toutes sortes de changements. Elles se sont mises au service de ta générosité qui les nourrissait tous, selon le désir de ceux qui en avaient besoin.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "28016026",
+    "b": 28,
+    "c": 16,
+    "v": 26,
+    "t": "Voici ce que tes enfants très aimés devaient apprendre par là, Seigneur : ce ne sont pas les différents produits des champs qui nourrissent les humains, mais c’est ta parole qui maintient en vie ceux qui croient en toi.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "28016027",
+    "b": 28,
+    "c": 16,
+    "v": 27,
+    "t": "Cette nourriture que le feu ne détruisait pas, la chaleur d’un petit rayon de soleil suffisait à la faire fondre.",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "28016028",
+    "b": 28,
+    "c": 16,
+    "v": 28,
+    "t": "Par là, tu voulais nous apprendre que nous devons nous éveiller avant le soleil pour te remercier et te rencontrer dès le lever du jour.",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "28016029",
+    "b": 28,
+    "c": 16,
+    "v": 29,
+    "t": "Oui, l’espoir de quelqu’un qui ne sait pas remercier fondra comme la neige de la saison froide, il s’écoulera comme de l’eau inutile.",
+    "h": "",
+    "o": 29,
+    "l": "29"
+  },
+  {
+    "id": "28017001",
+    "b": 28,
+    "c": 17,
+    "v": 1,
+    "t": "Seigneur, tes décisions sont profondes et difficiles à comprendre. C’est pourquoi des gens qui manquaient de sagesse se sont perdus.",
+    "h": "g. La longue nuit des ennemis de Dieu",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "28017002",
+    "b": 28,
+    "c": 17,
+    "v": 2,
+    "t": "Ils ont cru dominer le peuple qui t’appartient. Ils sont devenus alors prisonniers de l’obscurité, sous le pouvoir d’une longue nuit. Ils étaient couchés, enfermés dans leur maisons, privés de ton amour qui dure toujours.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "28017003",
+    "b": 28,
+    "c": 17,
+    "v": 3,
+    "t": "Ils pensaient qu’ils pouvaient rester cachés avec leurs péchés secrets sous le voile épais de l’oubli. Par contre, ils ont été chassés de tous côtés, tremblant de peur et bouleversés par les choses effrayantes qu’ils voyaient.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "28017004",
+    "b": 28,
+    "c": 17,
+    "v": 4,
+    "t": "Même les cachettes qui les abritaient ne les empêchaient pas d’avoir peur : autour d’eux, on entendait des bruits terribles et des esprits sombres, au visage triste, leur apparaissaient.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "28017005",
+    "b": 28,
+    "c": 17,
+    "v": 5,
+    "t": "Aucun feu n’était assez fort pour les éclairer. Et la vive lumière des étoiles n’arrivait pas à trouer cette horrible nuit.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "28017006",
+    "b": 28,
+    "c": 17,
+    "v": 6,
+    "t": "Ils voyaient seulement un grand feu qui s’allumait tout seul et qui les effrayait. Quand ce feu disparaissait, ils avaient tellement peur que tout ce qu’ils voyaient, ils le trouvaient encore plus effrayant.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "28017007",
+    "b": 28,
+    "c": 17,
+    "v": 7,
+    "t": "Les actions trompeuses des magiciens restaient sans aucun pouvoir. Ils faisaient croire qu’ils avaient la connaissance, mais ils ne recevaient que la honte.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "28017008",
+    "b": 28,
+    "c": 17,
+    "v": 8,
+    "t": "Certains promettaient de chasser d’une personne malade les peurs et les troubles. Mais c’étaient eux qui devenaient malades de peur, et c’était comique.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "28017009",
+    "b": 28,
+    "c": 17,
+    "v": 9,
+    "t": "Même quand il n’y avait pas de raison d’avoir peur, ils étaient effrayés en entendant les bêtes passer ou les serpents siffler.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "28017010",
+    "b": 28,
+    "c": 17,
+    "v": 10,
+    "t": "Ils mouraient de peur et, dans cette obscurité d’où ils ne pouvaient s’échapper, ils refusaient même d’ouvrir les yeux.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "28017011",
+    "b": 28,
+    "c": 17,
+    "v": 11,
+    "t": "Oui, les gens mauvais montrent clairement qu’ils manquent de courage et ils se condamnent ainsi eux-mêmes. Leur conscience les accuse et ils exagèrent toujours les difficultés.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "28017012",
+    "b": 28,
+    "c": 17,
+    "v": 12,
+    "t": "Les gens qui ont peur sont ceux qui refusent l’aide de la raison.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "28017013",
+    "b": 28,
+    "c": 17,
+    "v": 13,
+    "t": "Quand, intérieurement, nous ne faisons pas confiance à la raison, nous ignorons pourquoi nous souffrons, et cela augmente la souffrance.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "28017014",
+    "b": 28,
+    "c": 17,
+    "v": 14,
+    "t": "Cette nuit n’avait vraiment aucun pouvoir. Elle sortait de la profondeur du monde des morts, qui est lui-même sans pouvoir. Pourtant, tous ces gens-là dormaient très mal.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "28017015",
+    "b": 28,
+    "c": 17,
+    "v": 15,
+    "t": "Ils étaient ou bien poursuivis par des esprits effrayants, ou encore paralysés sans pouvoir réagir. En effet, une peur étrange les avait saisis tout à coup.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "28017016",
+    "b": 28,
+    "c": 17,
+    "v": 16,
+    "t": "Ainsi, ceux qui étaient là-bas tombaient par terre et ils étaient enfermés dans une prison sans ouverture.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "28017017",
+    "b": 28,
+    "c": 17,
+    "v": 17,
+    "t": "Paysans, bergers, ouvriers en train de travailler durement en pleine campagne, tous étaient surpris par ce malheur et ils ne pouvaient rien faire contre lui.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "28017018",
+    "b": 28,
+    "c": 17,
+    "v": 18,
+    "t": "Tous étaient attachés par la même chaîne, celle de l’obscurité. Tout ce qu’ils entendaient les effrayait et les paralysait : le vent qui siffle, les beaux chants d’oiseaux dans les branches couvertes de feuilles, la chute régulière de l’eau du torrent, le bruit terrible des pierres qui tombent, la course invisible d’animaux qui bondissent, le rugissement des bêtes les plus sauvages, ou encore l’écho renvoyé par le creux des montagnes.",
+    "h": "",
+    "o": 18,
+    "l": "18-19"
+  },
+  {
+    "id": "28017019",
+    "b": 28,
+    "c": 17,
+    "v": 20,
+    "t": "Partout ailleurs, le monde était éclairé par une lumière brillante, et chacun continuait librement ses activités.",
+    "h": "",
+    "o": 19,
+    "l": "20"
+  },
+  {
+    "id": "28017020",
+    "b": 28,
+    "c": 17,
+    "v": 21,
+    "t": "Mais une nuit pesante s’étendait uniquement sur ces gens-là. Elle représentait l’obscurité profonde qui les entourerait un jour. Leur peur pesait encore plus lourdement sur eux que l’obscurité.",
+    "h": "",
+    "o": 20,
+    "l": "21"
+  },
+  {
+    "id": "28018001",
+    "b": 28,
+    "c": 18,
+    "v": 1,
+    "t": "Pendant ce temps, par contre, une très grande lumière brillait pour ceux qui t’appartiennent, Seigneur. Leurs ennemis entendaient leur voix, mais ils ne les voyaient pas. Ils leur disaient : « Vous êtes heureux, car vous n’avez pas souffert comme nous. »",
+    "h": "h. La colonne de feu éclaire le peuple de Dieu",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "28018002",
+    "b": 28,
+    "c": 18,
+    "v": 2,
+    "t": "Ils les remerciaient de ne pas se venger après les souffrances qu’ils avaient supportées. Ils demandaient pardon à ton peuple parce qu’ils l’avaient combattu.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "28018003",
+    "b": 28,
+    "c": 18,
+    "v": 3,
+    "t": "À la place de l’obscurité, tu as donné à ceux qui t’appartiennent une colonne de feu pour les guider sur un chemin inconnu. Elle ressemblait à un doux soleil qui les accompagnait dans leur glorieux voyage.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "28018004",
+    "b": 28,
+    "c": 18,
+    "v": 4,
+    "t": "Par contre, les ennemis méritaient bien d’être privés de lumière et d’être prisonniers de l’obscurité. En effet, ils avaient emprisonné tes enfants. Pourtant, c’est par ceux-ci que la lumière de ta loi devait être donnée au monde, et cette lumière ne s’éteint jamais.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "28018005",
+    "b": 28,
+    "c": 18,
+    "v": 5,
+    "t": "Les ennemis avaient décidé de tuer les petits enfants de ceux qui t’appartiennent. Parmi ceux qui devaient mourir, un seul avait été sauvé. C’est pourquoi, pour les punir, tu leur as enlevé un grand nombre de leurs enfants, et tu les as noyés tous ensemble dans la mer agitée.",
+    "h": "i. La mort des premiers-nés d’Égypte et la libération d’Israël",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "28018006",
+    "b": 28,
+    "c": 18,
+    "v": 6,
+    "t": "Cette nuit-là, tu l’avais annoncée d’avance à nos ancêtres pour qu’ils se réjouissent en toute liberté. En effet, ils voyaient combien les promesses auxquelles ils avaient cru étaient dignes de confiance.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "28018007",
+    "b": 28,
+    "c": 18,
+    "v": 7,
+    "t": "Ton peuple attendait cette nuit : elle devait sauver ceux qui t’obéissent et détruire leurs ennemis.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "28018008",
+    "b": 28,
+    "c": 18,
+    "v": 8,
+    "t": "Oui, tu as utilisé les mêmes moyens à la fois pour punir nos adversaires et pour nous couvrir d’honneur en nous appelant vers toi.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "28018009",
+    "b": 28,
+    "c": 18,
+    "v": 9,
+    "t": "En secret, les fidèles enfants de ceux qui t’obéissent, ont offert des sacrifices. Ils se sont mis d’accord pour obéir à ta loi, qui commande de partager également les biens reçus et les dangers. Et ils chantaient déjà les chants de louange qui nous viennent de nos ancêtres.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "28018010",
+    "b": 28,
+    "c": 18,
+    "v": 10,
+    "t": "Les hurlements de leurs ennemis leur répondaient, et on entendait au loin les plaintes de ceux qui pleuraient leurs enfants.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "28018011",
+    "b": 28,
+    "c": 18,
+    "v": 11,
+    "t": "L’esclave et le maître étaient frappés de la même punition, les gens du peuple supportaient la même souffrance que le roi.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "28018012",
+    "b": 28,
+    "c": 18,
+    "v": 12,
+    "t": "Tous ensemble, ils avaient tant de morts qu’on ne pouvait pas les compter. Ils perdaient tous la vie de la même façon. Les vivants n’arrivaient pas à les enterrer, parce que leurs enfants très aimés avaient disparu en un instant.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "28018013",
+    "b": 28,
+    "c": 18,
+    "v": 13,
+    "t": "En voyant mourir leurs fils aînés, ils ont reconnu que ce peuple était fils de Dieu. Jusque-là, les activités de leurs magiciens les avaient empêchés de croire cela.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "28018014",
+    "b": 28,
+    "c": 18,
+    "v": 14,
+    "t": "Un silence paisible enveloppait toutes choses, et la nuit avait déjà parcouru la moitié de son chemin.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "28018015",
+    "b": 28,
+    "c": 18,
+    "v": 15,
+    "t": "Tout à coup, du haut du ciel, ta parole toute-puissante a quitté ton siège royal, Seigneur. Comme un combattant sans pitié, elle a couru au milieu de ce pays maudit.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "28018016",
+    "b": 28,
+    "c": 18,
+    "v": 16,
+    "t": "Elle portait, comme une épée coupante, ta décision définitive. Elle touchait au ciel et, pourtant, elle marchait sur la terre. Elle s’est arrêtée et a répandu la mort partout.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "28018017",
+    "b": 28,
+    "c": 18,
+    "v": 17,
+    "t": "Aussitôt, les gens ont fait des rêves terribles qui les effrayaient, et des peurs étranges les ont saisis.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "28018018",
+    "b": 28,
+    "c": 18,
+    "v": 18,
+    "t": "Ils sont tombés à moitié morts un peu partout, et ils ont dit pourquoi ils mouraient.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "28018019",
+    "b": 28,
+    "c": 18,
+    "v": 19,
+    "t": "Les rêves qui les avaient effrayés les avaient prévenus. En effet, ils ne devaient pas mourir en ignorant la raison de leur malheur.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "28018020",
+    "b": 28,
+    "c": 18,
+    "v": 20,
+    "t": "Ceux qui t’obéissaient ont connu, eux aussi, l’épreuve de la mort. Dans le désert, un grand nombre d’entre eux ont été tués. Mais ta colère, Seigneur, n’a pas duré longtemps.",
+    "h": "j. Aaron se place entre la mort et le peuple",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "28018021",
+    "b": 28,
+    "c": 18,
+    "v": 21,
+    "t": "En effet, un homme sans défaut, a agi très vite pour les protéger. Il a pris ses armes de prêtre, c’est-à-dire la prière et l’offrande d’encens, pour obtenir le pardon des péchés. Il s’est opposé à ta colère et il a arrêté le malheur, montrant ainsi qu’il était bien ton serviteur.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "28018022",
+    "b": 28,
+    "c": 18,
+    "v": 22,
+    "t": "Il n’a pas vaincu ta colère avec la force physique ni avec des armes puissantes. C’est par la parole qu’il a dominé celui qui punissait de ta part. C’est en rappelant les promesses que tu avais faites à nos ancêtres et tes alliances qui durent toujours.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "28018023",
+    "b": 28,
+    "c": 18,
+    "v": 23,
+    "t": "Les morts s’entassaient déjà les uns sur les autres. Alors cet homme s’est placé entre la mort et le peuple, il a arrêté son attaque, il lui a barré la route qui conduisait à ceux qui vivaient encore.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "28018024",
+    "b": 28,
+    "c": 18,
+    "v": 24,
+    "t": "Le monde entier était représenté sur son grand vêtement de prêtre. Les noms glorieux des ancêtres d’Israël étaient gravés sur quatre rangées de pierres précieuses. Le signe de la grandeur de Dieu était fixé sur son turban sacré.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "28018025",
+    "b": 28,
+    "c": 18,
+    "v": 25,
+    "t": "En voyant cela, le Destructeur a eu peur et il a reculé. En effet, ton peuple avait fait l’expérience de ta colère, et cela suffisait.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "28019001",
+    "b": 28,
+    "c": 19,
+    "v": 1,
+    "t": "Par contre, ta colère sans pitié a agi jusqu’au bout contre ceux qui te méprisaient. En effet, tu savais à l’avance ce qu’ils feraient.",
+    "h": "k. Le passage de la mer Rouge",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "28019002",
+    "b": 28,
+    "c": 19,
+    "v": 2,
+    "t": "Tout d’abord, ils laisseraient partir ton peuple et les renverraient très vite. Puis ils changeraient d’avis et les poursuivraient.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "28019003",
+    "b": 28,
+    "c": 19,
+    "v": 3,
+    "t": "C’est bien ce qu’ils ont fait. Ils étaient encore en deuil et ils pleuraient près des tombes de leurs morts. Or, au même moment, ils ont pris une nouvelle décision stupide : ils se sont mis à poursuivre ceux qu’ils avaient chassés, comme si ces gens-là avaient fui. Pourtant c’étaient eux qui avaient supplié ton peuple de partir.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "28019004",
+    "b": 28,
+    "c": 19,
+    "v": 4,
+    "t": "Le sort qu’ils avaient mérité les a poussés jusque-là. Et il leur a fait oublier ce qui s’était passé avant. Ils ajoutaient à leurs souffrances la punition qui manquait encore.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "28019005",
+    "b": 28,
+    "c": 19,
+    "v": 5,
+    "t": "Ils allaient donc mourir d’une façon étrange, ton peuple, par contre, devait faire l’expérience d’un merveilleux voyage.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "28019006",
+    "b": 28,
+    "c": 19,
+    "v": 6,
+    "t": "La création, obéissant à tes ordres, a été modelée à nouveau dans toutes ses parties pour que tes enfants soient protégés de tout mal.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "28019007",
+    "b": 28,
+    "c": 19,
+    "v": 7,
+    "t": "Les gens ont vu le nuage de fumée couvrir leur camp de son ombre. Ils ont vu aussi la terre sèche sortir du milieu de l’eau. La mer Rouge est devenue un chemin sans obstacle, les vagues en mouvement ont été changées en une plaine très verte.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "28019008",
+    "b": 28,
+    "c": 19,
+    "v": 8,
+    "t": "Ceux que ta main protégeait sont passés par là, comme un seul peuple, en admirant des actions extraordinaires.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "28019009",
+    "b": 28,
+    "c": 19,
+    "v": 9,
+    "t": "Ils ressemblaient à des chevaux qu’on conduit dans les champs d’herbe. Ils bondissaient comme des agneaux, en chantant ta louange, Seigneur, toi qui les avais délivrés.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "28019010",
+    "b": 28,
+    "c": 19,
+    "v": 10,
+    "t": "Ils se souvenaient encore de ce qu’ils avaient vu pendant qu’ils étaient en exil : la terre avait produit des puces au lieu de donner naissance à des animaux. Le fleuve avait vomi des grenouilles en grande quantité à la place des poissons.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "28019011",
+    "b": 28,
+    "c": 19,
+    "v": 11,
+    "t": "Plus tard, ils avaient vu une nouvelle espèce d’oiseaux. C’était au moment où la faim les avait poussés à réclamer une nourriture meilleure.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "28019012",
+    "b": 28,
+    "c": 19,
+    "v": 12,
+    "t": "Pour les rassasier, des cailles étaient alors sorties de la mer.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "28019013",
+    "b": 28,
+    "c": 19,
+    "v": 13,
+    "t": "Par contre, les punitions sont tombées sur ceux qui avaient péché. Mais avant cela, de violents coups de tonnerre les avaient annoncées. C’est en toute justice qu’ils souffraient à cause de leur méchanceté. En effet, ils avaient montré envers les étrangers une haine très cruelle.",
+    "h": "l. Les Égyptiens sont plus coupables que les gens de Sodome",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "28019014",
+    "b": 28,
+    "c": 19,
+    "v": 14,
+    "t": "C’est vrai, d’autres gens ont refusé de recevoir des inconnus qui venaient d’arriver. Mais eux, ils ont condamné à l’esclavage des hôtes qui leur avaient fait du bien.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "28019015",
+    "b": 28,
+    "c": 19,
+    "v": 15,
+    "t": "Une punition attend ceux qui ont reçu les étrangers comme des ennemis, c’est sûr.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "28019016",
+    "b": 28,
+    "c": 19,
+    "v": 16,
+    "t": "Ils avaient tout d’abord fêté dans la joie ceux qui arrivaient. Ils leur avaient donné les droits qu’ils possédaient eux-mêmes. Mais ensuite, ils les ont écrasés de travaux terribles.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "28019017",
+    "b": 28,
+    "c": 19,
+    "v": 17,
+    "t": "C’est pourquoi ils sont devenus aveugles, comme ceux qui se tenaient à l’entrée de la maison de l’homme qui obéissait à Dieu. Ils ont été entourés d’une obscurité profonde, et chacun cherchait la porte de sa maison.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "28019018",
+    "b": 28,
+    "c": 19,
+    "v": 18,
+    "t": "Avec un instrument de musique, quand la durée des notes change, le rythme change, les sons restes les mêmes. Ainsi, à cette époque-là, des réalités de la création ont été accordées d’une façon différente. On le voit clairement en examinant ce qui est arrivé :",
+    "h": "m. Dieu transforme les réalités de la création",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "28019019",
+    "b": 28,
+    "c": 19,
+    "v": 19,
+    "t": "des animaux qui marchaient seulement sur la terre ont pu aller dans l’eau. Ceux qui nageaient ont avancé sur le sol.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "28019020",
+    "b": 28,
+    "c": 19,
+    "v": 20,
+    "t": "Le feu brûlait dans l’eau avec plus de force que d’habitude, et l’eau ne pouvait pas l’éteindre.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "28019021",
+    "b": 28,
+    "c": 19,
+    "v": 21,
+    "t": "Mais les flammes ne brûlaient pas les animaux fragiles qui circulaient dans la mer. Et elles n’ont pas fait fondre la nourriture de Dieu. Pourtant, celle-ci ressemblait à la glace qui fond facilement.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "28019022",
+    "b": 28,
+    "c": 19,
+    "v": 22,
+    "t": "Oui, Seigneur, de mille manières, tu as rendu ton peuple important et tu l’as couvert d’honneur. Tu ne l’as jamais laissé de côté, mais tu restes près de lui toujours et partout.",
+    "h": "Louange au Seigneur",
+    "o": 22,
+    "l": "22"
+  }
+]

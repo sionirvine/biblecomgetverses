@@ -1,0 +1,852 @@
+[
+  {
+    "id": "31001001",
+    "b": 31,
+    "c": 1,
+    "v": 1,
+    "t": "Now it came to pass in the days when the judges ruled, that there was a famine in the land. And a certain man of Bethlehem in Judah went to live in the country of Moab, he and his wife and his two sons.",
+    "h": "CHAPTER ONE",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "31001002",
+    "b": 31,
+    "c": 1,
+    "v": 2,
+    "t": "And the name of the man was Elimelech, and the name of his wife Naomi, and the names of his two sons Mahlon and Chilion, Ephrathites of Bethlehem in Judah. And they came to the fields of Moab and stayed there.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "31001003",
+    "b": 31,
+    "c": 1,
+    "v": 3,
+    "t": "And Elimelech, Naomi’s husband, died. And she was left, and her two sons.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "31001004",
+    "b": 31,
+    "c": 1,
+    "v": 4,
+    "t": "And they took wives for themselves from the women of Moab. The name of the one was Orpah, and the name of the other Ruth. And they lived there about ten years.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "31001005",
+    "b": 31,
+    "c": 1,
+    "v": 5,
+    "t": "And Mahlon and Chilion also died, both of them. And the woman was left without her two sons and her husband.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "31001006",
+    "b": 31,
+    "c": 1,
+    "v": 6,
+    "t": "Then she arose with her daughters-in-law so that she might return from the country of Moab. For she had heard in the country of Moab how the Lord had visited His people in giving them bread.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "31001007",
+    "b": 31,
+    "c": 1,
+    "v": 7,
+    "t": "And she went out of the place where she was, and her two daughters-in-law with her, and they went on the way to return to the land of Judah.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "31001008",
+    "b": 31,
+    "c": 1,
+    "v": 8,
+    "t": "And Naomi said to her two daughters-in-law, “Go, return each one to your mother’s house. May the Lord deal kindly with you, as you have dealt with the dead and with me.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "31001009",
+    "b": 31,
+    "c": 1,
+    "v": 9,
+    "t": "May the Lord grant you that you may find rest, each in the house of your husband.” Then she kissed them, and they lifted up their voices and wept.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "31001010",
+    "b": 31,
+    "c": 1,
+    "v": 10,
+    "t": "And they said to her, “Surely we will return with you to your people.”",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "31001011",
+    "b": 31,
+    "c": 1,
+    "v": 11,
+    "t": "And Naomi said, “Turn again, my daughters. Why will you go with me? Are there yet sons in my womb, that they may be your husbands?",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "31001012",
+    "b": 31,
+    "c": 1,
+    "v": 12,
+    "t": "Turn again, my daughters, go. For I am too old to have a husband. If I should say, ‘I have hope,’ if I should have a husband also tonight, and should also bear sons,",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "31001013",
+    "b": 31,
+    "c": 1,
+    "v": 13,
+    "t": "Would you wait for them until they were grown? Would you shut yourselves up, and not have husbands until then ? No, my daughters, for it makes me very sad for your sakes that the hand of the Lord has gone out against me.”",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "31001014",
+    "b": 31,
+    "c": 1,
+    "v": 14,
+    "t": "And they lifted up their voices and wept again. And Orpah kissed her mother-in-law. But Ruth clung to her.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "31001015",
+    "b": 31,
+    "c": 1,
+    "v": 15,
+    "t": "And she said, “Behold, your sister-in-law has gone back to her people and to her gods. Return back with your sister-in-law.”",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "31001016",
+    "b": 31,
+    "c": 1,
+    "v": 16,
+    "t": "And Ruth said, “Do not beg me to leave you, to return from following after you. For where you go, I will go. Where you stay, I will stay. Your people shall be my people, and your God my God.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "31001017",
+    "b": 31,
+    "c": 1,
+    "v": 17,
+    "t": "Where you die, I will die, and there I will be buried. May the Lord do so to me, and more also, if anything but death parts you and me.”",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "31001018",
+    "b": 31,
+    "c": 1,
+    "v": 18,
+    "t": "When she saw that she was determined to go with her, then she quit speaking to her.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "31001019",
+    "b": 31,
+    "c": 1,
+    "v": 19,
+    "t": "And both of them went until they came to Bethlehem. And it came to pass, when they had come to Bethlehem, all the city was moved concerning them, and they said, “ Is this Naomi?”",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "31001020",
+    "b": 31,
+    "c": 1,
+    "v": 20,
+    "t": "And she said to them, “Do not call me Naomi, call me Mara. For the Almighty has dealt very bitterly with me.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "31001021",
+    "b": 31,
+    "c": 1,
+    "v": 21,
+    "t": "I went out full, and the Lord has brought me back empty. Why do you call me Naomi, since the Lord has testified against me, and the Almighty has afflicted me?”",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "31001022",
+    "b": 31,
+    "c": 1,
+    "v": 22,
+    "t": "So Naomi returned; and Ruth, the Moabitess, her daughter-in-law, was with her, returning out of the fields of Moab. And they came to Bethlehem at the beginning of barley harvest.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "31002001",
+    "b": 31,
+    "c": 2,
+    "v": 1,
+    "t": "And Naomi had a kinsman of her husband’s, a mighty man of wealth, of the family of Elimelech. And his name was Boaz.",
+    "h": "CHAPTER TWO",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "31002002",
+    "b": 31,
+    "c": 2,
+    "v": 2,
+    "t": "And Ruth the Moabitess said to Naomi, “Let me now go to the field and glean ears of grain after him in whose sight I shall find grace.” And she said to her, “Go, my daughter.”",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "31002003",
+    "b": 31,
+    "c": 2,
+    "v": 3,
+    "t": "And she went. And she came and gleaned in the field after the reapers. And she happened to come upon a part of the field of Boaz, who was of the kindred of Elimelech.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "31002004",
+    "b": 31,
+    "c": 2,
+    "v": 4,
+    "t": "And behold, Boaz came from Bethlehem and said to the reapers, “The Lord be with you.” And they answered him, “The Lord bless you.”",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "31002005",
+    "b": 31,
+    "c": 2,
+    "v": 5,
+    "t": "And Boaz said to his servant who was set over the reapers, “Whose young woman is this?”",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "31002006",
+    "b": 31,
+    "c": 2,
+    "v": 6,
+    "t": "And the servant who was set over the reapers answered and said, “It is the young Moabite woman who came back with Naomi out of the country of Moab.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "31002007",
+    "b": 31,
+    "c": 2,
+    "v": 7,
+    "t": "And she said, ‘Please let me glean and gather after the reapers among the sheaves.’ So she came, and has continued from the morning until now, although she rested a little in the house.”",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "31002008",
+    "b": 31,
+    "c": 2,
+    "v": 8,
+    "t": "And Boaz said to Ruth, “Will you not listen, my daughter? Do not go to glean in another field, neither go away from here, but stay here close by my maidens.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "31002009",
+    "b": 31,
+    "c": 2,
+    "v": 9,
+    "t": "Let your eyes be on the field that they reap, and follow after them. Have I not commanded the young men that they shall not touch you? And when you are thirsty, go to the vessels and drink of that which the young men have drawn.”",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "31002010",
+    "b": 31,
+    "c": 2,
+    "v": 10,
+    "t": "Then she fell on her face and bowed herself to the ground, and said to him, “Why have I found grace in your eyes, that you should take notice of me, since I am a foreigner?”",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "31002011",
+    "b": 31,
+    "c": 2,
+    "v": 11,
+    "t": "And Boaz answered and said to her, “It has been fully shown to me all that you have done to your mother-in-law since the death of your husband, and you left your father and your mother and the land of your birth, and have come to a people whom you did not know before now.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "31002012",
+    "b": 31,
+    "c": 2,
+    "v": 12,
+    "t": "May the Lord repay your work, and may a full reward be given you from the Lord God of Israel, under Whose wings you have come to seek refuge.”",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "31002013",
+    "b": 31,
+    "c": 2,
+    "v": 13,
+    "t": "Then she said, “Let me find favor in your sight, my lord, for you have comforted me; for you have spoken kindly to your handmaid, though I am not like one of your handmaidens.”",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "31002014",
+    "b": 31,
+    "c": 2,
+    "v": 14,
+    "t": "And Boaz said to her at mealtime, “Come here and eat of the bread and dip your bit in the vinegar.” And she sat beside the reapers. And he handed her roasted grain, and she ate and was satisfied, and left.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "31002015",
+    "b": 31,
+    "c": 2,
+    "v": 15,
+    "t": "And when she had risen up to glean, Boaz commanded his young men saying, “Let her glean even among the sheaves, and do not rebuke her.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "31002016",
+    "b": 31,
+    "c": 2,
+    "v": 16,
+    "t": "And also let fall some of the bundles on purpose for her, and leave them so that she may glean them, and do not rebuke her.”",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "31002017",
+    "b": 31,
+    "c": 2,
+    "v": 17,
+    "t": "And she gleaned in the field until the evening, and beat out what she had gleaned. And it was about an ephah of barley.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "31002018",
+    "b": 31,
+    "c": 2,
+    "v": 18,
+    "t": "And she took it up and went into the city. And her mother-in-law saw what she had gleaned. And she brought it forth, and gave to her what she had left after she was satisfied.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "31002019",
+    "b": 31,
+    "c": 2,
+    "v": 19,
+    "t": "And her mother-in-law said to her, “Where have you gleaned today? And where did you work? Blessed is he who took notice of you.” And she told her mother-in-law with whom she had worked, and said, “The man’s name with whom I worked today is Boaz.”",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "31002020",
+    "b": 31,
+    "c": 2,
+    "v": 20,
+    "t": "And Naomi said to her daughter-in-law, “Blessed is he of the Lord, Who has not left off His kindness to the living and to the dead.” And Naomi said to her, “The man is near of kin to us, he is one of our closest kinsmen.”",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "31002021",
+    "b": 31,
+    "c": 2,
+    "v": 21,
+    "t": "And Ruth the Moabitess said, “He said to me also, ‘You shall keep close by my young men whom I have working until they have ended all my harvest.’ ”",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "31002022",
+    "b": 31,
+    "c": 2,
+    "v": 22,
+    "t": "And Naomi said to her daughter-in-law Ruth, “Good, my daughter. You go out with his maidens so that others do not meet you in any other field.”",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "31002023",
+    "b": 31,
+    "c": 2,
+    "v": 23,
+    "t": "So she kept close by the maidens of Boaz to glean until the end of barley harvest and of wheat harvest. And she lived with her mother-in-law.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "31003001",
+    "b": 31,
+    "c": 3,
+    "v": 1,
+    "t": "And her mother-in-law Naomi said to her, “My daughter, shall I not seek rest for you so that it may be well with you?",
+    "h": "CHAPTER THREE",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "31003002",
+    "b": 31,
+    "c": 3,
+    "v": 2,
+    "t": "And now is not Boaz of our kindred, with whose maidens you worked ? Behold, he winnows barley tonight in the threshing floor.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "31003003",
+    "b": 31,
+    "c": 3,
+    "v": 3,
+    "t": "Therefore wash yourself, and anoint yourself, and put your clothing upon you, and go down to the threshing floor. But do not make yourself known to the man until he has finished eating and drinking.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "31003004",
+    "b": 31,
+    "c": 3,
+    "v": 4,
+    "t": "And when he lies down, you mark the place where he lies, and you shall go in and uncover his feet and lie down. And he will tell you what you shall do.”",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "31003005",
+    "b": 31,
+    "c": 3,
+    "v": 5,
+    "t": "And she said to her, “All that you say, I will do.”",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "31003006",
+    "b": 31,
+    "c": 3,
+    "v": 6,
+    "t": "And she went down to the threshing floor and did according to all that her mother-in-law had told her.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "31003007",
+    "b": 31,
+    "c": 3,
+    "v": 7,
+    "t": "And when Boaz had eaten and had drunk, and his heart was merry, he went to lie down at the end of the heap of grain. And she came softly and uncovered his feet, and lay down.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "31003008",
+    "b": 31,
+    "c": 3,
+    "v": 8,
+    "t": "And it came to pass at midnight, the man was startled and turned himself. And, behold, a woman lay at his feet.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "31003009",
+    "b": 31,
+    "c": 3,
+    "v": 9,
+    "t": "And he said, “Who are you?” And she answered, “I am your handmaid Ruth. And you shall spread your skirt over your handmaid, for you are a kinsman-redeemer.”",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "31003010",
+    "b": 31,
+    "c": 3,
+    "v": 10,
+    "t": "And he said, “Blessed be you of the Lord, my daughter. You have shown more kindness in the end than at the beginning, in that you did not follow young men, whether poor or rich.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "31003011",
+    "b": 31,
+    "c": 3,
+    "v": 11,
+    "t": "And now, my daughter, do not fear. I will do to you all that you ask. For all the men in the city of my people know that you are a woman of virtue.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "31003012",
+    "b": 31,
+    "c": 3,
+    "v": 12,
+    "t": "And now it is true that I am your kinsman-redeemer. But there is also a kinsman nearer than I.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "31003013",
+    "b": 31,
+    "c": 3,
+    "v": 13,
+    "t": "Stay tonight, and it shall be that in the morning if he will redeem you—good, he will redeem. But if he does not delight to redeem you, as the Lord lives, then I will redeem you. Lie down until the morning.”",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "31003014",
+    "b": 31,
+    "c": 3,
+    "v": 14,
+    "t": "And she lay at his feet until the morning. And she rose up before one could discern another. And he said, “Do not let it be known that a woman came to the floor.”",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "31003015",
+    "b": 31,
+    "c": 3,
+    "v": 15,
+    "t": "Also, he said, “Bring the shawl that is upon you, and hold it.” And when she held it, he measured six measures of barley and laid it on her. Then she went to the city.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "31003016",
+    "b": 31,
+    "c": 3,
+    "v": 16,
+    "t": "And when she came to her mother-in-law, she said, “ Is that you, my daughter?” And she told her all that the man had done to her.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "31003017",
+    "b": 31,
+    "c": 3,
+    "v": 17,
+    "t": "And she said, “These six measures of barley he gave to me. For he said to me, ‘Do not go empty to your mother-in-law.’ ”",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "31003018",
+    "b": 31,
+    "c": 3,
+    "v": 18,
+    "t": "Then she said, “Sit still, my daughter, until you know how the matter will fall. For the man will not rest until he has concluded the matter today.”",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "31004001",
+    "b": 31,
+    "c": 4,
+    "v": 1,
+    "t": "And Boaz went up to the gate and sat down there. And behold, the near kinsman of whom Boaz spoke came by. And he said to him, “Such a one! Turn aside, sit down here.” And he turned aside and sat down.",
+    "h": "CHAPTER FOUR",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "31004002",
+    "b": 31,
+    "c": 4,
+    "v": 2,
+    "t": "And he took ten men of the elders of the city and said, “Come sit down here.” And they sat down.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "31004003",
+    "b": 31,
+    "c": 4,
+    "v": 3,
+    "t": "And he said to the near kinsman, “Naomi, who has come back from the country of Moab, sells a parcel of land which was our brother Elimelech’s.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "31004004",
+    "b": 31,
+    "c": 4,
+    "v": 4,
+    "t": "And I thought to disclose it to you, saying, ‘Buy it before those who live here, and before the elders of my people. If you will redeem, redeem it. But if you will not redeem, tell me so that I may know. For there is none to redeem besides you—and I am after you.’ ” And he said, “I will redeem.”",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "31004005",
+    "b": 31,
+    "c": 4,
+    "v": 5,
+    "t": "And Boaz said, “In the day you buy the field from the hand of Naomi, you acquire Ruth of Moab, the wife of the dead, to raise up the name of the dead upon his inheritance.”",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "31004006",
+    "b": 31,
+    "c": 4,
+    "v": 6,
+    "t": "And the kinsman said, “I cannot redeem for myself, lest I mar my own inheritance. You take my right of redemption to yourself, for I cannot redeem it.”",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "31004007",
+    "b": 31,
+    "c": 4,
+    "v": 7,
+    "t": "Now this was the custom in former times in Israel concerning redeeming and concerning exchanging, to confirm everything. A man took off his shoe and gave it to his neighbor. And this was a testimony in Israel.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "31004008",
+    "b": 31,
+    "c": 4,
+    "v": 8,
+    "t": "Therefore the near kinsman said to Boaz, “Buy it for yourself.” So he drew off his shoe.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "31004009",
+    "b": 31,
+    "c": 4,
+    "v": 9,
+    "t": "And Boaz said to the elders and all the people, “You are witnesses this day that I have bought all that was Elimelech’s, and all that was Chilion’s and Mahlon’s, from the hand of Naomi.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "31004010",
+    "b": 31,
+    "c": 4,
+    "v": 10,
+    "t": "Moreover Ruth of Moab, the wife of Mahlon, I have acquired to be my wife, to raise up the name of the dead on his inheritance, so that the name of the dead may not be cut off from among his brothers and from the gate of his place. You are witnesses this day.”",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "31004011",
+    "b": 31,
+    "c": 4,
+    "v": 11,
+    "t": "And all the people in the gate, and the elders, said, “We are witnesses. May the Lord make the woman who has come into your house like Rachel and like Leah, for these two built the house of Israel. And may you do worthily in Ephratah, and be famous in Bethlehem.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "31004012",
+    "b": 31,
+    "c": 4,
+    "v": 12,
+    "t": "And let your house be like the house of Pharez, whom Tamar bore to Judah, of the seed which the Lord shall give you of this young woman.”",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "31004013",
+    "b": 31,
+    "c": 4,
+    "v": 13,
+    "t": "And Boaz took Ruth, and she became his wife. And when he went in to her, the Lord enabled her to conceive. And she bore a son.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "31004014",
+    "b": 31,
+    "c": 4,
+    "v": 14,
+    "t": "And the women said to Naomi, “Blessed be the Lord, who has not left you this day without a kinsman-redeemer, so that his name may be famous in Israel.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "31004015",
+    "b": 31,
+    "c": 4,
+    "v": 15,
+    "t": "And he shall be to you as a restorer of life, and a nourisher of your old age. For your daughter-in-law who loves you has borne him, she who is better to you than seven sons.”",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "31004016",
+    "b": 31,
+    "c": 4,
+    "v": 16,
+    "t": "And Naomi took the child and laid it in her bosom, and became nurse to it.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "31004017",
+    "b": 31,
+    "c": 4,
+    "v": 17,
+    "t": "And the women, her neighbors, gave him a name, saying, “There is a son born to Naomi.” And they called his name Obed. He is the father of Jesse, the father of David.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "31004018",
+    "b": 31,
+    "c": 4,
+    "v": 18,
+    "t": "And these are the generations of Pharez. Pharez begat Hezron,",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "31004019",
+    "b": 31,
+    "c": 4,
+    "v": 19,
+    "t": "And Hezron begat Ram, and Ram begat Amminadab,",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "31004020",
+    "b": 31,
+    "c": 4,
+    "v": 20,
+    "t": "And Amminadab begat Nahshon, and Nahshon begat Salmon,",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "31004021",
+    "b": 31,
+    "c": 4,
+    "v": 21,
+    "t": "And Salmon begat Boaz, and Boaz begat Obed,",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "31004022",
+    "b": 31,
+    "c": 4,
+    "v": 22,
+    "t": "And Obed begat Jesse, and Jesse begat David.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  }
+]

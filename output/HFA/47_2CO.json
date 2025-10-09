@@ -1,0 +1,2562 @@
+[
+  {
+    "id": "47001001",
+    "b": 47,
+    "c": 1,
+    "v": 1,
+    "t": "Paulus, den Gott zum Apostel von Jesus Christus berufen hat, und sein Mitarbeiter Timotheus schreiben diesen Brief an die Gemeinde Gottes in Korinth und an alle in der Provinz Achaja, die zu Gott gehören.",
+    "h": "Paulus und sein Dienst als Apostel\n(Kapitel 1,1–2,13)\nAnschrift und Gruß",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "47001002",
+    "b": 47,
+    "c": 1,
+    "v": 2,
+    "t": "Ich wünsche euch Gnade und Frieden von Gott, unserem Vater, und von Jesus Christus, unserem Herrn.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "47001003",
+    "b": 47,
+    "c": 1,
+    "v": 3,
+    "t": "Gelobt sei Gott, der Vater unseres Herrn Jesus Christus! Er ist der barmherzige Vater, der Gott, von dem aller Trost kommt!",
+    "h": "Dank für Gottes Hilfe",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "47001004",
+    "b": 47,
+    "c": 1,
+    "v": 4,
+    "t": "In allen Schwierigkeiten ermutigt er uns und steht uns bei, so dass wir auch andere trösten können, die wegen ihres Glaubens angefeindet werden. Wir ermutigen sie, wie Gott uns ermutigt hat.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "47001005",
+    "b": 47,
+    "c": 1,
+    "v": 5,
+    "t": "Weil wir Christus gehören und ihm dienen, müssen wir viel leiden, aber in ebenso reichem Maße erfahren wir auch seine Hilfe.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "47001006",
+    "b": 47,
+    "c": 1,
+    "v": 6,
+    "t": "Deshalb kommt es euch zugute, wenn wir verfolgt werden, denn unser Leid dient zu eurer Ermutigung und Rettung. Und wenn wir getröstet werden, dann geschieht auch das zu eurem Besten. Es gibt euch Kraft, die gleichen Leiden wie wir geduldig zu ertragen.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "47001007",
+    "b": 47,
+    "c": 1,
+    "v": 7,
+    "t": "Darum sind wir zuversichtlich und haben keine Angst um euch. Denn ihr werdet zwar leiden müssen wie wir, aber genauso werdet ihr auch Gottes Trost und Ermutigung erfahren wie wir.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "47001008",
+    "b": 47,
+    "c": 1,
+    "v": 8,
+    "t": "Liebe Brüder und Schwestern! Ihr sollt wissen, dass wir in der Provinz Asia Schweres erdulden mussten. Wir waren mit unseren Kräften am Ende und hatten schon mit dem Leben abgeschlossen.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "47001009",
+    "b": 47,
+    "c": 1,
+    "v": 9,
+    "t": "Unser Tod schien unausweichlich. Aber Gott wollte, dass wir uns nicht auf uns selbst verlassen, sondern auf ihn, der die Toten zu neuem Leben erweckt.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "47001010",
+    "b": 47,
+    "c": 1,
+    "v": 10,
+    "t": "Und tatsächlich hat Gott uns vor dem sicheren Tod gerettet und wird es auch in Zukunft tun. Wir setzen unser Vertrauen auf ihn: Er wird uns immer wieder aus Todesgefahr befreien.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "47001011",
+    "b": 47,
+    "c": 1,
+    "v": 11,
+    "t": "Dazu tragen auch eure Gebete für uns bei. Und so werden nicht nur wir, sondern viele Gott dafür danken, dass er uns gnädig ist und uns bewahrt hat.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "47001012",
+    "b": 47,
+    "c": 1,
+    "v": 12,
+    "t": "Wenn es etwas gibt, worauf wir stolz sein können, dann ist es unser gutes Gewissen: Wir leben so, wie Gott es will; wir haben euch nichts vorgemacht. Nicht eigensüchtige Überlegungen haben unser Handeln bestimmt, sondern allein Gottes Barmherzigkeit. So haben wir uns überall verhalten, und ganz besonders bei euch.",
+    "h": "Paulus wehrt sich gegen falsche Anschuldigungen",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "47001013",
+    "b": 47,
+    "c": 1,
+    "v": 13,
+    "t": "Auch unsere Briefe wollen nichts anderes sagen, als was ihr lesen und verstehen könnt. Ich hoffe, ihr werdet einmal voll und ganz begreifen, was ich meine.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "47001014",
+    "b": 47,
+    "c": 1,
+    "v": 14,
+    "t": "Wenigstens zum Teil habt ihr schon verstanden, dass ihr auf uns stolz sein könnt, genauso wie wir auf euch, wenn Jesus, unser Herr, kommen wird.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "47001015",
+    "b": 47,
+    "c": 1,
+    "v": 15,
+    "t": "In dieser Zuversicht wollte ich zuerst euch besuchen. Gerne wäre ich zweimal zu euch gekommen und hätte euch beide Male Gottes Liebe nahegebracht –",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "47001016",
+    "b": 47,
+    "c": 1,
+    "v": 16,
+    "t": "sowohl auf dem Weg nach Mazedonien als auch auf der Rückreise von dort. Einige von euch hätten mich dann nach Judäa begleiten können.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "47001017",
+    "b": 47,
+    "c": 1,
+    "v": 17,
+    "t": "Bin ich denn wirklich leichtfertig gewesen, als ich diese Reise plante? Entscheide ich etwa so, wie ich selbst es für richtig halte, ohne nach Gottes Willen zu fragen? Gehöre ich zu den unzuverlässigen Leuten, die »Ja« sagen, wenn sie »Nein« meinen?",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "47001018",
+    "b": 47,
+    "c": 1,
+    "v": 18,
+    "t": "Gott ist mein Zeuge, dass wir niemals etwas anderes sagen, als wir wirklich meinen.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "47001019",
+    "b": 47,
+    "c": 1,
+    "v": 19,
+    "t": "Auch Jesus Christus, der Sohn Gottes, den Silvanus, Timotheus und ich euch verkündet haben, war nicht gleichzeitig »Ja« und »Nein«. Er selbst ist in seiner Person das Ja Gottes zu uns,",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "47001020",
+    "b": 47,
+    "c": 1,
+    "v": 20,
+    "t": "denn alle Zusagen Gottes erfüllen sich in ihm. Und auf das, was Christus für uns getan hat, antworten wir zur Ehre Gottes mit »Amen«.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "47001021",
+    "b": 47,
+    "c": 1,
+    "v": 21,
+    "t": "Gott selbst hat unser und euer Leben auf ein festes Fundament gestellt, auf Christus, und uns mit seinem Geist erfüllt.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "47001022",
+    "b": 47,
+    "c": 1,
+    "v": 22,
+    "t": "So drückte er uns sein Siegel auf, wir sind sein Eigentum geworden. Das Geschenk des Geistes in unseren Herzen ist Gottes sicheres Pfand für das, was er uns noch schenken wird.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "47001023",
+    "b": 47,
+    "c": 1,
+    "v": 23,
+    "t": "Warum bin ich dann nicht wie geplant nach Korinth gekommen? Ich rufe Gott als Zeugen an; er soll mich strafen, wenn ich nicht die Wahrheit sage: Es geschah nur, um euch zu schonen.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "47001024",
+    "b": 47,
+    "c": 1,
+    "v": 24,
+    "t": "Damit will ich nicht sagen, dass wir über euch und euren Glauben herrschen wollten. – Nein! Unser Auftrag ist es zu helfen, dass ihr euch freuen könnt. Im Glauben steht ihr ja bereits fest.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "47002001",
+    "b": 47,
+    "c": 2,
+    "v": 1,
+    "t": "Ein Besuch bei euch schien mir nicht sinnvoll zu sein, weil er uns allen nur neuen Kummer gebracht hätte.",
+    "h": "",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "47002002",
+    "b": 47,
+    "c": 2,
+    "v": 2,
+    "t": "Denn wenn ich euch nur traurig mache, bleibt ja niemand, der mich wieder froh stimmen könnte.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "47002003",
+    "b": 47,
+    "c": 2,
+    "v": 3,
+    "t": "Genau das habe ich euch ja in meinem Brief geschrieben. Ich wollte nicht zu euch kommen und erleben, wie gerade die Menschen, die mir Freude bereiten sollten, mich traurig machen. Denn ich bin mir sicher, dass auch ihr euch freut, wenn ich mich freuen kann.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "47002004",
+    "b": 47,
+    "c": 2,
+    "v": 4,
+    "t": "In großer Sorge, mit schwerem Herzen und unter Tränen hatte ich euch geschrieben. Aber ich wollte euch damit nicht verletzen. Im Gegenteil! Ihr solltet vielmehr erkennen, wie sehr ich gerade euch liebe.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "47002005",
+    "b": 47,
+    "c": 2,
+    "v": 5,
+    "t": "Wer anderen Kummer bereitet hat, der hat nicht nur mich traurig gemacht, sondern euch alle – oder doch fast alle, um nicht zu übertreiben.",
+    "h": "Vergebung für einen Bestraften",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "47002006",
+    "b": 47,
+    "c": 2,
+    "v": 6,
+    "t": "Die meisten von euch haben sein Verhalten bestraft, damit soll es gut sein.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "47002007",
+    "b": 47,
+    "c": 2,
+    "v": 7,
+    "t": "Jetzt müsst ihr ihm vergeben und ihn ermutigen, denn er soll nicht verzweifeln.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "47002008",
+    "b": 47,
+    "c": 2,
+    "v": 8,
+    "t": "Deshalb bitte ich euch: Entschließt euch dazu, ihm wieder eure Liebe zu zeigen.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "47002009",
+    "b": 47,
+    "c": 2,
+    "v": 9,
+    "t": "Der Zweck meines Briefes ist ja erreicht; ich wollte nämlich sehen, ob ihr euch bewährt und meine Anweisungen befolgt.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "47002010",
+    "b": 47,
+    "c": 2,
+    "v": 10,
+    "t": "Wem ihr vergebt, dem vergebe ich auch. Wenn ich etwas zu vergeben hatte, dann habe ich es um euretwillen vor Christus längst getan.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "47002011",
+    "b": 47,
+    "c": 2,
+    "v": 11,
+    "t": "Denn wir kennen die Absichten Satans nur zu genau und wissen, wie er uns zu Fall bringen möchte. Aber das soll ihm nicht gelingen.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "47002012",
+    "b": 47,
+    "c": 2,
+    "v": 12,
+    "t": "Als ich nach Troas kam, um dort die rettende Botschaft von Christus zu verkünden, schenkte der Herr mir überall offene Türen; die Menschen nahmen meine Worte bereitwillig auf.",
+    "h": "Paulus in Troas",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "47002013",
+    "b": 47,
+    "c": 2,
+    "v": 13,
+    "t": "Trotzdem war ich beunruhigt, weil ich meinen Mitarbeiter Titus nicht antraf. Darum verabschiedete ich mich bald wieder von den Christen in Troas und reiste ihm nach Mazedonien entgegen.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "47002014",
+    "b": 47,
+    "c": 2,
+    "v": 14,
+    "t": "Von ganzem Herzen danke ich Gott dafür, dass er uns immer im Triumphzug von Christus mitführt. Wohin wir auch kommen, verbreitet sich die Erkenntnis Gottes wie ein angenehmer Duft, dem sich niemand entziehen kann.",
+    "h": "Die Herrlichkeit des neuen Bundes\n(Kapitel 2,14–4,18)\nVon Christus in den Dienst genommen",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "47002015",
+    "b": 47,
+    "c": 2,
+    "v": 15,
+    "t": "Ob die Menschen nun die Botschaft annehmen und gerettet werden oder sie ablehnen und verloren gehen: Durch Christus sind wir ein Wohlgeruch für Gott.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "47002016",
+    "b": 47,
+    "c": 2,
+    "v": 16,
+    "t": "Für die einen ist es ein Verwesungsgeruch, der ihnen den Tod bringt; für die anderen aber ein angenehmer Duft, der ihnen neues Leben gibt. Wer aber ist für diese große Aufgabe geeignet?",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "47002017",
+    "b": 47,
+    "c": 2,
+    "v": 17,
+    "t": "Nun, wir machen jedenfalls mit Gottes Botschaft keine Geschäfte wie so manche andere. Wir reden in aller Aufrichtigkeit und in Gottes Auftrag, weil wir mit Christus eng verbunden sind und uns Gott verantwortlich wissen.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "47003001",
+    "b": 47,
+    "c": 3,
+    "v": 1,
+    "t": "Wollen wir damit etwa schon wieder für uns selbst werben? Sollen wir euch etwa, wie es gewisse Leute tun, Empfehlungsschreiben vorzeigen oder uns solche von euch geben lassen?",
+    "h": "Ein Empfehlungsschreiben von Gott",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "47003002",
+    "b": 47,
+    "c": 3,
+    "v": 2,
+    "t": "Ihr selbst seid doch der beste Empfehlungsbrief für uns! Er ist in unser Herz geschrieben und kann von allen gelesen werden.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "47003003",
+    "b": 47,
+    "c": 3,
+    "v": 3,
+    "t": "Ja, jeder kann sehen, dass ihr selbst ein Brief von Christus seid, den wir in seinem Auftrag geschrieben haben; nicht mit Tinte, sondern mit dem Geist des lebendigen Gottes; nicht auf steinerne Gesetzestafeln wie bei Mose, sondern in menschliche Herzen.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "47003004",
+    "b": 47,
+    "c": 3,
+    "v": 4,
+    "t": "Das wagen wir nur deshalb zu sagen, weil wir Gott vertrauen, der uns durch Christus beauftragt hat.",
+    "h": "Im Dienst für den neuen Bund",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "47003005",
+    "b": 47,
+    "c": 3,
+    "v": 5,
+    "t": "Wir bilden uns nicht ein, diesen Auftrag aus eigener Kraft erfüllen zu können; nein, Gott hat uns dazu fähig gemacht.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "47003006",
+    "b": 47,
+    "c": 3,
+    "v": 6,
+    "t": "Nur durch ihn können wir die rettende Botschaft verkünden, den neuen Bund, den Gott mit uns Menschen geschlossen hat. Dieser Bund ist nicht mehr vom geschriebenen Gesetz bestimmt, sondern von Gottes Geist. Denn der Buchstabe des Gesetzes tötet, Gottes Geist aber schenkt Leben.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "47003007",
+    "b": 47,
+    "c": 3,
+    "v": 7,
+    "t": "Schon der Dienst im alten Bund, der auf dem in Stein gemeißelten Gesetz beruhte und den Menschen den Tod brachte, ließ etwas von Gottes Herrlichkeit erkennen. Nachdem Gott Mose das Gesetz gegeben hatte, lag da nicht ein Glanz auf Moses Gesicht – so stark, dass die Israeliten es nicht ertragen konnten? Dabei war es doch ein Glanz, der wieder verblasste!",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "47003008",
+    "b": 47,
+    "c": 3,
+    "v": 8,
+    "t": "Wie viel herrlicher muss es dann sein, Gott im neuen Bund zu dienen und die rettende Botschaft von Christus zu verkünden! Denn dieser Dienst führt Menschen durch Gottes Geist zum Leben.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "47003009",
+    "b": 47,
+    "c": 3,
+    "v": 9,
+    "t": "Wenn schon der Auftrag, der den Menschen die Verurteilung brachte, so sichtbar Gottes Herrlichkeit ausstrahlte, wie viel herrlicher ist dann der Auftrag, durch den die Menschen von ihrer Schuld vor Gott freigesprochen werden!",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "47003010",
+    "b": 47,
+    "c": 3,
+    "v": 10,
+    "t": "Ja, was damals herrlich erschien, verblasst völlig vor der überwältigenden Herrlichkeit unseres Auftrags.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "47003011",
+    "b": 47,
+    "c": 3,
+    "v": 11,
+    "t": "Wenn schon die alte Ordnung, die doch nur für eine bestimmte Zeit galt, Gottes Herrlichkeit erstrahlen ließ, um wie viel mehr wird sich Gottes Herrlichkeit durch die neue Ordnung offenbaren, die ewig gilt!",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "47003012",
+    "b": 47,
+    "c": 3,
+    "v": 12,
+    "t": "Weil wir diese Hoffnung haben, können wir voller Zuversicht vor die Menschen treten.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "47003013",
+    "b": 47,
+    "c": 3,
+    "v": 13,
+    "t": "Und wir brauchen auch nicht unser Gesicht mit einem Tuch zu verhüllen, wie Mose es getan hat, damit die Israeliten nicht sahen, wie der Glanz Gottes auf seinem Gesicht wieder erlosch.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "47003014",
+    "b": 47,
+    "c": 3,
+    "v": 14,
+    "t": "Aber nicht nur das, sie waren verschlossen für Gottes Botschaft. Bis zum heutigen Tag sind die Schriften des Alten Bundes für sie wie mit einem Tuch verhüllt. Sie lesen es zwar, aber seinen Sinn verstehen sie nicht. Dieses Tuch wird erst dann weggenommen, wenn sie an Christus glauben.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "47003015",
+    "b": 47,
+    "c": 3,
+    "v": 15,
+    "t": "Bis heute liegt es auf ihren Herzen, wenn aus den Büchern von Mose vorgelesen wird.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "47003016",
+    "b": 47,
+    "c": 3,
+    "v": 16,
+    "t": "Aber wie es bei Mose war, so ist es auch bei ihnen: Wenn sich Israel dem Herrn zuwendet, wird das Tuch weggenommen.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "47003017",
+    "b": 47,
+    "c": 3,
+    "v": 17,
+    "t": "Mit dem »Herrn« ist Gottes Geist gemeint. Und wo der Geist des Herrn ist, da ist Freiheit.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "47003018",
+    "b": 47,
+    "c": 3,
+    "v": 18,
+    "t": "Wir alle aber stehen mit unverhülltem Gesicht vor Gott und spiegeln seine Herrlichkeit wider. Der Herr verändert uns durch seinen Geist, damit wir ihm immer ähnlicher werden und immer mehr Anteil an seiner Herrlichkeit bekommen.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "47004001",
+    "b": 47,
+    "c": 4,
+    "v": 1,
+    "t": "Weil Gott uns in seiner Barmherzigkeit die herrliche Aufgabe übertragen hat, seine Botschaft zu verkünden, verlieren wir nicht den Mut.",
+    "h": "Zeitliche Leiden – ewige Herrlichkeit",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "47004002",
+    "b": 47,
+    "c": 4,
+    "v": 2,
+    "t": "Wir halten uns fern von allen Heimlichkeiten, für die wir uns schämen müssten, wir täuschen niemanden und verdrehen auch nicht Gottes Botschaft. Im Gegenteil, wir sind Gott verantwortlich und verkünden frei und unverfälscht seine Wahrheit. Das ist unsere Selbstempfehlung! Jeder, der auf sein Gewissen hört, wird mir recht geben.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "47004003",
+    "b": 47,
+    "c": 4,
+    "v": 3,
+    "t": "Die rettende Botschaft, die wir bekannt machen, bleibt nur für die dunkel und verhüllt, die verloren gehen.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "47004004",
+    "b": 47,
+    "c": 4,
+    "v": 4,
+    "t": "Sie hat der Satan, der Herrscher dieser Welt, so verblendet, dass sie nicht glauben. Deshalb sehen sie auch das helle Licht dieser Botschaft nicht, die von Christus und seiner Herrlichkeit spricht. Und doch erkennen wir Gott selbst nur durch Christus, weil dieser Gottes Ebenbild ist.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "47004005",
+    "b": 47,
+    "c": 4,
+    "v": 5,
+    "t": "Nicht wir sind der Mittelpunkt unserer Predigt, sondern Christus, der Herr! Wir sind nur eure Diener, aus Liebe zu Jesus.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "47004006",
+    "b": 47,
+    "c": 4,
+    "v": 6,
+    "t": "Denn so wie Gott einmal befahl: »Licht soll aus der Dunkelheit hervorbrechen!«, so hat sein Licht auch unsere Herzen erhellt. Jetzt erkennen wir klar, dass uns in Jesus Christus Gottes Herrlichkeit entgegenstrahlt.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "47004007",
+    "b": 47,
+    "c": 4,
+    "v": 7,
+    "t": "Diesen kostbaren Schatz tragen wir in uns, obwohl wir nur zerbrechliche Gefäße sind. So wird jeder erkennen, dass die außerordentliche Kraft, die in uns wirkt, von Gott kommt und nicht von uns selbst.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "47004008",
+    "b": 47,
+    "c": 4,
+    "v": 8,
+    "t": "Die Schwierigkeiten bedrängen uns von allen Seiten, und doch werden wir nicht von ihnen überwältigt. Wir sind oft ratlos, aber wir verzweifeln nicht.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "47004009",
+    "b": 47,
+    "c": 4,
+    "v": 9,
+    "t": "Von Menschen werden wir verfolgt, aber bei Gott finden wir Zuflucht. Wir werden zu Boden geschlagen, aber wir kommen dabei nicht um.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "47004010",
+    "b": 47,
+    "c": 4,
+    "v": 10,
+    "t": "Tagtäglich erfahren wir am eigenen Leib etwas vom Sterben, das Jesus durchlitten hat. So wird an uns auch etwas vom Leben des auferstandenen Jesus sichtbar.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "47004011",
+    "b": 47,
+    "c": 4,
+    "v": 11,
+    "t": "Weil wir zu Jesus gehören, sind wir unser Leben lang ständig dem Tod ausgeliefert; aber an unserem sterblichen Leib wird auch immer wieder sein Leben sichtbar.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "47004012",
+    "b": 47,
+    "c": 4,
+    "v": 12,
+    "t": "Uns bringt der Dienst für Jesus andauernd in Todesgefahr, euch dagegen hat er neues Leben gebracht.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "47004013",
+    "b": 47,
+    "c": 4,
+    "v": 13,
+    "t": "Wir haben Gottes Geist, der uns auf Gott vertrauen lässt. Es ist derselbe Geist, der auch den Beter in der Heiligen Schrift erfüllte, als er sagte: »Ich vertraute auf Gott, deshalb redete ich!« Weil wir also an Jesus Christus glauben, müssen wir von ihm reden.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "47004014",
+    "b": 47,
+    "c": 4,
+    "v": 14,
+    "t": "Wir wissen: Gott, der den Herrn Jesus vom Tod auferweckt hat, wird uns genau wie ihn auferwecken. Dann werden wir mit euch gemeinsam vor Gott stehen.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "47004015",
+    "b": 47,
+    "c": 4,
+    "v": 15,
+    "t": "Alle Entbehrungen aber ertragen wir für euch. Denn je mehr Menschen das Geschenk der Gnade Gottes annehmen, umso mehr werden Gott danken und ihn über alles ehren.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "47004016",
+    "b": 47,
+    "c": 4,
+    "v": 16,
+    "t": "Darum verlieren wir nicht den Mut. Wenn auch unsere körperlichen Kräfte aufgezehrt werden, wird doch das Leben, das Gott uns schenkt, von Tag zu Tag erneuert.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "47004017",
+    "b": 47,
+    "c": 4,
+    "v": 17,
+    "t": "Was wir jetzt leiden müssen, dauert nicht lange. Es ist leicht zu ertragen und bringt uns eine unendliche, unvorstellbare Herrlichkeit.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "47004018",
+    "b": 47,
+    "c": 4,
+    "v": 18,
+    "t": "Deshalb lassen wir uns von dem, was uns zurzeit so sichtbar bedrängt, nicht ablenken, sondern wir richten unseren Blick auf das, was jetzt noch unsichtbar ist. Denn das Sichtbare vergeht, doch das Unsichtbare bleibt ewig.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "47005001",
+    "b": 47,
+    "c": 5,
+    "v": 1,
+    "t": "Das wissen wir: Unser irdischer Leib ist vergänglich; er gleicht einem Zelt, das eines Tages abgebrochen wird. Dann erhalten wir einen neuen Leib, eine Behausung, die nicht von Menschen errichtet ist. Gott hält sie im Himmel für uns bereit, und sie wird ewig bleiben.",
+    "h": "Mit Gott versöhnt durch Jesus Christus\n(Kapitel 5)\nHoffnung auf eine neue Heimat",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "47005002",
+    "b": 47,
+    "c": 5,
+    "v": 2,
+    "t": "Voll Verlangen sehnen wir uns danach, den neuen Leib schon jetzt überzuziehen wie ein Gewand,",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "47005003",
+    "b": 47,
+    "c": 5,
+    "v": 3,
+    "t": "damit wir nicht nackt, sondern bekleidet sind, wenn wir unseren irdischen Körper ablegen müssen.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "47005004",
+    "b": 47,
+    "c": 5,
+    "v": 4,
+    "t": "Solange wir in diesem Körper leben, liegt eine schwere Last auf uns. Am liebsten wäre es uns, wenn wir nicht erst sterben müssten, um unseren neuen Körper anziehen zu können. Wir möchten den neuen Körper einfach über den alten ziehen, damit alles Vergängliche vom Leben überwunden wird.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "47005005",
+    "b": 47,
+    "c": 5,
+    "v": 5,
+    "t": "Auf dieses neue Leben hat uns Gott vorbereitet, indem er uns als sicheres Pfand dafür schon jetzt seinen Geist gegeben hat.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "47005006",
+    "b": 47,
+    "c": 5,
+    "v": 6,
+    "t": "Deshalb sind wir jederzeit zuversichtlich, auch wenn wir in unserem irdischen Leib noch nicht bei Gott zu Hause sind.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "47005007",
+    "b": 47,
+    "c": 5,
+    "v": 7,
+    "t": "Unser Leben auf dieser Erde ist dadurch bestimmt, dass wir an ihn glauben, und nicht, dass wir ihn sehen.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "47005008",
+    "b": 47,
+    "c": 5,
+    "v": 8,
+    "t": "Aber wir rechnen fest damit und würden am liebsten diesen Leib verlassen, um endlich zu Hause beim Herrn zu sein.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "47005009",
+    "b": 47,
+    "c": 5,
+    "v": 9,
+    "t": "Ganz gleich ob wir nun daheim bei ihm sind oder noch auf dieser Erde leben, wir möchten in jedem Fall tun, was Gott gefällt.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "47005010",
+    "b": 47,
+    "c": 5,
+    "v": 10,
+    "t": "Denn einmal werden wir uns alle vor Christus als unserem Richter verantworten müssen. Dann wird jeder das bekommen, was er für sein Tun auf dieser Erde verdient hat, mag es gut oder schlecht gewesen sein.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "47005011",
+    "b": 47,
+    "c": 5,
+    "v": 11,
+    "t": "Wenn ich Menschen für Christus, den Herrn, gewinne, habe ich dabei immer vor Augen, dass ich mich einmal vor ihm verantworten muss. Gott weiß, dass es mir um nichts anderes geht, und ich hoffe, auch ihr unterstellt mir keine anderen Absichten.",
+    "h": "Friede mit Gott",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "47005012",
+    "b": 47,
+    "c": 5,
+    "v": 12,
+    "t": "Das sage ich nun wirklich nicht, um für mich selbst zu werben. Ich will euch nur ein paar Gründe nennen, warum ihr stolz auf mich sein dürft. Dann könnt ihr sie denen entgegenhalten, für die äußere Vorzüge wichtiger sind als innere Überzeugung.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "47005013",
+    "b": 47,
+    "c": 5,
+    "v": 13,
+    "t": "Manche werfen uns vor, wir hätten uns bei euch so verhalten, als hätten wir den Verstand verloren. Wenn das der Fall war, geschah es zur Ehre Gottes. Und wenn wir jetzt bei klarem Verstand sind, dann kommt das euch zugute.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "47005014",
+    "b": 47,
+    "c": 5,
+    "v": 14,
+    "t": "Was wir auch tun, wir tun es aus der Liebe, die Christus uns geschenkt hat – sie lässt uns keine andere Wahl. Wir sind davon überzeugt: Weil einer für alle Menschen starb, sind sie alle gestorben.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "47005015",
+    "b": 47,
+    "c": 5,
+    "v": 15,
+    "t": "Und Christus ist deshalb für alle gestorben, damit alle, die leben, nicht länger für sich selbst leben, sondern für Christus, der für sie gestorben und auferstanden ist.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "47005016",
+    "b": 47,
+    "c": 5,
+    "v": 16,
+    "t": "Daher beurteilen wir auch niemanden mehr nach rein menschlichen Maßstäben. Selbst wenn wir Christus früher danach beurteilt haben, so tun wir das heute nicht mehr.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "47005017",
+    "b": 47,
+    "c": 5,
+    "v": 17,
+    "t": "Gehört also jemand zu Christus, dann ist er ein neuer Mensch. Was vorher war, ist vergangen, etwas völlig Neues hat begonnen.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "47005018",
+    "b": 47,
+    "c": 5,
+    "v": 18,
+    "t": "All dies verdanken wir Gott, der uns durch Christus mit sich selbst versöhnt hat. Er hat uns beauftragt, diese Botschaft überall zu verkünden.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "47005019",
+    "b": 47,
+    "c": 5,
+    "v": 19,
+    "t": "Und so lautet sie: Gott ist durch Christus selbst in diese Welt gekommen und hat Frieden mit ihr geschlossen, indem er den Menschen ihre Sünden nicht länger anrechnet. Gott hat uns dazu bestimmt, diese Botschaft der Versöhnung in der ganzen Welt zu verbreiten.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "47005020",
+    "b": 47,
+    "c": 5,
+    "v": 20,
+    "t": "Als Botschafter von Christus fordern wir euch deshalb im Namen Gottes auf: Lasst euch mit Gott versöhnen! Wir bitten euch darum im Auftrag von Christus.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "47005021",
+    "b": 47,
+    "c": 5,
+    "v": 21,
+    "t": "Denn Gott hat Christus, der ohne jede Sünde war, mit all unserer Schuld beladen und verurteilt, damit wir freigesprochen sind und vor ihm bestehen können.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "47006001",
+    "b": 47,
+    "c": 6,
+    "v": 1,
+    "t": "Als Gottes Mitarbeiter bitten wir euch aber auch: Lasst die Gnade, die Gott euch schenkt, in eurem Leben nicht ohne Auswirkung bleiben.",
+    "h": "Der Apostel wirbt um das Vertrauen der Korinther\n(Kapitel 6–7)\nBewährung im Dienst für Gott",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "47006002",
+    "b": 47,
+    "c": 6,
+    "v": 2,
+    "t": "Denn Gott hat gesagt: »Ich will dein Gebet erhören. Es wird eine Zeit der Gnade für dich geben, einen Tag, an dem du meine Hilfe erfährst!« Genau diese Zeit ist jetzt da, der Tag der Rettung ist nun gekommen.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "47006003",
+    "b": 47,
+    "c": 6,
+    "v": 3,
+    "t": "Niemand soll uns persönlich etwas Schlechtes nachsagen können, damit nicht unser Auftrag in Verruf gerät.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "47006004",
+    "b": 47,
+    "c": 6,
+    "v": 4,
+    "t": "In allem empfehlen wir uns als Gottes Mitarbeiter: Wir bleiben standhaft in Bedrängnissen, in Not und Schwierigkeiten,",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "47006005",
+    "b": 47,
+    "c": 6,
+    "v": 5,
+    "t": "auch wenn man uns schlägt und einsperrt, wenn wir aufgehetzten Menschen ausgeliefert sind, bis zur Erschöpfung arbeiten, uns kaum Schlaf gönnen und auf Nahrung verzichten.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "47006006",
+    "b": 47,
+    "c": 6,
+    "v": 6,
+    "t": "Wir lassen uns nichts zuschulden kommen und erkennen Gottes Willen; wir sind geduldig und freundlich, Gottes Heiliger Geist wirkt durch uns, und wir lieben jeden Menschen aufrichtig.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "47006007",
+    "b": 47,
+    "c": 6,
+    "v": 7,
+    "t": "Wir verkünden Gottes Wahrheit und leben aus seiner Kraft. Zum Angriff wie zur Verteidigung gebrauchen wir die Waffen Gottes: das richtige Verhalten vor Gott und den Menschen.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "47006008",
+    "b": 47,
+    "c": 6,
+    "v": 8,
+    "t": "Dabei lassen wir uns nicht beirren: weder durch Lob noch Verachtung, weder durch gute Worte noch böses Gerede. Man nennt uns Lügner, und wir sagen doch die Wahrheit.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "47006009",
+    "b": 47,
+    "c": 6,
+    "v": 9,
+    "t": "Für die Welt sind wir Unbekannte, aber Gott kennt uns. Wir sind Sterbende, und dennoch leben wir. Wir werden geschlagen und kommen doch nicht um.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "47006010",
+    "b": 47,
+    "c": 6,
+    "v": 10,
+    "t": "In allen Traurigkeiten bleiben wir fröhlich. Wir sind arm und beschenken doch viele reich. Wir haben nichts und besitzen doch alles.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "47006011",
+    "b": 47,
+    "c": 6,
+    "v": 11,
+    "t": "Ihr lieben Christen in Korinth! Wir haben sehr offen zu euch gesprochen und euch dabei in unser Herz blicken lassen.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "47006012",
+    "b": 47,
+    "c": 6,
+    "v": 12,
+    "t": "Der Platz in unserem Herzen ist euch sicher, auch wenn ihr euch uns gegenüber verschlossen habt.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "47006013",
+    "b": 47,
+    "c": 6,
+    "v": 13,
+    "t": "Ich rede zu euch wie ein Vater zu seinen Kindern. Schenkt mir doch dasselbe Vertrauen, das ich euch entgegenbringe, und öffnet mir eure Herzen!",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "47006014",
+    "b": 47,
+    "c": 6,
+    "v": 14,
+    "t": "Zieht nicht an einem Strang mit Leuten, die nicht an Christus glauben. Was haben denn Gottes Gerechtigkeit und die Gesetzlosigkeit dieser Welt miteinander zu tun? Was haben Licht und Finsternis gemeinsam?",
+    "h": "Warnung vor falschen Wegen",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "47006015",
+    "b": 47,
+    "c": 6,
+    "v": 15,
+    "t": "Wie passen Christus und der Teufel zusammen? Oder was verbindet einen Glaubenden mit einem Menschen, der von Gott nichts wissen will?",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "47006016",
+    "b": 47,
+    "c": 6,
+    "v": 16,
+    "t": "Was haben Götzenfiguren im Tempel Gottes zu suchen? Vergesst nicht: Wir selbst sind der Tempel des lebendigen Gottes. So hat Gott gesagt: »Ich will mitten unter ihnen leben. Ich will ihr Gott sein, und sie sollen mein Volk sein!«",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "47006017",
+    "b": 47,
+    "c": 6,
+    "v": 17,
+    "t": "Darum befiehlt Gott: »Verlasst sie und trennt euch von ihnen! Rührt nichts Unreines an! Dann will ich euch annehmen.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "47006018",
+    "b": 47,
+    "c": 6,
+    "v": 18,
+    "t": "Ich werde euer Vater sein, und ihr werdet meine Söhne und Töchter sein. Das sage ich, der Herr, der allmächtige Gott.«",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "47007001",
+    "b": 47,
+    "c": 7,
+    "v": 1,
+    "t": "Meine lieben Freunde! All dies hat uns Gott versprochen. Darum wollen wir uns von allem trennen, was uns verunreinigt – sei es in unseren Gedanken oder in unserem Verhalten. In Ehrfurcht vor Gott wollen wir immer mehr so leben, wie es ihm gefällt.",
+    "h": "",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "47007002",
+    "b": 47,
+    "c": 7,
+    "v": 2,
+    "t": "Vertraut uns doch! Wir haben ja keinem von euch Unrecht getan. Wir haben niemanden zugrunde gerichtet und keinen von euch betrogen.",
+    "h": "Bitte um Vertrauen",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "47007003",
+    "b": 47,
+    "c": 7,
+    "v": 3,
+    "t": "Ich sage das nicht, um euch zu verurteilen. Denn ich habe euch ja vorhin gesagt, dass ihr einen besonderen Platz in unseren Herzen habt. Wir sind untrennbar miteinander verbunden, im Leben und im Sterben.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "47007004",
+    "b": 47,
+    "c": 7,
+    "v": 4,
+    "t": "Ich vertraue euch in jeder Beziehung und bin sogar stolz auf euch. Trotz aller Schwierigkeiten bin ich getröstet, und meine Freude ist unbeschreiblich groß.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "47007005",
+    "b": 47,
+    "c": 7,
+    "v": 5,
+    "t": "Als wir nach Mazedonien kamen, waren wir zunächst sehr beunruhigt. Überall gab es Schwierigkeiten: Wir mussten alle möglichen Anfeindungen ertragen und waren zudem selbst voller Angst und Sorgen.",
+    "h": "Umkehr einer Gemeinde",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "47007006",
+    "b": 47,
+    "c": 7,
+    "v": 6,
+    "t": "Aber Gott hilft den Mutlosen. Er hat uns durch die Ankunft von Titus getröstet;",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "47007007",
+    "b": 47,
+    "c": 7,
+    "v": 7,
+    "t": "und das nicht nur, weil Titus endlich wieder bei uns war. Noch mehr haben wir uns darüber gefreut, dass Titus bei euch so viel Ermutigendes erfahren hat. Er hat uns davon berichtet, wie sehnlich ihr meinen Besuch erwartet, wie leid euch das Geschehene tut und mit welchem Eifer ihr euch für mich einsetzt. Ich kann euch gar nicht sagen, wie sehr ich mich darüber gefreut habe.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "47007008",
+    "b": 47,
+    "c": 7,
+    "v": 8,
+    "t": "Jetzt bereue ich auch nicht, dass ich euch den Brief geschrieben habe, der euch so erschüttert hat. Zwar dachte ich schon, ich hätte ihn gar nicht abschicken sollen – eben weil ihr wegen des Briefes eine Zeit lang traurig gewesen seid,",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "47007009",
+    "b": 47,
+    "c": 7,
+    "v": 9,
+    "t": "doch jetzt bin ich froh, dass ich ihn geschrieben habe. Natürlich nicht, weil ihr traurig gewesen seid, sondern weil euch dies zum Nachdenken und zur Umkehr gebracht hat. Genau das war Gottes Absicht, und deshalb hat euch unser Brief auch nicht geschadet.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "47007010",
+    "b": 47,
+    "c": 7,
+    "v": 10,
+    "t": "Denn die von Gott bewirkte Traurigkeit führt zur Umkehr und bringt Rettung. Und wer sollte das jemals bereuen! Nur die Traurigkeit, die rein menschlicher Art ist, bewirkt den Tod.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "47007011",
+    "b": 47,
+    "c": 7,
+    "v": 11,
+    "t": "Bedenkt doch, was Gott alles durch eure Traurigkeit erreicht hat! Wie viel guten Willen zeigt ihr jetzt, wie bereitwillig habt ihr euch entschuldigt, und wie sehr bemüht ihr euch zu beweisen, dass ihr euch nicht mitschuldig machen wollt! Jetzt seid ihr über das Vorgefallene empört, wie groß ist eure Furcht vor den Folgen! Ihr wünscht euch sehr, mich wiederzusehen. Eure Entschlossenheit hat dazu geführt, dass der Schuldige bestraft wurde. Ihr habt damit bewiesen, dass euch in dieser Sache keine Schuld trifft.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "47007012",
+    "b": 47,
+    "c": 7,
+    "v": 12,
+    "t": "Ich habe euch meinen Brief also letztlich nicht geschrieben, weil es mir um den ging, der Unrecht getan hat, oder den, dem Unrecht geschehen ist. Es kam mir allein darauf an, dass ihr vor Gott zeigen konntet, wie sehr ihr euch für uns einsetzt.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "47007013",
+    "b": 47,
+    "c": 7,
+    "v": 13,
+    "t": "Nun sind wir sehr erleichtert und getröstet. Besonders schön war es für uns mitzuerleben, mit welcher Freude Titus von euch allen berichtet hat. Seine Begegnung mit euch hat ihn sehr ermutigt und gestärkt.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "47007014",
+    "b": 47,
+    "c": 7,
+    "v": 14,
+    "t": "Ich hatte ihm so viel Gutes von euch erzählt, und ihr habt mich nicht enttäuscht. Wir haben euch immer die Wahrheit gesagt, und nun durfte Titus feststellen, dass wir auch ihm gegenüber die Wahrheit gesagt haben, als wir euch lobten.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "47007015",
+    "b": 47,
+    "c": 7,
+    "v": 15,
+    "t": "Er liebt euch jetzt noch mehr, denn er hat eure Bereitschaft zum Gehorsam gesehen, nachdem ihr ihn voller Angst und Bangen aufgenommen habt.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "47007016",
+    "b": 47,
+    "c": 7,
+    "v": 16,
+    "t": "Ich freue mich, dass ich euch so ganz und gar vertrauen kann.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "47008001",
+    "b": 47,
+    "c": 8,
+    "v": 1,
+    "t": "Nun will ich euch berichten, liebe Brüder und Schwestern, was Gott in seiner Gnade in den Gemeinden der Provinz Mazedonien bewirkt hat.",
+    "h": "Die Geldsammlung zur Unterstützung der Gemeinde in Jerusalem\n(Kapitel 8–9)\nMit anderen teilen",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "47008002",
+    "b": 47,
+    "c": 8,
+    "v": 2,
+    "t": "Die Christen dort gerieten wegen ihres Glaubens in viele Schwierigkeiten und haben sie standhaft ertragen. Ja, sie waren voller Freude und haben trotz ihrer großen Armut reichlich für andere gegeben.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "47008003",
+    "b": 47,
+    "c": 8,
+    "v": 3,
+    "t": "Ich kann bezeugen, dass sie gaben, was sie nur konnten, und sogar mehr als das. Und all dies taten sie aus freien Stücken.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "47008004",
+    "b": 47,
+    "c": 8,
+    "v": 4,
+    "t": "Sie haben uns eindringlich darum gebeten und es als ein Vorrecht angesehen, sich an der Hilfe für die Christen in Jerusalem beteiligen zu dürfen.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "47008005",
+    "b": 47,
+    "c": 8,
+    "v": 5,
+    "t": "Sie haben sehr viel mehr getan, als wir jemals erwarten konnten, denn sie schenkten sich geradezu selbst, zuerst dem Herrn, danach auch uns, ganz so, wie Gott es wollte.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "47008006",
+    "b": 47,
+    "c": 8,
+    "v": 6,
+    "t": "Nach dieser Erfahrung haben wir Titus zugeredet, dass er auch bei euch die Sammlung, mit der er bereits begonnen hat, zum Abschluss bringt.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "47008007",
+    "b": 47,
+    "c": 8,
+    "v": 7,
+    "t": "Ihr seid durch so vieles überaus reich beschenkt: durch euren Glauben, durch Worte, die der Heilige Geist euch schenkt, durch das Verständnis der Botschaft Gottes, euren Einsatz für den Herrn und die Liebe, die wir in euch geweckt haben. Lasst diesen Reichtum nun auch sichtbar werden, indem ihr der Gemeinde in Jerusalem helft.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "47008008",
+    "b": 47,
+    "c": 8,
+    "v": 8,
+    "t": "Natürlich will ich euch nichts befehlen. Aber angesichts der Opferbereitschaft der anderen würde ich gern sehen, wie echt eure Liebe ist.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "47008009",
+    "b": 47,
+    "c": 8,
+    "v": 9,
+    "t": "Ihr wisst ja, was unser Herr Jesus Christus in seiner Liebe für euch getan hat: Er war reich und wurde doch arm, um euch durch seine Armut reich zu machen.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "47008010",
+    "b": 47,
+    "c": 8,
+    "v": 10,
+    "t": "Nach meiner Meinung kann es nur gut für euch sein, wenn ihr die Sammlung durchführt. Ihr habt sie euch ja im vorigen Jahr vorgenommen und auch schon damit begonnen.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "47008011",
+    "b": 47,
+    "c": 8,
+    "v": 11,
+    "t": "Jetzt solltet ihr die Sache zu Ende bringen, damit es nicht bei guten Vorsätzen bleibt. Gebt so viel, wie es euren Möglichkeiten entspricht!",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "47008012",
+    "b": 47,
+    "c": 8,
+    "v": 12,
+    "t": "Gott kommt es dabei nicht auf die Höhe der Gabe an, sondern auf unsere Bereitwilligkeit. Er freut sich über das, was jeder geben kann, und verlangt nichts von uns, was wir nicht haben.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "47008013",
+    "b": 47,
+    "c": 8,
+    "v": 13,
+    "t": "Ihr sollt nicht selbst in Not geraten, weil ihr anderen aus der Not helft. Es geht nur um einen gewissen Ausgleich.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "47008014",
+    "b": 47,
+    "c": 8,
+    "v": 14,
+    "t": "Heute habt ihr so viel, dass ihr ihnen helfen könnt. Ein andermal werden sie euch von ihrem Überfluss abgeben, wenn es nötig ist. Das meine ich mit Ausgleich.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "47008015",
+    "b": 47,
+    "c": 8,
+    "v": 15,
+    "t": "Erinnert euch daran, was die Heilige Schrift dazu sagt: »Wer viel eingesammelt hatte, der hatte nicht zu viel; und wer nur wenig aufgelesen hatte, dem fehlte nichts.«",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "47008016",
+    "b": 47,
+    "c": 8,
+    "v": 16,
+    "t": "Ich danke Gott, dass er Titus bereit gemacht hat, sich genauso stark für euch einzusetzen wie ich.",
+    "h": "Gewissenhafter Umgang mit Geld",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "47008017",
+    "b": 47,
+    "c": 8,
+    "v": 17,
+    "t": "Er war gleich einverstanden, zu euch zu reisen, und hat sich sofort auf den Weg gemacht, ohne dass ich ihn erst lange darum bitten musste.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "47008018",
+    "b": 47,
+    "c": 8,
+    "v": 18,
+    "t": "Mit ihm kommt noch ein anderer Bruder, den alle Gemeinden sehr schätzen, weil er die rettende Botschaft verkündet.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "47008019",
+    "b": 47,
+    "c": 8,
+    "v": 19,
+    "t": "Die Gemeinden haben ihn ausdrücklich dazu bestimmt, gemeinsam mit uns das gesammelte Geld nach Jerusalem zu bringen. Das war auch unser Wunsch, damit alles zur Ehre des Herrn geschieht.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "47008020",
+    "b": 47,
+    "c": 8,
+    "v": 20,
+    "t": "So soll allen Verdächtigungen vorgebeugt werden – es handelt sich immerhin um eine recht hohe Geldsumme, mit der wir unterwegs sind.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "47008021",
+    "b": 47,
+    "c": 8,
+    "v": 21,
+    "t": "Wir wollen uns nämlich nicht nur dem Herrn, sondern auch den Menschen gegenüber einwandfrei verhalten.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "47008022",
+    "b": 47,
+    "c": 8,
+    "v": 22,
+    "t": "Zusammen mit den beiden schicken wir noch einen weiteren Bruder zu euch, einen Mitarbeiter von uns. Wir haben ihn bei vielen Gelegenheiten als überaus tatkräftigen und zuverlässigen Christen kennen gelernt. Weil er so großes Vertrauen zu euch hat, kommt er besonders gerne zu euch.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "47008023",
+    "b": 47,
+    "c": 8,
+    "v": 23,
+    "t": "Titus ist mein Freund und Mitarbeiter im Dienst für euch, die beiden anderen Brüder wurden von den Gemeinden für diese Aufgabe ausgewählt und machen mit ihrem Leben Christus alle Ehre.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "47008024",
+    "b": 47,
+    "c": 8,
+    "v": 24,
+    "t": "Nehmt sie deshalb in Liebe auf und beweist allen Gemeinden damit, dass wir euch zu Recht so sehr gelobt haben.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "47009001",
+    "b": 47,
+    "c": 9,
+    "v": 1,
+    "t": "Über die Sammlung für die Gemeinde in Jerusalem brauche ich wohl keine weiteren Worte zu verlieren.",
+    "h": "",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "47009002",
+    "b": 47,
+    "c": 9,
+    "v": 2,
+    "t": "Eure Bereitschaft zu helfen ist mir ja bekannt. Ich habe euch deswegen in den mazedonischen Gemeinden schon gelobt und berichtet, dass ihr in der Provinz Achaja bereits im vorigen Jahr mit der Sammlung begonnen habt. Euer Beispiel hat viele angespornt.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "47009003",
+    "b": 47,
+    "c": 9,
+    "v": 3,
+    "t": "Ihr könnt jetzt beweisen, dass ich eure Hilfsbereitschaft richtig eingeschätzt habe. Damit eure Sammlung auch wirklich abgeschlossen wird, wie ich es überall erzählt habe, schicke ich diese Brüder zu euch.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "47009004",
+    "b": 47,
+    "c": 9,
+    "v": 4,
+    "t": "Dann brauche ich den Leuten aus Mazedonien, wenn sie mit mir nach Korinth kommen, nicht beschämt einzugestehen, dass wir uns geirrt haben, weil ihr noch gar nicht so weit seid. Doch im Grunde müsstet ihr euch dann schämen.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "47009005",
+    "b": 47,
+    "c": 9,
+    "v": 5,
+    "t": "Deshalb habe ich lieber die Brüder vorausgeschickt, damit sie dafür sorgen, dass die von euch zugesagte Spende auch wirklich bereitliegt. Es soll doch eine großzügige Gabe sein und kein Almosen von Geizhälsen.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "47009006",
+    "b": 47,
+    "c": 9,
+    "v": 6,
+    "t": "Ich bin davon überzeugt: Wer wenig sät, der wird auch wenig ernten; wer aber viel sät, der wird auch viel ernten.",
+    "h": "Wie Christen geben sollen",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "47009007",
+    "b": 47,
+    "c": 9,
+    "v": 7,
+    "t": "So soll jeder für sich selbst entscheiden, wie viel er geben will, und zwar freiwillig und nicht aus Pflichtgefühl. Denn Gott liebt den, der fröhlich gibt.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "47009008",
+    "b": 47,
+    "c": 9,
+    "v": 8,
+    "t": "Er kann euch so reich beschenken, ja, mit Gutem geradezu überschütten, dass ihr zu jeder Zeit alles habt, was ihr braucht, und mehr als das. So könnt ihr auch noch anderen auf verschiedenste Art und Weise Gutes tun.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "47009009",
+    "b": 47,
+    "c": 9,
+    "v": 9,
+    "t": "Schon in der Heiligen Schrift heißt es ja von dem Mann, den Gott reich beschenkt hat : »Großzügig schenkt er den Bedürftigen, was sie brauchen; auf seine Barmherzigkeit kann man immer zählen.«",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "47009010",
+    "b": 47,
+    "c": 9,
+    "v": 10,
+    "t": "Gott aber, der dem Sämann Saat und Brot schenkt, wird auch euch Saatgut geben. Er wird es wachsen lassen und dafür sorgen, dass das Gute, das ihr tut, Früchte trägt.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "47009011",
+    "b": 47,
+    "c": 9,
+    "v": 11,
+    "t": "Ihr werdet alles so reichlich haben, dass ihr unbesorgt weitergeben könnt. Wenn wir dann eure Gabe überbringen, werden viele Menschen Gott dafür danken.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "47009012",
+    "b": 47,
+    "c": 9,
+    "v": 12,
+    "t": "Eure Gabe hätte demnach zwei gute Auswirkungen: Sie wäre nicht nur eine Hilfe für die notleidenden Christen in Jerusalem, sie würde auch bewirken, dass viele Menschen Gott danken.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "47009013",
+    "b": 47,
+    "c": 9,
+    "v": 13,
+    "t": "Durch eure Unterstützung zeigt sich, wie sich euer Glaube bewährt. Dann werden die Beschenkten Gott loben, weil ihr euch so treu zur rettenden Botschaft von Christus bekennt und so bereitwillig mit ihnen und mit allen anderen teilt.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "47009014",
+    "b": 47,
+    "c": 9,
+    "v": 14,
+    "t": "Sie werden für euch beten und wären gern mit euch zusammen, weil sich an euch die Gnade Gottes auf so wunderbare Weise gezeigt hat.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "47009015",
+    "b": 47,
+    "c": 9,
+    "v": 15,
+    "t": "Wir aber danken Gott für seine unaussprechlich große Gabe.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "47010001",
+    "b": 47,
+    "c": 10,
+    "v": 1,
+    "t": "Ich, Paulus, möchte mit euch noch eine persönliche Angelegenheit klären, im Geist der Güte und Freundlichkeit, die Christus uns schenkt. Einige von euch sagen mir nach, ich sei feige und ängstlich, solange ich bei euch bin, aber mutig und zu allem entschlossen, wenn ich mich nur weit genug von euch entfernt habe.",
+    "h": "Paulus verteidigt sich gegen Vorwürfe\n(Kapitel 10–13)\nAbwehr persönlicher Angriffe",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "47010002",
+    "b": 47,
+    "c": 10,
+    "v": 2,
+    "t": "Zwingt mich bitte nicht dazu, tatsächlich hart durchgreifen zu müssen, wenn ich zu euch komme. Auf jeden Fall werde ich entschieden gegen alle vorgehen, die mir allzu menschliche Absichten unterstellen.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "47010003",
+    "b": 47,
+    "c": 10,
+    "v": 3,
+    "t": "Natürlich bin auch ich nur ein Mensch, aber ich kämpfe nicht mit menschlichen Mitteln.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "47010004",
+    "b": 47,
+    "c": 10,
+    "v": 4,
+    "t": "Ich setze nicht die Waffen dieser Welt ein, sondern die Waffen Gottes. Sie sind mächtig genug, jede Festung zu zerstören, jedes menschliche Gedankengebäude niederzureißen,",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "47010005",
+    "b": 47,
+    "c": 10,
+    "v": 5,
+    "t": "einfach alles zu vernichten, was sich stolz gegen Gott und seine Wahrheit erhebt. Alles menschliche Denken nehmen wir gefangen und unterstellen es Christus, dem es gehorchen muss.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "47010006",
+    "b": 47,
+    "c": 10,
+    "v": 6,
+    "t": "In diesem Sinn werden wir auch jeden Ungehorsam strafen, aber zuerst müsst ihr als Gemeinde zum Gehorsam bereit sein.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "47010007",
+    "b": 47,
+    "c": 10,
+    "v": 7,
+    "t": "Seht doch den Tatsachen ins Auge! Ist jemand davon überzeugt, zu Christus zu gehören, dann soll er uns das nicht absprechen.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "47010008",
+    "b": 47,
+    "c": 10,
+    "v": 8,
+    "t": "Immerhin könnte ich noch für mich in Anspruch nehmen, dass Gott mir als Apostel besondere Vollmacht gegeben hat. Damit würde ich nicht einmal übertreiben und mich lächerlich machen. Doch mein Auftrag ist, euch zu helfen, nicht euch zu schaden.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "47010009",
+    "b": 47,
+    "c": 10,
+    "v": 9,
+    "t": "Ihr sollt nicht denken, ich wollte euch mit meinen Briefen einschüchtern.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "47010010",
+    "b": 47,
+    "c": 10,
+    "v": 10,
+    "t": "Das könnte man fast annehmen, schließlich sagen manche von euch: »In seinen Briefen gebraucht er große Worte, doch wenn er dann vor uns steht, ist er ängstlich und zaghaft. Und wen beeindruckt schon, was er sagt?«",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "47010011",
+    "b": 47,
+    "c": 10,
+    "v": 11,
+    "t": "Wer das von mir behauptet, der soll wissen: Genauso wie ich in meinen Briefen mit euch rede, werde ich handeln, wenn ich bei euch bin.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "47010012",
+    "b": 47,
+    "c": 10,
+    "v": 12,
+    "t": "Wir würden es natürlich niemals wagen, uns mit denen zu vergleichen, die sich überall selbst empfehlen, oder uns gar auf eine Stufe mit ihnen zu stellen. Wie unverständig sie doch sind! Sie richten ihre eigenen Maßstäbe auf, um sich dann selbst daran zu messen.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "47010013",
+    "b": 47,
+    "c": 10,
+    "v": 13,
+    "t": "Wir dagegen überschätzen uns nicht so maßlos. Wir möchten ausschließlich mit Gottes Maß gemessen werden, und dazu gehört auch unsere Arbeit bei euch.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "47010014",
+    "b": 47,
+    "c": 10,
+    "v": 14,
+    "t": "Wir sind bis zu euch gekommen und haben euch die rettende Botschaft von Christus gebracht; deshalb sind wir auch nicht maßlos, wenn wir uns rühmen.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "47010015",
+    "b": 47,
+    "c": 10,
+    "v": 15,
+    "t": "Dabei schmücken wir uns keineswegs mit fremden Federn. Wenn ihr erst einmal im Glauben fest und stark geworden seid, hoffen wir sogar, unsere Missionsarbeit noch weiter ausdehnen zu können.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "47010016",
+    "b": 47,
+    "c": 10,
+    "v": 16,
+    "t": "Denn wir wollen auch den Menschen die rettende Botschaft bringen, die jenseits eurer Grenzen leben – aber nicht in Gebieten, in denen schon andere diese Botschaft verkündet haben. Sonst würden wir uns ja mit einer Arbeit brüsten, die nicht von uns getan wurde.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "47010017",
+    "b": 47,
+    "c": 10,
+    "v": 17,
+    "t": "Es heißt doch: »Wenn jemand auf etwas stolz sein will, soll er auf das stolz sein, was Gott für ihn getan hat!«",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "47010018",
+    "b": 47,
+    "c": 10,
+    "v": 18,
+    "t": "Niemand ist schon deshalb ein bewährter Diener Gottes, weil er sich selbst empfiehlt. Entscheidend ist, dass Gott ihm ein gutes Zeugnis ausstellt.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "47011001",
+    "b": 47,
+    "c": 11,
+    "v": 1,
+    "t": "Ihr gestattet mir sicher, dass ich mich jetzt auch einmal töricht verhalte.",
+    "h": "Paulus verteidigt sich gegen falsche Apostel",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "47011002",
+    "b": 47,
+    "c": 11,
+    "v": 2,
+    "t": "Denn ihr müsst verstehen: Ich werbe geradezu eifersüchtig um euch, so wie Gott um euch wirbt. Wie ein Vater seine Tochter einem einzigen Mann anvertraut, so habe ich euch mit Christus verlobt, um euch ihm als unberührte Braut zuzuführen.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "47011003",
+    "b": 47,
+    "c": 11,
+    "v": 3,
+    "t": "Zurzeit aber fürchte ich, dass mir dies nicht gelingt. Denn wie schon am Anfang die Schlange Eva mit ihrer List verführte, so könnte es auch euch gehen: Auch ihr könntet in eurem Denken verwirrt und davon abgebracht werden, einzig und allein Christus zu lieben und an ihn zu glauben.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "47011004",
+    "b": 47,
+    "c": 11,
+    "v": 4,
+    "t": "Ihr lasst euch nämlich leicht verführen. Wenn jemand daherkommt und etwas ganz anderes über Jesus sagt, als wir euch gelehrt haben, dann schenkt ihr ihm bereitwillig Glauben. Ihr empfangt bedenkenlos einen anderen Geist als den Geist Gottes und nehmt eine andere Botschaft an als die, die wir euch gebracht haben.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "47011005",
+    "b": 47,
+    "c": 11,
+    "v": 5,
+    "t": "Ich stehe diesen ach so großartigen Aposteln, vor denen ihr solchen Respekt habt, in nichts nach. Das weiß ich.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "47011006",
+    "b": 47,
+    "c": 11,
+    "v": 6,
+    "t": "Vielleicht bin ich kein besonders geschickter Redner, aber was meine Erkenntnis der rettenden Botschaft betrifft, nehme ich es gern mit ihnen auf. Das habe ich euch gegenüber in jeder Hinsicht klar bewiesen.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "47011007",
+    "b": 47,
+    "c": 11,
+    "v": 7,
+    "t": "Habe ich etwa ein Unrecht begangen, als ich euch Gottes rettende Botschaft verkündet habe, ohne etwas für meinen Lebensunterhalt zu erwarten? Zu euren Gunsten habe ich auf alles verzichtet und mich selbst erniedrigt, um euch zu ehren.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "47011008",
+    "b": 47,
+    "c": 11,
+    "v": 8,
+    "t": "Weil ich euch dienen wollte, habe ich andere Gemeinden geradezu beraubt und Geld von ihnen genommen.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "47011009",
+    "b": 47,
+    "c": 11,
+    "v": 9,
+    "t": "Auch als ich während meines Aufenthaltes bei euch in Not geriet, musstet ihr nichts für mich zahlen. Zu Hilfe kamen mir die Gemeinden aus Mazedonien. Sie ließen mir durch einige Brüder etwas zukommen, so dass ich euch niemals zur Last gefallen bin. Und dabei wird es auch in Zukunft bleiben.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "47011010",
+    "b": 47,
+    "c": 11,
+    "v": 10,
+    "t": "So wahr Christus in mir lebt und er die Wahrheit ist: Niemand in der ganzen Provinz Achaja wird mir diesen Ruhm nehmen können!",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "47011011",
+    "b": 47,
+    "c": 11,
+    "v": 11,
+    "t": "Verzichte ich etwa auf eure Unterstützung, weil ich euch nicht liebe? Gott weiß, wie sehr ich euch liebe!",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "47011012",
+    "b": 47,
+    "c": 11,
+    "v": 12,
+    "t": "Trotzdem will ich auch in Zukunft kein Geld von euch annehmen. Denn gewisse Leute sollen keine Gelegenheit bekommen, sich mit uns als Apostel auf eine Stufe zu stellen und zu behaupten, sie würden sich ebenso verhalten wie wir. In Wirklichkeit unterscheiden wir uns in vielem!",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "47011013",
+    "b": 47,
+    "c": 11,
+    "v": 13,
+    "t": "Denn sie sind falsche Apostel, Betrüger, die lediglich behaupten, sie seien Apostel von Christus.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "47011014",
+    "b": 47,
+    "c": 11,
+    "v": 14,
+    "t": "Aber das ist nicht weiter verwunderlich! Gibt sich nicht sogar der Satan als Engel des Lichts aus?",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "47011015",
+    "b": 47,
+    "c": 11,
+    "v": 15,
+    "t": "Kein Wunder, wenn auch seine Helfer im Namen der Gerechtigkeit auftreten! Doch sie werden ihr verdientes Ende finden.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "47011016",
+    "b": 47,
+    "c": 11,
+    "v": 16,
+    "t": "Ich sage es noch einmal: Niemand soll mich für einen Narren halten. Wenn ihr es aber doch tut, dann lasst mich auch den Narren spielen, damit ich ein wenig prahlen kann wie ihr.",
+    "h": "Leiden für die rettende Botschaft",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "47011017",
+    "b": 47,
+    "c": 11,
+    "v": 17,
+    "t": "Was ich jetzt sage, ist allerdings nicht im Sinn unseres Herrn. Ich bin mir bewusst, dass ich damit wie ein Narr rede. Aber ich sage es trotzdem, wenn wir schon einmal beim Prahlen sind.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "47011018",
+    "b": 47,
+    "c": 11,
+    "v": 18,
+    "t": "Wie die anderen dauernd ihre Vorzüge herausstellen, will ich es auch einmal tun.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "47011019",
+    "b": 47,
+    "c": 11,
+    "v": 19,
+    "t": "Ihr seid ja so klug, dass ihr bereitwillig hinter den Narren herlauft.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "47011020",
+    "b": 47,
+    "c": 11,
+    "v": 20,
+    "t": "Und ihr habt nichts dagegen, wenn man euch schindet und ausnutzt, wenn man euch hereinlegt, euch von oben herab behandelt oder gar ins Gesicht schlägt.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "47011021",
+    "b": 47,
+    "c": 11,
+    "v": 21,
+    "t": "Zu meiner Schande muss ich gestehen: Im Vergleich zu diesen großartigen Aposteln waren wir geradezu Schwächlinge! Aber da ich mich nun einmal entschlossen habe, wie ein Narr zu reden: Womit diese Leute sich brüsten, damit kann ich schon lange dienen.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "47011022",
+    "b": 47,
+    "c": 11,
+    "v": 22,
+    "t": "Sie sind Hebräer? Das bin ich auch! Sie sind Israeliten? Das bin ich auch! Sie sind Nachkommen von Abraham? Ich etwa nicht?",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "47011023",
+    "b": 47,
+    "c": 11,
+    "v": 23,
+    "t": "Sie sind Diener von Christus? Was ich jetzt entgegne, kann wirklich nur noch ein Narr sagen: Ich habe Christus weit mehr gedient und viel mehr auf mich genommen als sie. Ich bin öfter im Gefängnis gewesen und häufiger ausgepeitscht worden. Viele Male hatte ich den Tod vor Augen.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "47011024",
+    "b": 47,
+    "c": 11,
+    "v": 24,
+    "t": "Fünfmal habe ich von den Juden die neununddreißig Schläge erhalten.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "47011025",
+    "b": 47,
+    "c": 11,
+    "v": 25,
+    "t": "Dreimal wurde ich von den Römern mit Stöcken geschlagen, und einmal hat man mich gesteinigt. Dreimal habe ich Schiffbruch erlitten; einmal trieb ich sogar einen Tag und eine ganze Nacht hilflos auf dem Meer.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "47011026",
+    "b": 47,
+    "c": 11,
+    "v": 26,
+    "t": "Auf meinen vielen Reisen bin ich immer wieder in Gefahr geraten durch reißende Flüsse und durch Räuber. Ich wurde von meinem eigenen Volk bedroht ebenso wie von den Nichtjuden. In den Städten wurde ich verfolgt, in der Wüste und auf dem Meer bangte ich um mein Leben. Und wie oft wollten mich Leute verraten, die sich als Christen ausgaben!",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "47011027",
+    "b": 47,
+    "c": 11,
+    "v": 27,
+    "t": "Mein Leben war voller Mühe und Plage, oftmals habe ich Nächte durchwacht. Ich kenne Hunger und Durst. Ich musste häufig ohne Essen auskommen und war schutzlos der Kälte ausgesetzt.",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "47011028",
+    "b": 47,
+    "c": 11,
+    "v": 28,
+    "t": "Aber das ist noch längst nicht alles. Tag für Tag lässt mich die Sorge um alle Gemeinden nicht los.",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "47011029",
+    "b": 47,
+    "c": 11,
+    "v": 29,
+    "t": "Wenn einer schwach ist, dann trage ich ihn mit; wird jemand zum Bösen verführt, quält mich brennender Schmerz.",
+    "h": "",
+    "o": 29,
+    "l": "29"
+  },
+  {
+    "id": "47011030",
+    "b": 47,
+    "c": 11,
+    "v": 30,
+    "t": "Wenn ich mich also schon selbst loben muss, dann will ich mit den Dingen prahlen, an denen man meine Schwachheit erkennen kann.",
+    "h": "",
+    "o": 30,
+    "l": "30"
+  },
+  {
+    "id": "47011031",
+    "b": 47,
+    "c": 11,
+    "v": 31,
+    "t": "Gott weiß, dass dies alles wahr ist. Ihm, dem Vater unseres Herrn Jesus Christus, gebühren Lob und Ehre in alle Ewigkeit.",
+    "h": "",
+    "o": 31,
+    "l": "31"
+  },
+  {
+    "id": "47011032",
+    "b": 47,
+    "c": 11,
+    "v": 32,
+    "t": "Einmal, es war in Damaskus, ließ der Statthalter von König Aretas die Stadttore bewachen, um mich festzunehmen.",
+    "h": "",
+    "o": 32,
+    "l": "32"
+  },
+  {
+    "id": "47011033",
+    "b": 47,
+    "c": 11,
+    "v": 33,
+    "t": "Dort hat man mich in einem Korb durch eine Öffnung in der Stadtmauer hinuntergelassen, und nur so konnte ich entkommen.",
+    "h": "",
+    "o": 33,
+    "l": "33"
+  },
+  {
+    "id": "47012001",
+    "b": 47,
+    "c": 12,
+    "v": 1,
+    "t": "Freilich ist solches Eigenlob im Grunde Unsinn und nützt niemandem. Aber ihr lasst mir ja keine Wahl. Deshalb will ich jetzt diesen Gedanken zu Ende führen und von Visionen und Offenbarungen berichten, die der Herr schenkt.",
+    "h": "Gottes Kraft und unsere Schwachheit",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "47012002",
+    "b": 47,
+    "c": 12,
+    "v": 2,
+    "t": "Ich kenne einen Menschen, der mit Christus eng verbunden ist. Vor vierzehn Jahren wurde er in den dritten Himmel entrückt. Gott allein weiß, ob dieser Mensch leibhaftig oder mit seinem Geist dort war.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "47012003",
+    "b": 47,
+    "c": 12,
+    "v": 3,
+    "t": "Und wenn ich auch nicht verstehe, ob er sich dabei in seinem Körper befand oder außerhalb davon – das weiß allein Gott –,",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "47012004",
+    "b": 47,
+    "c": 12,
+    "v": 4,
+    "t": "er wurde ins Paradies versetzt und hat dort Worte gehört, die für Menschen unaussprechlich sind.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "47012005",
+    "b": 47,
+    "c": 12,
+    "v": 5,
+    "t": "Was dieser Mensch erlebt hat, das will ich rühmen. Bei mir selbst aber lobe ich nur meine Schwachheit.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "47012006",
+    "b": 47,
+    "c": 12,
+    "v": 6,
+    "t": "Doch auch wenn ich mich selbst loben würde, wäre ich noch lange nicht verrückt, schließlich entspräche es der Wahrheit. Ich verzichte aber darauf, denn niemand soll mich überschätzen, sondern mich nur nach dem beurteilen, was er an meinem Leben sehen und aus meinen Worten hören kann.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "47012007",
+    "b": 47,
+    "c": 12,
+    "v": 7,
+    "t": "Gott selbst hat dafür gesorgt, dass ich mir auf die unbeschreiblichen Offenbarungen, die ich empfangen habe, nichts einbilde. Deshalb hat er mir ein quälendes Leiden auferlegt. Ein Engel des Satans darf mich mit Fäusten schlagen, damit ich nicht überheblich werde.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "47012008",
+    "b": 47,
+    "c": 12,
+    "v": 8,
+    "t": "Dreimal schon habe ich den Herrn angefleht, mich davon zu befreien.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "47012009",
+    "b": 47,
+    "c": 12,
+    "v": 9,
+    "t": "Aber er hat zu mir gesagt: »Meine Gnade ist alles, was du brauchst! Denn gerade wenn du schwach bist, wirkt meine Kraft ganz besonders an dir.« Darum will ich vor allem auf meine Schwachheit stolz sein. Dann nämlich erweist sich die Kraft von Christus an mir.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "47012010",
+    "b": 47,
+    "c": 12,
+    "v": 10,
+    "t": "Und so trage ich für Christus alles mit Freude – die Schwachheiten, Misshandlungen und Entbehrungen, die Verfolgungen und Ängste. Denn ich weiß: Gerade wenn ich schwach bin, bin ich stark.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "47012011",
+    "b": 47,
+    "c": 12,
+    "v": 11,
+    "t": "Ihr habt mich gezwungen, mich wie ein Narr aufzuführen. Denn nicht ich sollte mich loben, sondern ihr solltet es tun. Obwohl ich ein »Nichts« bin, kann ich es mit euren ach so großartigen Aposteln in jeder Hinsicht aufnehmen.",
+    "h": "Paulus wirbt um Vertrauen",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "47012012",
+    "b": 47,
+    "c": 12,
+    "v": 12,
+    "t": "Denn ich habe bewiesen, dass ich wirklich ein Apostel bin: durch meine unermüdliche Arbeit bei euch – trotz zahlreicher Schwierigkeiten –, durch Zeichen, Wunder und andere machtvolle Taten.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "47012013",
+    "b": 47,
+    "c": 12,
+    "v": 13,
+    "t": "Inwiefern habe ich euch denn schlechter behandelt als die anderen Gemeinden? Etwa indem ich kein Geld für meinen Unterhalt von euch verlangt habe? Dann verzeiht mir dieses »Unrecht«!",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "47012014",
+    "b": 47,
+    "c": 12,
+    "v": 14,
+    "t": "Ich werde jetzt zum dritten Mal zu euch kommen und auch diesmal nicht auf eure Kosten leben. Schließlich geht es mir nicht um euer Geld, sondern um euch selbst. Außerdem versorgen in der Regel nicht die Kinder ihre Eltern, sondern die Eltern ihre Kinder.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "47012015",
+    "b": 47,
+    "c": 12,
+    "v": 15,
+    "t": "Für euch würde ich gerne alles hingeben, sogar mein Leben. Sollte ich tatsächlich von euch weniger geliebt werden, weil ich euch so sehr liebe?",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "47012016",
+    "b": 47,
+    "c": 12,
+    "v": 16,
+    "t": "Nun gut, ich habe von euch kein Geld genommen. Aber vielleicht denkt ihr sogar, ich sei ganz besonders listig gewesen und hätte euch auf hinterhältige Weise ausgenutzt.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "47012017",
+    "b": 47,
+    "c": 12,
+    "v": 17,
+    "t": "Habe ich euch etwa durch meine Mitarbeiter ausgebeutet, die ich zu euch schickte?",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "47012018",
+    "b": 47,
+    "c": 12,
+    "v": 18,
+    "t": "Ich habe ja Titus beauftragt, zu euch zu reisen, zusammen mit dem Bruder, den die Gemeinden entsandt haben. Hat sich Titus nun etwa auf eure Kosten bereichert? Natürlich nicht, das ist ausgeschlossen! Denn wir beide teilen dieselbe Überzeugung und gehen denselben Weg.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "47012019",
+    "b": 47,
+    "c": 12,
+    "v": 19,
+    "t": "Ihr meint wohl schon die ganze Zeit, wir wollen uns durch diesen Brief vor euch nur verteidigen. Ganz und gar nicht; denn als Menschen, die zu Christus gehören, sind wir allein Gott verantwortlich. Mit allem, was wir euch geschrieben haben, liebe Brüder und Schwestern, wollen wir euch doch nur im Glauben weiterhelfen.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "47012020",
+    "b": 47,
+    "c": 12,
+    "v": 20,
+    "t": "Denn ich befürchte, dass ich euch bei meiner Ankunft nicht so antreffen werde, wie ich es erhoffe. Und dann – fürchte ich – werdet auch ihr mich auf eine Weise erleben, wie ihr es nicht wollt. Hoffentlich erwarten mich bei euch nicht wieder Streit, Eifersucht, Wutausbrüche und Intrigen! Hoffentlich gibt es nicht wieder Verleumdungen und bösartiges Gerede, Hochmut und Unfrieden!",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "47012021",
+    "b": 47,
+    "c": 12,
+    "v": 21,
+    "t": "Ich habe Angst, dass Gott mich aufs Neue bei euch demütigen könnte und ich über viele von euch traurig sein müsste, die nicht bereit waren, von ihrem zügellosen, ausschweifenden Leben umzukehren.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "47013001",
+    "b": 47,
+    "c": 13,
+    "v": 1,
+    "t": "Jetzt werde ich zum dritten Mal zu euch kommen. Denkt daran: »Jede Sache soll durch die Aussage von zwei oder drei Zeugen entschieden werden.«",
+    "h": "Abschließende Bitte und Grüße",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "47013002",
+    "b": 47,
+    "c": 13,
+    "v": 2,
+    "t": "Schon bei meinem zweiten Besuch habe ich euch gewarnt. Ich schreibe es jetzt in diesem Brief noch einmal unmissverständlich, und zwar denen, die in ihrer Schuld verharren, und auch allen anderen: Wenn ich wieder bei euch bin, hat meine Nachsicht ein Ende.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "47013003",
+    "b": 47,
+    "c": 13,
+    "v": 3,
+    "t": "Ihr selbst wollt ja den Beweis, dass Christus durch mich spricht. Nun, Christus ist euch gegenüber nicht schwach, sondern stark und mächtig.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "47013004",
+    "b": 47,
+    "c": 13,
+    "v": 4,
+    "t": "Als er gekreuzigt wurde, war er schwach; aber jetzt lebt er aus der Kraft Gottes. Auch wir sind schwach, weil wir mit Christus verbunden sind; doch euch gegenüber wird sich zeigen, dass wir mit Christus aus der Kraft Gottes leben.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "47013005",
+    "b": 47,
+    "c": 13,
+    "v": 5,
+    "t": "Prüft euch! Stellt selbst fest, ob euer Glaube noch lebendig ist! Oder ist bei euch nichts mehr davon zu merken, dass Jesus Christus unter euch lebt? Dann allerdings hättet ihr diese Prüfung nicht bestanden.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "47013006",
+    "b": 47,
+    "c": 13,
+    "v": 6,
+    "t": "Ich hoffe aber, ihr werdet erkennen, dass wir diese Probe bestanden haben.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "47013007",
+    "b": 47,
+    "c": 13,
+    "v": 7,
+    "t": "Wir beten zu Gott, dass ihr nichts Böses tut, und zwar nicht, damit wir bestätigt werden, sondern allein damit ihr das Gute tut. Es macht uns nichts aus, dass wir in diesem Fall wie Versager dastehen, weil wir dann doch nicht – wie angekündigt – hart durchgegriffen haben.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "47013008",
+    "b": 47,
+    "c": 13,
+    "v": 8,
+    "t": "Gegen Gottes Wahrheit können wir ohnehin nichts ausrichten, wir können nur für sie eintreten.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "47013009",
+    "b": 47,
+    "c": 13,
+    "v": 9,
+    "t": "Gern wollen wir schwach sein, wenn ihr nur stark seid. Darum beten wir, dass ihr euch von Gott zurechtbringen lasst.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "47013010",
+    "b": 47,
+    "c": 13,
+    "v": 10,
+    "t": "Ich habe euch das alles aus der Ferne geschrieben, ehe ich zu euch komme, damit ich nicht zu streng mit euch sein muss, wenn ich bei euch bin. Denn Gott hat mir seine Vollmacht gegeben, um euch aufzubauen, nicht um euch zu zerstören.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "47013011",
+    "b": 47,
+    "c": 13,
+    "v": 11,
+    "t": "Zum Schluss, meine lieben Brüder und Schwestern, noch einmal meine Bitte: Freut euch! Lasst euch wieder auf den richtigen Weg zurückbringen! Hört auf alles, was ich euch geschrieben habe. Haltet fest zusammen und lebt in Frieden miteinander. Dann wird Gott, von dem alle Liebe und aller Friede kommt, bei euch sein.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "47013012",
+    "b": 47,
+    "c": 13,
+    "v": 12,
+    "t": "Grüßt einander mit dem Friedenskuss. Die Gemeinde hier lässt euch grüßen.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "47013013",
+    "b": 47,
+    "c": 13,
+    "v": 13,
+    "t": "Die Gnade unseres Herrn Jesus Christus, die Liebe Gottes und die Gemeinschaft, die der Heilige Geist schenkt, sei mit euch.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  }
+]

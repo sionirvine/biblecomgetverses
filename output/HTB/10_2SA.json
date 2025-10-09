@@ -1,0 +1,6242 @@
+[
+  {
+    "id": "10001001",
+    "b": 10,
+    "c": 1,
+    "v": 1,
+    "t": "Na de dood van Saul ging David terug naar Ziklag, na de Amalekieten een vernietigende nederlaag te hebben toegebracht. Drie dagen later kwam een soldaat uit het leger van Saul bij David met gescheurde kleren en stof op zijn hoofd als teken van rouw. Hij liet zich voor David op de grond vallen.",
+    "h": "David treurt om Saul en Jonathan",
+    "o": 1,
+    "l": "1-2"
+  },
+  {
+    "id": "10001002",
+    "b": 10,
+    "c": 1,
+    "v": 3,
+    "t": "‘Waar komt u vandaan?’ vroeg David hem. ‘Uit het legerkamp van Israël. Ik ben ontkomen,’ antwoordde de man.",
+    "h": "",
+    "o": 2,
+    "l": "3"
+  },
+  {
+    "id": "10001003",
+    "b": 10,
+    "c": 1,
+    "v": 4,
+    "t": "‘Wat is er gebeurd?’ vroeg David. ‘Vertel mij hoe de strijd is verlopen.’ De man antwoordde: ‘Ons hele leger is op de vlucht geslagen. Vele mannen liggen dood en gewond op het slagveld en ook Saul en zijn zoon Jonathan zijn gesneuveld.’",
+    "h": "",
+    "o": 3,
+    "l": "4"
+  },
+  {
+    "id": "10001004",
+    "b": 10,
+    "c": 1,
+    "v": 5,
+    "t": "‘Hoe weet u dat zij dood zijn?’ vroeg David.",
+    "h": "",
+    "o": 4,
+    "l": "5"
+  },
+  {
+    "id": "10001005",
+    "b": 10,
+    "c": 1,
+    "v": 6,
+    "t": "‘Omdat ik toevallig op de berg Gilboa was en zag hoe Saul zich in zijn speer stortte, terwijl de vijandelijke strijdwagens hem insloten.",
+    "h": "",
+    "o": 5,
+    "l": "6"
+  },
+  {
+    "id": "10001006",
+    "b": 10,
+    "c": 1,
+    "v": 7,
+    "t": "Toen hij mij zag, riep hij dat ik naar hem toe moest komen.",
+    "h": "",
+    "o": 6,
+    "l": "7"
+  },
+  {
+    "id": "10001007",
+    "b": 10,
+    "c": 1,
+    "v": 8,
+    "t": "“Wie bent u?” vroeg hij. “Een Amalekiet,” antwoordde ik.",
+    "h": "",
+    "o": 7,
+    "l": "8"
+  },
+  {
+    "id": "10001008",
+    "b": 10,
+    "c": 1,
+    "v": 9,
+    "t": "“Vooruit, verlos mij uit mijn lijden,” smeekte hij, “want ik lijd vreselijke pijn, maar de dood wil niet komen.”",
+    "h": "",
+    "o": 8,
+    "l": "9"
+  },
+  {
+    "id": "10001009",
+    "b": 10,
+    "c": 1,
+    "v": 10,
+    "t": "Daarom doodde ik hem, want ik wist dat hij toch zou sterven. Daarna pakte ik zijn kroon en een van zijn armbanden om die naar u te brengen.’",
+    "h": "",
+    "o": 9,
+    "l": "10"
+  },
+  {
+    "id": "10001010",
+    "b": 10,
+    "c": 1,
+    "v": 11,
+    "t": "David en zijn mannen scheurden hun kleren van verdriet toen zij dit hoorden.",
+    "h": "",
+    "o": 10,
+    "l": "11"
+  },
+  {
+    "id": "10001011",
+    "b": 10,
+    "c": 1,
+    "v": 12,
+    "t": "Zij treurden, huilden en vastten de hele dag om Saul, zijn zoon Jonathan en de mannen van Israël die die dag waren gesneuveld.",
+    "h": "",
+    "o": 11,
+    "l": "12"
+  },
+  {
+    "id": "10001012",
+    "b": 10,
+    "c": 1,
+    "v": 13,
+    "t": "Toen zei David tegen de jongeman die het nieuws had gebracht: ‘Waar komt u vandaan?’ En hij antwoordde: ‘Ik ben een Amalekiet.’",
+    "h": "",
+    "o": 12,
+    "l": "13"
+  },
+  {
+    "id": "10001013",
+    "b": 10,
+    "c": 1,
+    "v": 14,
+    "t": "‘Waarom hebt u niet geweigerd de koning te doden? Hij was immers een gezalfde van de HERE !’ wilde David weten.",
+    "h": "",
+    "o": 13,
+    "l": "14"
+  },
+  {
+    "id": "10001014",
+    "b": 10,
+    "c": 1,
+    "v": 15,
+    "t": "Direct daarop beval hij een van zijn jonge mannen: ‘Dood hem!’ Deze deed dat.",
+    "h": "",
+    "o": 14,
+    "l": "15"
+  },
+  {
+    "id": "10001015",
+    "b": 10,
+    "c": 1,
+    "v": 16,
+    "t": "‘Dat is uw verdiende loon,’ zei David, ‘want u zei zelf dat u de door God gezalfde koning hebt gedood.’",
+    "h": "",
+    "o": 15,
+    "l": "16"
+  },
+  {
+    "id": "10001016",
+    "b": 10,
+    "c": 1,
+    "v": 17,
+    "t": "En David schreef een klaaglied voor Saul en Jonathan, waarna hij opdracht gaf dat het aan alle mensen in Juda moest worden geleerd. De tekst hiervan is opgenomen in het Boek van de Oprechte.",
+    "h": "",
+    "o": 16,
+    "l": "17-18"
+  },
+  {
+    "id": "10001017",
+    "b": 10,
+    "c": 1,
+    "v": 19,
+    "t": "‘Och Israël, uw trots en vreugde liggen levenloos op de heuvels, machtige helden zijn gevallen.",
+    "h": "",
+    "o": 17,
+    "l": "19"
+  },
+  {
+    "id": "10001018",
+    "b": 10,
+    "c": 1,
+    "v": 20,
+    "t": "Vertel het niet aan de Filistijnen, want het zou hun plezier doen. Verberg het voor de steden Gath en Askelon, zodat de heidense volken geen leedvermaak zullen hebben.",
+    "h": "",
+    "o": 18,
+    "l": "20"
+  },
+  {
+    "id": "10001019",
+    "b": 10,
+    "c": 1,
+    "v": 21,
+    "t": "O bergen van Gilboa, laat geen regen of dauw meer op u vallen en laat de graanoogst niet meer rijpen op uw hellingen. Want de machtige Saul is op die plaats gedood. Het schild van Gods uitverkoren koning is daar weggeworpen.",
+    "h": "",
+    "o": 19,
+    "l": "21"
+  },
+  {
+    "id": "10001020",
+    "b": 10,
+    "c": 1,
+    "v": 22,
+    "t": "Vele vijanden verloren hun leven en helden werden geveld: Jonathans boog en Sauls zwaard misten hun doel nooit.",
+    "h": "",
+    "o": 20,
+    "l": "22"
+  },
+  {
+    "id": "10001021",
+    "b": 10,
+    "c": 1,
+    "v": 23,
+    "t": "Wat waren zij geliefd en bemind, Saul en Jonathan! Samen leefden zij en samen stierven zij. Zij waren sneller dan arenden en sterker dan leeuwen.",
+    "h": "",
+    "o": 21,
+    "l": "23"
+  },
+  {
+    "id": "10001022",
+    "b": 10,
+    "c": 1,
+    "v": 24,
+    "t": "Huil nu om Saul, vrouwen van Israël. Hij maakte u rijk met prachtige kleren en gouden sieraden.",
+    "h": "",
+    "o": 22,
+    "l": "24"
+  },
+  {
+    "id": "10001023",
+    "b": 10,
+    "c": 1,
+    "v": 25,
+    "t": "Deze moedige helden sneuvelden in het heetst van de strijd. Jonathan stierf in de heuvels.",
+    "h": "",
+    "o": 23,
+    "l": "25"
+  },
+  {
+    "id": "10001024",
+    "b": 10,
+    "c": 1,
+    "v": 26,
+    "t": "Ik huil om u, mijn broeder Jonathan. Wat hield ik veel van u! Uw liefde voor mij was niet te vergelijken met de liefde van vrouwen!",
+    "h": "",
+    "o": 24,
+    "l": "26"
+  },
+  {
+    "id": "10001025",
+    "b": 10,
+    "c": 1,
+    "v": 27,
+    "t": "Helaas, onze helden zijn gevallen. Beroofd van hun wapens verloren zij hun leven.’",
+    "h": "",
+    "o": 25,
+    "l": "27"
+  },
+  {
+    "id": "10002001",
+    "b": 10,
+    "c": 2,
+    "v": 1,
+    "t": "David vroeg daarna aan de HERE : ‘Zal ik teruggaan naar Juda?’ En de HERE antwoordde: ‘Ga.’ ‘Naar welke stad moet ik gaan?’ vroeg David. ‘Naar Hebron,’ was het antwoord van de HERE.",
+    "h": "David wordt koning van Juda",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "10002002",
+    "b": 10,
+    "c": 2,
+    "v": 2,
+    "t": "Dus verhuisde David met zijn vrouwen Ahinoam en Abigaïl.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "10002003",
+    "b": 10,
+    "c": 2,
+    "v": 3,
+    "t": "Ook de mannen die bij hem waren, gingen met hun gezinnen in Hebron wonen.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "10002004",
+    "b": 10,
+    "c": 2,
+    "v": 4,
+    "t": "Daar kwamen de leiders van Juda bij David en zalfden hem tot koning over heel Juda. Kort daarop hoorde David dat de mannen van Jabes in Gilead Saul hadden begraven.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "10002005",
+    "b": 10,
+    "c": 2,
+    "v": 5,
+    "t": "Hij stuurde hun de volgende boodschap: ‘De HERE zegene u omdat u zo trouw bent aan uw koning Saul en hem een waardige begrafenis hebt gegeven.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "10002006",
+    "b": 10,
+    "c": 2,
+    "v": 6,
+    "t": "Moge de HERE, in ruil daarvoor, net zo trouw aan u zijn en u belonen met vele uitingen van zijn liefde! Ook ik zal goed voor u zijn om wat u hebt gedaan.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "10002007",
+    "b": 10,
+    "c": 2,
+    "v": 7,
+    "t": "Verlies de moed niet en wees dapper, nu Saul dood is. Schaar u achter de stam van Juda, die mij als nieuwe koning heeft gekozen.’",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "10002008",
+    "b": 10,
+    "c": 2,
+    "v": 8,
+    "t": "Maar Sauls opperbevelhebber Abner had Sauls zoon Isboseth naar Machanaïm meegenomen en hem daar tot koning gekroond.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "10002009",
+    "b": 10,
+    "c": 2,
+    "v": 9,
+    "t": "Zijn gebied omvatte Gilead, Aschurië, Jizreël, Efraïm, de stam van Benjamin en de rest van Israël.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "10002010",
+    "b": 10,
+    "c": 2,
+    "v": 10,
+    "t": "Isboseth was op dat moment veertig jaar oud. Hij regeerde Israël twee jaar vanuit Machanaïm, terwijl David vanuit Hebron zevenenhalf jaar regeerde over de stam van Juda.",
+    "h": "",
+    "o": 10,
+    "l": "10-11"
+  },
+  {
+    "id": "10002011",
+    "b": 10,
+    "c": 2,
+    "v": 12,
+    "t": "Op een dag trok een deel van Isboseths leger onder leiding van Abner van Machanaïm naar Gibeon.",
+    "h": "",
+    "o": 11,
+    "l": "12"
+  },
+  {
+    "id": "10002012",
+    "b": 10,
+    "c": 2,
+    "v": 13,
+    "t": "Davids legeraanvoerder Joab, de zoon van Zeruja, ging hem met een troepenmacht tegemoet. Zij ontmoetten elkaar bij de bron van Gibeon, waar zij aan weerszijden van de bron halt hielden.",
+    "h": "",
+    "o": 12,
+    "l": "13"
+  },
+  {
+    "id": "10002013",
+    "b": 10,
+    "c": 2,
+    "v": 14,
+    "t": "Toen zei Abner tegen Joab: ‘Laten we onze jonge mannen een zwaardgevecht laten houden!’ Dat leek Joab een goed idee.",
+    "h": "",
+    "o": 13,
+    "l": "14"
+  },
+  {
+    "id": "10002014",
+    "b": 10,
+    "c": 2,
+    "v": 15,
+    "t": "Uit beide partijen werden twaalf mannen gekozen die het dodelijke spel moesten gaan spelen.",
+    "h": "",
+    "o": 14,
+    "l": "15"
+  },
+  {
+    "id": "10002015",
+    "b": 10,
+    "c": 2,
+    "v": 16,
+    "t": "Ieder van hen greep de tegenstander bij de haren en stak hem met het zwaard in de zij. Allen werden op die manier gedood. Sinds die tijd heet die plaats bij Gibeon het Zwaardenveld.",
+    "h": "",
+    "o": 15,
+    "l": "16"
+  },
+  {
+    "id": "10002016",
+    "b": 10,
+    "c": 2,
+    "v": 17,
+    "t": "Daarna barstte het gevecht tussen de twee legers los en tegen het einde van die dag werd het duidelijk dat Abner en de mannen van Israël het moesten afleggen tegen Joab en de troepen van David.",
+    "h": "",
+    "o": 16,
+    "l": "17"
+  },
+  {
+    "id": "10002017",
+    "b": 10,
+    "c": 2,
+    "v": 18,
+    "t": "Joabs broers Abisaï en Asaël streden ook mee. Asaël kon heel hard lopen en zette de achtervolging in op de vluchtende Abner.",
+    "h": "",
+    "o": 17,
+    "l": "18"
+  },
+  {
+    "id": "10002018",
+    "b": 10,
+    "c": 2,
+    "v": 19,
+    "t": "Niets kon hem tot staan brengen. Hij wilde maar één ding: Abner achterhalen.",
+    "h": "",
+    "o": 18,
+    "l": "19"
+  },
+  {
+    "id": "10002019",
+    "b": 10,
+    "c": 2,
+    "v": 20,
+    "t": "Toen Abner omkeek en hem zag naderen, riep hij hem toe: ‘Bent u dat, Asaël?’ ‘Ja,’ riep hij terug, ‘ik ben het.’",
+    "h": "",
+    "o": 19,
+    "l": "20"
+  },
+  {
+    "id": "10002020",
+    "b": 10,
+    "c": 2,
+    "v": 21,
+    "t": "‘Achtervolg een van de anderen en pak hem zijn wapenrusting af,’ riep Abner. Asaël wilde echter niet luisteren en bleef doorlopen.",
+    "h": "",
+    "o": 20,
+    "l": "21"
+  },
+  {
+    "id": "10002021",
+    "b": 10,
+    "c": 2,
+    "v": 22,
+    "t": "Opnieuw riep Abner: ‘Ga hier weg. Ik kan uw broer Joab niet meer onder ogen komen als ik u moet doden!’",
+    "h": "",
+    "o": 21,
+    "l": "22"
+  },
+  {
+    "id": "10002022",
+    "b": 10,
+    "c": 2,
+    "v": 23,
+    "t": "Maar hij weigerde weg te gaan, daarom stak Abner hem met het botte eind van zijn speer in de buik. De speer doorboorde zijn lichaam en kwam er van achteren weer uit. Asaël zakte in elkaar en stierf. Ieder die er langs kwam, bleef stilstaan.",
+    "h": "",
+    "o": 22,
+    "l": "23"
+  },
+  {
+    "id": "10002023",
+    "b": 10,
+    "c": 2,
+    "v": 24,
+    "t": "Toen zetten Joab en Abisaï de achtervolging op Abner in. De zon ging al onder toen zij aankwamen bij de heuvel Amma, die vlakbij Giach lag, langs de weg naar de woestijn van Gibeon.",
+    "h": "",
+    "o": 23,
+    "l": "24"
+  },
+  {
+    "id": "10002024",
+    "b": 10,
+    "c": 2,
+    "v": 25,
+    "t": "Abners strijders van de stam van Benjamin hergroepeerden zich op de top van die heuvel.",
+    "h": "",
+    "o": 24,
+    "l": "25"
+  },
+  {
+    "id": "10002025",
+    "b": 10,
+    "c": 2,
+    "v": 26,
+    "t": "Abner schreeuwde Joab toe: ‘Moeten onze zwaarden elkaar voor altijd blijven doden? Wanneer zegt u eindelijk uw mensen dat zij moeten ophouden hun broeders te achtervolgen?’",
+    "h": "",
+    "o": 25,
+    "l": "26"
+  },
+  {
+    "id": "10002026",
+    "b": 10,
+    "c": 2,
+    "v": 27,
+    "t": "Joab riep terug: ‘Ik zweer bij God dat wij vanmorgen de achtervolging al zouden hebben gestaakt, als u dit eerder had gezegd.’",
+    "h": "",
+    "o": 26,
+    "l": "27"
+  },
+  {
+    "id": "10002027",
+    "b": 10,
+    "c": 2,
+    "v": 28,
+    "t": "Vervolgens blies hij op zijn trompet. Dat was voor zijn mannen het teken de achtervolging te staken.",
+    "h": "",
+    "o": 27,
+    "l": "28"
+  },
+  {
+    "id": "10002028",
+    "b": 10,
+    "c": 2,
+    "v": 29,
+    "t": "Die nacht trokken Abner en zijn mannen zich terug door het dal van de Jordaan, staken de rivier over en trokken verder tot zij bij Machanaïm aankwamen.",
+    "h": "",
+    "o": 28,
+    "l": "29"
+  },
+  {
+    "id": "10002029",
+    "b": 10,
+    "c": 2,
+    "v": 30,
+    "t": "Joab en zijn mannen gingen eveneens terug naar huis en toen hij zijn gesneuvelden telde, merkte hij dat naast Asaël slechts negentien mannen gedood waren.",
+    "h": "",
+    "o": 29,
+    "l": "30"
+  },
+  {
+    "id": "10002030",
+    "b": 10,
+    "c": 2,
+    "v": 31,
+    "t": "Maar onder Abners mannen waren driehonderdzestig doden gevallen, allemaal Benjaminieten.",
+    "h": "",
+    "o": 30,
+    "l": "31"
+  },
+  {
+    "id": "10002031",
+    "b": 10,
+    "c": 2,
+    "v": 32,
+    "t": "Joab en zijn mannen namen Asaëls lichaam mee naar Bethlehem en begroeven hem naast zijn vader. Daarna trokken zij de hele nacht door en kwamen bij het aanbreken van de morgen in Hebron aan.",
+    "h": "",
+    "o": 31,
+    "l": "32"
+  },
+  {
+    "id": "10003001",
+    "b": 10,
+    "c": 3,
+    "v": 1,
+    "t": "Deze strijd vormde het begin van een langdurige oorlog tussen de volgelingen van Saul en David. Davids positie werd steeds sterker, terwijl die van de nakomelingen van Saul steeds zwakker werd.",
+    "h": "Joab en Abner",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "10003002",
+    "b": 10,
+    "c": 3,
+    "v": 2,
+    "t": "David kreeg in Hebron diverse zonen. De oudste was Amnon, ter wereld gebracht door Ahinoam.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "10003003",
+    "b": 10,
+    "c": 3,
+    "v": 3,
+    "t": "Abigaïl was de moeder van zijn tweede zoon, Kileab. De derde zoon was Absalom van zijn vrouw Maächa, de dochter van koning Talmai van Gesur.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "10003004",
+    "b": 10,
+    "c": 3,
+    "v": 4,
+    "t": "Haggith bracht de vierde zoon, Adonia, ter wereld en daarna baarde Abital de vijfde zoon Sefatja.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "10003005",
+    "b": 10,
+    "c": 3,
+    "v": 5,
+    "t": "Jithream was de zesde en zijn moeder heette Egla.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "10003006",
+    "b": 10,
+    "c": 3,
+    "v": 6,
+    "t": "Terwijl de oorlog voortduurde, werd Abner steeds invloedrijker onder de volgelingen van Saul.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "10003007",
+    "b": 10,
+    "c": 3,
+    "v": 7,
+    "t": "Hij misbruikte zijn positie om met Rizpa, een van Sauls bijvrouwen, te slapen. Toen Isboseth hem hiervoor ter verantwoording riep,",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "10003008",
+    "b": 10,
+    "c": 3,
+    "v": 8,
+    "t": "was Abner woedend. ‘Ben ik soms een Judese hond, dat ik zo word behandeld?’ schreeuwde hij. ‘Is dit mijn beloning na alles wat ik voor uw vader en u heb gedaan, door u niet aan David te verraden: mij lastigvallen over de één of andere vrouw?",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "10003009",
+    "b": 10,
+    "c": 3,
+    "v": 9,
+    "t": "God mag mij vervloeken als ik niet alles zal doen om uw hele koninkrijk, van Dan tot Berseba, van u af te nemen en aan David te geven, precies zoals de HERE het hem heeft gezworen.’",
+    "h": "",
+    "o": 9,
+    "l": "9-10"
+  },
+  {
+    "id": "10003010",
+    "b": 10,
+    "c": 3,
+    "v": 11,
+    "t": "Isboseth durfde niets terug te zeggen, omdat hij bang was voor Abner.",
+    "h": "",
+    "o": 10,
+    "l": "11"
+  },
+  {
+    "id": "10003011",
+    "b": 10,
+    "c": 3,
+    "v": 12,
+    "t": "Daarna stuurde Abner boodschappers naar David: ‘Sluit een overeenkomst met mij, dan zal ik alles doen om te zorgen dat u heel Israël in bezit krijgt.’",
+    "h": "",
+    "o": 11,
+    "l": "12"
+  },
+  {
+    "id": "10003012",
+    "b": 10,
+    "c": 3,
+    "v": 13,
+    "t": "‘Goed,’ zei David, ‘maar er komt geen overeenkomst voordat u mijn vrouw Michal hebt teruggebracht.’",
+    "h": "",
+    "o": 12,
+    "l": "13"
+  },
+  {
+    "id": "10003013",
+    "b": 10,
+    "c": 3,
+    "v": 14,
+    "t": "Daarna stuurde David dezelfde boodschap naar Isboseth: ‘Geef mij mijn vrouw Michal terug, want ik heb haar gekocht met de voorhuiden van honderd Filistijnen.’",
+    "h": "",
+    "o": 13,
+    "l": "14"
+  },
+  {
+    "id": "10003014",
+    "b": 10,
+    "c": 3,
+    "v": 15,
+    "t": "Daarom haalde Isboseth haar weg bij haar man Palti.",
+    "h": "",
+    "o": 14,
+    "l": "15"
+  },
+  {
+    "id": "10003015",
+    "b": 10,
+    "c": 3,
+    "v": 16,
+    "t": "Deze volgde Michal tot Bahurim terwijl hij huilde van verdriet. Toen zei Abner tegen hem: ‘U kunt nu beter naar huis gaan.’ Dat deed hij toen.",
+    "h": "",
+    "o": 15,
+    "l": "16"
+  },
+  {
+    "id": "10003016",
+    "b": 10,
+    "c": 3,
+    "v": 17,
+    "t": "Intussen overlegde Abner met de leiders van Israël en hij herinnerde hen eraan dat zij David al een lange tijd als koning wilden hebben.",
+    "h": "",
+    "o": 16,
+    "l": "17"
+  },
+  {
+    "id": "10003017",
+    "b": 10,
+    "c": 3,
+    "v": 18,
+    "t": "‘Daarvoor bestaat nu de kans,’ zei hij tegen hen. ‘Want de HERE heeft gezegd: “Door David zal Ik mijn volk van de Filistijnen en al hun andere vijanden redden.” ’",
+    "h": "",
+    "o": 17,
+    "l": "18"
+  },
+  {
+    "id": "10003018",
+    "b": 10,
+    "c": 3,
+    "v": 19,
+    "t": "Abner sprak ook met de leiders van de stam Benjamin, waarna hij in Hebron David verslag deed over de vooruitgang die hij had geboekt in de besprekingen.",
+    "h": "",
+    "o": 18,
+    "l": "19"
+  },
+  {
+    "id": "10003019",
+    "b": 10,
+    "c": 3,
+    "v": 20,
+    "t": "Twintig mannen vergezelden hem en David bood hun een feestelijke maaltijd aan.",
+    "h": "",
+    "o": 19,
+    "l": "20"
+  },
+  {
+    "id": "10003020",
+    "b": 10,
+    "c": 3,
+    "v": 21,
+    "t": "Bij zijn vertrek beloofde Abner David: ‘Ik ga op weg om alle Israëlieten voor u bijeen te roepen, dan zullen zij een verdrag met u sluiten en zult u koning over heel Israël worden, zoals u al zolang hebt gewild.’ Daarop liet David Abner ongehinderd vertrekken.",
+    "h": "",
+    "o": 20,
+    "l": "21"
+  },
+  {
+    "id": "10003021",
+    "b": 10,
+    "c": 3,
+    "v": 22,
+    "t": "Maar toen Abner net was vertrokken, keerde Joab met een deel van Davids troepen terug van een strooptocht die hun veel buit had opgeleverd.",
+    "h": "",
+    "o": 21,
+    "l": "22"
+  },
+  {
+    "id": "10003022",
+    "b": 10,
+    "c": 3,
+    "v": 23,
+    "t": "Toen Joab hoorde dat Abner kort tevoren de koning had bezocht en ongehinderd weer was vertrokken,",
+    "h": "",
+    "o": 22,
+    "l": "23"
+  },
+  {
+    "id": "10003023",
+    "b": 10,
+    "c": 3,
+    "v": 24,
+    "t": "spoedde hij zich naar de koning en vroeg hem boos: ‘Wat hebt u nu gedaan? Waarom hebt u Abner zomaar weg laten gaan? U weet heel goed dat hij hier kwam spioneren.’",
+    "h": "",
+    "o": 23,
+    "l": "24-25"
+  },
+  {
+    "id": "10003024",
+    "b": 10,
+    "c": 3,
+    "v": 26,
+    "t": "Joab stuurde daarop boodschappers achter Abner aan om hem te zeggen dat hij moest terugkomen. Zij haalden hem in bij de bron Sira en hij ging met hen mee terug. David wist hier echter niets van.",
+    "h": "",
+    "o": 24,
+    "l": "26"
+  },
+  {
+    "id": "10003025",
+    "b": 10,
+    "c": 3,
+    "v": 27,
+    "t": "Toen Abner bij Hebron aankwam, nam Joab hem bij de stadspoort terzijde alsof hij hem onder vier ogen wilde spreken. Hij stak hem echter in zijn buik en doodde hem uit wraak voor de dood van zijn broer Asaël.",
+    "h": "",
+    "o": 25,
+    "l": "27"
+  },
+  {
+    "id": "10003026",
+    "b": 10,
+    "c": 3,
+    "v": 28,
+    "t": "Toen David dit hoorde, verklaarde hij: ‘Ik zweer bij de HERE dat ik en mijn koninkrijk onschuldig zijn aan deze misdaad tegen Abner.",
+    "h": "",
+    "o": 26,
+    "l": "28"
+  },
+  {
+    "id": "10003027",
+    "b": 10,
+    "c": 3,
+    "v": 29,
+    "t": "Joab en zijn familie zijn de schuldigen. Laat er in Joabs familie altijd iemand zijn die een geslachtsziekte of de schurft heeft, iemand die met krukken loopt, een gewelddadige dood sterft of honger lijdt.’",
+    "h": "",
+    "o": 27,
+    "l": "29"
+  },
+  {
+    "id": "10003028",
+    "b": 10,
+    "c": 3,
+    "v": 30,
+    "t": "Zo doodden Joab en zijn broer Abisaï Abner om wraak te nemen voor de dood van hun broer Asaël in de slag bij Gibeon.",
+    "h": "",
+    "o": 28,
+    "l": "30"
+  },
+  {
+    "id": "10003029",
+    "b": 10,
+    "c": 3,
+    "v": 31,
+    "t": "David zei tegen Joab en allen die bij hem waren: ‘Scheur uw kleren en kleedt u in zakken, we moeten rouwen om Abner.’ En koning David liep achter de baar naar de begraafplaats.",
+    "h": "",
+    "o": 29,
+    "l": "31"
+  },
+  {
+    "id": "10003030",
+    "b": 10,
+    "c": 3,
+    "v": 32,
+    "t": "Zij begroeven Abner in Hebron. De koning en alle aanwezigen huilden toen zij bij het graf stonden.",
+    "h": "",
+    "o": 30,
+    "l": "32"
+  },
+  {
+    "id": "10003031",
+    "b": 10,
+    "c": 3,
+    "v": 33,
+    "t": "‘Als een goddeloze kwam Abner aan zijn einde,’ klaagde de koning. ‘Uw handen waren niet vastgebonden, uw voeten waren niet geboeid. U werd vermoord als slachtoffer van een gemene samenzwering.’ En opnieuw huilden alle aanwezigen om hem.",
+    "h": "",
+    "o": 31,
+    "l": "33-34"
+  },
+  {
+    "id": "10003032",
+    "b": 10,
+    "c": 3,
+    "v": 35,
+    "t": "De hele dag van de begrafenis at David niets en iedereen smeekte hem toch iets te eten. Maar David zwoer dat hij niets zou eten tot de zon was ondergegaan. Deze houding van de koning sprak zijn onderdanen erg aan, zij hadden bewondering voor alles wat hij deed!",
+    "h": "",
+    "o": 32,
+    "l": "35-36"
+  },
+  {
+    "id": "10003033",
+    "b": 10,
+    "c": 3,
+    "v": 37,
+    "t": "Zo werd het voor het hele volk, zowel Israël als Juda, duidelijk dat David op geen enkele manier verantwoordelijk was voor Abners dood.",
+    "h": "",
+    "o": 33,
+    "l": "37"
+  },
+  {
+    "id": "10003034",
+    "b": 10,
+    "c": 3,
+    "v": 38,
+    "t": "David zei tegen zijn naaste dienaren: ‘Besef wel dat Israël vandaag een groot leider heeft verloren. Ik voel me nu niet geroepen om Joab en Abisaï aan te pakken omdat ik nog maar net koning ben. Moge de HERE hun misdaden vergelden.’",
+    "h": "",
+    "o": 34,
+    "l": "38-39"
+  },
+  {
+    "id": "10004001",
+    "b": 10,
+    "c": 4,
+    "v": 1,
+    "t": "Het nieuws van Abners dood in Hebron bracht koning Isboseth in grote verwarring. Hij en zijn onderdanen waren verlamd door angst.",
+    "h": "De dood van Isboseth",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "10004002",
+    "b": 10,
+    "c": 4,
+    "v": 2,
+    "t": "Het bevel over het leger van Israël kwam nu in handen van de broers Baëna en Rechab, die de overvalcommandoʼs van koning Isboseth leidden. Zij waren zonen van Rimmon uit Beëroth in Benjamin. Mensen uit Beëroth worden beschouwd als Benjaminieten, ook al vluchtten zij indertijd naar Gitthaim, waar zij nu nog wonen.",
+    "h": "",
+    "o": 2,
+    "l": "2-3"
+  },
+  {
+    "id": "10004003",
+    "b": 10,
+    "c": 4,
+    "v": 4,
+    "t": "Er leefde ook nog een kleinzoon van koning Saul. Hij heette Mefiboseth en was een zoon van Jonathan. Op het moment van de slag bij Jizreël, waarin Saul en Jonathan sneuvelden, was deze Mefiboseth vijf jaar oud. Toen het nieuws over de nederlaag de hoofdstad bereikte, vluchtte de verzorgster met het kind, maar in haar haast viel zij en liet het kind vallen. Zo raakte Mefiboseth verlamd.",
+    "h": "",
+    "o": 3,
+    "l": "4"
+  },
+  {
+    "id": "10004004",
+    "b": 10,
+    "c": 4,
+    "v": 5,
+    "t": "Rechab en Baëna kwamen op een middag bij het huis van koning Isboseth. Deze hield net een middagslaapje.",
+    "h": "",
+    "o": 4,
+    "l": "5"
+  },
+  {
+    "id": "10004005",
+    "b": 10,
+    "c": 4,
+    "v": 6,
+    "t": "Zij gingen het huis binnen en deden net alsof zij een zak tarwe wilden halen. Zij slopen naar zijn slaapkamer, vermoordden hem en hakten zijn hoofd af. Zij vluchtten die nacht de woestijn in en wisten zo te ontsnappen. Het hoofd van Isboseth namen zij mee.",
+    "h": "",
+    "o": 5,
+    "l": "6-7"
+  },
+  {
+    "id": "10004006",
+    "b": 10,
+    "c": 4,
+    "v": 8,
+    "t": "In Hebron aangekomen, lieten zij het hoofd aan David zien. ‘Kijk!’ zeiden zij. ‘Hier is het hoofd van Sauls zoon Isboseth, die probeerde u te doden. Vandaag heeft de HERE u wraak gegeven op Saul en zijn hele familie!’",
+    "h": "",
+    "o": 6,
+    "l": "8"
+  },
+  {
+    "id": "10004007",
+    "b": 10,
+    "c": 4,
+    "v": 9,
+    "t": "Maar David antwoordde: ‘Ik zweer bij de HERE, die mij van mijn vijanden redde,",
+    "h": "",
+    "o": 7,
+    "l": "9"
+  },
+  {
+    "id": "10004008",
+    "b": 10,
+    "c": 4,
+    "v": 10,
+    "t": "dat toen iemand mij vertelde: “Saul is dood,” en daarbij dacht dat hij mij goed nieuws bracht, ik hem heb gedood. Zo beloonde ik hem voor zijn “goede bericht”.",
+    "h": "",
+    "o": 8,
+    "l": "10"
+  },
+  {
+    "id": "10004009",
+    "b": 10,
+    "c": 4,
+    "v": 11,
+    "t": "Dus wat moet ik dan wel doen met zulke goddeloze mannen, die een goede man doden die thuis op zijn bed ligt te slapen! Zou ik die niet zéker ter dood veroordelen?’",
+    "h": "",
+    "o": 9,
+    "l": "11"
+  },
+  {
+    "id": "10004010",
+    "b": 10,
+    "c": 4,
+    "v": 12,
+    "t": "Daarom gaf David zijn mannen opdracht hen te doden. Dat deden zij onmiddellijk. Zij hakten hun handen en voeten af en hingen hun lichamen bij de vijver in Hebron. Isboseths hoofd begroeven zij in Abners graf in Hebron.",
+    "h": "",
+    "o": 10,
+    "l": "12"
+  },
+  {
+    "id": "10005001",
+    "b": 10,
+    "c": 5,
+    "v": 1,
+    "t": "Vertegenwoordigers van alle stammen van Israël kwamen naar David in Hebron en beloofden hem trouw. ‘Wij zijn uw volksgenoten, uw broeders,’ zeiden zij.",
+    "h": "David tot koning van Israël gekroond",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "10005002",
+    "b": 10,
+    "c": 5,
+    "v": 2,
+    "t": "‘Zelfs toen Saul nog onze koning was, was u onze werkelijke leider. De HERE heeft immers beloofd dat u de herder en leider van zijn volk zou worden.’",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "10005003",
+    "b": 10,
+    "c": 5,
+    "v": 3,
+    "t": "Zo sloot David voor de ogen van de HERE in Hebron een verbond met de leiders van Israël en zij zalfden hem tot koning.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "10005004",
+    "b": 10,
+    "c": 5,
+    "v": 4,
+    "t": "David was dertig jaar toen hij koning werd. Eerst regeerde hij zevenenhalf jaar vanuit Hebron over Juda. Daarna regeerde hij drieëndertig jaar in Jeruzalem over Israël en Juda. In totaal was hij dus veertig jaar aan de macht.",
+    "h": "",
+    "o": 4,
+    "l": "4-5"
+  },
+  {
+    "id": "10005005",
+    "b": 10,
+    "c": 5,
+    "v": 6,
+    "t": "Kort daarna leidde David zijn troepen naar Jeruzalem om de strijd aan te binden met de Jebusieten, die daar woonden. ‘U komt hier nooit binnen,’ zeiden zij. ‘Zelfs blinden en lammen zouden u buiten de muren kunnen houden!’ Zo gemakkelijk dachten zij David van zich af te kunnen houden.",
+    "h": "",
+    "o": 5,
+    "l": "6"
+  },
+  {
+    "id": "10005006",
+    "b": 10,
+    "c": 5,
+    "v": 7,
+    "t": "Maar David en zijn mannen versloegen hen en veroverden de burcht Sion, die nu de Stad van David wordt genoemd.",
+    "h": "",
+    "o": 6,
+    "l": "7"
+  },
+  {
+    "id": "10005007",
+    "b": 10,
+    "c": 5,
+    "v": 8,
+    "t": "Want toen de beledigende boodschap van de verdedigers van de stad David had bereikt, had hij tegen zijn troepen gezegd: ‘Zodra de stad is ingenomen, moeten jullie al die “lamme” en “blinde” Jebusieten van de burcht naar beneden gooien. Ik haat hen. Degene die de stad als eerste inneemt, wordt opperbevelhebber.’ Hiervan stamt het spreekwoord: ‘Blinden en lammen mogen niet binnenkomen!’",
+    "h": "",
+    "o": 7,
+    "l": "8"
+  },
+  {
+    "id": "10005008",
+    "b": 10,
+    "c": 5,
+    "v": 9,
+    "t": "David maakte de burcht Sion tot zijn hoofdkwartier en noemde deze voort aan de ‘Stad van David.’ Rondom bouwde hij versterkingen. Hij begon bij Millo en bouwde zo verder naar binnen.",
+    "h": "",
+    "o": 8,
+    "l": "9"
+  },
+  {
+    "id": "10005009",
+    "b": 10,
+    "c": 5,
+    "v": 10,
+    "t": "Op die manier werd David steeds machtiger, want de HERE, de God van de hemelse legers, hielp hem.",
+    "h": "",
+    "o": 9,
+    "l": "10"
+  },
+  {
+    "id": "10005010",
+    "b": 10,
+    "c": 5,
+    "v": 11,
+    "t": "Koning Hiram van Tyrus stuurde cederhout, timmerlui en steenhouwers om een paleis voor David te bouwen.",
+    "h": "",
+    "o": 10,
+    "l": "11"
+  },
+  {
+    "id": "10005011",
+    "b": 10,
+    "c": 5,
+    "v": 12,
+    "t": "David besefte nu waarom de HERE hem koning had gemaakt en zijn koningschap zo zegende, God maakte zo zijn volk Israël beroemd.",
+    "h": "",
+    "o": 11,
+    "l": "12"
+  },
+  {
+    "id": "10005012",
+    "b": 10,
+    "c": 5,
+    "v": 13,
+    "t": "Nadat David van Hebron naar Jeruzalem was verhuisd, trouwde hij nog meer vrouwen en bijvrouwen, van wie hij veel zonen en dochters kreeg.",
+    "h": "",
+    "o": 12,
+    "l": "13"
+  },
+  {
+    "id": "10005013",
+    "b": 10,
+    "c": 5,
+    "v": 14,
+    "t": "Davids kinderen die in Jeruzalem werden geboren zijn: Sammua, Sobab, Nathan, Salomo, Jibhar, Elisua, Nefeg, Jafia, Elisama, Eljada en Elifelet.",
+    "h": "",
+    "o": 13,
+    "l": "14-16"
+  },
+  {
+    "id": "10005014",
+    "b": 10,
+    "c": 5,
+    "v": 17,
+    "t": "Toen de Filistijnen hoorden dat David koning van heel Israël was geworden, probeerden zij hem gevangen te nemen, maar David werd van hun plan op de hoogte gesteld en verschanste zich in zijn burcht.",
+    "h": "",
+    "o": 14,
+    "l": "17"
+  },
+  {
+    "id": "10005015",
+    "b": 10,
+    "c": 5,
+    "v": 18,
+    "t": "De Filistijnen arriveerden en verspreidden zich over het dal van Refaïm.",
+    "h": "",
+    "o": 15,
+    "l": "18"
+  },
+  {
+    "id": "10005016",
+    "b": 10,
+    "c": 5,
+    "v": 19,
+    "t": "David vroeg de HERE : ‘Moet ik de burcht verlaten en de strijd met hen aanbinden? Zult U hen voor mij verslaan?’ En de HERE antwoordde: ‘Ja, bind de strijd aan, want Ik zal u de overwinning geven.’",
+    "h": "",
+    "o": 16,
+    "l": "19"
+  },
+  {
+    "id": "10005017",
+    "b": 10,
+    "c": 5,
+    "v": 20,
+    "t": "Dus verliet David de burcht, trok op naar Baäl-Perazim en versloeg hen daar. ‘Dit heeft de HERE gedaan!’ erkende hij. ‘Hij brak als een stormvloed door de vijandelijke rijen.’ Daarom noemde hij die plaats Baäl-Perazim, ‘De HERE breekt zich baan.’",
+    "h": "",
+    "o": 17,
+    "l": "20"
+  },
+  {
+    "id": "10005018",
+    "b": 10,
+    "c": 5,
+    "v": 21,
+    "t": "Onder de zaken die de Filistijnen hadden achtergelaten, waren veel afgodsbeelden. Dat alles werd buitgemaakt door de troepen van David.",
+    "h": "",
+    "o": 18,
+    "l": "21"
+  },
+  {
+    "id": "10005019",
+    "b": 10,
+    "c": 5,
+    "v": 22,
+    "t": "De Filistijnen kwamen echter terug en verspreidden zich weer over het dal van Refaïm.",
+    "h": "",
+    "o": 19,
+    "l": "22"
+  },
+  {
+    "id": "10005020",
+    "b": 10,
+    "c": 5,
+    "v": 23,
+    "t": "Toen David de HERE om raad vroeg, kreeg hij het antwoord: ‘Val hen niet van voren aan. Maak een omtrekkende beweging tot bij de balsemstruiken.",
+    "h": "",
+    "o": 20,
+    "l": "23"
+  },
+  {
+    "id": "10005021",
+    "b": 10,
+    "c": 5,
+    "v": 24,
+    "t": "Als u door die struiken een geluid hoort gaan van marcherende voeten, val dan aan! Dat is het teken dat de HERE voor u uit is gegaan om hen te vernietigen.’",
+    "h": "",
+    "o": 21,
+    "l": "24"
+  },
+  {
+    "id": "10005022",
+    "b": 10,
+    "c": 5,
+    "v": 25,
+    "t": "David volgde de aanwijzingen van de HERE op en versloeg de Filistijnen over het hele gebied tussen Gibea en Gezer.",
+    "h": "",
+    "o": 22,
+    "l": "25"
+  },
+  {
+    "id": "10006001",
+    "b": 10,
+    "c": 6,
+    "v": 1,
+    "t": "Daarna bracht David opnieuw een speciale troepenmacht van dertigduizend man op de been en trok naar Baäla in Juda om de ark van de HERE van de hemelse legers, die bij de engelen woont, naar huis terug te brengen.",
+    "h": "David brengt de ark naar Jeruzalem",
+    "o": 1,
+    "l": "1-2"
+  },
+  {
+    "id": "10006002",
+    "b": 10,
+    "c": 6,
+    "v": 3,
+    "t": "De ark werd weggehaald uit het in de heuvels gelegen huis van Abinadab en daarna op een nieuwe wagen gezet. Twee zonen van Abinadab, Uzza en Ahio, begeleidden de wagen. Ahio liep voor de wagen, gevolgd door David en het volk. Zij zongen blij voor de HERE en speelden op allerlei instrumenten: citers, harpen, tamboerijnen, rinkelbellen en cimbalen.",
+    "h": "",
+    "o": 2,
+    "l": "3-5"
+  },
+  {
+    "id": "10006003",
+    "b": 10,
+    "c": 6,
+    "v": 6,
+    "t": "Bij de dorsvloer van Nachon struikelden de ossen voor de wagen en Uzza stak zijn hand uit om te voorkomen dat de ark zou vallen.",
+    "h": "",
+    "o": 3,
+    "l": "6"
+  },
+  {
+    "id": "10006004",
+    "b": 10,
+    "c": 6,
+    "v": 7,
+    "t": "Maar de HERE richtte zijn toorn tegen Uzza en doodde hem ter plekke. Levenloos lag hij naast de ark.",
+    "h": "",
+    "o": 4,
+    "l": "7"
+  },
+  {
+    "id": "10006005",
+    "b": 10,
+    "c": 6,
+    "v": 8,
+    "t": "David was vreselijk ontsteld omdat de HERE dit had gedaan en noemde deze plaats ‘De plaats van toorn tegen Uzza’ en zo heet hij vandaag de dag nog.",
+    "h": "",
+    "o": 5,
+    "l": "8"
+  },
+  {
+    "id": "10006006",
+    "b": 10,
+    "c": 6,
+    "v": 9,
+    "t": "Met bevend ontzag voor de HERE vroeg David zich toen af hoe hij de ark ooit moest terugbrengen.",
+    "h": "",
+    "o": 6,
+    "l": "9"
+  },
+  {
+    "id": "10006007",
+    "b": 10,
+    "c": 6,
+    "v": 10,
+    "t": "Hij besloot hem niet naar de Stad van David te brengen, maar bracht hem naar het huis van Obed-Edom, die afkomstig was uit Gath.",
+    "h": "",
+    "o": 7,
+    "l": "10"
+  },
+  {
+    "id": "10006008",
+    "b": 10,
+    "c": 6,
+    "v": 11,
+    "t": "Daar bleef de ark drie maanden staan en de HERE zegende Obed-Edom en zijn hele gezin.",
+    "h": "",
+    "o": 8,
+    "l": "11"
+  },
+  {
+    "id": "10006009",
+    "b": 10,
+    "c": 6,
+    "v": 12,
+    "t": "Toen David dat hoorde, bracht hij de ark naar de Stad van David en maakte er een groot feest van.",
+    "h": "",
+    "o": 9,
+    "l": "12"
+  },
+  {
+    "id": "10006010",
+    "b": 10,
+    "c": 6,
+    "v": 13,
+    "t": "Nadat de mannen die de ark droegen, zes passen hadden gedaan, stopten zij om David de gelegenheid te geven een rund en een gemest lam te offeren.",
+    "h": "",
+    "o": 10,
+    "l": "13"
+  },
+  {
+    "id": "10006011",
+    "b": 10,
+    "c": 6,
+    "v": 14,
+    "t": "In priesterkleding gestoken, danste David uitbundig onder het oog van de HERE voor de ark uit.",
+    "h": "",
+    "o": 11,
+    "l": "14"
+  },
+  {
+    "id": "10006012",
+    "b": 10,
+    "c": 6,
+    "v": 15,
+    "t": "Zo brachten David en het volk Israël de ark van de HERE met veel gejubel en bazuingeschal terug naar de plaats waar hij hoorde.",
+    "h": "",
+    "o": 12,
+    "l": "15"
+  },
+  {
+    "id": "10006013",
+    "b": 10,
+    "c": 6,
+    "v": 16,
+    "t": "Sauls dochter Michal keek uit het raam toen de stoet de stad binnenkwam. Zij zag hoe koning David voor het oog van de HERE danste en sprong en voelde diepe minachting voor hem.",
+    "h": "",
+    "o": 13,
+    "l": "16"
+  },
+  {
+    "id": "10006014",
+    "b": 10,
+    "c": 6,
+    "v": 17,
+    "t": "De ark werd in de tent gezet die David voor dat doel had laten opzetten. Vervolgens bracht hij brandoffers en vredeoffers aan de HERE.",
+    "h": "",
+    "o": 14,
+    "l": "17"
+  },
+  {
+    "id": "10006015",
+    "b": 10,
+    "c": 6,
+    "v": 18,
+    "t": "Ook zegende hij het volk in de naam van de HERE van de hemelse legers.",
+    "h": "",
+    "o": 15,
+    "l": "18"
+  },
+  {
+    "id": "10006016",
+    "b": 10,
+    "c": 6,
+    "v": 19,
+    "t": "Hij gaf iedereen een geschenk, zowel de mannen als de vrouwen, in de vorm van brood, vlees en druivenkoeken. Toen de hele plechtigheid achter de rug was en iedereen naar huis was gegaan,",
+    "h": "",
+    "o": 16,
+    "l": "19"
+  },
+  {
+    "id": "10006017",
+    "b": 10,
+    "c": 6,
+    "v": 20,
+    "t": "ging ook David naar huis om zijn gezin te zegenen. Maar Michal kwam hem tegemoet en zei met verachting in haar stem: ‘Wat heeft de koning van Israël zich vandaag weer prachtig gedragen! Als een losbandige ging hij halfnaakt over straat en liet zich bekijken door de meisjes langs de weg!’",
+    "h": "",
+    "o": 17,
+    "l": "20"
+  },
+  {
+    "id": "10006018",
+    "b": 10,
+    "c": 6,
+    "v": 21,
+    "t": "Maar David was het niet met haar eens. ‘Ik danste voor de HERE,’ zei hij, ‘die aan mij de voorkeur gaf boven jouw vader en zijn familie en mij aanstelde als leider van zijn volk Israël! Daarom ben ik ook niet bang mijn vreugde in de HERE te laten zien.",
+    "h": "",
+    "o": 18,
+    "l": "21"
+  },
+  {
+    "id": "10006019",
+    "b": 10,
+    "c": 6,
+    "v": 22,
+    "t": "Ja, in de toekomst zal ik me nog meer moeten verlagen en vernederen, maar dan nog zullen de meisjes over wie je het had, net zo tegen mij opkijken!’",
+    "h": "",
+    "o": 19,
+    "l": "22"
+  },
+  {
+    "id": "10006020",
+    "b": 10,
+    "c": 6,
+    "v": 23,
+    "t": "Om haar minachtende houding bleef Michal haar hele verdere leven kinderloos.",
+    "h": "",
+    "o": 20,
+    "l": "23"
+  },
+  {
+    "id": "10007001",
+    "b": 10,
+    "c": 7,
+    "v": 1,
+    "t": "Toen de HERE eindelijk vrede gaf en Israël niet langer in oorlog was met de omringende volken,",
+    "h": "De belofte van God aan David",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "10007002",
+    "b": 10,
+    "c": 7,
+    "v": 2,
+    "t": "zei David tegen de profeet Nathan: ‘Luister eens! Ik woon hier in een prachtig paleis van cederhout, terwijl de ark van God buiten in een tent staat!’",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "10007003",
+    "b": 10,
+    "c": 7,
+    "v": 3,
+    "t": "‘Doe gerust wat u van plan bent,’ zei Nathan, ‘want de HERE zal u helpen.’",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "10007004",
+    "b": 10,
+    "c": 7,
+    "v": 4,
+    "t": "Maar die nacht zei de HERE tegen Nathan:",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "10007005",
+    "b": 10,
+    "c": 7,
+    "v": 5,
+    "t": "‘Vertel mijn dienaar David dat hij het niet moet doen!",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "10007006",
+    "b": 10,
+    "c": 7,
+    "v": 6,
+    "t": "Ik heb namelijk nooit in een tempel gewoond. Mijn huis is een tent geweest sinds de tijd dat Ik Israël uit Egypte haalde.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "10007007",
+    "b": 10,
+    "c": 7,
+    "v": 7,
+    "t": "Ik heb daarover ook nooit geklaagd tegen de leiders van Israël, de herders van mijn volk. Heb Ik hun ooit gevraagd waarom zij geen mooie cederhouten tempel voor Mij hadden gebouwd?",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "10007008",
+    "b": 10,
+    "c": 7,
+    "v": 8,
+    "t": "Breng deze boodschap van de HERE van de hemelse legers over aan David: “Ik heb u tot leider van mijn volk Israël gekozen en u daarvoor weggehaald bij de schapen die u hoedde.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "10007009",
+    "b": 10,
+    "c": 7,
+    "v": 9,
+    "t": "Ik heb u terzijde gestaan waar u ook ging en Ik heb uw vijanden verslagen. En Ik zal uw naam nog groter maken, zodat u een van de bekendste mannen ter wereld wordt!",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "10007010",
+    "b": 10,
+    "c": 7,
+    "v": 10,
+    "t": "Ik heb een vaderland uitgekozen voor mijn onderdanen dat zij nooit hoeven te verlaten. Het zal hun eigen land zijn, waarin de heidense volken hen niet meer zullen lastigvallen, zoals in de tijd toen de richters mijn volk regeerden. Er zullen geen vijanden meer tegen u optrekken en Ik zal u een rijk nageslacht geven!",
+    "h": "",
+    "o": 10,
+    "l": "10-11"
+  },
+  {
+    "id": "10007011",
+    "b": 10,
+    "c": 7,
+    "v": 12,
+    "t": "Want wanneer u sterft, zal Ik een van uw eigen zonen op uw troon zetten en Ik zal zijn koninkrijk sterk maken.",
+    "h": "",
+    "o": 11,
+    "l": "12"
+  },
+  {
+    "id": "10007012",
+    "b": 10,
+    "c": 7,
+    "v": 13,
+    "t": "Hij is degene die een tempel voor Mij zal bouwen. Het zal een huis zijn waaraan Ik mijn naam verbind. En zijn koninkrijk zal Ik tot in eeuwigheid laten voortduren.",
+    "h": "",
+    "o": 12,
+    "l": "13"
+  },
+  {
+    "id": "10007013",
+    "b": 10,
+    "c": 7,
+    "v": 14,
+    "t": "Ik zal zijn vader zijn en hij zal mijn zoon zijn. Als hij zondigt, zal Ik andere volken gebruiken om hem te straffen,",
+    "h": "",
+    "o": 13,
+    "l": "14"
+  },
+  {
+    "id": "10007014",
+    "b": 10,
+    "c": 7,
+    "v": 15,
+    "t": "maar Ik zal mijn liefde en vriendschap niet van hem terugtrekken zoals Ik dat bij uw voorganger Saul deed.",
+    "h": "",
+    "o": 14,
+    "l": "15"
+  },
+  {
+    "id": "10007015",
+    "b": 10,
+    "c": 7,
+    "v": 16,
+    "t": "Uw familie zal voor eeuwig dit koninkrijk regeren. Uw troon zal niet wankelen.” ’",
+    "h": "",
+    "o": 15,
+    "l": "16"
+  },
+  {
+    "id": "10007016",
+    "b": 10,
+    "c": 7,
+    "v": 17,
+    "t": "Nathan zocht David op en vertelde hem wat de HERE had gezegd.",
+    "h": "",
+    "o": 16,
+    "l": "17"
+  },
+  {
+    "id": "10007017",
+    "b": 10,
+    "c": 7,
+    "v": 18,
+    "t": "Toen ging David de tent binnen, knielde voor de ogen van de HERE neer en bad: ‘O HERE God, waarom hebt U uw zegeningen uitgestrooid over mij en mijn nageslacht?",
+    "h": "",
+    "o": 17,
+    "l": "18"
+  },
+  {
+    "id": "10007018",
+    "b": 10,
+    "c": 7,
+    "v": 19,
+    "t": "En nu U mij dat allemaal hebt gegeven, zegt U ook nog dat U mijn geslacht voor altijd wilt laten regeren!",
+    "h": "",
+    "o": 18,
+    "l": "19"
+  },
+  {
+    "id": "10007019",
+    "b": 10,
+    "c": 7,
+    "v": 20,
+    "t": "Wat kan ik verder nog zeggen? HERE God, U kent mij, uw dienaar, immers door en door.",
+    "h": "",
+    "o": 19,
+    "l": "20"
+  },
+  {
+    "id": "10007020",
+    "b": 10,
+    "c": 7,
+    "v": 21,
+    "t": "U doet al deze dingen omdat U het hebt beloofd en omdat U ze ook wilt doen!",
+    "h": "",
+    "o": 20,
+    "l": "21"
+  },
+  {
+    "id": "10007021",
+    "b": 10,
+    "c": 7,
+    "v": 22,
+    "t": "O HERE God, wat bent U groot! Wij hebben nooit gehoord over een andere God zoals U. En er is ook geen andere God buiten U, die ons dit alles hebt bekend gemaakt.",
+    "h": "",
+    "o": 21,
+    "l": "22"
+  },
+  {
+    "id": "10007022",
+    "b": 10,
+    "c": 7,
+    "v": 23,
+    "t": "Welk ander volk op aarde heeft zulke zegeningen ontvangen als uw volk Israël? Want U hebt uw uitverkoren volk gered om uw naam eer te geven. U hebt grote wonderen gedaan en Egypte en haar goden verslagen.",
+    "h": "",
+    "o": 22,
+    "l": "23"
+  },
+  {
+    "id": "10007023",
+    "b": 10,
+    "c": 7,
+    "v": 24,
+    "t": "U koos Israël voor altijd als uw volk en U werd onze God.",
+    "h": "",
+    "o": 23,
+    "l": "24"
+  },
+  {
+    "id": "10007024",
+    "b": 10,
+    "c": 7,
+    "v": 25,
+    "t": "HERE God, doe dan wat U beloofde aan mij en mijn nageslacht.",
+    "h": "",
+    "o": 24,
+    "l": "25"
+  },
+  {
+    "id": "10007025",
+    "b": 10,
+    "c": 7,
+    "v": 26,
+    "t": "Ik bid dat U voor eeuwig zult worden geëerd omdat U de God van Israël bent en mijn nageslacht voor U bewaard zal blijven.",
+    "h": "",
+    "o": 25,
+    "l": "26"
+  },
+  {
+    "id": "10007026",
+    "b": 10,
+    "c": 7,
+    "v": 27,
+    "t": "Want U hebt mij geopenbaard, o HERE van de hemelse legers, God van Israël, dat ik de eerste ben van een gezegend nageslacht, daarom ben ik zo vrijmoedig geweest dit gebed uit te spreken.",
+    "h": "",
+    "o": 26,
+    "l": "27"
+  },
+  {
+    "id": "10007027",
+    "b": 10,
+    "c": 7,
+    "v": 28,
+    "t": "Want U bent werkelijk God en uw woorden zijn waarheid. U hebt mij deze goede dingen beloofd,",
+    "h": "",
+    "o": 27,
+    "l": "28"
+  },
+  {
+    "id": "10007028",
+    "b": 10,
+    "c": 7,
+    "v": 29,
+    "t": "doe daarom wat U mij hebt toegezegd! Zegen mijn familie voor eeuwig! Moge ons nageslacht altijd voor uw ogen blijven voortbestaan, want U, HERE God, hebt het beloofd.’",
+    "h": "",
+    "o": 28,
+    "l": "29"
+  },
+  {
+    "id": "10008001",
+    "b": 10,
+    "c": 8,
+    "v": 1,
+    "t": "David versloeg korte tijd later de Filistijnen, onderwierp hen en nam het bestuur over hun hoofdstad over.",
+    "h": "David: een beroemd man",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "10008002",
+    "b": 10,
+    "c": 8,
+    "v": 2,
+    "t": "Tevens nam hij het land van Moab in bezit. Hij verdeelde zijn slachtoffers en liet hen twee aan twee in rijen op de grond liggen. Tweederde van elke rij, met een meetlint gemeten, doodde hij en eenderde werd gespaard om zijn dienaren te worden, elk jaar betaalden zij hem belasting.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "10008003",
+    "b": 10,
+    "c": 8,
+    "v": 3,
+    "t": "Hij versloeg ook de troepen van koning Hadadezer van Zoba, een zoon van Rechob, in een veldslag bij de Eufraat. Hij deed dit omdat Hadadezer trachtte zijn invloed langs de Eufraat te herstellen.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "10008004",
+    "b": 10,
+    "c": 8,
+    "v": 4,
+    "t": "David nam daarbij zeventienhonderd ruiters en twintigduizend man voetvolk gevangen. Slechts honderd tuigpaarden hield hij, bij alle andere liet hij de pezen doorsnijden.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "10008005",
+    "b": 10,
+    "c": 8,
+    "v": 5,
+    "t": "De Syriërs kwamen uit Damascus Hadadezer te hulp. Ook van hen sneuvelden tweeëntwintigduizend man.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "10008006",
+    "b": 10,
+    "c": 8,
+    "v": 6,
+    "t": "David stationeerde enkele legergarnizoenen in Damascus waardoor de Syriërs werden onderworpen. Ook zij betaalden elk jaar belasting aan David. Zo gaf de HERE hem overal waar hij ging, overwinningen.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "10008007",
+    "b": 10,
+    "c": 8,
+    "v": 7,
+    "t": "De gouden schilden van koning Hadadezers officieren bracht David naar Jeruzalem.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "10008008",
+    "b": 10,
+    "c": 8,
+    "v": 8,
+    "t": "Tevens voerde hij een grote buit aan koper, afkomstig uit Hadadezers steden Betach en Berothai, naar Jeruzalem.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "10008009",
+    "b": 10,
+    "c": 8,
+    "v": 9,
+    "t": "Toen koning Toï van Hamath hoorde over Davids overwinning op het leger van Hadadezer,",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "10008010",
+    "b": 10,
+    "c": 8,
+    "v": 10,
+    "t": "stuurde hij zijn zoon Joram naar David om hem te begroeten en geluk te wensen met zijn overwinning op Hadadezer, want Hadadezer en Toï waren vijanden. Joram bracht daarbij geschenken van zilver, goud en koper voor David mee.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "10008011",
+    "b": 10,
+    "c": 8,
+    "v": 11,
+    "t": "David wijdde dit alles aan de HERE, samen met het zilver en het goud dat hij had buitgemaakt op Syrië, Moab, Ammon, de Filistijnen, Amalek en koning Hadadezer.",
+    "h": "",
+    "o": 11,
+    "l": "11-12"
+  },
+  {
+    "id": "10008012",
+    "b": 10,
+    "c": 8,
+    "v": 13,
+    "t": "Na zijn terugkeer van een overwinning op achttienduizend Edomieten in het Zoutdal, werd David een beroemd man.",
+    "h": "",
+    "o": 12,
+    "l": "13"
+  },
+  {
+    "id": "10008013",
+    "b": 10,
+    "c": 8,
+    "v": 14,
+    "t": "In heel Edom plaatste hij garnizoenen die ervoor zorgden dat het hele volk belasting betaalde, weer een voorbeeld van de manier waarop de HERE hem overal overwinnaar maakte.",
+    "h": "",
+    "o": 13,
+    "l": "14"
+  },
+  {
+    "id": "10008014",
+    "b": 10,
+    "c": 8,
+    "v": 15,
+    "t": "David regeerde Israël op een rechtvaardige manier en was tegenover iedereen eerlijk.",
+    "h": "",
+    "o": 14,
+    "l": "15"
+  },
+  {
+    "id": "10008015",
+    "b": 10,
+    "c": 8,
+    "v": 16,
+    "t": "De bevelhebber van zijn leger was Joab, de zoon van Zeruja, en zijn kanselier was Josafat, de zoon van Ahilud.",
+    "h": "",
+    "o": 15,
+    "l": "16"
+  },
+  {
+    "id": "10008016",
+    "b": 10,
+    "c": 8,
+    "v": 17,
+    "t": "Zadok, de zoon van Ahitub, en Achimélech, de zoon van Abjathar, waren de hogepriesters en Sereja was de secretaris van de koning.",
+    "h": "",
+    "o": 16,
+    "l": "17"
+  },
+  {
+    "id": "10008017",
+    "b": 10,
+    "c": 8,
+    "v": 18,
+    "t": "Benaja, de zoon van Jojada, stond aan het hoofd van Davids lijfwacht en Davids zonen waren zijn adviseurs.",
+    "h": "",
+    "o": 17,
+    "l": "18"
+  },
+  {
+    "id": "10009001",
+    "b": 10,
+    "c": 9,
+    "v": 1,
+    "t": "Na enige tijd vroeg David zich af of nog familieleden van Saul in leven waren, want hij wilde hen goed behandelen, zoals hij Jonathan had beloofd.",
+    "h": "David en Mefiboseth",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "10009002",
+    "b": 10,
+    "c": 9,
+    "v": 2,
+    "t": "Hij hoorde toen van een zekere Ziba, die vroeger een van Sauls dienaars was geweest en liet hem bij zich komen. ‘Bent u Ziba?’ vroeg de koning. ‘Ja koning,’ antwoordde de man.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "10009003",
+    "b": 10,
+    "c": 9,
+    "v": 3,
+    "t": "Daarop vroeg de koning hem: ‘Is er nog familie van Saul in leven? Als dat zo is, wil ik ter wille van God goed voor hen zijn.’ ‘Ja,’ luidde Zibaʼs antwoord, ‘er leeft nog een zoon van Jonathan, die aan beide voeten verlamd is.’",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "10009004",
+    "b": 10,
+    "c": 9,
+    "v": 4,
+    "t": "‘Waar kan ik hem vinden?’ wilde de koning weten. ‘In Lodebar,’ vertelde Ziba hem. ‘In het huis van Machir, de zoon van Amniël.’",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "10009005",
+    "b": 10,
+    "c": 9,
+    "v": 5,
+    "t": "Koning David ontbood daarop Mefiboseth, de zoon van Jonathan, de kleinzoon van Saul. Mefiboseth verscheen voor de koning en boog zich heel diep voor hem neer.",
+    "h": "",
+    "o": 5,
+    "l": "5-6"
+  },
+  {
+    "id": "10009006",
+    "b": 10,
+    "c": 9,
+    "v": 7,
+    "t": "Maar David zei: ‘Wees maar niet bang! Ik heb u gevraagd hier te komen, omdat ik iets goeds voor u wil doen wegens mijn eed aan uw vader Jonathan. Ik zal al het land dat van uw grootvader Saul was, aan u teruggeven en u zult geregeld bij mij te gast zijn aan tafel!’",
+    "h": "",
+    "o": 6,
+    "l": "7"
+  },
+  {
+    "id": "10009007",
+    "b": 10,
+    "c": 9,
+    "v": 8,
+    "t": "Opnieuw boog Mefiboseth zich voor de koning neer. ‘Waarom is de koning vriendelijk voor zoʼn dode hond als ik?’ riep hij uit.",
+    "h": "",
+    "o": 7,
+    "l": "8"
+  },
+  {
+    "id": "10009008",
+    "b": 10,
+    "c": 9,
+    "v": 9,
+    "t": "De koning riep Sauls dienaar Ziba erbij. ‘Ik heb de kleinzoon van uw meester alles teruggegeven wat aan Saul en zijn familie toebehoorde,’ zei hij.",
+    "h": "",
+    "o": 8,
+    "l": "9"
+  },
+  {
+    "id": "10009009",
+    "b": 10,
+    "c": 9,
+    "v": 10,
+    "t": "‘U en uw zonen en knechten moeten dat land bewerken, zodat het zijn familie van voedsel voorziet, maar hij zelf zal hier bij mij blijven wonen.’ Ziba, die vijftien zonen en twintig knechten had, antwoordde: ‘Heer, ik zal doen wat u mij hebt bevolen.’ Vanaf dat moment zat Mefiboseth regelmatig met koning David aan tafel alsof hij een van zijn eigen zonen was.",
+    "h": "",
+    "o": 9,
+    "l": "10-11"
+  },
+  {
+    "id": "10009010",
+    "b": 10,
+    "c": 9,
+    "v": 12,
+    "t": "Mefiboseth had een jonge zoon, die Micha heette. Het hele huishouden van Ziba kwam in dienst van Mefiboseth,",
+    "h": "",
+    "o": 10,
+    "l": "12"
+  },
+  {
+    "id": "10009011",
+    "b": 10,
+    "c": 9,
+    "v": 13,
+    "t": "maar hijzelf—hij was verlamd aan beide voeten—verhuisde naar Jeruzalem en nam zijn intrek in het paleis.",
+    "h": "",
+    "o": 11,
+    "l": "13"
+  },
+  {
+    "id": "10010001",
+    "b": 10,
+    "c": 10,
+    "v": 1,
+    "t": "Enige tijd later overleed koning Nachas van de Ammonieten. Hij werd opgevolgd door zijn zoon Hanun.",
+    "h": "David en de Ammonieten",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "10010002",
+    "b": 10,
+    "c": 10,
+    "v": 2,
+    "t": "‘Ik zal Hanun laten zien dat ik het goed met hem meen,’ zei David, ‘want zijn vader Nachas is altijd vriendelijk en trouw tegenover mij geweest.’ Daarom stuurde David afgevaardigden om Hanun te condoleren en te troosten met het verlies van zijn vader.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "10010003",
+    "b": 10,
+    "c": 10,
+    "v": 3,
+    "t": "Maar Hanuns officieren fluisterden hem in: ‘U gelooft toch zeker niet dat deze mannen zijn gekomen om u te condoleren met het verlies van uw vader! David heeft ze gestuurd om te spioneren in de stad, voordat hij ons aanvalt!’",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "10010004",
+    "b": 10,
+    "c": 10,
+    "v": 4,
+    "t": "Daarom liet Hanun Davids mannen gevangennemen. Hij schoor de helft van hun baarden af en knipte hun mantels ter hoogte van hun billen af. Halfnaakt stuurde hij hen daarna naar huis terug.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "10010005",
+    "b": 10,
+    "c": 10,
+    "v": 5,
+    "t": "Toen David hoorde wat er was gebeurd, droeg hij de mannen op in Jericho te blijven tot hun baarden weer waren aangegroeid, zij schaamden zich enorm over hun uiterlijk.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "10010006",
+    "b": 10,
+    "c": 10,
+    "v": 6,
+    "t": "De Ammonieten beseften heel goed dat zij de woede van David hadden opgewekt en daarom haalden zij twintigduizend Syrische huurlingen uit de landen Zoba en Rechob, duizend man van de koning van Maächa en twaalfduizend man uit het land Tob.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "10010007",
+    "b": 10,
+    "c": 10,
+    "v": 7,
+    "t": "Toen dit David ter ore kwam, stuurde hij Joab en het hele leger van Israël op hen af. De Ammonieten verdedigden de poorten van hun stad, terwijl de Syriërs uit Zoba, Rechob, Tob en Maächa in het open veld vochten.",
+    "h": "",
+    "o": 7,
+    "l": "7-8"
+  },
+  {
+    "id": "10010008",
+    "b": 10,
+    "c": 10,
+    "v": 9,
+    "t": "Toen Joab doorkreeg dat hij op twee fronten moest vechten, koos hij de beste strijders uit, nam zelf het commando over hen en ging de Syriërs in het open veld te lijf.",
+    "h": "",
+    "o": 8,
+    "l": "9"
+  },
+  {
+    "id": "10010009",
+    "b": 10,
+    "c": 10,
+    "v": 10,
+    "t": "De rest van het leger moest onder bevel van zijn broer Abisaï de Ammonieten aanvallen die de stad verdedigden.",
+    "h": "",
+    "o": 9,
+    "l": "10"
+  },
+  {
+    "id": "10010010",
+    "b": 10,
+    "c": 10,
+    "v": 11,
+    "t": "‘Als het nodig is, moet je mij te hulp komen tegen de Syriërs,’ beval Joab hem. ‘Maar als de Ammonieten te sterk mochten zijn voor jou, zal ik jou te hulp komen.",
+    "h": "",
+    "o": 10,
+    "l": "11"
+  },
+  {
+    "id": "10010011",
+    "b": 10,
+    "c": 10,
+    "v": 12,
+    "t": "Houd moed! We moeten vandaag werkelijk tot het uiterste gaan als wij ons volk en de steden van onze God willen redden. Moge de wil van de HERE worden gedaan.’",
+    "h": "",
+    "o": 11,
+    "l": "12"
+  },
+  {
+    "id": "10010012",
+    "b": 10,
+    "c": 10,
+    "v": 13,
+    "t": "Toen Joab en zijn troepen zich in de strijd wierpen, sloegen de Syriërs op de vlucht.",
+    "h": "",
+    "o": 12,
+    "l": "13"
+  },
+  {
+    "id": "10010013",
+    "b": 10,
+    "c": 10,
+    "v": 14,
+    "t": "Toen de Ammonieten dat zagen, sloegen ook zij voor Abisaï op de vlucht en trokken zich terug in de stad. Daarna keerde Joab terug naar Jeruzalem.",
+    "h": "",
+    "o": 13,
+    "l": "14"
+  },
+  {
+    "id": "10010014",
+    "b": 10,
+    "c": 10,
+    "v": 15,
+    "t": "De Syriërs beseften dat zij niet tegen de Israëlieten waren opgewassen. Daarom kregen zij bij het hergroeperen steun van nog meer Syrische troepen, die Hadadezer van de andere kant van de Eufraat had laten komen. Deze troepenaanvulling kwam in Helam aan onder bevel van opperbevelhebber Sobach van Hadadezers leger.",
+    "h": "",
+    "o": 14,
+    "l": "15-16"
+  },
+  {
+    "id": "10010015",
+    "b": 10,
+    "c": 10,
+    "v": 17,
+    "t": "David werd van deze ontwikkelingen op de hoogte gesteld en nam daarna zelf het bevel over het Israëlitische leger en trok naar Helam, waar de Syriërs hem aanvielen.",
+    "h": "",
+    "o": 15,
+    "l": "17"
+  },
+  {
+    "id": "10010016",
+    "b": 10,
+    "c": 10,
+    "v": 18,
+    "t": "Maar opnieuw gingen de Syriërs op de vlucht voor de Israëlieten die zevenhonderd wagenmenners en veertigduizend ruiters, onder wie generaal Sobach, versloegen en dood op het slagveld achterlieten.",
+    "h": "",
+    "o": 16,
+    "l": "18"
+  },
+  {
+    "id": "10010017",
+    "b": 10,
+    "c": 10,
+    "v": 19,
+    "t": "Toen Hadadezers bondgenoten zagen dat de Syriërs waren verslagen, gaven zij zich over aan Israël en werden Davids dienaren. Voortaan bedachten de Syriërs zich wel tweemaal voor zij de Ammonieten te hulp kwamen.",
+    "h": "",
+    "o": 17,
+    "l": "19"
+  },
+  {
+    "id": "10011001",
+    "b": 10,
+    "c": 11,
+    "v": 1,
+    "t": "In de lente van het volgende jaar, in de tijd dat oorlogen weer begonnen, stuurde David Joab en het Israëlitische leger eropuit om de Ammonieten te vernietigen. Zij begonnen met de hoofdstad Rabba te belegeren. David bleef echter in Jeruzalem.",
+    "h": "David en Bathséba",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "10011002",
+    "b": 10,
+    "c": 11,
+    "v": 2,
+    "t": "Op een dag stond hij na zijn rustuur op van zijn bed en maakte een wandelingetje op het dak van het paleis. Uitkijkend over de stad, viel zijn oog op een bijzonder mooie vrouw, die net haar bad nam.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "10011003",
+    "b": 10,
+    "c": 11,
+    "v": 3,
+    "t": "Hij stuurde iemand om er achter te komen wie zij was en hoorde dat zij Bathséba heette. Haar vader was Eliam en zij was getrouwd met de Hethiet Uria.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "10011004",
+    "b": 10,
+    "c": 11,
+    "v": 4,
+    "t": "David liet haar halen en ging met haar naar bed. Daarna waste zij zich vanwege haar onreinheid en ging terug naar huis.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "10011005",
+    "b": 10,
+    "c": 11,
+    "v": 5,
+    "t": "Toen zij erachter kwam dat zij in verwachting was, stuurde zij hem een boodschap om dat te vertellen.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "10011006",
+    "b": 10,
+    "c": 11,
+    "v": 6,
+    "t": "David zond daarop Joab het bevel: ‘Stuur de Hethiet Uria naar mij toe.’",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "10011007",
+    "b": 10,
+    "c": 11,
+    "v": 7,
+    "t": "Toen deze kwam, vroeg David hem hoe het was met Joab en het leger en of al vooruitgang in de strijd te melden was.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "10011008",
+    "b": 10,
+    "c": 11,
+    "v": 8,
+    "t": "Daarna stuurde hij hem naar huis met het advies dat hij maar eens goed moest uitrusten en zond een geschenk naar zijn huis.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "10011009",
+    "b": 10,
+    "c": 11,
+    "v": 9,
+    "t": "Maar Uria ging niet naar huis. Hij bleef die nacht bij de poort van het paleis slapen bij de andere dienaren van de koning.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "10011010",
+    "b": 10,
+    "c": 11,
+    "v": 10,
+    "t": "David hoorde dat, riep hem opnieuw bij zich en vroeg: ‘Bent u soms niet moe van de reis? Waarom bent u vannacht dan niet naar huis gegaan?’",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "10011011",
+    "b": 10,
+    "c": 11,
+    "v": 11,
+    "t": "Uria antwoordde: ‘De ark en alle legereenheden kamperen in het open veld. Zou ik dan thuis gaan zitten om goed te eten en te drinken en met mijn vrouw te slapen? Ik zweer dat ik me aan zoiets nooit schuldig zal maken.’",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "10011012",
+    "b": 10,
+    "c": 11,
+    "v": 12,
+    "t": "‘Wel, blijf dan vannacht maar hier,’ zei David, ‘dan kunt u morgen naar de troepen terugkeren.’ Uria bleef dus in de buurt van het paleis.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "10011013",
+    "b": 10,
+    "c": 11,
+    "v": 13,
+    "t": "David nodigde hem de volgende dag uit voor het eten en voerde hem dronken, desondanks ging hij die nacht niet naar huis, maar sliep weer bij het hofpersoneel aan de ingang van het paleis.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "10011014",
+    "b": 10,
+    "c": 11,
+    "v": 14,
+    "t": "De volgende morgen schreef David een brief voor Joab en gaf die aan Uria mee.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "10011015",
+    "b": 10,
+    "c": 11,
+    "v": 15,
+    "t": "In de brief gaf hij Joab opdracht Uria aan het front te zetten op de plaats waar het felst werd gevochten, dan terug te trekken en hem achter te laten om te sneuvelen!",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "10011016",
+    "b": 10,
+    "c": 11,
+    "v": 16,
+    "t": "Joab stuurde Uria naar een plek vlakbij de belegerde stad waarvan hij wist dat daar de beste strijders van de vijand stonden opgesteld.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "10011017",
+    "b": 10,
+    "c": 11,
+    "v": 17,
+    "t": "Bij een volgende aanval vanuit de stad werd Uria met nog enkele Israëlitische soldaten gedood.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "10011018",
+    "b": 10,
+    "c": 11,
+    "v": 18,
+    "t": "Toen Joab David een verslag stuurde over de ontwikkelingen in de strijd,",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "10011019",
+    "b": 10,
+    "c": 11,
+    "v": 19,
+    "t": "zei hij tegen zijn boodschapper: ‘Als de koning nadat u verslag hebt gedaan boos wordt en vraagt: “Waarom zijn de troepen de stad zo dicht genaderd? Wisten zij dan niet dat er vanaf de muren op hen zou worden geschoten? Werd Abimelech, de zoon van Jerubbeset, bij Tebez niet door een vrouw gedood die een molensteen bovenop hem gooide?”, zeg dan tegen hem: “Ook Uria werd gedood.” ’",
+    "h": "",
+    "o": 19,
+    "l": "19-21"
+  },
+  {
+    "id": "10011020",
+    "b": 10,
+    "c": 11,
+    "v": 22,
+    "t": "Zo kwam de boodschapper in Jeruzalem aan en vertelde alles aan David.",
+    "h": "",
+    "o": 20,
+    "l": "22"
+  },
+  {
+    "id": "10011021",
+    "b": 10,
+    "c": 11,
+    "v": 23,
+    "t": "‘De vijand was erg sterk en deed een uitval,’ zei hij, ‘maar toen wij hem achtervolgden naar de stadspoorten,",
+    "h": "",
+    "o": 21,
+    "l": "23"
+  },
+  {
+    "id": "10011022",
+    "b": 10,
+    "c": 11,
+    "v": 24,
+    "t": "werden wij beschoten door de mannen op de muren, enkelen van ons werden gedood, ook de Hethiet Uria.’",
+    "h": "",
+    "o": 22,
+    "l": "24"
+  },
+  {
+    "id": "10011023",
+    "b": 10,
+    "c": 11,
+    "v": 25,
+    "t": "‘Goed, vertel Joab maar dat hij de moed niet moet verliezen,’ zei David. ‘Het zwaard doodt zowel de een als de ander! Vecht de volgende keer met meer verbetenheid en verover de stad, zeg hem dat ik tevreden ben over de resultaten tot nu toe.’",
+    "h": "",
+    "o": 23,
+    "l": "25"
+  },
+  {
+    "id": "10011024",
+    "b": 10,
+    "c": 11,
+    "v": 26,
+    "t": "Bathséba rouwde toen zij hoorde dat haar man was gesneuveld.",
+    "h": "",
+    "o": 24,
+    "l": "26"
+  },
+  {
+    "id": "10011025",
+    "b": 10,
+    "c": 11,
+    "v": 27,
+    "t": "Na de rouwperiode liet David haar halen en gaf haar onderdak in het paleis, waar zij een van zijn vrouwen werd. Daar bracht zij een zoon ter wereld. Maar de HERE beschouwde deze handelwijze van David als een grote zonde.",
+    "h": "",
+    "o": 25,
+    "l": "27"
+  },
+  {
+    "id": "10012001",
+    "b": 10,
+    "c": 12,
+    "v": 1,
+    "t": "Daarom stuurde de HERE de profeet Nathan naar David om hem het volgende verhaal te vertellen: ‘Er woonden twee mannen in een stad. De ene was erg rijk en bezat grote kudden runderen en schapen.",
+    "h": "De profeet Nathan",
+    "o": 1,
+    "l": "1-2"
+  },
+  {
+    "id": "10012002",
+    "b": 10,
+    "c": 12,
+    "v": 3,
+    "t": "De andere man was erg arm, hij had maar één lammetje kunnen kopen. Dat lam was samen met zijn kinderen opgegroeid. Het at met de pot mee en kreeg te drinken uit de beker van de arme man. Hij liet het dier op zijn schoot slapen en hield van het dier alsof het zijn dochtertje was.",
+    "h": "",
+    "o": 2,
+    "l": "3"
+  },
+  {
+    "id": "10012003",
+    "b": 10,
+    "c": 12,
+    "v": 4,
+    "t": "Op een gegeven moment kreeg de rijke man een gast op bezoek. Maar in plaats dat hij een lam of rund uit zijn eigen kudde liet slachten om het de reiziger voor te zetten, nam hij het lam van de arme man, roosterde het en bood het zijn gast aan.’",
+    "h": "",
+    "o": 3,
+    "l": "4"
+  },
+  {
+    "id": "10012004",
+    "b": 10,
+    "c": 12,
+    "v": 5,
+    "t": "David was woedend. ‘Ik zweer bij de levende God,’ brieste hij, ‘dat iemand die zoiets doet, ter dood moet worden gebracht,",
+    "h": "",
+    "o": 4,
+    "l": "5"
+  },
+  {
+    "id": "10012005",
+    "b": 10,
+    "c": 12,
+    "v": 6,
+    "t": "hij moet de arme man vier lammeren terugbetalen voor het lam dat hij stal en omdat hij geen medelijden toonde.’",
+    "h": "",
+    "o": 5,
+    "l": "6"
+  },
+  {
+    "id": "10012006",
+    "b": 10,
+    "c": 12,
+    "v": 7,
+    "t": "Toen zei Nathan scherp tegen David: ‘U bent die rijke man! De HERE, de God van Israël zegt: “Ik maakte u koning over Israël en redde u uit de handen van Saul.",
+    "h": "",
+    "o": 6,
+    "l": "7"
+  },
+  {
+    "id": "10012007",
+    "b": 10,
+    "c": 12,
+    "v": 8,
+    "t": "Ik gaf u zijn paleis en zijn vrouwen en de koninkrijken Juda en Israël. En als dat nog niet genoeg was geweest, had Ik u wel nog veel meer gegeven.",
+    "h": "",
+    "o": 7,
+    "l": "8"
+  },
+  {
+    "id": "10012008",
+    "b": 10,
+    "c": 12,
+    "v": 9,
+    "t": "Waarom hebt u de wetten van God dan veracht en deze vreselijke misdaad begaan? Want u hebt Uria vermoord en zijn vrouw gestolen.",
+    "h": "",
+    "o": 8,
+    "l": "9"
+  },
+  {
+    "id": "10012009",
+    "b": 10,
+    "c": 12,
+    "v": 10,
+    "t": "Daarom zal moord van nu af aan een voortdurende bedreiging voor uw familie vormen, omdat u Mij hebt beledigd door Uria zijn vrouw af te nemen.",
+    "h": "",
+    "o": 9,
+    "l": "10"
+  },
+  {
+    "id": "10012010",
+    "b": 10,
+    "c": 12,
+    "v": 11,
+    "t": "Ik zweer dat Ik uw eigen gezin tegen u in opstand zal laten komen, omdat u dit hebt gedaan. Ik zal uw vrouwen aan een andere man geven, die op klaarlichte dag met hen naar bed zal gaan.",
+    "h": "",
+    "o": 10,
+    "l": "11"
+  },
+  {
+    "id": "10012011",
+    "b": 10,
+    "c": 12,
+    "v": 12,
+    "t": "U deed alles in het geheim, maar Ik zal u dit openlijk aandoen, voor de ogen van heel Israël.” ’",
+    "h": "",
+    "o": 11,
+    "l": "12"
+  },
+  {
+    "id": "10012012",
+    "b": 10,
+    "c": 12,
+    "v": 13,
+    "t": "‘Ik heb tegen de HERE gezondigd,’ beleed David tegenover Nathan. Nathan antwoordde: ‘Ja, dat hebt u inderdaad, maar de HERE heeft u deze zonde vergeven en u zult daarom niet sterven.",
+    "h": "",
+    "o": 12,
+    "l": "13"
+  },
+  {
+    "id": "10012013",
+    "b": 10,
+    "c": 12,
+    "v": 14,
+    "t": "Maar u hebt de vijanden van de HERE een goede aanleiding gegeven Hem te beledigen en zijn naam te misbruiken. Daarom zal uw zoon sterven.’",
+    "h": "",
+    "o": 13,
+    "l": "14"
+  },
+  {
+    "id": "10012014",
+    "b": 10,
+    "c": 12,
+    "v": 15,
+    "t": "Na die woorden ging Nathan terug naar huis. En de HERE maakte Bathsébaʼs baby dodelijk ziek.",
+    "h": "",
+    "o": 14,
+    "l": "15"
+  },
+  {
+    "id": "10012015",
+    "b": 10,
+    "c": 12,
+    "v": 16,
+    "t": "David smeekte Hem het kind te sparen, hij at niets en lag de hele nacht voor de HERE op de kale vloer.",
+    "h": "",
+    "o": 15,
+    "l": "16"
+  },
+  {
+    "id": "10012016",
+    "b": 10,
+    "c": 12,
+    "v": 17,
+    "t": "De leiders van het land smeekten hem op te staan en met hen te eten, maar hij weigerde.",
+    "h": "",
+    "o": 16,
+    "l": "17"
+  },
+  {
+    "id": "10012017",
+    "b": 10,
+    "c": 12,
+    "v": 18,
+    "t": "Op de zevende dag stierf het kind. Davids dienaren durfden het hem nauwelijks te vertellen. ‘Hij was er zo kapot van dat het kind ziek werd,’ zeiden zij onder elkaar, ‘wat zal hij doen als wij hem vertellen dat het dood is?’",
+    "h": "",
+    "o": 17,
+    "l": "18"
+  },
+  {
+    "id": "10012018",
+    "b": 10,
+    "c": 12,
+    "v": 19,
+    "t": "Maar toen David hen zag fluisteren, begreep hij wat er was gebeurd. ‘Is het kind dood?’ vroeg hij. ‘Ja,’ antwoordden zij, ‘het is gestorven.’",
+    "h": "",
+    "o": 18,
+    "l": "19"
+  },
+  {
+    "id": "10012019",
+    "b": 10,
+    "c": 12,
+    "v": 20,
+    "t": "David stond op, waste zich, kamde zijn haar, trok andere kleren aan en ging de tabernakel in om tot de HERE te bidden. Daarna keerde hij terug naar het paleis en at wat brood.",
+    "h": "",
+    "o": 19,
+    "l": "20"
+  },
+  {
+    "id": "10012020",
+    "b": 10,
+    "c": 12,
+    "v": 21,
+    "t": "Zijn dienaren stonden versteld. ‘Wij begrijpen u niet,’ zeiden zij. ‘Toen het kind nog leefde, huilde u en weigerde u te eten. En nu het kind dood is, houdt u op met rouwen en eet u opeens weer.’",
+    "h": "",
+    "o": 20,
+    "l": "21"
+  },
+  {
+    "id": "10012021",
+    "b": 10,
+    "c": 12,
+    "v": 22,
+    "t": "David antwoordde: ‘Ik heb gevast en gehuild toen het kind nog leefde, want ik zei tegen mijzelf: “Misschien zal de HERE toch nog genade tonen en hem laten leven.”",
+    "h": "",
+    "o": 21,
+    "l": "22"
+  },
+  {
+    "id": "10012022",
+    "b": 10,
+    "c": 12,
+    "v": 23,
+    "t": "Maar waarom zou ik vasten nu hij dood is? Kan ik hem daardoor terugbrengen? Ik zal ooit naar hem toe gaan, maar hij zal niet bij mij terugkomen.’",
+    "h": "",
+    "o": 22,
+    "l": "23"
+  },
+  {
+    "id": "10012023",
+    "b": 10,
+    "c": 12,
+    "v": 24,
+    "t": "Toen troostte David Bathséba en nadat hij weer met haar had geslapen, raakte zij in verwachting en bracht opnieuw een zoon ter wereld. Zij noemde hem Salomo.",
+    "h": "",
+    "o": 23,
+    "l": "24"
+  },
+  {
+    "id": "10012024",
+    "b": 10,
+    "c": 12,
+    "v": 25,
+    "t": "De Here hield van deze jongen en stuurde de profeet Nathan met een boodschap over dit kind. Omdat de Here zoveel belang in hem stelde, werd hem de naam Jedidja, ‘Beminde van de HERE,’ gegeven.",
+    "h": "",
+    "o": 24,
+    "l": "25"
+  },
+  {
+    "id": "10012025",
+    "b": 10,
+    "c": 12,
+    "v": 26,
+    "t": "Ondertussen boekten Joab en het Israëlitische leger successen in het beleg van Rabba, de hoofdstad van Ammon. Joab stuurde boodschappers om David te vertellen: ‘Wij hebben Rabba en haar mooie haven vrijwel in handen!",
+    "h": "",
+    "o": 25,
+    "l": "26-27"
+  },
+  {
+    "id": "10012026",
+    "b": 10,
+    "c": 12,
+    "v": 28,
+    "t": "Kom hierheen met de rest van het leger om het karwei af te maken, zodat u de eer van de overwinning krijgt en niet ik.’",
+    "h": "",
+    "o": 26,
+    "l": "28"
+  },
+  {
+    "id": "10012027",
+    "b": 10,
+    "c": 12,
+    "v": 29,
+    "t": "Daarop trok David aan het hoofd van zijn troepen naar Rabba en veroverde de stad. Een enorme buit werd naar Jeruzalem gebracht. David nam de kroon van de koning van Rabba—een schat met een zeer grote waarde, want hij was gemaakt van massief goud en versierd met kostbare edelstenen—en zette die op zijn hoofd.",
+    "h": "",
+    "o": 27,
+    "l": "29-30"
+  },
+  {
+    "id": "10012028",
+    "b": 10,
+    "c": 12,
+    "v": 31,
+    "t": "Hij maakte de inwoners van de stad tot slaven en zette hen met zagen, houwelen en bijlen aan het werk in een grote steenbakkerij. Zo behandelde hij alle steden van de Ammonieten. Daarna keerden David en zijn leger terug naar Jeruzalem.",
+    "h": "",
+    "o": 28,
+    "l": "31"
+  },
+  {
+    "id": "10013001",
+    "b": 10,
+    "c": 13,
+    "v": 1,
+    "t": "Absalom, een van Davids zonen, had een knappe zuster, Tamar. Haar halfbroer Amnon werd verliefd op haar.",
+    "h": "Amnon en Tamar",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "10013002",
+    "b": 10,
+    "c": 13,
+    "v": 2,
+    "t": "Amnon kreeg het daar zo moeilijk mee dat hij ziek werd van liefdesverdriet. Omdat zij een maagd was, besefte Amnon dat hij haar onmogelijk kon benaderen.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "10013003",
+    "b": 10,
+    "c": 13,
+    "v": 3,
+    "t": "Amnon had echter een vindingrijke vriend: zijn neef Jonadab, de zoon van Davids broer Simea.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "10013004",
+    "b": 10,
+    "c": 13,
+    "v": 4,
+    "t": "Op een dag zei Jonadab tegen Amnon: ‘Wat is er toch aan de hand? Een zoon van de koning hoeft er toch niet elke morgen zo bedrukt uit te zien? Vertel op!’ Amnon bekende hem: ‘Ik ben verliefd op mijn halfzuster Tamar.’",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "10013005",
+    "b": 10,
+    "c": 13,
+    "v": 5,
+    "t": "‘Wel,’ zei Jonadab, ‘dan zal ik je vertellen wat je moet doen. Ga terug naar bed en doe net alsof je ziek bent. Als je vader naar je komt kijken, vraag dan of hij Tamar wil laten komen om eten voor je klaar te maken. Zeg hem dat je je beter zult voelen als zij je te eten geeft.’",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "10013006",
+    "b": 10,
+    "c": 13,
+    "v": 6,
+    "t": "Dat leek Amnon een goed idee en toen de koning hem kwam opzoeken, vroeg Amnon hem of zijn zuster Tamar naar hem toe mocht komen om een paar hartenkoeken voor hem te bakken.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "10013007",
+    "b": 10,
+    "c": 13,
+    "v": 7,
+    "t": "David vond het goed en stuurde Tamar een boodschap dat zij naar Amnons woning moest gaan om koeken voor hem klaar te maken.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "10013008",
+    "b": 10,
+    "c": 13,
+    "v": 8,
+    "t": "Dat deed zij en Amnon kon vanaf zijn bed zien hoe zij deeg klaarmaakte en speciaal voor hem de hartenkoeken bakte.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "10013009",
+    "b": 10,
+    "c": 13,
+    "v": 9,
+    "t": "Maar toen zij hem het eten voorzette, weigerde hij er iets van te nemen! ‘Iedereen naar buiten,’ beval hij zijn dienaren en zij verlieten zijn woning.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "10013010",
+    "b": 10,
+    "c": 13,
+    "v": 10,
+    "t": "Toen zei hij tegen Tamar: ‘Breng me nu het eten opnieuw hier in mijn slaapkamer en geef het mij aan.’",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "10013011",
+    "b": 10,
+    "c": 13,
+    "v": 11,
+    "t": "Tamar bracht het naar hem toe, maar toen zij voor hem stond, greep hij haar en zei: ‘Kom bij mij in bed.’",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "10013012",
+    "b": 10,
+    "c": 13,
+    "v": 12,
+    "t": "‘O Amnon,’ riep zij. ‘Doe niet zo dom! Doe mij dit niet aan! Je weet heel goed dat dit een grote misdaad is in Israël.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "10013013",
+    "b": 10,
+    "c": 13,
+    "v": 13,
+    "t": "Waar zou ik met mijn schande naartoe moeten? En jij zou als een van de grootste dwazen in Israël worden beschouwd. Alsjeblieft, vraag het dan gewoon aan de koning. Die zal je heus wel toestaan met mij te trouwen.’",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "10013014",
+    "b": 10,
+    "c": 13,
+    "v": 14,
+    "t": "Maar hij luisterde niet naar haar en omdat hij sterker was, wist hij haar te overmeesteren en verkrachtte haar.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "10013015",
+    "b": 10,
+    "c": 13,
+    "v": 15,
+    "t": "Maar plotseling sloeg zijn liefde om in haat en zijn afkeer van haar was nu groter dan zijn liefde ooit was geweest. ‘Verdwijn!’ snauwde hij haar toe.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "10013016",
+    "b": 10,
+    "c": 13,
+    "v": 16,
+    "t": "‘Nee, alsjeblieft,’ riep zij. ‘Als je me nu afwijst, is dat een nog grotere misdaad dan wat je me net hebt aangedaan.’ Maar hij luisterde niet.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "10013017",
+    "b": 10,
+    "c": 13,
+    "v": 17,
+    "t": "Hij riep zijn bediende en beval: ‘Gooi haar eruit en doe de deur op slot.’ Zo werd Tamar buiten de deur gezet. Zij droeg een lange jurk met mouwen, zoals in die tijd de gewoonte was voor maagdelijke dochters van de koning.",
+    "h": "",
+    "o": 17,
+    "l": "17-18"
+  },
+  {
+    "id": "10013018",
+    "b": 10,
+    "c": 13,
+    "v": 19,
+    "t": "Zij scheurde de jurk kapot en legde as op haar hoofd en met de handen voor haar gezicht liep zij huilend weg.",
+    "h": "",
+    "o": 18,
+    "l": "19"
+  },
+  {
+    "id": "10013019",
+    "b": 10,
+    "c": 13,
+    "v": 20,
+    "t": "Haar broer Absalom vroeg haar: ‘Is het waar dat Amnon bij je is geweest? Stil maar, gelukkig is het binnen de familie gebleven. Je hoeft je nergens zorgen over te maken.’ Zo nam Tamar als een eenzame vrouw haar intrek in Absaloms verblijven.",
+    "h": "",
+    "o": 19,
+    "l": "20"
+  },
+  {
+    "id": "10013020",
+    "b": 10,
+    "c": 13,
+    "v": 21,
+    "t": "Toen koning David hoorde wat er was gebeurd, werd hij erg kwaad.",
+    "h": "",
+    "o": 20,
+    "l": "21"
+  },
+  {
+    "id": "10013021",
+    "b": 10,
+    "c": 13,
+    "v": 22,
+    "t": "Absalom sprak niet met Amnon over deze zaak. Hij haatte hem echter hartgrondig om wat hij zijn zuster had aangedaan.",
+    "h": "",
+    "o": 21,
+    "l": "22"
+  },
+  {
+    "id": "10013022",
+    "b": 10,
+    "c": 13,
+    "v": 23,
+    "t": "Twee jaar later, toen Absaloms schapen werden geschoren in Baäl-Hazor in Efraïm, nodigde Absalom zijn vader en al zijn broers uit het schaapscheerdersfeest bij te wonen.",
+    "h": "",
+    "o": 22,
+    "l": "23-24"
+  },
+  {
+    "id": "10013023",
+    "b": 10,
+    "c": 13,
+    "v": 25,
+    "t": "De koning ging echter niet op de uitnodiging in. ‘We kunnen toch niet allemaal komen, mijn jongen, we zouden je maar tot last zijn,’ zei hij. Absalom probeerde hem over te halen, maar hij wilde niet komen, al bedankte hij Absalom wel voor de uitnodiging.",
+    "h": "",
+    "o": 23,
+    "l": "25"
+  },
+  {
+    "id": "10013024",
+    "b": 10,
+    "c": 13,
+    "v": 26,
+    "t": "‘Als u dan niet wilt komen,’ opperde Absalom, ‘kunt u mijn broer Amnon dan niet sturen?’ ‘Waarom Amnon?’ vroeg de koning.",
+    "h": "",
+    "o": 24,
+    "l": "26"
+  },
+  {
+    "id": "10013025",
+    "b": 10,
+    "c": 13,
+    "v": 27,
+    "t": "Absalom bleef echter aandringen tot de koning toegaf en al zijn zonen toestemming gaf te gaan, ook Amnon.",
+    "h": "",
+    "o": 25,
+    "l": "27"
+  },
+  {
+    "id": "10013026",
+    "b": 10,
+    "c": 13,
+    "v": 28,
+    "t": "Intussen instrueerde Absalom zijn mannen: ‘Wacht tot Amnon dronken wordt en dood hem dan op mijn teken. Wees niet bang. Ik neem de verantwoording op me. Vat moed en voer mijn opdracht uit!’",
+    "h": "",
+    "o": 26,
+    "l": "28"
+  },
+  {
+    "id": "10013027",
+    "b": 10,
+    "c": 13,
+    "v": 29,
+    "t": "Zo werd Amnon vermoord. De andere zonen van de koning sprongen op hun muildieren en gingen er vandoor.",
+    "h": "",
+    "o": 27,
+    "l": "29"
+  },
+  {
+    "id": "10013028",
+    "b": 10,
+    "c": 13,
+    "v": 30,
+    "t": "Terwijl zij nog onderweg waren naar Jeruzalem, kreeg de koning de boodschap: ‘Absalom heeft al uw zonen gedood, niemand is in leven gebleven!’",
+    "h": "",
+    "o": 28,
+    "l": "30"
+  },
+  {
+    "id": "10013029",
+    "b": 10,
+    "c": 13,
+    "v": 31,
+    "t": "De koning sprong overeind, scheurde zijn mantel en liet zich languit op de grond vallen. Overmand door verdriet en afschuw volgden zijn dienaren zijn voorbeeld.",
+    "h": "",
+    "o": 29,
+    "l": "31"
+  },
+  {
+    "id": "10013030",
+    "b": 10,
+    "c": 13,
+    "v": 32,
+    "t": "Maar precies op dat moment kwam Jonadab, de zoon van Davids broer Simea, binnen en zei: ‘Nee, ze zijn niet allemaal vermoord! Het was alleen Amnon! Absalom is dit al van plan geweest sinds het moment dat Amnon Tamar verkrachtte. Uw zonen zijn niet allemaal dood! Het ging alleen om Amnon.’",
+    "h": "",
+    "o": 30,
+    "l": "32-33"
+  },
+  {
+    "id": "10013031",
+    "b": 10,
+    "c": 13,
+    "v": 34,
+    "t": "Absalom vluchtte onmiddellijk na de moord. De wachter op de stadsmuur van Jeruzalem zag een grote groep mensen de stad naderen over de weg die langs de heuvel liep.",
+    "h": "",
+    "o": 31,
+    "l": "34"
+  },
+  {
+    "id": "10013032",
+    "b": 10,
+    "c": 13,
+    "v": 35,
+    "t": "‘Kom snel kijken,’ zei Jonadab tegen de koning. ‘Daar zijn ze! Uw zonen komen er aan, zoals ik u vertelde.’",
+    "h": "",
+    "o": 32,
+    "l": "35"
+  },
+  {
+    "id": "10013033",
+    "b": 10,
+    "c": 13,
+    "v": 36,
+    "t": "Korte tijd later bereikten zij de stad, huilend en treurend, en de koning en zijn metgezellen konden hun tranen ook niet bedwingen.",
+    "h": "",
+    "o": 33,
+    "l": "36"
+  },
+  {
+    "id": "10013034",
+    "b": 10,
+    "c": 13,
+    "v": 37,
+    "t": "Absalom vluchtte naar koning Talmai van Gesur, waar hij drie jaar bleef. Ondertussen begon David, die Amnons dood had verwerkt, steeds meer te verlangen naar zijn zoon Absalom.",
+    "h": "",
+    "o": 34,
+    "l": "37-39"
+  },
+  {
+    "id": "10014001",
+    "b": 10,
+    "c": 14,
+    "v": 1,
+    "t": "Legerbevelhebber Joab merkte hoe de koning ernaar verlangde Absalom weer te zien.",
+    "h": "Een pleitbezorgster voor Absalom",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "10014002",
+    "b": 10,
+    "c": 14,
+    "v": 2,
+    "t": "Daarom liet hij een vrouw uit Tekoa halen die bekend stond om haar wijsheid. Zij moest een audiëntie bij de koning vragen. Hij vertelde haar precies wat zij tegen hem moest zeggen. ‘Doe net alsof u rouwt,’ instrueerde Joab haar, ‘en draag rouwkleding. Maak uw haar in de war, alsof u al lange tijd in de rouw bent.’",
+    "h": "",
+    "o": 2,
+    "l": "2-3"
+  },
+  {
+    "id": "10014003",
+    "b": 10,
+    "c": 14,
+    "v": 4,
+    "t": "Toen de vrouw voor de koning verscheen, liet zij zich voor hem op de grond vallen en riep: ‘Och koning! Help mij toch!’",
+    "h": "",
+    "o": 3,
+    "l": "4"
+  },
+  {
+    "id": "10014004",
+    "b": 10,
+    "c": 14,
+    "v": 5,
+    "t": "‘Wat kan ik voor u doen?’ vroeg hij. ‘Ik ben weduwe,’ antwoordde zij, ‘en mijn twee zonen kregen ruzie op het land. Omdat er niemand bij was die hen uit elkaar kon halen, is een van beiden gedood.",
+    "h": "",
+    "o": 4,
+    "l": "5-6"
+  },
+  {
+    "id": "10014005",
+    "b": 10,
+    "c": 14,
+    "v": 7,
+    "t": "Nu wil mijn hele familie dat ik mijn overgebleven zoon uitlever om te worden gedood voor de moord op zijn broer. Maar als ik dat doe, heb ik geen zoon meer en zal de naam van mijn man van de aarde verdwijnen.’",
+    "h": "",
+    "o": 5,
+    "l": "7"
+  },
+  {
+    "id": "10014006",
+    "b": 10,
+    "c": 14,
+    "v": 8,
+    "t": "‘Laat dit maar aan mij over,’ zei de koning. ‘Ik zal ervoor zorgen dat hem geen haar wordt gekrenkt.’",
+    "h": "",
+    "o": 6,
+    "l": "8"
+  },
+  {
+    "id": "10014007",
+    "b": 10,
+    "c": 14,
+    "v": 9,
+    "t": "Maar de vrouw zei: ‘Dank u wel, maar ik krijg de schuld, u gaat toch wel vrijuit.’",
+    "h": "",
+    "o": 7,
+    "l": "9"
+  },
+  {
+    "id": "10014008",
+    "b": 10,
+    "c": 14,
+    "v": 10,
+    "t": "‘Maak u daarover maar geen zorgen,’ antwoordde de koning. ‘Als iemand protesteert, brengt u hem maar bij mij, ik kan u verzekeren dat hij u dan voortaan niet meer zal lastigvallen!’",
+    "h": "",
+    "o": 8,
+    "l": "10"
+  },
+  {
+    "id": "10014009",
+    "b": 10,
+    "c": 14,
+    "v": 11,
+    "t": "Toen zei zij: ‘Zweert u mij alstublieft bij God dat u niet zult toestaan dat iemand uit wraak mijn zoon kwaad doet. Ik wil niet dat nog meer bloed wordt vergoten.’ ‘Ik zweer bij God,’ zei David, ‘dat geen haar van het hoofd van uw zoon zal worden gekrenkt!’",
+    "h": "",
+    "o": 9,
+    "l": "11"
+  },
+  {
+    "id": "10014010",
+    "b": 10,
+    "c": 14,
+    "v": 12,
+    "t": "‘Mag ik u nog één ding vragen?’ drong de vrouw aan. ‘Ga uw gang,’ zei hij.",
+    "h": "",
+    "o": 10,
+    "l": "12"
+  },
+  {
+    "id": "10014011",
+    "b": 10,
+    "c": 14,
+    "v": 13,
+    "t": "‘Waarom doet u niet net zoveel voor het volk van God als u hebt gezworen nu voor mij te zullen doen?’ vroeg zij. ‘Door deze beslissing te nemen, hebt u zichzelf beschuldigd, aangezien u hebt geweigerd uw eigen verbannen zoon naar huis te halen.",
+    "h": "",
+    "o": 11,
+    "l": "13"
+  },
+  {
+    "id": "10014012",
+    "b": 10,
+    "c": 14,
+    "v": 14,
+    "t": "Wij moeten allemaal eens sterven. Onze levens lijken op water dat op de grond wordt uitgegoten, het kan niet weer worden opgeraapt. God neemt het leven niet weg, maar zoekt naar mogelijkheden zodat een verstotene niet voor altijd van Hem verstoten blijft.",
+    "h": "",
+    "o": 12,
+    "l": "14"
+  },
+  {
+    "id": "10014013",
+    "b": 10,
+    "c": 14,
+    "v": 15,
+    "t": "Ik ben hier gekomen om te pleiten voor mijn zoon, omdat de levens van mij en mijn zoon worden bedreigd en ik zei tegen mijzelf: misschien zal de koning naar mij luisteren en ons redden van degene die een eind wil maken aan ons bestaan hier in Israël.",
+    "h": "",
+    "o": 13,
+    "l": "15-16"
+  },
+  {
+    "id": "10014014",
+    "b": 10,
+    "c": 14,
+    "v": 17,
+    "t": "Ja, de koning zal ons onze vrede teruggeven. Ik weet dat u als een engel van God bent en dat u het goede van het kwade kunt onderscheiden. Moge God met u zijn.’",
+    "h": "",
+    "o": 14,
+    "l": "17"
+  },
+  {
+    "id": "10014015",
+    "b": 10,
+    "c": 14,
+    "v": 18,
+    "t": "‘Ik wil graag één ding weten,’ merkte de koning op. ‘Wat dan, mijn heer?’ vroeg de vrouw.",
+    "h": "",
+    "o": 15,
+    "l": "18"
+  },
+  {
+    "id": "10014016",
+    "b": 10,
+    "c": 14,
+    "v": 19,
+    "t": "‘Heeft Joab u naar mij toegestuurd?’ En de vrouw antwoordde: ‘Hoe zou ik dat kunnen ontkennen? Ja, Joab heeft mij gestuurd en precies verteld wat ik moest zeggen.",
+    "h": "",
+    "o": 16,
+    "l": "19"
+  },
+  {
+    "id": "10014017",
+    "b": 10,
+    "c": 14,
+    "v": 20,
+    "t": "Hij deed dat om de zaak voor u in een ander licht te stellen. Maar u bent zo wijs als een engel van God en weet precies wat overal gebeurt!’",
+    "h": "",
+    "o": 17,
+    "l": "20"
+  },
+  {
+    "id": "10014018",
+    "b": 10,
+    "c": 14,
+    "v": 21,
+    "t": "Daarop liet de koning Joab bij zich komen en zei: ‘Goed. Ga Absalom halen en breng hem hier.’",
+    "h": "",
+    "o": 18,
+    "l": "21"
+  },
+  {
+    "id": "10014019",
+    "b": 10,
+    "c": 14,
+    "v": 22,
+    "t": "Joab liet zich voor de koning op de grond vallen, dankte hem en zei: ‘Nu weet ik dat u om mij geeft! Want u hebt mijn verzoek ingewilligd!’",
+    "h": "",
+    "o": 19,
+    "l": "22"
+  },
+  {
+    "id": "10014020",
+    "b": 10,
+    "c": 14,
+    "v": 23,
+    "t": "Joab ging meteen naar Gesur en bracht Absalom mee terug naar Jeruzalem.",
+    "h": "",
+    "o": 20,
+    "l": "23"
+  },
+  {
+    "id": "10014021",
+    "b": 10,
+    "c": 14,
+    "v": 24,
+    "t": "‘Hij mag naar zijn eigen woning gaan,’ beval de koning, ‘maar hij mag niet hier komen, want ik wil hem niet zien.’",
+    "h": "",
+    "o": 21,
+    "l": "24"
+  },
+  {
+    "id": "10014022",
+    "b": 10,
+    "c": 14,
+    "v": 25,
+    "t": "Nu was geen man in Israël zo mooi en aantrekkelijk als Absalom. Niemand werd daarom ook zo geprezen als hij. Van top tot teen was niets op hem aan te merken.",
+    "h": "",
+    "o": 22,
+    "l": "25"
+  },
+  {
+    "id": "10014023",
+    "b": 10,
+    "c": 14,
+    "v": 26,
+    "t": "Hij knipte zijn haar slechts eenmaal per jaar, en dan alleen omdat het meer dan twee kilo woog en te zwaar was om mee rond te lopen!",
+    "h": "",
+    "o": 23,
+    "l": "26"
+  },
+  {
+    "id": "10014024",
+    "b": 10,
+    "c": 14,
+    "v": 27,
+    "t": "Hij had drie zonen en één dochter, Tamar, een erg knap meisje.",
+    "h": "",
+    "o": 24,
+    "l": "27"
+  },
+  {
+    "id": "10014025",
+    "b": 10,
+    "c": 14,
+    "v": 28,
+    "t": "Nadat Absalom twee jaar in Jeruzalem terug was en de koning nog steeds niet had gezien,",
+    "h": "",
+    "o": 25,
+    "l": "28"
+  },
+  {
+    "id": "10014026",
+    "b": 10,
+    "c": 14,
+    "v": 29,
+    "t": "liet hij Joab bij zich komen om hem te vragen voor hem te bemiddelen bij de koning. Joab weigerde echter te komen. Absalom liet nog een keer naar hem vragen, maar hij weigerde opnieuw.",
+    "h": "",
+    "o": 26,
+    "l": "29"
+  },
+  {
+    "id": "10014027",
+    "b": 10,
+    "c": 14,
+    "v": 30,
+    "t": "Daarom zei Absalom tegen zijn dienaren: ‘Ga naar de akker van Joab, die naast de mijne ligt en steek het gewas in brand.’ Zij voerden dat bevel uit.",
+    "h": "",
+    "o": 27,
+    "l": "30"
+  },
+  {
+    "id": "10014028",
+    "b": 10,
+    "c": 14,
+    "v": 31,
+    "t": "Toen kwam Joab wel naar Absalom toe en wilde van hem weten: ‘Waarom hebben uw dienaren mijn akker in brand gestoken?’",
+    "h": "",
+    "o": 28,
+    "l": "31"
+  },
+  {
+    "id": "10014029",
+    "b": 10,
+    "c": 14,
+    "v": 32,
+    "t": "Absalom antwoordde: ‘Omdat ik wilde dat u de koning ging vragen waarom hij mij uit Gesur liet terugkomen als hij mij toch niet wil zien. Ik had net zo goed daar kunnen blijven. Zorg ervoor dat ik een gesprek met de koning krijg. Als hij mij dan nog schuldig acht, mag hij mij laten doden.’",
+    "h": "",
+    "o": 29,
+    "l": "32"
+  },
+  {
+    "id": "10014030",
+    "b": 10,
+    "c": 14,
+    "v": 33,
+    "t": "Joab bracht Absaloms woorden aan de koning over. Toen liet David Absalom uiteindelijk bij zich komen. Absalom verscheen voor de koning en boog zich diep voor hem. David kuste zijn zoon.",
+    "h": "",
+    "o": 30,
+    "l": "33"
+  },
+  {
+    "id": "10015001",
+    "b": 10,
+    "c": 15,
+    "v": 1,
+    "t": "Absalom schafte zich daarna een prachtig rijtuig met uitstekende paarden aan. Hij nam bovendien vijftig man voetvolk in dienst die voor hem uit moesten lopen.",
+    "h": "Absaloms samenzwering tegen David",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "10015002",
+    "b": 10,
+    "c": 15,
+    "v": 2,
+    "t": "Elke morgen stond hij vroeg op en ging naar de stadspoort. Als dan iemand kwam om een probleem aan de koning voor te leggen, riep Absalom hem bij zich en vroeg hem onder andere waar hij vandaan kwam.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "10015003",
+    "b": 10,
+    "c": 15,
+    "v": 3,
+    "t": "Absalom zei dan: ‘Ik merk gewoon dat u in deze zaak het recht aan uw kant hebt. Het is jammer dat de koning niemand heeft die hem kan helpen bij het beoordelen van dit soort zaken.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "10015004",
+    "b": 10,
+    "c": 15,
+    "v": 4,
+    "t": "Ik wilde dat ik rechter was, dan zou ik iedereen die met een zaak bij mij kwam, zijn recht geven!’",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "10015005",
+    "b": 10,
+    "c": 15,
+    "v": 5,
+    "t": "Als iemand voor hem wilde buigen, liet hij dat niet toe, maar trok hem overeind en begroette hem vriendschappelijk.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "10015006",
+    "b": 10,
+    "c": 15,
+    "v": 6,
+    "t": "Zo wist Absalom de harten van vele Israëlieten te winnen.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "10015007",
+    "b": 10,
+    "c": 15,
+    "v": 7,
+    "t": "Na vier jaar zei Absalom tegen de koning: ‘Mag ik naar Hebron gaan? Ik wil de HERE een offer brengen als inlossing van een eed die ik Hem zwoer toen ik nog in Gesur was. Ik heb God toen gezworen dat als Hij mij terug liet gaan naar Jeruzalem, ik Hem een offer zou brengen.’",
+    "h": "",
+    "o": 7,
+    "l": "7-8"
+  },
+  {
+    "id": "10015008",
+    "b": 10,
+    "c": 15,
+    "v": 9,
+    "t": "De koning zag geen reden dat verzoek te weigeren. Zo reisde Absalom naar Hebron.",
+    "h": "",
+    "o": 8,
+    "l": "9"
+  },
+  {
+    "id": "10015009",
+    "b": 10,
+    "c": 15,
+    "v": 10,
+    "t": "Maar terwijl hij daar was, stuurde hij spionnen naar alle delen van Israël om de mensen aan te sporen tot een opstand tegen de koning. ‘Zodra u de bazuinen hoort,’ luidde hun boodschap, ‘zult u weten dat Absalom in Hebron tot koning is gekroond.’",
+    "h": "",
+    "o": 9,
+    "l": "10"
+  },
+  {
+    "id": "10015010",
+    "b": 10,
+    "c": 15,
+    "v": 11,
+    "t": "Hij nam tweehonderd mannen uit Jeruzalem mee als gasten voor het offerfeest, maar zij wisten niets van zijn plannen.",
+    "h": "",
+    "o": 10,
+    "l": "11"
+  },
+  {
+    "id": "10015011",
+    "b": 10,
+    "c": 15,
+    "v": 12,
+    "t": "Terwijl hij het offer bracht, ontbood hij Achitofel, de raadsman van David, die uit de stad Gilo kwam. Deze Achitofel schaarde zich aan Absaloms zijde, evenals vele anderen. Zo groeide de samenzwering uit tot een machtig complot.",
+    "h": "",
+    "o": 11,
+    "l": "12"
+  },
+  {
+    "id": "10015012",
+    "b": 10,
+    "c": 15,
+    "v": 13,
+    "t": "Een boodschapper bracht echter deze berichten aan koning David over: ‘Heel Israël heeft zich bij Absalom gevoegd in een samenzwering tegen u.’",
+    "h": "",
+    "o": 12,
+    "l": "13"
+  },
+  {
+    "id": "10015013",
+    "b": 10,
+    "c": 15,
+    "v": 14,
+    "t": "‘Dan moeten wij onmiddellijk vluchten, anders is het te laat!’ was Davids reactie. ‘Als wij de stad uit zijn voordat hij er is, zullen zowel wij als de stad Jeruzalem van de dood worden gered.’",
+    "h": "",
+    "o": 13,
+    "l": "14"
+  },
+  {
+    "id": "10015014",
+    "b": 10,
+    "c": 15,
+    "v": 15,
+    "t": "‘Wij staan volledig achter u,’ antwoordden zijn naaste medewerkers.",
+    "h": "",
+    "o": 14,
+    "l": "15"
+  },
+  {
+    "id": "10015015",
+    "b": 10,
+    "c": 15,
+    "v": 16,
+    "t": "Zo maakten David en zijn hele familie zich klaar voor een snel vertrek. Alleen tien van zijn bijvrouwen bleven achter om de zaken in het paleis te regelen.",
+    "h": "",
+    "o": 15,
+    "l": "16"
+  },
+  {
+    "id": "10015016",
+    "b": 10,
+    "c": 15,
+    "v": 17,
+    "t": "Bij een huis buiten de stad liet David zijn troepen aan zich voorbij trekken, daarbij waren ook zeshonderd mannen die uit Gath waren gekomen en de Keretieten en Peletieten.",
+    "h": "",
+    "o": 16,
+    "l": "17-18"
+  },
+  {
+    "id": "10015017",
+    "b": 10,
+    "c": 15,
+    "v": 19,
+    "t": "Plotseling wendde de koning zich tot Ittai, de bevelhebber van de zeshonderd Gathieten, en zei: ‘Wat doet u hier? Ga met uw mannen terug en wacht rustig af tot duidelijk is wie uw koning zal zijn. U bent immers alleen te gast hier in Israël. U bent gisteren pas aangekomen, dus waarom zou ik u vandaag dwingen met ons mee te trekken, wie weet waarheen? Ga terug en neem uw troepen mee. Moge de HERE u genadig zijn.’",
+    "h": "",
+    "o": 17,
+    "l": "19-20"
+  },
+  {
+    "id": "10015018",
+    "b": 10,
+    "c": 15,
+    "v": 21,
+    "t": "Maar Ittai antwoordde: ‘Ik zweer bij God en bij uw eigen leven dat ik zal gaan waar u gaat, wat er ook mag gebeuren, of dat nu dood of leven betekent.’",
+    "h": "",
+    "o": 18,
+    "l": "21"
+  },
+  {
+    "id": "10015019",
+    "b": 10,
+    "c": 15,
+    "v": 22,
+    "t": "‘Goed, ga dan maar met ons mee,’ zei David. Daarop trokken Ittai en zijn zeshonderd mannen met hun familieleden verder mee.",
+    "h": "",
+    "o": 19,
+    "l": "22"
+  },
+  {
+    "id": "10015020",
+    "b": 10,
+    "c": 15,
+    "v": 23,
+    "t": "Er heerste een verdrietige stemming, toen de koning met zijn laatste volgelingen wegtrok en de beek Kedron overstak in de richting van de woestijn.",
+    "h": "",
+    "o": 20,
+    "l": "23"
+  },
+  {
+    "id": "10015021",
+    "b": 10,
+    "c": 15,
+    "v": 24,
+    "t": "Abjathar, Zadok en de Levieten zetten de ark van het verbond van God langs de weg neer, tot iedereen uit de stad was voorbijgetrokken.",
+    "h": "",
+    "o": 21,
+    "l": "24"
+  },
+  {
+    "id": "10015022",
+    "b": 10,
+    "c": 15,
+    "v": 25,
+    "t": "Op aanwijzing van David nam Zadok de ark daarna weer mee terug naar de stad. ‘Als de HERE genadig voor mij is,’ had David gezegd, ‘dan zal Hij mij laten terugkomen om de ark in de tent weer te zien. Maar als Hij genoeg van mij heeft, welnu, laat Hij dan doen wat Hij denkt dat het beste is.’",
+    "h": "",
+    "o": 22,
+    "l": "25-26"
+  },
+  {
+    "id": "10015023",
+    "b": 10,
+    "c": 15,
+    "v": 27,
+    "t": "Daarna zei de koning tegen Zadok: ‘U vervult de rol van profeet. Ga stilletjes terug naar de stad met uw zoon Ahimaäz en Abjathars zoon Jonathan.",
+    "h": "",
+    "o": 23,
+    "l": "27"
+  },
+  {
+    "id": "10015024",
+    "b": 10,
+    "c": 15,
+    "v": 28,
+    "t": "Ik zal bij de doorwaadbare plaats in de Jordaan halthouden en daar op een boodschap van u wachten. Laat mij weten wat in Jeruzalem gebeurt, voordat ik de woestijn intrek.’",
+    "h": "",
+    "o": 24,
+    "l": "28"
+  },
+  {
+    "id": "10015025",
+    "b": 10,
+    "c": 15,
+    "v": 29,
+    "t": "Daarop droegen Zadok en Abjathar de ark van God terug naar de stad en bleven daar.",
+    "h": "",
+    "o": 25,
+    "l": "29"
+  },
+  {
+    "id": "10015026",
+    "b": 10,
+    "c": 15,
+    "v": 30,
+    "t": "Huilend volgde David de weg die omhoog voerde naar de Olijfberg. Zijn hoofd was bedekt en hij liep op blote voeten als teken van rouw. Ook de mensen die bij hem waren, bedekten hun hoofden en huilden terwijl zij de berg beklommen.",
+    "h": "",
+    "o": 26,
+    "l": "30"
+  },
+  {
+    "id": "10015027",
+    "b": 10,
+    "c": 15,
+    "v": 31,
+    "t": "Toen iemand David vertelde dat zijn raadsman Achitofel de kant van Absalom had gekozen, bad David: ‘Och HERE, zorgt U er alstublieft voor dat Achitofel Absalom slechte raad geeft!’",
+    "h": "",
+    "o": 27,
+    "l": "31"
+  },
+  {
+    "id": "10015028",
+    "b": 10,
+    "c": 15,
+    "v": 32,
+    "t": "Toen zij op de Olijfberg de plaats bereikten waar de mensen gewoonlijk God aanbaden, trof David daar de Arkiet Husai aan. Zijn kleren waren gescheurd en hij had aarde op zijn hoofd.",
+    "h": "",
+    "o": 28,
+    "l": "32"
+  },
+  {
+    "id": "10015029",
+    "b": 10,
+    "c": 15,
+    "v": 33,
+    "t": "Maar David zei tegen hem: ‘Als u met mij meegaat, zult u ons alleen maar tot last zijn, ga terug naar Jeruzalem en zeg tegen Absalom: “Ik zal uw dienaar zijn, net zoals ik dat van uw vader was.” Op die manier kunt u de adviezen van Achitofel doorkruisen en tenietdoen.",
+    "h": "",
+    "o": 29,
+    "l": "33-34"
+  },
+  {
+    "id": "10015030",
+    "b": 10,
+    "c": 15,
+    "v": 35,
+    "t": "De priesters Zadok en Abjathar zijn daar ook. Geef hun alles door wat in het paleis wordt verteld. Hun zonen Ahimaäz en Jonathan kunnen mij dan opzoeken en doorgeven wat er allemaal gebeurt.’",
+    "h": "",
+    "o": 30,
+    "l": "35-36"
+  },
+  {
+    "id": "10015031",
+    "b": 10,
+    "c": 15,
+    "v": 37,
+    "t": "Zo ging Davids vriend Husai terug naar Jeruzalem en arriveerde daar tegelijk met Absalom.",
+    "h": "",
+    "o": 31,
+    "l": "37"
+  },
+  {
+    "id": "10016001",
+    "b": 10,
+    "c": 16,
+    "v": 1,
+    "t": "David was net de top van de Olijfberg gepasseerd toen Ziba, het hoofd van Mefiboseths huishouding, hem achterna kwam. Hij had twee ezels bij zich, met op hun ruggen tweehonderd broden, honderd rozijnenkoeken, honderd vruchten en een zak wijn.",
+    "h": "David door Simi vervloekt",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "10016002",
+    "b": 10,
+    "c": 16,
+    "v": 2,
+    "t": "‘Voor wie is dat allemaal bestemd?’ vroeg de koning aan Ziba. Ziba antwoordde: ‘De ezels zijn bestemd als rijdieren voor uw familie en het brood en het zomerfruit zijn bedoeld als voedsel voor uw dienaren, de wijn moet u meenemen naar de woestijn voor het geval iemand erg verzwakt.’",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "10016003",
+    "b": 10,
+    "c": 16,
+    "v": 3,
+    "t": "‘En waar is Mefiboseth?’ vroeg de koning hem. ‘Die is in Jeruzalem gebleven,’ was het antwoord. ‘Hij heeft tegen mij gezegd: “Nu kan ik eindelijk koning worden! Vandaag zal ik het koninkrijk van mijn vader Saul terugkrijgen!” ’",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "10016004",
+    "b": 10,
+    "c": 16,
+    "v": 4,
+    "t": "‘In dat geval,’ zei de koning tegen Ziba, ‘geef ik hierbij al zijn bezittingen aan u.’ ‘Dank u heer,’ antwoordde Ziba blij.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "10016005",
+    "b": 10,
+    "c": 16,
+    "v": 5,
+    "t": "Toen David en zijn metgezellen langs Bahurim trokken, kwam er een man uit het dorp die hen begon te vervloeken. Het was Simi, de zoon van Gera, een familielid van Saul.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "10016006",
+    "b": 10,
+    "c": 16,
+    "v": 6,
+    "t": "Hij gooide stenen naar de koning en zijn officieren en alle bekende strijders die om hem heen liepen!",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "10016007",
+    "b": 10,
+    "c": 16,
+    "v": 7,
+    "t": "‘Maak dat je hier wegkomt, moordenaar, smeerlap!’ krijste hij naar David. ‘De HERE zet je nu de moord op Saul en zijn familie betaald: jij stal zijn troon en nu heeft de HERE die troon aan je zoon Absalom gegeven! Nu krijg je je verdiende loon, moordenaar!’",
+    "h": "",
+    "o": 7,
+    "l": "7-8"
+  },
+  {
+    "id": "10016008",
+    "b": 10,
+    "c": 16,
+    "v": 9,
+    "t": "‘Hoe durft zoʼn dode hond de koning te vervloeken?’ zei Abisaï kwaad. ‘Laat mij maar even mijn gang gaan, dan zal ik zijn hoofd afslaan!’",
+    "h": "",
+    "o": 8,
+    "l": "9"
+  },
+  {
+    "id": "10016009",
+    "b": 10,
+    "c": 16,
+    "v": 10,
+    "t": "‘Nee, waar bemoeit u zich mee!’ zei de koning. ‘Als de HERE hem heeft gezegd dat hij mij moet vervloeken, wie ben ik dan dat ik dat zou verhinderen?",
+    "h": "",
+    "o": 9,
+    "l": "10"
+  },
+  {
+    "id": "10016010",
+    "b": 10,
+    "c": 16,
+    "v": 11,
+    "t": "Mijn eigen zoon probeert mij te doden, wat verwacht u dan anders van deze Benjaminiet? Laat hem zijn gang gaan, want zonder enige twijfel heeft de HERE hem daartoe opdracht gegeven.",
+    "h": "",
+    "o": 10,
+    "l": "11"
+  },
+  {
+    "id": "10016011",
+    "b": 10,
+    "c": 16,
+    "v": 12,
+    "t": "En misschien zal de HERE mijn schuld zien en mij toch zegenen ondanks deze vervloekingen.’",
+    "h": "",
+    "o": 11,
+    "l": "12"
+  },
+  {
+    "id": "10016012",
+    "b": 10,
+    "c": 16,
+    "v": 13,
+    "t": "Zo trokken David en zijn mannen verder, terwijl Simi op een tegenover gelegen heuvelrug gelijke tred met hen hield. Hij slingerde vervloekingen en stenen naar Davids hoofd en gooide voortdurend stof in de lucht.",
+    "h": "",
+    "o": 12,
+    "l": "13"
+  },
+  {
+    "id": "10016013",
+    "b": 10,
+    "c": 16,
+    "v": 14,
+    "t": "De koning en zijn metgezellen waren erg vermoeid tegen de tijd dat zij Ajéfim bereikten, daarom bleven zij daar een poosje rusten.",
+    "h": "",
+    "o": 13,
+    "l": "14"
+  },
+  {
+    "id": "10016014",
+    "b": 10,
+    "c": 16,
+    "v": 15,
+    "t": "Ondertussen waren Absalom en zijn mannen in gezelschap van Achitofel in Jeruzalem aangekomen.",
+    "h": "",
+    "o": 14,
+    "l": "15"
+  },
+  {
+    "id": "10016015",
+    "b": 10,
+    "c": 16,
+    "v": 16,
+    "t": "Toen Davids vriend Husai daar aankwam, ging hij meteen naar Absalom toe. ‘Lang leve de koning!’ riep hij. ‘Lang leve de koning!’",
+    "h": "",
+    "o": 15,
+    "l": "16"
+  },
+  {
+    "id": "10016016",
+    "b": 10,
+    "c": 16,
+    "v": 17,
+    "t": "‘Is dit de manier waarop u uw vriend David behandelt?’ vroeg Absalom hem. ‘Waarom bent u niet bij hem?’",
+    "h": "",
+    "o": 16,
+    "l": "17"
+  },
+  {
+    "id": "10016017",
+    "b": 10,
+    "c": 16,
+    "v": 18,
+    "t": "‘Omdat ik werk voor de man die is gekozen door de HERE en door Israël,’ antwoordde Husai.",
+    "h": "",
+    "o": 17,
+    "l": "18"
+  },
+  {
+    "id": "10016018",
+    "b": 10,
+    "c": 16,
+    "v": 19,
+    "t": "‘En wat dan nog, waarom zou ik dit niet doen? Ik hielp uw vader en nu zal ik u helpen! U bent toch immers zijn zoon!’",
+    "h": "",
+    "o": 18,
+    "l": "19"
+  },
+  {
+    "id": "10016019",
+    "b": 10,
+    "c": 16,
+    "v": 20,
+    "t": "Absalom wendde zich tot Achitofel en vroeg hem: ‘Wat gaan we nu doen?’",
+    "h": "",
+    "o": 19,
+    "l": "20"
+  },
+  {
+    "id": "10016020",
+    "b": 10,
+    "c": 16,
+    "v": 21,
+    "t": "Achitofel gaf hem het advies: ‘Ga naar bed met uw vaders vrouwen, want hij heeft hen hier achtergelaten om voor het huis te zorgen. Dan zal heel Israël weten dat u hem op een onvergeeflijke manier hebt beledigd en zullen uw aanhangers zich vaster aaneensluiten.’",
+    "h": "",
+    "o": 20,
+    "l": "21"
+  },
+  {
+    "id": "10016021",
+    "b": 10,
+    "c": 16,
+    "v": 22,
+    "t": "Zo werd op het dak van het paleis, waar iedereen het kon zien, een tent opgezet. En Absalom ging daar bij zijn vaders vrouwen liggen.",
+    "h": "",
+    "o": 21,
+    "l": "22"
+  },
+  {
+    "id": "10016022",
+    "b": 10,
+    "c": 16,
+    "v": 23,
+    "t": "Absalom volgde Achitofels adviezen nauwkeurig op, net als David had gedaan. Alles wat Achitofel zei, klonk zo wijs alsof het Gods woorden waren.",
+    "h": "",
+    "o": 22,
+    "l": "23"
+  },
+  {
+    "id": "10017001",
+    "b": 10,
+    "c": 17,
+    "v": 1,
+    "t": "‘Geef me twaalfduizend man om vannacht de achtervolging op David in te zetten,’ zei Achitofel.",
+    "h": "Het advies van Husai en Achitofel",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "10017002",
+    "b": 10,
+    "c": 17,
+    "v": 2,
+    "t": "‘Ik zal hem overvallen wanneer hij uitgeput en moedeloos is. Hij en zijn troepen zullen in paniek raken en op de vlucht slaan, ik zal alleen de koning doden. Alle anderen laat ik in leven, zodat zij uw kant kunnen kiezen en de vrede terugkeert in het land.’",
+    "h": "",
+    "o": 2,
+    "l": "2-3"
+  },
+  {
+    "id": "10017003",
+    "b": 10,
+    "c": 17,
+    "v": 4,
+    "t": "Absalom en alle leiders van Israël gingen met dat plan akkoord,",
+    "h": "",
+    "o": 3,
+    "l": "4"
+  },
+  {
+    "id": "10017004",
+    "b": 10,
+    "c": 17,
+    "v": 5,
+    "t": "maar Absalom zei: ‘Vraag de Arkiet Husai ook eens wat hij hiervan vindt.’",
+    "h": "",
+    "o": 4,
+    "l": "5"
+  },
+  {
+    "id": "10017005",
+    "b": 10,
+    "c": 17,
+    "v": 6,
+    "t": "Toen Husai verscheen, vertelde Absalom hem wat Achitofel had voorgesteld. ‘Wat denkt u ervan?’ vroeg Absalom. ‘Moeten wij Achitofels raad opvolgen? Als u het er niet mee eens bent, zeg het dan.’",
+    "h": "",
+    "o": 5,
+    "l": "6"
+  },
+  {
+    "id": "10017006",
+    "b": 10,
+    "c": 17,
+    "v": 7,
+    "t": "‘Ik geloof dat Achitofel deze keer een fout heeft gemaakt,’ zei Husai vlot.",
+    "h": "",
+    "o": 6,
+    "l": "7"
+  },
+  {
+    "id": "10017007",
+    "b": 10,
+    "c": 17,
+    "v": 8,
+    "t": "‘U kent uw vader en zijn mannen, het zijn moedige strijders en zij zijn vermoedelijk net zo geprikkeld als een berin waarvan de jongen zijn weggeroofd. Uw vader is een geoefend vechter en zal de nacht waarschijnlijk niet doorbrengen te midden van de troepen.",
+    "h": "",
+    "o": 7,
+    "l": "8"
+  },
+  {
+    "id": "10017008",
+    "b": 10,
+    "c": 17,
+    "v": 9,
+    "t": "Vermoedelijk heeft hij zich al verscholen in een hol of een grot. En als hij eruit komt en aanvalt en enkelen van uw mannen sneuvelen, zal paniek onder uw volk uitbreken en zal iedereen denken dat uw leger een geweldige nederlaag heeft geleden.",
+    "h": "",
+    "o": 8,
+    "l": "9"
+  },
+  {
+    "id": "10017009",
+    "b": 10,
+    "c": 17,
+    "v": 10,
+    "t": "Dan zullen zelfs de moedigsten onder hen, met harten als leeuwen, verlamd raken door angst, want heel Israël kent de reputatie van uw vader en weet hoe dapper zijn soldaten zijn.",
+    "h": "",
+    "o": 9,
+    "l": "10"
+  },
+  {
+    "id": "10017010",
+    "b": 10,
+    "c": 17,
+    "v": 11,
+    "t": "Wat ik voorstel, is dat u het hele Israëlitische leger mobiliseert en zelfs de mannen uit Dan en Berseba op de been brengt, zodat u een enorme troepenmacht tot uw beschikking hebt. Ik denk ook dat u zelf de leiding van de troepen in handen moet nemen.",
+    "h": "",
+    "o": 10,
+    "l": "11"
+  },
+  {
+    "id": "10017011",
+    "b": 10,
+    "c": 17,
+    "v": 12,
+    "t": "Als wij hem dan vinden, kunnen wij hem gemakkelijk overvallen en zijn hele leger vernietigen, zodat niemand in leven blijft.",
+    "h": "",
+    "o": 11,
+    "l": "12"
+  },
+  {
+    "id": "10017012",
+    "b": 10,
+    "c": 17,
+    "v": 13,
+    "t": "Als David erin mocht slagen zich in een stad in veiligheid te brengen, kunnen wij met touwen de stadsmuren naar de dichtstbijzijnde rivier trekken en ze daarin gooien, zodat er geen steen meer overblijft.’",
+    "h": "",
+    "o": 12,
+    "l": "13"
+  },
+  {
+    "id": "10017013",
+    "b": 10,
+    "c": 17,
+    "v": 14,
+    "t": "Daarna zeiden Absalom en alle mannen van Israël: ‘Het advies van Husai lijkt ons beter dan dat van Achitofel.’ Want de HERE had het zo geregeld dat het advies van Achitofel werd verworpen, ook al was dat een beter plan. Op die manier kon Hij een ramp over Absalom brengen.",
+    "h": "",
+    "o": 13,
+    "l": "14"
+  },
+  {
+    "id": "10017014",
+    "b": 10,
+    "c": 17,
+    "v": 15,
+    "t": "Husai bracht naderhand verslag uit bij de priesters Zadok en Abjathar. Hij vertelde hun over het advies van Achitofel en wat hij daar tegenin had gebracht.",
+    "h": "",
+    "o": 14,
+    "l": "15"
+  },
+  {
+    "id": "10017015",
+    "b": 10,
+    "c": 17,
+    "v": 16,
+    "t": "‘Snel,’ zei hij. ‘Zoek David op en zeg hem dat hij vanavond niet bij de doorwaadbare plaats in de Jordaan kan blijven. Hij moet onmiddellijk oversteken en de woestijn aan de overzijde intrekken. Als hij dat niet doet, zullen hij en zijn hele leger sterven.’",
+    "h": "",
+    "o": 15,
+    "l": "16"
+  },
+  {
+    "id": "10017016",
+    "b": 10,
+    "c": 17,
+    "v": 17,
+    "t": "Jonathan en Ahimaäz zaten ondertussen bij En-Rogel, want zij konden zich niet in de stad vertonen. Een slavin bracht hun de mededelingen, die zij op hun beurt naar koning David moesten brengen.",
+    "h": "",
+    "o": 16,
+    "l": "17"
+  },
+  {
+    "id": "10017017",
+    "b": 10,
+    "c": 17,
+    "v": 18,
+    "t": "Een jongen zag hen echter toen zij En-Rogel verlieten op weg naar David en hij vertelde dat aan Absalom. Ze wisten echter te ontsnappen naar Bachurim, waar een man hen in een waterput op zijn binnenplaats verborg.",
+    "h": "",
+    "o": 17,
+    "l": "18"
+  },
+  {
+    "id": "10017018",
+    "b": 10,
+    "c": 17,
+    "v": 19,
+    "t": "De vrouw van die man gooide een kleed over de put en legde er graan op te drogen. Zo kwam niemand er achter dat er mensen in die put zaten.",
+    "h": "",
+    "o": 18,
+    "l": "19"
+  },
+  {
+    "id": "10017019",
+    "b": 10,
+    "c": 17,
+    "v": 20,
+    "t": "Toen Absaloms mannen bij het huis kwamen en haar vroegen of zij Ahimaäz en Jonathan had gezien, vertelde zij hun dat ze de nabijgelegen beek waren overgestoken en verdwenen. Zij zochten nog enige tijd naar de beide vluchtelingen, maar gingen ten slotte onverrichter zake terug naar Jeruzalem.",
+    "h": "",
+    "o": 19,
+    "l": "20"
+  },
+  {
+    "id": "10017020",
+    "b": 10,
+    "c": 17,
+    "v": 21,
+    "t": "Daarna klommen de beide mannen uit de put en vervolgden hun weg naar koning David. ‘Snel,’ zeiden zij, ‘u moet zo gauw mogelijk de Jordaan oversteken!’ En zij vertelden hem hoe Achitofel had geadviseerd hem gevangen te nemen en te doden.",
+    "h": "",
+    "o": 20,
+    "l": "21"
+  },
+  {
+    "id": "10017021",
+    "b": 10,
+    "c": 17,
+    "v": 22,
+    "t": "Zo trokken David en zijn metgezellen nog diezelfde nacht de Jordaan over. Voor het aanbreken van de dag stond iedereen op de andere oever.",
+    "h": "",
+    "o": 21,
+    "l": "22"
+  },
+  {
+    "id": "10017022",
+    "b": 10,
+    "c": 17,
+    "v": 23,
+    "t": "Toen Achitofel merkte dat zijn raad niet werd opgevolgd, zadelde hij zijn ezel, reed naar zijn woonplaats Gilo, gaf zijn familie de laatste instructies en hing zich op. Hij werd naast zijn vader begraven.",
+    "h": "",
+    "o": 22,
+    "l": "23"
+  },
+  {
+    "id": "10017023",
+    "b": 10,
+    "c": 17,
+    "v": 24,
+    "t": "Korte tijd later kwam David aan in Machanaïm. Ondertussen had Absalom het hele Israëlitische leger op de been gebracht en leidde zijn troepen de Jordaan over.",
+    "h": "",
+    "o": 23,
+    "l": "24"
+  },
+  {
+    "id": "10017024",
+    "b": 10,
+    "c": 17,
+    "v": 25,
+    "t": "Hij had Amasa als opperbevelhebber aangesteld in de plaats van Joab. Deze Amasa was een achterneef van Joab, zijn vader was de Ismaëliet Jitra en zijn moeder was Abigal, de dochter van Nachas, die een zuster was van Joabs moeder Seruja.",
+    "h": "",
+    "o": 24,
+    "l": "25"
+  },
+  {
+    "id": "10017025",
+    "b": 10,
+    "c": 17,
+    "v": 26,
+    "t": "Absalom en zijn mannen sloegen hun kamp op in het land Gilead.",
+    "h": "",
+    "o": 25,
+    "l": "26"
+  },
+  {
+    "id": "10017026",
+    "b": 10,
+    "c": 17,
+    "v": 27,
+    "t": "Toen David in Machanaïm aankwam, werd hij gastvrij ontvangen door Sobi, de zoon van Nachas uit Rabba, een Ammoniet, en door Machir, de zoon van Ammiël uit Lodebar, en door Barzillai, een Gileadiet uit Rogelim.",
+    "h": "",
+    "o": 26,
+    "l": "27"
+  },
+  {
+    "id": "10017027",
+    "b": 10,
+    "c": 17,
+    "v": 28,
+    "t": "Zij brachten hem en zijn mannen slaapmatten, schalen, potten en pannen, tarwe, gerst, meel, geroosterd koren, bonen, linzen,",
+    "h": "",
+    "o": 27,
+    "l": "28"
+  },
+  {
+    "id": "10017028",
+    "b": 10,
+    "c": 17,
+    "v": 29,
+    "t": "honing, boter, schapen en kaas. Want zij zeiden: ‘Na zoʼn lange mars door de woestijn zult u wel moe zijn en honger en dorst hebben.’",
+    "h": "",
+    "o": 28,
+    "l": "29"
+  },
+  {
+    "id": "10018001",
+    "b": 10,
+    "c": 18,
+    "v": 1,
+    "t": "David inspecteerde zijn troepen en stelde commandanten aan.",
+    "h": "De dood van Absalom",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "10018002",
+    "b": 10,
+    "c": 18,
+    "v": 2,
+    "t": "Een derde gedeelte werd onder leiding van Joabs broer Abisaï geplaatst, een ander derde gedeelte onder de Gathiet Ittai. Joab zelf leidde het andere derde deel. De koning was vastbesloten de leiding over het hele leger te nemen.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "10018003",
+    "b": 10,
+    "c": 18,
+    "v": 3,
+    "t": "‘Dat moet u niet doen,’ zeiden de mannen, ‘want als wij ons onverhoopt moeten terugtrekken en de helft van ons sneuvelt, zal het voor hen niets uitmaken, zij zullen het alleen op u voorzien hebben. U bent tienduizend man waard, daarom is het beter dat u hier in de stad blijft en ons hulp zendt als wij dat nodig hebben.’",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "10018004",
+    "b": 10,
+    "c": 18,
+    "v": 4,
+    "t": "‘Goed, ik zal naar jullie advies luisteren,’ zei David ten slotte berustend. Daarom stond hij aan de poort toen de troepen langs hem heen trokken.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "10018005",
+    "b": 10,
+    "c": 18,
+    "v": 5,
+    "t": "En de koning bond Joab, Abisaï en Ittai op het hart: ‘Behandel de jonge Absalom niet te ruw ter wille van mij.’ Alle soldaten hoorden hoe hij dit tegen hen zei.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "10018006",
+    "b": 10,
+    "c": 18,
+    "v": 6,
+    "t": "Toen ontbrandde de strijd in het woud van Efraïm",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "10018007",
+    "b": 10,
+    "c": 18,
+    "v": 7,
+    "t": "en de Israëlitische troepen werden door Davids mannen teruggeslagen. Het was een grote slachtpartij, waarbij die dag twintigduizend mannen sneuvelden.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "10018008",
+    "b": 10,
+    "c": 18,
+    "v": 8,
+    "t": "In de hele streek werd gevochten en er kwamen meer mannen in het woud om dan er op het slagveld sneuvelden.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "10018009",
+    "b": 10,
+    "c": 18,
+    "v": 9,
+    "t": "Tijdens de strijd stootte Absalom op enkele mannen van David en toen hij op zijn muildier wegvluchtte, rende het dier onder de dikke takken van een grote eik door en raakte Absaloms haar verstrikt in die takken. Zijn muildier rende verder, terwijl hij aan een tak bleef hangen.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "10018010",
+    "b": 10,
+    "c": 18,
+    "v": 10,
+    "t": "Een van Davids mannen zag hem daar hangen en meldde het Joab.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "10018011",
+    "b": 10,
+    "c": 18,
+    "v": 11,
+    "t": "‘Wat? Je zag hem daar hangen en je hebt hem niet gedood?’ riep Joab boos. ‘Ik zou je rijk hebben beloond en je tot officier hebben bevorderd.’",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "10018012",
+    "b": 10,
+    "c": 18,
+    "v": 12,
+    "t": "‘Ik zou de prins nog voor geen duizend zilverstukken doden,’ antwoordde de man. ‘Wij hebben toch allemaal gehoord hoe de koning tegen u en Abisaï en Ittai zei dat omwille van hem Absalom niet ruw mocht worden behandeld.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "10018013",
+    "b": 10,
+    "c": 18,
+    "v": 13,
+    "t": "En als ik de koning had verraden door zijn zoon te doden (en de koning zou er zeker achterkomen wie het had gedaan) dan zou u zelf de eerste zijn geweest om mij te beschuldigen.’",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "10018014",
+    "b": 10,
+    "c": 18,
+    "v": 14,
+    "t": "‘Genoeg gekletst,’ vond Joab. Hij pakte drie werpspiesen en stak die door Absaloms hart, terwijl deze weerloos aan de boomtakken bungelde.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "10018015",
+    "b": 10,
+    "c": 18,
+    "v": 15,
+    "t": "Tien van Joabs jonge wapenknechten omringden Absalom daarna en doodden hem.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "10018016",
+    "b": 10,
+    "c": 18,
+    "v": 16,
+    "t": "Daarop blies Joab op zijn bazuin en zijn mannen staakten de achtervolging van de Israëlitische troepen.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "10018017",
+    "b": 10,
+    "c": 18,
+    "v": 17,
+    "t": "Zij gooiden Absaloms lijk in een diepe kuil in het woud en stapelden er een grote hoop stenen overheen. Het Israëlitische leger vluchtte ondertussen terug naar huis.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "10018018",
+    "b": 10,
+    "c": 18,
+    "v": 18,
+    "t": "Absalom had vroeger in het Koningsdal een monument voor zichzelf laten bouwen, want hij zei toen: ‘Ik heb geen zonen die mijn naam zullen dragen.’ Hij noemde het ‘Absaloms monument’ en zo heet het vandaag de dag nog steeds.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "10018019",
+    "b": 10,
+    "c": 18,
+    "v": 19,
+    "t": "Toen zei Zadoks zoon Ahimaäz: ‘Laat mij snel vooruitgaan naar koning David om het goede nieuws te brengen dat de HERE hem heeft gered van zijn vijand Absalom.’",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "10018020",
+    "b": 10,
+    "c": 18,
+    "v": 20,
+    "t": "Maar Joab weigerde toestemming. ‘Het is geen goed nieuws voor de koning dat zijn zoon dood is,’ zei hij. ‘Een andere keer mag je mijn boodschapper zijn.’",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "10018021",
+    "b": 10,
+    "c": 18,
+    "v": 21,
+    "t": "Toen zei Joab tegen een Ethiopiër: ‘Ga de koning vertellen wat je hebt gezien.’ De man maakte een buiging en rende weg.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "10018022",
+    "b": 10,
+    "c": 18,
+    "v": 22,
+    "t": "Maar Ahimaäz hield niet op te vragen of hij ook weg mocht. ‘Nee, dat is niet nodig, mijn jongen,’ antwoordde Joab. ‘Er is toch geen ander nieuws te melden.’",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "10018023",
+    "b": 10,
+    "c": 18,
+    "v": 23,
+    "t": "‘Maar dan kunt u mij net zo goed wel laten gaan,’ hield Ahimaäz vol. Ten slotte gaf Joab toe. ‘Goed, ga dan maar,’ zei hij. Ahimaäz nam de weg over de vlakte en kwam daardoor voor op de Ethiopiër.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "10018024",
+    "b": 10,
+    "c": 18,
+    "v": 24,
+    "t": "David zat bij de stadspoort. Toen de wachter de trap opklom naar zijn uitkijkpost bovenop de muur, zag hij een eenzame loper naderen.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "10018025",
+    "b": 10,
+    "c": 18,
+    "v": 25,
+    "t": "Hij riep het nieuws naar David en de koning antwoordde: ‘Als hij alleen is, heeft hij vast en zeker nieuws.’ Toen de boodschapper dichterbij kwam,",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "10018026",
+    "b": 10,
+    "c": 18,
+    "v": 26,
+    "t": "zag de wachter nog een man naderen. Hij riep naar beneden: ‘Er komt nog iemand aan.’ En de koning zei: ‘Die zal nog wel meer nieuws brengen.’",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "10018027",
+    "b": 10,
+    "c": 18,
+    "v": 27,
+    "t": "‘Aan het lopen van de eerste man kan ik zien dat het Ahimaäz, de zoon van Zadok is,’ zei de wachter. ‘Hij is een goed man en komt met goed nieuws,’ meende de koning.",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "10018028",
+    "b": 10,
+    "c": 18,
+    "v": 28,
+    "t": "Toen riep Ahimaäz de koning toe: ‘Alles is in orde!’ Hij boog diep met zijn gezicht naar de grond en zei: ‘Gezegend zij de HERE, uw God, die de rebellen heeft gedood die tegen u in opstand durfden te komen.’",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "10018029",
+    "b": 10,
+    "c": 18,
+    "v": 29,
+    "t": "‘Hoe is het met de jonge Absalom?’ wilde de koning weten. ‘Is alles goed met hem?’ ‘Toen Joab mij bij zich liet komen, hoorde ik een heleboel geschreeuw, maar ik weet niet precies wat er is gebeurd,’ antwoordde Ahimaäz.",
+    "h": "",
+    "o": 29,
+    "l": "29"
+  },
+  {
+    "id": "10018030",
+    "b": 10,
+    "c": 18,
+    "v": 30,
+    "t": "‘Wacht hier,’ beval de koning hem. Ahimaäz ging opzij.",
+    "h": "",
+    "o": 30,
+    "l": "30"
+  },
+  {
+    "id": "10018031",
+    "b": 10,
+    "c": 18,
+    "v": 31,
+    "t": "Toen bereikte de Ethiopiër de stad en zei: ‘Koning, ik heb goed nieuws voor u. Vandaag heeft de HERE u gered van allen die tegen u in opstand waren gekomen.’",
+    "h": "",
+    "o": 31,
+    "l": "31"
+  },
+  {
+    "id": "10018032",
+    "b": 10,
+    "c": 18,
+    "v": 32,
+    "t": "‘Hoe is het met mijn zoon Absalom? Is alles goed met hem?’ vroeg de koning dringend. En de man antwoordde: ‘Moge het met al uw vijanden zijn, zoals het met die jongeman is.’",
+    "h": "",
+    "o": 32,
+    "l": "32"
+  },
+  {
+    "id": "10018033",
+    "b": 10,
+    "c": 18,
+    "v": 33,
+    "t": "Toen werd de koning zeer bedroefd en hij liep naar zijn kamer boven de poort. Hij huilde: ‘Och mijn zoon Absalom, mijn zoon, mijn zoon Absalom. Had ik maar in jouw plaats kunnen sterven. Och Absalom, mijn zoon, mijn zoon.’",
+    "h": "",
+    "o": 33,
+    "l": "33"
+  },
+  {
+    "id": "10019001",
+    "b": 10,
+    "c": 19,
+    "v": 1,
+    "t": "Het kwam Joab al snel ter ore dat de koning huilde en rouwde om zijn zoon Absalom.",
+    "h": "David keert terug naar Jeruzalem",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "10019002",
+    "b": 10,
+    "c": 19,
+    "v": 2,
+    "t": "Toen het volk hoorde van het verdriet van de koning om zijn zoon, verdween de blijdschap om de prachtige overwinning van die dag en maakte plaats voor droefheid.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "10019003",
+    "b": 10,
+    "c": 19,
+    "v": 3,
+    "t": "Het leger sloop de stad binnen, alsof iedereen zich schaamde en in de strijd op de vlucht was geslagen.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "10019004",
+    "b": 10,
+    "c": 19,
+    "v": 4,
+    "t": "De koning sloeg zijn handen voor zijn gezicht en bleef maar jammeren: ‘Och mijn zoon Absalom. Absalom, mijn zoon, mijn zoon!’",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "10019005",
+    "b": 10,
+    "c": 19,
+    "v": 5,
+    "t": "Toen ging Joab naar de kamer van de koning en zei tegen David: ‘Wij hebben vandaag de levens van u en uw zonen, uw dochters, uw vrouwen en bijvrouwen gered. Maar zoals u zich nu gedraagt, zet u ons voor schut en lijkt het alsof wij iets verkeerds hebben gedaan.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "10019006",
+    "b": 10,
+    "c": 19,
+    "v": 6,
+    "t": "U schijnt te houden van mensen die u haten en hen te haten die van u houden. Kennelijk betekenen uw officieren en soldaten niets voor u, als Absalom in leven was en wij allemaal waren gesneuveld, was u blij geweest.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "10019007",
+    "b": 10,
+    "c": 19,
+    "v": 7,
+    "t": "Ga nu maar naar buiten en wens de troepen geluk met hun overwinning, want ik zweer u bij de HERE, dat als u dat niet doet, geen van hen hier vannacht blijft. Dan zult u slechter af zijn dan ooit tevoren in uw leven.’",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "10019008",
+    "b": 10,
+    "c": 19,
+    "v": 8,
+    "t": "Daarop ging de koning naar buiten en nam plaats bij de stadspoorten. Toen dat nieuws in de stad bekend werd, ging iedereen daar naartoe. Onder de Israëlieten die Absalom hadden gesteund en intussen naar huis waren gegaan, werd in het hele land druk gediscussieerd. ‘Waarom zeggen wij eigenlijk niet dat wij de koning terug willen hebben?’ was overal het gespreksonderwerp. ‘Want hij redde ons van de Filistijnen en Absalom, die wij in plaats van hem koning maakten, heeft hem het land uitgejaagd. Maar Absalom is nu dood. Laten wij David vragen terug te keren en opnieuw onze koning te zijn.’",
+    "h": "",
+    "o": 8,
+    "l": "8-10"
+  },
+  {
+    "id": "10019009",
+    "b": 10,
+    "c": 19,
+    "v": 11,
+    "t": "David stuurde de priesters Zadok en Abjathar naar de leiders van Juda met de vraag: ‘Waarom aarzelt u nog de koning te vragen terug te komen? Want heel Israël is er klaar voor, u bent de enigen die nog niet hebben toegestemd. Toch bent u mijn broeders, mijn eigen stam, mijn eigen vlees en bloed!’",
+    "h": "",
+    "o": 9,
+    "l": "11-12"
+  },
+  {
+    "id": "10019010",
+    "b": 10,
+    "c": 19,
+    "v": 13,
+    "t": "En hij droeg hun op tegen Amasa te zeggen: ‘Aangezien u mijn neef bent, mag God mij doden als ik u niet benoem tot opperbevelhebber van mijn leger in plaats van Joab.’",
+    "h": "",
+    "o": 10,
+    "l": "13"
+  },
+  {
+    "id": "10019011",
+    "b": 10,
+    "c": 19,
+    "v": 14,
+    "t": "Ten slotte overtuigde David de leiders van Juda en als één man kozen zij voor hem. Zij stuurden de koning de boodschap: ‘Kom bij ons terug en neem allen die bij u zijn met u mee.’",
+    "h": "",
+    "o": 11,
+    "l": "14"
+  },
+  {
+    "id": "10019012",
+    "b": 10,
+    "c": 19,
+    "v": 15,
+    "t": "Zo ging de koning terug naar Jeruzalem. En toen hij de Jordaan bereikte, leek het wel alsof heel Juda naar Gilgal was gekomen om hem te begroeten en te begeleiden bij de oversteek over de rivier!",
+    "h": "",
+    "o": 12,
+    "l": "15"
+  },
+  {
+    "id": "10019013",
+    "b": 10,
+    "c": 19,
+    "v": 16,
+    "t": "Simi, de zoon van de Benjaminiet Gera, de man uit Bahurim, haastte zich met de mannen van Juda over de rivier om koning David welkom te heten.",
+    "h": "",
+    "o": 13,
+    "l": "16"
+  },
+  {
+    "id": "10019014",
+    "b": 10,
+    "c": 19,
+    "v": 17,
+    "t": "Hij had duizend man van de stam Benjamin bij zich, inclusief Sauls dienaar Ziba en diens vijftien zonen en twintig dienaren, zij renden allemaal vooruit om eerder dan de koning bij de Jordaan te komen.",
+    "h": "",
+    "o": 14,
+    "l": "17"
+  },
+  {
+    "id": "10019015",
+    "b": 10,
+    "c": 19,
+    "v": 18,
+    "t": "Terwijl de veerpont de Jordaan overstak om de koning en zijn familie op te halen, viel Simi voor David neer",
+    "h": "",
+    "o": 15,
+    "l": "18"
+  },
+  {
+    "id": "10019016",
+    "b": 10,
+    "c": 19,
+    "v": 19,
+    "t": "en zei: ‘Koning, vergeef mij alstublieft en vergeet de wandaad die ik beging toen u Jeruzalem verliet,",
+    "h": "",
+    "o": 16,
+    "l": "19"
+  },
+  {
+    "id": "10019017",
+    "b": 10,
+    "c": 19,
+    "v": 20,
+    "t": "want nu weet ik pas hoezeer ik toen zondigde. Daarom ben ik u hier vandaag tegemoet gekomen, als allereerste vertegenwoordiger van de stam van Jozef die u verwelkomt.’",
+    "h": "",
+    "o": 17,
+    "l": "20"
+  },
+  {
+    "id": "10019018",
+    "b": 10,
+    "c": 19,
+    "v": 21,
+    "t": "Abisaï vroeg: ‘Moet Simi eigenlijk niet sterven, omdat hij de door God gezalfde koning heeft vervloekt?’",
+    "h": "",
+    "o": 18,
+    "l": "21"
+  },
+  {
+    "id": "10019019",
+    "b": 10,
+    "c": 19,
+    "v": 22,
+    "t": "‘Houdt u erbuiten en val me niet lastig!’ beet de koning hem toe. ‘Dit is geen dag voor doodstraffen, maar voor feestvreugde! Ik ben opnieuw koning van Israël geworden.’",
+    "h": "",
+    "o": 19,
+    "l": "22"
+  },
+  {
+    "id": "10019020",
+    "b": 10,
+    "c": 19,
+    "v": 23,
+    "t": "Hij wendde zich tot Simi en zwoer: ‘Uw leven wordt gespaard.’",
+    "h": "",
+    "o": 20,
+    "l": "23"
+  },
+  {
+    "id": "10019021",
+    "b": 10,
+    "c": 19,
+    "v": 24,
+    "t": "Ook Sauls kleinzoon Mefiboseth kwam uit Jeruzalem om de koning te begroeten. Hij had zijn voeten en kleren niet gewassen en zijn baard niet geschoren sinds de dag dat de koning Jeruzalem had verlaten. ‘Waarom bent u toen niet met mij meegegaan, Mefiboseth?’ vroeg de koning hem.",
+    "h": "",
+    "o": 21,
+    "l": "24-25"
+  },
+  {
+    "id": "10019022",
+    "b": 10,
+    "c": 19,
+    "v": 26,
+    "t": "Hij antwoordde: ‘Koning, mijn dienaar Ziba heeft mij bedrogen. Ik zei tegen hem: “Zadel mijn ezel, zodat ik met de koning mee kan gaan.” Want u weet dat ik verlamd ben.",
+    "h": "",
+    "o": 22,
+    "l": "26"
+  },
+  {
+    "id": "10019023",
+    "b": 10,
+    "c": 19,
+    "v": 27,
+    "t": "Maar Ziba heeft mij bij u zwart gemaakt door te zeggen dat ik niet wilde komen. Maar ik weet dat u als een engel van God bent, doe daarom wat u denkt dat het beste is.",
+    "h": "",
+    "o": 23,
+    "l": "27"
+  },
+  {
+    "id": "10019024",
+    "b": 10,
+    "c": 19,
+    "v": 28,
+    "t": "Ik en al mijn verwanten konden alleen de dood van u verwachten, maar in plaats daarvan hebt u mij geëerd door mij samen met uw vaste gasten aan uw eigen tafel te laten eten! Waarover zou ik dus moeten klagen?’",
+    "h": "",
+    "o": 24,
+    "l": "28"
+  },
+  {
+    "id": "10019025",
+    "b": 10,
+    "c": 19,
+    "v": 29,
+    "t": "‘Praat niet zoveel over het verleden,’ zei David, ‘ik draai de zaak terug en het zal weer net als vroeger worden toen u en Ziba allebei van het land profijt hadden.’",
+    "h": "",
+    "o": 25,
+    "l": "29"
+  },
+  {
+    "id": "10019026",
+    "b": 10,
+    "c": 19,
+    "v": 30,
+    "t": "‘Geef het hem maar helemaal,’ zei Mefiboseth. ‘Ik ben al lang tevreden dat u gezond en wel terug bent.’",
+    "h": "",
+    "o": 26,
+    "l": "30"
+  },
+  {
+    "id": "10019027",
+    "b": 10,
+    "c": 19,
+    "v": 31,
+    "t": "Barzillai, die voor eten voor de koning en zijn leger had gezorgd toen zij in Machanaïm verbleven, arriveerde uit Rogelim om de koning over de Jordaan uitgeleide te doen. Hij was al erg oud, ongeveer tachtig jaar, en ook zeer rijk.",
+    "h": "",
+    "o": 27,
+    "l": "31-32"
+  },
+  {
+    "id": "10019028",
+    "b": 10,
+    "c": 19,
+    "v": 33,
+    "t": "‘Ga met mij mee naar de overkant en kom in Jeruzalem wonen,’ zei de koning tegen Barzillai. ‘Ik zal wel voor u zorgen.’",
+    "h": "",
+    "o": 28,
+    "l": "33"
+  },
+  {
+    "id": "10019029",
+    "b": 10,
+    "c": 19,
+    "v": 34,
+    "t": "‘Nee,’ antwoordde hij, ‘daar ben ik nu al te oud voor.",
+    "h": "",
+    "o": 29,
+    "l": "34"
+  },
+  {
+    "id": "10019030",
+    "b": 10,
+    "c": 19,
+    "v": 35,
+    "t": "Ik ben nu tachtig jaar, wat valt er voor mij nog te genieten van het leven? Lekker eten en wijn smaken mij niet meer, de stemmen van zangers en zangeressen hoor ik nauwelijks meer. Ik zou alleen maar een last zijn voor de koning.",
+    "h": "",
+    "o": 30,
+    "l": "35"
+  },
+  {
+    "id": "10019031",
+    "b": 10,
+    "c": 19,
+    "v": 36,
+    "t": "Ik zou toch niet al te lang bij u kunnen zijn aan de overkant van de rivier en ik zie ook niet in waarvoor u mij zou moeten terugbetalen.",
+    "h": "",
+    "o": 31,
+    "l": "36"
+  },
+  {
+    "id": "10019032",
+    "b": 10,
+    "c": 19,
+    "v": 37,
+    "t": "Nee, laat mij maar teruggaan om in mijn eigen stad te sterven, waar mijn vader en moeder ook begraven liggen. Maar hier is Kimham. Laat hem maar met u meegaan en geef hem alle goede dingen die u hem wilt geven.’",
+    "h": "",
+    "o": 32,
+    "l": "37"
+  },
+  {
+    "id": "10019033",
+    "b": 10,
+    "c": 19,
+    "v": 38,
+    "t": "‘Goed,’ stemde de koning in. ‘Kimham gaat met mij mee en ik zal voor hem doen wat u wenst.’",
+    "h": "",
+    "o": 33,
+    "l": "38"
+  },
+  {
+    "id": "10019034",
+    "b": 10,
+    "c": 19,
+    "v": 39,
+    "t": "Zo stak iedereen de Jordaan over, samen met de koning en nadat David Barzillai had gekust en gezegend, keerde deze terug naar huis.",
+    "h": "",
+    "o": 34,
+    "l": "39"
+  },
+  {
+    "id": "10019035",
+    "b": 10,
+    "c": 19,
+    "v": 40,
+    "t": "De koning ging verder naar Gilgal en Kimham vergezelde hem evenals het overgrote deel van Juda en de helft van Israël.",
+    "h": "",
+    "o": 35,
+    "l": "40"
+  },
+  {
+    "id": "10019036",
+    "b": 10,
+    "c": 19,
+    "v": 41,
+    "t": "Maar de mannen van Israël beklaagden zich bij de koning over het feit dat alleen de mannen van Juda hem en zijn gevolg hadden geholpen bij de oversteek over de Jordaan.",
+    "h": "",
+    "o": 36,
+    "l": "41"
+  },
+  {
+    "id": "10019037",
+    "b": 10,
+    "c": 19,
+    "v": 42,
+    "t": "‘Maar wat is daartegen?’ vroegen de mannen van Juda. ‘De koning hoort toch bij onze stam? Waarom maakt u zich daar zo druk over? Wij hebben hem hiervoor niets laten betalen, hij heeft ons niets te eten gegeven en ons ook geen geschenken gegeven!’",
+    "h": "",
+    "o": 37,
+    "l": "42"
+  },
+  {
+    "id": "10019038",
+    "b": 10,
+    "c": 19,
+    "v": 43,
+    "t": "‘Maar Israël heeft tien stammen,’ antwoordden de anderen, ‘daarom hebben wij tienmaal zoveel recht op de koning als u, waarom hebt u ons ook niet uitgenodigd? En onthoud goed dat wij de eersten waren die het plan opperden hem terug te halen om opnieuw onze koning te worden.’ De discussie ging nog enige tijd voort, maar de mannen van Juda werden steeds feller in hun tegenwerpingen.",
+    "h": "",
+    "o": 38,
+    "l": "43"
+  },
+  {
+    "id": "10020001",
+    "b": 10,
+    "c": 20,
+    "v": 1,
+    "t": "Plotseling pakte een heethoofd, Seba, de zoon van de Benjaminiet Bikri, een bazuin, blies erop en schreeuwde: ‘Wij willen niets te maken hebben met David. Vooruit, mannen van Israël, laten we gaan. Hij is onze koning niet!’",
+    "h": "Seba door Davids lijfwacht achtervolgd",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "10020002",
+    "b": 10,
+    "c": 20,
+    "v": 2,
+    "t": "Zo verliet iedereen die plek en allen lieten David in de steek, uitgezonderd de mannen van Juda. Ze gingen achter Seba aan! Maar de mannen van Juda bleven bij hun koning en begeleidden hem van de Jordaan naar Jeruzalem.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "10020003",
+    "b": 10,
+    "c": 20,
+    "v": 3,
+    "t": "Toen zij bij zijn paleis in Jeruzalem aankwamen, beval David dat de tien vrouwen die hij had achtergelaten om voor het huishouden te zorgen, moesten worden opgesloten. Er moest goed voor hen worden gezorgd, zei hij, maar hij zou niet meer met hen slapen als met zijn vrouwen. Zo bleven deze vrouwen tot hun dood weduwen.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "10020004",
+    "b": 10,
+    "c": 20,
+    "v": 4,
+    "t": "Daarna gaf de koning Amasa opdracht het leger van Juda binnen drie dagen te mobiliseren en zich daarna opnieuw bij hem te melden.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "10020005",
+    "b": 10,
+    "c": 20,
+    "v": 5,
+    "t": "Amasa vertrok om de troepen op de been te brengen, maar hij had wel langer nodig dan de drie dagen die hem waren gegeven.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "10020006",
+    "b": 10,
+    "c": 20,
+    "v": 6,
+    "t": "Toen zei David tegen Abisaï: ‘Die Seba gaat ons meer moeilijkheden bezorgen dan Absalom. Snel, neem mijn lijfwacht en ga hem achterna, voordat hij een paar versterkte steden bereikt en nog meer kwaad aanricht.’",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "10020007",
+    "b": 10,
+    "c": 20,
+    "v": 7,
+    "t": "Zo zetten Abisaï en Joab met een keurkorps uit Joabs leger en Davids eigen lijfwacht de achtervolging op Seba in.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "10020008",
+    "b": 10,
+    "c": 20,
+    "v": 8,
+    "t": "Toen zij bij de grote steen in Gibeon aankwamen, stonden zij plotseling oog in oog met Amasa. Joab droeg zijn uniform met opzij een kort zwaard. Toen hij naar voren stapte om Amasa te begroeten, viel het zwaard uit de schede. ‘Hoe is het met u, mijn broeder,’ zei Joab en pakte hem met zijn rechterhand bij de baard om hem een kus te geven. Amasa zag het zwaard in zijn linkerhand niet en Joab stak Amasa zo hard in zijn buik dat zijn ingewanden naar buiten kwamen. Joab hoefde niet nog eens toe te steken en Amasa stierf ter plekke. Joab en zijn broer Abisaï zetten daarna de achtervolging op Seba voort.",
+    "h": "",
+    "o": 8,
+    "l": "8-10"
+  },
+  {
+    "id": "10020009",
+    "b": 10,
+    "c": 20,
+    "v": 11,
+    "t": "Een van Joabs jonge officieren schreeuwde naar Amasaʼs mannen: ‘Als jullie vóór David zijn, kom dan mee en volg Joab.’",
+    "h": "",
+    "o": 9,
+    "l": "11"
+  },
+  {
+    "id": "10020010",
+    "b": 10,
+    "c": 20,
+    "v": 12,
+    "t": "Maar het lijk van Amasa lag in een bloedplas midden op straat en toen de jonge officier van Joab zag dat er steeds meer mensen omheen gingen staan om te kijken, sleepte hij het lichaam naar een veld langs de weg en gooide er een kleed overheen.",
+    "h": "",
+    "o": 10,
+    "l": "12"
+  },
+  {
+    "id": "10020011",
+    "b": 10,
+    "c": 20,
+    "v": 13,
+    "t": "Nu het lijk niet meer op de weg lag, sloot iedereen zich bij Joab aan om Seba gevangen te nemen.",
+    "h": "",
+    "o": 11,
+    "l": "13"
+  },
+  {
+    "id": "10020012",
+    "b": 10,
+    "c": 20,
+    "v": 14,
+    "t": "Seba trok langs alle stammen van Israël en kwam ten slotte bij Abel en Bet-Maächa en Berim. Velen sloten zich bij hem aan.",
+    "h": "",
+    "o": 12,
+    "l": "14"
+  },
+  {
+    "id": "10020013",
+    "b": 10,
+    "c": 20,
+    "v": 15,
+    "t": "Toen Joabs troepen bij Abel aankwamen, belegerden zij deze stad. Zij bouwden een aarden wal die tot de bovenkant van de stadsmuur reikte en begonnen tegelijkertijd de muur te ondermijnen.",
+    "h": "",
+    "o": 13,
+    "l": "15"
+  },
+  {
+    "id": "10020014",
+    "b": 10,
+    "c": 20,
+    "v": 16,
+    "t": "Toen riep een wijze vrouw vanuit de stad: ‘Luister! Vraag Joab of hij hier wil komen, ik wil hem spreken.’",
+    "h": "",
+    "o": 14,
+    "l": "16"
+  },
+  {
+    "id": "10020015",
+    "b": 10,
+    "c": 20,
+    "v": 17,
+    "t": "Toen Joab verscheen, vroeg de vrouw hem: ‘Bent u Joab?’ En hij antwoordde: ‘Jazeker.’",
+    "h": "",
+    "o": 15,
+    "l": "17"
+  },
+  {
+    "id": "10020016",
+    "b": 10,
+    "c": 20,
+    "v": 18,
+    "t": "Zij zei tegen hem: ‘Vroeger bestond het gezegde: “Voor goede raad moet je in Abel zijn”. Pas als men dan hier was geweest, ging men iets ondernemen.",
+    "h": "",
+    "o": 16,
+    "l": "18"
+  },
+  {
+    "id": "10020017",
+    "b": 10,
+    "c": 20,
+    "v": 19,
+    "t": "U bent bezig een oude, vredelievende stad te verwoesten, die altijd als een moeder voor Israël is geweest. Is het goed dat u iets verwoest wat van de HERE is?’",
+    "h": "",
+    "o": 17,
+    "l": "19"
+  },
+  {
+    "id": "10020018",
+    "b": 10,
+    "c": 20,
+    "v": 20,
+    "t": "Joab antwoordde: ‘Daar gaat het helemaal niet om.",
+    "h": "",
+    "o": 18,
+    "l": "20"
+  },
+  {
+    "id": "10020019",
+    "b": 10,
+    "c": 20,
+    "v": 21,
+    "t": "Het enige dat wij willen is een man die Seba heet en uit het gebergte van Efraïm komt. Hij is in opstand gekomen tegen koning David. Als u hem aan mij uitlevert, zullen wij de stad verder ongemoeid laten.’ ‘Dat is goed,’ antwoordde de vrouw, ‘wij zullen zijn hoofd over de muur naar u toegooien.’",
+    "h": "",
+    "o": 19,
+    "l": "21"
+  },
+  {
+    "id": "10020020",
+    "b": 10,
+    "c": 20,
+    "v": 22,
+    "t": "Daarna ging de vrouw met haar wijze raad naar de mensen. Zij hakten Sebaʼs hoofd af en gooiden het over de muur naar Joab. Daarop blies deze op de bazuin en riep zijn troepen terug. Zij gingen terug naar de koning in Jeruzalem.",
+    "h": "",
+    "o": 20,
+    "l": "22"
+  },
+  {
+    "id": "10020021",
+    "b": 10,
+    "c": 20,
+    "v": 23,
+    "t": "Joab was nu weer opperbevelhebber van het leger en Benaja stond aan het hoofd van de lijfwacht van Keretieten en Peletieten.",
+    "h": "",
+    "o": 21,
+    "l": "23"
+  },
+  {
+    "id": "10020022",
+    "b": 10,
+    "c": 20,
+    "v": 24,
+    "t": "Adoram had de leiding over de dwangarbeiders en Josafat fungeerde als kanselier.",
+    "h": "",
+    "o": 22,
+    "l": "24"
+  },
+  {
+    "id": "10020023",
+    "b": 10,
+    "c": 20,
+    "v": 25,
+    "t": "Seja was secretaris en Zadok en Abjathar waren de overpriesters.",
+    "h": "",
+    "o": 23,
+    "l": "25"
+  },
+  {
+    "id": "10020024",
+    "b": 10,
+    "c": 20,
+    "v": 26,
+    "t": "De Jaïriet Ira was Davids persoonlijke priester.",
+    "h": "",
+    "o": 24,
+    "l": "26"
+  },
+  {
+    "id": "10021001",
+    "b": 10,
+    "c": 21,
+    "v": 1,
+    "t": "Gedurende Davids regering heerste drie jaar lang een hongersnood en David bad daarom veel. Toen zei de HERE : ‘De oorzaak van de hongersnood ligt in de schuld van Saul en zijn familie, want zij vermoordden destijds de Gibeonieten.’",
+    "h": "Sauls schuld vereffend",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "10021002",
+    "b": 10,
+    "c": 21,
+    "v": 2,
+    "t": "David liet de Gibeonieten bij zich komen. Zij hoorden niet bij het volk Israël, maar waren nakomelingen van de Amorieten. Israël had gezworen hen niet te doden, maar Saul had in zijn ijver voor het volk van Israël en Juda getracht hen uit te roeien.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "10021003",
+    "b": 10,
+    "c": 21,
+    "v": 3,
+    "t": "David vroeg hun: ‘Wat kan ik doen om onze schuld tegenover u weg te nemen en hoe kan ik u overhalen Gods volk te zegenen?’",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "10021004",
+    "b": 10,
+    "c": 21,
+    "v": 4,
+    "t": "‘Wel, geld zal niet helpen,’ meenden de Gibeonieten, ‘en wij willen ook niet dat uit vergelding Israëlieten worden gedood.’ ‘Maar wat kan ik dan wel voor u doen?’ vroeg David.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "10021005",
+    "b": 10,
+    "c": 21,
+    "v": 5,
+    "t": "Hun antwoord luidde: ‘Geef ons zeven zonen van Saul, de man die zijn uiterste best deed ons te vernietigen. Wij zullen hen voor de HERE in Gibeon, de stad van koning Saul, ophangen.’ De koning stemde daarmee in.",
+    "h": "",
+    "o": 5,
+    "l": "5-6"
+  },
+  {
+    "id": "10021006",
+    "b": 10,
+    "c": 21,
+    "v": 7,
+    "t": "Hij spaarde Jonathans zoon Mefiboseth, die een kleinzoon van Saul was, wegens de eed tussen hem en Jonathan.",
+    "h": "",
+    "o": 6,
+    "l": "7"
+  },
+  {
+    "id": "10021007",
+    "b": 10,
+    "c": 21,
+    "v": 8,
+    "t": "Maar hij gaf hun de twee zonen van Rizpa, Armoni en Mefiboseth, kleinzonen van Saul via zijn vrouw Ajja. Tevens gaf hij hun de vijf geadopteerde zonen van Merab, Sauls oudste dochter die getrouwd was met Adriël, de zoon van de Meholathiet Barzillai.",
+    "h": "",
+    "o": 7,
+    "l": "8"
+  },
+  {
+    "id": "10021008",
+    "b": 10,
+    "c": 21,
+    "v": 9,
+    "t": "De mannen van Gibeon hingen hen op de berg op voor de ogen van de HERE. Zo stierven zij alle zeven tegelijk bij het begin van de gerste-oogst.",
+    "h": "",
+    "o": 8,
+    "l": "9"
+  },
+  {
+    "id": "10021009",
+    "b": 10,
+    "c": 21,
+    "v": 10,
+    "t": "Toen spreidde Rizpa, de moeder van twee van de mannen, een stuk grove stof over de rotsbodem uit en sliep daar een half jaar gedurende de oogsttijd om te voorkomen dat overdag de gieren en ʼs nachts de wilde dieren de lijken verscheurden en opvraten.",
+    "h": "",
+    "o": 9,
+    "l": "10"
+  },
+  {
+    "id": "10021010",
+    "b": 10,
+    "c": 21,
+    "v": 11,
+    "t": "Toen David hoorde wat Rizpa, de dochter van Ajja en de bijvrouw van Saul, had gedaan,",
+    "h": "",
+    "o": 10,
+    "l": "11"
+  },
+  {
+    "id": "10021011",
+    "b": 10,
+    "c": 21,
+    "v": 12,
+    "t": "zorgde hij ervoor dat de beenderen van de mannen werden begraven in het graf van Sauls vader Kis. Tegelijkertijd stuurde hij mannen naar Jabes in Gilead om de beenderen van Saul en Jonathan daar weg te halen. De mannen van Jabes hadden de lijken destijds van het stadsplein in Bet-San weggehaald, waar de Filistijnen ze hadden opgehangen nadat zij waren gesneuveld op de berg Gilboa. Zo werd hun gebeente naar hem toegebracht. En eindelijk verhoorde God de gebeden en kwam er een einde aan de hongersnood.",
+    "h": "",
+    "o": 11,
+    "l": "12-14"
+  },
+  {
+    "id": "10021012",
+    "b": 10,
+    "c": 21,
+    "v": 15,
+    "t": "Rond diezelfde tijd waren de Filistijnen weer in oorlog met Israël. Toen hij en zijn mannen volop in het gevecht waren gewikkeld, raakte David uitgeput.",
+    "h": "",
+    "o": 12,
+    "l": "15"
+  },
+  {
+    "id": "10021013",
+    "b": 10,
+    "c": 21,
+    "v": 16,
+    "t": "Jisbi-Benob, een reus wiens speerpunt meer dan zes kilo woog en die in een volledig nieuwe wapenrusting rondliep, wist bij David in de buurt te komen en stond op het punt hem te doden.",
+    "h": "",
+    "o": 13,
+    "l": "16"
+  },
+  {
+    "id": "10021014",
+    "b": 10,
+    "c": 21,
+    "v": 17,
+    "t": "Abisaï, de zoon van Zeruja, zag echter wat er gebeurde. Hij schoot erop af en doodde de Filistijn. Daarna zwoeren Davids mannen: ‘U gaat niet meer mee als er moet worden gevochten! We mogen niet het risico lopen dat het licht van Israël wordt gedoofd!’",
+    "h": "",
+    "o": 14,
+    "l": "17"
+  },
+  {
+    "id": "10021015",
+    "b": 10,
+    "c": 21,
+    "v": 18,
+    "t": "Enige tijd later, tijdens een treffen met de Filistijnen bij Gob, doodde de Husathiet Sibbechai een andere reus, Saf genaamd.",
+    "h": "",
+    "o": 15,
+    "l": "18"
+  },
+  {
+    "id": "10021016",
+    "b": 10,
+    "c": 21,
+    "v": 19,
+    "t": "Nog later werd op diezelfde plaats de Gathiet Goliath gedood door Elhanan. De schacht van de speer van deze reus was net zo groot als een weversboom!",
+    "h": "",
+    "o": 16,
+    "l": "19"
+  },
+  {
+    "id": "10021017",
+    "b": 10,
+    "c": 21,
+    "v": 20,
+    "t": "En tijdens een ander treffen tussen de Filistijnen en de Israëlieten bij Gath, schold een reus met zes vingers aan elke hand en zes tenen aan elke voet Israël uit, waarna Davids neef Jonathan—de zoon van zijn broer Simea—hem doodde.",
+    "h": "",
+    "o": 17,
+    "l": "20-21"
+  },
+  {
+    "id": "10021018",
+    "b": 10,
+    "c": 21,
+    "v": 22,
+    "t": "Deze reuzen waren afstammelingen van Rafa uit Gath en werden gedood door David en zijn mannen.",
+    "h": "",
+    "o": 18,
+    "l": "22"
+  },
+  {
+    "id": "10022001",
+    "b": 10,
+    "c": 22,
+    "v": 1,
+    "t": "Nadat de HERE David had gered van Saul en al zijn andere vijanden, zong hij het volgende lied voor de HERE :",
+    "h": "Het lied van David",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "10022002",
+    "b": 10,
+    "c": 22,
+    "v": 2,
+    "t": "‘De HERE is mijn Rots, mijn Burcht en mijn Redder.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "10022003",
+    "b": 10,
+    "c": 22,
+    "v": 3,
+    "t": "Ik wil schuilen bij God, want Hij is mijn Rots en toevluchtsoord. Hij is mijn schild en mijn heil, mijn toevluchtsoord en hoge toren. O mijn Redder, dat U mij redde van al mijn vijanden.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "10022004",
+    "b": 10,
+    "c": 22,
+    "v": 4,
+    "t": "Ik zal de HERE loven, want Hij is het waard geprezen te worden, Hij zal mij redden van al mijn vijanden.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "10022005",
+    "b": 10,
+    "c": 22,
+    "v": 5,
+    "t": "De golven van de dood omspoelden mij, stormvloeden van kwaad stortten zich op mij.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "10022006",
+    "b": 10,
+    "c": 22,
+    "v": 6,
+    "t": "Ik zat in de val, onwrikbaar vastgebonden door hel en dood.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "10022007",
+    "b": 10,
+    "c": 22,
+    "v": 7,
+    "t": "Maar in mijn angst riep ik de HERE en vanuit zijn tempel hoorde Hij mij. Mijn hulpgeroep bereikte Hem.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "10022008",
+    "b": 10,
+    "c": 22,
+    "v": 8,
+    "t": "Toen schokte en trilde de aarde, de fundamenten van de hemel beefden door zijn toorn.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "10022009",
+    "b": 10,
+    "c": 22,
+    "v": 9,
+    "t": "Er kwam rook uit zijn neus en vuurtongen schoten uit zijn mond. Zij verteerden allen die voor Hem stonden en zetten de wereld in vuur en vlam.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "10022010",
+    "b": 10,
+    "c": 22,
+    "v": 10,
+    "t": "Hij liet de hemel neerbuigen en kwam naar de aarde, lopend over donkere wolken.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "10022011",
+    "b": 10,
+    "c": 22,
+    "v": 11,
+    "t": "Hij reed op een engel en vloog, Hij zweefde op de vleugels van de wind.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "10022012",
+    "b": 10,
+    "c": 22,
+    "v": 12,
+    "t": "Duisternis omringde Hem, overal om Hem heen waren zware wolken",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "10022013",
+    "b": 10,
+    "c": 22,
+    "v": 13,
+    "t": "en de aarde gloeide op door zijn glans.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "10022014",
+    "b": 10,
+    "c": 22,
+    "v": 14,
+    "t": "De HERE liet het vanuit de hemel donderen, God, de Allerhoogste, sprak met zijn machtige stem.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "10022015",
+    "b": 10,
+    "c": 22,
+    "v": 15,
+    "t": "Hij schoot zijn bliksempijlen weg en maakte zijn vijanden angstig.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "10022016",
+    "b": 10,
+    "c": 22,
+    "v": 16,
+    "t": "Door zijn vreselijke adem en zijn bestraffende woord spleet de zee open en kwam de zeebodem bloot.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "10022017",
+    "b": 10,
+    "c": 22,
+    "v": 17,
+    "t": "Hij redde mij van bovenaf en trok mij op uit het water.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "10022018",
+    "b": 10,
+    "c": 22,
+    "v": 18,
+    "t": "Hij redde mij van sterke vijanden, van hen die mij haatten en van hen die sterker waren dan ik.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "10022019",
+    "b": 10,
+    "c": 22,
+    "v": 19,
+    "t": "Zij stortten zich op mij tijdens de dag van mijn ongeluk. Maar de HERE was mijn heil.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "10022020",
+    "b": 10,
+    "c": 22,
+    "v": 20,
+    "t": "Hij bevrijdde en redde mij, want ik was goed in zijn ogen.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "10022021",
+    "b": 10,
+    "c": 22,
+    "v": 21,
+    "t": "De HERE beloonde mij voor mijn goedheid, want mijn handen waren onbevuild.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "10022022",
+    "b": 10,
+    "c": 22,
+    "v": 22,
+    "t": "Ik heb de geboden van mijn God niet overtreden en ben van zijn weg niet afgeweken.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "10022023",
+    "b": 10,
+    "c": 22,
+    "v": 23,
+    "t": "Ik kende zijn wetten en gehoorzaamde deze.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "10022024",
+    "b": 10,
+    "c": 22,
+    "v": 24,
+    "t": "Ik was volgzaam tot en met en zorgde ervoor dat ik geen onrecht deed.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "10022025",
+    "b": 10,
+    "c": 22,
+    "v": 25,
+    "t": "Daarom heeft de HERE zoveel voor mij gedaan, want Hij ziet dat ik vlekkeloos ben.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "10022026",
+    "b": 10,
+    "c": 22,
+    "v": 26,
+    "t": "U bent goed voor de goeden, U toont Zich onberispelijk tegenover de onberispelijken.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "10022027",
+    "b": 10,
+    "c": 22,
+    "v": 27,
+    "t": "U toont Zich rein tegenover de reinen en sluw tegenover de leugenaars.",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "10022028",
+    "b": 10,
+    "c": 22,
+    "v": 28,
+    "t": "Wie het moeilijk hebben, redt U, maar U vernedert de hoogmoedigen, want U ziet alles wat zij doen.",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "10022029",
+    "b": 10,
+    "c": 22,
+    "v": 29,
+    "t": "O HERE, U bent mijn licht! U verlicht mijn duisternis.",
+    "h": "",
+    "o": 29,
+    "l": "29"
+  },
+  {
+    "id": "10022030",
+    "b": 10,
+    "c": 22,
+    "v": 30,
+    "t": "Door uw kracht kan ik een heel leger verslaan en spring ik over een hoge muur.",
+    "h": "",
+    "o": 30,
+    "l": "30"
+  },
+  {
+    "id": "10022031",
+    "b": 10,
+    "c": 22,
+    "v": 31,
+    "t": "Gods weg is volmaakt, het woord van de HERE is waar. Hij beschermt allen die zich aan Hem toevertrouwen.",
+    "h": "",
+    "o": 31,
+    "l": "31"
+  },
+  {
+    "id": "10022032",
+    "b": 10,
+    "c": 22,
+    "v": 32,
+    "t": "Alleen onze HERE is God, wie is een Rots buiten onze HERE.",
+    "h": "",
+    "o": 32,
+    "l": "32"
+  },
+  {
+    "id": "10022033",
+    "b": 10,
+    "c": 22,
+    "v": 33,
+    "t": "God is mijn sterke Burcht, Hij heeft mij in veiligheid gebracht.",
+    "h": "",
+    "o": 33,
+    "l": "33"
+  },
+  {
+    "id": "10022034",
+    "b": 10,
+    "c": 22,
+    "v": 34,
+    "t": "Hij zorgt dat de goeden veilig kunnen lopen, als klipgeiten over de rotsen.",
+    "h": "",
+    "o": 34,
+    "l": "34"
+  },
+  {
+    "id": "10022035",
+    "b": 10,
+    "c": 22,
+    "v": 35,
+    "t": "Hij maakt mij bekwaam voor de strijd en geeft mij kracht om een koperen boog te spannen.",
+    "h": "",
+    "o": 35,
+    "l": "35"
+  },
+  {
+    "id": "10022036",
+    "b": 10,
+    "c": 22,
+    "v": 36,
+    "t": "U hebt mij het schild van uw heil gegeven. Door mij te verhoren, hebt U mij grootgemaakt.",
+    "h": "",
+    "o": 36,
+    "l": "36"
+  },
+  {
+    "id": "10022037",
+    "b": 10,
+    "c": 22,
+    "v": 37,
+    "t": "U hebt een pad voor mij gereedgemaakt, zodat ik niet kon uitglijden.",
+    "h": "",
+    "o": 37,
+    "l": "37"
+  },
+  {
+    "id": "10022038",
+    "b": 10,
+    "c": 22,
+    "v": 38,
+    "t": "Ik heb mijn vijanden achtervolgd en hen verslagen. Ik hield pas op toen zij allemaal waren verdwenen.",
+    "h": "",
+    "o": 38,
+    "l": "38"
+  },
+  {
+    "id": "10022039",
+    "b": 10,
+    "c": 22,
+    "v": 39,
+    "t": "Ik heb hen vernietigd, zodat er niet één meer kan opstaan. Zij zijn onder mijn voet ten val gekomen.",
+    "h": "",
+    "o": 39,
+    "l": "39"
+  },
+  {
+    "id": "10022040",
+    "b": 10,
+    "c": 22,
+    "v": 40,
+    "t": "Want U hebt mij kracht gegeven in de strijd en ervoor gezorgd dat ik iedereen die tegen mij opstond, kon onderwerpen.",
+    "h": "",
+    "o": 40,
+    "l": "40"
+  },
+  {
+    "id": "10022041",
+    "b": 10,
+    "c": 22,
+    "v": 41,
+    "t": "U liet mijn vijanden op de vlucht slaan en wegrennen. Ik heb hen allemaal verslagen.",
+    "h": "",
+    "o": 41,
+    "l": "41"
+  },
+  {
+    "id": "10022042",
+    "b": 10,
+    "c": 22,
+    "v": 42,
+    "t": "Zij zochten zonder resultaat naar hulp. Zij riepen tot God, maar Hij weigerde te antwoorden.",
+    "h": "",
+    "o": 42,
+    "l": "42"
+  },
+  {
+    "id": "10022043",
+    "b": 10,
+    "c": 22,
+    "v": 43,
+    "t": "Ik vermaalde hen tot stof, sloeg hen uiteen en doodde hen, ruimde hen op als waardeloos vuil in de straat.",
+    "h": "",
+    "o": 43,
+    "l": "43"
+  },
+  {
+    "id": "10022044",
+    "b": 10,
+    "c": 22,
+    "v": 44,
+    "t": "U hielp mij te ontkomen aan de opstandigheid van mijn volk. U liet mij voortbestaan zelfs aan het hoofd van heidense volken. Buitenlanders zullen mij dienen",
+    "h": "",
+    "o": 44,
+    "l": "44"
+  },
+  {
+    "id": "10022045",
+    "b": 10,
+    "c": 22,
+    "v": 45,
+    "t": "en zich snel aan mij onderwerpen als zij horen van mijn macht.",
+    "h": "",
+    "o": 45,
+    "l": "45"
+  },
+  {
+    "id": "10022046",
+    "b": 10,
+    "c": 22,
+    "v": 46,
+    "t": "Zij zullen de moed laten zakken en bevend bij mij komen vanuit hun schuilplaatsen.",
+    "h": "",
+    "o": 46,
+    "l": "46"
+  },
+  {
+    "id": "10022047",
+    "b": 10,
+    "c": 22,
+    "v": 47,
+    "t": "De HERE leeft, gezegend zij mijn Rots. Geprezen zij Hij, de Rots van mijn heil.",
+    "h": "",
+    "o": 47,
+    "l": "47"
+  },
+  {
+    "id": "10022048",
+    "b": 10,
+    "c": 22,
+    "v": 48,
+    "t": "Gezegend zij God, die mijn tegenstanders verslaat",
+    "h": "",
+    "o": 48,
+    "l": "48"
+  },
+  {
+    "id": "10022049",
+    "b": 10,
+    "c": 22,
+    "v": 49,
+    "t": "en mij van mijn vijanden redt. Ja, U houdt mij veilig vast, zodat ik boven hen word verhoogd, U beschermt mij tegen het geweld.",
+    "h": "",
+    "o": 49,
+    "l": "49"
+  },
+  {
+    "id": "10022050",
+    "b": 10,
+    "c": 22,
+    "v": 50,
+    "t": "Daarom loof ik uw naam, o HERE, onder de volken en zing tot uw eer.",
+    "h": "",
+    "o": 50,
+    "l": "50"
+  },
+  {
+    "id": "10022051",
+    "b": 10,
+    "c": 22,
+    "v": 51,
+    "t": "Hij redt zijn koning keer op keer op een wonderbaarlijke manier en is genadig voor de gezalfde, voor David en zijn familie, voor nu en altijd.’",
+    "h": "",
+    "o": 51,
+    "l": "51"
+  },
+  {
+    "id": "10023001",
+    "b": 10,
+    "c": 23,
+    "v": 1,
+    "t": "Hier volgen de laatste woorden van David: ‘David, de zoon van Isaï, spreekt. David, de man die door God werd grootgemaakt. David, de gezalfde van de God van Jakob. David, de lieflijke psalmist van Israël:",
+    "h": "De laatste woorden van David",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "10023002",
+    "b": 10,
+    "c": 23,
+    "v": 2,
+    "t": "De Geest van de HERE sprak door mij en zijn woord lag op mijn tong.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "10023003",
+    "b": 10,
+    "c": 23,
+    "v": 3,
+    "t": "De Rots van Israël zei tegen mij: “Wie rechtvaardig heerst over de mensen, heerst in diep ontzag voor God.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "10023004",
+    "b": 10,
+    "c": 23,
+    "v": 4,
+    "t": "Hij is als het morgenlicht, een wolkeloze dageraad, als de zonneschijn na de regen, waarna het tere gras uit de aarde omhoog springt.”",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "10023005",
+    "b": 10,
+    "c": 23,
+    "v": 5,
+    "t": "Is het niet waar dat het zo met mijn nageslacht zal gaan? Ja, want God heeft een eeuwig verbond met mij gesloten, zijn overeenkomst is eeuwig en voor altijd bezegeld. Hij zal Zich steeds blijven bekommeren om mijn veiligheid en heil.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "10023006",
+    "b": 10,
+    "c": 23,
+    "v": 6,
+    "t": "Maar de goddelozen zijn als dorens die worden weggegooid, want zij beschadigen de hand die hen aanraakt.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "10023007",
+    "b": 10,
+    "c": 23,
+    "v": 7,
+    "t": "Men moet gereedschap hebben om ze op te ruimen, zij zullen worden verbrand.’",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "10023008",
+    "b": 10,
+    "c": 23,
+    "v": 8,
+    "t": "Dit zijn de namen van de dapperste helden uit Davids leger: de eerste was de Eskiet Adino, een inwoner van de stad Schebeth van de Tachkemonieten. Eens doodde hij tijdens een gevecht in zijn eentje achthonderd mannen.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "10023009",
+    "b": 10,
+    "c": 23,
+    "v": 9,
+    "t": "Na hem kwam Eleazar, de zoon van Dodo en een kleinzoon van een Ahohiet. Hij was een van de drie mannen die samen met David de Filistijnen tegenhielden toen de rest van het leger op de vlucht sloeg.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "10023010",
+    "b": 10,
+    "c": 23,
+    "v": 10,
+    "t": "Hij doodde de Filistijnen totdat hij van vermoeidheid kramp in zijn hand kreeg en zijn zwaard niet meer kon loslaten. De HERE gaf die dag een grote overwinning. De rest van het leger kwam pas terug toen de buit moest worden binnengehaald!",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "10023011",
+    "b": 10,
+    "c": 23,
+    "v": 11,
+    "t": "Na hem volgde Samma, de zoon van de Harariet Age. Eens, tijdens een Filistijnse aanval waarbij al zijn mannen er vandoor gingen, hield hij alleen stand op een stuk bouwgrond en sloeg de Filistijnen terug. God gaf ook door hem een grote overwinning.",
+    "h": "",
+    "o": 11,
+    "l": "11-12"
+  },
+  {
+    "id": "10023012",
+    "b": 10,
+    "c": 23,
+    "v": 13,
+    "t": "Toen David in de grot van Adullam verbleef en het invasieleger van de Filistijnen zich in het dal van Refaïm bevond, gingen drie van de dertig hoogste officieren van het Israëlitische leger in de oogsttijd naar hem toe om hem een bezoek te brengen.",
+    "h": "",
+    "o": 12,
+    "l": "13"
+  },
+  {
+    "id": "10023013",
+    "b": 10,
+    "c": 23,
+    "v": 14,
+    "t": "David was op dat moment in de vesting op de berg, want Filistijnse stoottroepen hadden kort daarvoor het dichtbijgelegen Bethlehem ingenomen.",
+    "h": "",
+    "o": 13,
+    "l": "14"
+  },
+  {
+    "id": "10023014",
+    "b": 10,
+    "c": 23,
+    "v": 15,
+    "t": "David zei: ‘Ik heb zin in een beker helder water uit de stadsput in Bethlehem.’ Die put lag vlakbij de stadspoort.",
+    "h": "",
+    "o": 14,
+    "l": "15"
+  },
+  {
+    "id": "10023015",
+    "b": 10,
+    "c": 23,
+    "v": 16,
+    "t": "Daarop braken de drie mannen door de Filistijnse linies heen, haalden water uit de put en brachten het naar David. Maar hij wilde er niet van drinken! In plaats daarvan goot hij het op de grond voor de HERE.",
+    "h": "",
+    "o": 15,
+    "l": "16"
+  },
+  {
+    "id": "10023016",
+    "b": 10,
+    "c": 23,
+    "v": 17,
+    "t": "‘Nee, mijn God,’ riep hij uit, ‘ik kan onmogelijk van dit water drinken! Dit is het bloed van de mannen die hun leven hebben gewaagd.’",
+    "h": "",
+    "o": 16,
+    "l": "17"
+  },
+  {
+    "id": "10023017",
+    "b": 10,
+    "c": 23,
+    "v": 18,
+    "t": "Van deze drie mannen was Abisaï, de broer van Joab en een zoon van Zeruja, de grootste. Eens versloeg hij helemaal alleen driehonderd vijanden en doodde hen allemaal. Door dergelijke daden kreeg hij eenzelfde reputatie als de eerdergenoemde drie helden, ook al maakte hij geen deel van hen uit. Maar wel was hij de belangrijkste man van de dertig hoogste legerofficieren en tevens hun leider.",
+    "h": "",
+    "o": 17,
+    "l": "18-19"
+  },
+  {
+    "id": "10023018",
+    "b": 10,
+    "c": 23,
+    "v": 20,
+    "t": "Verder was er dan nog Benaja, de zoon van Jojada, een moedige soldaat uit Kabzeël. Benaja doodde twee helden, zonen van Ariël, uit het leger van Moab. Een andere keer liet hij zich in een kuil zakken, waarin een leeuw terecht was gekomen. Hoewel er sneeuw lag en alles glad was, doodde hij de leeuw.",
+    "h": "",
+    "o": 18,
+    "l": "20"
+  },
+  {
+    "id": "10023019",
+    "b": 10,
+    "c": 23,
+    "v": 21,
+    "t": "Weer een andere keer bond hij, slechts gewapend met een stok, de strijd aan met een Egyptenaar die een speer had. Hij wrong de speer uit de handen van de Egyptenaar en doodde hem met zijn eigen wapen.",
+    "h": "",
+    "o": 19,
+    "l": "21"
+  },
+  {
+    "id": "10023020",
+    "b": 10,
+    "c": 23,
+    "v": 22,
+    "t": "Dit waren enkele wapenfeiten die Benaja bijna net zo beroemd maakten als de drie eerstgenoemden, tot wie hij echter niet gerekend werd.",
+    "h": "",
+    "o": 20,
+    "l": "22"
+  },
+  {
+    "id": "10023021",
+    "b": 10,
+    "c": 23,
+    "v": 23,
+    "t": "Ook hij was een van de grootsten onder de dertig officieren. David benoemde hem tot hoofd van zijn lijfwacht.",
+    "h": "",
+    "o": 21,
+    "l": "23"
+  },
+  {
+    "id": "10023022",
+    "b": 10,
+    "c": 23,
+    "v": 24,
+    "t": "Joabs broer Asaël hoorde ook bij de dertig officieren. Anderen waren: Elhanan, de zoon van Dodo uit Bethlehem; Samma uit Harod; Elika uit Harod; Helez uit Palti; Ira, de zoon van Ikkes uit Tekoa; Abiëzer uit Anathot; de Husathiet Mebunnai; de Ahohiet Zalmon; de Netofathiet Maharai; Heleb, de zoon van de Netofathiet Baäna; Ittai, de zoon van Ribai uit Gibea, van de stam van Benjamin; de Pirathoniet Benaja; Hiddai uit de dalen van Gaäs; de Arbathiet Abialbon; Azmaveth uit Bahurim; de Saälboniet Eljahba; de zonen van Jasen waaronder Jonathan; de Harariet Samma; Ahiam, de zoon van de Harariet Sarar; Elifelet, de zoon van Ahasbai uit Maächa; Eliam, de zoon van Achitofel uit Gilo; Hezrai uit Karmel; Paërai uit Arba; Jigal, de zoon van Nathan uit Zoba; Bani uit Gad; de Ammoniet Zelek; Naharai uit Beëroth, de wapendrager van Joab; de Jethrieten Ira en Gareb en ten slotte de Hethiet Uria; zevenendertig in totaal.",
+    "h": "",
+    "o": 22,
+    "l": "24-39"
+  },
+  {
+    "id": "10024001",
+    "b": 10,
+    "c": 24,
+    "v": 1,
+    "t": "Opnieuw kwam de toorn van de HERE tegen Israël tot uitbarsting en Hij gaf David opdracht maatregelen te nemen door een volkstelling onder Israël en Juda te houden.",
+    "h": "De toorn van God",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "10024002",
+    "b": 10,
+    "c": 24,
+    "v": 2,
+    "t": "De koning zei tegen Joab, de opperbevelhebber van zijn leger: ‘Houd een telling onder alle stammen van het ene eind van het land tot het andere, zodat ik te weten kom hoeveel mensen er zijn.’",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "10024003",
+    "b": 10,
+    "c": 24,
+    "v": 3,
+    "t": "Maar Joab antwoordde: ‘God geve u nog zoveel tijd van leven dat u de dag meemaakt dat er honderdmaal zoveel mensen in uw koninkrijk zijn als nu. Maar waarom wilt u per se een volkstelling houden?’",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "10024004",
+    "b": 10,
+    "c": 24,
+    "v": 4,
+    "t": "De koning was niet van zijn plan af te brengen, zodat Joab en de andere legerofficieren niets anders te doen stond dan eropuit gaan om het volk Israël te tellen.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "10024005",
+    "b": 10,
+    "c": 24,
+    "v": 5,
+    "t": "Allereerst staken zij de Jordaan over en sloegen een kamp op bij Aroër, ten zuiden van de stad die midden in de vallei van Gad ligt, vlakbij Jazer.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "10024006",
+    "b": 10,
+    "c": 24,
+    "v": 6,
+    "t": "Daarna gingen zij naar Gilead in het land Tachtim Hodsi, naar Dan-Jaän en zo verder naar Sidon.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "10024007",
+    "b": 10,
+    "c": 24,
+    "v": 7,
+    "t": "Vervolgens kwamen zij bij de vesting Tyrus en alle steden van de Chiwwieten en Kanaänieten, vanwaar zij verder trokken naar het Zuiden, naar Juda, tot aan Berseba.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "10024008",
+    "b": 10,
+    "c": 24,
+    "v": 8,
+    "t": "Zo trokken zij het hele land door en kwamen na negen maanden en twintig dagen in Jeruzalem terug.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "10024009",
+    "b": 10,
+    "c": 24,
+    "v": 9,
+    "t": "Joab rapporteerde de bevolkingsaantallen aan de koning: achthonderdduizend mannen van dienstplichtige leeftijd in Israël en vijfhonderdduizend in Juda.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "10024010",
+    "b": 10,
+    "c": 24,
+    "v": 10,
+    "t": "Maar nadat de volkstelling was voltooid, kreeg David last van zijn geweten en zei tegen de HERE : ‘Ik heb zwaar gezondigd. Vergeeft U mij alstublieft deze domme en goddeloze daad.’",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "10024011",
+    "b": 10,
+    "c": 24,
+    "v": 11,
+    "t": "De volgende morgen sprak de HERE tegen de profeet Gad, die altijd de woorden van God aan David overbracht. De HERE zei tegen Gad:",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "10024012",
+    "b": 10,
+    "c": 24,
+    "v": 12,
+    "t": "‘Zeg tegen David dat Ik hem uit drie dingen zal laten kiezen.’",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "10024013",
+    "b": 10,
+    "c": 24,
+    "v": 13,
+    "t": "Daarna zocht Gad David op en vroeg hem: ‘Waar kiest u voor: zeven jaar hongersnood in het hele land, drie maanden lang vluchten voor uw vijanden of drie dagen lang pest in uw land? Denk hierover na en laat mij dan weten welk antwoord ik God moet geven.’",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "10024014",
+    "b": 10,
+    "c": 24,
+    "v": 14,
+    "t": "David werd vreselijk bang en zei: ‘Het is beter in handen van God te vallen, want zijn genade is groot, dan in de handen van mensen.’",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "10024015",
+    "b": 10,
+    "c": 24,
+    "v": 15,
+    "t": "En zo stuurde de HERE die ochtend de pest over Israël, die drie dagen duurde. In het hele land stierven zeventigduizend mensen.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "10024016",
+    "b": 10,
+    "c": 24,
+    "v": 16,
+    "t": "Maar toen de engel op het punt stond Jeruzalem te vernietigen, kreeg de HERE spijt en gaf hem opdracht te stoppen. De engel stond op dat moment bij de dorsvloer van de Jebusiet Arauna.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "10024017",
+    "b": 10,
+    "c": 24,
+    "v": 17,
+    "t": "Toen David de engel zag, zei hij tegen de HERE : ‘Ik ben degene die heeft gezondigd. Wat heeft dit volk gedaan? Keer uw toorn toch alleen tegen mij en mijn familie.’",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "10024018",
+    "b": 10,
+    "c": 24,
+    "v": 18,
+    "t": "Die dag ging Gad naar David en zei tegen hem: ‘Bouw een altaar voor de HERE op de dorsvloer van de Jebusiet Arauna.’",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "10024019",
+    "b": 10,
+    "c": 24,
+    "v": 19,
+    "t": "David ging er naartoe om te doen wat de HERE hem had bevolen.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "10024020",
+    "b": 10,
+    "c": 24,
+    "v": 20,
+    "t": "Toen Arauna de koning en zijn mannen naar zijn huis zag komen, liep hij hen tegemoet en liet zich voorover op de stoffige grond vallen.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "10024021",
+    "b": 10,
+    "c": 24,
+    "v": 21,
+    "t": "‘Waarom komt u naar mij?’ vroeg hij. David antwoordde: ‘Om uw dorsvloer te kopen, zodat ik hier een altaar voor de HERE kan bouwen. Dan zal Hij een einde maken aan de plaag.’",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "10024022",
+    "b": 10,
+    "c": 24,
+    "v": 22,
+    "t": "‘U mag gebruiken wat u maar wilt,’ zei Arauna tegen de koning. ‘Daar staan ossen voor het brandoffer en u kunt de dorsgereedschappen en de jukken van de ossen gebruiken als brandhout voor het altaar.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "10024023",
+    "b": 10,
+    "c": 24,
+    "v": 23,
+    "t": "Ik zal het u allemaal geven en ik hoop dat de HERE God uw offer zal aanvaarden.’",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "10024024",
+    "b": 10,
+    "c": 24,
+    "v": 24,
+    "t": "Maar de koning zei tegen Arauna: ‘Nee, ik wil niet dat u het mij schenkt. Ik zal het kopen, want ik wil de HERE, mijn God, geen brandoffers aanbieden die mij niets hebben gekost.’ Daarom betaalde David hem vijftig zilverstukken voor de dorsvloer en de ossen.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "10024025",
+    "b": 10,
+    "c": 24,
+    "v": 25,
+    "t": "Daar bouwde hij een altaar voor de HERE en bracht brandoffers en vredeoffers. En de HERE verhoorde zijn gebed, de plaag hield op.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  }
+]

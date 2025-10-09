@@ -1,0 +1,4372 @@
+[
+  {
+    "id": "53001001",
+    "b": 53,
+    "c": 1,
+    "v": 1,
+    "t": "Paul, an apostle of Jesus Christ, called by the will of God, and Sosthenes our brother,",
+    "h": "CHAPTER ONE",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "53001002",
+    "b": 53,
+    "c": 1,
+    "v": 2,
+    "t": "To the church of God that is in Corinth, the called saints who have been sanctified in Christ Jesus, together with all those in every place who are calling on the name of Jesus Christ our Lord, both theirs and ours:",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "53001003",
+    "b": 53,
+    "c": 1,
+    "v": 3,
+    "t": "Grace and peace be to you from God our Father and the Lord Jesus Christ.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "53001004",
+    "b": 53,
+    "c": 1,
+    "v": 4,
+    "t": "I thank my God always concerning you, for the grace of God that has been given to you in Christ Jesus;",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "53001005",
+    "b": 53,
+    "c": 1,
+    "v": 5,
+    "t": "And that you have been spiritually enriched in Him in everything, in all discourse and knowledge,",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "53001006",
+    "b": 53,
+    "c": 1,
+    "v": 6,
+    "t": "According as the testimony of Christ was confirmed in you;",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "53001007",
+    "b": 53,
+    "c": 1,
+    "v": 7,
+    "t": "So that you do not lack even one spiritual gift while you are awaiting the revelation of our Lord Jesus Christ,",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "53001008",
+    "b": 53,
+    "c": 1,
+    "v": 8,
+    "t": "Who will also strengthen you to the end that you may be unimpeachable in the day of our Lord Jesus Christ.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "53001009",
+    "b": 53,
+    "c": 1,
+    "v": 9,
+    "t": "God is faithful, by Whom you were called into the fellowship of His Son, Jesus Christ our Lord.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "53001010",
+    "b": 53,
+    "c": 1,
+    "v": 10,
+    "t": "Now I exhort you, brethren, by the name of our Lord Jesus Christ, that you all speak the same thing, and that there be no divisions among you; rather, that you be knit together in the same mind and in the same judgment.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "53001011",
+    "b": 53,
+    "c": 1,
+    "v": 11,
+    "t": "For my brethren, it has been declared to me concerning you, by those of the house of Chloe, that there are contentions among you.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "53001012",
+    "b": 53,
+    "c": 1,
+    "v": 12,
+    "t": "Now this I say, since everyone among you says, “I am of Paul”; or, “I am of Apollos”; or, “I am of Cephas”; or “I am of Christ.”",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "53001013",
+    "b": 53,
+    "c": 1,
+    "v": 13,
+    "t": "Has Christ been divided? Was Paul crucified for you? Or were you baptized into the name of Paul?",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "53001014",
+    "b": 53,
+    "c": 1,
+    "v": 14,
+    "t": "I thank God that I did not baptize any of you, except Crispus and Gaius,",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "53001015",
+    "b": 53,
+    "c": 1,
+    "v": 15,
+    "t": "Lest someone should say that I baptized new converts into my own name.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "53001016",
+    "b": 53,
+    "c": 1,
+    "v": 16,
+    "t": "But I also baptized the household of Stephanas; as for any others, I do not know if I baptized anyone else.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "53001017",
+    "b": 53,
+    "c": 1,
+    "v": 17,
+    "t": "For Christ did not send me to baptize, but to preach the gospel—not with the wisdom of words, lest the cross of Christ be made void.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "53001018",
+    "b": 53,
+    "c": 1,
+    "v": 18,
+    "t": "For to those who are perishing, the preaching of the cross is foolishness; but to us who are being saved, it is the power of God.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "53001019",
+    "b": 53,
+    "c": 1,
+    "v": 19,
+    "t": "For it is written, “I will destroy the wisdom of the wise, and I will nullify the understanding of those who understand.”",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "53001020",
+    "b": 53,
+    "c": 1,
+    "v": 20,
+    "t": "Where is the wise? Where is the scribe? Where is the disputer of this age? Did not God make foolish the wisdom of this world?",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "53001021",
+    "b": 53,
+    "c": 1,
+    "v": 21,
+    "t": "For since in the wisdom of God the world through its own wisdom did not know God, it pleased God to save those who believe through the foolishness of preaching.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "53001022",
+    "b": 53,
+    "c": 1,
+    "v": 22,
+    "t": "For the Jews require a sign, and the Greeks seek after wisdom;",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "53001023",
+    "b": 53,
+    "c": 1,
+    "v": 23,
+    "t": "But we proclaim Christ crucified. To the Jews it is a cause of offense, and to the Greeks it is foolishness;",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "53001024",
+    "b": 53,
+    "c": 1,
+    "v": 24,
+    "t": "But to those who are called—both Jews and Greeks—Christ is God’s power and God’s wisdom",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "53001025",
+    "b": 53,
+    "c": 1,
+    "v": 25,
+    "t": "Because the foolishness of God is wiser than men, and the weakness of God is stronger than men.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "53001026",
+    "b": 53,
+    "c": 1,
+    "v": 26,
+    "t": "For you see your calling, brethren, that there are not many who are wise according to the flesh, not many who are powerful, not many who are high-born among you.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "53001027",
+    "b": 53,
+    "c": 1,
+    "v": 27,
+    "t": "Rather, God has chosen the foolish things of the world, so that He might put to shame those who are wise; and God has chosen the weak things of the world so that He might put to shame the strong things.",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "53001028",
+    "b": 53,
+    "c": 1,
+    "v": 28,
+    "t": "And the low-born of the world, and the despised has God chosen— even the things that are counted as nothing—in order that He might bring to nothing the things that are;",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "53001029",
+    "b": 53,
+    "c": 1,
+    "v": 29,
+    "t": "So that no flesh might glory in His presence.",
+    "h": "",
+    "o": 29,
+    "l": "29"
+  },
+  {
+    "id": "53001030",
+    "b": 53,
+    "c": 1,
+    "v": 30,
+    "t": "But you are of Him in Christ Jesus, Who was made to us wisdom from God—even righteousness, and sanctification, and redemption;",
+    "h": "",
+    "o": 30,
+    "l": "30"
+  },
+  {
+    "id": "53001031",
+    "b": 53,
+    "c": 1,
+    "v": 31,
+    "t": "So that, as it is written, “The one who glories, let him glory in the Lord.”",
+    "h": "",
+    "o": 31,
+    "l": "31"
+  },
+  {
+    "id": "53002001",
+    "b": 53,
+    "c": 2,
+    "v": 1,
+    "t": "And I, brethren, when I came to you, did not come with superiority of speech or wisdom, in proclaiming the testimony of God to you.",
+    "h": "CHAPTER TWO",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "53002002",
+    "b": 53,
+    "c": 2,
+    "v": 2,
+    "t": "For I decided not to know anything among you except Jesus Christ and Him crucified.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "53002003",
+    "b": 53,
+    "c": 2,
+    "v": 3,
+    "t": "And I was in weakness and in fear and in much trembling when I was with you;",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "53002004",
+    "b": 53,
+    "c": 2,
+    "v": 4,
+    "t": "And my message and my preaching was not in persuasive words of human wisdom; rather, it was in demonstration of the Spirit and of power;",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "53002005",
+    "b": 53,
+    "c": 2,
+    "v": 5,
+    "t": "So that your faith might not be in the wisdom of men, but in the power of God.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "53002006",
+    "b": 53,
+    "c": 2,
+    "v": 6,
+    "t": "Now we speak wisdom among the spiritually mature; however, it is not the wisdom of this world, nor of the rulers of this world, who are coming to nothing.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "53002007",
+    "b": 53,
+    "c": 2,
+    "v": 7,
+    "t": "Rather, we speak the wisdom of God in a mystery, even the hidden wisdom that God foreordained before the ages unto our glory",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "53002008",
+    "b": 53,
+    "c": 2,
+    "v": 8,
+    "t": "Which not one of the rulers of this world has known (for if they had known, they would not have crucified the Lord of glory);",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "53002009",
+    "b": 53,
+    "c": 2,
+    "v": 9,
+    "t": "But according as it is written, “ The eye has not seen, nor the ear heard, neither have entered into the heart of man, the things which God has prepared for those who love Him.”",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "53002010",
+    "b": 53,
+    "c": 2,
+    "v": 10,
+    "t": "But God has revealed them to us by His Spirit, for the Spirit searches all things—even the deep things of God.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "53002011",
+    "b": 53,
+    "c": 2,
+    "v": 11,
+    "t": "For who among men understands the things of man except by the spirit of man which is in him? In the same way also, the things of God no one understands except by the Spirit of God.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "53002012",
+    "b": 53,
+    "c": 2,
+    "v": 12,
+    "t": "Now we have not received the spirit of the world, but the Spirit that is of God, so that we might know the things graciously given to us by God;",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "53002013",
+    "b": 53,
+    "c": 2,
+    "v": 13,
+    "t": "Which things we also speak, not in words taught by human wisdom, but in words taught by the Holy Spirit in order to communicate spiritual things by spiritual means.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "53002014",
+    "b": 53,
+    "c": 2,
+    "v": 14,
+    "t": "But the natural man does not receive the things of the Spirit of God; for they are foolishness to him, and he cannot understand them because they are spiritually discerned.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "53002015",
+    "b": 53,
+    "c": 2,
+    "v": 15,
+    "t": "However, the one who is spiritual discerns all things, but he himself is discerned by no one.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "53002016",
+    "b": 53,
+    "c": 2,
+    "v": 16,
+    "t": "For who has known the mind of the Lord? Who shall instruct Him? But we have the mind of Christ.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "53003001",
+    "b": 53,
+    "c": 3,
+    "v": 1,
+    "t": "And, I, brethren, was not able to speak to you as to those who are spiritual, but as to those who are carnal— even as to babes in Christ.",
+    "h": "CHAPTER THREE",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "53003002",
+    "b": 53,
+    "c": 3,
+    "v": 2,
+    "t": "I gave you milk to drink, and not meat; for you were not yet able to receive spiritual meat; and neither are you able now,",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "53003003",
+    "b": 53,
+    "c": 3,
+    "v": 3,
+    "t": "For you are still carnal. For since envy and contention and divisions are among you, are you not carnal? And are you not walking according to human ways ?",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "53003004",
+    "b": 53,
+    "c": 3,
+    "v": 4,
+    "t": "When someone says, “I am of Paul,” and another one says, “I am of Apollos,” are you not carnal?",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "53003005",
+    "b": 53,
+    "c": 3,
+    "v": 5,
+    "t": "Who then is Paul? And who is Apollos? They are but ministers through whom you believed, even as the Lord gave to each one.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "53003006",
+    "b": 53,
+    "c": 3,
+    "v": 6,
+    "t": "I planted and Apollos watered, but God gave the increase.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "53003007",
+    "b": 53,
+    "c": 3,
+    "v": 7,
+    "t": "Therefore, neither is he who plants anything, nor he who waters; for it is God Who gives the increase.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "53003008",
+    "b": 53,
+    "c": 3,
+    "v": 8,
+    "t": "Now he who plants and he who waters are one, but each shall receive his own reward according to his own labor.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "53003009",
+    "b": 53,
+    "c": 3,
+    "v": 9,
+    "t": "For we are God’s fellow workers; and you are God’s husbandry, even God’s building.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "53003010",
+    "b": 53,
+    "c": 3,
+    "v": 10,
+    "t": "As a wise architect, according to the grace of God that was given to me, I have laid the foundation, and another is building upon it. But let each one take heed how he builds upon it.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "53003011",
+    "b": 53,
+    "c": 3,
+    "v": 11,
+    "t": "For no one is able to lay any other foundation besides that which has been laid, which is Jesus Christ.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "53003012",
+    "b": 53,
+    "c": 3,
+    "v": 12,
+    "t": "Now if anyone builds upon this foundation gold, silver, precious stones, wood, hay or stubble,",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "53003013",
+    "b": 53,
+    "c": 3,
+    "v": 13,
+    "t": "The work of each one shall be manifested; for the day of trial will declare it, because it shall be revealed by fire; and the fire shall prove what kind of work each one’s is.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "53003014",
+    "b": 53,
+    "c": 3,
+    "v": 14,
+    "t": "If the work that anyone has built endures, he shall receive a reward.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "53003015",
+    "b": 53,
+    "c": 3,
+    "v": 15,
+    "t": "If the work of anyone is burned up, he shall suffer loss; but he himself shall be saved, yet as through fire.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "53003016",
+    "b": 53,
+    "c": 3,
+    "v": 16,
+    "t": "Don’t you understand that you are God’s temple, and that the Spirit of God is dwelling in you?",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "53003017",
+    "b": 53,
+    "c": 3,
+    "v": 17,
+    "t": "If anyone defiles the temple of God, God shall destroy him because the temple of God is holy, which temple you are.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "53003018",
+    "b": 53,
+    "c": 3,
+    "v": 18,
+    "t": "Let no one deceive himself. If anyone among you thinks himself to be wise in this world, let him become a fool, so that he may be wise in God’s sight.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "53003019",
+    "b": 53,
+    "c": 3,
+    "v": 19,
+    "t": "For the wisdom of this world is foolishness with God for it is written, “He entraps the wise in their own craftiness.”",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "53003020",
+    "b": 53,
+    "c": 3,
+    "v": 20,
+    "t": "And again, “ The Lord knows the thoughts of the wise, that they are vain.”",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "53003021",
+    "b": 53,
+    "c": 3,
+    "v": 21,
+    "t": "Therefore, do not let anyone boast in men; for all things are yours,",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "53003022",
+    "b": 53,
+    "c": 3,
+    "v": 22,
+    "t": "Whether Paul, or Apollos, or Cephas, or the world, or life, or death, or things present, or things to come—all are yours;",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "53003023",
+    "b": 53,
+    "c": 3,
+    "v": 23,
+    "t": "And you are Christ’s, and Christ is God’s.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "53004001",
+    "b": 53,
+    "c": 4,
+    "v": 1,
+    "t": "So then, let every man regard us as ministers of Christ and stewards of the mysteries of God.",
+    "h": "CHAPTER FOUR",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "53004002",
+    "b": 53,
+    "c": 4,
+    "v": 2,
+    "t": "Beyond that, it is required of stewards that one be found faithful.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "53004003",
+    "b": 53,
+    "c": 4,
+    "v": 3,
+    "t": "But to me it is an insignificant matter that I am judged by you, or by man’s standard; and neither do I judge myself.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "53004004",
+    "b": 53,
+    "c": 4,
+    "v": 4,
+    "t": "Now I am not conscious of anything against myself, yet I am not justified by this; for the One Who is judging me is the Lord.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "53004005",
+    "b": 53,
+    "c": 4,
+    "v": 5,
+    "t": "Therefore, do not judge anything before the time; wait until the Lord comes, Who will bring to light the hidden things of darkness, and will make manifest the motives of all hearts; and then shall each one receive praise from God.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "53004006",
+    "b": 53,
+    "c": 4,
+    "v": 6,
+    "t": "Now these things, brethren, I have applied to Apollos and myself for your sakes; that in us you may learn not to think of men beyond what is written, so that no one among you is puffed up on behalf of one of us against the other.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "53004007",
+    "b": 53,
+    "c": 4,
+    "v": 7,
+    "t": "For what makes you superior to others ? And what do you have that you did not receive? But if you also received it, why are you boasting as if you did not receive it ?",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "53004008",
+    "b": 53,
+    "c": 4,
+    "v": 8,
+    "t": "Now you are satiated. Now you have been enriched. You have reigned without us. And I would that you did reign, so that we also might reign with you.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "53004009",
+    "b": 53,
+    "c": 4,
+    "v": 9,
+    "t": "For I suppose that God has made us apostles last, as it were appointed to death; for we have become a spectacle to the world, both to angels and to men.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "53004010",
+    "b": 53,
+    "c": 4,
+    "v": 10,
+    "t": "We are fools for the sake of Christ, but you are wise in Christ; we are weak, but you are strong; you are glorious, but we are without honor.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "53004011",
+    "b": 53,
+    "c": 4,
+    "v": 11,
+    "t": "To the present hour we both hunger and thirst, and are naked, and are buffeted, and wander without a home;",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "53004012",
+    "b": 53,
+    "c": 4,
+    "v": 12,
+    "t": "And we labor, working with our own hands. When railed at, we bless; when persecuted, we bear it ;",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "53004013",
+    "b": 53,
+    "c": 4,
+    "v": 13,
+    "t": "When reviled, we entreat; for unto this day we are as the refuse and the off-scouring of the world.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "53004014",
+    "b": 53,
+    "c": 4,
+    "v": 14,
+    "t": "I do not write these things to make you ashamed, but as my beloved children I warn you.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "53004015",
+    "b": 53,
+    "c": 4,
+    "v": 15,
+    "t": "For you might have ten thousand tutors in Christ, but you do not have many fathers; for in Christ Jesus I did beget you through the gospel.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "53004016",
+    "b": 53,
+    "c": 4,
+    "v": 16,
+    "t": "Therefore, I am exhorting you to be imitators of me.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "53004017",
+    "b": 53,
+    "c": 4,
+    "v": 17,
+    "t": "For this cause I sent to you Timothy, who is my beloved son, and faithful in the Lord, who will remind you of my ways that are in Christ, exactly as I teach everywhere in every church.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "53004018",
+    "b": 53,
+    "c": 4,
+    "v": 18,
+    "t": "Now some of you are puffed up, as though I were not coming to you;",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "53004019",
+    "b": 53,
+    "c": 4,
+    "v": 19,
+    "t": "But I shall come to you shortly, if the Lord wills; and I will know not merely the words of those who are puffed up, but the power.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "53004020",
+    "b": 53,
+    "c": 4,
+    "v": 20,
+    "t": "For the kingdom of God is not in words, but in power.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "53004021",
+    "b": 53,
+    "c": 4,
+    "v": 21,
+    "t": "What do you desire? Shall I come to you with a rod, or in love and a spirit of meekness?",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "53005001",
+    "b": 53,
+    "c": 5,
+    "v": 1,
+    "t": "It is commonly reported that there is sexual immorality among you, and such immorality as is not even named among the Gentiles— allowing one to have his own father’s wife.",
+    "h": "CHAPTER FIVE",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "53005002",
+    "b": 53,
+    "c": 5,
+    "v": 2,
+    "t": "You are puffed up and did not grieve instead, so that he who did this deed might be taken out of your midst.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "53005003",
+    "b": 53,
+    "c": 5,
+    "v": 3,
+    "t": "For I indeed, being absent in body but present in spirit, have already judged concerning him who has so shamelessly committed this evil deed as if I were present:",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "53005004",
+    "b": 53,
+    "c": 5,
+    "v": 4,
+    "t": "In the name of our Lord Jesus Christ, when you are gathered together, and my spirit, together with the power of our Lord Jesus Christ",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "53005005",
+    "b": 53,
+    "c": 5,
+    "v": 5,
+    "t": "To deliver such a one to Satan for the destruction of the flesh, that the spirit may be saved in the day of the Lord Jesus.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "53005006",
+    "b": 53,
+    "c": 5,
+    "v": 6,
+    "t": "Your glorying is not good. Don’t you know that a little leaven leavens the whole lump?",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "53005007",
+    "b": 53,
+    "c": 5,
+    "v": 7,
+    "t": "Therefore, purge out the old leaven, so that you may become a new lump, even as you are unleavened. For Christ our Passover was sacrificed for us.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "53005008",
+    "b": 53,
+    "c": 5,
+    "v": 8,
+    "t": "For this reason, let us keep the feast, not with old leaven, nor with the leaven of malice and wickedness, but with the unleavened bread of sincerity and truth.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "53005009",
+    "b": 53,
+    "c": 5,
+    "v": 9,
+    "t": "I wrote to you in an epistle not to associate with the sexually immoral;",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "53005010",
+    "b": 53,
+    "c": 5,
+    "v": 10,
+    "t": "And yet, you can not altogether avoid contact with the sexually immoral of this world, or with the covetous, or extortioners, or idolaters, since you would then have to go out of the world.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "53005011",
+    "b": 53,
+    "c": 5,
+    "v": 11,
+    "t": "But now, I have written to you not to associate with anyone who is called a brother, if he be either sexually immoral, or covetous, or an idolater, or a reviler, or a drunkard, or an extortioner; with such a person you are not even to eat.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "53005012",
+    "b": 53,
+    "c": 5,
+    "v": 12,
+    "t": "For what responsibility do I have to judge those who are outside the church ? Are not you yourselves to judge those who are within?",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "53005013",
+    "b": 53,
+    "c": 5,
+    "v": 13,
+    "t": "But God judges those who are outside. So then, put the wicked person out from among yourselves.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "53006001",
+    "b": 53,
+    "c": 6,
+    "v": 1,
+    "t": "Does anyone among you who has a matter against another dare to go to a court of law before the unrighteous, and not before the saints?",
+    "h": "CHAPTER SIX",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "53006002",
+    "b": 53,
+    "c": 6,
+    "v": 2,
+    "t": "Don’t you know that the saints shall judge the world? And if the world is to be judged by you, are you unworthy of the most trivial of judgments?",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "53006003",
+    "b": 53,
+    "c": 6,
+    "v": 3,
+    "t": "Don’t you know that we shall judge angels? How much more then the things of this life?",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "53006004",
+    "b": 53,
+    "c": 6,
+    "v": 4,
+    "t": "So then, if you have judgments concerning the things of this life, why do you appoint as judges those who have no standing in the church?",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "53006005",
+    "b": 53,
+    "c": 6,
+    "v": 5,
+    "t": "Now I say this to your shame. Is it because there is not a wise man among you, not even one, who is able to decide between his brothers?",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "53006006",
+    "b": 53,
+    "c": 6,
+    "v": 6,
+    "t": "Instead, brother goes to a court of law with brother, and this before unbelievers.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "53006007",
+    "b": 53,
+    "c": 6,
+    "v": 7,
+    "t": "Now therefore, there is altogether an utter fault among you, that you have lawsuits with one another. Why not rather suffer wrong? Why not rather be defrauded?",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "53006008",
+    "b": 53,
+    "c": 6,
+    "v": 8,
+    "t": "Instead, you are doing wrong and defrauding, and you are doing these things to your brethren.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "53006009",
+    "b": 53,
+    "c": 6,
+    "v": 9,
+    "t": "Don’t you know that the unrighteous shall not inherit the kingdom of God? Do not be deceived; neither fornicators, nor idolaters, nor adulterers, nor abusers of themselves as women, nor homosexuals,",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "53006010",
+    "b": 53,
+    "c": 6,
+    "v": 10,
+    "t": "Nor thieves, nor covetous, nor drunkards, nor revilers, nor extortioners, shall inherit the kingdom of God.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "53006011",
+    "b": 53,
+    "c": 6,
+    "v": 11,
+    "t": "And such were some of you; but you were washed, you were sanctified, you were justified in the name of the Lord Jesus, and by the Spirit of our God.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "53006012",
+    "b": 53,
+    "c": 6,
+    "v": 12,
+    "t": "All things that are lawful are permitted to me, but all things that are lawful are not beneficial; all things that are lawful are permitted to me, but I will not be mastered by anything.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "53006013",
+    "b": 53,
+    "c": 6,
+    "v": 13,
+    "t": "Foods are for the belly, and the belly is for foods; but God will destroy both it and those. Now the body is not for sexual immorality, but for the Lord, and the Lord for the body.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "53006014",
+    "b": 53,
+    "c": 6,
+    "v": 14,
+    "t": "And God has also raised the Lord from the dead, and will raise us by His own power.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "53006015",
+    "b": 53,
+    "c": 6,
+    "v": 15,
+    "t": "Don’t you know that your bodies are members of Christ? Shall I then take the members of Christ and make them members of a harlot? MAY IT NEVER BE!",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "53006016",
+    "b": 53,
+    "c": 6,
+    "v": 16,
+    "t": "WHAT! Don’t you know that he who is joined to a harlot is one body? For He says, “The two shall be one flesh.”",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "53006017",
+    "b": 53,
+    "c": 6,
+    "v": 17,
+    "t": "But he who is joined to the Lord is one spirit.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "53006018",
+    "b": 53,
+    "c": 6,
+    "v": 18,
+    "t": "Flee sexual immorality. Every sin that a man may commit is outside the body, but the one who commits sexual immorality is sinning against his own body.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "53006019",
+    "b": 53,
+    "c": 6,
+    "v": 19,
+    "t": "WHAT! Don’t you know that your body is a temple of the Holy Spirit, which you have within you from God, and you are not your own?",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "53006020",
+    "b": 53,
+    "c": 6,
+    "v": 20,
+    "t": "For you were bought with a price. Therefore, glorify God in your body, and in your spirit, which are God’s.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "53007001",
+    "b": 53,
+    "c": 7,
+    "v": 1,
+    "t": "Now concerning the things that you wrote to me, saying, “ It is good for a man not to touch a woman,” I say this :",
+    "h": "CHAPTER SEVEN",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "53007002",
+    "b": 53,
+    "c": 7,
+    "v": 2,
+    "t": "Rather, to avoid sexual immorality, let each man have his own wife, and let each woman have her own husband.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "53007003",
+    "b": 53,
+    "c": 7,
+    "v": 3,
+    "t": "Let the husband render his conjugal dues to his wife, and in the same way also the wife to her husband.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "53007004",
+    "b": 53,
+    "c": 7,
+    "v": 4,
+    "t": "The wife does not have power over her own body, but the husband; and in the same way also, the husband does not have power over his own body, but the wife.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "53007005",
+    "b": 53,
+    "c": 7,
+    "v": 5,
+    "t": "Do not deprive one another of conjugal dues, except it be by consent for a time, so that you may devote yourselves to fasting and prayer; and then come together again as one, so that Satan will not tempt you through your lack of self-control.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "53007006",
+    "b": 53,
+    "c": 7,
+    "v": 6,
+    "t": "Now I say this by permission, and not by command.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "53007007",
+    "b": 53,
+    "c": 7,
+    "v": 7,
+    "t": "For I wish that all men might be even as myself. But each one has his own gift from God; one is this way, and another is that way.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "53007008",
+    "b": 53,
+    "c": 7,
+    "v": 8,
+    "t": "Now I say to the unmarried and to the widows that it is good for them if they can remain even as I am.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "53007009",
+    "b": 53,
+    "c": 7,
+    "v": 9,
+    "t": "But if they do not have self-control, let them marry; because it is better to marry than to burn with sexual desire.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "53007010",
+    "b": 53,
+    "c": 7,
+    "v": 10,
+    "t": "And to those who are married I give this charge, yet not I, but the Lord: Do not let the wife be separated from her husband.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "53007011",
+    "b": 53,
+    "c": 7,
+    "v": 11,
+    "t": "(But if she does separate, let her remain unmarried, or be reconciled to her husband.) And the husband is not to divorce his wife.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "53007012",
+    "b": 53,
+    "c": 7,
+    "v": 12,
+    "t": "Now to the rest, I, not the Lord, say this : If any brother has an unbelieving wife, and she consents to dwell with him, let him not divorce her.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "53007013",
+    "b": 53,
+    "c": 7,
+    "v": 13,
+    "t": "And if a woman has an unbelieving husband, and he consents to dwell with her, let her not divorce him.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "53007014",
+    "b": 53,
+    "c": 7,
+    "v": 14,
+    "t": "For the unbelieving husband is sanctified in the wife, and the unbelieving wife is sanctified in the husband; otherwise, your children would be unclean, but now they are holy.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "53007015",
+    "b": 53,
+    "c": 7,
+    "v": 15,
+    "t": "But if the unbelieving husband or wife separates, let him or her separate. The believing brother or sister is not held in bondage in such cases ; for God has called us to peace.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "53007016",
+    "b": 53,
+    "c": 7,
+    "v": 16,
+    "t": "But how do you know, O wife, whether you will save your husband? Or how do you know, O husband, whether you will save your wife?",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "53007017",
+    "b": 53,
+    "c": 7,
+    "v": 17,
+    "t": "Let each one walk only as God has apportioned to him, according as the Lord has called him; and this is what I command in all the churches.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "53007018",
+    "b": 53,
+    "c": 7,
+    "v": 18,
+    "t": "Was anyone called being circumcised? Do not let him be uncircumcised. Was anyone called in uncircumcision? Do not let him be circumcised.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "53007019",
+    "b": 53,
+    "c": 7,
+    "v": 19,
+    "t": "For circumcision is nothing, and uncircumcision is nothing; rather, the keeping of God’s commandments is essential.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "53007020",
+    "b": 53,
+    "c": 7,
+    "v": 20,
+    "t": "Let each one abide in the calling in which he was called.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "53007021",
+    "b": 53,
+    "c": 7,
+    "v": 21,
+    "t": "Were you called as a slave? Don’t let yourself fret. But if you are able to become free, by all means do so.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "53007022",
+    "b": 53,
+    "c": 7,
+    "v": 22,
+    "t": "For he who has been called in the Lord, though he be a slave, is a free man in the Lord. In the same way also, he who has been called as a free man is a slave of Christ;",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "53007023",
+    "b": 53,
+    "c": 7,
+    "v": 23,
+    "t": "For you were bought with a price. Do not become slaves of man.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "53007024",
+    "b": 53,
+    "c": 7,
+    "v": 24,
+    "t": "Brethren, in whatever state each one was called, let him remain in that with God.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "53007025",
+    "b": 53,
+    "c": 7,
+    "v": 25,
+    "t": "Now concerning virgins, I do not have a command from the Lord; but I give my judgment, as one who has received mercy from the Lord to be faithful.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "53007026",
+    "b": 53,
+    "c": 7,
+    "v": 26,
+    "t": "Therefore, I think this judgment is good because of the present distress: that it is good for a man to remain as he is.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "53007027",
+    "b": 53,
+    "c": 7,
+    "v": 27,
+    "t": "Have you been bound to a wife? Do not seek to be loosed. Have you been loosed from a wife? Do not seek a wife.",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "53007028",
+    "b": 53,
+    "c": 7,
+    "v": 28,
+    "t": "However, if you have married, you have not sinned; and if a virgin has married, she has not sinned. Yet those who marry shall have distress in the flesh, but I wish to spare you.",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "53007029",
+    "b": 53,
+    "c": 7,
+    "v": 29,
+    "t": "Now this I say, brethren: the time is drawing close. For the time that remains, let those who have wives be as if they did not have wives;",
+    "h": "",
+    "o": 29,
+    "l": "29"
+  },
+  {
+    "id": "53007030",
+    "b": 53,
+    "c": 7,
+    "v": 30,
+    "t": "And those who weep, as if they did not weep; and those who rejoice, as if they did not rejoice; and those who buy, as if they did not possess;",
+    "h": "",
+    "o": 30,
+    "l": "30"
+  },
+  {
+    "id": "53007031",
+    "b": 53,
+    "c": 7,
+    "v": 31,
+    "t": "And those who use this world, as if they did not use it as their own; for this world in its present form is passing away.",
+    "h": "",
+    "o": 31,
+    "l": "31"
+  },
+  {
+    "id": "53007032",
+    "b": 53,
+    "c": 7,
+    "v": 32,
+    "t": "Now I desire you to be without anxiety. The man who is unmarried is concerned about the things of the Lord—how he may please the Lord.",
+    "h": "",
+    "o": 32,
+    "l": "32"
+  },
+  {
+    "id": "53007033",
+    "b": 53,
+    "c": 7,
+    "v": 33,
+    "t": "But he who is married has concerns about the things of this world—how he may please his wife.",
+    "h": "",
+    "o": 33,
+    "l": "33"
+  },
+  {
+    "id": "53007034",
+    "b": 53,
+    "c": 7,
+    "v": 34,
+    "t": "There is also a difference in attitude between a wife and a virgin. An unmarried woman is concerned about the things of the Lord, that she may be holy both in body and in spirit. But she who is married has concerns about the things of this world—how she may please her husband.",
+    "h": "",
+    "o": 34,
+    "l": "34"
+  },
+  {
+    "id": "53007035",
+    "b": 53,
+    "c": 7,
+    "v": 35,
+    "t": "Now I am telling you this for your own benefit; not to place a snare in your way, but to show you what is suitable, so that you may be devoted to the Lord without distraction.",
+    "h": "",
+    "o": 35,
+    "l": "35"
+  },
+  {
+    "id": "53007036",
+    "b": 53,
+    "c": 7,
+    "v": 36,
+    "t": "But if anyone thinks that his behavior toward his virgin is not right, and if she is in the prime of life, and so thinks he ought to marry, let him do as he desires; he is not sinning. Let them marry.",
+    "h": "",
+    "o": 36,
+    "l": "36"
+  },
+  {
+    "id": "53007037",
+    "b": 53,
+    "c": 7,
+    "v": 37,
+    "t": "However, he does well who remains steadfast in his heart, not having the need to marry, but has control over his own desire, and has determined in his own heart to keep himself chaste.",
+    "h": "",
+    "o": 37,
+    "l": "37"
+  },
+  {
+    "id": "53007038",
+    "b": 53,
+    "c": 7,
+    "v": 38,
+    "t": "So then, the one who marries does well, but the one who does not marry does better.",
+    "h": "",
+    "o": 38,
+    "l": "38"
+  },
+  {
+    "id": "53007039",
+    "b": 53,
+    "c": 7,
+    "v": 39,
+    "t": "A wife is bound by law for as long a time as her husband may live. But if her husband dies, she is free to be married to whomever she desires, ( but only in the Lord).",
+    "h": "",
+    "o": 39,
+    "l": "39"
+  },
+  {
+    "id": "53007040",
+    "b": 53,
+    "c": 7,
+    "v": 40,
+    "t": "However, she is happier if she continues to abide by my judgment; and I think that I also have God’s Spirit in this.",
+    "h": "",
+    "o": 40,
+    "l": "40"
+  },
+  {
+    "id": "53008001",
+    "b": 53,
+    "c": 8,
+    "v": 1,
+    "t": "Now concerning things sacrificed to idols, we know that we all have knowledge. Knowledge puffs up, but love edifies.",
+    "h": "CHAPTER EIGHT",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "53008002",
+    "b": 53,
+    "c": 8,
+    "v": 2,
+    "t": "But if anyone thinks that he knows anything, he knows nothing yet to the degree that he ought to know.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "53008003",
+    "b": 53,
+    "c": 8,
+    "v": 3,
+    "t": "But if anyone loves God, he is known by Him.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "53008004",
+    "b": 53,
+    "c": 8,
+    "v": 4,
+    "t": "So then, concerning the eating of things sacrificed to idols, we understand that an idol in the world is nothing, and that there is no other God except one.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "53008005",
+    "b": 53,
+    "c": 8,
+    "v": 5,
+    "t": "For indeed, even if there are those which are called gods, whether in heaven or on earth, as there are many gods and many lords,",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "53008006",
+    "b": 53,
+    "c": 8,
+    "v": 6,
+    "t": "Still, to us there is one God the Father, from Whom are all things, and we are in Him; and one Lord Jesus Christ, by Whom are all things, and we are by Him.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "53008007",
+    "b": 53,
+    "c": 8,
+    "v": 7,
+    "t": "However, not all have this knowledge. But some, with consciousness of the idol, until now eat it as a thing sacrificed to an idol, and their conscience, being weak, is defiled.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "53008008",
+    "b": 53,
+    "c": 8,
+    "v": 8,
+    "t": "But meat does not commend us to God; for we do not have any spiritual advantage if we eat, nor do we come short spiritually if we do not eat.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "53008009",
+    "b": 53,
+    "c": 8,
+    "v": 9,
+    "t": "But beware, lest this freedom of yours becomes a stumbling block to those who are weak.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "53008010",
+    "b": 53,
+    "c": 8,
+    "v": 10,
+    "t": "For if anyone sees you, who have knowledge, sitting to eat in an idol-temple, will not his weak conscience be emboldened so as to cause him to eat things sacrificed to idols?",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "53008011",
+    "b": 53,
+    "c": 8,
+    "v": 11,
+    "t": "And will the weak brother, for whom Christ died, perish on account of your knowledge?",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "53008012",
+    "b": 53,
+    "c": 8,
+    "v": 12,
+    "t": "Now when you sin against the brethren and wound their weak consciences in this way, you are sinning against Christ.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "53008013",
+    "b": 53,
+    "c": 8,
+    "v": 13,
+    "t": "Therefore, if meat causes my brother to stumble, I will eat no flesh—not ever—so that I may not cause my brother to stumble.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "53009001",
+    "b": 53,
+    "c": 9,
+    "v": 1,
+    "t": "Am I not an apostle? Am I not free? Have I not seen Jesus Christ our Lord? Are you not my work in the Lord?",
+    "h": "CHAPTER NINE",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "53009002",
+    "b": 53,
+    "c": 9,
+    "v": 2,
+    "t": "If I am not an apostle to others, without a doubt I am to you. For you are the certification of my apostleship in the Lord.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "53009003",
+    "b": 53,
+    "c": 9,
+    "v": 3,
+    "t": "My defense to those who are examining me is this:",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "53009004",
+    "b": 53,
+    "c": 9,
+    "v": 4,
+    "t": "Do we not have a right to eat and to drink?",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "53009005",
+    "b": 53,
+    "c": 9,
+    "v": 5,
+    "t": "Do we not have a right to take with us a sister, a wife, as also the other apostles, and the brothers of the Lord, and Cephas?",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "53009006",
+    "b": 53,
+    "c": 9,
+    "v": 6,
+    "t": "Or I only and Barnabas, do we not have a right to refrain from working?",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "53009007",
+    "b": 53,
+    "c": 9,
+    "v": 7,
+    "t": "Does anyone at any time serve as a soldier at his own expense? Does anyone plant a vineyard and not eat the fruit of it? Or does anyone shepherd a flock and not eat the meat and milk from the flock?",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "53009008",
+    "b": 53,
+    "c": 9,
+    "v": 8,
+    "t": "Am I saying these things merely from a human point of view? Or does not the law say the same things?",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "53009009",
+    "b": 53,
+    "c": 9,
+    "v": 9,
+    "t": "For it is written in the law of Moses, “You shall not muzzle the ox that is treading out corn.” Is it because God is concerned for oxen?",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "53009010",
+    "b": 53,
+    "c": 9,
+    "v": 10,
+    "t": "Or does He not certainly say this for our sakes? For our sakes it was written, so that the one who plows might plow in hope, and the one who threshes the corn in hope might be partaker of his hope.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "53009011",
+    "b": 53,
+    "c": 9,
+    "v": 11,
+    "t": "If we have sown to you spiritual things, is it a great thing if we shall reap your physical things?",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "53009012",
+    "b": 53,
+    "c": 9,
+    "v": 12,
+    "t": "If others participate in this authority over you, much more surely should not we? Nevertheless, we have not used this authority; but we have endured all things, so that we might not hinder the gospel of Christ.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "53009013",
+    "b": 53,
+    "c": 9,
+    "v": 13,
+    "t": "Don’t you know that those who are laboring in the sacred things of the temple live of the things of the temple, and those who are ministering at the altar are partakers with the altar?",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "53009014",
+    "b": 53,
+    "c": 9,
+    "v": 14,
+    "t": "In the same way also, the Lord did command that those who preach the gospel are to live of the gospel.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "53009015",
+    "b": 53,
+    "c": 9,
+    "v": 15,
+    "t": "But I have not used any of these things. And I have not written these things in order that this might now be done to me. For it would be better for me to die rather than to have anyone make my boasting void.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "53009016",
+    "b": 53,
+    "c": 9,
+    "v": 16,
+    "t": "For though I preach the gospel, there is no reason for me to boast because an obligation has been laid upon me. And woe to me, if I do not preach the gospel!",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "53009017",
+    "b": 53,
+    "c": 9,
+    "v": 17,
+    "t": "For if I do this willingly, I have a reward; but if I do this against my will, I have been entrusted with a ministry.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "53009018",
+    "b": 53,
+    "c": 9,
+    "v": 18,
+    "t": "What then is my reward? That in preaching the gospel, I may make the gospel of Christ without expense, so that I may not abuse my authority in the gospel.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "53009019",
+    "b": 53,
+    "c": 9,
+    "v": 19,
+    "t": "For although I am not under bondage to anyone, I have made myself a servant to all, so that I might gain the more.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "53009020",
+    "b": 53,
+    "c": 9,
+    "v": 20,
+    "t": "Now to the Jews I became as a Jew, that I might gain the Jews; to those who are under law, as under law, that I might gain those who are under law;",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "53009021",
+    "b": 53,
+    "c": 9,
+    "v": 21,
+    "t": "To those who are without law, as without law (not being without law to God, but within law to Christ), that I might gain those who are without law.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "53009022",
+    "b": 53,
+    "c": 9,
+    "v": 22,
+    "t": "To the weak, I became as weak, that I might gain those who are weak. To all these, I have become all things, so that I might by all means save some.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "53009023",
+    "b": 53,
+    "c": 9,
+    "v": 23,
+    "t": "Now I do this for the sake of the gospel, that I might be a fellow partaker with you.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "53009024",
+    "b": 53,
+    "c": 9,
+    "v": 24,
+    "t": "Don’t you know that those who run a race all run, but only one receives the prize? That is the way you are to run in order that you may obtain the prize.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "53009025",
+    "b": 53,
+    "c": 9,
+    "v": 25,
+    "t": "For everyone who is striving for mastery controls himself in all things. Of course, they do this so that they may receive a corruptible crown; but we are striving for an incorruptible crown.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "53009026",
+    "b": 53,
+    "c": 9,
+    "v": 26,
+    "t": "I therefore so run, not as one who is uncertain; so also I fight, not as beating the air.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "53009027",
+    "b": 53,
+    "c": 9,
+    "v": 27,
+    "t": "But I discipline my body and bring it into subjection, lest, after preaching to others, I myself might be rejected.",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "53010001",
+    "b": 53,
+    "c": 10,
+    "v": 1,
+    "t": "Now I do not wish you to be ignorant of this, brethren, that our fathers were all under the cloud, and all passed through the sea.",
+    "h": "CHAPTER TEN",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "53010002",
+    "b": 53,
+    "c": 10,
+    "v": 2,
+    "t": "And all were baptized unto Moses in the cloud and in the sea.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "53010003",
+    "b": 53,
+    "c": 10,
+    "v": 3,
+    "t": "And they all ate the same spiritual meat.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "53010004",
+    "b": 53,
+    "c": 10,
+    "v": 4,
+    "t": "And they all drank of the same spiritual drink; for they drank from the spiritual Rock that followed them. And that Rock was Christ.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "53010005",
+    "b": 53,
+    "c": 10,
+    "v": 5,
+    "t": "But with many of them God was not pleased, for their dead bodies were strewn in the wilderness.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "53010006",
+    "b": 53,
+    "c": 10,
+    "v": 6,
+    "t": "Now these things became examples for us, so that we might not lust after evil things, as they also lusted.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "53010007",
+    "b": 53,
+    "c": 10,
+    "v": 7,
+    "t": "Neither be idolaters, as were some of them; as it is written, “The people sat down to eat and to drink, and rose up to play.”",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "53010008",
+    "b": 53,
+    "c": 10,
+    "v": 8,
+    "t": "Neither should we commit sexual immorality, as some of them committed, and twenty-three thousand were destroyed in one day.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "53010009",
+    "b": 53,
+    "c": 10,
+    "v": 9,
+    "t": "Neither should we tempt Christ, as some of them also tempted Him, and were killed by serpents.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "53010010",
+    "b": 53,
+    "c": 10,
+    "v": 10,
+    "t": "Neither should we complain against God, as some of them also complained, and were killed by the destroyer.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "53010011",
+    "b": 53,
+    "c": 10,
+    "v": 11,
+    "t": "Now all these things happened to them as examples, and were written for our admonition, on whom the ends of the ages are coming.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "53010012",
+    "b": 53,
+    "c": 10,
+    "v": 12,
+    "t": "Therefore, let the one who thinks he stands take heed, lest he fall.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "53010013",
+    "b": 53,
+    "c": 10,
+    "v": 13,
+    "t": "No temptation has come upon you except what is common to mankind. For God, Who is faithful, will not permit you to be tempted beyond what you are able to bear ; but with the temptation, He will make a way of escape, so that you may be able to bear it.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "53010014",
+    "b": 53,
+    "c": 10,
+    "v": 14,
+    "t": "Therefore, my beloved, flee from idolatry.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "53010015",
+    "b": 53,
+    "c": 10,
+    "v": 15,
+    "t": "I speak as to those who are wise; you judge what I say.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "53010016",
+    "b": 53,
+    "c": 10,
+    "v": 16,
+    "t": "The cup of blessing that we bless, is it not the fellowship of the blood of Christ? The bread that we break, is it not the fellowship of the body of Christ?",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "53010017",
+    "b": 53,
+    "c": 10,
+    "v": 17,
+    "t": "For we, being many, are one body and one bread, because we are all partakers of the bread.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "53010018",
+    "b": 53,
+    "c": 10,
+    "v": 18,
+    "t": "Consider Israel according to the flesh. Are not those who eat the sacrifices partakers of the altar?",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "53010019",
+    "b": 53,
+    "c": 10,
+    "v": 19,
+    "t": "What then am I saying? That an idol is anything, or that which is sacrificed to an idol is anything?",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "53010020",
+    "b": 53,
+    "c": 10,
+    "v": 20,
+    "t": "But that which the Gentiles sacrifice, they sacrifice to demons, and not to God; and I do not wish you to have fellowship with demons.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "53010021",
+    "b": 53,
+    "c": 10,
+    "v": 21,
+    "t": "You cannot drink the cup of the Lord, and the cup of demons. You cannot partake of the table of the Lord, and the table of demons.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "53010022",
+    "b": 53,
+    "c": 10,
+    "v": 22,
+    "t": "Now do we provoke the Lord to jealousy? Are we stronger than He?",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "53010023",
+    "b": 53,
+    "c": 10,
+    "v": 23,
+    "t": "All things that are lawful are permitted to me, but not all things that are permitted are profitable. All things that are lawful are permitted to me, but all things that are permitted do not edify.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "53010024",
+    "b": 53,
+    "c": 10,
+    "v": 24,
+    "t": "Let no one seek that which benefits himself; but let each seek that which benefits the other.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "53010025",
+    "b": 53,
+    "c": 10,
+    "v": 25,
+    "t": "Every lawful thing that is sold in the market you may eat, without asking questions for the sake of conscience,",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "53010026",
+    "b": 53,
+    "c": 10,
+    "v": 26,
+    "t": "For the earth, and all its fullness, is the Lord’s.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "53010027",
+    "b": 53,
+    "c": 10,
+    "v": 27,
+    "t": "Now if an unbelieving person invites you for a meal, and you desire to go, eat all lawful things that are set before you, without asking questions for the sake of conscience.",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "53010028",
+    "b": 53,
+    "c": 10,
+    "v": 28,
+    "t": "But if anyone says to you, “This has been offered to an idol,” do not eat it, for the sake and the conscience of the one who showed it to you, for the earth, and all its fullness, is the Lord’s.",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "53010029",
+    "b": 53,
+    "c": 10,
+    "v": 29,
+    "t": "But conscience, I say, not your own, but that of the other person. For why is my freedom judged by another person’s conscience?",
+    "h": "",
+    "o": 29,
+    "l": "29"
+  },
+  {
+    "id": "53010030",
+    "b": 53,
+    "c": 10,
+    "v": 30,
+    "t": "And if I partake with thankfulness to God, why am I spoken evil of for eating that for which I give thanks?",
+    "h": "",
+    "o": 30,
+    "l": "30"
+  },
+  {
+    "id": "53010031",
+    "b": 53,
+    "c": 10,
+    "v": 31,
+    "t": "Therefore, whether you eat, or you drink, or you do anything, do all things to the glory of God.",
+    "h": "",
+    "o": 31,
+    "l": "31"
+  },
+  {
+    "id": "53010032",
+    "b": 53,
+    "c": 10,
+    "v": 32,
+    "t": "Be without offense to both Jews and Greeks, and to the church of God;",
+    "h": "",
+    "o": 32,
+    "l": "32"
+  },
+  {
+    "id": "53010033",
+    "b": 53,
+    "c": 10,
+    "v": 33,
+    "t": "According as I also seek to please everyone in all things, not seeking my own profit, but the profit of many, in order that they may be saved.",
+    "h": "",
+    "o": 33,
+    "l": "33"
+  },
+  {
+    "id": "53011001",
+    "b": 53,
+    "c": 11,
+    "v": 1,
+    "t": "Be imitators of me, exactly as I also am of Christ.",
+    "h": "CHAPTER ELEVEN",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "53011002",
+    "b": 53,
+    "c": 11,
+    "v": 2,
+    "t": "Now I praise you, brethren, because you have remembered me in all things, and you are keeping the ordinances in the way that I delivered them to you.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "53011003",
+    "b": 53,
+    "c": 11,
+    "v": 3,
+    "t": "But I want you to understand that the Head of every man is Christ, and the head of the woman is the man, and the Head of Christ is God.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "53011004",
+    "b": 53,
+    "c": 11,
+    "v": 4,
+    "t": "Every man who has a covering on his head when he is praying or prophesying puts his Head to shame.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "53011005",
+    "b": 53,
+    "c": 11,
+    "v": 5,
+    "t": "But every woman who has her head uncovered when she is praying or prophesying puts her head to shame, for it is the same as being shaved.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "53011006",
+    "b": 53,
+    "c": 11,
+    "v": 6,
+    "t": "For if a woman is not covered, let her be shorn. But if it be shameful for a woman to be shorn or shaved, let her be covered.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "53011007",
+    "b": 53,
+    "c": 11,
+    "v": 7,
+    "t": "For, on the one hand, a man ought not to cover his head, since he is the image and glory of God; but, on the other hand, the woman is the glory of man.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "53011008",
+    "b": 53,
+    "c": 11,
+    "v": 8,
+    "t": "For the man is not of the woman, but the woman is of the man.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "53011009",
+    "b": 53,
+    "c": 11,
+    "v": 9,
+    "t": "And also, the man was not created for the sake of the woman, but the woman for the sake of the man.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "53011010",
+    "b": 53,
+    "c": 11,
+    "v": 10,
+    "t": "For this reason, it is necessary for the woman to have a sign of being under authority on her head because of the angels.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "53011011",
+    "b": 53,
+    "c": 11,
+    "v": 11,
+    "t": "Nevertheless, neither is the man separate from the woman, nor the woman separate from the man in the Lord.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "53011012",
+    "b": 53,
+    "c": 11,
+    "v": 12,
+    "t": "For as the woman is of the man, so also the man is by the woman; but all things are of God.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "53011013",
+    "b": 53,
+    "c": 11,
+    "v": 13,
+    "t": "You judge for yourselves. Is it becoming for a woman to pray to God uncovered?",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "53011014",
+    "b": 53,
+    "c": 11,
+    "v": 14,
+    "t": "Or does not even nature itself teach you that if a man has long hair, it is a shame to him?",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "53011015",
+    "b": 53,
+    "c": 11,
+    "v": 15,
+    "t": "But if a woman has long hair, it is a glory to her; because the long hair has been given to her instead of a veil to cover her head.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "53011016",
+    "b": 53,
+    "c": 11,
+    "v": 16,
+    "t": "But if anyone is contentious over this issue, we have no such custom, neither do the churches of God.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "53011017",
+    "b": 53,
+    "c": 11,
+    "v": 17,
+    "t": "Now in this that I am commanding you, I do not praise you, because when you assemble together, it is not for the better but for the worse.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "53011018",
+    "b": 53,
+    "c": 11,
+    "v": 18,
+    "t": "For first of all, I hear that there are divisions among you when you are assembled together in the church, and I partly believe it.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "53011019",
+    "b": 53,
+    "c": 11,
+    "v": 19,
+    "t": "For it is necessary that heresies be among you, so that the ones who are approved may become manifest among you.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "53011020",
+    "b": 53,
+    "c": 11,
+    "v": 20,
+    "t": "Therefore, when you assemble together in one place, it is not to eat the Lord’s supper.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "53011021",
+    "b": 53,
+    "c": 11,
+    "v": 21,
+    "t": "For in eating, everyone takes his own supper first; now on the one hand, someone goes hungry; but on the other hand, another becomes drunken.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "53011022",
+    "b": 53,
+    "c": 11,
+    "v": 22,
+    "t": "WHAT! Don’t you have houses for eating and drinking? Or do you despise the church of God, and put to shame those who have nothing? What shall I say to you? Shall I praise you in this? I do not praise you !",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "53011023",
+    "b": 53,
+    "c": 11,
+    "v": 23,
+    "t": "For I received from the Lord that which I also delivered to you, that the Lord Jesus in the night in which He was betrayed took bread;",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "53011024",
+    "b": 53,
+    "c": 11,
+    "v": 24,
+    "t": "And after giving thanks, He broke it and said, “Take, eat; this is My body, which is being broken for you. This do in the remembrance of Me.”",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "53011025",
+    "b": 53,
+    "c": 11,
+    "v": 25,
+    "t": "In like manner, He also took the cup after He had supped, saying, “This is the cup of the New Covenant in My blood. This do, as often as you drink it, in the remembrance of Me.”",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "53011026",
+    "b": 53,
+    "c": 11,
+    "v": 26,
+    "t": "For as often as you eat this bread and drink this cup, you solemnly proclaim the death of the Lord until He comes.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "53011027",
+    "b": 53,
+    "c": 11,
+    "v": 27,
+    "t": "For this reason, if anyone shall eat this bread or shall drink the cup of the Lord unworthily, he shall be guilty of the body and the blood of the Lord.",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "53011028",
+    "b": 53,
+    "c": 11,
+    "v": 28,
+    "t": "But let a man examine himself, and let him eat of the bread and drink of the cup accordingly",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "53011029",
+    "b": 53,
+    "c": 11,
+    "v": 29,
+    "t": "Because the one who eats and drinks unworthily is eating and drinking judgment to himself, not discerning the body of the Lord.",
+    "h": "",
+    "o": 29,
+    "l": "29"
+  },
+  {
+    "id": "53011030",
+    "b": 53,
+    "c": 11,
+    "v": 30,
+    "t": "For this very reason, many are weak and sickly among you, and many have fallen asleep.",
+    "h": "",
+    "o": 30,
+    "l": "30"
+  },
+  {
+    "id": "53011031",
+    "b": 53,
+    "c": 11,
+    "v": 31,
+    "t": "Now if we would examine ourselves, we would not be judged.",
+    "h": "",
+    "o": 31,
+    "l": "31"
+  },
+  {
+    "id": "53011032",
+    "b": 53,
+    "c": 11,
+    "v": 32,
+    "t": "But when we are judged, we are chastened by the Lord, so that we will not be condemned with the world.",
+    "h": "",
+    "o": 32,
+    "l": "32"
+  },
+  {
+    "id": "53011033",
+    "b": 53,
+    "c": 11,
+    "v": 33,
+    "t": "So then, my brethren, when you assemble together to eat the bread and drink the cup, wait for one another.",
+    "h": "",
+    "o": 33,
+    "l": "33"
+  },
+  {
+    "id": "53011034",
+    "b": 53,
+    "c": 11,
+    "v": 34,
+    "t": "But if anyone is hungry, let him eat at home, so that there will be no cause for judgment when you assemble together. And the other matters I will set in order when I come.",
+    "h": "",
+    "o": 34,
+    "l": "34"
+  },
+  {
+    "id": "53012001",
+    "b": 53,
+    "c": 12,
+    "v": 1,
+    "t": "Now brethren, I do not wish you to be ignorant concerning the spiritual gifts.",
+    "h": "CHAPTER TWELVE",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "53012002",
+    "b": 53,
+    "c": 12,
+    "v": 2,
+    "t": "You know that you were Gentiles, and were carried away with dumb idols, as you yourselves were led away again and again.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "53012003",
+    "b": 53,
+    "c": 12,
+    "v": 3,
+    "t": "Therefore, I am letting you know that no one speaking by the Spirit of God calls Jesus accursed; and no one can say that Jesus is Lord, except by the Holy Spirit.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "53012004",
+    "b": 53,
+    "c": 12,
+    "v": 4,
+    "t": "Now there are differences of gifts, but the same Spirit;",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "53012005",
+    "b": 53,
+    "c": 12,
+    "v": 5,
+    "t": "And there are differences of administrations, but the same Lord.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "53012006",
+    "b": 53,
+    "c": 12,
+    "v": 6,
+    "t": "And there are differences of operations, but it is the same God Who is working all things in all.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "53012007",
+    "b": 53,
+    "c": 12,
+    "v": 7,
+    "t": "But the manifestation of the Spirit is given to each one for the benefit of all.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "53012008",
+    "b": 53,
+    "c": 12,
+    "v": 8,
+    "t": "For to one, a word of wisdom is given by the Spirit; and to another, a word of knowledge according to the same Spirit;",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "53012009",
+    "b": 53,
+    "c": 12,
+    "v": 9,
+    "t": "And to a different one, faith by the same Spirit; and to another, gifts of healing by the same Spirit;",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "53012010",
+    "b": 53,
+    "c": 12,
+    "v": 10,
+    "t": "And to another, the working of miracles; and to another, prophecy; and to another, discerning of spirits; and to a different one, various languages; and to another, the interpretation of languages.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "53012011",
+    "b": 53,
+    "c": 12,
+    "v": 11,
+    "t": "But the one and the same Spirit is operating in all these things, dividing separately to each one as God Himself desires.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "53012012",
+    "b": 53,
+    "c": 12,
+    "v": 12,
+    "t": "For even as the body is one and has many members, yet all the members of the one body, though many, are one body; so also is Christ.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "53012013",
+    "b": 53,
+    "c": 12,
+    "v": 13,
+    "t": "For indeed, by one Spirit we were all baptized into one body—whether Jews or Greeks, whether bondmen or free—and we were all made to drink into one Spirit.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "53012014",
+    "b": 53,
+    "c": 12,
+    "v": 14,
+    "t": "For the body of Christ is not one member, but many.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "53012015",
+    "b": 53,
+    "c": 12,
+    "v": 15,
+    "t": "If the foot should say, “Because I am not a hand, I am not of the body,” would this then cause it not to be part of the body?",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "53012016",
+    "b": 53,
+    "c": 12,
+    "v": 16,
+    "t": "And if the ear should say, “Because I am not an eye, I am not of the body,” would this then cause it not to be part of the body?",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "53012017",
+    "b": 53,
+    "c": 12,
+    "v": 17,
+    "t": "If the whole body were an eye, where would the hearing be ? If the whole were hearing, where would the smelling be ?",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "53012018",
+    "b": 53,
+    "c": 12,
+    "v": 18,
+    "t": "But now has God Himself placed each one of the members in the body according to His own will.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "53012019",
+    "b": 53,
+    "c": 12,
+    "v": 19,
+    "t": "For if all were one member, where would the body be ?",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "53012020",
+    "b": 53,
+    "c": 12,
+    "v": 20,
+    "t": "But now are there many members, yet they are one body.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "53012021",
+    "b": 53,
+    "c": 12,
+    "v": 21,
+    "t": "And the eye is not able to say to the hand, “I have no need of you.” Or again, the head is not able to say to the feet, “I have no need of you.”",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "53012022",
+    "b": 53,
+    "c": 12,
+    "v": 22,
+    "t": "But much to the contrary, the members of the body that appear to be weaker are necessary;",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "53012023",
+    "b": 53,
+    "c": 12,
+    "v": 23,
+    "t": "And those members that we regard as less honorable to the body, upon these we bestow more abundant honor, and our less presentable parts are treated with greater modesty.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "53012024",
+    "b": 53,
+    "c": 12,
+    "v": 24,
+    "t": "But our more presentable parts do not have this need. Rather, God has tempered the body together, giving more abundant honor to those members that are deficient,",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "53012025",
+    "b": 53,
+    "c": 12,
+    "v": 25,
+    "t": "So that there might not be any division in the body, but that the members might have the same concern for one another.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "53012026",
+    "b": 53,
+    "c": 12,
+    "v": 26,
+    "t": "And if one member suffers, all the members suffer with him ; and if one member is glorified, all the members rejoice with him.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "53012027",
+    "b": 53,
+    "c": 12,
+    "v": 27,
+    "t": "Now you are the body of Christ, and you are all individual members.",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "53012028",
+    "b": 53,
+    "c": 12,
+    "v": 28,
+    "t": "And God Himself has placed certain ones in the church: first, apostles; secondly, prophets; thirdly, teachers; then miracles; then gifts of healings; helps; governments; various languages.",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "53012029",
+    "b": 53,
+    "c": 12,
+    "v": 29,
+    "t": "Are all apostles? Are all prophets? Are all teachers? Do all perform miracles?",
+    "h": "",
+    "o": 29,
+    "l": "29"
+  },
+  {
+    "id": "53012030",
+    "b": 53,
+    "c": 12,
+    "v": 30,
+    "t": "Do all have gifts of healing? Do all speak in different languages? Do all interpret?",
+    "h": "",
+    "o": 30,
+    "l": "30"
+  },
+  {
+    "id": "53012031",
+    "b": 53,
+    "c": 12,
+    "v": 31,
+    "t": "But earnestly desire the more edifying gifts; and yet I show you a way far surpassing all these.",
+    "h": "",
+    "o": 31,
+    "l": "31"
+  },
+  {
+    "id": "53013001",
+    "b": 53,
+    "c": 13,
+    "v": 1,
+    "t": "If I speak with the tongues of men and of angels, but do not have love, I have become a sounding brass or a clanging cymbal.",
+    "h": "CHAPTER THIRTEEN",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "53013002",
+    "b": 53,
+    "c": 13,
+    "v": 2,
+    "t": "If I have the gift of prophecy, and understand all mysteries and all knowledge, and if I have all faith, so as to remove mountains, but do not have love, I am nothing.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "53013003",
+    "b": 53,
+    "c": 13,
+    "v": 3,
+    "t": "And if I give away all my goods, and if I deliver up my body that I may be burned, but do not have love, I have gained nothing.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "53013004",
+    "b": 53,
+    "c": 13,
+    "v": 4,
+    "t": "Love is patient and is kind; love envies not, does not brag about itself, is not puffed up.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "53013005",
+    "b": 53,
+    "c": 13,
+    "v": 5,
+    "t": "Love does not behave disgracefully, does not seek its own things, is not easily provoked, thinks no evil,",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "53013006",
+    "b": 53,
+    "c": 13,
+    "v": 6,
+    "t": "Does not rejoice in iniquity, but rejoices in the truth.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "53013007",
+    "b": 53,
+    "c": 13,
+    "v": 7,
+    "t": "Love bears all things, believes all things, hopes all things, endures all things.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "53013008",
+    "b": 53,
+    "c": 13,
+    "v": 8,
+    "t": "Love never fails. But whether there be prophecies, they shall cease; whether there be languages, they shall cease; whether there be knowledge, it shall vanish away.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "53013009",
+    "b": 53,
+    "c": 13,
+    "v": 9,
+    "t": "For we know in part, and we prophesy in part;",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "53013010",
+    "b": 53,
+    "c": 13,
+    "v": 10,
+    "t": "But when that which is perfect has come, then that which is in part shall be set aside.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "53013011",
+    "b": 53,
+    "c": 13,
+    "v": 11,
+    "t": "When I was a child, I spoke as a child, I understood as a child, I reasoned as a child; but when I became a man, I set aside the things of a child.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "53013012",
+    "b": 53,
+    "c": 13,
+    "v": 12,
+    "t": "For now we see through a glass darkly, but then we shall see face to face; now I know in part, but then I shall know exactly as I have been known.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "53013013",
+    "b": 53,
+    "c": 13,
+    "v": 13,
+    "t": "And now, these three remain: faith, hope and love; but the greatest of these is love.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "53014001",
+    "b": 53,
+    "c": 14,
+    "v": 1,
+    "t": "Pursue love, and earnestly desire the spiritual gifts, but especially that you may prophesy.",
+    "h": "CHAPTER FOURTEEN",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "53014002",
+    "b": 53,
+    "c": 14,
+    "v": 2,
+    "t": "For the one who speaks in an unknown language is not speaking to men, but to God; for no one understands him. And indeed, what he speaks in his spirit is a mystery.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "53014003",
+    "b": 53,
+    "c": 14,
+    "v": 3,
+    "t": "On the other hand, the one who prophesies is speaking to men for edification and encouragement and comfort.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "53014004",
+    "b": 53,
+    "c": 14,
+    "v": 4,
+    "t": "The one who speaks in an unknown language is edifying only himself; but the one who prophesies is edifying the church.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "53014005",
+    "b": 53,
+    "c": 14,
+    "v": 5,
+    "t": "Now I would have all of you speak in foreign languages; but even more, I would have you prophesy; because greater is the one who prophesies than the one who speaks in languages, unless he interprets, so that the church may receive edification.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "53014006",
+    "b": 53,
+    "c": 14,
+    "v": 6,
+    "t": "And now, brethren, if I come to you speaking in foreign languages, of what benefit will it be to you, unless I speak to you either in revelation, or in knowledge, or in prophecy, or in teaching?",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "53014007",
+    "b": 53,
+    "c": 14,
+    "v": 7,
+    "t": "It is the same with the inanimate things that make sounds, whether a flute or harp; if they do not give distinction to the sounds, how will it be known what is being piped or harped?",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "53014008",
+    "b": 53,
+    "c": 14,
+    "v": 8,
+    "t": "For if the trumpet gives an uncertain sound, who will prepare himself for war?",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "53014009",
+    "b": 53,
+    "c": 14,
+    "v": 9,
+    "t": "In the same way also, unless you give intelligible speech, how will it be known what is being spoken? For you will be speaking gibberish into the air.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "53014010",
+    "b": 53,
+    "c": 14,
+    "v": 10,
+    "t": "There are so many kinds of voices in the world, and none of them is without definite sounds.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "53014011",
+    "b": 53,
+    "c": 14,
+    "v": 11,
+    "t": "Therefore, if I do not know the meaning of the sounds, I shall be a barbarian to the one who is speaking, and the one who is speaking will be a barbarian to me.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "53014012",
+    "b": 53,
+    "c": 14,
+    "v": 12,
+    "t": "In the same way, since you are desirous of spiritual gifts, seek them that you may abound for the edification of the church.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "53014013",
+    "b": 53,
+    "c": 14,
+    "v": 13,
+    "t": "For this reason, let the one who speaks in an unknown language pray that he may interpret.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "53014014",
+    "b": 53,
+    "c": 14,
+    "v": 14,
+    "t": "For if I pray in an unknown language, my spirit is praying, but my understanding is unfruitful.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "53014015",
+    "b": 53,
+    "c": 14,
+    "v": 15,
+    "t": "What then is the sum of it? I will pray with the spirit, but I will also pray with the understanding. I will praise with the spirit, but I will also praise with the understanding.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "53014016",
+    "b": 53,
+    "c": 14,
+    "v": 16,
+    "t": "Otherwise, if you bless with the spirit, how shall the one who sits in the room of the unlearned be able to say “Amen” when you give thanks, since he does not understand what you are saying?",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "53014017",
+    "b": 53,
+    "c": 14,
+    "v": 17,
+    "t": "For you may indeed give thanks well, but the other is not edified.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "53014018",
+    "b": 53,
+    "c": 14,
+    "v": 18,
+    "t": "I thank my God that I speak in languages more than all of you.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "53014019",
+    "b": 53,
+    "c": 14,
+    "v": 19,
+    "t": "But in the church, I desire to speak five words with my understanding rather than ten thousand words in an unknown language, so that I may also instruct others.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "53014020",
+    "b": 53,
+    "c": 14,
+    "v": 20,
+    "t": "Brethren, do not be children in your minds; however, in regard to malice be babes, but in your minds be fully mature.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "53014021",
+    "b": 53,
+    "c": 14,
+    "v": 21,
+    "t": "It is written in the law, “Therefore, in other languages and by other lips will I speak to this people; but even then, they will not hear Me, says the Lord.”",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "53014022",
+    "b": 53,
+    "c": 14,
+    "v": 22,
+    "t": "Consequently, gifts of languages are a sign—not for those who believe, but for those who do not believe. But prophecy is not for the unbelievers, but for those who believe.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "53014023",
+    "b": 53,
+    "c": 14,
+    "v": 23,
+    "t": "Therefore, if the whole church is assembled together in one place, and all are speaking in unknown languages, and unlearned persons or unbelievers come in, will they not say that you have lost your minds?",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "53014024",
+    "b": 53,
+    "c": 14,
+    "v": 24,
+    "t": "But if all prophesy, and an un-believer or unlearned person comes in, he is convicted by all, and he is discerned by all.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "53014025",
+    "b": 53,
+    "c": 14,
+    "v": 25,
+    "t": "And in this way the secrets of his heart are exposed; and so, bowing down on his face, he will worship God, declaring that God is indeed among you.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "53014026",
+    "b": 53,
+    "c": 14,
+    "v": 26,
+    "t": "What is it then, brethren? When you assemble together, each of you has a psalm, has a doctrine, has a language, has a revelation, or has an interpretation. Let all things be done for edification.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "53014027",
+    "b": 53,
+    "c": 14,
+    "v": 27,
+    "t": "If anyone speaks in a foreign language, let it be by two, or three at the most, and let that be in succession; and let one interpret.",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "53014028",
+    "b": 53,
+    "c": 14,
+    "v": 28,
+    "t": "But if there is no interpreter, let him be silent in the church, and let him speak within himself and to God.",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "53014029",
+    "b": 53,
+    "c": 14,
+    "v": 29,
+    "t": "And let the prophets speak, two or three in succession ; and let the others discern.",
+    "h": "",
+    "o": 29,
+    "l": "29"
+  },
+  {
+    "id": "53014030",
+    "b": 53,
+    "c": 14,
+    "v": 30,
+    "t": "But if anything be revealed to another who is sitting by, let the first one be silent.",
+    "h": "",
+    "o": 30,
+    "l": "30"
+  },
+  {
+    "id": "53014031",
+    "b": 53,
+    "c": 14,
+    "v": 31,
+    "t": "For your prophets can all prophesy one by one, so that everyone may learn and may be encouraged.",
+    "h": "",
+    "o": 31,
+    "l": "31"
+  },
+  {
+    "id": "53014032",
+    "b": 53,
+    "c": 14,
+    "v": 32,
+    "t": "And the spirits of the prophets are subject to the prophets.",
+    "h": "",
+    "o": 32,
+    "l": "32"
+  },
+  {
+    "id": "53014033",
+    "b": 53,
+    "c": 14,
+    "v": 33,
+    "t": "For God is not the author of confusion, but of peace, as in all the churches of the saints.",
+    "h": "",
+    "o": 33,
+    "l": "33"
+  },
+  {
+    "id": "53014034",
+    "b": 53,
+    "c": 14,
+    "v": 34,
+    "t": "Let your women be silent in the churches, for they are not allowed to speak; but they are to be in subjection, exactly as the law says.",
+    "h": "",
+    "o": 34,
+    "l": "34"
+  },
+  {
+    "id": "53014035",
+    "b": 53,
+    "c": 14,
+    "v": 35,
+    "t": "And if they wish to learn anything, let them ask their own husbands at home. For it is a shame for a woman to speak in church.",
+    "h": "",
+    "o": 35,
+    "l": "35"
+  },
+  {
+    "id": "53014036",
+    "b": 53,
+    "c": 14,
+    "v": 36,
+    "t": "WHAT? Did the Word of God originate with you? Or did it come only to you and no one else ?",
+    "h": "",
+    "o": 36,
+    "l": "36"
+  },
+  {
+    "id": "53014037",
+    "b": 53,
+    "c": 14,
+    "v": 37,
+    "t": "If anyone thinks that he is a prophet or spiritual, let him acknowledge that the things I write to you are commandments of the Lord.",
+    "h": "",
+    "o": 37,
+    "l": "37"
+  },
+  {
+    "id": "53014038",
+    "b": 53,
+    "c": 14,
+    "v": 38,
+    "t": "But if anyone chooses to be ignorant, let him be ignorant.",
+    "h": "",
+    "o": 38,
+    "l": "38"
+  },
+  {
+    "id": "53014039",
+    "b": 53,
+    "c": 14,
+    "v": 39,
+    "t": "So then, brethren, desire to prophesy, and do not forbid speaking in foreign languages.",
+    "h": "",
+    "o": 39,
+    "l": "39"
+  },
+  {
+    "id": "53014040",
+    "b": 53,
+    "c": 14,
+    "v": 40,
+    "t": "Let all things be done decently and in order.",
+    "h": "",
+    "o": 40,
+    "l": "40"
+  },
+  {
+    "id": "53015001",
+    "b": 53,
+    "c": 15,
+    "v": 1,
+    "t": "Now I am declaring to you, brethren, the same gospel that I proclaimed to you, which you also received, and in which you are now standing;",
+    "h": "CHAPTER FIFTEEN",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "53015002",
+    "b": 53,
+    "c": 15,
+    "v": 2,
+    "t": "By which you are also being saved, if you are holding fast the words that I proclaimed to you; otherwise you have believed in vain.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "53015003",
+    "b": 53,
+    "c": 15,
+    "v": 3,
+    "t": "For in the first place, I delivered to you what I also had received: that Christ died for our sins, according to the Scriptures;",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "53015004",
+    "b": 53,
+    "c": 15,
+    "v": 4,
+    "t": "And that He was buried; and that He was raised the third day, according to the Scriptures;",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "53015005",
+    "b": 53,
+    "c": 15,
+    "v": 5,
+    "t": "And that He appeared to Cephas, and then to the twelve.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "53015006",
+    "b": 53,
+    "c": 15,
+    "v": 6,
+    "t": "Then He appeared to over five hundred brethren at one time, of whom the greater part are alive until now, but some have fallen asleep.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "53015007",
+    "b": 53,
+    "c": 15,
+    "v": 7,
+    "t": "Next He appeared to James; then to all the apostles;",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "53015008",
+    "b": 53,
+    "c": 15,
+    "v": 8,
+    "t": "And last of all He appeared to me also, as one who was born of a miscarriage.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "53015009",
+    "b": 53,
+    "c": 15,
+    "v": 9,
+    "t": "For I am the least of the apostles, and am not fit even to be called an apostle, because I persecuted the church of God.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "53015010",
+    "b": 53,
+    "c": 15,
+    "v": 10,
+    "t": "But by the grace of God I am what I am, and His grace toward me has not been in vain; rather, I have labored more abundantly than all of them; however, it was not I, but the grace of God with me.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "53015011",
+    "b": 53,
+    "c": 15,
+    "v": 11,
+    "t": "Now then, whether I or they, so we preach, and so you have believed.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "53015012",
+    "b": 53,
+    "c": 15,
+    "v": 12,
+    "t": "But if Christ is being preached, that He rose from the dead, how is it that some among you are saying that there is no resurrection of the dead?",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "53015013",
+    "b": 53,
+    "c": 15,
+    "v": 13,
+    "t": "For if there is no resurrection from the dead, neither has Christ been raised.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "53015014",
+    "b": 53,
+    "c": 15,
+    "v": 14,
+    "t": "And if Christ has not been raised, then our preaching is in vain, and your faith is also in vain.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "53015015",
+    "b": 53,
+    "c": 15,
+    "v": 15,
+    "t": "And we are also found to be false witnesses of God; because we have testified of God that He raised Christ, Whom He did not raise, if indeed the dead are not raised.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "53015016",
+    "b": 53,
+    "c": 15,
+    "v": 16,
+    "t": "For if the dead are not raised, neither has Christ been raised.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "53015017",
+    "b": 53,
+    "c": 15,
+    "v": 17,
+    "t": "But if Christ has not been raised, your faith is vain; you are still in your sins,",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "53015018",
+    "b": 53,
+    "c": 15,
+    "v": 18,
+    "t": "And those who have fallen asleep in Christ have then perished.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "53015019",
+    "b": 53,
+    "c": 15,
+    "v": 19,
+    "t": "If in this life only we have hope in Christ, we are of all people most miserable.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "53015020",
+    "b": 53,
+    "c": 15,
+    "v": 20,
+    "t": "But now Christ has been raised from the dead; He has become the Firstfruit of those who have fallen asleep.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "53015021",
+    "b": 53,
+    "c": 15,
+    "v": 21,
+    "t": "For since by man came death, by Man also came the resurrection of the dead.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "53015022",
+    "b": 53,
+    "c": 15,
+    "v": 22,
+    "t": "For as in Adam all die, so also in Christ shall all be made alive.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "53015023",
+    "b": 53,
+    "c": 15,
+    "v": 23,
+    "t": "But each in his own order: Christ the Firstfruit; then, those who are Christ’s at His coming.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "53015024",
+    "b": 53,
+    "c": 15,
+    "v": 24,
+    "t": "Afterwards the end comes, when He shall have delivered up the kingdom to Him Who is God and Father, when He shall have put an end to all rule and all authority and power.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "53015025",
+    "b": 53,
+    "c": 15,
+    "v": 25,
+    "t": "For it is ordained that He reign until He has put all enemies under His feet.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "53015026",
+    "b": 53,
+    "c": 15,
+    "v": 26,
+    "t": "The last enemy to be destroyed is death.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "53015027",
+    "b": 53,
+    "c": 15,
+    "v": 27,
+    "t": "For He has put all things in subjection under His feet. But when it is said that all things have been put in subjection, it is clearly evident that it does not include Him Who put all things in subjection under Him.",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "53015028",
+    "b": 53,
+    "c": 15,
+    "v": 28,
+    "t": "But when He has put all things in subjection to Him, then shall the Son Himself also be subject to Him Who put all things in subjection to Him, so that God may be all in all.",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "53015029",
+    "b": 53,
+    "c": 15,
+    "v": 29,
+    "t": "Otherwise, what shall they do who have been baptized for the resurrection of the dead, if the dead are not raised at all? Why then are they baptized for the resurrection of the dead?",
+    "h": "",
+    "o": 29,
+    "l": "29"
+  },
+  {
+    "id": "53015030",
+    "b": 53,
+    "c": 15,
+    "v": 30,
+    "t": "Why are we also in danger every hour?",
+    "h": "",
+    "o": 30,
+    "l": "30"
+  },
+  {
+    "id": "53015031",
+    "b": 53,
+    "c": 15,
+    "v": 31,
+    "t": "I die daily by our boasting which I have in Christ Jesus our Lord.",
+    "h": "",
+    "o": 31,
+    "l": "31"
+  },
+  {
+    "id": "53015032",
+    "b": 53,
+    "c": 15,
+    "v": 32,
+    "t": "If I fought as a man with beasts in Ephesus, what did it profit me, if the dead are not raised? Let us eat and drink, for tomorrow we die.",
+    "h": "",
+    "o": 32,
+    "l": "32"
+  },
+  {
+    "id": "53015033",
+    "b": 53,
+    "c": 15,
+    "v": 33,
+    "t": "Do not be deceived; evil companionship corrupts good behavior.",
+    "h": "",
+    "o": 33,
+    "l": "33"
+  },
+  {
+    "id": "53015034",
+    "b": 53,
+    "c": 15,
+    "v": 34,
+    "t": "Awake to righteousness, and do not sin, for some of you do not have the knowledge of God. I say this to your shame.",
+    "h": "",
+    "o": 34,
+    "l": "34"
+  },
+  {
+    "id": "53015035",
+    "b": 53,
+    "c": 15,
+    "v": 35,
+    "t": "Nevertheless, someone will say, “How are the dead raised? And with what body do they come?”",
+    "h": "",
+    "o": 35,
+    "l": "35"
+  },
+  {
+    "id": "53015036",
+    "b": 53,
+    "c": 15,
+    "v": 36,
+    "t": "Fool! What you sow does not come to life unless it dies.",
+    "h": "",
+    "o": 36,
+    "l": "36"
+  },
+  {
+    "id": "53015037",
+    "b": 53,
+    "c": 15,
+    "v": 37,
+    "t": "And what you sow is not the body that shall be; rather, it is bare grain—it may be of wheat, or one of the other grains ;",
+    "h": "",
+    "o": 37,
+    "l": "37"
+  },
+  {
+    "id": "53015038",
+    "b": 53,
+    "c": 15,
+    "v": 38,
+    "t": "And God gives it a body according to His will, and to each of the seeds its own body.",
+    "h": "",
+    "o": 38,
+    "l": "38"
+  },
+  {
+    "id": "53015039",
+    "b": 53,
+    "c": 15,
+    "v": 39,
+    "t": "Likewise, not all flesh is the same flesh. Rather, there is one flesh of men, and another flesh of beasts, and another of fish, and another of birds.",
+    "h": "",
+    "o": 39,
+    "l": "39"
+  },
+  {
+    "id": "53015040",
+    "b": 53,
+    "c": 15,
+    "v": 40,
+    "t": "And there are heavenly bodies, and earthly bodies; but the glory of the heavenly is different, and the glory of the earthly is different.",
+    "h": "",
+    "o": 40,
+    "l": "40"
+  },
+  {
+    "id": "53015041",
+    "b": 53,
+    "c": 15,
+    "v": 41,
+    "t": "There is one glory of the sun, and another glory of the moon, and another glory of the stars; for one star differs from another star in glory.",
+    "h": "",
+    "o": 41,
+    "l": "41"
+  },
+  {
+    "id": "53015042",
+    "b": 53,
+    "c": 15,
+    "v": 42,
+    "t": "So also is the resurrection of the dead. It is sown in corruption; it is raised in incorruption.",
+    "h": "",
+    "o": 42,
+    "l": "42"
+  },
+  {
+    "id": "53015043",
+    "b": 53,
+    "c": 15,
+    "v": 43,
+    "t": "It is sown in dishonor; it is raised in glory. It is sown in weakness; it is raised in power.",
+    "h": "",
+    "o": 43,
+    "l": "43"
+  },
+  {
+    "id": "53015044",
+    "b": 53,
+    "c": 15,
+    "v": 44,
+    "t": "It is sown a natural body; it is raised a spiritual body. There is a natural body, and there is a spiritual body;",
+    "h": "",
+    "o": 44,
+    "l": "44"
+  },
+  {
+    "id": "53015045",
+    "b": 53,
+    "c": 15,
+    "v": 45,
+    "t": "Accordingly, it is written, “The first man, Adam, became a living soul; the last Adam became an ever-living Spirit.”",
+    "h": "",
+    "o": 45,
+    "l": "45"
+  },
+  {
+    "id": "53015046",
+    "b": 53,
+    "c": 15,
+    "v": 46,
+    "t": "However, the spiritual was not first, but the natural—then the spiritual.",
+    "h": "",
+    "o": 46,
+    "l": "46"
+  },
+  {
+    "id": "53015047",
+    "b": 53,
+    "c": 15,
+    "v": 47,
+    "t": "The first man is of the earth—made of dust. The second Man is the Lord from heaven.",
+    "h": "",
+    "o": 47,
+    "l": "47"
+  },
+  {
+    "id": "53015048",
+    "b": 53,
+    "c": 15,
+    "v": 48,
+    "t": "As is the one made of dust, so also are all those who are made of dust; and as is the heavenly one, so also are all those who are heavenly.",
+    "h": "",
+    "o": 48,
+    "l": "48"
+  },
+  {
+    "id": "53015049",
+    "b": 53,
+    "c": 15,
+    "v": 49,
+    "t": "And as we have borne the image of the one made of dust, we shall also bear the image of the heavenly One.",
+    "h": "",
+    "o": 49,
+    "l": "49"
+  },
+  {
+    "id": "53015050",
+    "b": 53,
+    "c": 15,
+    "v": 50,
+    "t": "Now this I say, brethren, that flesh and blood cannot inherit the kingdom of God, nor does corruption inherit incorruption.",
+    "h": "",
+    "o": 50,
+    "l": "50"
+  },
+  {
+    "id": "53015051",
+    "b": 53,
+    "c": 15,
+    "v": 51,
+    "t": "Behold, I show you a mystery: we shall not all fall asleep, but we shall all be changed,",
+    "h": "",
+    "o": 51,
+    "l": "51"
+  },
+  {
+    "id": "53015052",
+    "b": 53,
+    "c": 15,
+    "v": 52,
+    "t": "In an instant, in the twinkling of an eye, at the last trumpet; for the trumpet shall sound, and the dead shall be raised incorruptible, and we shall be changed.",
+    "h": "",
+    "o": 52,
+    "l": "52"
+  },
+  {
+    "id": "53015053",
+    "b": 53,
+    "c": 15,
+    "v": 53,
+    "t": "For this corruptible must put on incorruptibility, and this mortal must put on immortality.",
+    "h": "",
+    "o": 53,
+    "l": "53"
+  },
+  {
+    "id": "53015054",
+    "b": 53,
+    "c": 15,
+    "v": 54,
+    "t": "Now when this corruptible shall have put on incorruptibility, and this mortal shall have put on immortality, then shall come to pass the saying that is written: “Death is swallowed up in victory.”",
+    "h": "",
+    "o": 54,
+    "l": "54"
+  },
+  {
+    "id": "53015055",
+    "b": 53,
+    "c": 15,
+    "v": 55,
+    "t": "O death, where is your sting? O grave, where is your victory?",
+    "h": "",
+    "o": 55,
+    "l": "55"
+  },
+  {
+    "id": "53015056",
+    "b": 53,
+    "c": 15,
+    "v": 56,
+    "t": "Now the sting of death is sin, and the power of sin is the law.",
+    "h": "",
+    "o": 56,
+    "l": "56"
+  },
+  {
+    "id": "53015057",
+    "b": 53,
+    "c": 15,
+    "v": 57,
+    "t": "But thanks be to God, Who gives us the victory through our Lord Jesus Christ.",
+    "h": "",
+    "o": 57,
+    "l": "57"
+  },
+  {
+    "id": "53015058",
+    "b": 53,
+    "c": 15,
+    "v": 58,
+    "t": "So then, my beloved brethren, be steadfast, immovable, always abounding in the work of the Lord, knowing that your labor is not in vain in the Lord.",
+    "h": "",
+    "o": 58,
+    "l": "58"
+  },
+  {
+    "id": "53016001",
+    "b": 53,
+    "c": 16,
+    "v": 1,
+    "t": "Now concerning the collection that is being made for the saints: as I directed the churches in Galatia, so you also are to do.",
+    "h": "CHAPTER SIXTEEN",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "53016002",
+    "b": 53,
+    "c": 16,
+    "v": 2,
+    "t": "Every first day of the week, each one is to put aside food at home, storing up whatever he may be prospered in, so that there need not be any collections when I come.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "53016003",
+    "b": 53,
+    "c": 16,
+    "v": 3,
+    "t": "And when I come, whomever you approve in your letters, these are the ones I will send to carry your bounty to Jerusalem.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "53016004",
+    "b": 53,
+    "c": 16,
+    "v": 4,
+    "t": "Now if it be suitable for me to go also, they shall go with me.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "53016005",
+    "b": 53,
+    "c": 16,
+    "v": 5,
+    "t": "But I will come to you after I pass through Macedonia, for I am going through Macedonia.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "53016006",
+    "b": 53,
+    "c": 16,
+    "v": 6,
+    "t": "It may be that I shall stay with you, or that I may even winter there, so that you may send me forth on my journey wherever I may go.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "53016007",
+    "b": 53,
+    "c": 16,
+    "v": 7,
+    "t": "For at this time I will not stop to see you, but I hope at some future time to stay with you, if the Lord permits.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "53016008",
+    "b": 53,
+    "c": 16,
+    "v": 8,
+    "t": "But I will remain in Ephesus until Pentecost.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "53016009",
+    "b": 53,
+    "c": 16,
+    "v": 9,
+    "t": "For a great and effective door has been opened to me, and there are many adversaries.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "53016010",
+    "b": 53,
+    "c": 16,
+    "v": 10,
+    "t": "Now if Timothy comes, see to it that he may be with you without fear; for he labors in the work of the Lord, even as I do.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "53016011",
+    "b": 53,
+    "c": 16,
+    "v": 11,
+    "t": "Therefore, do not let anyone despise him; but send him forth on his journey in peace, so that he may come to me; for I am waiting for him with the brethren.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "53016012",
+    "b": 53,
+    "c": 16,
+    "v": 12,
+    "t": "Now concerning Apollos, our brother, I strongly urged him to go to you with the brethren. However, it was not at all his desire to come to you at this time; but he will come when he has an opportunity.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "53016013",
+    "b": 53,
+    "c": 16,
+    "v": 13,
+    "t": "Be watchful; stand fast in the faith; conduct yourselves with courage. Be strong in the Lord.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "53016014",
+    "b": 53,
+    "c": 16,
+    "v": 14,
+    "t": "Let everything you do be done in love.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "53016015",
+    "b": 53,
+    "c": 16,
+    "v": 15,
+    "t": "Now I exhort you, brethren, (You know the household of Stephanas, that it is the first fruit of Achaia, and that they have dedicated themselves to the service of the saints.)",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "53016016",
+    "b": 53,
+    "c": 16,
+    "v": 16,
+    "t": "To submit yourselves to such as these, and to everyone who is working and laboring with us.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "53016017",
+    "b": 53,
+    "c": 16,
+    "v": 17,
+    "t": "Now I rejoice at the coming of Stephanas and Fortunatus and Achaicus because they have made up for your deficiency.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "53016018",
+    "b": 53,
+    "c": 16,
+    "v": 18,
+    "t": "For they refreshed my spirit and yours; therefore, recognize those who are serving.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "53016019",
+    "b": 53,
+    "c": 16,
+    "v": 19,
+    "t": "The churches in Asia salute you. Aquila and Priscilla salute you much in the Lord, together with the church in their home.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "53016020",
+    "b": 53,
+    "c": 16,
+    "v": 20,
+    "t": "All the brethren salute you. Greet one another with a holy kiss.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "53016021",
+    "b": 53,
+    "c": 16,
+    "v": 21,
+    "t": "The salutation of Paul by my own hand.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "53016022",
+    "b": 53,
+    "c": 16,
+    "v": 22,
+    "t": "If anyone does not love the Lord Jesus Christ, let him be accursed. Our Lord shall come!",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "53016023",
+    "b": 53,
+    "c": 16,
+    "v": 23,
+    "t": "The grace of the Lord Jesus Christ be with you.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "53016024",
+    "b": 53,
+    "c": 16,
+    "v": 24,
+    "t": "My love be with you all in Christ Jesus. Amen. The first epistle to the Corinthians, written from Philippi by Stephanas and Fortunatus and Achaicus and Timothy",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  }
+]

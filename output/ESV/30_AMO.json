@@ -1,0 +1,1462 @@
+[
+  {
+    "id": "30001001",
+    "b": 30,
+    "c": 1,
+    "v": 1,
+    "t": "The words of Amos, who was among the shepherds of Tekoa, which he saw concerning Israel in the days of Uzziah king of Judah and in the days of Jeroboam the son of Joash, king of Israel, two years before the earthquake.",
+    "h": "",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "30001002",
+    "b": 30,
+    "c": 1,
+    "v": 2,
+    "t": "And he said: “The LORD roars from Zion and utters his voice from Jerusalem; the pastures of the shepherds mourn, and the top of Carmel withers.”",
+    "h": "Judgment on Israel’s Neighbors",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "30001003",
+    "b": 30,
+    "c": 1,
+    "v": 3,
+    "t": "Thus says the LORD : “For three transgressions of Damascus, and for four, I will not revoke the punishment, because they have threshed Gilead with threshing sledges of iron.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "30001004",
+    "b": 30,
+    "c": 1,
+    "v": 4,
+    "t": "So I will send a fire upon the house of Hazael, and it shall devour the strongholds of Ben-hadad.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "30001005",
+    "b": 30,
+    "c": 1,
+    "v": 5,
+    "t": "I will break the gate-bar of Damascus, and cut off the inhabitants from the Valley of Aven, and him who holds the scepter from Beth-eden; and the people of Syria shall go into exile to Kir,” says the LORD.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "30001006",
+    "b": 30,
+    "c": 1,
+    "v": 6,
+    "t": "Thus says the LORD : “For three transgressions of Gaza, and for four, I will not revoke the punishment, because they carried into exile a whole people to deliver them up to Edom.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "30001007",
+    "b": 30,
+    "c": 1,
+    "v": 7,
+    "t": "So I will send a fire upon the wall of Gaza, and it shall devour her strongholds.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "30001008",
+    "b": 30,
+    "c": 1,
+    "v": 8,
+    "t": "I will cut off the inhabitants from Ashdod, and him who holds the scepter from Ashkelon; I will turn my hand against Ekron, and the remnant of the Philistines shall perish,” says the Lord GOD.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "30001009",
+    "b": 30,
+    "c": 1,
+    "v": 9,
+    "t": "Thus says the LORD : “For three transgressions of Tyre, and for four, I will not revoke the punishment, because they delivered up a whole people to Edom, and did not remember the covenant of brotherhood.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "30001010",
+    "b": 30,
+    "c": 1,
+    "v": 10,
+    "t": "So I will send a fire upon the wall of Tyre, and it shall devour her strongholds.”",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "30001011",
+    "b": 30,
+    "c": 1,
+    "v": 11,
+    "t": "Thus says the LORD : “For three transgressions of Edom, and for four, I will not revoke the punishment, because he pursued his brother with the sword and cast off all pity, and his anger tore perpetually, and he kept his wrath forever.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "30001012",
+    "b": 30,
+    "c": 1,
+    "v": 12,
+    "t": "So I will send a fire upon Teman, and it shall devour the strongholds of Bozrah.”",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "30001013",
+    "b": 30,
+    "c": 1,
+    "v": 13,
+    "t": "Thus says the LORD : “For three transgressions of the Ammonites, and for four, I will not revoke the punishment, because they have ripped open pregnant women in Gilead, that they might enlarge their border.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "30001014",
+    "b": 30,
+    "c": 1,
+    "v": 14,
+    "t": "So I will kindle a fire in the wall of Rabbah, and it shall devour her strongholds, with shouting on the day of battle, with a tempest in the day of the whirlwind;",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "30001015",
+    "b": 30,
+    "c": 1,
+    "v": 15,
+    "t": "and their king shall go into exile, he and his princes together,” says the LORD.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "30002001",
+    "b": 30,
+    "c": 2,
+    "v": 1,
+    "t": "Thus says the LORD : “For three transgressions of Moab, and for four, I will not revoke the punishment, because he burned to lime the bones of the king of Edom.",
+    "h": "",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "30002002",
+    "b": 30,
+    "c": 2,
+    "v": 2,
+    "t": "So I will send a fire upon Moab, and it shall devour the strongholds of Kerioth, and Moab shall die amid uproar, amid shouting and the sound of the trumpet;",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "30002003",
+    "b": 30,
+    "c": 2,
+    "v": 3,
+    "t": "I will cut off the ruler from its midst, and will kill all its princes with him,” says the LORD.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "30002004",
+    "b": 30,
+    "c": 2,
+    "v": 4,
+    "t": "Thus says the LORD : “For three transgressions of Judah, and for four, I will not revoke the punishment, because they have rejected the law of the LORD, and have not kept his statutes, but their lies have led them astray, those after which their fathers walked.",
+    "h": "Judgment on Judah",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "30002005",
+    "b": 30,
+    "c": 2,
+    "v": 5,
+    "t": "So I will send a fire upon Judah, and it shall devour the strongholds of Jerusalem.”",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "30002006",
+    "b": 30,
+    "c": 2,
+    "v": 6,
+    "t": "Thus says the LORD : “For three transgressions of Israel, and for four, I will not revoke the punishment, because they sell the righteous for silver, and the needy for a pair of sandals—",
+    "h": "Judgment on Israel",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "30002007",
+    "b": 30,
+    "c": 2,
+    "v": 7,
+    "t": "those who trample the head of the poor into the dust of the earth and turn aside the way of the afflicted; a man and his father go in to the same girl, so that my holy name is profaned;",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "30002008",
+    "b": 30,
+    "c": 2,
+    "v": 8,
+    "t": "they lay themselves down beside every altar on garments taken in pledge, and in the house of their God they drink the wine of those who have been fined.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "30002009",
+    "b": 30,
+    "c": 2,
+    "v": 9,
+    "t": "“Yet it was I who destroyed the Amorite before them, whose height was like the height of the cedars and who was as strong as the oaks; I destroyed his fruit above and his roots beneath.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "30002010",
+    "b": 30,
+    "c": 2,
+    "v": 10,
+    "t": "Also it was I who brought you up out of the land of Egypt and led you forty years in the wilderness, to possess the land of the Amorite.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "30002011",
+    "b": 30,
+    "c": 2,
+    "v": 11,
+    "t": "And I raised up some of your sons for prophets, and some of your young men for Nazirites. Is it not indeed so, O people of Israel?” declares the LORD.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "30002012",
+    "b": 30,
+    "c": 2,
+    "v": 12,
+    "t": "“But you made the Nazirites drink wine, and commanded the prophets, saying, ‘You shall not prophesy.’",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "30002013",
+    "b": 30,
+    "c": 2,
+    "v": 13,
+    "t": "“Behold, I will press you down in your place, as a cart full of sheaves presses down.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "30002014",
+    "b": 30,
+    "c": 2,
+    "v": 14,
+    "t": "Flight shall perish from the swift, and the strong shall not retain his strength, nor shall the mighty save his life;",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "30002015",
+    "b": 30,
+    "c": 2,
+    "v": 15,
+    "t": "he who handles the bow shall not stand, and he who is swift of foot shall not save himself, nor shall he who rides the horse save his life;",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "30002016",
+    "b": 30,
+    "c": 2,
+    "v": 16,
+    "t": "and he who is stout of heart among the mighty shall flee away naked in that day,” declares the LORD.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "30003001",
+    "b": 30,
+    "c": 3,
+    "v": 1,
+    "t": "Hear this word that the LORD has spoken against you, O people of Israel, against the whole family that I brought up out of the land of Egypt:",
+    "h": "Israel’s Guilt and Punishment",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "30003002",
+    "b": 30,
+    "c": 3,
+    "v": 2,
+    "t": "“You only have I known of all the families of the earth; therefore I will punish you for all your iniquities.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "30003003",
+    "b": 30,
+    "c": 3,
+    "v": 3,
+    "t": "“Do two walk together, unless they have agreed to meet?",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "30003004",
+    "b": 30,
+    "c": 3,
+    "v": 4,
+    "t": "Does a lion roar in the forest, when he has no prey? Does a young lion cry out from his den, if he has taken nothing?",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "30003005",
+    "b": 30,
+    "c": 3,
+    "v": 5,
+    "t": "Does a bird fall in a snare on the earth, when there is no trap for it? Does a snare spring up from the ground, when it has taken nothing?",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "30003006",
+    "b": 30,
+    "c": 3,
+    "v": 6,
+    "t": "Is a trumpet blown in a city, and the people are not afraid? Does disaster come to a city, unless the LORD has done it?",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "30003007",
+    "b": 30,
+    "c": 3,
+    "v": 7,
+    "t": "“For the Lord GOD does nothing without revealing his secret to his servants the prophets.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "30003008",
+    "b": 30,
+    "c": 3,
+    "v": 8,
+    "t": "The lion has roared; who will not fear? The Lord GOD has spoken; who can but prophesy?”",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "30003009",
+    "b": 30,
+    "c": 3,
+    "v": 9,
+    "t": "Proclaim to the strongholds in Ashdod and to the strongholds in the land of Egypt, and say, “Assemble yourselves on the mountains of Samaria, and see the great tumults within her, and the oppressed in her midst.”",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "30003010",
+    "b": 30,
+    "c": 3,
+    "v": 10,
+    "t": "“They do not know how to do right,” declares the LORD, “those who store up violence and robbery in their strongholds.”",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "30003011",
+    "b": 30,
+    "c": 3,
+    "v": 11,
+    "t": "Therefore thus says the Lord GOD : “An adversary shall surround the land and bring down your defenses from you, and your strongholds shall be plundered.”",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "30003012",
+    "b": 30,
+    "c": 3,
+    "v": 12,
+    "t": "Thus says the LORD : “As the shepherd rescues from the mouth of the lion two legs, or a piece of an ear, so shall the people of Israel who dwell in Samaria be rescued, with the corner of a couch and part of a bed.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "30003013",
+    "b": 30,
+    "c": 3,
+    "v": 13,
+    "t": "“Hear, and testify against the house of Jacob,” declares the Lord GOD, the God of hosts,",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "30003014",
+    "b": 30,
+    "c": 3,
+    "v": 14,
+    "t": "“that on the day I punish Israel for his transgressions, I will punish the altars of Bethel, and the horns of the altar shall be cut off and fall to the ground.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "30003015",
+    "b": 30,
+    "c": 3,
+    "v": 15,
+    "t": "I will strike the winter house along with the summer house, and the houses of ivory shall perish, and the great houses shall come to an end,” declares the LORD.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "30004001",
+    "b": 30,
+    "c": 4,
+    "v": 1,
+    "t": "“Hear this word, you cows of Bashan, who are on the mountain of Samaria, who oppress the poor, who crush the needy, who say to your husbands, ‘Bring, that we may drink!’",
+    "h": "",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "30004002",
+    "b": 30,
+    "c": 4,
+    "v": 2,
+    "t": "The Lord GOD has sworn by his holiness that, behold, the days are coming upon you, when they shall take you away with hooks, even the last of you with fishhooks.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "30004003",
+    "b": 30,
+    "c": 4,
+    "v": 3,
+    "t": "And you shall go out through the breaches, each one straight ahead; and you shall be cast out into Harmon,” declares the LORD.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "30004004",
+    "b": 30,
+    "c": 4,
+    "v": 4,
+    "t": "“Come to Bethel, and transgress; to Gilgal, and multiply transgression; bring your sacrifices every morning, your tithes every three days;",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "30004005",
+    "b": 30,
+    "c": 4,
+    "v": 5,
+    "t": "offer a sacrifice of thanksgiving of that which is leavened, and proclaim freewill offerings, publish them; for so you love to do, O people of Israel!” declares the Lord GOD.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "30004006",
+    "b": 30,
+    "c": 4,
+    "v": 6,
+    "t": "“I gave you cleanness of teeth in all your cities, and lack of bread in all your places, yet you did not return to me,” declares the LORD.",
+    "h": "Israel Has Not Returned to the LORD",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "30004007",
+    "b": 30,
+    "c": 4,
+    "v": 7,
+    "t": "“I also withheld the rain from you when there were yet three months to the harvest; I would send rain on one city, and send no rain on another city; one field would have rain, and the field on which it did not rain would wither;",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "30004008",
+    "b": 30,
+    "c": 4,
+    "v": 8,
+    "t": "so two or three cities would wander to another city to drink water, and would not be satisfied; yet you did not return to me,” declares the LORD.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "30004009",
+    "b": 30,
+    "c": 4,
+    "v": 9,
+    "t": "“I struck you with blight and mildew; your many gardens and your vineyards, your fig trees and your olive trees the locust devoured; yet you did not return to me,” declares the LORD.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "30004010",
+    "b": 30,
+    "c": 4,
+    "v": 10,
+    "t": "“I sent among you a pestilence after the manner of Egypt; I killed your young men with the sword, and carried away your horses, and I made the stench of your camp go up into your nostrils; yet you did not return to me,” declares the LORD.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "30004011",
+    "b": 30,
+    "c": 4,
+    "v": 11,
+    "t": "“I overthrew some of you, as when God overthrew Sodom and Gomorrah, and you were as a brand plucked out of the burning; yet you did not return to me,” declares the LORD.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "30004012",
+    "b": 30,
+    "c": 4,
+    "v": 12,
+    "t": "“Therefore thus I will do to you, O Israel; because I will do this to you, prepare to meet your God, O Israel!”",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "30004013",
+    "b": 30,
+    "c": 4,
+    "v": 13,
+    "t": "For behold, he who forms the mountains and creates the wind, and declares to man what is his thought, who makes the morning darkness, and treads on the heights of the earth— the LORD, the God of hosts, is his name!",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "30005001",
+    "b": 30,
+    "c": 5,
+    "v": 1,
+    "t": "Hear this word that I take up over you in lamentation, O house of Israel:",
+    "h": "Seek the LORD and Live",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "30005002",
+    "b": 30,
+    "c": 5,
+    "v": 2,
+    "t": "“Fallen, no more to rise, is the virgin Israel; forsaken on her land, with none to raise her up.”",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "30005003",
+    "b": 30,
+    "c": 5,
+    "v": 3,
+    "t": "For thus says the Lord GOD : “The city that went out a thousand shall have a hundred left, and that which went out a hundred shall have ten left to the house of Israel.”",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "30005004",
+    "b": 30,
+    "c": 5,
+    "v": 4,
+    "t": "For thus says the LORD to the house of Israel: “Seek me and live;",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "30005005",
+    "b": 30,
+    "c": 5,
+    "v": 5,
+    "t": "but do not seek Bethel, and do not enter into Gilgal or cross over to Beersheba; for Gilgal shall surely go into exile, and Bethel shall come to nothing.”",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "30005006",
+    "b": 30,
+    "c": 5,
+    "v": 6,
+    "t": "Seek the LORD and live, lest he break out like fire in the house of Joseph, and it devour, with none to quench it for Bethel,",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "30005007",
+    "b": 30,
+    "c": 5,
+    "v": 7,
+    "t": "O you who turn justice to wormwood and cast down righteousness to the earth!",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "30005008",
+    "b": 30,
+    "c": 5,
+    "v": 8,
+    "t": "He who made the Pleiades and Orion, and turns deep darkness into the morning and darkens the day into night, who calls for the waters of the sea and pours them out on the surface of the earth, the LORD is his name;",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "30005009",
+    "b": 30,
+    "c": 5,
+    "v": 9,
+    "t": "who makes destruction flash forth against the strong, so that destruction comes upon the fortress.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "30005010",
+    "b": 30,
+    "c": 5,
+    "v": 10,
+    "t": "They hate him who reproves in the gate, and they abhor him who speaks the truth.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "30005011",
+    "b": 30,
+    "c": 5,
+    "v": 11,
+    "t": "Therefore because you trample on the poor and you exact taxes of grain from him, you have built houses of hewn stone, but you shall not dwell in them; you have planted pleasant vineyards, but you shall not drink their wine.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "30005012",
+    "b": 30,
+    "c": 5,
+    "v": 12,
+    "t": "For I know how many are your transgressions and how great are your sins— you who afflict the righteous, who take a bribe, and turn aside the needy in the gate.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "30005013",
+    "b": 30,
+    "c": 5,
+    "v": 13,
+    "t": "Therefore he who is prudent will keep silent in such a time, for it is an evil time.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "30005014",
+    "b": 30,
+    "c": 5,
+    "v": 14,
+    "t": "Seek good, and not evil, that you may live; and so the LORD, the God of hosts, will be with you, as you have said.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "30005015",
+    "b": 30,
+    "c": 5,
+    "v": 15,
+    "t": "Hate evil, and love good, and establish justice in the gate; it may be that the LORD, the God of hosts, will be gracious to the remnant of Joseph.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "30005016",
+    "b": 30,
+    "c": 5,
+    "v": 16,
+    "t": "Therefore thus says the LORD, the God of hosts, the Lord: “In all the squares there shall be wailing, and in all the streets they shall say, ‘Alas! Alas!’ They shall call the farmers to mourning and to wailing those who are skilled in lamentation,",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "30005017",
+    "b": 30,
+    "c": 5,
+    "v": 17,
+    "t": "and in all vineyards there shall be wailing, for I will pass through your midst,” says the LORD.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "30005018",
+    "b": 30,
+    "c": 5,
+    "v": 18,
+    "t": "Woe to you who desire the day of the LORD ! Why would you have the day of the LORD ? It is darkness, and not light,",
+    "h": "Let Justice Roll Down",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "30005019",
+    "b": 30,
+    "c": 5,
+    "v": 19,
+    "t": "as if a man fled from a lion, and a bear met him, or went into the house and leaned his hand against the wall, and a serpent bit him.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "30005020",
+    "b": 30,
+    "c": 5,
+    "v": 20,
+    "t": "Is not the day of the LORD darkness, and not light, and gloom with no brightness in it?",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "30005021",
+    "b": 30,
+    "c": 5,
+    "v": 21,
+    "t": "“I hate, I despise your feasts, and I take no delight in your solemn assemblies.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "30005022",
+    "b": 30,
+    "c": 5,
+    "v": 22,
+    "t": "Even though you offer me your burnt offerings and grain offerings, I will not accept them; and the peace offerings of your fattened animals, I will not look upon them.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "30005023",
+    "b": 30,
+    "c": 5,
+    "v": 23,
+    "t": "Take away from me the noise of your songs; to the melody of your harps I will not listen.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "30005024",
+    "b": 30,
+    "c": 5,
+    "v": 24,
+    "t": "But let justice roll down like waters, and righteousness like an ever-flowing stream.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "30005025",
+    "b": 30,
+    "c": 5,
+    "v": 25,
+    "t": "“Did you bring to me sacrifices and offerings during the forty years in the wilderness, O house of Israel?",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "30005026",
+    "b": 30,
+    "c": 5,
+    "v": 26,
+    "t": "You shall take up Sikkuth your king, and Kiyyun your star-god—your images that you made for yourselves,",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "30005027",
+    "b": 30,
+    "c": 5,
+    "v": 27,
+    "t": "and I will send you into exile beyond Damascus,” says the LORD, whose name is the God of hosts.",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "30006001",
+    "b": 30,
+    "c": 6,
+    "v": 1,
+    "t": "“Woe to those who are at ease in Zion, and to those who feel secure on the mountain of Samaria, the notable men of the first of the nations, to whom the house of Israel comes!",
+    "h": "Woe to Those at Ease in Zion",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "30006002",
+    "b": 30,
+    "c": 6,
+    "v": 2,
+    "t": "Pass over to Calneh, and see, and from there go to Hamath the great; then go down to Gath of the Philistines. Are you better than these kingdoms? Or is their territory greater than your territory,",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "30006003",
+    "b": 30,
+    "c": 6,
+    "v": 3,
+    "t": "O you who put far away the day of disaster and bring near the seat of violence?",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "30006004",
+    "b": 30,
+    "c": 6,
+    "v": 4,
+    "t": "“Woe to those who lie on beds of ivory and stretch themselves out on their couches, and eat lambs from the flock and calves from the midst of the stall,",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "30006005",
+    "b": 30,
+    "c": 6,
+    "v": 5,
+    "t": "who sing idle songs to the sound of the harp and like David invent for themselves instruments of music,",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "30006006",
+    "b": 30,
+    "c": 6,
+    "v": 6,
+    "t": "who drink wine in bowls and anoint themselves with the finest oils, but are not grieved over the ruin of Joseph!",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "30006007",
+    "b": 30,
+    "c": 6,
+    "v": 7,
+    "t": "Therefore they shall now be the first of those who go into exile, and the revelry of those who stretch themselves out shall pass away.”",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "30006008",
+    "b": 30,
+    "c": 6,
+    "v": 8,
+    "t": "The Lord GOD has sworn by himself, declares the LORD, the God of hosts: “I abhor the pride of Jacob and hate his strongholds, and I will deliver up the city and all that is in it.”",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "30006009",
+    "b": 30,
+    "c": 6,
+    "v": 9,
+    "t": "And if ten men remain in one house, they shall die.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "30006010",
+    "b": 30,
+    "c": 6,
+    "v": 10,
+    "t": "And when one’s relative, the one who anoints him for burial, shall take him up to bring the bones out of the house, and shall say to him who is in the innermost parts of the house, “Is there still anyone with you?” he shall say, “No”; and he shall say, “Silence! We must not mention the name of the LORD.”",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "30006011",
+    "b": 30,
+    "c": 6,
+    "v": 11,
+    "t": "For behold, the LORD commands, and the great house shall be struck down into fragments, and the little house into bits.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "30006012",
+    "b": 30,
+    "c": 6,
+    "v": 12,
+    "t": "Do horses run on rocks? Does one plow there with oxen? But you have turned justice into poison and the fruit of righteousness into wormwood —",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "30006013",
+    "b": 30,
+    "c": 6,
+    "v": 13,
+    "t": "you who rejoice in Lo-debar, who say, “Have we not by our own strength captured Karnaim for ourselves?”",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "30006014",
+    "b": 30,
+    "c": 6,
+    "v": 14,
+    "t": "“For behold, I will raise up against you a nation, O house of Israel,” declares the LORD, the God of hosts; “and they shall oppress you from Lebo-hamath to the Brook of the Arabah.”",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "30007001",
+    "b": 30,
+    "c": 7,
+    "v": 1,
+    "t": "This is what the Lord GOD showed me: behold, he was forming locusts when the latter growth was just beginning to sprout, and behold, it was the latter growth after the king’s mowings.",
+    "h": "Warning Visions",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "30007002",
+    "b": 30,
+    "c": 7,
+    "v": 2,
+    "t": "When they had finished eating the grass of the land, I said, “O Lord GOD, please forgive! How can Jacob stand? He is so small!”",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "30007003",
+    "b": 30,
+    "c": 7,
+    "v": 3,
+    "t": "The LORD relented concerning this: “It shall not be,” said the LORD.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "30007004",
+    "b": 30,
+    "c": 7,
+    "v": 4,
+    "t": "This is what the Lord GOD showed me: behold, the Lord GOD was calling for a judgment by fire, and it devoured the great deep and was eating up the land.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "30007005",
+    "b": 30,
+    "c": 7,
+    "v": 5,
+    "t": "Then I said, “O Lord GOD, please cease! How can Jacob stand? He is so small!”",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "30007006",
+    "b": 30,
+    "c": 7,
+    "v": 6,
+    "t": "The LORD relented concerning this: “This also shall not be,” said the Lord GOD.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "30007007",
+    "b": 30,
+    "c": 7,
+    "v": 7,
+    "t": "This is what he showed me: behold, the Lord was standing beside a wall built with a plumb line, with a plumb line in his hand.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "30007008",
+    "b": 30,
+    "c": 7,
+    "v": 8,
+    "t": "And the LORD said to me, “Amos, what do you see?” And I said, “A plumb line.” Then the Lord said, “Behold, I am setting a plumb line in the midst of my people Israel; I will never again pass by them;",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "30007009",
+    "b": 30,
+    "c": 7,
+    "v": 9,
+    "t": "the high places of Isaac shall be made desolate, and the sanctuaries of Israel shall be laid waste, and I will rise against the house of Jeroboam with the sword.”",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "30007010",
+    "b": 30,
+    "c": 7,
+    "v": 10,
+    "t": "Then Amaziah the priest of Bethel sent to Jeroboam king of Israel, saying, “Amos has conspired against you in the midst of the house of Israel. The land is not able to bear all his words.",
+    "h": "Amos Accused",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "30007011",
+    "b": 30,
+    "c": 7,
+    "v": 11,
+    "t": "For thus Amos has said, “‘Jeroboam shall die by the sword, and Israel must go into exile away from his land.’”",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "30007012",
+    "b": 30,
+    "c": 7,
+    "v": 12,
+    "t": "And Amaziah said to Amos, “O seer, go, flee away to the land of Judah, and eat bread there, and prophesy there,",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "30007013",
+    "b": 30,
+    "c": 7,
+    "v": 13,
+    "t": "but never again prophesy at Bethel, for it is the king’s sanctuary, and it is a temple of the kingdom.”",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "30007014",
+    "b": 30,
+    "c": 7,
+    "v": 14,
+    "t": "Then Amos answered and said to Amaziah, “I was no prophet, nor a prophet’s son, but I was a herdsman and a dresser of sycamore figs.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "30007015",
+    "b": 30,
+    "c": 7,
+    "v": 15,
+    "t": "But the LORD took me from following the flock, and the LORD said to me, ‘Go, prophesy to my people Israel.’",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "30007016",
+    "b": 30,
+    "c": 7,
+    "v": 16,
+    "t": "Now therefore hear the word of the LORD. “You say, ‘Do not prophesy against Israel, and do not preach against the house of Isaac.’",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "30007017",
+    "b": 30,
+    "c": 7,
+    "v": 17,
+    "t": "Therefore thus says the LORD : “‘Your wife shall be a prostitute in the city, and your sons and your daughters shall fall by the sword, and your land shall be divided up with a measuring line; you yourself shall die in an unclean land, and Israel shall surely go into exile away from its land.’”",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "30008001",
+    "b": 30,
+    "c": 8,
+    "v": 1,
+    "t": "This is what the Lord GOD showed me: behold, a basket of summer fruit.",
+    "h": "The Coming Day of Bitter Mourning",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "30008002",
+    "b": 30,
+    "c": 8,
+    "v": 2,
+    "t": "And he said, “Amos, what do you see?” And I said, “A basket of summer fruit.” Then the LORD said to me, “The end has come upon my people Israel; I will never again pass by them.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "30008003",
+    "b": 30,
+    "c": 8,
+    "v": 3,
+    "t": "The songs of the temple shall become wailings in that day,” declares the Lord GOD. “So many dead bodies!” “They are thrown everywhere!” “Silence!”",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "30008004",
+    "b": 30,
+    "c": 8,
+    "v": 4,
+    "t": "Hear this, you who trample on the needy and bring the poor of the land to an end,",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "30008005",
+    "b": 30,
+    "c": 8,
+    "v": 5,
+    "t": "saying, “When will the new moon be over, that we may sell grain? And the Sabbath, that we may offer wheat for sale, that we may make the ephah small and the shekel great and deal deceitfully with false balances,",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "30008006",
+    "b": 30,
+    "c": 8,
+    "v": 6,
+    "t": "that we may buy the poor for silver and the needy for a pair of sandals and sell the chaff of the wheat?”",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "30008007",
+    "b": 30,
+    "c": 8,
+    "v": 7,
+    "t": "The LORD has sworn by the pride of Jacob: “Surely I will never forget any of their deeds.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "30008008",
+    "b": 30,
+    "c": 8,
+    "v": 8,
+    "t": "Shall not the land tremble on this account, and everyone mourn who dwells in it, and all of it rise like the Nile, and be tossed about and sink again, like the Nile of Egypt?”",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "30008009",
+    "b": 30,
+    "c": 8,
+    "v": 9,
+    "t": "“And on that day,” declares the Lord GOD, “I will make the sun go down at noon and darken the earth in broad daylight.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "30008010",
+    "b": 30,
+    "c": 8,
+    "v": 10,
+    "t": "I will turn your feasts into mourning and all your songs into lamentation; I will bring sackcloth on every waist and baldness on every head; I will make it like the mourning for an only son and the end of it like a bitter day.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "30008011",
+    "b": 30,
+    "c": 8,
+    "v": 11,
+    "t": "“Behold, the days are coming,” declares the Lord GOD, “when I will send a famine on the land— not a famine of bread, nor a thirst for water, but of hearing the words of the LORD.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "30008012",
+    "b": 30,
+    "c": 8,
+    "v": 12,
+    "t": "They shall wander from sea to sea, and from north to east; they shall run to and fro, to seek the word of the LORD, but they shall not find it.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "30008013",
+    "b": 30,
+    "c": 8,
+    "v": 13,
+    "t": "“In that day the lovely virgins and the young men shall faint for thirst.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "30008014",
+    "b": 30,
+    "c": 8,
+    "v": 14,
+    "t": "Those who swear by the Guilt of Samaria, and say, ‘As your god lives, O Dan,’ and, ‘As the Way of Beersheba lives,’ they shall fall, and never rise again.”",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "30009001",
+    "b": 30,
+    "c": 9,
+    "v": 1,
+    "t": "I saw the Lord standing beside the altar, and he said: “Strike the capitals until the thresholds shake, and shatter them on the heads of all the people; and those who are left of them I will kill with the sword; not one of them shall flee away; not one of them shall escape.",
+    "h": "The Destruction of Israel",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "30009002",
+    "b": 30,
+    "c": 9,
+    "v": 2,
+    "t": "“If they dig into Sheol, from there shall my hand take them; if they climb up to heaven, from there I will bring them down.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "30009003",
+    "b": 30,
+    "c": 9,
+    "v": 3,
+    "t": "If they hide themselves on the top of Carmel, from there I will search them out and take them; and if they hide from my sight at the bottom of the sea, there I will command the serpent, and it shall bite them.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "30009004",
+    "b": 30,
+    "c": 9,
+    "v": 4,
+    "t": "And if they go into captivity before their enemies, there I will command the sword, and it shall kill them; and I will fix my eyes upon them for evil and not for good.”",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "30009005",
+    "b": 30,
+    "c": 9,
+    "v": 5,
+    "t": "The Lord GOD of hosts, he who touches the earth and it melts, and all who dwell in it mourn, and all of it rises like the Nile, and sinks again, like the Nile of Egypt;",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "30009006",
+    "b": 30,
+    "c": 9,
+    "v": 6,
+    "t": "who builds his upper chambers in the heavens and founds his vault upon the earth; who calls for the waters of the sea and pours them out upon the surface of the earth— the LORD is his name.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "30009007",
+    "b": 30,
+    "c": 9,
+    "v": 7,
+    "t": "“Are you not like the Cushites to me, O people of Israel?” declares the LORD. “Did I not bring up Israel from the land of Egypt, and the Philistines from Caphtor and the Syrians from Kir?",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "30009008",
+    "b": 30,
+    "c": 9,
+    "v": 8,
+    "t": "Behold, the eyes of the Lord GOD are upon the sinful kingdom, and I will destroy it from the surface of the ground, except that I will not utterly destroy the house of Jacob,” declares the LORD.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "30009009",
+    "b": 30,
+    "c": 9,
+    "v": 9,
+    "t": "“For behold, I will command, and shake the house of Israel among all the nations as one shakes with a sieve, but no pebble shall fall to the earth.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "30009010",
+    "b": 30,
+    "c": 9,
+    "v": 10,
+    "t": "All the sinners of my people shall die by the sword, who say, ‘Disaster shall not overtake or meet us.’",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "30009011",
+    "b": 30,
+    "c": 9,
+    "v": 11,
+    "t": "“In that day I will raise up the booth of David that is fallen and repair its breaches, and raise up its ruins and rebuild it as in the days of old,",
+    "h": "The Restoration of Israel",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "30009012",
+    "b": 30,
+    "c": 9,
+    "v": 12,
+    "t": "that they may possess the remnant of Edom and all the nations who are called by my name,” declares the LORD who does this.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "30009013",
+    "b": 30,
+    "c": 9,
+    "v": 13,
+    "t": "“Behold, the days are coming,” declares the LORD, “when the plowman shall overtake the reaper and the treader of grapes him who sows the seed; the mountains shall drip sweet wine, and all the hills shall flow with it.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "30009014",
+    "b": 30,
+    "c": 9,
+    "v": 14,
+    "t": "I will restore the fortunes of my people Israel, and they shall rebuild the ruined cities and inhabit them; they shall plant vineyards and drink their wine, and they shall make gardens and eat their fruit.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "30009015",
+    "b": 30,
+    "c": 9,
+    "v": 15,
+    "t": "I will plant them on their land, and they shall never again be uprooted out of the land that I have given them,” says the LORD your God.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  }
+]

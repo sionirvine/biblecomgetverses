@@ -1,0 +1,2572 @@
+[
+  {
+    "id": "47001001",
+    "b": 47,
+    "c": 1,
+    "v": 1,
+    "t": "Paul, an apostle of Jesus Christ by the will of God, and Timothy our brother, To the church of God which is at Corinth, with all the saints who are in all Achaia:",
+    "h": "Greeting",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "47001002",
+    "b": 47,
+    "c": 1,
+    "v": 2,
+    "t": "Grace to you and peace from God our Father and the Lord Jesus Christ.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "47001003",
+    "b": 47,
+    "c": 1,
+    "v": 3,
+    "t": "Blessed be the God and Father of our Lord Jesus Christ, the Father of mercies and God of all comfort,",
+    "h": "Comfort in Suffering",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "47001004",
+    "b": 47,
+    "c": 1,
+    "v": 4,
+    "t": "who comforts us in all our tribulation, that we may be able to comfort those who are in any trouble, with the comfort with which we ourselves are comforted by God.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "47001005",
+    "b": 47,
+    "c": 1,
+    "v": 5,
+    "t": "For as the sufferings of Christ abound in us, so our consolation also abounds through Christ.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "47001006",
+    "b": 47,
+    "c": 1,
+    "v": 6,
+    "t": "Now if we are afflicted, it is for your consolation and salvation, which is effective for enduring the same sufferings which we also suffer. Or if we are comforted, it is for your consolation and salvation.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "47001007",
+    "b": 47,
+    "c": 1,
+    "v": 7,
+    "t": "And our hope for you is steadfast, because we know that as you are partakers of the sufferings, so also you will partake of the consolation.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "47001008",
+    "b": 47,
+    "c": 1,
+    "v": 8,
+    "t": "For we do not want you to be ignorant, brethren, of our trouble which came to us in Asia: that we were burdened beyond measure, above strength, so that we despaired even of life.",
+    "h": "Delivered from Suffering",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "47001009",
+    "b": 47,
+    "c": 1,
+    "v": 9,
+    "t": "Yes, we had the sentence of death in ourselves, that we should not trust in ourselves but in God who raises the dead,",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "47001010",
+    "b": 47,
+    "c": 1,
+    "v": 10,
+    "t": "who delivered us from so great a death, and does deliver us; in whom we trust that He will still deliver us,",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "47001011",
+    "b": 47,
+    "c": 1,
+    "v": 11,
+    "t": "you also helping together in prayer for us, that thanks may be given by many persons on our behalf for the gift granted to us through many.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "47001012",
+    "b": 47,
+    "c": 1,
+    "v": 12,
+    "t": "For our boasting is this: the testimony of our conscience that we conducted ourselves in the world in simplicity and godly sincerity, not with fleshly wisdom but by the grace of God, and more abundantly toward you.",
+    "h": "Paul’s Sincerity",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "47001013",
+    "b": 47,
+    "c": 1,
+    "v": 13,
+    "t": "For we are not writing any other things to you than what you read or understand. Now I trust you will understand, even to the end",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "47001014",
+    "b": 47,
+    "c": 1,
+    "v": 14,
+    "t": "(as also you have understood us in part), that we are your boast as you also are ours, in the day of the Lord Jesus.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "47001015",
+    "b": 47,
+    "c": 1,
+    "v": 15,
+    "t": "And in this confidence I intended to come to you before, that you might have a second benefit—",
+    "h": "Sparing the Church",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "47001016",
+    "b": 47,
+    "c": 1,
+    "v": 16,
+    "t": "to pass by way of you to Macedonia, to come again from Macedonia to you, and be helped by you on my way to Judea.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "47001017",
+    "b": 47,
+    "c": 1,
+    "v": 17,
+    "t": "Therefore, when I was planning this, did I do it lightly? Or the things I plan, do I plan according to the flesh, that with me there should be Yes, Yes, and No, No?",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "47001018",
+    "b": 47,
+    "c": 1,
+    "v": 18,
+    "t": "But as God is faithful, our word to you was not Yes and No.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "47001019",
+    "b": 47,
+    "c": 1,
+    "v": 19,
+    "t": "For the Son of God, Jesus Christ, who was preached among you by us—by me, Silvanus, and Timothy—was not Yes and No, but in Him was Yes.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "47001020",
+    "b": 47,
+    "c": 1,
+    "v": 20,
+    "t": "For all the promises of God in Him are Yes, and in Him Amen, to the glory of God through us.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "47001021",
+    "b": 47,
+    "c": 1,
+    "v": 21,
+    "t": "Now He who establishes us with you in Christ and has anointed us is God,",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "47001022",
+    "b": 47,
+    "c": 1,
+    "v": 22,
+    "t": "who also has sealed us and given us the Spirit in our hearts as a guarantee.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "47001023",
+    "b": 47,
+    "c": 1,
+    "v": 23,
+    "t": "Moreover I call God as witness against my soul, that to spare you I came no more to Corinth.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "47001024",
+    "b": 47,
+    "c": 1,
+    "v": 24,
+    "t": "Not that we have dominion over your faith, but are fellow workers for your joy; for by faith you stand.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "47002001",
+    "b": 47,
+    "c": 2,
+    "v": 1,
+    "t": "But I determined this within myself, that I would not come again to you in sorrow.",
+    "h": "",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "47002002",
+    "b": 47,
+    "c": 2,
+    "v": 2,
+    "t": "For if I make you sorrowful, then who is he who makes me glad but the one who is made sorrowful by me?",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "47002003",
+    "b": 47,
+    "c": 2,
+    "v": 3,
+    "t": "And I wrote this very thing to you, lest, when I came, I should have sorrow over those from whom I ought to have joy, having confidence in you all that my joy is the joy of you all.",
+    "h": "Forgive the Offender",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "47002004",
+    "b": 47,
+    "c": 2,
+    "v": 4,
+    "t": "For out of much affliction and anguish of heart I wrote to you, with many tears, not that you should be grieved, but that you might know the love which I have so abundantly for you.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "47002005",
+    "b": 47,
+    "c": 2,
+    "v": 5,
+    "t": "But if anyone has caused grief, he has not grieved me, but all of you to some extent—not to be too severe.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "47002006",
+    "b": 47,
+    "c": 2,
+    "v": 6,
+    "t": "This punishment which was inflicted by the majority is sufficient for such a man,",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "47002007",
+    "b": 47,
+    "c": 2,
+    "v": 7,
+    "t": "so that, on the contrary, you ought rather to forgive and comfort him, lest perhaps such a one be swallowed up with too much sorrow.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "47002008",
+    "b": 47,
+    "c": 2,
+    "v": 8,
+    "t": "Therefore I urge you to reaffirm your love to him.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "47002009",
+    "b": 47,
+    "c": 2,
+    "v": 9,
+    "t": "For to this end I also wrote, that I might put you to the test, whether you are obedient in all things.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "47002010",
+    "b": 47,
+    "c": 2,
+    "v": 10,
+    "t": "Now whom you forgive anything, I also forgive. For if indeed I have forgiven anything, I have forgiven that one for your sakes in the presence of Christ,",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "47002011",
+    "b": 47,
+    "c": 2,
+    "v": 11,
+    "t": "lest Satan should take advantage of us; for we are not ignorant of his devices.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "47002012",
+    "b": 47,
+    "c": 2,
+    "v": 12,
+    "t": "Furthermore, when I came to Troas to preach Christ’s gospel, and a door was opened to me by the Lord,",
+    "h": "Triumph in Christ",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "47002013",
+    "b": 47,
+    "c": 2,
+    "v": 13,
+    "t": "I had no rest in my spirit, because I did not find Titus my brother; but taking my leave of them, I departed for Macedonia.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "47002014",
+    "b": 47,
+    "c": 2,
+    "v": 14,
+    "t": "Now thanks be to God who always leads us in triumph in Christ, and through us diffuses the fragrance of His knowledge in every place.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "47002015",
+    "b": 47,
+    "c": 2,
+    "v": 15,
+    "t": "For we are to God the fragrance of Christ among those who are being saved and among those who are perishing.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "47002016",
+    "b": 47,
+    "c": 2,
+    "v": 16,
+    "t": "To the one we are the aroma of death leading to death, and to the other the aroma of life leading to life. And who is sufficient for these things?",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "47002017",
+    "b": 47,
+    "c": 2,
+    "v": 17,
+    "t": "For we are not, as so many, peddling the word of God; but as of sincerity, but as from God, we speak in the sight of God in Christ.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "47003001",
+    "b": 47,
+    "c": 3,
+    "v": 1,
+    "t": "Do we begin again to commend ourselves? Or do we need, as some others, epistles of commendation to you or letters of commendation from you?",
+    "h": "Christ’s Epistle",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "47003002",
+    "b": 47,
+    "c": 3,
+    "v": 2,
+    "t": "You are our epistle written in our hearts, known and read by all men;",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "47003003",
+    "b": 47,
+    "c": 3,
+    "v": 3,
+    "t": "clearly you are an epistle of Christ, ministered by us, written not with ink but by the Spirit of the living God, not on tablets of stone but on tablets of flesh, that is, of the heart.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "47003004",
+    "b": 47,
+    "c": 3,
+    "v": 4,
+    "t": "And we have such trust through Christ toward God.",
+    "h": "The Spirit, Not the Letter",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "47003005",
+    "b": 47,
+    "c": 3,
+    "v": 5,
+    "t": "Not that we are sufficient of ourselves to think of anything as being from ourselves, but our sufficiency is from God,",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "47003006",
+    "b": 47,
+    "c": 3,
+    "v": 6,
+    "t": "who also made us sufficient as ministers of the new covenant, not of the letter but of the Spirit; for the letter kills, but the Spirit gives life.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "47003007",
+    "b": 47,
+    "c": 3,
+    "v": 7,
+    "t": "But if the ministry of death, written and engraved on stones, was glorious, so that the children of Israel could not look steadily at the face of Moses because of the glory of his countenance, which glory was passing away,",
+    "h": "Glory of the New Covenant",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "47003008",
+    "b": 47,
+    "c": 3,
+    "v": 8,
+    "t": "how will the ministry of the Spirit not be more glorious?",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "47003009",
+    "b": 47,
+    "c": 3,
+    "v": 9,
+    "t": "For if the ministry of condemnation had glory, the ministry of righteousness exceeds much more in glory.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "47003010",
+    "b": 47,
+    "c": 3,
+    "v": 10,
+    "t": "For even what was made glorious had no glory in this respect, because of the glory that excels.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "47003011",
+    "b": 47,
+    "c": 3,
+    "v": 11,
+    "t": "For if what is passing away was glorious, what remains is much more glorious.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "47003012",
+    "b": 47,
+    "c": 3,
+    "v": 12,
+    "t": "Therefore, since we have such hope, we use great boldness of speech—",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "47003013",
+    "b": 47,
+    "c": 3,
+    "v": 13,
+    "t": "unlike Moses, who put a veil over his face so that the children of Israel could not look steadily at the end of what was passing away.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "47003014",
+    "b": 47,
+    "c": 3,
+    "v": 14,
+    "t": "But their minds were blinded. For until this day the same veil remains unlifted in the reading of the Old Testament, because the veil is taken away in Christ.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "47003015",
+    "b": 47,
+    "c": 3,
+    "v": 15,
+    "t": "But even to this day, when Moses is read, a veil lies on their heart.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "47003016",
+    "b": 47,
+    "c": 3,
+    "v": 16,
+    "t": "Nevertheless when one turns to the Lord, the veil is taken away.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "47003017",
+    "b": 47,
+    "c": 3,
+    "v": 17,
+    "t": "Now the Lord is the Spirit; and where the Spirit of the Lord is, there is liberty.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "47003018",
+    "b": 47,
+    "c": 3,
+    "v": 18,
+    "t": "But we all, with unveiled face, beholding as in a mirror the glory of the Lord, are being transformed into the same image from glory to glory, just as by the Spirit of the Lord.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "47004001",
+    "b": 47,
+    "c": 4,
+    "v": 1,
+    "t": "Therefore, since we have this ministry, as we have received mercy, we do not lose heart.",
+    "h": "The Light of Christ’s Gospel",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "47004002",
+    "b": 47,
+    "c": 4,
+    "v": 2,
+    "t": "But we have renounced the hidden things of shame, not walking in craftiness nor handling the word of God deceitfully, but by manifestation of the truth commending ourselves to every man’s conscience in the sight of God.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "47004003",
+    "b": 47,
+    "c": 4,
+    "v": 3,
+    "t": "But even if our gospel is veiled, it is veiled to those who are perishing,",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "47004004",
+    "b": 47,
+    "c": 4,
+    "v": 4,
+    "t": "whose minds the god of this age has blinded, who do not believe, lest the light of the gospel of the glory of Christ, who is the image of God, should shine on them.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "47004005",
+    "b": 47,
+    "c": 4,
+    "v": 5,
+    "t": "For we do not preach ourselves, but Christ Jesus the Lord, and ourselves your bondservants for Jesus’ sake.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "47004006",
+    "b": 47,
+    "c": 4,
+    "v": 6,
+    "t": "For it is the God who commanded light to shine out of darkness, who has shone in our hearts to give the light of the knowledge of the glory of God in the face of Jesus Christ.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "47004007",
+    "b": 47,
+    "c": 4,
+    "v": 7,
+    "t": "But we have this treasure in earthen vessels, that the excellence of the power may be of God and not of us.",
+    "h": "Cast Down but Unconquered",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "47004008",
+    "b": 47,
+    "c": 4,
+    "v": 8,
+    "t": "We are hard-pressed on every side, yet not crushed; we are perplexed, but not in despair;",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "47004009",
+    "b": 47,
+    "c": 4,
+    "v": 9,
+    "t": "persecuted, but not forsaken; struck down, but not destroyed—",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "47004010",
+    "b": 47,
+    "c": 4,
+    "v": 10,
+    "t": "always carrying about in the body the dying of the Lord Jesus, that the life of Jesus also may be manifested in our body.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "47004011",
+    "b": 47,
+    "c": 4,
+    "v": 11,
+    "t": "For we who live are always delivered to death for Jesus’ sake, that the life of Jesus also may be manifested in our mortal flesh.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "47004012",
+    "b": 47,
+    "c": 4,
+    "v": 12,
+    "t": "So then death is working in us, but life in you.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "47004013",
+    "b": 47,
+    "c": 4,
+    "v": 13,
+    "t": "And since we have the same spirit of faith, according to what is written, “I believed and therefore I spoke,” we also believe and therefore speak,",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "47004014",
+    "b": 47,
+    "c": 4,
+    "v": 14,
+    "t": "knowing that He who raised up the Lord Jesus will also raise us up with Jesus, and will present us with you.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "47004015",
+    "b": 47,
+    "c": 4,
+    "v": 15,
+    "t": "For all things are for your sakes, that grace, having spread through the many, may cause thanksgiving to abound to the glory of God.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "47004016",
+    "b": 47,
+    "c": 4,
+    "v": 16,
+    "t": "Therefore we do not lose heart. Even though our outward man is perishing, yet the inward man is being renewed day by day.",
+    "h": "Seeing the Invisible",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "47004017",
+    "b": 47,
+    "c": 4,
+    "v": 17,
+    "t": "For our light affliction, which is but for a moment, is working for us a far more exceeding and eternal weight of glory,",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "47004018",
+    "b": 47,
+    "c": 4,
+    "v": 18,
+    "t": "while we do not look at the things which are seen, but at the things which are not seen. For the things which are seen are temporary, but the things which are not seen are eternal.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "47005001",
+    "b": 47,
+    "c": 5,
+    "v": 1,
+    "t": "For we know that if our earthly house, this tent, is destroyed, we have a building from God, a house not made with hands, eternal in the heavens.",
+    "h": "Assurance of the Resurrection",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "47005002",
+    "b": 47,
+    "c": 5,
+    "v": 2,
+    "t": "For in this we groan, earnestly desiring to be clothed with our habitation which is from heaven,",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "47005003",
+    "b": 47,
+    "c": 5,
+    "v": 3,
+    "t": "if indeed, having been clothed, we shall not be found naked.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "47005004",
+    "b": 47,
+    "c": 5,
+    "v": 4,
+    "t": "For we who are in this tent groan, being burdened, not because we want to be unclothed, but further clothed, that mortality may be swallowed up by life.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "47005005",
+    "b": 47,
+    "c": 5,
+    "v": 5,
+    "t": "Now He who has prepared us for this very thing is God, who also has given us the Spirit as a guarantee.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "47005006",
+    "b": 47,
+    "c": 5,
+    "v": 6,
+    "t": "So we are always confident, knowing that while we are at home in the body we are absent from the Lord.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "47005007",
+    "b": 47,
+    "c": 5,
+    "v": 7,
+    "t": "For we walk by faith, not by sight.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "47005008",
+    "b": 47,
+    "c": 5,
+    "v": 8,
+    "t": "We are confident, yes, well pleased rather to be absent from the body and to be present with the Lord.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "47005009",
+    "b": 47,
+    "c": 5,
+    "v": 9,
+    "t": "Therefore we make it our aim, whether present or absent, to be well pleasing to Him.",
+    "h": "The Judgment Seat of Christ",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "47005010",
+    "b": 47,
+    "c": 5,
+    "v": 10,
+    "t": "For we must all appear before the judgment seat of Christ, that each one may receive the things done in the body, according to what he has done, whether good or bad.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "47005011",
+    "b": 47,
+    "c": 5,
+    "v": 11,
+    "t": "Knowing, therefore, the terror of the Lord, we persuade men; but we are well known to God, and I also trust are well known in your consciences.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "47005012",
+    "b": 47,
+    "c": 5,
+    "v": 12,
+    "t": "For we do not commend ourselves again to you, but give you opportunity to boast on our behalf, that you may have an answer for those who boast in appearance and not in heart.",
+    "h": "Be Reconciled to God",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "47005013",
+    "b": 47,
+    "c": 5,
+    "v": 13,
+    "t": "For if we are beside ourselves, it is for God; or if we are of sound mind, it is for you.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "47005014",
+    "b": 47,
+    "c": 5,
+    "v": 14,
+    "t": "For the love of Christ compels us, because we judge thus: that if One died for all, then all died;",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "47005015",
+    "b": 47,
+    "c": 5,
+    "v": 15,
+    "t": "and He died for all, that those who live should live no longer for themselves, but for Him who died for them and rose again.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "47005016",
+    "b": 47,
+    "c": 5,
+    "v": 16,
+    "t": "Therefore, from now on, we regard no one according to the flesh. Even though we have known Christ according to the flesh, yet now we know Him thus no longer.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "47005017",
+    "b": 47,
+    "c": 5,
+    "v": 17,
+    "t": "Therefore, if anyone is in Christ, he is a new creation; old things have passed away; behold, all things have become new.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "47005018",
+    "b": 47,
+    "c": 5,
+    "v": 18,
+    "t": "Now all things are of God, who has reconciled us to Himself through Jesus Christ, and has given us the ministry of reconciliation,",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "47005019",
+    "b": 47,
+    "c": 5,
+    "v": 19,
+    "t": "that is, that God was in Christ reconciling the world to Himself, not imputing their trespasses to them, and has committed to us the word of reconciliation.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "47005020",
+    "b": 47,
+    "c": 5,
+    "v": 20,
+    "t": "Now then, we are ambassadors for Christ, as though God were pleading through us: we implore you on Christ’s behalf, be reconciled to God.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "47005021",
+    "b": 47,
+    "c": 5,
+    "v": 21,
+    "t": "For He made Him who knew no sin to be sin for us, that we might become the righteousness of God in Him.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "47006001",
+    "b": 47,
+    "c": 6,
+    "v": 1,
+    "t": "We then, as workers together with Him also plead with you not to receive the grace of God in vain.",
+    "h": "Marks of the Ministry",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "47006002",
+    "b": 47,
+    "c": 6,
+    "v": 2,
+    "t": "For He says: “In an acceptable time I have heard you, And in the day of salvation I have helped you.” Behold, now is the accepted time; behold, now is the day of salvation.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "47006003",
+    "b": 47,
+    "c": 6,
+    "v": 3,
+    "t": "We give no offense in anything, that our ministry may not be blamed.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "47006004",
+    "b": 47,
+    "c": 6,
+    "v": 4,
+    "t": "But in all things we commend ourselves as ministers of God: in much patience, in tribulations, in needs, in distresses,",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "47006005",
+    "b": 47,
+    "c": 6,
+    "v": 5,
+    "t": "in stripes, in imprisonments, in tumults, in labors, in sleeplessness, in fastings;",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "47006006",
+    "b": 47,
+    "c": 6,
+    "v": 6,
+    "t": "by purity, by knowledge, by longsuffering, by kindness, by the Holy Spirit, by sincere love,",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "47006007",
+    "b": 47,
+    "c": 6,
+    "v": 7,
+    "t": "by the word of truth, by the power of God, by the armor of righteousness on the right hand and on the left,",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "47006008",
+    "b": 47,
+    "c": 6,
+    "v": 8,
+    "t": "by honor and dishonor, by evil report and good report; as deceivers, and yet true;",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "47006009",
+    "b": 47,
+    "c": 6,
+    "v": 9,
+    "t": "as unknown, and yet well known; as dying, and behold we live; as chastened, and yet not killed;",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "47006010",
+    "b": 47,
+    "c": 6,
+    "v": 10,
+    "t": "as sorrowful, yet always rejoicing; as poor, yet making many rich; as having nothing, and yet possessing all things.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "47006011",
+    "b": 47,
+    "c": 6,
+    "v": 11,
+    "t": "O Corinthians! We have spoken openly to you, our heart is wide open.",
+    "h": "Be Holy",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "47006012",
+    "b": 47,
+    "c": 6,
+    "v": 12,
+    "t": "You are not restricted by us, but you are restricted by your own affections.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "47006013",
+    "b": 47,
+    "c": 6,
+    "v": 13,
+    "t": "Now in return for the same (I speak as to children), you also be open.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "47006014",
+    "b": 47,
+    "c": 6,
+    "v": 14,
+    "t": "Do not be unequally yoked together with unbelievers. For what fellowship has righteousness with lawlessness? And what communion has light with darkness?",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "47006015",
+    "b": 47,
+    "c": 6,
+    "v": 15,
+    "t": "And what accord has Christ with Belial? Or what part has a believer with an unbeliever?",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "47006016",
+    "b": 47,
+    "c": 6,
+    "v": 16,
+    "t": "And what agreement has the temple of God with idols? For you are the temple of the living God. As God has said: “I will dwell in them And walk among them. I will be their God, And they shall be My people.”",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "47006017",
+    "b": 47,
+    "c": 6,
+    "v": 17,
+    "t": "Therefore “Come out from among them And be separate, says the Lord. Do not touch what is unclean, And I will receive you.”",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "47006018",
+    "b": 47,
+    "c": 6,
+    "v": 18,
+    "t": "“I will be a Father to you, And you shall be My sons and daughters, Says the Lord Almighty.”",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "47007001",
+    "b": 47,
+    "c": 7,
+    "v": 1,
+    "t": "Therefore, having these promises, beloved, let us cleanse ourselves from all filthiness of the flesh and spirit, perfecting holiness in the fear of God.",
+    "h": "",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "47007002",
+    "b": 47,
+    "c": 7,
+    "v": 2,
+    "t": "Open your hearts to us. We have wronged no one, we have corrupted no one, we have cheated no one.",
+    "h": "The Corinthians’ Repentance",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "47007003",
+    "b": 47,
+    "c": 7,
+    "v": 3,
+    "t": "I do not say this to condemn; for I have said before that you are in our hearts, to die together and to live together.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "47007004",
+    "b": 47,
+    "c": 7,
+    "v": 4,
+    "t": "Great is my boldness of speech toward you, great is my boasting on your behalf. I am filled with comfort. I am exceedingly joyful in all our tribulation.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "47007005",
+    "b": 47,
+    "c": 7,
+    "v": 5,
+    "t": "For indeed, when we came to Macedonia, our bodies had no rest, but we were troubled on every side. Outside were conflicts, inside were fears.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "47007006",
+    "b": 47,
+    "c": 7,
+    "v": 6,
+    "t": "Nevertheless God, who comforts the downcast, comforted us by the coming of Titus,",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "47007007",
+    "b": 47,
+    "c": 7,
+    "v": 7,
+    "t": "and not only by his coming, but also by the consolation with which he was comforted in you, when he told us of your earnest desire, your mourning, your zeal for me, so that I rejoiced even more.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "47007008",
+    "b": 47,
+    "c": 7,
+    "v": 8,
+    "t": "For even if I made you sorry with my letter, I do not regret it; though I did regret it. For I perceive that the same epistle made you sorry, though only for a while.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "47007009",
+    "b": 47,
+    "c": 7,
+    "v": 9,
+    "t": "Now I rejoice, not that you were made sorry, but that your sorrow led to repentance. For you were made sorry in a godly manner, that you might suffer loss from us in nothing.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "47007010",
+    "b": 47,
+    "c": 7,
+    "v": 10,
+    "t": "For godly sorrow produces repentance leading to salvation, not to be regretted; but the sorrow of the world produces death.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "47007011",
+    "b": 47,
+    "c": 7,
+    "v": 11,
+    "t": "For observe this very thing, that you sorrowed in a godly manner: What diligence it produced in you, what clearing of yourselves, what indignation, what fear, what vehement desire, what zeal, what vindication! In all things you proved yourselves to be clear in this matter.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "47007012",
+    "b": 47,
+    "c": 7,
+    "v": 12,
+    "t": "Therefore, although I wrote to you, I did not do it for the sake of him who had done the wrong, nor for the sake of him who suffered wrong, but that our care for you in the sight of God might appear to you.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "47007013",
+    "b": 47,
+    "c": 7,
+    "v": 13,
+    "t": "Therefore we have been comforted in your comfort. And we rejoiced exceedingly more for the joy of Titus, because his spirit has been refreshed by you all.",
+    "h": "The Joy of Titus",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "47007014",
+    "b": 47,
+    "c": 7,
+    "v": 14,
+    "t": "For if in anything I have boasted to him about you, I am not ashamed. But as we spoke all things to you in truth, even so our boasting to Titus was found true.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "47007015",
+    "b": 47,
+    "c": 7,
+    "v": 15,
+    "t": "And his affections are greater for you as he remembers the obedience of you all, how with fear and trembling you received him.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "47007016",
+    "b": 47,
+    "c": 7,
+    "v": 16,
+    "t": "Therefore I rejoice that I have confidence in you in everything.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "47008001",
+    "b": 47,
+    "c": 8,
+    "v": 1,
+    "t": "Moreover, brethren, we make known to you the grace of God bestowed on the churches of Macedonia:",
+    "h": "Excel in Giving",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "47008002",
+    "b": 47,
+    "c": 8,
+    "v": 2,
+    "t": "that in a great trial of affliction the abundance of their joy and their deep poverty abounded in the riches of their liberality.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "47008003",
+    "b": 47,
+    "c": 8,
+    "v": 3,
+    "t": "For I bear witness that according to their ability, yes, and beyond their ability, they were freely willing,",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "47008004",
+    "b": 47,
+    "c": 8,
+    "v": 4,
+    "t": "imploring us with much urgency that we would receive the gift and the fellowship of the ministering to the saints.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "47008005",
+    "b": 47,
+    "c": 8,
+    "v": 5,
+    "t": "And not only as we had hoped, but they first gave themselves to the Lord, and then to us by the will of God.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "47008006",
+    "b": 47,
+    "c": 8,
+    "v": 6,
+    "t": "So we urged Titus, that as he had begun, so he would also complete this grace in you as well.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "47008007",
+    "b": 47,
+    "c": 8,
+    "v": 7,
+    "t": "But as you abound in everything—in faith, in speech, in knowledge, in all diligence, and in your love for us— see that you abound in this grace also.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "47008008",
+    "b": 47,
+    "c": 8,
+    "v": 8,
+    "t": "I speak not by commandment, but I am testing the sincerity of your love by the diligence of others.",
+    "h": "Christ Our Pattern",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "47008009",
+    "b": 47,
+    "c": 8,
+    "v": 9,
+    "t": "For you know the grace of our Lord Jesus Christ, that though He was rich, yet for your sakes He became poor, that you through His poverty might become rich.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "47008010",
+    "b": 47,
+    "c": 8,
+    "v": 10,
+    "t": "And in this I give advice: It is to your advantage not only to be doing what you began and were desiring to do a year ago;",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "47008011",
+    "b": 47,
+    "c": 8,
+    "v": 11,
+    "t": "but now you also must complete the doing of it; that as there was a readiness to desire it, so there also may be a completion out of what you have.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "47008012",
+    "b": 47,
+    "c": 8,
+    "v": 12,
+    "t": "For if there is first a willing mind, it is accepted according to what one has, and not according to what he does not have.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "47008013",
+    "b": 47,
+    "c": 8,
+    "v": 13,
+    "t": "For I do not mean that others should be eased and you burdened;",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "47008014",
+    "b": 47,
+    "c": 8,
+    "v": 14,
+    "t": "but by an equality, that now at this time your abundance may supply their lack, that their abundance also may supply your lack—that there may be equality.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "47008015",
+    "b": 47,
+    "c": 8,
+    "v": 15,
+    "t": "As it is written, “He who gathered much had nothing left over, and he who gathered little had no lack.”",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "47008016",
+    "b": 47,
+    "c": 8,
+    "v": 16,
+    "t": "But thanks be to God who puts the same earnest care for you into the heart of Titus.",
+    "h": "Collection for the Judean Saints",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "47008017",
+    "b": 47,
+    "c": 8,
+    "v": 17,
+    "t": "For he not only accepted the exhortation, but being more diligent, he went to you of his own accord.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "47008018",
+    "b": 47,
+    "c": 8,
+    "v": 18,
+    "t": "And we have sent with him the brother whose praise is in the gospel throughout all the churches,",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "47008019",
+    "b": 47,
+    "c": 8,
+    "v": 19,
+    "t": "and not only that, but who was also chosen by the churches to travel with us with this gift, which is administered by us to the glory of the Lord Himself and to show your ready mind,",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "47008020",
+    "b": 47,
+    "c": 8,
+    "v": 20,
+    "t": "avoiding this: that anyone should blame us in this lavish gift which is administered by us—",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "47008021",
+    "b": 47,
+    "c": 8,
+    "v": 21,
+    "t": "providing honorable things, not only in the sight of the Lord, but also in the sight of men.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "47008022",
+    "b": 47,
+    "c": 8,
+    "v": 22,
+    "t": "And we have sent with them our brother whom we have often proved diligent in many things, but now much more diligent, because of the great confidence which we have in you.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "47008023",
+    "b": 47,
+    "c": 8,
+    "v": 23,
+    "t": "If anyone inquires about Titus, he is my partner and fellow worker concerning you. Or if our brethren are inquired about, they are messengers of the churches, the glory of Christ.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "47008024",
+    "b": 47,
+    "c": 8,
+    "v": 24,
+    "t": "Therefore show to them, and before the churches, the proof of your love and of our boasting on your behalf.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "47009001",
+    "b": 47,
+    "c": 9,
+    "v": 1,
+    "t": "Now concerning the ministering to the saints, it is superfluous for me to write to you;",
+    "h": "Administering the Gift",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "47009002",
+    "b": 47,
+    "c": 9,
+    "v": 2,
+    "t": "for I know your willingness, about which I boast of you to the Macedonians, that Achaia was ready a year ago; and your zeal has stirred up the majority.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "47009003",
+    "b": 47,
+    "c": 9,
+    "v": 3,
+    "t": "Yet I have sent the brethren, lest our boasting of you should be in vain in this respect, that, as I said, you may be ready;",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "47009004",
+    "b": 47,
+    "c": 9,
+    "v": 4,
+    "t": "lest if some Macedonians come with me and find you unprepared, we (not to mention you!) should be ashamed of this confident boasting.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "47009005",
+    "b": 47,
+    "c": 9,
+    "v": 5,
+    "t": "Therefore I thought it necessary to exhort the brethren to go to you ahead of time, and prepare your generous gift beforehand, which you had previously promised, that it may be ready as a matter of generosity and not as a grudging obligation.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "47009006",
+    "b": 47,
+    "c": 9,
+    "v": 6,
+    "t": "But this I say: He who sows sparingly will also reap sparingly, and he who sows bountifully will also reap bountifully.",
+    "h": "The Cheerful Giver",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "47009007",
+    "b": 47,
+    "c": 9,
+    "v": 7,
+    "t": "So let each one give as he purposes in his heart, not grudgingly or of necessity; for God loves a cheerful giver.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "47009008",
+    "b": 47,
+    "c": 9,
+    "v": 8,
+    "t": "And God is able to make all grace abound toward you, that you, always having all sufficiency in all things, may have an abundance for every good work.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "47009009",
+    "b": 47,
+    "c": 9,
+    "v": 9,
+    "t": "As it is written: “He has dispersed abroad, He has given to the poor; His righteousness endures forever.”",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "47009010",
+    "b": 47,
+    "c": 9,
+    "v": 10,
+    "t": "Now may He who supplies seed to the sower, and bread for food, supply and multiply the seed you have sown and increase the fruits of your righteousness,",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "47009011",
+    "b": 47,
+    "c": 9,
+    "v": 11,
+    "t": "while you are enriched in everything for all liberality, which causes thanksgiving through us to God.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "47009012",
+    "b": 47,
+    "c": 9,
+    "v": 12,
+    "t": "For the administration of this service not only supplies the needs of the saints, but also is abounding through many thanksgivings to God,",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "47009013",
+    "b": 47,
+    "c": 9,
+    "v": 13,
+    "t": "while, through the proof of this ministry, they glorify God for the obedience of your confession to the gospel of Christ, and for your liberal sharing with them and all men,",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "47009014",
+    "b": 47,
+    "c": 9,
+    "v": 14,
+    "t": "and by their prayer for you, who long for you because of the exceeding grace of God in you.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "47009015",
+    "b": 47,
+    "c": 9,
+    "v": 15,
+    "t": "Thanks be to God for His indescribable gift!",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "47010001",
+    "b": 47,
+    "c": 10,
+    "v": 1,
+    "t": "Now I, Paul, myself am pleading with you by the meekness and gentleness of Christ— who in presence am lowly among you, but being absent am bold toward you.",
+    "h": "The Spiritual War",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "47010002",
+    "b": 47,
+    "c": 10,
+    "v": 2,
+    "t": "But I beg you that when I am present I may not be bold with that confidence by which I intend to be bold against some, who think of us as if we walked according to the flesh.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "47010003",
+    "b": 47,
+    "c": 10,
+    "v": 3,
+    "t": "For though we walk in the flesh, we do not war according to the flesh.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "47010004",
+    "b": 47,
+    "c": 10,
+    "v": 4,
+    "t": "For the weapons of our warfare are not carnal but mighty in God for pulling down strongholds,",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "47010005",
+    "b": 47,
+    "c": 10,
+    "v": 5,
+    "t": "casting down arguments and every high thing that exalts itself against the knowledge of God, bringing every thought into captivity to the obedience of Christ,",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "47010006",
+    "b": 47,
+    "c": 10,
+    "v": 6,
+    "t": "and being ready to punish all disobedience when your obedience is fulfilled.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "47010007",
+    "b": 47,
+    "c": 10,
+    "v": 7,
+    "t": "Do you look at things according to the outward appearance? If anyone is convinced in himself that he is Christ’s, let him again consider this in himself, that just as he is Christ’s, even so we are Christ’s.",
+    "h": "Reality of Paul’s Authority",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "47010008",
+    "b": 47,
+    "c": 10,
+    "v": 8,
+    "t": "For even if I should boast somewhat more about our authority, which the Lord gave us for edification and not for your destruction, I shall not be ashamed—",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "47010009",
+    "b": 47,
+    "c": 10,
+    "v": 9,
+    "t": "lest I seem to terrify you by letters.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "47010010",
+    "b": 47,
+    "c": 10,
+    "v": 10,
+    "t": "“For his letters,” they say, “ are weighty and powerful, but his bodily presence is weak, and his speech contemptible.”",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "47010011",
+    "b": 47,
+    "c": 10,
+    "v": 11,
+    "t": "Let such a person consider this, that what we are in word by letters when we are absent, such we will also be in deed when we are present.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "47010012",
+    "b": 47,
+    "c": 10,
+    "v": 12,
+    "t": "For we dare not class ourselves or compare ourselves with those who commend themselves. But they, measuring themselves by themselves, and comparing themselves among themselves, are not wise.",
+    "h": "Limits of Paul’s Authority",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "47010013",
+    "b": 47,
+    "c": 10,
+    "v": 13,
+    "t": "We, however, will not boast beyond measure, but within the limits of the sphere which God appointed us—a sphere which especially includes you.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "47010014",
+    "b": 47,
+    "c": 10,
+    "v": 14,
+    "t": "For we are not overextending ourselves (as though our authority did not extend to you), for it was to you that we came with the gospel of Christ;",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "47010015",
+    "b": 47,
+    "c": 10,
+    "v": 15,
+    "t": "not boasting of things beyond measure, that is, in other men’s labors, but having hope, that as your faith is increased, we shall be greatly enlarged by you in our sphere,",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "47010016",
+    "b": 47,
+    "c": 10,
+    "v": 16,
+    "t": "to preach the gospel in the regions beyond you, and not to boast in another man’s sphere of accomplishment.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "47010017",
+    "b": 47,
+    "c": 10,
+    "v": 17,
+    "t": "But “he who glories, let him glory in the Lord.”",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "47010018",
+    "b": 47,
+    "c": 10,
+    "v": 18,
+    "t": "For not he who commends himself is approved, but whom the Lord commends.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "47011001",
+    "b": 47,
+    "c": 11,
+    "v": 1,
+    "t": "Oh, that you would bear with me in a little folly—and indeed you do bear with me.",
+    "h": "Concern for Their Faithfulness",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "47011002",
+    "b": 47,
+    "c": 11,
+    "v": 2,
+    "t": "For I am jealous for you with godly jealousy. For I have betrothed you to one husband, that I may present you as a chaste virgin to Christ.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "47011003",
+    "b": 47,
+    "c": 11,
+    "v": 3,
+    "t": "But I fear, lest somehow, as the serpent deceived Eve by his craftiness, so your minds may be corrupted from the simplicity that is in Christ.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "47011004",
+    "b": 47,
+    "c": 11,
+    "v": 4,
+    "t": "For if he who comes preaches another Jesus whom we have not preached, or if you receive a different spirit which you have not received, or a different gospel which you have not accepted—you may well put up with it!",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "47011005",
+    "b": 47,
+    "c": 11,
+    "v": 5,
+    "t": "For I consider that I am not at all inferior to the most eminent apostles.",
+    "h": "Paul and False Apostles",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "47011006",
+    "b": 47,
+    "c": 11,
+    "v": 6,
+    "t": "Even though I am untrained in speech, yet I am not in knowledge. But we have been thoroughly manifested among you in all things.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "47011007",
+    "b": 47,
+    "c": 11,
+    "v": 7,
+    "t": "Did I commit sin in humbling myself that you might be exalted, because I preached the gospel of God to you free of charge?",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "47011008",
+    "b": 47,
+    "c": 11,
+    "v": 8,
+    "t": "I robbed other churches, taking wages from them to minister to you.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "47011009",
+    "b": 47,
+    "c": 11,
+    "v": 9,
+    "t": "And when I was present with you, and in need, I was a burden to no one, for what I lacked the brethren who came from Macedonia supplied. And in everything I kept myself from being burdensome to you, and so I will keep myself.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "47011010",
+    "b": 47,
+    "c": 11,
+    "v": 10,
+    "t": "As the truth of Christ is in me, no one shall stop me from this boasting in the regions of Achaia.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "47011011",
+    "b": 47,
+    "c": 11,
+    "v": 11,
+    "t": "Why? Because I do not love you? God knows!",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "47011012",
+    "b": 47,
+    "c": 11,
+    "v": 12,
+    "t": "But what I do, I will also continue to do, that I may cut off the opportunity from those who desire an opportunity to be regarded just as we are in the things of which they boast.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "47011013",
+    "b": 47,
+    "c": 11,
+    "v": 13,
+    "t": "For such are false apostles, deceitful workers, transforming themselves into apostles of Christ.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "47011014",
+    "b": 47,
+    "c": 11,
+    "v": 14,
+    "t": "And no wonder! For Satan himself transforms himself into an angel of light.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "47011015",
+    "b": 47,
+    "c": 11,
+    "v": 15,
+    "t": "Therefore it is no great thing if his ministers also transform themselves into ministers of righteousness, whose end will be according to their works.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "47011016",
+    "b": 47,
+    "c": 11,
+    "v": 16,
+    "t": "I say again, let no one think me a fool. If otherwise, at least receive me as a fool, that I also may boast a little.",
+    "h": "Reluctant Boasting",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "47011017",
+    "b": 47,
+    "c": 11,
+    "v": 17,
+    "t": "What I speak, I speak not according to the Lord, but as it were, foolishly, in this confidence of boasting.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "47011018",
+    "b": 47,
+    "c": 11,
+    "v": 18,
+    "t": "Seeing that many boast according to the flesh, I also will boast.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "47011019",
+    "b": 47,
+    "c": 11,
+    "v": 19,
+    "t": "For you put up with fools gladly, since you yourselves are wise!",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "47011020",
+    "b": 47,
+    "c": 11,
+    "v": 20,
+    "t": "For you put up with it if one brings you into bondage, if one devours you, if one takes from you, if one exalts himself, if one strikes you on the face.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "47011021",
+    "b": 47,
+    "c": 11,
+    "v": 21,
+    "t": "To our shame I say that we were too weak for that! But in whatever anyone is bold—I speak foolishly—I am bold also.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "47011022",
+    "b": 47,
+    "c": 11,
+    "v": 22,
+    "t": "Are they Hebrews? So am I. Are they Israelites? So am I. Are they the seed of Abraham? So am I.",
+    "h": "Suffering for Christ",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "47011023",
+    "b": 47,
+    "c": 11,
+    "v": 23,
+    "t": "Are they ministers of Christ?—I speak as a fool—I am more: in labors more abundant, in stripes above measure, in prisons more frequently, in deaths often.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "47011024",
+    "b": 47,
+    "c": 11,
+    "v": 24,
+    "t": "From the Jews five times I received forty stripes minus one.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "47011025",
+    "b": 47,
+    "c": 11,
+    "v": 25,
+    "t": "Three times I was beaten with rods; once I was stoned; three times I was shipwrecked; a night and a day I have been in the deep;",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "47011026",
+    "b": 47,
+    "c": 11,
+    "v": 26,
+    "t": "in journeys often, in perils of waters, in perils of robbers, in perils of my own countrymen, in perils of the Gentiles, in perils in the city, in perils in the wilderness, in perils in the sea, in perils among false brethren;",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "47011027",
+    "b": 47,
+    "c": 11,
+    "v": 27,
+    "t": "in weariness and toil, in sleeplessness often, in hunger and thirst, in fastings often, in cold and nakedness—",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "47011028",
+    "b": 47,
+    "c": 11,
+    "v": 28,
+    "t": "besides the other things, what comes upon me daily: my deep concern for all the churches.",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "47011029",
+    "b": 47,
+    "c": 11,
+    "v": 29,
+    "t": "Who is weak, and I am not weak? Who is made to stumble, and I do not burn with indignation?",
+    "h": "",
+    "o": 29,
+    "l": "29"
+  },
+  {
+    "id": "47011030",
+    "b": 47,
+    "c": 11,
+    "v": 30,
+    "t": "If I must boast, I will boast in the things which concern my infirmity.",
+    "h": "",
+    "o": 30,
+    "l": "30"
+  },
+  {
+    "id": "47011031",
+    "b": 47,
+    "c": 11,
+    "v": 31,
+    "t": "The God and Father of our Lord Jesus Christ, who is blessed forever, knows that I am not lying.",
+    "h": "",
+    "o": 31,
+    "l": "31"
+  },
+  {
+    "id": "47011032",
+    "b": 47,
+    "c": 11,
+    "v": 32,
+    "t": "In Damascus the governor, under Aretas the king, was guarding the city of the Damascenes with a garrison, desiring to arrest me;",
+    "h": "",
+    "o": 32,
+    "l": "32"
+  },
+  {
+    "id": "47011033",
+    "b": 47,
+    "c": 11,
+    "v": 33,
+    "t": "but I was let down in a basket through a window in the wall, and escaped from his hands.",
+    "h": "",
+    "o": 33,
+    "l": "33"
+  },
+  {
+    "id": "47012001",
+    "b": 47,
+    "c": 12,
+    "v": 1,
+    "t": "It is doubtless not profitable for me to boast. I will come to visions and revelations of the Lord:",
+    "h": "The Vision of Paradise",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "47012002",
+    "b": 47,
+    "c": 12,
+    "v": 2,
+    "t": "I know a man in Christ who fourteen years ago—whether in the body I do not know, or whether out of the body I do not know, God knows—such a one was caught up to the third heaven.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "47012003",
+    "b": 47,
+    "c": 12,
+    "v": 3,
+    "t": "And I know such a man—whether in the body or out of the body I do not know, God knows—",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "47012004",
+    "b": 47,
+    "c": 12,
+    "v": 4,
+    "t": "how he was caught up into Paradise and heard inexpressible words, which it is not lawful for a man to utter.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "47012005",
+    "b": 47,
+    "c": 12,
+    "v": 5,
+    "t": "Of such a one I will boast; yet of myself I will not boast, except in my infirmities.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "47012006",
+    "b": 47,
+    "c": 12,
+    "v": 6,
+    "t": "For though I might desire to boast, I will not be a fool; for I will speak the truth. But I refrain, lest anyone should think of me above what he sees me to be or hears from me.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "47012007",
+    "b": 47,
+    "c": 12,
+    "v": 7,
+    "t": "And lest I should be exalted above measure by the abundance of the revelations, a thorn in the flesh was given to me, a messenger of Satan to buffet me, lest I be exalted above measure.",
+    "h": "The Thorn in the Flesh",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "47012008",
+    "b": 47,
+    "c": 12,
+    "v": 8,
+    "t": "Concerning this thing I pleaded with the Lord three times that it might depart from me.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "47012009",
+    "b": 47,
+    "c": 12,
+    "v": 9,
+    "t": "And He said to me, “My grace is sufficient for you, for My strength is made perfect in weakness.” Therefore most gladly I will rather boast in my infirmities, that the power of Christ may rest upon me.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "47012010",
+    "b": 47,
+    "c": 12,
+    "v": 10,
+    "t": "Therefore I take pleasure in infirmities, in reproaches, in needs, in persecutions, in distresses, for Christ’s sake. For when I am weak, then I am strong.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "47012011",
+    "b": 47,
+    "c": 12,
+    "v": 11,
+    "t": "I have become a fool in boasting; you have compelled me. For I ought to have been commended by you; for in nothing was I behind the most eminent apostles, though I am nothing.",
+    "h": "Signs of an Apostle",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "47012012",
+    "b": 47,
+    "c": 12,
+    "v": 12,
+    "t": "Truly the signs of an apostle were accomplished among you with all perseverance, in signs and wonders and mighty deeds.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "47012013",
+    "b": 47,
+    "c": 12,
+    "v": 13,
+    "t": "For what is it in which you were inferior to other churches, except that I myself was not burdensome to you? Forgive me this wrong!",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "47012014",
+    "b": 47,
+    "c": 12,
+    "v": 14,
+    "t": "Now for the third time I am ready to come to you. And I will not be burdensome to you; for I do not seek yours, but you. For the children ought not to lay up for the parents, but the parents for the children.",
+    "h": "Love for the Church",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "47012015",
+    "b": 47,
+    "c": 12,
+    "v": 15,
+    "t": "And I will very gladly spend and be spent for your souls; though the more abundantly I love you, the less I am loved.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "47012016",
+    "b": 47,
+    "c": 12,
+    "v": 16,
+    "t": "But be that as it may, I did not burden you. Nevertheless, being crafty, I caught you by cunning!",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "47012017",
+    "b": 47,
+    "c": 12,
+    "v": 17,
+    "t": "Did I take advantage of you by any of those whom I sent to you?",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "47012018",
+    "b": 47,
+    "c": 12,
+    "v": 18,
+    "t": "I urged Titus, and sent our brother with him. Did Titus take advantage of you? Did we not walk in the same spirit? Did we not walk in the same steps?",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "47012019",
+    "b": 47,
+    "c": 12,
+    "v": 19,
+    "t": "Again, do you think that we excuse ourselves to you? We speak before God in Christ. But we do all things, beloved, for your edification.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "47012020",
+    "b": 47,
+    "c": 12,
+    "v": 20,
+    "t": "For I fear lest, when I come, I shall not find you such as I wish, and that I shall be found by you such as you do not wish; lest there be contentions, jealousies, outbursts of wrath, selfish ambitions, backbitings, whisperings, conceits, tumults;",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "47012021",
+    "b": 47,
+    "c": 12,
+    "v": 21,
+    "t": "lest, when I come again, my God will humble me among you, and I shall mourn for many who have sinned before and have not repented of the uncleanness, fornication, and lewdness which they have practiced.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "47013001",
+    "b": 47,
+    "c": 13,
+    "v": 1,
+    "t": "This will be the third time I am coming to you. “By the mouth of two or three witnesses every word shall be established.”",
+    "h": "Coming with Authority",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "47013002",
+    "b": 47,
+    "c": 13,
+    "v": 2,
+    "t": "I have told you before, and foretell as if I were present the second time, and now being absent I write to those who have sinned before, and to all the rest, that if I come again I will not spare—",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "47013003",
+    "b": 47,
+    "c": 13,
+    "v": 3,
+    "t": "since you seek a proof of Christ speaking in me, who is not weak toward you, but mighty in you.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "47013004",
+    "b": 47,
+    "c": 13,
+    "v": 4,
+    "t": "For though He was crucified in weakness, yet He lives by the power of God. For we also are weak in Him, but we shall live with Him by the power of God toward you.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "47013005",
+    "b": 47,
+    "c": 13,
+    "v": 5,
+    "t": "Examine yourselves as to whether you are in the faith. Test yourselves. Do you not know yourselves, that Jesus Christ is in you?—unless indeed you are disqualified.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "47013006",
+    "b": 47,
+    "c": 13,
+    "v": 6,
+    "t": "But I trust that you will know that we are not disqualified.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "47013007",
+    "b": 47,
+    "c": 13,
+    "v": 7,
+    "t": "Now I pray to God that you do no evil, not that we should appear approved, but that you should do what is honorable, though we may seem disqualified.",
+    "h": "Paul Prefers Gentleness",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "47013008",
+    "b": 47,
+    "c": 13,
+    "v": 8,
+    "t": "For we can do nothing against the truth, but for the truth.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "47013009",
+    "b": 47,
+    "c": 13,
+    "v": 9,
+    "t": "For we are glad when we are weak and you are strong. And this also we pray, that you may be made complete.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "47013010",
+    "b": 47,
+    "c": 13,
+    "v": 10,
+    "t": "Therefore I write these things being absent, lest being present I should use sharpness, according to the authority which the Lord has given me for edification and not for destruction.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "47013011",
+    "b": 47,
+    "c": 13,
+    "v": 11,
+    "t": "Finally, brethren, farewell. Become complete. Be of good comfort, be of one mind, live in peace; and the God of love and peace will be with you.",
+    "h": "Greetings and Benediction",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "47013012",
+    "b": 47,
+    "c": 13,
+    "v": 12,
+    "t": "Greet one another with a holy kiss.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "47013013",
+    "b": 47,
+    "c": 13,
+    "v": 13,
+    "t": "All the saints greet you.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "47013014",
+    "b": 47,
+    "c": 13,
+    "v": 14,
+    "t": "The grace of the Lord Jesus Christ, and the love of God, and the communion of the Holy Spirit be with you all. Amen.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  }
+]

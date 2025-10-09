@@ -1,0 +1,702 @@
+[
+    {
+        "id": "8001001",
+        "b": 8,
+        "c": 1,
+        "v": 1,
+        "t": "PADA zaman dulu, ketika Israel diperintah oleh hakim-hakim, terjadilah bala kelaparan di negeri itu. Seorang laki-laki bernama Elimelekh, dari Betlehem, meninggalkan negerinya dan pindah ke Tanah Moab. Istrinya, Naomi, dan kedua putranya, Mahlon dan Kilyon, ikut dengan dia.",
+        "h": "Naomi dan Rut",
+        "o": 1,
+        "l": "1-2"
+    },
+    {
+        "id": "8001002",
+        "b": 8,
+        "c": 1,
+        "v": 3,
+        "t": "Pada waktu mereka menetap di sana, Elimelekh mati dan Naomi ditinggalkan dengan kedua anaknya.",
+        "h": "",
+        "o": 2,
+        "l": "3"
+    },
+    {
+        "id": "8001003",
+        "b": 8,
+        "c": 1,
+        "v": 4,
+        "t": "Kedua anak muda itu, Mahlon dan Kilyon, menikah dengan gadis-gadis Moab bernama Orpa dan Rut. Tetapi setelah mereka menetap di sana selama kira-kira sepuluh tahun, Mahlon dan Kilyon mati sehingga Naomi ditinggalkan seorang diri, tanpa suami ataupun anak.",
+        "h": "",
+        "o": 3,
+        "l": "4-5"
+    },
+    {
+        "id": "8001004",
+        "b": 8,
+        "c": 1,
+        "v": 6,
+        "t": "Naomi memutuskan untuk kembali ke Israel dengan kedua menantunya karena ia telah mendengar bahwa TUHAN memberkati lagi umat-Nya dengan memberikan hasil tanah yang baik seperti yang sudah-sudah.",
+        "h": "",
+        "o": 4,
+        "l": "6-7"
+    },
+    {
+        "id": "8001005",
+        "b": 8,
+        "c": 1,
+        "v": 8,
+        "t": "Tetapi dalam perjalanan pulang itu ia mengubah keputusannya dan berkata kepada kedua menantunya, \"Sebaiknya kalian pulang saja ke rumah orang tua kalian daripada ikut dengan aku.",
+        "h": "",
+        "o": 5,
+        "l": "8"
+    },
+    {
+        "id": "8001006",
+        "b": 8,
+        "c": 1,
+        "v": 9,
+        "t": "Semoga TUHAN memberkati kalian atas kesetiaan kalian kepada suami kalian dan kepadaku. Dan semoga TUHAN sekali lagi memberkati kalian dengan pernikahan yang bahagia.\" Kemudian ia mencium mereka dan ketiganya pun bertangis-tangisan.",
+        "h": "",
+        "o": 6,
+        "l": "9"
+    },
+    {
+        "id": "8001007",
+        "b": 8,
+        "c": 1,
+        "v": 10,
+        "t": "\"Tidak,\" kata mereka. \"Kami ingin ikut dengan Ibu kepada bangsa Ibu.\"",
+        "h": "",
+        "o": 7,
+        "l": "10"
+    },
+    {
+        "id": "8001008",
+        "b": 8,
+        "c": 1,
+        "v": 11,
+        "t": "Tetapi Naomi menyahut, \"Lebih baik kalian pulang kepada bangsa kalian sendiri. Karena bukankah aku tidak mempunyai anak lagi yang bila sudah dewasa dapat menjadi suami kalian?",
+        "h": "",
+        "o": 8,
+        "l": "11"
+    },
+    {
+        "id": "8001009",
+        "b": 8,
+        "c": 1,
+        "v": 12,
+        "t": "Tidak, Anak-anakku, pulanglah ke rumah orang tua kalian, karena aku sudah terlalu tua untuk bersuami lagi. Lagipula, seandainya aku dapat menikah lagi dan mengandung malam ini juga, lalu melahirkan anak laki-laki,",
+        "h": "",
+        "o": 9,
+        "l": "12"
+    },
+    {
+        "id": "8001010",
+        "b": 8,
+        "c": 1,
+        "v": 13,
+        "t": "apakah kalian mau menunggu sampai ia menjadi dewasa? Tentu saja tidak, Anak-anakku. Ah, betapa sedih hatiku bahwa TUHAN telah menghukum aku seperti ini hingga kalian turut menderita.\"",
+        "h": "",
+        "o": 10,
+        "l": "13"
+    },
+    {
+        "id": "8001011",
+        "b": 8,
+        "c": 1,
+        "v": 14,
+        "t": "Sekali lagi mereka bertangis-tangisan. Orpa mencium ibu mertuanya sebagai ucapan selamat tinggal, lalu pulang ke rumah orang tuanya. Tetapi Rut tetap ingin ikut dengan Naomi.",
+        "h": "",
+        "o": 11,
+        "l": "14"
+    },
+    {
+        "id": "8001012",
+        "b": 8,
+        "c": 1,
+        "v": 15,
+        "t": "\"Lihatlah,\" kata Naomi kepadanya. \"Iparmu telah kembali kepada bangsanya dan para allahnya; sebaiknya engkau pun berbuat demikian.\"",
+        "h": "",
+        "o": 12,
+        "l": "15"
+    },
+    {
+        "id": "8001013",
+        "b": 8,
+        "c": 1,
+        "v": 16,
+        "t": "Tetapi Rut menyahut, \"Jangan memaksa aku meninggalkan Ibu karena aku ingin pergi ke mana pun Ibu pergi, dan tinggal di mana pun Ibu tinggal. Bangsa Ibu akan menjadi bangsaku dan Allah Ibu akan menjadi Allahku.",
+        "h": "",
+        "o": 13,
+        "l": "16"
+    },
+    {
+        "id": "8001014",
+        "b": 8,
+        "c": 1,
+        "v": 17,
+        "t": "Aku ingin mati di tempat Ibu mati dan dikubur di situ. Biarlah TUHAN menghukum aku jika aku meninggalkan Ibu karena apa pun, kecuali kalau kematian memisahkan kita.\"",
+        "h": "",
+        "o": 14,
+        "l": "17"
+    },
+    {
+        "id": "8001015",
+        "b": 8,
+        "c": 1,
+        "v": 18,
+        "t": "Ketika Naomi melihat bahwa Rut sudah bulat tekadnya, ia berhenti membujuk.",
+        "h": "",
+        "o": 15,
+        "l": "18"
+    },
+    {
+        "id": "8001016",
+        "b": 8,
+        "c": 1,
+        "v": 19,
+        "t": "Demikianlah mereka berdua tiba di Betlehem dan seluruh kota itu menjadi gempar karena kedatangan mereka. \"Sungguhkah itu Naomi?\" tanya perempuan-perempuan di situ.",
+        "h": "",
+        "o": 16,
+        "l": "19"
+    },
+    {
+        "id": "8001017",
+        "b": 8,
+        "c": 1,
+        "v": 20,
+        "t": "Tetapi Naomi berkata kepada mereka, \"Jangan panggil aku Naomi! Panggillah aku Mara karena Allah Yang Mahakuasa telah memberi aku pengalaman yang pahit. (Naomi artinya 'Menyenangkan'; Mara artinya 'Pahit'.)",
+        "h": "",
+        "o": 17,
+        "l": "20"
+    },
+    {
+        "id": "8001018",
+        "b": 8,
+        "c": 1,
+        "v": 21,
+        "t": "Aku berangkat dengan tangan penuh, tetapi TUHAN telah membawa aku pulang dengan tangan kosong. Mengapa aku masih juga dipanggil Naomi, padahal TUHAN telah meninggalkan aku dan mendatangkan malapetaka semacam ini ke atas diriku?\"",
+        "h": "",
+        "o": 18,
+        "l": "21"
+    },
+    {
+        "id": "8001019",
+        "b": 8,
+        "c": 1,
+        "v": 22,
+        "t": "Kembalinya mereka dari Moab dan tibanya mereka di Betlehem bertepatan dengan permulaan musim menuai jelai.",
+        "h": "",
+        "o": 19,
+        "l": "22"
+    },
+    {
+        "id": "8002001",
+        "b": 8,
+        "c": 2,
+        "v": 1,
+        "t": "DI Betlehem Naomi mempunyai seorang sanak dari pihak suaminya, seorang yang kaya raya bernama Boas.",
+        "h": "",
+        "o": 1,
+        "l": "1"
+    },
+    {
+        "id": "8002002",
+        "b": 8,
+        "c": 2,
+        "v": 2,
+        "t": "Pada suatu hari Rut berkata kepada Naomi, \"Izinkanlah aku pergi ke ladang orang yang mau bermurah hati kepadaku dan membiarkan aku memungut bulir-bulir jelai di belakang para penuainya.\" \"Baiklah, Anakku, pergilah,\" sahut Naomi.",
+        "h": "",
+        "o": 2,
+        "l": "2"
+    },
+    {
+        "id": "8002003",
+        "b": 8,
+        "c": 2,
+        "v": 3,
+        "t": "Maka pergilah Rut ke sebuah ladang. Kebetulan sekali ladang itu milik Boas, sanak Elimelekh suami Naomi.",
+        "h": "",
+        "o": 3,
+        "l": "3"
+    },
+    {
+        "id": "8002004",
+        "b": 8,
+        "c": 2,
+        "v": 4,
+        "t": "Sementara Rut ada di situ, Boas pulang dari kota. Setelah memberi salam kepada para penuai, ia berkata kepada mandornya, \"Siapakah perempuan di sana itu?\"",
+        "h": "",
+        "o": 4,
+        "l": "4-5"
+    },
+    {
+        "id": "8002005",
+        "b": 8,
+        "c": 2,
+        "v": 6,
+        "t": "Mandor itu menjawab, \"Dialah perempuan Moab yang ikut dengan Naomi.",
+        "h": "",
+        "o": 5,
+        "l": "6"
+    },
+    {
+        "id": "8002006",
+        "b": 8,
+        "c": 2,
+        "v": 7,
+        "t": "Tadi pagi ia bertanya apakah ia boleh memungut bulir-bulir yang tercecer. Sejak tadi ia sibuk dan hanya beristirahat sebentar saja di tempat yang teduh di sana.\"",
+        "h": "",
+        "o": 6,
+        "l": "7"
+    },
+    {
+        "id": "8002007",
+        "b": 8,
+        "c": 2,
+        "v": 8,
+        "t": "Boas datang kepada Rut dan berkata kepadanya, \"Dengarlah, Anakku, engkau tidak usah memungut jelai di ladang orang lain. Tinggallah di ladang kami dan ikuti sajalah pengerja-pengerja yang perempuan. Aku telah berpesan kepada para pengerja yang laki-laki supaya jangan mengganggu engkau. Apabila engkau haus, minumlah air dari tempayan-tempayan itu.\"",
+        "h": "",
+        "o": 7,
+        "l": "8-9"
+    },
+    {
+        "id": "8002008",
+        "b": 8,
+        "c": 2,
+        "v": 10,
+        "t": "Rut sujud di hadapan Boas sambil berkata, \"Mengapa Tuan begitu baik kepada hamba, padahal hamba ini hanyalah seorang asing?\" \"Ya, aku tahu,\" sahut Boas. \"Aku juga tahu tentang segala kasih dan kebaikanmu kepada ibu mertuamu sejak kematian suamimu, dan tentang bagaimana engkau telah meninggalkan ayah ibumu di negerimu sendiri untuk datang ke mari dan hidup di tengah-tengah orang asing.",
+        "h": "",
+        "o": 8,
+        "l": "10-11"
+    },
+    {
+        "id": "8002009",
+        "b": 8,
+        "c": 2,
+        "v": 12,
+        "t": "Semoga TUHAN, Allah Israel, yang di bawah sayap-Nya engkau sekarang berlindung, memberkati engkau untuk semua itu.\"",
+        "h": "",
+        "o": 9,
+        "l": "12"
+    },
+    {
+        "id": "8002010",
+        "b": 8,
+        "c": 2,
+        "v": 13,
+        "t": "\"Terima kasih, Tuan,\" sahut Rut. \"Tuan begitu baik kepada hamba walaupun hamba bukan pengerja Tuan!\"",
+        "h": "",
+        "o": 10,
+        "l": "13"
+    },
+    {
+        "id": "8002011",
+        "b": 8,
+        "c": 2,
+        "v": 14,
+        "t": "Pada waktu makan siang Boas memanggil dia, \"Marilah makan bersama-sama dengan kami.\" Rut duduk bersama-sama dengan para penuai dan Boas memberi dia makanan lebih daripada yang dapat dimakannya.",
+        "h": "",
+        "o": 11,
+        "l": "14"
+    },
+    {
+        "id": "8002012",
+        "b": 8,
+        "c": 2,
+        "v": 15,
+        "t": "Ketika Rut mulai memunguti jelai lagi, Boas berpesan kepada para pengerja laki-laki supaya mereka membiarkan Rut memunguti bulir-bulir di antara berkas-berkas jelai.",
+        "h": "",
+        "o": 12,
+        "l": "15"
+    },
+    {
+        "id": "8002013",
+        "b": 8,
+        "c": 2,
+        "v": 16,
+        "t": "Ia bahkan menyuruh mereka dengan sengaja menjatuhkan beberapa bulir jelai untuknya dan melarang mereka berlaku kasar terhadapnya.",
+        "h": "",
+        "o": 13,
+        "l": "16"
+    },
+    {
+        "id": "8002014",
+        "b": 8,
+        "c": 2,
+        "v": 17,
+        "t": "Demikianlah Rut bekerja di situ sepanjang hari. Pada sore harinya, setelah ia mengirik jelai hasil pungutannya, ia memperoleh kira-kira satu efa (36 liter).",
+        "h": "",
+        "o": 14,
+        "l": "17"
+    },
+    {
+        "id": "8002015",
+        "b": 8,
+        "c": 2,
+        "v": 18,
+        "t": "Ia membawa jelai itu pulang ke kota dan memberikannya kepada ibu mertuanya, bersama-sama dengan makanan siang yang tidak dihabiskannya.",
+        "h": "",
+        "o": 15,
+        "l": "18"
+    },
+    {
+        "id": "8002016",
+        "b": 8,
+        "c": 2,
+        "v": 19,
+        "t": "\"Wah, banyak benar!\" kata Naomi. \"Di mana engkau memungut jelai hari ini? Terpujilah TUHAN atas siapa pun yang telah berbuat sebaik ini kepadamu.\" Rut menceritakan semuanya kepada ibu mertuanya dan mengatakan bahwa pemilik ladang itu ialah Boas.",
+        "h": "",
+        "o": 16,
+        "l": "19"
+    },
+    {
+        "id": "8002017",
+        "b": 8,
+        "c": 2,
+        "v": 20,
+        "t": "\"Terpujilah TUHAN bahwa ada orang yang seperti dia! Allah terus-menerus menyatakan kebaikan-Nya kepada kita maupun kepada almarhum suamimu!\" seru Naomi kegirangan. \"Ia salah seorang sanak kita yang terdekat (yang wajib menebus kita)!\"",
+        "h": "",
+        "o": 17,
+        "l": "20"
+    },
+    {
+        "id": "8002018",
+        "b": 8,
+        "c": 2,
+        "v": 21,
+        "t": "\"Ia menyuruh aku supaya datang lagi dan memungut jelai di belakang para penuainya sampai seluruh ladang itu selesai dituai,\" kata Rut kepada Naomi.",
+        "h": "",
+        "o": 18,
+        "l": "21"
+    },
+    {
+        "id": "8002019",
+        "b": 8,
+        "c": 2,
+        "v": 22,
+        "t": "\"Baik sekali!\" sahut Naomi. \"Turuti apa yang dikatakannya. Tinggallah di dekat pengerja-pengerja perempuan sepanjang musim panen ini; pasti lebih aman di situ daripada di ladang orang lain.\"",
+        "h": "",
+        "o": 19,
+        "l": "22"
+    },
+    {
+        "id": "8002020",
+        "b": 8,
+        "c": 2,
+        "v": 23,
+        "t": "Demikianlah Rut memungut jelai bersama-sama dengan para pengerja itu sampai panen jelai selesai dan juga panen gandum. Dan ia hidup berdua dengan mertuanya.",
+        "h": "",
+        "o": 20,
+        "l": "23"
+    },
+    {
+        "id": "8003001",
+        "b": 8,
+        "c": 3,
+        "v": 1,
+        "t": "PADA suatu hari Naomi berkata kepada Rut, \"Anakku, bukankah sekarang sudah saatnya aku mencarikan suami untukmu supaya engkau menikah lagi dan hidup bahagia?",
+        "h": "Rut dan Boas di tempat pengirikan",
+        "o": 1,
+        "l": "1"
+    },
+    {
+        "id": "8003002",
+        "b": 8,
+        "c": 3,
+        "v": 2,
+        "t": "Calon suami yang kumaksudkan ialah Boas. Ia sangat baik kepada kita dan ia sanak kita yang dekat. Kebetulan aku tahu bahwa malam ini ia akan menampi jelai di tempat pengirikan.",
+        "h": "",
+        "o": 2,
+        "l": "2"
+    },
+    {
+        "id": "8003003",
+        "b": 8,
+        "c": 3,
+        "v": 3,
+        "t": "Nah, dengarlah pesanku -- mandilah, pakailah minyak wangi, dan kenakanlah pakaianmu yang bagus, lalu pergilah ke tempat pengirikan. Tetapi janganlah engkau menampakkan diri kepadanya sampai ia selesai makan malam.",
+        "h": "",
+        "o": 3,
+        "l": "3"
+    },
+    {
+        "id": "8003004",
+        "b": 8,
+        "c": 3,
+        "v": 4,
+        "t": "Perhatikan di mana ia berbaring untuk tidur. Lalu pergilah kepadanya, singkapkan selimut kakinya dan berbaringlah di situ, maka ia akan memberitahu engkau apa yang harus kaulakukan.\"",
+        "h": "",
+        "o": 4,
+        "l": "4"
+    },
+    {
+        "id": "8003005",
+        "b": 8,
+        "c": 3,
+        "v": 5,
+        "t": "Rut menyahut, \"Baiklah. Semua yang Ibu katakan akan kulakukan.\"",
+        "h": "",
+        "o": 5,
+        "l": "5"
+    },
+    {
+        "id": "8003006",
+        "b": 8,
+        "c": 3,
+        "v": 6,
+        "t": "Maka pada malam itu pergilah ia ke tempat pengirikan dan melaksanakan petunjuk-petunjuk ibu mertuanya. Setelah Boas menikmati makan malam, dengan perasaan puas ia membaringkan diri di dekat timbunan jelai, lalu tertidur. Dengan diam-diam Rut datang mendekat dan menyingkapkan selimut kaki Boas, lalu berbaring di situ.",
+        "h": "",
+        "o": 6,
+        "l": "6-7"
+    },
+    {
+        "id": "8003007",
+        "b": 8,
+        "c": 3,
+        "v": 8,
+        "t": "Pada tengah malam, tiba-tiba Boas duduk terbangun dengan terkejut. Ketika diteliti, rupanya ada seorang perempuan sedang berbaring di dekat kakinya!",
+        "h": "",
+        "o": 7,
+        "l": "8"
+    },
+    {
+        "id": "8003008",
+        "b": 8,
+        "c": 3,
+        "v": 9,
+        "t": "\"Siapakah engkau?\" tanyanya. \"Hamba ini Rut, Tuan,\" jawabnya. \"Jadilah pelindung hamba sesuai dengan hukum yang ada sini karena Tuanlah sanak yang sangat dekat.\"",
+        "h": "",
+        "o": 8,
+        "l": "9"
+    },
+    {
+        "id": "8003009",
+        "b": 8,
+        "c": 3,
+        "v": 10,
+        "t": "\"Diberkati Allah kiranya engkau, Anakku!\" kata Boas. \"Karena sekarang engkau melakukan kebaikan yang lebih besar lagi kepada Naomi daripada yang sudah-sudah. Engkau tidak mencari-cari orang-orang muda yang kaya ataupun yang miskin, tetapi mengesampingkan keinginan pribadimu.",
+        "h": "",
+        "o": 9,
+        "l": "10"
+    },
+    {
+        "id": "8003010",
+        "b": 8,
+        "c": 3,
+        "v": 11,
+        "t": "Janganlah kuatir, Anakku; aku akan mengurus segala sesuatunya karena semua orang tahu betapa baiknya engkau.",
+        "h": "",
+        "o": 10,
+        "l": "11"
+    },
+    {
+        "id": "8003011",
+        "b": 8,
+        "c": 3,
+        "v": 12,
+        "t": "Tetapi masih ada satu persoalan. Aku memang sanak dekat, tetapi ada seorang lain yang lebih dekat hubungan kekeluargaannya daripada aku.",
+        "h": "",
+        "o": 11,
+        "l": "12"
+    },
+    {
+        "id": "8003012",
+        "b": 8,
+        "c": 3,
+        "v": 13,
+        "t": "Tinggallah di sini malam ini. Besok aku akan berbicara kepadanya. Kalau ia bersedia menebus (memperistri) engkau, itu haknya; biarlah dia memenuhi kewajibannya. Tetapi, kalau ia tidak bersedia, maka demi TUHAN aku bersumpah bahwa akulah yang akan menebus engkau. Sekarang, tidur sajalah sampai pagi.\"",
+        "h": "",
+        "o": 12,
+        "l": "13"
+    },
+    {
+        "id": "8003013",
+        "b": 8,
+        "c": 3,
+        "v": 14,
+        "t": "Rut berbaring di dekat kaki Boas sampai pagi dan bangun sebelum fajar menyingsing karena Boas telah berkata kepadanya, \"Jangan sampai diketahui orang bahwa ada perempuan di tempat pengirikan.\"",
+        "h": "",
+        "o": 13,
+        "l": "14"
+    },
+    {
+        "id": "8003014",
+        "b": 8,
+        "c": 3,
+        "v": 15,
+        "t": "\"Bawa selendangmu ke mari,\" kata Boas. Ia mengisi selendang itu dengan enam takar jelai sebagai oleh-oleh untuk Naomi. Lalu selendang itu diikatnya dan ditaruhnya di atas punggung Rut. Maka kembalilah Rut ke kota. Ketika ia tiba di rumah, Naomi bertanya, \"Bagaimana kabarnya, Anakku?\" Rut menceritakan semuanya kepada Naomi dan menyerahkan jelai pemberian Boas, sambil mengatakan bahwa Boas tidak membolehkan dia pulang dengan tangan kosong. Naomi berkata kepadanya, \"Bersabarlah sampai kita mendengar bagaimana kesudahannya, karena Boas tidak akan diam sebelum ia menyelesaikan perkara itu hari ini juga.\"",
+        "h": "",
+        "o": 14,
+        "l": "15-18"
+    },
+    {
+        "id": "8004001",
+        "b": 8,
+        "c": 4,
+        "v": 1,
+        "t": "BOAS pergi ke pintu gerbang kota dan bertemu dengan sanak yang telah disebutkannya itu. Boas memanggil dia. \"Ke marilah sebentar! Ada yang ingin kubicarakan dengan engkau.\" Maka keduanya pun duduklah.",
+        "h": "Boas mengambil Rut sebagai istrinya",
+        "o": 1,
+        "l": "1"
+    },
+    {
+        "id": "8004002",
+        "b": 8,
+        "c": 4,
+        "v": 2,
+        "t": "Lalu Boas memanggil sepuluh orang tua-tua kota dan minta mereka menjadi saksi.",
+        "h": "",
+        "o": 2,
+        "l": "2"
+    },
+    {
+        "id": "8004003",
+        "b": 8,
+        "c": 4,
+        "v": 3,
+        "t": "Boas berkata kepada sanaknya, \"Engkau kenal Naomi, yang baru saja pulang dari Moab. Ia hendak menjual tanah milik saudara kita Elimelekh.",
+        "h": "",
+        "o": 3,
+        "l": "3"
+    },
+    {
+        "id": "8004004",
+        "b": 8,
+        "c": 4,
+        "v": 4,
+        "t": "Aku merasa bahwa aku perlu berbicara kepadamu tentang soal ini supaya kalau engkau mau, engkau dapat membelinya dengan tua-tua yang terhormat ini sebagai saksi. Katakan kepadaku sekarang juga kalau engkau ingin menebusnya; karena kalau tidak, akulah yang akan menebusnya. Engkaulah yang lebih dulu berhak menebus tanah itu, kemudian barulah aku.\" Orang itu menyahut, \"Baiklah, aku akan menebusnya.\"",
+        "h": "",
+        "o": 4,
+        "l": "4"
+    },
+    {
+        "id": "8004005",
+        "b": 8,
+        "c": 4,
+        "v": 5,
+        "t": "Kemudian Boas berkata kepadanya, \"Pada waktu engkau membeli tanah itu dari Naomi, engkau wajib mengambil Rut, perempuan Moab itu, sebagai istri supaya ia memperoleh putra yang akan meneruskan nama suaminya dan menjadi ahli waris tanah itu.\"",
+        "h": "",
+        "o": 5,
+        "l": "5"
+    },
+    {
+        "id": "8004006",
+        "b": 8,
+        "c": 4,
+        "v": 6,
+        "t": "\"Kalau begitu, aku tidak dapat menebusnya,\" sahut orang itu. \"Karena anaknya akan menjadi ahli waris semua milikku juga. Engkau sajalah yang menebusnya.\"",
+        "h": "",
+        "o": 6,
+        "l": "6"
+    },
+    {
+        "id": "8004007",
+        "b": 8,
+        "c": 4,
+        "v": 7,
+        "t": "Pada zaman itu sudah menjadi adat di Israel bahwa orang yang ingin memindahkan hak belinya kepada pihak lain harus melepaskan sandalnya dan menyerahkannya kepada pihak yang lain itu sebagai pengesahan di hadapan umum.",
+        "h": "",
+        "o": 7,
+        "l": "7"
+    },
+    {
+        "id": "8004008",
+        "b": 8,
+        "c": 4,
+        "v": 8,
+        "t": "Maka, ketika orang itu berkata kepada Boas, \"Engkau sajalah yang menebusnya\", ia pun melepaskan sandalnya.",
+        "h": "",
+        "o": 8,
+        "l": "8"
+    },
+    {
+        "id": "8004009",
+        "b": 8,
+        "c": 4,
+        "v": 9,
+        "t": "Boas berkata kepada para saksi dan orang banyak yang berkerumun di situ, \"Saudara sekalian telah menyaksikan bahwa pada hari ini saya telah membeli semua milik Elimelekh, Kilyon, dan Mahlon dari Naomi,",
+        "h": "",
+        "o": 9,
+        "l": "9"
+    },
+    {
+        "id": "8004010",
+        "b": 8,
+        "c": 4,
+        "v": 10,
+        "t": "dan dengan ini pula saya telah menebus Rut, orang Moab itu, janda Mahlon, untuk menjadi istri saya, supaya ia memperoleh putra untuk meneruskan nama keluarga almarhum suaminya.\"",
+        "h": "",
+        "o": 10,
+        "l": "10"
+    },
+    {
+        "id": "8004011",
+        "b": 8,
+        "c": 4,
+        "v": 11,
+        "t": "Semua orang yang berdiri di situ dan para saksi menyahut, \"Kamilah saksinya. Semoga TUHAN menjadikan perempuan yang sekarang telah memasuki rumahmu ini subur seperti Rahel dan Lea yang telah menurunkan seluruh bangsa Israel! Semoga engkau menjadi orang yang ternama dan berhasil di Betlehem.",
+        "h": "",
+        "o": 11,
+        "l": "11"
+    },
+    {
+        "id": "8004012",
+        "b": 8,
+        "c": 4,
+        "v": 12,
+        "t": "Semoga keturunan yang akan dikaruniakan TUHAN kepadamu dari perempuan muda itu banyak jumlahnya dan terhormat seperti keturunan nenek moyang kita Peres, putra Tamar dan Yehuda!\"",
+        "h": "",
+        "o": 12,
+        "l": "12"
+    },
+    {
+        "id": "8004013",
+        "b": 8,
+        "c": 4,
+        "v": 13,
+        "t": "Demikianlah Boas mengambil Rut sebagai istrinya, lalu Rut mengandung. TUHAN mengaruniakan kepada mereka seorang putra.",
+        "h": "",
+        "o": 13,
+        "l": "13"
+    },
+    {
+        "id": "8004014",
+        "b": 8,
+        "c": 4,
+        "v": 14,
+        "t": "Kaum wanita di kota itu berkata kepada Naomi, \"Terpujilah TUHAN yang telah memberikan cucu ini kepadamu! Semoga ia menjadi termasyhur di Israel.",
+        "h": "",
+        "o": 14,
+        "l": "14"
+    },
+    {
+        "id": "8004015",
+        "b": 8,
+        "c": 4,
+        "v": 15,
+        "t": "Semoga ia menyegarkan hidupmu dan merawat engkau pada hari tuamu; karena ia putra menantumu yang sangat mengasihi engkau, dan yang telah bersikap baik kepadamu lebih daripada tujuh anak laki-laki.\"",
+        "h": "",
+        "o": 15,
+        "l": "15"
+    },
+    {
+        "id": "8004016",
+        "b": 8,
+        "c": 4,
+        "v": 16,
+        "t": "Naomi mengasuh anak itu dan tetangga-tetangga perempuan berkata, \"Akhirnya Naomi mempunyai anak laki-laki lagi!\" Mereka menamai anak itu Obed. Ia ayah Isai dan kakek Raja Daud.",
+        "h": "",
+        "o": 16,
+        "l": "16-17"
+    },
+    {
+        "id": "8004017",
+        "b": 8,
+        "c": 4,
+        "v": 18,
+        "t": "Inilah silsilah Boas, mulai dari Peres: Peres ayah Hezron, Hezron ayah Ram, Ram ayah Aminadab, Aminadab ayah Nahason, Nahason ayah Salmon, Salmon ayah Boas, Boas ayah Obed, Obed ayah Isai, Isai ayah Daud.",
+        "h": "",
+        "o": 17,
+        "l": "18-22"
+    }
+]

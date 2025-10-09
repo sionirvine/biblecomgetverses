@@ -1,0 +1,6552 @@
+[
+  {
+    "id": "6001001",
+    "b": 6,
+    "c": 1,
+    "v": 1,
+    "t": "Moïse était le serviteur du SEIGNEUR, et Josué, fils de Noun, était son adjoint. Après la mort de Moïse, le SEIGNEUR a dit à Josué :",
+    "h": "Josué remplace Moïse",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "6001002",
+    "b": 6,
+    "c": 1,
+    "v": 2,
+    "t": "« Moïse, mon serviteur, est mort. Maintenant, c’est à toi de traverser le fleuve Jourdain avec tout le peuple d’Israël pour entrer dans le pays que je vous donne.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "6001003",
+    "b": 6,
+    "c": 1,
+    "v": 3,
+    "t": "Comme je l’ai promis à Moïse, je vous donne tout endroit où vous poserez les pieds.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "6001004",
+    "b": 6,
+    "c": 1,
+    "v": 4,
+    "t": "Votre territoire ira depuis le désert, au sud, jusqu’aux montagnes du Liban, au nord. Il s’étendra de l’Euphrate, le grand fleuve, à l’est, jusqu’à la mer Méditerranée, à l’ouest, à travers le pays des Hittites.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "6001005",
+    "b": 6,
+    "c": 1,
+    "v": 5,
+    "t": "Pendant toute ta vie, personne ne pourra te résister. Je serai avec toi comme j’ai été avec Moïse. Je ne te laisserai pas, je ne t’abandonnerai pas.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "6001006",
+    "b": 6,
+    "c": 1,
+    "v": 6,
+    "t": "Sois fort et courageux. Oui, c’est toi qui donneras en partage à ce peuple le pays que j’ai promis à ses ancêtres.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "6001007",
+    "b": 6,
+    "c": 1,
+    "v": 7,
+    "t": "Sois fort et très courageux. Efforce-toi d’obéir à toute la loi que mon serviteur Moïse t’a donnée. Ne t’éloigne jamais de cette loi. Alors tu réussiras dans tout ce que tu feras.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "6001008",
+    "b": 6,
+    "c": 1,
+    "v": 8,
+    "t": "Répète sans cesse les enseignements du livre de la loi, redis-les dans ton cœur jour et nuit. Ainsi tu t’efforceras d’obéir à tout ce qui est écrit. De cette façon, tu mèneras tes projets avec succès et ils réussiront.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "6001009",
+    "b": 6,
+    "c": 1,
+    "v": 9,
+    "t": "Je t’ai commandé d’être fort et courageux. Ne tremble pas, n’aie pas peur, car moi, le SEIGNEUR ton Dieu, je serai avec toi partout où tu iras. »",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "6001010",
+    "b": 6,
+    "c": 1,
+    "v": 10,
+    "t": "Josué commande aux responsables du peuple",
+    "h": "Josué prépare la traversée du Jourdain",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "6001011",
+    "b": 6,
+    "c": 1,
+    "v": 11,
+    "t": "d’aller dans tout le camp pour donner cet ordre aux Israélites : « Préparez de la nourriture. En effet, dans trois jours, vous allez traverser le fleuve Jourdain. Vous irez prendre possession du pays que le SEIGNEUR votre Dieu vous donne. »",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "6001012",
+    "b": 6,
+    "c": 1,
+    "v": 12,
+    "t": "Ensuite, Josué parle aux hommes des tribus de Ruben, de Gad, et de la demi-tribu de Manassé. Il leur dit :",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "6001013",
+    "b": 6,
+    "c": 1,
+    "v": 13,
+    "t": "« Souvenez-vous de l’ordre que Moïse, le serviteur du SEIGNEUR, vous a adressé. Il a dit : “Le SEIGNEUR votre Dieu vous accorde de vous installer en paix dans la région qu’il vous donne à l’est du Jourdain.”",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "6001014",
+    "b": 6,
+    "c": 1,
+    "v": 14,
+    "t": "Vos femmes, vos enfants et vos troupeaux resteront là où Moïse vous a conduits. Mais vous, tous les combattants courageux, vous traverserez le fleuve avec vos armes devant vos frères israélites. Vous les aiderez",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "6001015",
+    "b": 6,
+    "c": 1,
+    "v": 15,
+    "t": "à prendre possession du pays que le SEIGNEUR leur donne. Le SEIGNEUR votre Dieu leur accordera à eux aussi de s’installer en paix. Puis vous pourrez revenir occuper la région que Moïse, le serviteur du SEIGNEUR, vous a donnée à l’est du Jourdain. »",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "6001016",
+    "b": 6,
+    "c": 1,
+    "v": 16,
+    "t": "Les responsables du peuple répondent à Josué : « Nous ferons tout ce que tu nous commandes, nous irons partout où tu nous enverras.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "6001017",
+    "b": 6,
+    "c": 1,
+    "v": 17,
+    "t": "Nous t’obéirons fidèlement comme nous avons obéi à Moïse. Le SEIGNEUR ton Dieu sera sûrement avec toi comme il a été avec Moïse.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "6001018",
+    "b": 6,
+    "c": 1,
+    "v": 18,
+    "t": "Celui qui se révoltera contre tes ordres et n’obéira pas à tes paroles, il faut le faire mourir. Oui, sois fort et courageux ! »",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "6002001",
+    "b": 6,
+    "c": 2,
+    "v": 1,
+    "t": "Du camp de Chittim, Josué, fils de Noun, envoie en secret deux hommes, pour chercher à connaître le pays et la ville de Jéricho. Les deux espions arrivent à Jéricho et ils vont passer la nuit dans la maison d’une prostituée appelée Rahab.",
+    "h": "Josué envoie en secret deux hommes à Jéricho",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "6002002",
+    "b": 6,
+    "c": 2,
+    "v": 2,
+    "t": "Quelqu’un dit au roi de Jéricho : « Des Israélites sont arrivés cette nuit dans la ville pour chercher à connaître le pays. »",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "6002003",
+    "b": 6,
+    "c": 2,
+    "v": 3,
+    "t": "Alors le roi envoie des gens dire à Rahab : « Les hommes qui sont entrés chez toi sont venus pour chercher à connaître tout le pays. Fais-les sortir ! »",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "6002004",
+    "b": 6,
+    "c": 2,
+    "v": 4,
+    "t": "Rahab emmène les deux hommes et elle les cache. Puis elle répond : « Oui, des hommes sont venus chez moi, mais je ne savais pas d’où ils étaient.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "6002005",
+    "b": 6,
+    "c": 2,
+    "v": 5,
+    "t": "Ils sont repartis à la tombée de la nuit, au moment où on allait fermer la porte de la ville. Je ne sais pas où ils sont allés. Mais si vous vous dépêchez, vous pourrez les rattraper. »",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "6002006",
+    "b": 6,
+    "c": 2,
+    "v": 6,
+    "t": "En réalité, elle les a fait monter sur la terrasse de sa maison. Elle les a cachés sous des branches de lin rangées à cet endroit.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "6002007",
+    "b": 6,
+    "c": 2,
+    "v": 7,
+    "t": "Alors les envoyés du roi les poursuivent. Ils prennent la route vers les endroits où ils pourront traverser le fleuve Jourdain à pied. Dès qu’ils ont quitté Jéricho, on ferme la porte de la ville.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "6002008",
+    "b": 6,
+    "c": 2,
+    "v": 8,
+    "t": "Pendant ce temps, Rahab monte sur la terrasse de sa maison. Les deux hommes ne dorment pas encore.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "6002009",
+    "b": 6,
+    "c": 2,
+    "v": 9,
+    "t": "Elle leur dit : « Je sais que le SEIGNEUR vous a donné ce pays. Nous avons tellement peur que tous les habitants sont découragés à cause de vous.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "6002010",
+    "b": 6,
+    "c": 2,
+    "v": 10,
+    "t": "En effet, nous avons appris ceci : le SEIGNEUR a séché la mer des Roseaux devant vous quand vous êtes sortis d’Égypte. Ensuite, vous avez tué Sihon et Og, les deux rois amorites qui vivaient à l’est du Jourdain, et vous avez détruit tout ce qu’ils possédaient.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "6002011",
+    "b": 6,
+    "c": 2,
+    "v": 11,
+    "t": "En entendant ces nouvelles, nous avons été complètement découragés. Personne ne se sent capable de vous résister, car le SEIGNEUR votre Dieu est Dieu là-haut dans le ciel et ici-bas sur la terre.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "6002012",
+    "b": 6,
+    "c": 2,
+    "v": 12,
+    "t": "J’ai agi avec bonté envers vous. Alors jurez-moi par le SEIGNEUR que vous aussi, vous agirez avec bonté envers ma famille. Donnez-moi une preuve que cela est sûr en promettant ceci :",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "6002013",
+    "b": 6,
+    "c": 2,
+    "v": 13,
+    "t": "vous laisserez vivre mon père, ma mère, mes frères et mes sœurs, et tous ceux de leur famille. Vous ne permettrez pas que nous soyons tués. »",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "6002014",
+    "b": 6,
+    "c": 2,
+    "v": 14,
+    "t": "Les deux Israélites lui répondent : « Nous le jurons sur notre vie. Mais tu ne dois rien raconter de notre visite. Quand le SEIGNEUR nous donnera ce pays, nous serons bons pour toi et nous tiendrons notre promesse. »",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "6002015",
+    "b": 6,
+    "c": 2,
+    "v": 15,
+    "t": "La maison de Rahab est située contre le mur de défense qui protège la ville. Elle fait donc descendre les deux hommes avec une corde par la fenêtre.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "6002016",
+    "b": 6,
+    "c": 2,
+    "v": 16,
+    "t": "Elle leur dit : « Allez vous cacher dans les collines pour fuir ceux qui vous cherchent. Restez là-bas pendant trois jours jusqu’à ce qu’ils reviennent ici. Ensuite, vous pourrez continuer votre chemin. »",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "6002017",
+    "b": 6,
+    "c": 2,
+    "v": 17,
+    "t": "Les Israélites lui disent : « Nous respecterons le serment que tu nous as fait jurer.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "6002018",
+    "b": 6,
+    "c": 2,
+    "v": 18,
+    "t": "Voici ce que tu feras : quand nous entrerons dans le pays, tu attacheras cette petite corde rouge à la fenêtre, là où nous allons descendre. Puis tu rassembleras dans ta maison ton père, ta mère, tes frères et toute ta famille.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "6002019",
+    "b": 6,
+    "c": 2,
+    "v": 19,
+    "t": "Si quelqu’un sort de chez toi, il sera seul responsable de sa mort, et nous, nous ne serons pas coupables. Au contraire, si quelqu’un qui est avec toi dans ta maison est attaqué, c’est nous qui serons responsables de sa mort.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "6002020",
+    "b": 6,
+    "c": 2,
+    "v": 20,
+    "t": "Mais si tu racontes notre visite, nous ne serons plus liés par le serment que tu nous as fait jurer. »",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "6002021",
+    "b": 6,
+    "c": 2,
+    "v": 21,
+    "t": "Rahab répond : « Je suis d’accord. » Puis elle fait partir les deux hommes. Après leur départ, elle attache la corde rouge à sa fenêtre.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "6002022",
+    "b": 6,
+    "c": 2,
+    "v": 22,
+    "t": "Les deux espions vont dans les collines. Ils se cachent là trois jours. Pendant ce temps, les envoyés du roi les poursuivent. Ils les cherchent partout sans les trouver. Ces hommes reviennent donc à Jéricho.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "6002023",
+    "b": 6,
+    "c": 2,
+    "v": 23,
+    "t": "Alors les espions quittent leur cachette et ils descendent des collines. Ils traversent le Jourdain et ils reviennent auprès de Josué, fils de Noun. Ils lui racontent tout ce qui leur est arrivé.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "6002024",
+    "b": 6,
+    "c": 2,
+    "v": 24,
+    "t": "Ils disent : « C’est sûr, le SEIGNEUR nous a livré tout le pays. Les habitants n’ont même plus le courage de nous résister. »",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "6003001",
+    "b": 6,
+    "c": 3,
+    "v": 1,
+    "t": "Josué se lève tôt le matin. Lui et tous les Israélites quittent Chittim et descendent au bord du Jourdain. Ils s’installent à cet endroit en attendant le moment de traverser le fleuve.",
+    "h": "Les Israélites traversent le Jourdain sur un chemin sec",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "6003002",
+    "b": 6,
+    "c": 3,
+    "v": 2,
+    "t": "Au bout de trois jours, les responsables du peuple vont dans tout le camp",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "6003003",
+    "b": 6,
+    "c": 3,
+    "v": 3,
+    "t": "et ils donnent cet ordre aux Israélites : « Quand vous verrez les prêtres-lévites emporter le coffre de l’alliance du SEIGNEUR votre Dieu, quittez cet endroit et suivez-les.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "6003004",
+    "b": 6,
+    "c": 3,
+    "v": 4,
+    "t": "Ainsi, vous saurez quel chemin prendre. En effet, vous n’êtes encore jamais passés par là. Mais ne vous approchez pas du coffre. Laissez une distance d’un kilomètre à peu près entre lui et vous. »",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "6003005",
+    "b": 6,
+    "c": 3,
+    "v": 5,
+    "t": "Ensuite Josué dit au peuple : « Rendez-vous purs, parce que demain, le SEIGNEUR fera des choses extraordinaires au milieu de vous. »",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "6003006",
+    "b": 6,
+    "c": 3,
+    "v": 6,
+    "t": "Le jour suivant, Josué dit aux prêtres : « Portez le coffre de l’alliance et marchez en tête du peuple. » C’est ce qu’ils font.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "6003007",
+    "b": 6,
+    "c": 3,
+    "v": 7,
+    "t": "Le SEIGNEUR dit à Josué : « À partir d’aujourd’hui, je vais rendre ton pouvoir plus grand aux yeux de tous les Israélites. Ainsi, ils sauront que je suis avec toi, comme j’ai été avec Moïse.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "6003008",
+    "b": 6,
+    "c": 3,
+    "v": 8,
+    "t": "Toi, tu vas donner cet ordre aux prêtres qui portent le coffre de l’alliance : “Dès que vous serez entrés dans le Jourdain, vous vous arrêterez au milieu du fleuve.” »",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "6003009",
+    "b": 6,
+    "c": 3,
+    "v": 9,
+    "t": "Alors Josué parle aux Israélites : « Approchez-vous et écoutez ce que le SEIGNEUR votre Dieu vous dit.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "6003010",
+    "b": 6,
+    "c": 3,
+    "v": 10,
+    "t": "Le coffre de l’alliance du Seigneur de toute la terre traversera le Jourdain devant vous. Alors vous saurez que le Dieu vivant est au milieu de vous. Vous saurez qu’il chassera devant vous les Cananéens, les Hittites, les Hivites, les Perizites, les Guirgachites, les Amorites et les Jébusites.",
+    "h": "",
+    "o": 10,
+    "l": "10-11"
+  },
+  {
+    "id": "6003011",
+    "b": 6,
+    "c": 3,
+    "v": 12,
+    "t": "Choisissez parmi vous douze hommes, un par tribu.",
+    "h": "",
+    "o": 11,
+    "l": "12"
+  },
+  {
+    "id": "6003012",
+    "b": 6,
+    "c": 3,
+    "v": 13,
+    "t": "Dès que les prêtres qui portent le coffre sacré mettront les pieds dans le Jourdain, l’eau qui vient du haut du fleuve ne coulera plus. Elle s’arrêtera comme s’il y avait un barrage. »",
+    "h": "",
+    "o": 12,
+    "l": "13"
+  },
+  {
+    "id": "6003013",
+    "b": 6,
+    "c": 3,
+    "v": 14,
+    "t": "Le peuple quitte le camp pour traverser le Jourdain. Les prêtres qui portent le coffre de l’alliance du SEIGNEUR marchent devant.",
+    "h": "",
+    "o": 13,
+    "l": "14"
+  },
+  {
+    "id": "6003014",
+    "b": 6,
+    "c": 3,
+    "v": 15,
+    "t": "C’est l’époque de la récolte de l’orge. À ce moment de l’année, le Jourdain déborde. Mais dès que les porteurs du coffre arrivent au Jourdain et mettent les pieds dans l’eau,",
+    "h": "",
+    "o": 14,
+    "l": "15"
+  },
+  {
+    "id": "6003015",
+    "b": 6,
+    "c": 3,
+    "v": 16,
+    "t": "l’eau qui vient du haut du fleuve s’arrête comme s’il y avait un barrage. Elle est arrêtée sur une grande distance, à partir de la ville d’Adam, qui est proche de Sartan. L’eau qui va vers la mer Morte s’arrête de couler, et le peuple traverse le Jourdain en face de Jéricho.",
+    "h": "",
+    "o": 15,
+    "l": "16"
+  },
+  {
+    "id": "6003016",
+    "b": 6,
+    "c": 3,
+    "v": 17,
+    "t": "Les prêtres qui portent le coffre de l’alliance du SEIGNEUR s’arrêtent sur la terre sèche au milieu du fleuve. Pendant ce temps, tous les Israélites passent sur un chemin sec, et les prêtres restent là jusqu’à ce que tout le peuple finisse de traverser le Jourdain.",
+    "h": "",
+    "o": 16,
+    "l": "17"
+  },
+  {
+    "id": "6004001",
+    "b": 6,
+    "c": 4,
+    "v": 1,
+    "t": "Quand tout le peuple a fini de traverser le fleuve Jourdain, le SEIGNEUR dit à Josué :",
+    "h": "Douze pierres sont dressées en souvenir de la traversée",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "6004002",
+    "b": 6,
+    "c": 4,
+    "v": 2,
+    "t": "« Choisissez parmi vous douze hommes, un par tribu.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "6004003",
+    "b": 6,
+    "c": 4,
+    "v": 3,
+    "t": "Commandez-leur d’aller chercher douze pierres dans le Jourdain, à l’endroit précis où les prêtres ont posé leurs pieds. Ces hommes devront emporter ces pierres et les placer là où vous passerez la nuit. »",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "6004004",
+    "b": 6,
+    "c": 4,
+    "v": 4,
+    "t": "Alors Josué appelle les douze hommes qu’il a choisis",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "6004005",
+    "b": 6,
+    "c": 4,
+    "v": 5,
+    "t": "et il leur dit : « Passez devant le coffre du SEIGNEUR votre Dieu, et allez au milieu du Jourdain. À cet endroit, chacun de vous doit prendre une pierre sur son épaule. Il en faut une pour chaque tribu d’Israël.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "6004006",
+    "b": 6,
+    "c": 4,
+    "v": 6,
+    "t": "Ces pierres vous rappelleront ce qui s’est passé ici. Quand, plus tard, vos enfants vous demanderont : “Qu’est-ce que ces pierres veulent dire pour vous ?”,",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "6004007",
+    "b": 6,
+    "c": 4,
+    "v": 7,
+    "t": "vous leur répondrez : “L’eau du Jourdain s’est arrêtée de couler quand le coffre de l’alliance du SEIGNEUR est passé. Oui, quand le coffre a traversé le Jourdain, l’eau du fleuve s’est arrêtée de couler. Ces pierres rappelleront toujours aux Israélites le souvenir de ce qui s’est passé ici.” »",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "6004008",
+    "b": 6,
+    "c": 4,
+    "v": 8,
+    "t": "Les hommes choisis obéissent aux ordres de Josué. Ils prennent douze pierres au milieu du Jourdain, une pour chaque tribu d’Israël, comme le SEIGNEUR l’a commandé à Josué. Ils les emportent et ils les placent là où ils passent la nuit.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "6004009",
+    "b": 6,
+    "c": 4,
+    "v": 9,
+    "t": "Puis Josué fait dresser douze pierres au milieu du Jourdain. C’est là où les prêtres qui portaient le coffre de l’alliance ont posé leurs pieds. Elles y sont encore aujourd’hui.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "6004010",
+    "b": 6,
+    "c": 4,
+    "v": 10,
+    "t": "Les prêtres qui portent le coffre restent debout dans le Jourdain un certain temps. Ils doivent attendre que le peuple termine tout ce que le SEIGNEUR lui a commandé par la bouche de Josué. De cette façon, Josué agit comme Moïse l’a commandé. Ensuite, le peuple traverse le fleuve rapidement.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "6004011",
+    "b": 6,
+    "c": 4,
+    "v": 11,
+    "t": "Quand tous les Israélites sont de l’autre côté, les prêtres vont se remettre en tête avec le coffre du SEIGNEUR.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "6004012",
+    "b": 6,
+    "c": 4,
+    "v": 12,
+    "t": "Les hommes armés des tribus de Ruben, de Gad et de la demi-tribu de Manassé, traversent et se placent en tête des Israélites, comme Moïse l’a commandé.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "6004013",
+    "b": 6,
+    "c": 4,
+    "v": 13,
+    "t": "En présence du SEIGNEUR, environ 40 000 soldats, prêts à combattre, traversent le Jourdain en direction de la plaine de Jéricho.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "6004014",
+    "b": 6,
+    "c": 4,
+    "v": 14,
+    "t": "Ce jour-là, le SEIGNEUR rend le pouvoir de Josué plus grand aux yeux de tous les Israélites. Et pendant toute sa vie, ils le respectent comme ils ont respecté Moïse.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "6004015",
+    "b": 6,
+    "c": 4,
+    "v": 15,
+    "t": "Ensuite, le SEIGNEUR dit à Josué :",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "6004016",
+    "b": 6,
+    "c": 4,
+    "v": 16,
+    "t": "« Commande aux prêtres qui portent le coffre contenant les tablettes de l’alliance de sortir du Jourdain. »",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "6004017",
+    "b": 6,
+    "c": 4,
+    "v": 17,
+    "t": "Josué leur donne cet ordre.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "6004018",
+    "b": 6,
+    "c": 4,
+    "v": 18,
+    "t": "Les prêtres obéissent. Dès qu’ils posent les pieds sur la terre sèche, l’eau revient à sa place, et le fleuve se remet à couler et à inonder ses bords comme avant.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "6004019",
+    "b": 6,
+    "c": 4,
+    "v": 19,
+    "t": "Les Israélites traversent le Jourdain le 10 du premier mois de l’année. Ils dressent leurs tentes au Guilgal, à l’est de Jéricho.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "6004020",
+    "b": 6,
+    "c": 4,
+    "v": 20,
+    "t": "Josué fait dresser au Guilgal les douze pierres prises dans le Jourdain.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "6004021",
+    "b": 6,
+    "c": 4,
+    "v": 21,
+    "t": "Puis il dit aux Israélites : « Plus tard, quand vos enfants vous demanderont : “Qu’est-ce que ces pierres veulent dire ?”,",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "6004022",
+    "b": 6,
+    "c": 4,
+    "v": 22,
+    "t": "vous leur répondrez : “Elles rappellent que le peuple d’Israël a traversé le Jourdain sur une terre sèche.”",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "6004023",
+    "b": 6,
+    "c": 4,
+    "v": 23,
+    "t": "En effet, le SEIGNEUR votre Dieu a séché le Jourdain pour vous laisser passer. Il avait déjà séché la mer des Roseaux de la même façon pour que nous passions.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "6004024",
+    "b": 6,
+    "c": 4,
+    "v": 24,
+    "t": "Il a agi ainsi pour que tous les peuples de la terre apprennent combien sa puissance est grande. Et vous, vous devez toujours respecter le SEIGNEUR votre Dieu. »",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "6005001",
+    "b": 6,
+    "c": 5,
+    "v": 1,
+    "t": "Tous les rois des Amorites qui habitent à l’ouest du Jourdain, et les rois des Cananéens établis sur la côte de la mer Méditerranée, apprennent cette nouvelle : le SEIGNEUR a séché le Jourdain pour permettre aux Israélites de passer. Alors les rois sont complètement découragés et ils ne se sentent pas capables de résister aux Israélites.",
+    "h": "",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "6005002",
+    "b": 6,
+    "c": 5,
+    "v": 2,
+    "t": "À cette époque-là, le SEIGNEUR dit à Josué : « Fais-toi des couteaux en pierre et circoncis les Israélites de cette nouvelle génération. »",
+    "h": "Les Israélites sont circoncis au Guilgal",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "6005003",
+    "b": 6,
+    "c": 5,
+    "v": 3,
+    "t": "Josué se fait donc des couteaux en pierre et il circoncit les Israélites. Cela se passe à l’endroit qu’on a appelé la colline de la Circoncision.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "6005004",
+    "b": 6,
+    "c": 5,
+    "v": 4,
+    "t": "Quand le peuple est sorti d’Égypte, tous les hommes en âge de faire la guerre ont été circoncis. Or cette génération est morte dans le désert. Mais les garçons nés pendant la traversée du désert n’ont pas été circoncis. C’est pourquoi Josué doit le faire.",
+    "h": "",
+    "o": 4,
+    "l": "4-5"
+  },
+  {
+    "id": "6005005",
+    "b": 6,
+    "c": 5,
+    "v": 6,
+    "t": "Les Israélites ont marché 40 ans dans le désert. À la fin de ces années, les hommes sortis d’Égypte qui avaient l’âge de faire la guerre sont tous morts. En effet, ils ont désobéi au SEIGNEUR. Et le SEIGNEUR a fait ce serment : « Je ne les laisserai pas voir le pays que j’ai juré de donner à leurs ancêtres, ce pays débordant de lait et de miel. »",
+    "h": "",
+    "o": 5,
+    "l": "6"
+  },
+  {
+    "id": "6005006",
+    "b": 6,
+    "c": 5,
+    "v": 7,
+    "t": "À leur place, le SEIGNEUR a fait entrer leurs fils. Et ce sont eux que Josué circoncit, parce qu’ils ne le sont pas encore.",
+    "h": "",
+    "o": 6,
+    "l": "7"
+  },
+  {
+    "id": "6005007",
+    "b": 6,
+    "c": 5,
+    "v": 8,
+    "t": "Quand ils sont tous circoncis, ils restent au camp jusqu’à leur guérison.",
+    "h": "",
+    "o": 7,
+    "l": "8"
+  },
+  {
+    "id": "6005008",
+    "b": 6,
+    "c": 5,
+    "v": 9,
+    "t": "Puis le SEIGNEUR dit à Josué : « Aujourd’hui, j’ai enlevé de vous la honte que vous avez rapportée d’Égypte. » C’est pourquoi on a appelé cet endroit le Guilgal. Aujourd’hui encore, il porte ce nom.",
+    "h": "",
+    "o": 8,
+    "l": "9"
+  },
+  {
+    "id": "6005009",
+    "b": 6,
+    "c": 5,
+    "v": 10,
+    "t": "Les Israélites campent au Guilgal et ils fêtent la Pâque le quatorzième jour du mois, le soir, dans la plaine qui est près de Jéricho.",
+    "h": "Les Israélites fêtent la Pâque en Canaan pour la première fois",
+    "o": 9,
+    "l": "10"
+  },
+  {
+    "id": "6005010",
+    "b": 6,
+    "c": 5,
+    "v": 11,
+    "t": "Le jour suivant, ils mangent des produits du pays, des pains sans levain et des épis grillés.",
+    "h": "",
+    "o": 10,
+    "l": "11"
+  },
+  {
+    "id": "6005011",
+    "b": 6,
+    "c": 5,
+    "v": 12,
+    "t": "À partir de ce moment-là, il n’y a plus de manne pour les Israélites. Cette année-là, ils mangent ce qui pousse dans le pays de Canaan.",
+    "h": "",
+    "o": 11,
+    "l": "12"
+  },
+  {
+    "id": "6005012",
+    "b": 6,
+    "c": 5,
+    "v": 13,
+    "t": "Un jour, Josué se trouve près de Jéricho. Tout à coup, il voit un homme debout en face de lui. Celui-ci tient à la main une épée sortie de son étui. Josué s’approche de lui et lui demande : « Est-ce que tu es pour nous ou pour nos ennemis ? »",
+    "h": "Josué rencontre le chef de l’armée du Seigneur",
+    "o": 12,
+    "l": "13"
+  },
+  {
+    "id": "6005013",
+    "b": 6,
+    "c": 5,
+    "v": 14,
+    "t": "L’homme répond : « Ni pour les uns ni pour les autres. Je suis le chef de l’armée du SEIGNEUR et je viens d’arriver. » Alors Josué se met à genoux, le front contre le sol, et il lui dit : « Je suis ton serviteur. Qu’est-ce que tu veux de moi ? »",
+    "h": "",
+    "o": 13,
+    "l": "14"
+  },
+  {
+    "id": "6005014",
+    "b": 6,
+    "c": 5,
+    "v": 15,
+    "t": "Le chef de l’armée du SEIGNEUR lui répond : « Enlève tes sandales. En effet, tu te trouves dans un endroit saint. » Et Josué obéit.",
+    "h": "",
+    "o": 14,
+    "l": "15"
+  },
+  {
+    "id": "6006001",
+    "b": 6,
+    "c": 6,
+    "v": 1,
+    "t": "À Jéricho, les portes de la ville sont fermées avec soin à cause des Israélites. Personne ne peut sortir et personne ne peut entrer.",
+    "h": "Les murs de Jéricho tombent",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "6006002",
+    "b": 6,
+    "c": 6,
+    "v": 2,
+    "t": "Le SEIGNEUR dit à Josué : « Regarde, je te livre Jéricho avec son roi et ses courageux combattants.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "6006003",
+    "b": 6,
+    "c": 6,
+    "v": 3,
+    "t": "Toi et tous tes soldats, vous marcherez autour de la ville. Vous en ferez le tour une fois par jour, pendant six jours.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "6006004",
+    "b": 6,
+    "c": 6,
+    "v": 4,
+    "t": "Sept prêtres marcheront devant le coffre sacré en portant chacun une corne de bélier. Le septième jour, vous ferez sept fois le tour de la ville, et les prêtres souffleront dans leur corne.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "6006005",
+    "b": 6,
+    "c": 6,
+    "v": 5,
+    "t": "Quand ils feront entendre un son très long avec leur corne, le peuple poussera un grand cri de guerre, et les murs de la ville tomberont. Alors les Israélites monteront, chacun droit devant soi. »",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "6006006",
+    "b": 6,
+    "c": 6,
+    "v": 6,
+    "t": "Josué, fils de Noun, appelle les prêtres et il leur dit : « Prenez avec vous le coffre de l’alliance du SEIGNEUR. Sept d’entre vous marcheront devant le coffre avec des cornes de bélier. »",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "6006007",
+    "b": 6,
+    "c": 6,
+    "v": 7,
+    "t": "Puis il donne cet ordre au peuple : « Allez ! Faites le tour de la ville. Les soldats en armes, marchez devant le coffre du SEIGNEUR ! »",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "6006008",
+    "b": 6,
+    "c": 6,
+    "v": 8,
+    "t": "Tout se passe comme Josué l’a commandé. Les sept prêtres qui portent les cornes de bélier avancent devant le coffre du SEIGNEUR en soufflant dans leur corne.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "6006009",
+    "b": 6,
+    "c": 6,
+    "v": 9,
+    "t": "Des soldats en armes marchent devant les prêtres au son des cornes, et derrière, d’autres soldats suivent le coffre. Pendant que les soldats marchent, les prêtres soufflent sans arrêt dans les cornes de bélier.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "6006010",
+    "b": 6,
+    "c": 6,
+    "v": 10,
+    "t": "Mais Josué a donné cet ordre au peuple : « Ne faites pas de bruit ! Ne dites pas un mot ! Restez silencieux jusqu’au moment où je vous dirai de pousser le cri de guerre. »",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "6006011",
+    "b": 6,
+    "c": 6,
+    "v": 11,
+    "t": "Alors les prêtres tournent une fois autour de la ville avec le coffre sacré. Ensuite, ils reviennent au camp pour y passer la nuit.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "6006012",
+    "b": 6,
+    "c": 6,
+    "v": 12,
+    "t": "Le jour suivant, Josué se lève tôt le matin, et les prêtres prennent le coffre sacré sur leurs épaules.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "6006013",
+    "b": 6,
+    "c": 6,
+    "v": 13,
+    "t": "Les sept prêtres qui portent les sept cornes de bélier marchent de nouveau devant le coffre en soufflant dans leur corne. Des soldats en armes marchent devant les prêtres, et derrière, d’autres soldats suivent le coffre. Pendant que les soldats marchent, les prêtres soufflent sans arrêt dans les cornes de bélier.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "6006014",
+    "b": 6,
+    "c": 6,
+    "v": 14,
+    "t": "Le deuxième jour, ils font une fois le tour de la ville, puis ils reviennent au camp. Ils agissent ainsi pendant six jours.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "6006015",
+    "b": 6,
+    "c": 6,
+    "v": 15,
+    "t": "Le septième jour, ils se lèvent avant le soleil et ils font sept fois le tour de la ville de la même façon. C’est le seul jour où ils font sept fois le tour de la ville.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "6006016",
+    "b": 6,
+    "c": 6,
+    "v": 16,
+    "t": "La septième fois, quand les prêtres ont soufflé dans leur corne, Josué dit au peuple : « Poussez le cri de guerre ! Le SEIGNEUR vous a livré la ville !",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "6006017",
+    "b": 6,
+    "c": 6,
+    "v": 17,
+    "t": "La ville et tout ce qu’elle contient est réservée au SEIGNEUR, elle doit donc être détruite. Nous laisserons en vie uniquement Rahab, la prostituée, et tous ceux qui sont dans sa maison, parce qu’elle a caché nos espions.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "6006018",
+    "b": 6,
+    "c": 6,
+    "v": 18,
+    "t": "Vous, faites attention ! Ne prenez rien de ce qui est interdit et doit être détruit. Sinon, vous ferez tomber le malheur sur le camp d’Israël, et il sera détruit.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "6006019",
+    "b": 6,
+    "c": 6,
+    "v": 19,
+    "t": "Tout l’argent, l’or et les objets en bronze et en fer, vous les consacrerez au SEIGNEUR et vous les mettrez dans son trésor. »",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "6006020",
+    "b": 6,
+    "c": 6,
+    "v": 20,
+    "t": "Alors les prêtres soufflent dans leur corne. Le peuple pousse un grand cri de guerre, et les murs de la ville tombent. Les Israélites montent tout de suite vers la ville, chacun droit devant soi, et ils la prennent.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "6006021",
+    "b": 6,
+    "c": 6,
+    "v": 21,
+    "t": "Ils font mourir tous ceux qui sont dans la ville, hommes et femmes, jeunes et vieux. Ils tuent aussi les bœufs, les moutons et les ânes.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "6006022",
+    "b": 6,
+    "c": 6,
+    "v": 22,
+    "t": "Josué dit aux deux hommes qui ont cherché à connaître la région de Jéricho : « Allez dans la maison de Rahab, la prostituée. Faites-la sortir avec toute sa famille, selon le serment que vous lui avez fait. »",
+    "h": "Josué laisse la vie à Rahab et à sa famille",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "6006023",
+    "b": 6,
+    "c": 6,
+    "v": 23,
+    "t": "Les deux espions vont chez elle : ils emmènent Rahab, ses parents, ses frères et sœurs, et toutes les autres personnes de sa famille. Ils les mettent à l’abri à l’extérieur du camp des Israélites.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "6006024",
+    "b": 6,
+    "c": 6,
+    "v": 24,
+    "t": "Ensuite, les Israélites brûlent la ville et tout ce qu’elle contient. Ils gardent seulement l’argent, l’or, et les objets en bronze et en fer. Ils les placent dans le trésor de la maison du SEIGNEUR.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "6006025",
+    "b": 6,
+    "c": 6,
+    "v": 25,
+    "t": "Josué laisse en vie Rahab, la prostituée, et toutes les personnes de sa famille. En effet, elle a caché les espions que Josué avait envoyés pour se renseigner sur la ville de Jéricho. À partir de ce moment, Rahab habite avec les Israélites. Aujourd’hui encore, les gens de sa famille vivent parmi eux.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "6006026",
+    "b": 6,
+    "c": 6,
+    "v": 26,
+    "t": "À cette époque, Josué prononce ce serment sur Jéricho : « Si quelqu’un essaie de reconstruire cette ville, que la malédiction du SEIGNEUR soit sur lui ! Il perdra son fils aîné en creusant ses fondations. Il perdra son fils plus jeune en posant ses portes. »",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "6006027",
+    "b": 6,
+    "c": 6,
+    "v": 27,
+    "t": "Pendant tout ce temps, le SEIGNEUR est avec Josué, et Josué devient célèbre dans tout le pays.",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "6007001",
+    "b": 6,
+    "c": 7,
+    "v": 1,
+    "t": "Les Israélites commettent une faute grave au sujet des biens que le SEIGNEUR a interdit de prendre. Un Israélite de la tribu de Juda, Akan, fils de Karmi, lui-même fils de Zabdi et petit-fils de Zéra, prend certains de ces biens. Alors le SEIGNEUR se met dans une violente colère contre les Israélites.",
+    "h": "Akan commet une faute",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "6007002",
+    "b": 6,
+    "c": 7,
+    "v": 2,
+    "t": "De Jéricho, Josué envoie des hommes à Aï, une ville située à l’est de Béthel, près de Beth-Aven. Il leur commande de chercher à connaître le pays. Ils y vont donc",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "6007003",
+    "b": 6,
+    "c": 7,
+    "v": 3,
+    "t": "et reviennent dire à Josué : « C’est inutile d’envoyer toute l’armée pour attaquer Aï : 2 000 ou 3 000 hommes suffisent. Ce n’est pas la peine de fatiguer toute notre armée, car les habitants de la ville sont peu nombreux. »",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "6007004",
+    "b": 6,
+    "c": 7,
+    "v": 4,
+    "t": "À peu près 3 000 hommes partent attaquer Aï, mais ils fuient devant ses habitants.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "6007005",
+    "b": 6,
+    "c": 7,
+    "v": 5,
+    "t": "Ceux-ci tuent environ 36 Israélites, ils poursuivent les autres depuis la porte de la ville jusqu’à Chébarim, et ils les tuent dans la descente. Alors le peuple, complètement découragé, perd toute force.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "6007006",
+    "b": 6,
+    "c": 7,
+    "v": 6,
+    "t": "Josué et les anciens d’Israël déchirent leurs vêtements. Ils se couvrent la tête de poussière en signe de tristesse, ils se mettent à genoux, le front contre le sol, devant le coffre du SEIGNEUR. Ils restent ainsi jusqu’au soir.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "6007007",
+    "b": 6,
+    "c": 7,
+    "v": 7,
+    "t": "Puis Josué dit : « Ah ! Seigneur D ieu ! Tu nous as fait traverser le fleuve Jourdain, mais pourquoi ? Est-ce pour nous livrer aux Amorites et nous faire mourir ? Si seulement nous étions restés de l’autre côté du Jourdain !",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "6007008",
+    "b": 6,
+    "c": 7,
+    "v": 8,
+    "t": "Je t’en prie, Seigneur, qu’est-ce que je peux dire, maintenant que les Israélites ont fui devant leurs ennemis ?",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "6007009",
+    "b": 6,
+    "c": 7,
+    "v": 9,
+    "t": "Les Cananéens et les autres habitants du pays vont apprendre cette nouvelle. Ils vont se réunir contre nous et nous faire disparaître. Alors comment feras-tu reconnaître ta grandeur ? »",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "6007010",
+    "b": 6,
+    "c": 7,
+    "v": 10,
+    "t": "Le SEIGNEUR répond à Josué : « Relève-toi ! Tu t’es mis à genoux, le front contre le sol. Pourquoi donc ?",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "6007011",
+    "b": 6,
+    "c": 7,
+    "v": 11,
+    "t": "Les Israélites ont péché. En effet, ils n’ont pas respecté les règles de l’alliance que je leur ai commandé de suivre. Ils ont pris des objets interdits. Ils les ont même volés, cachés, mis dans leurs affaires.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "6007012",
+    "b": 6,
+    "c": 7,
+    "v": 12,
+    "t": "C’est pourquoi les Israélites ne pourront plus résister à leurs ennemis. Ils fuiront devant eux. En effet, ils sont devenus comme un objet interdit qui doit être détruit. Si vous ne détruisez pas les objets que je vous ai interdit de prendre et celui qui les a pris, je ne serai plus avec vous.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "6007013",
+    "b": 6,
+    "c": 7,
+    "v": 13,
+    "t": "Maintenant, va prévenir le peuple pour qu’il se rende pur. Tu diras : “Rendez-vous purs pour demain. En effet, voici ce que moi, le SEIGNEUR, Dieu d’Israël, je dis aux Israélites : Vous possédez des objets que je vous ai interdit de prendre. Si vous ne les détruisez pas, ainsi que celui qui les a pris, vous ne pourrez pas résister à vos ennemis.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "6007014",
+    "b": 6,
+    "c": 7,
+    "v": 14,
+    "t": "Demain matin, vous vous approcherez de moi, tribu par tribu. La tribu que je désignerai s’approchera clan après clan. Le clan que je désignerai s’approchera famille après famille. Les hommes de la famille que je désignerai s’approcheront un à un.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "6007015",
+    "b": 6,
+    "c": 7,
+    "v": 15,
+    "t": "Alors je désignerai celui qui possède des objets interdits. Vous le jetterez dans le feu avec tout ce qui est à lui. En effet, il n’a pas respecté les règles de mon alliance et il a commis une chose horrible en Israël.” »",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "6007016",
+    "b": 6,
+    "c": 7,
+    "v": 16,
+    "t": "Le jour suivant, Josué se lève tôt le matin. Il fait approcher les Israélites tribu par tribu. La tribu de Juda est désignée.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "6007017",
+    "b": 6,
+    "c": 7,
+    "v": 17,
+    "t": "Josué fait approcher cette tribu clan après clan, et le clan de Zéra est désigné. Il fait approcher ce clan famille après famille, et la famille de Zabdi est désignée.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "6007018",
+    "b": 6,
+    "c": 7,
+    "v": 18,
+    "t": "Il fait avancer l’un après l’autre les hommes de cette famille. Akan est désigné. C’est le fils de Karmi, petit-fils de Zabdi, arrière-petit-fils de Zéra, de la tribu de Juda.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "6007019",
+    "b": 6,
+    "c": 7,
+    "v": 19,
+    "t": "Josué dit à Akan : « Mon ami, reconnais la grandeur du SEIGNEUR, Dieu d’Israël, et dis la vérité. Dis-moi ce que tu as fait, ne me cache rien. »",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "6007020",
+    "b": 6,
+    "c": 7,
+    "v": 20,
+    "t": "Akan répond à Josué : « Oui, c’est moi qui ai péché contre le SEIGNEUR, Dieu d’Israël. Voici ce que j’ai fait :",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "6007021",
+    "b": 6,
+    "c": 7,
+    "v": 21,
+    "t": "j’ai vu parmi les richesses de l’ennemi un très beau vêtement de Mésopotamie, deux cents pièces d’argent et un demi-kilo d’or. J’en ai eu envie et je les ai pris. Vous les trouverez cachés dans la terre, au milieu de ma tente, et l’argent est dessous. »",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "6007022",
+    "b": 6,
+    "c": 7,
+    "v": 22,
+    "t": "Alors Josué envoie des hommes à la tente d’Akan. Ils y vont tout de suite et ils trouvent les objets cachés dans la tente, avec l’argent dessous.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "6007023",
+    "b": 6,
+    "c": 7,
+    "v": 23,
+    "t": "Ils les sortent de là, puis les apportent à Josué et aux Israélites. Ils placent ces objets devant le SEIGNEUR.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "6007024",
+    "b": 6,
+    "c": 7,
+    "v": 24,
+    "t": "Josué et tous les Israélites prennent Akan, fils de Zéra, avec l’argent, le vêtement et le demi-kilo d’or. Ils prennent aussi ses fils et ses filles, ses bœufs, ses ânes, ses moutons et ses chèvres, sa tente et tout ce qu’il possède. Ils les emmènent dans la vallée d’Akor.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "6007025",
+    "b": 6,
+    "c": 7,
+    "v": 25,
+    "t": "Josué dit à Akan : « Tu nous as porté malheur, pourquoi ? Eh bien, que le SEIGNEUR te porte malheur aujourd’hui ! » Alors les Israélites le tuent en lui jetant des pierres. Ils détruisent de la même façon sa famille et ce qui lui appartient, puis ils brûlent tout.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "6007026",
+    "b": 6,
+    "c": 7,
+    "v": 26,
+    "t": "Ensuite, on élève sur lui un grand tas de pierres qui existe encore aujourd’hui. C’est pourquoi aujourd’hui encore, cet endroit porte le nom de « Vallée d’Akor ». Après cela, la colère du SEIGNEUR se calme.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "6008001",
+    "b": 6,
+    "c": 8,
+    "v": 1,
+    "t": "Le SEIGNEUR dit à Josué : « N’aie pas peur, ne te laisse pas décourager. Prends toute ton armée et va attaquer la ville d’Aï. Regarde, je te livre le roi d’Aï avec son peuple, sa ville et son pays.",
+    "h": "Josué détruit la ville d’Aï",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "6008002",
+    "b": 6,
+    "c": 8,
+    "v": 2,
+    "t": "Tu agiras avec cette ville et son roi comme tu as agi avec Jéricho et son roi. Mais vous pourrez prendre pour vous comme richesses de guerre leurs biens et leurs animaux. Prépare une attaque par surprise, à l’arrière de la ville. »",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "6008003",
+    "b": 6,
+    "c": 8,
+    "v": 3,
+    "t": "Avec toute son armée, Josué se prépare donc à attaquer la ville d’Aï. Il choisit 30 000 hommes, des combattants courageux, et il les fait partir de nuit.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "6008004",
+    "b": 6,
+    "c": 8,
+    "v": 4,
+    "t": "Il leur donne ces ordres : « Allez vous cacher à l’arrière de la ville, pas trop loin, et tenez-vous prêts à l’attaque.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "6008005",
+    "b": 6,
+    "c": 8,
+    "v": 5,
+    "t": "Moi, je m’approcherai de la ville avec mes hommes. Quand les habitants sortiront à notre rencontre, nous fuirons devant eux, comme la première fois.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "6008006",
+    "b": 6,
+    "c": 8,
+    "v": 6,
+    "t": "Ils sortiront derrière nous, et nous les entraînerons loin de la ville. En effet, ils se diront : “Ils fuient devant nous comme la première fois.”",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "6008007",
+    "b": 6,
+    "c": 8,
+    "v": 7,
+    "t": "Alors vous, vous sortirez de l’endroit où vous êtes cachés et vous prendrez la ville. En effet, le SEIGNEUR votre Dieu la livre en votre pouvoir.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "6008008",
+    "b": 6,
+    "c": 8,
+    "v": 8,
+    "t": "Quand vous aurez pris la ville, vous y mettrez le feu, comme le SEIGNEUR l’a commandé. Voilà les ordres que je vous donne. »",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "6008009",
+    "b": 6,
+    "c": 8,
+    "v": 9,
+    "t": "Josué envoie les soldats à l’endroit choisi pour l’attaque par surprise. Ils s’installent à l’ouest d’Aï, entre Béthel et Aï. Josué passe cette nuit-là avec le reste de l’armée.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "6008010",
+    "b": 6,
+    "c": 8,
+    "v": 10,
+    "t": "Le jour suivant, Josué se lève tôt le matin, et il examine ses troupes. Ensuite, avec les anciens d’Israël, il part à leur tête pour attaquer la ville d’Aï.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "6008011",
+    "b": 6,
+    "c": 8,
+    "v": 11,
+    "t": "Tous les soldats s’avancent avec lui et ils arrivent en face d’Aï. Ils installent leur camp au nord. Ils sont séparés de la ville par une vallée.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "6008012",
+    "b": 6,
+    "c": 8,
+    "v": 12,
+    "t": "Josué choisit environ 5 000 hommes et il leur commande de se cacher à l’ouest de la ville, entre Béthel et Aï.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "6008013",
+    "b": 6,
+    "c": 8,
+    "v": 13,
+    "t": "L’armée installe son camp principal au nord de la ville. Une autre partie des troupes prend place à l’ouest. Josué passe cette nuit-là dans la vallée.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "6008014",
+    "b": 6,
+    "c": 8,
+    "v": 14,
+    "t": "Le matin, quand le roi d’Aï voit les Israélites, il sort très vite de la ville avec tous ses soldats. Ils partent combattre les Israélites au même endroit qu’avant, en direction de la vallée du Jourdain. Mais il ne sait pas qu’il va y avoir contre lui une attaque par surprise à l’arrière de la ville.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "6008015",
+    "b": 6,
+    "c": 8,
+    "v": 15,
+    "t": "Josué et tous les Israélites se laissent battre par eux et ils fuient en direction du désert.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "6008016",
+    "b": 6,
+    "c": 8,
+    "v": 16,
+    "t": "Tous les hommes d’Aï reçoivent l’ordre de les poursuivre. De cette façon, ils sont entraînés loin de la ville.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "6008017",
+    "b": 6,
+    "c": 8,
+    "v": 17,
+    "t": "Aucun homme ne reste dans Aï. Ils poursuivent les Israélites et ils laissent la ville sans défense.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "6008018",
+    "b": 6,
+    "c": 8,
+    "v": 18,
+    "t": "Alors le SEIGNEUR dit à Josué : « Tends ton arme en direction d’Aï, je vais te livrer la ville. » Josué tend son arme.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "6008019",
+    "b": 6,
+    "c": 8,
+    "v": 19,
+    "t": "Dès qu’il tend le bras, les Israélites qui sont cachés sortent très vite de l’endroit où ils sont. Ils courent jusqu’à la ville, ils entrent dedans et la prennent, puis ils y mettent le feu aussitôt.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "6008020",
+    "b": 6,
+    "c": 8,
+    "v": 20,
+    "t": "Les hommes d’Aï regardent derrière eux et ils voient la fumée qui monte de leur ville. Personne ne trouve le moyen de fuir d’un côté ou d’un autre. En effet, les Israélites qui sont en train de fuir vers le désert se retournent contre ceux qui les poursuivent.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "6008021",
+    "b": 6,
+    "c": 8,
+    "v": 21,
+    "t": "Josué et ses hommes voient que les soldats placés à l’arrière de la ville ont pris celle-ci et qu’elle brûle. Alors ils font demi-tour et ils attaquent les gens d’Aï.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "6008022",
+    "b": 6,
+    "c": 8,
+    "v": 22,
+    "t": "Les autres Israélites quittent la ville pour les attaquer aussi. Les gens d’Aï se trouvent donc au milieu des troupes d’Israël et ils sont tous tués. Personne ne peut fuir, personne ne reste en vie,",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "6008023",
+    "b": 6,
+    "c": 8,
+    "v": 23,
+    "t": "sauf le roi d’Aï. On le fait prisonnier et on l’amène à Josué.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "6008024",
+    "b": 6,
+    "c": 8,
+    "v": 24,
+    "t": "Les Israélites tuent leurs ennemis dans la campagne, là où les gens d’Aï les ont poursuivis. Quand tous les ennemis sont tués, les Israélites reviennent vers la ville et ils font mourir le reste des habitants.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "6008025",
+    "b": 6,
+    "c": 8,
+    "v": 25,
+    "t": "Ils tuent, ce jour-là, 12 000 personnes, hommes et femmes, tous les gens d’Aï.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "6008026",
+    "b": 6,
+    "c": 8,
+    "v": 26,
+    "t": "Josué garde son arme tendue en direction d’Aï jusqu’à ce que toute la population soit détruite.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "6008027",
+    "b": 6,
+    "c": 8,
+    "v": 27,
+    "t": "Mais, comme le SEIGNEUR l’a commandé à Josué, les Israélites prennent les animaux et les biens de cette ville comme richesses de guerre.",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "6008028",
+    "b": 6,
+    "c": 8,
+    "v": 28,
+    "t": "Josué brûle la ville d’Aï. Il en fait pour toujours un tas de pierres, un lieu désert, ce qu’elle est encore aujourd’hui.",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "6008029",
+    "b": 6,
+    "c": 8,
+    "v": 29,
+    "t": "Il fait pendre le roi d’Aï à un arbre, et son corps reste là jusqu’au soir. Au coucher du soleil, Josué commande de descendre le corps. On le jette près de la porte de la ville et on élève sur lui un grand tas de pierres qui existe encore aujourd’hui.",
+    "h": "",
+    "o": 29,
+    "l": "29"
+  },
+  {
+    "id": "6008030",
+    "b": 6,
+    "c": 8,
+    "v": 30,
+    "t": "Sur le mont Ébal, Josué bâtit un autel pour le SEIGNEUR, Dieu d’Israël.",
+    "h": "Josué lit la loi sur le mont Ébal",
+    "o": 30,
+    "l": "30"
+  },
+  {
+    "id": "6008031",
+    "b": 6,
+    "c": 8,
+    "v": 31,
+    "t": "Il le construit comme Moïse, le serviteur du SEIGNEUR, l’a commandé aux Israélites. Cela est écrit dans le livre de la loi de Moïse : « un autel de pierres non taillées qu’aucun outil en fer n’a jamais touchées. » Ensuite, sur cet autel, les Israélites offrent des sacrifices complets et des sacrifices de communion.",
+    "h": "",
+    "o": 31,
+    "l": "31"
+  },
+  {
+    "id": "6008032",
+    "b": 6,
+    "c": 8,
+    "v": 32,
+    "t": "À cet endroit, Josué écrit sur des pierres une copie de la loi que Moïse a écrite pour les Israélites.",
+    "h": "",
+    "o": 32,
+    "l": "32"
+  },
+  {
+    "id": "6008033",
+    "b": 6,
+    "c": 8,
+    "v": 33,
+    "t": "Tous les Israélites se tiennent de chaque côté du coffre de l’alliance, en face des prêtres-lévites qui le portent. Il y a donc leurs anciens, leurs chefs et leurs juges, avec les étrangers installés chez eux. La moitié des Israélites est placée du côté du mont Garizim. L’autre moitié est du côté du mont Ébal. Moïse, le serviteur du SEIGNEUR, a commandé de faire ainsi pour bénir le peuple d’Israël.",
+    "h": "",
+    "o": 33,
+    "l": "33"
+  },
+  {
+    "id": "6008034",
+    "b": 6,
+    "c": 8,
+    "v": 34,
+    "t": "Ensuite, Josué lit toutes les paroles écrites dans le livre de la loi, les bénédictions et les malédictions.",
+    "h": "",
+    "o": 34,
+    "l": "34"
+  },
+  {
+    "id": "6008035",
+    "b": 6,
+    "c": 8,
+    "v": 35,
+    "t": "Josué lit tous les commandements de Moïse, il n’en oublie aucun. Il les lit devant tout le peuple d’Israël, hommes, femmes et enfants, et devant les étrangers installés chez eux.",
+    "h": "",
+    "o": 35,
+    "l": "35"
+  },
+  {
+    "id": "6009001",
+    "b": 6,
+    "c": 9,
+    "v": 1,
+    "t": "Tous les rois de toutes les régions situées à l’ouest du fleuve Jourdain apprennent que les Israélites ont détruit la ville d’Aï. Ce sont les régions situées dans la montagne, dans le Bas-Pays et dans la plaine qui s’étend le long de la mer Méditerranée jusqu’aux montagnes du Liban. Alors les Hittites, les Amorites, les Cananéens, les Perizites, les Hivites et les Jébusites",
+    "h": "Josué passe un accord avec les gens de Gabaon",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "6009002",
+    "b": 6,
+    "c": 9,
+    "v": 2,
+    "t": "se réunissent pour combattre tous ensemble Josué et les Israélites.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "6009003",
+    "b": 6,
+    "c": 9,
+    "v": 3,
+    "t": "Les habitants de Gabaon apprennent ce que Josué a fait aux villes de Jéricho et d’Aï.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "6009004",
+    "b": 6,
+    "c": 9,
+    "v": 4,
+    "t": "Alors ils décident d’utiliser la ruse avec les Israélites. Ils préparent de la nourriture, ils chargent leurs ânes de vieux sacs et de vieilles outres à vin, déchirées et recousues.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "6009005",
+    "b": 6,
+    "c": 9,
+    "v": 5,
+    "t": "Ils mettent des sandales usées et recousues, des vêtements déchirés. Ils prennent avec eux du pain sec et en miettes.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "6009006",
+    "b": 6,
+    "c": 9,
+    "v": 6,
+    "t": "Ils vont au camp du Guilgal et ils disent à Josué et aux Israélites : « Nous venons de très loin pour vous demander de passer un accord avec nous. »",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "6009007",
+    "b": 6,
+    "c": 9,
+    "v": 7,
+    "t": "Les Israélites répondent à ces Hivites : « Vous habitez peut-être tout près de nous. Dans ce cas, nous ne pouvons pas passer un accord avec vous. »",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "6009008",
+    "b": 6,
+    "c": 9,
+    "v": 8,
+    "t": "Les Hivites disent à Josué : « Nous sommes à ton service. » Josué leur demande : « Qui êtes-vous ? D’où venez-vous ? »",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "6009009",
+    "b": 6,
+    "c": 9,
+    "v": 9,
+    "t": "Ils répondent : « Nous, tes serviteurs, nous venons de très loin. En effet, nous avons entendu parler du SEIGNEUR ton Dieu. Nous savons tout ce qu’il a accompli en Égypte.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "6009010",
+    "b": 6,
+    "c": 9,
+    "v": 10,
+    "t": "Nous savons aussi tout ce qu’il a fait aux deux rois amorites qui vivaient de l’autre côté du Jourdain : Sihon, roi de Hèchebon, et Og, roi du Bachan, qui habitait à Achetaroth.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "6009011",
+    "b": 6,
+    "c": 9,
+    "v": 11,
+    "t": "Nos anciens et tous les habitants de notre pays nous ont dit : “Prenez avec vous de la nourriture pour la route. Allez trouver les Israélites. Dites-leur que vous devenez leurs serviteurs et passez un accord avec eux.”",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "6009012",
+    "b": 6,
+    "c": 9,
+    "v": 12,
+    "t": "Regardez le pain que nous avons pris dans nos maisons. Le jour où nous sommes partis pour venir ici, il était encore chaud. Maintenant, il est tout sec et en miettes !",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "6009013",
+    "b": 6,
+    "c": 9,
+    "v": 13,
+    "t": "Et ces outres ! Quand nous les avons remplies de vin, elles étaient neuves. Maintenant, elles sont toutes déchirées ! De même, nos vêtements et nos sandales sont complètement usés, à cause du long chemin que nous avons fait. »",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "6009014",
+    "b": 6,
+    "c": 9,
+    "v": 14,
+    "t": "Alors les Israélites mangent une part de la nourriture des gens de Gabaon. Mais ils n’interrogent pas le SEIGNEUR pour connaître sa volonté.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "6009015",
+    "b": 6,
+    "c": 9,
+    "v": 15,
+    "t": "Josué passe avec eux un accord de paix qui les laisse en vie. Les responsables de la communauté leur jurent de respecter cet accord.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "6009016",
+    "b": 6,
+    "c": 9,
+    "v": 16,
+    "t": "Trois jours après avoir passé cet accord, les Israélites apprennent que les Gabaonites habitent en réalité tout près d’eux.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "6009017",
+    "b": 6,
+    "c": 9,
+    "v": 17,
+    "t": "Ils se mettent en route et le troisième jour, les Israélites arrivent dans les villes où ces gens vivent : Gabaon, Kefira, Beéroth et Quiriath-Yéarim.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "6009018",
+    "b": 6,
+    "c": 9,
+    "v": 18,
+    "t": "Les Israélites ne les tuent pas, car les responsables de la communauté leur ont fait un serment au nom du SEIGNEUR, Dieu d’Israël. Alors tous les Israélites se mettent à critiquer leurs responsables.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "6009019",
+    "b": 6,
+    "c": 9,
+    "v": 19,
+    "t": "Mais ceux-ci leur répondent : « Nous ne pouvons pas leur faire de mal. En effet, nous avons fait un serment au nom du SEIGNEUR, Dieu d’Israël.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "6009020",
+    "b": 6,
+    "c": 9,
+    "v": 20,
+    "t": "Nous devons les laisser en vie à cause de notre serment. Sinon, nous allons attirer la colère du SEIGNEUR sur nous. Voici ce que nous allons faire :",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "6009021",
+    "b": 6,
+    "c": 9,
+    "v": 21,
+    "t": "nous les laisserons en vie, mais ils seront chargés de couper du bois et de puiser de l’eau pour toute la communauté. » C’est ce que les responsables décident.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "6009022",
+    "b": 6,
+    "c": 9,
+    "v": 22,
+    "t": "Alors Josué réunit les Gabaonites et il leur dit : « Vous nous avez trompés, mais pourquoi ? Vous avez dit que vous habitiez très loin. Or, vous habitez tout près de nous !",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "6009023",
+    "b": 6,
+    "c": 9,
+    "v": 23,
+    "t": "À partir de maintenant, vous êtes maudits. Vous serez toujours des esclaves, vous couperez du bois et vous puiserez de l’eau pour la maison de mon Dieu. »",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "6009024",
+    "b": 6,
+    "c": 9,
+    "v": 24,
+    "t": "Les Gabaonites répondent : « Nous avons agi ainsi parce que nous avons appris cette nouvelle : le SEIGNEUR ton Dieu a commandé à son serviteur Moïse de vous donner tout ce pays et de tuer tous ses habitants à votre arrivée. Nous avons eu très peur pour nos vies.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "6009025",
+    "b": 6,
+    "c": 9,
+    "v": 25,
+    "t": "Maintenant nous sommes en ton pouvoir. Fais de nous ce qui te semblera bon et juste. »",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "6009026",
+    "b": 6,
+    "c": 9,
+    "v": 26,
+    "t": "Voici ce que Josué décide de faire : il empêche les Israélites de les tuer.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "6009027",
+    "b": 6,
+    "c": 9,
+    "v": 27,
+    "t": "Puis il impose aux Gabaonites la charge de couper du bois et de puiser de l’eau. Ils le feront pour le peuple d’Israël et pour l’autel du SEIGNEUR, à l’endroit que le SEIGNEUR choisira. Aujourd’hui encore, les enfants de leurs enfants ont cette charge.",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "6010001",
+    "b": 6,
+    "c": 10,
+    "v": 1,
+    "t": "Adoni-Sédec, roi de Jérusalem, apprend tout ce qui s’est passé : Josué a pris la ville d’Aï, il l’a complètement détruite. Il l’a traitée comme il a traité Jéricho et son roi. De plus, les Gabaonites ont fait la paix avec les Israélites et ils vivent au milieu d’eux.",
+    "h": "Le Seigneur livre les rois amorites à l’armée d’Israël",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "6010002",
+    "b": 6,
+    "c": 10,
+    "v": 2,
+    "t": "Ces nouvelles font très peur aux gens de Jérusalem. En effet, Gabaon est une grande ville, plus grande que la ville d’Aï. Elle est aussi importante que les villes gouvernées par un roi, et tous ses soldats sont courageux.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "6010003",
+    "b": 6,
+    "c": 10,
+    "v": 3,
+    "t": "Alors Adoni-Sédec, roi de Jérusalem, envoie des messagers à Hoham, roi d’Hébron, à Piram, roi de Yarmouth, à Yafia, roi de Lakich, et à Debir, roi d’Églon. Il leur demande ceci :",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "6010004",
+    "b": 6,
+    "c": 10,
+    "v": 4,
+    "t": "« Venez m’aider à attaquer la ville de Gabaon, car ses habitants ont fait la paix avec Josué et les Israélites. »",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "6010005",
+    "b": 6,
+    "c": 10,
+    "v": 5,
+    "t": "Les cinq rois amorites, ceux de Jérusalem, Hébron, Yarmouth, Lakich et Églon, se mettent ensemble. Avec toutes leurs troupes, ils installent leur camp devant la ville de Gabaon et ils l’attaquent.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "6010006",
+    "b": 6,
+    "c": 10,
+    "v": 6,
+    "t": "Les Gabaonites envoient des messagers à Josué, au camp du Guilgal, pour lui dire : « Ne refuse pas de nous aider, nous tes serviteurs. Viens vite à notre secours et délivre-nous ! Tous les rois amorites qui habitent la région des montagnes se sont unis contre nous. »",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "6010007",
+    "b": 6,
+    "c": 10,
+    "v": 7,
+    "t": "Alors Josué quitte le Guilgal avec ses courageux combattants et toute l’armée.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "6010008",
+    "b": 6,
+    "c": 10,
+    "v": 8,
+    "t": "Le SEIGNEUR lui dit : « N’aie pas peur ! Je vais livrer ces gens en ton pouvoir. Aucun d’eux ne pourra te résister. »",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "6010009",
+    "b": 6,
+    "c": 10,
+    "v": 9,
+    "t": "Josué et ses troupes marchent toute la nuit depuis le Guilgal. Ils attaquent les Amorites par surprise.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "6010010",
+    "b": 6,
+    "c": 10,
+    "v": 10,
+    "t": "Le SEIGNEUR met en fuite les Amorites devant les Israélites. Ceux-ci les battent complètement près de Gabaon. Ils les poursuivent sur la montée de Beth-Horon et ils continuent jusqu’à Azéca et Maquéda.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "6010011",
+    "b": 6,
+    "c": 10,
+    "v": 11,
+    "t": "Les Amorites fuient devant les Israélites et ils se trouvent de l’autre côté de Beth-Horon. À ce moment-là, le SEIGNEUR fait tomber sur eux une violente grêle. Cela dure jusqu’à Azéca, et la grêle tue plus de soldats que les épées des Israélites.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "6010012",
+    "b": 6,
+    "c": 10,
+    "v": 12,
+    "t": "Le jour où le SEIGNEUR livre les Amorites à l’armée d’Israël, Josué fait une demande au SEIGNEUR, en présence de tous les Israélites : « Soleil, arrête-toi au-dessus de Gabaon ! Lune, reste immobile sur la vallée d’Ayalon ! »",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "6010013",
+    "b": 6,
+    "c": 10,
+    "v": 13,
+    "t": "Le soleil s’arrête, et la lune reste immobile jusqu’à la victoire du peuple d’Israël sur ses ennemis. Voici ce qui est raconté dans le « Livre du Juste » : le soleil est resté immobile au milieu du ciel, il a retardé son coucher pendant presque un jour entier.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "6010014",
+    "b": 6,
+    "c": 10,
+    "v": 14,
+    "t": "Ni avant, ni après, il n’y a eu un jour comme celui-là. Ce jour-là, le SEIGNEUR a obéi à un homme, car le SEIGNEUR lui-même combattait pour Israël.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "6010015",
+    "b": 6,
+    "c": 10,
+    "v": 15,
+    "t": "Ensuite, Josué et tous les Israélites retournent au camp du Guilgal.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "6010016",
+    "b": 6,
+    "c": 10,
+    "v": 16,
+    "t": "Les cinq rois amorites ont fui et ils se sont cachés dans la grotte de Maquéda.",
+    "h": "Josué fait mourir les cinq rois amorites",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "6010017",
+    "b": 6,
+    "c": 10,
+    "v": 17,
+    "t": "Josué apprend qu’ils ont été retrouvés dans cette grotte.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "6010018",
+    "b": 6,
+    "c": 10,
+    "v": 18,
+    "t": "Alors Josué donne cet ordre à ses soldats : « Roulez de grosses pierres à l’entrée de la grotte et placez des gardiens près d’elle.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "6010019",
+    "b": 6,
+    "c": 10,
+    "v": 19,
+    "t": "Mais vous, ne restez pas là, poursuivez vos ennemis. Coupez leur route. Ne leur permettez pas de rentrer dans leurs villes. En effet, le SEIGNEUR votre Dieu les a livrés en votre pouvoir. »",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "6010020",
+    "b": 6,
+    "c": 10,
+    "v": 20,
+    "t": "Josué et les Israélites finissent de battre complètement les Amorites et ils les tuent presque tous. Quelques hommes seulement peuvent fuir et éviter la mort. Ils retournent dans leurs villes protégées par des murs de défense.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "6010021",
+    "b": 6,
+    "c": 10,
+    "v": 21,
+    "t": "Ensuite, tous les Israélites reviennent en paix, auprès de Josué, dans le camp près de Maquéda. Alors personne n’ose plus parler contre les Israélites.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "6010022",
+    "b": 6,
+    "c": 10,
+    "v": 22,
+    "t": "Après cela, Josué commande à ses hommes d’enlever les pierres devant la grotte et de faire sortir les cinq rois amorites.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "6010023",
+    "b": 6,
+    "c": 10,
+    "v": 23,
+    "t": "Ils obéissent et ils amènent les rois à Josué : les rois de Jérusalem, d’Hébron, de Yarmouth, de Lakich et d’Églon.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "6010024",
+    "b": 6,
+    "c": 10,
+    "v": 24,
+    "t": "Dès que ces rois sont devant Josué, celui-ci réunit les Israélites. Il dit aux chefs des soldats qui ont combattu avec lui : « Venez poser le pied sur le cou de ces rois. » Les chefs obéissent.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "6010025",
+    "b": 6,
+    "c": 10,
+    "v": 25,
+    "t": "Josué leur dit : « N’ayez pas peur, ne vous laissez pas décourager ! Soyez forts et courageux ! Le SEIGNEUR traitera de la même manière les ennemis que vous devez combattre. »",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "6010026",
+    "b": 6,
+    "c": 10,
+    "v": 26,
+    "t": "Ensuite, Josué tue les rois et il les fait pendre à cinq arbres. Ils restent là jusqu’au soir.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "6010027",
+    "b": 6,
+    "c": 10,
+    "v": 27,
+    "t": "Au coucher du soleil, Josué commande de descendre les corps des arbres. On les jette dans la grotte où les rois s’étaient cachés. Puis on ferme l’entrée avec de grosses pierres, et elles y sont encore aujourd’hui.",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "6010028",
+    "b": 6,
+    "c": 10,
+    "v": 28,
+    "t": "Le même jour, Josué prend la ville de Maquéda. Il tue son roi et tous ses habitants. À cause du SEIGNEUR, il détruit tous ceux qui sont dans la ville, et personne ne reste en vie. Il traite le roi de Maquéda comme il a traité le roi de Jéricho.",
+    "h": "Josué prend possession des villes du sud",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "6010029",
+    "b": 6,
+    "c": 10,
+    "v": 29,
+    "t": "De Maquéda, Josué et les Israélites vont à Libna et ils attaquent cette ville.",
+    "h": "",
+    "o": 29,
+    "l": "29"
+  },
+  {
+    "id": "6010030",
+    "b": 6,
+    "c": 10,
+    "v": 30,
+    "t": "Le SEIGNEUR leur livre aussi Libna et son roi. Ils tuent les habitants, et personne ne reste en vie. Ils traitent son roi comme ils ont traité le roi de Jéricho.",
+    "h": "",
+    "o": 30,
+    "l": "30"
+  },
+  {
+    "id": "6010031",
+    "b": 6,
+    "c": 10,
+    "v": 31,
+    "t": "De Libna, Josué et les Israélites vont à Lakich. Ils installent leur camp près de la ville et ils l’attaquent.",
+    "h": "",
+    "o": 31,
+    "l": "31"
+  },
+  {
+    "id": "6010032",
+    "b": 6,
+    "c": 10,
+    "v": 32,
+    "t": "Le SEIGNEUR livre Lakich aux Israélites le deuxième jour du combat. Ils tuent les habitants comme ils l’ont fait à Libna, et personne ne reste en vie.",
+    "h": "",
+    "o": 32,
+    "l": "32"
+  },
+  {
+    "id": "6010033",
+    "b": 6,
+    "c": 10,
+    "v": 33,
+    "t": "Horam, roi de Guézer, va au secours de la ville de Lakich. Mais Josué le bat, lui et son armée, et il ne laisse personne en vie.",
+    "h": "",
+    "o": 33,
+    "l": "33"
+  },
+  {
+    "id": "6010034",
+    "b": 6,
+    "c": 10,
+    "v": 34,
+    "t": "De Lakich, Josué et les Israélites vont à Églon. Ils installent leur camp près de la ville et ils l’attaquent.",
+    "h": "",
+    "o": 34,
+    "l": "34"
+  },
+  {
+    "id": "6010035",
+    "b": 6,
+    "c": 10,
+    "v": 35,
+    "t": "Ils la prennent le même jour et ils tuent tous les habitants. À cause du SEIGNEUR, ils détruisent tous ceux qui sont dans la ville, comme à Lakich.",
+    "h": "",
+    "o": 35,
+    "l": "35"
+  },
+  {
+    "id": "6010036",
+    "b": 6,
+    "c": 10,
+    "v": 36,
+    "t": "D’Églon, Josué et les Israélites vont à Hébron et ils attaquent la ville.",
+    "h": "",
+    "o": 36,
+    "l": "36"
+  },
+  {
+    "id": "6010037",
+    "b": 6,
+    "c": 10,
+    "v": 37,
+    "t": "Ils la prennent et ils tuent son roi et ses habitants. Ils prennent aussi les villes autour d’Hébron et ils tuent leurs habitants. Comme à Églon, Josué détruit complètement la ville à cause du SEIGNEUR et il tue la population. Personne ne reste en vie.",
+    "h": "",
+    "o": 37,
+    "l": "37"
+  },
+  {
+    "id": "6010038",
+    "b": 6,
+    "c": 10,
+    "v": 38,
+    "t": "Après cela, Josué et les Israélites font demi-tour pour aller à Debir et ils attaquent cette ville.",
+    "h": "",
+    "o": 38,
+    "l": "38"
+  },
+  {
+    "id": "6010039",
+    "b": 6,
+    "c": 10,
+    "v": 39,
+    "t": "Ils la prennent, ils prennent son roi et les villes autour de Debir. Ils tuent les habitants. À cause du SEIGNEUR, ils détruisent tous ceux qui sont dans la ville, et personne ne reste en vie. Josué traite Debir et son roi comme il a traité Hébron, puis Libna et son roi.",
+    "h": "",
+    "o": 39,
+    "l": "39"
+  },
+  {
+    "id": "6010040",
+    "b": 6,
+    "c": 10,
+    "v": 40,
+    "t": "Josué prend tout le pays : il bat tous les rois de la région montagneuse, de la région du sud, du Bas-Pays et de la région des Pentes. Il ne laisse personne en vie, il détruit tous les êtres vivants, comme le SEIGNEUR, Dieu d’Israël, l’a commandé.",
+    "h": "",
+    "o": 40,
+    "l": "40"
+  },
+  {
+    "id": "6010041",
+    "b": 6,
+    "c": 10,
+    "v": 41,
+    "t": "Josué prend le pays depuis Cadès-Barnéa et Gaza, au sud, jusqu’à la région de Gochen et jusqu’à Gabaon, au nord.",
+    "h": "",
+    "o": 41,
+    "l": "41"
+  },
+  {
+    "id": "6010042",
+    "b": 6,
+    "c": 10,
+    "v": 42,
+    "t": "Il prend ces pays et leurs rois en une seule bataille, parce que le SEIGNEUR, Dieu d’Israël, combat pour son peuple.",
+    "h": "",
+    "o": 42,
+    "l": "42"
+  },
+  {
+    "id": "6010043",
+    "b": 6,
+    "c": 10,
+    "v": 43,
+    "t": "Ensuite, Josué et tous les Israélites retournent au camp du Guilgal.",
+    "h": "",
+    "o": 43,
+    "l": "43"
+  },
+  {
+    "id": "6011001",
+    "b": 6,
+    "c": 11,
+    "v": 1,
+    "t": "Yabin, roi de Hassor, apprend les victoires de Josué. Alors il envoie des messagers à Yobab, roi de Madon, au roi de Chimron et au roi d’Akechaf.",
+    "h": "À Mérom, Josué est vainqueur des rois cananéens",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "6011002",
+    "b": 6,
+    "c": 11,
+    "v": 2,
+    "t": "Il en envoie aussi aux rois qui sont dans la région montagneuse, au nord, dans la vallée du Jourdain, au sud du lac de Génésareth, dans le Bas-Pays, et sur la côte, près de Dor, à l’ouest.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "6011003",
+    "b": 6,
+    "c": 11,
+    "v": 3,
+    "t": "Les Cananéens se trouvent à l’est et à l’ouest du Jourdain, les Amorites, les Hittites, les Perizites, les Jébusites habitent dans la région montagneuse. Les Hivites vivent au pied de la montagne de l’Hermon, dans la région de Mispa.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "6011004",
+    "b": 6,
+    "c": 11,
+    "v": 4,
+    "t": "Tous les rois se mettent en route avec beaucoup de soldats. Ils sont aussi nombreux que les grains de sable au bord de la mer. Ils partent avec beaucoup de chevaux et beaucoup de chars.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "6011005",
+    "b": 6,
+    "c": 11,
+    "v": 5,
+    "t": "Tous ces rois se réunissent et ils viennent installer leur camp ensemble près des sources de Mérom pour attaquer les Israélites.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "6011006",
+    "b": 6,
+    "c": 11,
+    "v": 6,
+    "t": "Le SEIGNEUR dit à Josué : « N’aie pas peur d’eux. Demain, à cette heure-ci, je les livrerai tous, blessés à mort, au peuple d’Israël. Tu couperas les jarrets de leurs chevaux et tu brûleras leurs chars. »",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "6011007",
+    "b": 6,
+    "c": 11,
+    "v": 7,
+    "t": "Josué et ses soldats vont attaquer leurs ennemis par surprise aux sources de Mérom.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "6011008",
+    "b": 6,
+    "c": 11,
+    "v": 8,
+    "t": "Le SEIGNEUR les livre aux Israélites, qui les battent. Ils les poursuivent au nord jusqu’à Sidon, la grande ville, jusqu’à Misrefoth-Maïm et jusqu’à la vallée de Mispé, à l’est. Ils sont complètement battus, et personne ne reste en vie.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "6011009",
+    "b": 6,
+    "c": 11,
+    "v": 9,
+    "t": "Josué les traite comme le SEIGNEUR l’a commandé : il coupe les jarrets de leurs chevaux et il brûle leurs chars.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "6011010",
+    "b": 6,
+    "c": 11,
+    "v": 10,
+    "t": "Josué revient et, à cette époque-là, il prend Hassor. Autrefois, c’était la capitale de tous les royaumes du nord. Il tue son roi",
+    "h": "Josué prend la ville de Hassor",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "6011011",
+    "b": 6,
+    "c": 11,
+    "v": 11,
+    "t": "et tous ses habitants. À cause du SEIGNEUR, il détruit tous ceux qui sont dans la ville. Il ne reste aucun être vivant, et Josué met le feu à Hassor.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "6011012",
+    "b": 6,
+    "c": 11,
+    "v": 12,
+    "t": "Il prend tous les rois et toutes leurs villes. Il fait mourir les rois et les habitants des villes. À cause du SEIGNEUR, il les détruit comme Moïse, le serviteur du SEIGNEUR, l’a commandé.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "6011013",
+    "b": 6,
+    "c": 11,
+    "v": 13,
+    "t": "Pourtant, les Israélites ne mettent pas le feu aux villes situées sur les collines, sauf à Hassor, que Josué fait brûler.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "6011014",
+    "b": 6,
+    "c": 11,
+    "v": 14,
+    "t": "Les Israélites prennent comme richesses de guerre les biens et les animaux qu’ils trouvent dans ces villes. Mais ils tuent tous les habitants, ils ne laissent aucun être vivant.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "6011015",
+    "b": 6,
+    "c": 11,
+    "v": 15,
+    "t": "Le SEIGNEUR avait donné des ordres à ce sujet à Moïse, son serviteur. Moïse les a donnés à Josué, et Josué les suit. Il fait tout ce que le SEIGNEUR a commandé à Moïse.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "6011016",
+    "b": 6,
+    "c": 11,
+    "v": 16,
+    "t": "Josué prend tout le pays : la région montagneuse, toute la région du sud, toute la région de Gochen, le Bas-Pays, la vallée du Jourdain et la région des montagnes et des plaines du nord.",
+    "h": "Josué finit de prendre possession du pays de Canaan",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "6011017",
+    "b": 6,
+    "c": 11,
+    "v": 17,
+    "t": "Il bat tous les rois des régions situées entre le mont Pelé, proche de Séir au sud, et Baal-Gad dans la vallée du Liban, au pied de la montagne de l’Hermon au nord. Il prend ces rois et il les tue.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "6011018",
+    "b": 6,
+    "c": 11,
+    "v": 18,
+    "t": "Josué fait la guerre à tous ces rois pendant longtemps.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "6011019",
+    "b": 6,
+    "c": 11,
+    "v": 19,
+    "t": "Aucune ville ne fait la paix avec les Israélites, sauf les Hivites qui habitent à Gabaon. Toutes les autres villes sont prises par les armes.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "6011020",
+    "b": 6,
+    "c": 11,
+    "v": 20,
+    "t": "En effet, le SEIGNEUR a décidé d’encourager les habitants du pays à combattre sans arrêt les Israélites. Il faut que ceux-ci les tuent sans pitié et les détruisent complètement, comme le SEIGNEUR l’a commandé à Moïse.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "6011021",
+    "b": 6,
+    "c": 11,
+    "v": 21,
+    "t": "À cette époque, Josué va combattre les Anaquites. Ils habitent dans les montagnes, à Hébron, Debir, Anab, et dans toutes les régions montagneuses de Juda et d’Israël. Il les tue et, à cause du SEIGNEUR, il détruit complètement leurs villes.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "6011022",
+    "b": 6,
+    "c": 11,
+    "v": 22,
+    "t": "Il ne reste plus d’Anaquites dans le pays d’Israël. Il en reste seulement à Gaza, Gath et Asdod.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "6011023",
+    "b": 6,
+    "c": 11,
+    "v": 23,
+    "t": "De cette façon, Josué prend tout le pays, comme le SEIGNEUR l’a commandé à Moïse. Ensuite, Josué le donne en partage aux Israélites, il le distribue selon les tribus. Et le pays se repose de la guerre.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "6012001",
+    "b": 6,
+    "c": 12,
+    "v": 1,
+    "t": "Les Israélites ont battu deux rois à l’est du fleuve Jourdain et ils ont pris leurs territoires. Ceux-ci s’étendaient depuis le torrent de l’Arnon jusqu’à la montagne de l’Hermon. Ils comprenaient aussi la partie qui est à l’est de la vallée du Jourdain.",
+    "h": "Les rois vaincus par les Israélites",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "6012002",
+    "b": 6,
+    "c": 12,
+    "v": 2,
+    "t": "Sihon, roi amorite, habitait à Hèchebon. Il gouvernait la moitié de la vallée de l’Arnon, à partir d’Aroër. Il gouvernait aussi la moitié de la région de Galaad jusqu’au torrent du Yabboq, qui sert de frontière avec le pays des Ammonites.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "6012003",
+    "b": 6,
+    "c": 12,
+    "v": 3,
+    "t": "Sihon possédait encore la partie située à l’est de la vallée du Jourdain, la région du lac de Génésareth, au nord, jusqu’à la mer Morte, près de Beth-Yechimoth, et au sud, la région située au pied du mont Pisga.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "6012004",
+    "b": 6,
+    "c": 12,
+    "v": 4,
+    "t": "L’autre roi était Og, un des derniers Refaïtes. Il gouvernait le Bachan et habitait à Achetaroth ou à Édréi.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "6012005",
+    "b": 6,
+    "c": 12,
+    "v": 5,
+    "t": "Son royaume comprenait la montagne de l’Hermon, Salka, tout le Bachan jusqu’à la frontière des Guéchourites et des Maakatites. Il comprenait aussi la moitié de la région de Galaad jusqu’au royaume de Sihon, roi de Hèchebon.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "6012006",
+    "b": 6,
+    "c": 12,
+    "v": 6,
+    "t": "Moïse et les Israélites avaient battu ces deux rois. Moïse, le serviteur du SEIGNEUR, avait donné leur pays en possession aux tribus de Ruben et de Gad et à la demi-tribu de Manassé.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "6012007",
+    "b": 6,
+    "c": 12,
+    "v": 7,
+    "t": "Ensuite, Josué et les Israélites ont battu les rois qui vivaient à l’ouest du Jourdain. Leurs pays s’étendaient depuis Baal-Gad dans la vallée du Liban, au nord, jusqu’au mont Pelé proche de Séir, au sud. Josué donne ces régions aux Israélites, et il les distribue selon les tribus.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "6012008",
+    "b": 6,
+    "c": 12,
+    "v": 8,
+    "t": "C’est la région montagneuse, le Bas-Pays, la vallée du Jourdain, la région des Pentes, le désert et la région du sud. Les habitants sont les Hittites, les Amorites, les Cananéens, les Perizites, les Hivites et les Jébusites.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "6012009",
+    "b": 6,
+    "c": 12,
+    "v": 9,
+    "t": "Les rois que Josué a battus sont ceux des villes suivantes : Jéricho, Aï près de Béthel,",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "6012010",
+    "b": 6,
+    "c": 12,
+    "v": 10,
+    "t": "Jérusalem, Hébron,",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "6012011",
+    "b": 6,
+    "c": 12,
+    "v": 11,
+    "t": "Yarmouth, Lakich,",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "6012012",
+    "b": 6,
+    "c": 12,
+    "v": 12,
+    "t": "Églon, Guézer,",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "6012013",
+    "b": 6,
+    "c": 12,
+    "v": 13,
+    "t": "Debir, Guéder,",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "6012014",
+    "b": 6,
+    "c": 12,
+    "v": 14,
+    "t": "Horma, Arad,",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "6012015",
+    "b": 6,
+    "c": 12,
+    "v": 15,
+    "t": "Libna, Adoullam,",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "6012016",
+    "b": 6,
+    "c": 12,
+    "v": 16,
+    "t": "Maquéda, Béthel,",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "6012017",
+    "b": 6,
+    "c": 12,
+    "v": 17,
+    "t": "Tappoua, Héfer,",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "6012018",
+    "b": 6,
+    "c": 12,
+    "v": 18,
+    "t": "Afec, Saron,",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "6012019",
+    "b": 6,
+    "c": 12,
+    "v": 19,
+    "t": "Madon, Hassor,",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "6012020",
+    "b": 6,
+    "c": 12,
+    "v": 20,
+    "t": "Chimron-Meron, Akechaf,",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "6012021",
+    "b": 6,
+    "c": 12,
+    "v": 21,
+    "t": "Taanak, Méguiddo,",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "6012022",
+    "b": 6,
+    "c": 12,
+    "v": 22,
+    "t": "Quédech, Yocnéam du Carmel,",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "6012023",
+    "b": 6,
+    "c": 12,
+    "v": 23,
+    "t": "Dor sur la côte, Goïm en Galilée,",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "6012024",
+    "b": 6,
+    "c": 12,
+    "v": 24,
+    "t": "et Tirsa. Cela fait en tout 31 rois.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "6013001",
+    "b": 6,
+    "c": 13,
+    "v": 1,
+    "t": "Josué est devenu très vieux. Le SEIGNEUR lui dit : « Tu es devenu très vieux. Pourtant, tu as encore à prendre possession d’une grande partie du pays.",
+    "h": "Régions cananéennes qui restent à conquérir",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "6013002",
+    "b": 6,
+    "c": 13,
+    "v": 2,
+    "t": "Voici ce qui reste : les territoires des Philistins et des Guéchourites.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "6013003",
+    "b": 6,
+    "c": 13,
+    "v": 3,
+    "t": "On considère que cette région est cananéenne. Elle s’étend depuis le torrent du Chihor, à la frontière d’Égypte, jusqu’à la région d’Écron, au nord. Les cinq chefs philistins se trouvent dans ces régions. Ils gouvernent Gaza, Asdod, Ascalon, Gath et Écron, et la région des Avites,",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "6013004",
+    "b": 6,
+    "c": 13,
+    "v": 4,
+    "t": "au sud. Il faut aussi prendre possession du pays des Cananéens, depuis Ara qui appartient aux Sidoniens jusqu’à Afec, à la frontière amorite.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "6013005",
+    "b": 6,
+    "c": 13,
+    "v": 5,
+    "t": "Il reste encore la région de Guébal et à l’est, les montagnes du Liban depuis Baal-Gad, au pied de la montagne de l’Hermon, jusqu’à Lebo-Hamath.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "6013006",
+    "b": 6,
+    "c": 13,
+    "v": 6,
+    "t": "Il reste enfin la région des montagnes située entre le Liban et Misrefoth-Maïm. Ses habitants sont tous sidoniens. Je chasserai les habitants de ces régions quand vous arriverez. Tu donneras aux Israélites les différentes parties du pays, en tirant au sort, comme je te l’ai commandé.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "6013007",
+    "b": 6,
+    "c": 13,
+    "v": 7,
+    "t": "Maintenant, partage ce pays pour qu’il soit la propriété des neuf tribus et de la demi-tribu de Manassé. »",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "6013008",
+    "b": 6,
+    "c": 13,
+    "v": 8,
+    "t": "Les tribus de Ruben, de Gad et la première moitié de la tribu de Manassé ont déjà reçu des territoires en partage, à l’est du fleuve Jourdain. C’est Moïse, le serviteur du SEIGNEUR, qui les avait distribués.",
+    "h": "Le partage du pays à l’est du Jourdain",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "6013009",
+    "b": 6,
+    "c": 13,
+    "v": 9,
+    "t": "Leurs territoires sont limités au sud par la ville d’Aroër au bord du torrent de l’Arnon, et par la ville qui est dans la vallée de l’Arnon. Ils s’étendent aussi sur tout le plateau, depuis Mèdeba jusqu’à Dibon.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "6013010",
+    "b": 6,
+    "c": 13,
+    "v": 10,
+    "t": "Ils comprennent les villes de Sihon, roi des Amorites. Celui-ci a gouverné à Hèchebon sur la région qui s’étend jusqu’à la frontière des Ammonites.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "6013011",
+    "b": 6,
+    "c": 13,
+    "v": 11,
+    "t": "Leurs territoires comprennent aussi le pays de Galaad, la région de Guéchour et de Maaka, la montagne de l’Hermon et tout le Bachan jusqu’à Salka.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "6013012",
+    "b": 6,
+    "c": 13,
+    "v": 12,
+    "t": "Ils comprennent encore le royaume d’Og, un des derniers Refaïtes. Il a gouverné à Achetaroth et Édréi, dans le pays du Bachan. Moïse avait battu ces peuples et il avait pris ce qu’ils possédaient.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "6013013",
+    "b": 6,
+    "c": 13,
+    "v": 13,
+    "t": "Pourtant, les Israélites n’ont pas chassé les Guéchourites ni les Maakatites. Et aujourd’hui encore, ils habitent en Israël.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "6013014",
+    "b": 6,
+    "c": 13,
+    "v": 14,
+    "t": "La tribu de Lévi est la seule qui ne reçoit pas de terres en partage. En effet, les offrandes faites au SEIGNEUR, Dieu d’Israël, voilà la part qui revient à la tribu de Lévi, comme le SEIGNEUR l’a promis.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "6013015",
+    "b": 6,
+    "c": 13,
+    "v": 15,
+    "t": "Moïse avait donné une part à la tribu de Ruben selon ses clans.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "6013016",
+    "b": 6,
+    "c": 13,
+    "v": 16,
+    "t": "Cette part est limitée au sud par la ville d’Aroër au bord du torrent de l’Arnon, et par la ville qui est dans la vallée de l’Arnon. Elle comprend le plateau autour de Mèdeba,",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "6013017",
+    "b": 6,
+    "c": 13,
+    "v": 17,
+    "t": "Hèchebon et toutes les villes de plateau : Dibon, Bamoth-Baal, Beth-Baal-Méon,",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "6013018",
+    "b": 6,
+    "c": 13,
+    "v": 18,
+    "t": "Yahas, Quedémoth, Méfaath,",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "6013019",
+    "b": 6,
+    "c": 13,
+    "v": 19,
+    "t": "Quiriataïm, Sibma, Séreth-Chahar sur la colline qui domine la vallée,",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "6013020",
+    "b": 6,
+    "c": 13,
+    "v": 20,
+    "t": "Beth-Péor, les pentes du mont Pisga et Beth-Yechimoth.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "6013021",
+    "b": 6,
+    "c": 13,
+    "v": 21,
+    "t": "Les Rubénites reçoivent non seulement les villes du plateau mais aussi tout le royaume de Sihon, le roi des Amorites qui a gouverné à Hèchebon. Moïse avait battu Sihon et les chefs de Madian : Évi, Réquem, Sour, Hour et Réba. Ces chefs étaient sous le pouvoir de Sihon et habitaient dans le pays.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "6013022",
+    "b": 6,
+    "c": 13,
+    "v": 22,
+    "t": "Parmi ceux que les Israélites ont tués à ce moment-là, il y avait le devin Balaam, fils de Béor.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "6013023",
+    "b": 6,
+    "c": 13,
+    "v": 23,
+    "t": "À l’ouest, le pays des Rubénites a le Jourdain comme frontière. Les villes, avec les villages des environs, forment la part donnée aux clans de la tribu de Ruben.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "6013024",
+    "b": 6,
+    "c": 13,
+    "v": 24,
+    "t": "Moïse avait donné une part aux clans de la tribu de Gad.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "6013025",
+    "b": 6,
+    "c": 13,
+    "v": 25,
+    "t": "Leur territoire comprend Yazer, toutes les villes de Galaad, la moitié du pays des Ammonites jusqu’à Aroër, près de Rabba.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "6013026",
+    "b": 6,
+    "c": 13,
+    "v": 26,
+    "t": "Il s’étend de Hèchebon à Ramath-Mispé et Betonim, et de Mahanaïm à la région de Lo-Dabar.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "6013027",
+    "b": 6,
+    "c": 13,
+    "v": 27,
+    "t": "Dans la vallée du Jourdain, il comprend les villes de Beth-Haram, Beth-Nimra, Soukoth et Safon. C’est ce qui restait du royaume de Sihon, roi de Hèchebon. Ce territoire se trouve à l’est du Jourdain. Le Jourdain forme la frontière du pays jusqu’au lac de Génésareth au nord.",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "6013028",
+    "b": 6,
+    "c": 13,
+    "v": 28,
+    "t": "Les villes, avec les villages des environs, forment la part donnée aux clans de la tribu de Gad.",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "6013029",
+    "b": 6,
+    "c": 13,
+    "v": 29,
+    "t": "Moïse avait donné une part aux clans de la demi-tribu de Manassé.",
+    "h": "",
+    "o": 29,
+    "l": "29"
+  },
+  {
+    "id": "6013030",
+    "b": 6,
+    "c": 13,
+    "v": 30,
+    "t": "Leur territoire est limité au sud par Mahanaïm. Il comprend tout le Bachan, tout le territoire d’Og, roi du Bachan, et les 60 villages de Yaïr, situés dans cette région.",
+    "h": "",
+    "o": 30,
+    "l": "30"
+  },
+  {
+    "id": "6013031",
+    "b": 6,
+    "c": 13,
+    "v": 31,
+    "t": "Il comprend aussi la moitié du pays de Galaad, les villes d’Achetaroth et d’Édréi, qui appartenaient au royaume d’Og, dans le Bachan. Cette région a été donnée à la moitié des clans nés de Makir, le fils de Manassé.",
+    "h": "",
+    "o": 31,
+    "l": "31"
+  },
+  {
+    "id": "6013032",
+    "b": 6,
+    "c": 13,
+    "v": 32,
+    "t": "Moïse avait donné ces parts dans la région située à l’est de Jéricho, de l’autre côté du Jourdain, quand il était dans la plaine de Moab.",
+    "h": "",
+    "o": 32,
+    "l": "32"
+  },
+  {
+    "id": "6013033",
+    "b": 6,
+    "c": 13,
+    "v": 33,
+    "t": "Il n’avait rien donné en partage aux gens de la tribu de Lévi. En effet, leur part, c’est de servir le SEIGNEUR, Dieu d’Israël, comme celui-ci l’a promis.",
+    "h": "",
+    "o": 33,
+    "l": "33"
+  },
+  {
+    "id": "6014001",
+    "b": 6,
+    "c": 14,
+    "v": 1,
+    "t": "Voici les territoires que les Israélites reçoivent en partage dans le pays de Canaan. Le prêtre Élazar, Josué, fils de Noun, et les chefs de famille des différentes tribus les répartissent.",
+    "h": "Le partage du pays de Canaan",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "6014002",
+    "b": 6,
+    "c": 14,
+    "v": 2,
+    "t": "Ils font le partage, comme le SEIGNEUR l’a commandé : ils tirent au sort les territoires pour les neuf tribus et demie qui n’en ont pas encore.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "6014003",
+    "b": 6,
+    "c": 14,
+    "v": 3,
+    "t": "Moïse avait déjà donné les territoires situés à l’est du fleuve Jourdain à deux tribus et demie, mais il n’avait rien donné aux lévites.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "6014004",
+    "b": 6,
+    "c": 14,
+    "v": 4,
+    "t": "En effet, les gens de la famille de Joseph formaient deux tribus, celles de Manassé et d’Éfraïm. Les lévites, eux, ne reçoivent aucun territoire, mais seulement des villes pour y habiter. Ils reçoivent aussi les terres des environs pour leurs troupeaux et pour leurs autres biens.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "6014005",
+    "b": 6,
+    "c": 14,
+    "v": 5,
+    "t": "De cette façon, les Israélites partagent le pays, comme le SEIGNEUR l’a commandé à Moïse.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "6014006",
+    "b": 6,
+    "c": 14,
+    "v": 6,
+    "t": "Un jour, des gens de la tribu de Juda viennent trouver Josué au Guilgal. Caleb, fils de Yefounné, du clan de Quenaz, lui dit : « À Cadès-Barnéa, tu t’en souviens, le SEIGNEUR a parlé de toi et de moi à Moïse, l’homme de Dieu.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "6014007",
+    "b": 6,
+    "c": 14,
+    "v": 7,
+    "t": "J’avais 40 ans quand Moïse, le serviteur du SEIGNEUR, m’a envoyé de Cadès-Barnéa pour chercher à connaître le pays de Canaan. En revenant, je lui ai raconté fidèlement ce que j’avais vu.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "6014008",
+    "b": 6,
+    "c": 14,
+    "v": 8,
+    "t": "Mes frères qui étaient venus avec moi décourageaient le peuple. Moi, au contraire, je suivais le SEIGNEUR mon Dieu de tout mon cœur.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "6014009",
+    "b": 6,
+    "c": 14,
+    "v": 9,
+    "t": "Ce jour-là, Moïse a fait ce serment : “Je jure que toi et tes enfants, vous recevrez en partage pour toujours la région où tu es allé. En effet, tu as suivi le SEIGNEUR ton Dieu de tout ton cœur.”",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "6014010",
+    "b": 6,
+    "c": 14,
+    "v": 10,
+    "t": "Maintenant, il y a 45 ans que le SEIGNEUR a donné cet ordre à Moïse. C’était le moment où les Israélites traversaient le désert. Depuis ce temps-là, le SEIGNEUR m’a gardé en vie, selon sa promesse. J’ai maintenant 85 ans.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "6014011",
+    "b": 6,
+    "c": 14,
+    "v": 11,
+    "t": "Pourtant, j’ai toujours autant de forces qu’au moment où Moïse m’a envoyé en Canaan. Je suis aussi fort qu’avant, pour faire la guerre ou pour toute autre activité.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "6014012",
+    "b": 6,
+    "c": 14,
+    "v": 12,
+    "t": "Maintenant donc, donne-moi en partage la région montagneuse que le SEIGNEUR m’a promise à ce moment-là. Tu as appris alors que les Anaquites vivent dans de grandes villes protégées par des murs de défense. Si le SEIGNEUR est avec moi, je les prendrai, comme le SEIGNEUR l’a annoncé. »",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "6014013",
+    "b": 6,
+    "c": 14,
+    "v": 13,
+    "t": "Josué bénit Caleb, fils de Yefounné, et il lui donne la ville d’Hébron en partage.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "6014014",
+    "b": 6,
+    "c": 14,
+    "v": 14,
+    "t": "Cette ville appartient encore aujourd’hui aux gens de la famille de Caleb, fils de Yefounné, du clan de Quenaz, parce qu’il a suivi de tout son cœur le SEIGNEUR, Dieu d’Israël.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "6014015",
+    "b": 6,
+    "c": 14,
+    "v": 15,
+    "t": "Autrefois, Hébron s’appelait Quiriath-Arba, c’est-à-dire ville d’Arba. Arba était l’homme le plus célèbre parmi les Anaquites. Après tout cela, le pays se repose de la guerre.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "6015001",
+    "b": 6,
+    "c": 15,
+    "v": 1,
+    "t": "Voici le territoire que les clans de la tribu de Juda reçoivent par tirage au sort : il s’étend au sud-est jusqu’à la frontière d’Édom. Le désert de Tsin forme la partie qui se trouve le plus au sud.",
+    "h": "Le territoire de la tribu de Juda",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "6015002",
+    "b": 6,
+    "c": 15,
+    "v": 2,
+    "t": "Au sud, la frontière part de la bande de terre située en face de la région du Néguev, au sud de la mer Morte.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "6015003",
+    "b": 6,
+    "c": 15,
+    "v": 3,
+    "t": "Ensuite, elle passe au sud de la montée des Scorpions et du désert de Tsin. Au sud de Cadès-Barnéa, elle remonte par Hesron jusqu’à Addar, puis elle tourne vers Carca.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "6015004",
+    "b": 6,
+    "c": 15,
+    "v": 4,
+    "t": "Elle continue par Asmon, elle rejoint le torrent d’Égypte pour arriver à la mer Méditerranée. Voilà où passe la frontière sud du territoire de Juda.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "6015005",
+    "b": 6,
+    "c": 15,
+    "v": 5,
+    "t": "À l’est, la frontière est formée par la mer Morte jusqu’à l’endroit où le fleuve Jourdain se jette dans cette mer. Au nord, la frontière part du même endroit.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "6015006",
+    "b": 6,
+    "c": 15,
+    "v": 6,
+    "t": "Elle monte ensuite à Beth-Hogla, elle passe au nord de Beth-Araba, puis elle continue jusqu’à la Pierre de Bohan, un des fils de Ruben.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "6015007",
+    "b": 6,
+    "c": 15,
+    "v": 7,
+    "t": "Elle monte encore vers Debir en passant par la vallée d’Akor. Plus au nord, elle tourne vers le Guilgal, en face de la montée d’Adoumim, située au sud d’un torrent. Ensuite, elle passe près des sources d’En-Chémech et elle rejoint En-Roguel.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "6015008",
+    "b": 6,
+    "c": 15,
+    "v": 8,
+    "t": "Elle remonte la vallée de Hinnom, sur la pente sud de la colline des Jébusites. Jérusalem se trouve à cet endroit. Puis la frontière monte vers le sommet de la montagne, située à l’ouest de la vallée de Hinnom et au nord de la vallée des Refaïtes.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "6015009",
+    "b": 6,
+    "c": 15,
+    "v": 9,
+    "t": "De là, elle tourne vers les sources de Neftoa. Elle rejoint les villes situées près du mont Éfron. Puis elle se dirige vers Baala, qu’on appelle aussi Quiriath-Yéarim.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "6015010",
+    "b": 6,
+    "c": 15,
+    "v": 10,
+    "t": "De là, la frontière tourne à l’ouest vers la montagne de Séir, elle passe sur la pente nord de la montagne des Forêts ou mont Kessalon. Puis elle redescend à Beth-Chémech et elle passe à Timna.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "6015011",
+    "b": 6,
+    "c": 15,
+    "v": 11,
+    "t": "Elle continue vers la pente nord de la ville d’Écron, elle tourne vers Chikaron, se dirige vers Yabné en passant par le mont Baala. Puis elle arrive à la mer Méditerranée.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "6015012",
+    "b": 6,
+    "c": 15,
+    "v": 12,
+    "t": "Cette mer forme la frontière à l’ouest. Voilà les limites du territoire donné aux clans de la tribu de Juda.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "6015013",
+    "b": 6,
+    "c": 15,
+    "v": 13,
+    "t": "Caleb, fils de Yefounné, reçoit une partie du territoire de Juda, comme le SEIGNEUR l’a commandé à Josué. On lui donne Quiriath-Arba, ou ville d’Arba, qui est aujourd’hui Hébron. Arba est l’ancêtre des Anaquites.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "6015014",
+    "b": 6,
+    "c": 15,
+    "v": 14,
+    "t": "Caleb chasse les trois clans anaquites : le clan de Chéchaï, le clan d’Ahiman et celui de Talmaï.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "6015015",
+    "b": 6,
+    "c": 15,
+    "v": 15,
+    "t": "Depuis Hébron, il va attaquer les habitants de Debir. Avant, cette ville s’appelait Quiriath-Séfer.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "6015016",
+    "b": 6,
+    "c": 15,
+    "v": 16,
+    "t": "Caleb dit : « Je donnerai ma fille Axa pour femme à celui qui attaquera Quiriath-Séfer et qui prendra cette ville. »",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "6015017",
+    "b": 6,
+    "c": 15,
+    "v": 17,
+    "t": "Otniel, fils de Quenaz, le frère de Caleb, prend la ville, et Caleb lui donne sa fille en mariage.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "6015018",
+    "b": 6,
+    "c": 15,
+    "v": 18,
+    "t": "Quand Axa arrive près d’Otniel, elle lui dit : « Demande donc un champ à mon père ! » Ensuite, elle descend de son âne. Caleb lui demande : « Qu’est-ce que tu veux ? »",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "6015019",
+    "b": 6,
+    "c": 15,
+    "v": 19,
+    "t": "Elle répond : « Sois bon pour moi. Donne-moi des points d’eau. En effet, la région que tu m’as donnée, au sud, est très sèche. » Alors Caleb lui donne les sources d’en haut et les sources d’en bas.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "6015020",
+    "b": 6,
+    "c": 15,
+    "v": 20,
+    "t": "Voilà le territoire que les clans de la tribu de Juda reçoivent en partage.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "6015021",
+    "b": 6,
+    "c": 15,
+    "v": 21,
+    "t": "Les villes situées dans le sud du territoire de Juda, près de la frontière d’Édom, sont : Cabséel, Éder, Yagour,",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "6015022",
+    "b": 6,
+    "c": 15,
+    "v": 22,
+    "t": "Quina, Dimona, Adéada,",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "6015023",
+    "b": 6,
+    "c": 15,
+    "v": 23,
+    "t": "Quédech, Hassor, Itnan,",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "6015024",
+    "b": 6,
+    "c": 15,
+    "v": 24,
+    "t": "Zif, Télem, Béaloth,",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "6015025",
+    "b": 6,
+    "c": 15,
+    "v": 25,
+    "t": "Hassor-Hadatta, Querioth-Hesron, qu’on appelle aussi Hassor,",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "6015026",
+    "b": 6,
+    "c": 15,
+    "v": 26,
+    "t": "Amam, Chema, Molada,",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "6015027",
+    "b": 6,
+    "c": 15,
+    "v": 27,
+    "t": "Hassar-Gadda, Hèchemon, Beth-Péleth,",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "6015028",
+    "b": 6,
+    "c": 15,
+    "v": 28,
+    "t": "Hassar-Choual, Berchéba et les environs,",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "6015029",
+    "b": 6,
+    "c": 15,
+    "v": 29,
+    "t": "Baala, Iyim, Essem,",
+    "h": "",
+    "o": 29,
+    "l": "29"
+  },
+  {
+    "id": "6015030",
+    "b": 6,
+    "c": 15,
+    "v": 30,
+    "t": "Eltolad, Kessil, Horma,",
+    "h": "",
+    "o": 30,
+    "l": "30"
+  },
+  {
+    "id": "6015031",
+    "b": 6,
+    "c": 15,
+    "v": 31,
+    "t": "Siclag, Madmanna, Sanesanna,",
+    "h": "",
+    "o": 31,
+    "l": "31"
+  },
+  {
+    "id": "6015032",
+    "b": 6,
+    "c": 15,
+    "v": 32,
+    "t": "Lebaoth, Chilim et En-Rimmon. Cela fait 29 villes avec leurs villages.",
+    "h": "",
+    "o": 32,
+    "l": "32"
+  },
+  {
+    "id": "6015033",
+    "b": 6,
+    "c": 15,
+    "v": 33,
+    "t": "Les villes situées dans le Bas-Pays sont : Èchetaol, Sora, Achena,",
+    "h": "",
+    "o": 33,
+    "l": "33"
+  },
+  {
+    "id": "6015034",
+    "b": 6,
+    "c": 15,
+    "v": 34,
+    "t": "Zanoa, En-Gannim, Tappoua, Énam,",
+    "h": "",
+    "o": 34,
+    "l": "34"
+  },
+  {
+    "id": "6015035",
+    "b": 6,
+    "c": 15,
+    "v": 35,
+    "t": "Yarmouth, Adoullam, Soko, Azéca,",
+    "h": "",
+    "o": 35,
+    "l": "35"
+  },
+  {
+    "id": "6015036",
+    "b": 6,
+    "c": 15,
+    "v": 36,
+    "t": "Chaaraïm, Aditaïm, Guedéra et Guedérotaïm. Cela fait 14 villes avec leurs villages.",
+    "h": "",
+    "o": 36,
+    "l": "36"
+  },
+  {
+    "id": "6015037",
+    "b": 6,
+    "c": 15,
+    "v": 37,
+    "t": "Il y a aussi Senan, Hadacha, Migdal-Gad,",
+    "h": "",
+    "o": 37,
+    "l": "37"
+  },
+  {
+    "id": "6015038",
+    "b": 6,
+    "c": 15,
+    "v": 38,
+    "t": "Dilan, Mispé, Yoctéel,",
+    "h": "",
+    "o": 38,
+    "l": "38"
+  },
+  {
+    "id": "6015039",
+    "b": 6,
+    "c": 15,
+    "v": 39,
+    "t": "Lakich, Boscath, Églon,",
+    "h": "",
+    "o": 39,
+    "l": "39"
+  },
+  {
+    "id": "6015040",
+    "b": 6,
+    "c": 15,
+    "v": 40,
+    "t": "Kabbon, Lahémas, Kitlich,",
+    "h": "",
+    "o": 40,
+    "l": "40"
+  },
+  {
+    "id": "6015041",
+    "b": 6,
+    "c": 15,
+    "v": 41,
+    "t": "Guedéroth, Beth-Dagon, Naama et Maquéda. Cela fait 16 villes avec leurs villages.",
+    "h": "",
+    "o": 41,
+    "l": "41"
+  },
+  {
+    "id": "6015042",
+    "b": 6,
+    "c": 15,
+    "v": 42,
+    "t": "Il y a encore Libna, Éter, Achan,",
+    "h": "",
+    "o": 42,
+    "l": "42"
+  },
+  {
+    "id": "6015043",
+    "b": 6,
+    "c": 15,
+    "v": 43,
+    "t": "Ifta, Achena, Nessib,",
+    "h": "",
+    "o": 43,
+    "l": "43"
+  },
+  {
+    "id": "6015044",
+    "b": 6,
+    "c": 15,
+    "v": 44,
+    "t": "Quéila, Akzib et Marécha. Cela fait 9 villes avec leurs villages.",
+    "h": "",
+    "o": 44,
+    "l": "44"
+  },
+  {
+    "id": "6015045",
+    "b": 6,
+    "c": 15,
+    "v": 45,
+    "t": "On trouve aussi Écron avec les lieux qui en dépendent et ses villages,",
+    "h": "",
+    "o": 45,
+    "l": "45"
+  },
+  {
+    "id": "6015046",
+    "b": 6,
+    "c": 15,
+    "v": 46,
+    "t": "toutes les villes et les villages situés dans les environs d’Asdod, entre Écron et la mer Méditerranée.",
+    "h": "",
+    "o": 46,
+    "l": "46"
+  },
+  {
+    "id": "6015047",
+    "b": 6,
+    "c": 15,
+    "v": 47,
+    "t": "On trouve encore Asdod et Gaza avec les lieux qui en dépendent et leurs villages, ainsi que les villes le long de la côte de la Méditerranée, jusqu’au torrent d’Égypte.",
+    "h": "",
+    "o": 47,
+    "l": "47"
+  },
+  {
+    "id": "6015048",
+    "b": 6,
+    "c": 15,
+    "v": 48,
+    "t": "Les villes situées dans la région de la Montagne sont : Chamir, Yattir, Soko,",
+    "h": "",
+    "o": 48,
+    "l": "48"
+  },
+  {
+    "id": "6015049",
+    "b": 6,
+    "c": 15,
+    "v": 49,
+    "t": "Danna, Quiriath-Sanna appelée aussi Debir,",
+    "h": "",
+    "o": 49,
+    "l": "49"
+  },
+  {
+    "id": "6015050",
+    "b": 6,
+    "c": 15,
+    "v": 50,
+    "t": "Anab, Echtemoa, Anim,",
+    "h": "",
+    "o": 50,
+    "l": "50"
+  },
+  {
+    "id": "6015051",
+    "b": 6,
+    "c": 15,
+    "v": 51,
+    "t": "Gochen, Holon et Guilo. Cela fait 11 villes avec leurs villages.",
+    "h": "",
+    "o": 51,
+    "l": "51"
+  },
+  {
+    "id": "6015052",
+    "b": 6,
+    "c": 15,
+    "v": 52,
+    "t": "Il y a aussi Arab, Rouma, Échan,",
+    "h": "",
+    "o": 52,
+    "l": "52"
+  },
+  {
+    "id": "6015053",
+    "b": 6,
+    "c": 15,
+    "v": 53,
+    "t": "Yanoum, Beth-Tappoua, Aféca,",
+    "h": "",
+    "o": 53,
+    "l": "53"
+  },
+  {
+    "id": "6015054",
+    "b": 6,
+    "c": 15,
+    "v": 54,
+    "t": "Houmeta, Quiriath-Arba, appelée aussi Hébron, et Sior. Cela fait 9 villes avec leurs villages.",
+    "h": "",
+    "o": 54,
+    "l": "54"
+  },
+  {
+    "id": "6015055",
+    "b": 6,
+    "c": 15,
+    "v": 55,
+    "t": "Il y a encore Maon, Karmel, Zif, Youtta,",
+    "h": "",
+    "o": 55,
+    "l": "55"
+  },
+  {
+    "id": "6015056",
+    "b": 6,
+    "c": 15,
+    "v": 56,
+    "t": "Izréel, Yocdéam, Zanoa,",
+    "h": "",
+    "o": 56,
+    "l": "56"
+  },
+  {
+    "id": "6015057",
+    "b": 6,
+    "c": 15,
+    "v": 57,
+    "t": "Caïn, Guibéa et Timna. Cela fait 10 villes avec leurs villages.",
+    "h": "",
+    "o": 57,
+    "l": "57"
+  },
+  {
+    "id": "6015058",
+    "b": 6,
+    "c": 15,
+    "v": 58,
+    "t": "On trouve encore Haloul, Beth-Sour, Guedor,",
+    "h": "",
+    "o": 58,
+    "l": "58"
+  },
+  {
+    "id": "6015059",
+    "b": 6,
+    "c": 15,
+    "v": 59,
+    "t": "Maarath, Beth-Anoth et Eltecône. Cela fait 6 villes avec leurs villages.",
+    "h": "",
+    "o": 59,
+    "l": "59"
+  },
+  {
+    "id": "6015060",
+    "b": 6,
+    "c": 15,
+    "v": 60,
+    "t": "On trouve enfin Quiriath-Baal, qu’on appelle Quiriath-Yéarim, et Rabba. Cela fait 2 villes avec leurs villages.",
+    "h": "",
+    "o": 60,
+    "l": "60"
+  },
+  {
+    "id": "6015061",
+    "b": 6,
+    "c": 15,
+    "v": 61,
+    "t": "Les villes situées dans le désert sont Beth-Araba, Middin, Sekaka,",
+    "h": "",
+    "o": 61,
+    "l": "61"
+  },
+  {
+    "id": "6015062",
+    "b": 6,
+    "c": 15,
+    "v": 62,
+    "t": "Nibechan, la ville du sel, et En-Guédi. Cela fait 6 villes avec leurs villages.",
+    "h": "",
+    "o": 62,
+    "l": "62"
+  },
+  {
+    "id": "6015063",
+    "b": 6,
+    "c": 15,
+    "v": 63,
+    "t": "Les gens de Juda n’arrivent pas à chasser les Jébusites, qui habitent Jérusalem. Ceux-ci vivent donc encore aujourd’hui dans cette ville avec les Israélites.",
+    "h": "",
+    "o": 63,
+    "l": "63"
+  },
+  {
+    "id": "6016001",
+    "b": 6,
+    "c": 16,
+    "v": 1,
+    "t": "Voici le territoire que les gens de la famille de Joseph reçoivent par tirage au sort : la frontière part du fleuve Jourdain, près de Jéricho, à l’est de la source qui donne l’eau à la ville. Depuis Jéricho, elle traverse le désert, puis elle monte dans la région montagneuse de Béthel.",
+    "h": "Les territoires des tribus d’Éfraïm et de Manassé",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "6016002",
+    "b": 6,
+    "c": 16,
+    "v": 2,
+    "t": "De là, la frontière va vers Louz, passe par Ataroth, la ville des Arkites.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "6016003",
+    "b": 6,
+    "c": 16,
+    "v": 3,
+    "t": "Ensuite, elle descend à l’ouest, dans la région des Yaflétites. Elle traverse Beth-Horon-le-Bas et Guézer, puis elle arrive à la mer Méditerranée.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "6016004",
+    "b": 6,
+    "c": 16,
+    "v": 4,
+    "t": "Les gens de la famille de Joseph, c’est-à-dire les tribus de Manassé et d’Éfraïm, partagent ce territoire entre eux.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "6016005",
+    "b": 6,
+    "c": 16,
+    "v": 5,
+    "t": "Voici le territoire que les clans de la tribu d’Éfraïm reçoivent : à l’est, la frontière va d’Atroth-Adar jusqu’à Beth-Horon-le-Haut.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "6016006",
+    "b": 6,
+    "c": 16,
+    "v": 6,
+    "t": "Puis elle arrive à la mer Méditerranée. Au nord, elle passe près de Mikmétath. À l’est de Mikmétath, elle va vers Tanaath-Silo. Elle traverse cette ville pour aller à Yanoa.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "6016007",
+    "b": 6,
+    "c": 16,
+    "v": 7,
+    "t": "De là, elle descend à Ataroth et Naara, rejoint Jéricho et arrive au fleuve Jourdain.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "6016008",
+    "b": 6,
+    "c": 16,
+    "v": 8,
+    "t": "À l’ouest de Mikmétath, la frontière va de Tappoua jusqu’au torrent de Cana. Puis elle arrive à la mer Méditerranée. Voilà le territoire donné aux clans de la tribu d’Éfraïm.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "6016009",
+    "b": 6,
+    "c": 16,
+    "v": 9,
+    "t": "On leur donne aussi des villes avec leurs villages situés dans la région de la tribu de Manassé.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "6016010",
+    "b": 6,
+    "c": 16,
+    "v": 10,
+    "t": "Les gens de la tribu d’Éfraïm ne chassent pas les Cananéens qui habitent Guézer. Ceux-ci vivent donc encore aujourd’hui avec les Éfraïmites, qui les obligent à faire un travail d’esclaves.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "6017001",
+    "b": 6,
+    "c": 17,
+    "v": 1,
+    "t": "Les gens de la famille de Manassé, le fils aîné de Joseph, reçoivent aussi leur part de territoire. On a déjà donné un territoire aux gens de la famille de Makir, un combattant courageux, fils aîné de Manassé et le père de Galaad. Ils ont reçu la région de Galaad et du Bachan, à l’est du Jourdain.",
+    "h": "",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "6017002",
+    "b": 6,
+    "c": 17,
+    "v": 2,
+    "t": "Les autres clans de Manassé reçoivent aussi un territoire. Ces clans sont les clans d’Abiézer, d’Hélec, d’Asriel, de Chékem, d’Héfer et de Chemida, tous nés dans la famille de Manassé, fils de Joseph.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "6017003",
+    "b": 6,
+    "c": 17,
+    "v": 3,
+    "t": "Selofad était fils de Héfer et petit-fils de Galaad. Galaad était fils de Makir et petit-fils de Manassé. Or, Selofad n’a pas eu de fils, mais seulement des filles, qui s’appellent Mala, Noa, Hogla, Milka et Tirsa.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "6017004",
+    "b": 6,
+    "c": 17,
+    "v": 4,
+    "t": "Elles viennent trouver le prêtre Élazar, Josué, fils de Noun, et les responsables du peuple. Elles leur disent : « Le SEIGNEUR a commandé à Moïse de nous donner des terres en partage, comme aux hommes de notre tribu. » Les filles de Selofad reçoivent donc des terres comme les frères de leur père, selon le commandement du SEIGNEUR.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "6017005",
+    "b": 6,
+    "c": 17,
+    "v": 5,
+    "t": "La tribu de Manassé reçoit dix parts en plus de la région de Galaad et du Bachan, qui se trouvent de l’autre côté du fleuve Jourdain.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "6017006",
+    "b": 6,
+    "c": 17,
+    "v": 6,
+    "t": "En effet, on donne des terres non seulement aux hommes de la famille de Manassé, mais aussi à des femmes de la même tribu. La région de Galaad appartient aux autres gens de la famille de Manassé.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "6017007",
+    "b": 6,
+    "c": 17,
+    "v": 7,
+    "t": "Le territoire de Manassé s’étend d’Asser à Mikmétath, à l’est de Sichem. La frontière descend de Mikmétath vers le sud jusque chez les habitants d’En-Tappoua.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "6017008",
+    "b": 6,
+    "c": 17,
+    "v": 8,
+    "t": "La région appartient à Manassé, mais on donne la ville de Tappoua, située à la frontière, aux gens d’Éfraïm.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "6017009",
+    "b": 6,
+    "c": 17,
+    "v": 9,
+    "t": "Ensuite, la frontière descend au sud du torrent de Cana. On donne aux gens d’Éfraïm les villes situées à cet endroit. Pourtant, elles se trouvent sur le territoire de Manassé. Puis la frontière va de là au nord du torrent avant d’arriver à la mer Méditerranée.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "6017010",
+    "b": 6,
+    "c": 17,
+    "v": 10,
+    "t": "La tribu d’Éfraïm s’étend donc vers le sud, et celle de Manassé vers le nord. La mer Méditerranée forme leur frontière à l’ouest. La tribu d’Asser se trouve au nord-ouest de Manassé, et celle d’Issakar au nord-est.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "6017011",
+    "b": 6,
+    "c": 17,
+    "v": 11,
+    "t": "Dans le territoire d’Issakar et d’Asser, la tribu de Manassé reçoit Beth-Chéan et Ibléam avec les lieux qui en dépendent. Elle reçoit aussi Dor, En-Dor, Taanak, Méguiddo, avec leurs habitants, et les lieux voisins, c’est-à-dire les environs de Dor.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "6017012",
+    "b": 6,
+    "c": 17,
+    "v": 12,
+    "t": "Pourtant, les gens de Manassé n’arrivent pas à prendre possession de ces villes, et les Cananéens continuent à habiter là.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "6017013",
+    "b": 6,
+    "c": 17,
+    "v": 13,
+    "t": "Quand les Israélites sont devenus assez puissants, ils obligent les Cananéens à faire un travail d’esclaves, mais ils ne les chassent pas.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "6017014",
+    "b": 6,
+    "c": 17,
+    "v": 14,
+    "t": "Les gens de la famille de Joseph viennent dire à Josué : « Tu nous as donné une seule part du pays. Pourquoi ? Pourtant, le SEIGNEUR nous a bénis et nous a rendus très nombreux. »",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "6017015",
+    "b": 6,
+    "c": 17,
+    "v": 15,
+    "t": "Josué répond : « Si vous êtes nombreux et si la région montagneuse d’Éfraïm est trop petite pour vous, allez défricher des terres dans les forêts des Perizites et des Refaïtes. »",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "6017016",
+    "b": 6,
+    "c": 17,
+    "v": 16,
+    "t": "Les gens de Joseph disent : « C’est vrai, la région de la montagne ne nous suffit pas. Mais les Cananéens qui habitent dans les plaines ont des chars de fer, aussi bien ceux de Beth-Chéan et des lieux voisins que ceux de la vallée d’Izréel. »",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "6017017",
+    "b": 6,
+    "c": 17,
+    "v": 17,
+    "t": "Alors Josué dit aux gens de la famille de Joseph, c’est-à-dire aux gens d’Éfraïm et de Manassé : « Oui, vous êtes nombreux et très forts. Alors vous ne recevrez pas seulement une part dans le pays.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "6017018",
+    "b": 6,
+    "c": 17,
+    "v": 18,
+    "t": "Vous aurez aussi toute la région montagneuse couverte de forêts. Vous la défricherez et vous l’occuperez entièrement. Les Cananéens ont des chars de fer et ils sont puissants, mais vous réussirez à les chasser. »",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "6018001",
+    "b": 6,
+    "c": 18,
+    "v": 1,
+    "t": "Le pays est sous le pouvoir des Israélites. Alors toute la communauté se réunit à Silo, et là, ils installent la tente de la rencontre.",
+    "h": "Les sept tribus qui n’ont pas encore de territoire",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "6018002",
+    "b": 6,
+    "c": 18,
+    "v": 2,
+    "t": "Mais, parmi les Israélites, il reste encore sept tribus qui n’ont pas reçu de territoire en partage.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "6018003",
+    "b": 6,
+    "c": 18,
+    "v": 3,
+    "t": "Alors Josué leur dit : « Vous allez attendre jusqu’à quand pour prendre possession du pays que le SEIGNEUR, le Dieu de vos ancêtres, vous a donné ?",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "6018004",
+    "b": 6,
+    "c": 18,
+    "v": 4,
+    "t": "Choisissez trois hommes par tribu. Je les enverrai à travers le pays. Ils iront voir les parts de leur tribu et ils reviendront me décrire comment elles sont.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "6018005",
+    "b": 6,
+    "c": 18,
+    "v": 5,
+    "t": "Ils partageront le pays en sept parts. Les gens de la famille de Juda resteront sur leurs terres au sud, les gens de la famille de Joseph resteront sur leurs terres au nord.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "6018006",
+    "b": 6,
+    "c": 18,
+    "v": 6,
+    "t": "Préparez donc une description de ces sept parts et venez me la présenter ici. Alors, devant le SEIGNEUR notre Dieu, je tirerai au sort la part de chaque tribu.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "6018007",
+    "b": 6,
+    "c": 18,
+    "v": 7,
+    "t": "Mais les gens de la famille de Lévi ne recevront pas de terres en partage. En effet, leur part, c’est d’être prêtres au service du SEIGNEUR. Les tribus de Gad et de Ruben, et la demi-tribu de Manassé ont déjà reçu des terres en partage, à l’est du fleuve Jourdain. C’est Moïse, le serviteur du SEIGNEUR, qui les a distribuées. »",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "6018008",
+    "b": 6,
+    "c": 18,
+    "v": 8,
+    "t": "Les hommes choisis pour décrire le pays se préparent à partir. Avant le départ, Josué leur donne cet ordre : « Allez à travers le pays. Regardez-le attentivement, et revenez me décrire ce que vous avez vu. Ici, à Silo, je tirerai au sort devant le SEIGNEUR la part de chaque tribu. »",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "6018009",
+    "b": 6,
+    "c": 18,
+    "v": 9,
+    "t": "Les hommes vont à travers le pays. Ils mettent par écrit tout ce qui concerne les sept parts de territoire avec leurs villes. Ensuite, ils reviennent auprès de Josué, au camp de Silo.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "6018010",
+    "b": 6,
+    "c": 18,
+    "v": 10,
+    "t": "Josué tire ces parts au sort devant le SEIGNEUR et il les distribue aux Israélites. Il donne à chaque tribu la part de territoire qui est pour elle.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "6018011",
+    "b": 6,
+    "c": 18,
+    "v": 11,
+    "t": "La première part tirée au sort est celle des clans de la tribu de Benjamin. Leur territoire est situé entre celui de la famille de Juda et celui de la famille de Joseph.",
+    "h": "Le territoire de la tribu de Benjamin",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "6018012",
+    "b": 6,
+    "c": 18,
+    "v": 12,
+    "t": "Au nord, la frontière part du fleuve Jourdain, elle monte du côté nord de Jéricho, elle continue vers l’ouest à travers la région montagneuse jusqu’au désert de Beth-Aven.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "6018013",
+    "b": 6,
+    "c": 18,
+    "v": 13,
+    "t": "De là, elle va vers Louz, elle passe du côté sud de Louz, qu’on appelle aussi Béthel. Puis elle descend à Atroth-Addar à travers la montagne située au sud de Beth-Horon-le-Bas.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "6018014",
+    "b": 6,
+    "c": 18,
+    "v": 14,
+    "t": "À l’ouest de cette montagne, la frontière change de direction. Elle tourne vers le sud pour arriver à Quiriath-Baal, appelée aussi Quiriath-Yéarim, qui appartient à la tribu de Juda. Voilà la frontière de l’ouest.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "6018015",
+    "b": 6,
+    "c": 18,
+    "v": 15,
+    "t": "Au sud, la frontière part de Quiriath-Yéarim, elle va vers Gasin et elle arrive aux sources de Neftoa.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "6018016",
+    "b": 6,
+    "c": 18,
+    "v": 16,
+    "t": "De là, elle descend au pied de la montagne qui donne sur la vallée de Hinnom, au nord de la vallée des Refaïtes. Elle suit la vallée de Hinnom, sur le côté sud de la colline jébusite, et elle continue à descendre jusqu’à En-Roguel.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "6018017",
+    "b": 6,
+    "c": 18,
+    "v": 17,
+    "t": "Elle tourne alors vers le nord en direction d’En-Chémech, puis de Gueliloth, en face de la montée d’Adoumim. De là, elle descend vers la pierre de Bohan, un des fils de Ruben.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "6018018",
+    "b": 6,
+    "c": 18,
+    "v": 18,
+    "t": "Puis elle passe au nord de la hauteur qui donne sur la vallée du Jourdain, et elle descend dans cette vallée.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "6018019",
+    "b": 6,
+    "c": 18,
+    "v": 19,
+    "t": "Elle continue ensuite sur le côté nord de Beth-Hogla et elle arrive au nord de la mer Morte, à l’endroit où le Jourdain se jette dans cette mer. Voilà la frontière du sud.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "6018020",
+    "b": 6,
+    "c": 18,
+    "v": 20,
+    "t": "Le Jourdain forme la frontière à l’est. Voilà les limites du territoire donné aux clans de la tribu de Benjamin.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "6018021",
+    "b": 6,
+    "c": 18,
+    "v": 21,
+    "t": "Les villes appartenant aux clans de Benjamin sont : Jéricho, Beth-Hogla, Émec-Quessis,",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "6018022",
+    "b": 6,
+    "c": 18,
+    "v": 22,
+    "t": "Beth-Araba, Semaraïm, Béthel,",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "6018023",
+    "b": 6,
+    "c": 18,
+    "v": 23,
+    "t": "Avim, Para, Ofra,",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "6018024",
+    "b": 6,
+    "c": 18,
+    "v": 24,
+    "t": "Kefar-Ammona, Ofni et Guéba. Cela fait 12 villes avec leurs villages.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "6018025",
+    "b": 6,
+    "c": 18,
+    "v": 25,
+    "t": "Il y a aussi Gabaon, Rama, Beéroth,",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "6018026",
+    "b": 6,
+    "c": 18,
+    "v": 26,
+    "t": "Mispé, Kefira, Mossa,",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "6018027",
+    "b": 6,
+    "c": 18,
+    "v": 27,
+    "t": "Réquem, Irpéel, Tarala,",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "6018028",
+    "b": 6,
+    "c": 18,
+    "v": 28,
+    "t": "Séla, Élef, la ville jébusite, c’est-à-dire Jérusalem, Guibéa et Quiriath. Cela fait 14 villes avec leurs villages. Tout cela forme la part des clans de Benjamin.",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "6019001",
+    "b": 6,
+    "c": 19,
+    "v": 1,
+    "t": "La deuxième part tirée au sort est celle des clans de la tribu de Siméon. Leur territoire est entouré par des terres de la tribu de Juda.",
+    "h": "Le territoire de la tribu de Siméon",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "6019002",
+    "b": 6,
+    "c": 19,
+    "v": 2,
+    "t": "Il comprend les villes de Berchéba, Chéba, Molada,",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "6019003",
+    "b": 6,
+    "c": 19,
+    "v": 3,
+    "t": "Hassar-Choual, Baala, Essem,",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "6019004",
+    "b": 6,
+    "c": 19,
+    "v": 4,
+    "t": "Eltolad, Betoul, Horma,",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "6019005",
+    "b": 6,
+    "c": 19,
+    "v": 5,
+    "t": "Siclag, Beth-Markaboth, Hassar-Soussa,",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "6019006",
+    "b": 6,
+    "c": 19,
+    "v": 6,
+    "t": "Beth-Lebaoth et Charouen. Cela fait 13 villes avec leurs villages.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "6019007",
+    "b": 6,
+    "c": 19,
+    "v": 7,
+    "t": "Il comprend aussi Aïn, Rimmon, Éter et Achan. Cela fait 4 villes avec leurs villages.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "6019008",
+    "b": 6,
+    "c": 19,
+    "v": 8,
+    "t": "Il y a encore tous les villages autour de ces villes jusqu’à Baalath-Ber et Ramath-Néguev. Tout cela forme la part des clans de Siméon.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "6019009",
+    "b": 6,
+    "c": 19,
+    "v": 9,
+    "t": "Le territoire de la tribu de Siméon a été pris sur celui de Juda. En effet, les gens de la famille de Juda ont reçu une région trop grande pour eux. C’est pourquoi la tribu de Siméon est entourée par des terres de la tribu de Juda.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "6019010",
+    "b": 6,
+    "c": 19,
+    "v": 10,
+    "t": "La troisième part tirée au sort est celle des clans de la tribu de Zabulon. Leur territoire s’étend jusqu’à Sarid.",
+    "h": "Le territoire de la tribu de Zabulon",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "6019011",
+    "b": 6,
+    "c": 19,
+    "v": 11,
+    "t": "De là, la frontière monte vers l’ouest jusqu’à Marala, puis jusqu’à Dabbécheth et au torrent qui coule à l’est de Yocnéam.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "6019012",
+    "b": 6,
+    "c": 19,
+    "v": 12,
+    "t": "De l’autre côté de Sarid, la frontière va vers l’est, elle touche la région de Kisloth-Tabor, elle passe par Dabrath et monte jusqu’à Yafia.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "6019013",
+    "b": 6,
+    "c": 19,
+    "v": 13,
+    "t": "Ensuite, elle continue encore à l’est jusqu’à Gath-Héfer et Eth-Cassin, elle rejoint Rimmon et tourne vers Néa.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "6019014",
+    "b": 6,
+    "c": 19,
+    "v": 14,
+    "t": "Au nord, la frontière passe autour d’Hannaton et elle arrive dans la vallée de Ifta-El.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "6019015",
+    "b": 6,
+    "c": 19,
+    "v": 15,
+    "t": "Ce territoire comprend les villes de Cattath, Nahalal, Chimron, Idala et Bethléem. Cela fait 12 villes avec leur villages.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "6019016",
+    "b": 6,
+    "c": 19,
+    "v": 16,
+    "t": "Tous ces lieux se trouvent dans la part donnée aux clans de la tribu de Zabulon.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "6019017",
+    "b": 6,
+    "c": 19,
+    "v": 17,
+    "t": "La quatrième part tirée au sort est celle des clans de la tribu d’Issakar.",
+    "h": "Le territoire de la tribu d’Issakar",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "6019018",
+    "b": 6,
+    "c": 19,
+    "v": 18,
+    "t": "Leur territoire comprend Izréel, Kessouloth, Chounem,",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "6019019",
+    "b": 6,
+    "c": 19,
+    "v": 19,
+    "t": "Hafaraïm, Cion, Anaharath,",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "6019020",
+    "b": 6,
+    "c": 19,
+    "v": 20,
+    "t": "Rabbith, Quichion, Ébès,",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "6019021",
+    "b": 6,
+    "c": 19,
+    "v": 21,
+    "t": "Rémeth, En-Gannim, En-Hadda et Beth-Passès.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "6019022",
+    "b": 6,
+    "c": 19,
+    "v": 22,
+    "t": "La frontière touche à Tabor, Chassaïm, Beth-Chémech et elle arrive au fleuve Jourdain. Cela fait 16 villes avec leurs villages.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "6019023",
+    "b": 6,
+    "c": 19,
+    "v": 23,
+    "t": "Tous ces lieux se trouvent dans la part donnée aux clans de la tribu d’Issakar.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "6019024",
+    "b": 6,
+    "c": 19,
+    "v": 24,
+    "t": "La cinquième part tirée au sort est celle des clans de la tribu d’Asser.",
+    "h": "Le territoire de la tribu d’Asser",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "6019025",
+    "b": 6,
+    "c": 19,
+    "v": 25,
+    "t": "Leur territoire comprend Helcath, Hali, Béten, Akechaf,",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "6019026",
+    "b": 6,
+    "c": 19,
+    "v": 26,
+    "t": "Alamélek, Amad et Michal. À l’ouest, la frontière touche au mont Carmel suivant le torrent du Chihor-Libnath.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "6019027",
+    "b": 6,
+    "c": 19,
+    "v": 27,
+    "t": "À l’est, la frontière monte vers Beth-Dagon, elle touche le territoire de Zabulon et la vallée de Ifta-El. Puis elle va vers le nord pour arriver à Beth-Émec et Néiel. Elle continue ensuite dans la même direction, passe à Caboul,",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "6019028",
+    "b": 6,
+    "c": 19,
+    "v": 28,
+    "t": "Abdon, Rehob, Hammon et Cana, pour arriver près de Sidon, la grande ville.",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "6019029",
+    "b": 6,
+    "c": 19,
+    "v": 29,
+    "t": "Elle tourne alors vers Rama et vers les murs de défense qui protègent la ville de Tyr. Puis elle va vers Hossa. Elle passe par Mahalab, Akzib, Ouma, Afec et Rehob, et elle arrive à la mer Méditerranée. Cela fait en tout 22 villes avec leurs villages.",
+    "h": "",
+    "o": 29,
+    "l": "29-30"
+  },
+  {
+    "id": "6019030",
+    "b": 6,
+    "c": 19,
+    "v": 31,
+    "t": "Tous ces lieux se trouvent dans la part donnée aux clans de la tribu d’Asser.",
+    "h": "",
+    "o": 30,
+    "l": "31"
+  },
+  {
+    "id": "6019031",
+    "b": 6,
+    "c": 19,
+    "v": 32,
+    "t": "La sixième part tirée au sort est celle des clans de la tribu de Neftali.",
+    "h": "Le territoire de la tribu de Neftali",
+    "o": 31,
+    "l": "32"
+  },
+  {
+    "id": "6019032",
+    "b": 6,
+    "c": 19,
+    "v": 33,
+    "t": "Au sud, la frontière part de Hélef et du grand arbre sacré de Saananim. Elle passe par Adami-Nékeb et Yabnéel jusqu’à Laccoum, et elle arrive au fleuve Jourdain.",
+    "h": "",
+    "o": 32,
+    "l": "33"
+  },
+  {
+    "id": "6019033",
+    "b": 6,
+    "c": 19,
+    "v": 34,
+    "t": "À l’ouest, la frontière tourne vers Aznoth-Tabor, elle va à Houcoc, puis le long des terres de Zabulon au sud, et le long des terres d’Asser à l’ouest. À l’est, c’est le Jourdain qui forme la frontière.",
+    "h": "",
+    "o": 33,
+    "l": "34"
+  },
+  {
+    "id": "6019034",
+    "b": 6,
+    "c": 19,
+    "v": 35,
+    "t": "Les villes protégées par des murs de défense sont : Siddim, Ser, Hammath, Raccath, Kinnéreth,",
+    "h": "",
+    "o": 34,
+    "l": "35"
+  },
+  {
+    "id": "6019035",
+    "b": 6,
+    "c": 19,
+    "v": 36,
+    "t": "Adama, Rama, Hassor,",
+    "h": "",
+    "o": 35,
+    "l": "36"
+  },
+  {
+    "id": "6019036",
+    "b": 6,
+    "c": 19,
+    "v": 37,
+    "t": "Quédech, Édréi, En-Hassor,",
+    "h": "",
+    "o": 36,
+    "l": "37"
+  },
+  {
+    "id": "6019037",
+    "b": 6,
+    "c": 19,
+    "v": 38,
+    "t": "Iron, Migdal-El, Horem, Beth-Anath et Beth-Chémech. Cela fait en tout 19 villes avec leurs villages.",
+    "h": "",
+    "o": 37,
+    "l": "38"
+  },
+  {
+    "id": "6019038",
+    "b": 6,
+    "c": 19,
+    "v": 39,
+    "t": "Tous ces lieux se trouvent dans la part donnée aux clans de la tribu de Neftali.",
+    "h": "",
+    "o": 38,
+    "l": "39"
+  },
+  {
+    "id": "6019039",
+    "b": 6,
+    "c": 19,
+    "v": 40,
+    "t": "La septième part tirée au sort est celle des clans de la tribu de Dan.",
+    "h": "Le territoire de la tribu de Dan",
+    "o": 39,
+    "l": "40"
+  },
+  {
+    "id": "6019040",
+    "b": 6,
+    "c": 19,
+    "v": 41,
+    "t": "Leur territoire comprend : Sora, Èchetaol, Ir-Chémech,",
+    "h": "",
+    "o": 40,
+    "l": "41"
+  },
+  {
+    "id": "6019041",
+    "b": 6,
+    "c": 19,
+    "v": 42,
+    "t": "Chaalabin, Ayalon, Itla,",
+    "h": "",
+    "o": 41,
+    "l": "42"
+  },
+  {
+    "id": "6019042",
+    "b": 6,
+    "c": 19,
+    "v": 43,
+    "t": "Élon, Timna, Écron,",
+    "h": "",
+    "o": 42,
+    "l": "43"
+  },
+  {
+    "id": "6019043",
+    "b": 6,
+    "c": 19,
+    "v": 44,
+    "t": "Eltequé, Guibeton, Baalath,",
+    "h": "",
+    "o": 43,
+    "l": "44"
+  },
+  {
+    "id": "6019044",
+    "b": 6,
+    "c": 19,
+    "v": 45,
+    "t": "Yehoud, Bené-Barac, Gath-Rimmon,",
+    "h": "",
+    "o": 44,
+    "l": "45"
+  },
+  {
+    "id": "6019045",
+    "b": 6,
+    "c": 19,
+    "v": 46,
+    "t": "le fleuve Yarcon, la ville de Raccon, et les terres autour de Jaffa.",
+    "h": "",
+    "o": 45,
+    "l": "46"
+  },
+  {
+    "id": "6019046",
+    "b": 6,
+    "c": 19,
+    "v": 47,
+    "t": "Quand les gens de la tribu de Dan perdent leur territoire, ils vont attaquer Léchem. Ils prennent la ville et tuent les habitants. Ils l’occupent complètement et s’installent là. Alors ils donnent à Léchem le nom de Dan, leur ancêtre.",
+    "h": "",
+    "o": 46,
+    "l": "47"
+  },
+  {
+    "id": "6019047",
+    "b": 6,
+    "c": 19,
+    "v": 48,
+    "t": "Tous ces lieux se trouvent dans la part donnée aux clans de la tribu de Dan.",
+    "h": "",
+    "o": 47,
+    "l": "48"
+  },
+  {
+    "id": "6019048",
+    "b": 6,
+    "c": 19,
+    "v": 49,
+    "t": "Quand les Israélites ont fini de partager le pays entre eux, ils donnent une part de territoire à Josué, fils de Noun.",
+    "h": "",
+    "o": 48,
+    "l": "49"
+  },
+  {
+    "id": "6019049",
+    "b": 6,
+    "c": 19,
+    "v": 50,
+    "t": "Comme le SEIGNEUR l’a commandé, ils lui donnent la ville qu’il a demandée. Cette ville, c’est Timnath-Séra, dans la région montagneuse d’Éfraïm. Josué reconstruit la ville et il habite là.",
+    "h": "",
+    "o": 49,
+    "l": "50"
+  },
+  {
+    "id": "6019050",
+    "b": 6,
+    "c": 19,
+    "v": 51,
+    "t": "Le prêtre Élazar, Josué, fils de Noun, et les chefs de famille des tribus israélites ont donc réparti ces territoires en tirant au sort. Ils ont fait cela à Silo, devant le SEIGNEUR, à l’entrée de la tente de la rencontre. C’est ainsi qu’ils ont fini de partager le pays de Canaan.",
+    "h": "",
+    "o": 50,
+    "l": "51"
+  },
+  {
+    "id": "6020001",
+    "b": 6,
+    "c": 20,
+    "v": 1,
+    "t": "Le SEIGNEUR demande à Josué",
+    "h": "Les villes de refuge",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "6020002",
+    "b": 6,
+    "c": 20,
+    "v": 2,
+    "t": "de dire aux Israélites : « Vous allez choisir des villes de refuge. Moi, le SEIGNEUR, je vous en ai déjà parlé par l’intermédiaire de Moïse.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "6020003",
+    "b": 6,
+    "c": 20,
+    "v": 3,
+    "t": "Celui qui tue une personne sans le vouloir pourra se réfugier là. De cette façon, il échappera à l’homme chargé de venger le mort.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "6020004",
+    "b": 6,
+    "c": 20,
+    "v": 4,
+    "t": "Quand celui qui a tué sans le vouloir arrivera à la ville de refuge, il s’arrêtera à l’entrée, là où les affaires du peuple sont jugées. Il expliquera aux anciens de la ville ce qui s’est passé. Les anciens le laisseront entrer dans la ville et ils lui montreront un endroit où il pourra habiter.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "6020005",
+    "b": 6,
+    "c": 20,
+    "v": 5,
+    "t": "Supposons ceci : L’homme chargé de venger le mort poursuit celui qui a tué jusque dans cette ville. Les habitants ne doivent pas le livrer. En effet, il n’a jamais détesté la personne qui est morte : il l’a tuée sans le vouloir.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "6020006",
+    "b": 6,
+    "c": 20,
+    "v": 6,
+    "t": "Il restera donc dans cette ville jusqu’à ce que la communauté le juge. Il y restera jusqu’à la mort du grand-prêtre qui est en service à ce moment-là. Ensuite, il pourra rentrer chez lui, dans la ville d’où il a fui. »",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "6020007",
+    "b": 6,
+    "c": 20,
+    "v": 7,
+    "t": "Voici les villes que les Israélites mettent à part : Quédech en Galilée, dans la région montagneuse de Neftali, Sichem, dans la région montagneuse d’Éfraïm, Quiriath-Arba, appelée aussi Hébron, dans la région montagneuse de Juda.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "6020008",
+    "b": 6,
+    "c": 20,
+    "v": 8,
+    "t": "De l’autre côté du fleuve Jourdain, à l’est de Jéricho, ils choisissent d’abord Besser. C’est une ville située dans le désert, sur le plateau qui appartient à la tribu de Ruben. Ils choisissent aussi Ramoth, en Galaad, qui appartient à la tribu de Gad, et dans le Bachan, Golan, qui appartient à la tribu de Manassé.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "6020009",
+    "b": 6,
+    "c": 20,
+    "v": 9,
+    "t": "Les Israélites choisissent ces villes pour servir de refuge à tous les membres du peuple et aux étrangers installés chez eux. De cette façon, si quelqu’un tue une personne sans le vouloir, il peut échapper à l’homme chargé de venger le mort. Ainsi, lui-même ne risque pas d’être tué avant que la communauté le juge.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "6021001",
+    "b": 6,
+    "c": 21,
+    "v": 1,
+    "t": "Les chefs de famille de la tribu de Lévi viennent trouver le prêtre Élazar, Josué, fils de Noun, et les chefs de famille des autres tribus israélites,",
+    "h": "Les villes des lévites",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "6021002",
+    "b": 6,
+    "c": 21,
+    "v": 2,
+    "t": "à Silo, dans le pays de Canaan. Ils leur disent : « Vous devez nous donner des villes où nous pourrons habiter, avec des pâturages proches pour nos animaux. Le SEIGNEUR a commandé cela par l’intermédiaire de Moïse. »",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "6021003",
+    "b": 6,
+    "c": 21,
+    "v": 3,
+    "t": "Les Israélites choisissent donc dans leurs territoires un certain nombre de villes avec des pâturages. Ils les donnent aux lévites, comme le SEIGNEUR l’a commandé.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "6021004",
+    "b": 6,
+    "c": 21,
+    "v": 4,
+    "t": "Les clans de la famille de Quéhath sont choisis par tirage au sort. Parmi les lévites, les gens de la famille du prêtre Aaron reçoivent par le sort 13 villes situées sur les territoires de Juda, Siméon et Benjamin.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "6021005",
+    "b": 6,
+    "c": 21,
+    "v": 5,
+    "t": "Les autres lévites de la famille de Quéhath reçoivent par le sort 10 villes situées sur le territoire d’Éfraïm, de Dan et de la demi-tribu de Manassé qui vit à l’ouest du fleuve Jourdain.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "6021006",
+    "b": 6,
+    "c": 21,
+    "v": 6,
+    "t": "Les clans de la famille de Guerchon reçoivent par le sort 13 villes. Elles sont situées sur les territoires d’Issakar, d’Asser, de Neftali et de la demi-tribu de Manassé qui vit dans le Bachan.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "6021007",
+    "b": 6,
+    "c": 21,
+    "v": 7,
+    "t": "Les clans de la famille de Merari reçoivent par le sort 12 villes. Elles sont situées sur les territoires de Ruben, Gad et Zabulon.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "6021008",
+    "b": 6,
+    "c": 21,
+    "v": 8,
+    "t": "Les Israélites donnent aux lévites ces villes-là avec leurs pâturages en les tirant au sort. Voilà ce que le SEIGNEUR a commandé par l’intermédiaire de Moïse.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "6021009",
+    "b": 6,
+    "c": 21,
+    "v": 9,
+    "t": "Voici les noms des villes de Juda et de Siméon données",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "6021010",
+    "b": 6,
+    "c": 21,
+    "v": 10,
+    "t": "aux gens de la famille d’Aaron, du clan de Quéhath, fils de Lévi. En effet, ils ont été choisis les premiers par le sort.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "6021011",
+    "b": 6,
+    "c": 21,
+    "v": 11,
+    "t": "Ils reçoivent Quiriath-Arba, ou ville d’Arba, l’ancêtre des Anaquites. Maintenant, cette ville s’appelle Hébron. Elle est située dans la région montagneuse de Juda. Ils reçoivent cette ville avec les pâturages qui l’entourent.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "6021012",
+    "b": 6,
+    "c": 21,
+    "v": 12,
+    "t": "Mais les champs et les villages qui dépendent de la ville ont déjà été donnés à Caleb, fils de Yefounné.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "6021013",
+    "b": 6,
+    "c": 21,
+    "v": 13,
+    "t": "Les gens de la famille du prêtre Aaron reçoivent donc Hébron, qui est une ville de refuge. Ils reçoivent aussi Libna,",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "6021014",
+    "b": 6,
+    "c": 21,
+    "v": 14,
+    "t": "Yattir, Echtemoa,",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "6021015",
+    "b": 6,
+    "c": 21,
+    "v": 15,
+    "t": "Holon, Debir,",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "6021016",
+    "b": 6,
+    "c": 21,
+    "v": 16,
+    "t": "Achan, Youtta, Beth-Chémech. Cela fait 9 villes avec leurs pâturages, situées dans les territoires de Juda et de Siméon.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "6021017",
+    "b": 6,
+    "c": 21,
+    "v": 17,
+    "t": "Dans le territoire de Benjamin, ils reçoivent Gabaon, Guéba,",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "6021018",
+    "b": 6,
+    "c": 21,
+    "v": 18,
+    "t": "Anatoth, Alémeth. Cela fait 4 villes avec leurs pâturages.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "6021019",
+    "b": 6,
+    "c": 21,
+    "v": 19,
+    "t": "Les prêtres de la famille d’Aaron reçoivent en tout 13 villes avec leurs pâturages.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "6021020",
+    "b": 6,
+    "c": 21,
+    "v": 20,
+    "t": "Les autres clans de gens de la famille de Quéhath reçoivent par le sort des villes de la tribu d’Éfraïm :",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "6021021",
+    "b": 6,
+    "c": 21,
+    "v": 21,
+    "t": "Sichem, une des villes de refuge, dans la région montagneuse d’Éfraïm, Guézer,",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "6021022",
+    "b": 6,
+    "c": 21,
+    "v": 22,
+    "t": "Quibsaïm et Beth-Horon. Cela fait 4 villes avec leurs pâturages.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "6021023",
+    "b": 6,
+    "c": 21,
+    "v": 23,
+    "t": "Dans le territoire de Dan, ils reçoivent aussi 4 villes avec leurs pâturages : Eltequé, Guibeton,",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "6021024",
+    "b": 6,
+    "c": 21,
+    "v": 24,
+    "t": "Ayalon et Gath-Rimmon.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "6021025",
+    "b": 6,
+    "c": 21,
+    "v": 25,
+    "t": "Dans le territoire de la demi-tribu de Manassé à l’ouest du Jourdain, ils reçoivent les 2 villes de Taanak et Ibléam, avec leurs pâturages.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "6021026",
+    "b": 6,
+    "c": 21,
+    "v": 26,
+    "t": "Ils reçoivent donc en tout 10 villes avec leurs pâturages.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "6021027",
+    "b": 6,
+    "c": 21,
+    "v": 27,
+    "t": "D’autres clans de lévites, ceux de la famille de Guerchon, reçoivent 2 villes avec leurs pâturages dans le territoire de la demi-tribu de Manassé à l’est du Jourdain : Golan, dans le Bachan, une des villes de refuge, et Bèchetera.",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "6021028",
+    "b": 6,
+    "c": 21,
+    "v": 28,
+    "t": "Dans le territoire d’Issakar, ils reçoivent 4 villes avec leurs pâturages : Quichion, Dabrath,",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "6021029",
+    "b": 6,
+    "c": 21,
+    "v": 29,
+    "t": "Yarmouth et En-Gannim.",
+    "h": "",
+    "o": 29,
+    "l": "29"
+  },
+  {
+    "id": "6021030",
+    "b": 6,
+    "c": 21,
+    "v": 30,
+    "t": "Dans le territoire d’Asser, ils reçoivent aussi 4 villes avec leurs pâturages : Michal, Abdon,",
+    "h": "",
+    "o": 30,
+    "l": "30"
+  },
+  {
+    "id": "6021031",
+    "b": 6,
+    "c": 21,
+    "v": 31,
+    "t": "Helcath et Rehob.",
+    "h": "",
+    "o": 31,
+    "l": "31"
+  },
+  {
+    "id": "6021032",
+    "b": 6,
+    "c": 21,
+    "v": 32,
+    "t": "Dans le territoire de Neftali, ils reçoivent 3 villes avec leurs pâturages : Quédech, en Galilée, une ville de refuge, Hammoth-Dor et Cartan.",
+    "h": "",
+    "o": 32,
+    "l": "32"
+  },
+  {
+    "id": "6021033",
+    "b": 6,
+    "c": 21,
+    "v": 33,
+    "t": "Les clans de Guerchon reçoivent en tout 13 villes avec leurs pâturages.",
+    "h": "",
+    "o": 33,
+    "l": "33"
+  },
+  {
+    "id": "6021034",
+    "b": 6,
+    "c": 21,
+    "v": 34,
+    "t": "Les autres clans de lévites, ceux de la famille de Merari, reçoivent 4 villes avec leurs pâturages, dans le territoire de Zabulon : Yocnéam, Carta,",
+    "h": "",
+    "o": 34,
+    "l": "34"
+  },
+  {
+    "id": "6021035",
+    "b": 6,
+    "c": 21,
+    "v": 35,
+    "t": "Dimna et Nahalal.",
+    "h": "",
+    "o": 35,
+    "l": "35"
+  },
+  {
+    "id": "6021036",
+    "b": 6,
+    "c": 21,
+    "v": 36,
+    "t": "Dans le territoire de Ruben, à l’est du Jourdain, en face de Jéricho, ils reçoivent aussi 4 villes avec leurs pâturages : Besser, une ville de refuge située dans le désert, Yahas,",
+    "h": "",
+    "o": 36,
+    "l": "36"
+  },
+  {
+    "id": "6021037",
+    "b": 6,
+    "c": 21,
+    "v": 37,
+    "t": "Quedémoth et Méfaath.",
+    "h": "",
+    "o": 37,
+    "l": "37"
+  },
+  {
+    "id": "6021038",
+    "b": 6,
+    "c": 21,
+    "v": 38,
+    "t": "Dans le territoire de Gad, ils reçoivent 4 villes avec leurs pâturages : Ramoth, une ville de refuge située en Galaad, Mahanaïm,",
+    "h": "",
+    "o": 38,
+    "l": "38"
+  },
+  {
+    "id": "6021039",
+    "b": 6,
+    "c": 21,
+    "v": 39,
+    "t": "Hèchebon et Yazer.",
+    "h": "",
+    "o": 39,
+    "l": "39"
+  },
+  {
+    "id": "6021040",
+    "b": 6,
+    "c": 21,
+    "v": 40,
+    "t": "Les clans de lévites de la famille de Merari reçoivent en tout 12 villes par tirage au sort.",
+    "h": "",
+    "o": 40,
+    "l": "40"
+  },
+  {
+    "id": "6021041",
+    "b": 6,
+    "c": 21,
+    "v": 41,
+    "t": "Les gens de Lévi reçoivent en tout 48 villes prises sur les territoires des autres Israélites.",
+    "h": "",
+    "o": 41,
+    "l": "41"
+  },
+  {
+    "id": "6021042",
+    "b": 6,
+    "c": 21,
+    "v": 42,
+    "t": "On leur donne toutes ces villes avec les pâturages qui les entourent.",
+    "h": "",
+    "o": 42,
+    "l": "42"
+  },
+  {
+    "id": "6021043",
+    "b": 6,
+    "c": 21,
+    "v": 43,
+    "t": "Le SEIGNEUR donne aux Israélites tout le pays qu’il a promis à leurs ancêtres. Ils en prennent possession et s’installent là.",
+    "h": "",
+    "o": 43,
+    "l": "43"
+  },
+  {
+    "id": "6021044",
+    "b": 6,
+    "c": 21,
+    "v": 44,
+    "t": "Le SEIGNEUR leur donne la paix sur toutes les frontières, comme il l’a promis à leurs ancêtres. Le SEIGNEUR leur donne la victoire sur tous leurs ennemis. Aucun d’eux ne peut leur résister.",
+    "h": "",
+    "o": 44,
+    "l": "44"
+  },
+  {
+    "id": "6021045",
+    "b": 6,
+    "c": 21,
+    "v": 45,
+    "t": "De cette façon, toutes les promesses que le SEIGNEUR a faites au peuple d’Israël se réalisent. Aucune ne reste sans résultat.",
+    "h": "",
+    "o": 45,
+    "l": "45"
+  },
+  {
+    "id": "6022001",
+    "b": 6,
+    "c": 22,
+    "v": 1,
+    "t": "Alors Josué réunit les hommes des tribus de Ruben, de Gad et de la demi-tribu de Manassé installée à l’est du fleuve Jourdain.",
+    "h": "Les tribus à l’est du Jourdain",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "6022002",
+    "b": 6,
+    "c": 22,
+    "v": 2,
+    "t": "Il leur dit : « Vous avez obéi à tous les ordres de Moïse, le serviteur du SEIGNEUR, et vous avez fait tout ce que je vous ai commandé.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "6022003",
+    "b": 6,
+    "c": 22,
+    "v": 3,
+    "t": "Pendant longtemps et jusqu’à aujourd’hui, vous n’avez pas abandonné vos frères israélites. Ainsi, vous avez obéi aux ordres du SEIGNEUR votre Dieu.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "6022004",
+    "b": 6,
+    "c": 22,
+    "v": 4,
+    "t": "Maintenant, le SEIGNEUR votre Dieu a accordé à vos frères de s’installer en paix dans leur pays, comme il l’avait promis. Vous pouvez donc rentrer chez vous, à l’est du Jourdain. C’est la région que Moïse, le serviteur du SEIGNEUR, vous a donnée en partage.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "6022005",
+    "b": 6,
+    "c": 22,
+    "v": 5,
+    "t": "Mais obéissez avec soin à toute la loi que Moïse, le serviteur du SEIGNEUR, vous a donnée. Aimez le SEIGNEUR votre Dieu, faites tout ce qu’il demande. Obéissez à ses commandements, attachez-vous à lui, servez-le de tout votre cœur et de toutes vos forces. »",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "6022006",
+    "b": 6,
+    "c": 22,
+    "v": 6,
+    "t": "Ensuite, Josué les bénit et il leur demande de rentrer chez eux.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "6022007",
+    "b": 6,
+    "c": 22,
+    "v": 7,
+    "t": "Moïse a donné un territoire dans le Bachan, à l’est du Jourdain, à une moitié de la tribu de Manassé. À l’autre moitié de cette tribu, Josué a donné un territoire situé, comme ceux des autres tribus, à l’ouest du Jourdain. Josué demande à la première moitié de la tribu de Manassé de rentrer chez elle, à l’est du Jourdain. Il les bénit",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "6022008",
+    "b": 6,
+    "c": 22,
+    "v": 8,
+    "t": "et leur dit : « Retournez chez vous avec de grandes richesses et beaucoup de troupeaux, avec de l’argent, de l’or, du cuivre, du fer et beaucoup de vêtements. Partagez avec vos frères israélites ces richesses prises à vos ennemis. »",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "6022009",
+    "b": 6,
+    "c": 22,
+    "v": 9,
+    "t": "Les hommes des tribus de Ruben et de Gad, et de la demi-tribu de Manassé, rentrent chez eux. Ils quittent les autres Israélites à Silo, dans le pays de Canaan. Ils vont dans le pays de Galaad, la région qu’ils ont reçue en partage. Le SEIGNEUR avait commandé par l’intermédiaire de Moïse qu’on leur donne ce pays.",
+    "h": "Les tribus de l’est construisent un autel",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "6022010",
+    "b": 6,
+    "c": 22,
+    "v": 10,
+    "t": "Ils arrivent au bord du fleuve Jourdain, du côté qui est encore en Canaan. Là, ils construisent un autel immense, près du fleuve.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "6022011",
+    "b": 6,
+    "c": 22,
+    "v": 11,
+    "t": "On vient alors raconter aux autres Israélites : « Les tribus de Ruben, de Gad et la demi-tribu de Manassé qui vit à l’est du Jourdain ont construit un autel au bord du fleuve, de notre côté, en Canaan. »",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "6022012",
+    "b": 6,
+    "c": 22,
+    "v": 12,
+    "t": "Quand les autres Israélites apprennent cette nouvelle, ils se réunissent tout de suite à Silo. Ils veulent partir attaquer les tribus à l’est du Jourdain.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "6022013",
+    "b": 6,
+    "c": 22,
+    "v": 13,
+    "t": "Ils envoient Pinhas, fils du prêtre Élazar, dans le pays de Galaad. Celui-ci doit parler aux tribus de Ruben, de Gad et à la demi-tribu de Manassé.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "6022014",
+    "b": 6,
+    "c": 22,
+    "v": 14,
+    "t": "Dix responsables du peuple vont avec lui, un par tribu. Ce sont tous des chefs de famille, dans les clans d’Israël.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "6022015",
+    "b": 6,
+    "c": 22,
+    "v": 15,
+    "t": "Ils se rendent dans le pays de Galaad, auprès des tribus de l’est. Ils leur disent",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "6022016",
+    "b": 6,
+    "c": 22,
+    "v": 16,
+    "t": "de la part de toute la communauté : « Vous avez commis une faute très grave envers le Dieu d’Israël. Vous vous éloignez du SEIGNEUR. En construisant un autel pour vous, vous vous révoltez contre lui. Qu’est-ce que tout cela veut dire ?",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "6022017",
+    "b": 6,
+    "c": 22,
+    "v": 17,
+    "t": "À Péor, nous avons déjà commis une faute. Alors, un grand malheur est tombé sur tout le peuple, la communauté du SEIGNEUR. Et aujourd’hui encore, nous en supportons les conséquences. Est-ce que cela ne suffit pas ?",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "6022018",
+    "b": 6,
+    "c": 22,
+    "v": 18,
+    "t": "Or vous, aujourd’hui, vous vous éloignez du SEIGNEUR. Si vous vous révoltez aujourd’hui contre lui, demain, c’est contre toute la communauté d’Israël qu’il se mettra en colère.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "6022019",
+    "b": 6,
+    "c": 22,
+    "v": 19,
+    "t": "Vous trouvez peut-être que votre territoire est impur. Dans ce cas, revenez dans le pays qui appartient au SEIGNEUR, là où se trouve sa tente. Venez occuper des territoires au milieu des nôtres. Mais ne vous révoltez pas contre le SEIGNEUR et contre nous, en bâtissant un autel autre que celui du SEIGNEUR notre Dieu.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "6022020",
+    "b": 6,
+    "c": 22,
+    "v": 20,
+    "t": "Akan, arrière-petit-fils de Zéra, a commis une faute grave avec les biens qu’il était interdit de prendre, vous le savez. Après cela, c’est sur toute la communauté du peuple d’Israël que la colère du SEIGNEUR est tombée. Et Akan n’a pas été seul à mourir à cause de sa faute. »",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "6022021",
+    "b": 6,
+    "c": 22,
+    "v": 21,
+    "t": "Les gens de la famille de Ruben, de Gad et de la demi-tribu de Manassé, répondent aux chefs de clans des autres tribus :",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "6022022",
+    "b": 6,
+    "c": 22,
+    "v": 22,
+    "t": "« Le SEIGNEUR est Dieu au-dessus de tous les dieux. Oui, il est Dieu au-dessus de tous les dieux, et il sait pourquoi nous avons agi ainsi. Tous les Israélites le sauront aussi. Est-ce que c’est une révolte, une faute grave envers le SEIGNEUR ? Dans ce cas, que le SEIGNEUR ne nous laisse pas en vie plus longtemps !",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "6022023",
+    "b": 6,
+    "c": 22,
+    "v": 23,
+    "t": "Est-ce que nous avons bâti un autel pour nous détourner du SEIGNEUR ? Est-ce pour offrir sur cet autel des sacrifices complets, des offrandes de produits du sol, ou des sacrifices de communion ? Si c’est cela, que le SEIGNEUR lui-même nous punisse !",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "6022024",
+    "b": 6,
+    "c": 22,
+    "v": 24,
+    "t": "Mais ce n’est pas le cas. Voici pourquoi nous avons agi ainsi : nous avions peur que plus tard, vos fils disent à nos fils : “Qu’est-ce qu’il y a de commun entre vous et le SEIGNEUR, Dieu d’Israël ?",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "6022025",
+    "b": 6,
+    "c": 22,
+    "v": 25,
+    "t": "Le SEIGNEUR lui-même a placé le Jourdain comme frontière entre nous et vous, gens de Ruben et de Gad. Non, vous n’avez pas le droit de servir le SEIGNEUR.” Ainsi, vos fils pourraient pousser nos fils à ne plus respecter le SEIGNEUR.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "6022026",
+    "b": 6,
+    "c": 22,
+    "v": 26,
+    "t": "C’est pour cela que nous avons décidé de construire cet autel, et non pas pour offrir dessus des sacrifices complets ou d’autres sacrifices.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "6022027",
+    "b": 6,
+    "c": 22,
+    "v": 27,
+    "t": "Nous voulons une seule chose : cet autel doit prouver que nous avons le droit de servir le SEIGNEUR par nos sacrifices complets, nos sacrifices de communion et nos autres sacrifices. Cet autel servira de témoin pour nous et pour vous, et aussi pour ceux qui naîtront de nous. Alors plus tard, vos fils ne diront pas à nos fils : “Vous n’avez pas le droit de servir le SEIGNEUR.”",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "6022028",
+    "b": 6,
+    "c": 22,
+    "v": 28,
+    "t": "Voici ce que nous avons pensé : si plus tard, des gens nous disent cela, à nous ou à nos enfants, nous pourrons répondre : “Regardez, nos ancêtres ont donné à cet autel la même forme que celle de l’autel du SEIGNEUR. Pourtant, ils ne l’ont pas construit pour offrir dessus des sacrifices complets ou d’autres sacrifices. Ils l’ont construit pour qu’il soit un témoin entre nous et vous.”",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "6022029",
+    "b": 6,
+    "c": 22,
+    "v": 29,
+    "t": "Donc, nous n’avons pas du tout l’intention de nous révolter contre le SEIGNEUR et de nous détourner de lui. Nous n’avons pas bâti un autel pour offrir dessus des sacrifices complets, des offrandes de produits du sol et d’autres sacrifices. Nous ne voulons rien offrir ailleurs que sur l’autel du SEIGNEUR notre Dieu situé devant sa tente. »",
+    "h": "",
+    "o": 29,
+    "l": "29"
+  },
+  {
+    "id": "6022030",
+    "b": 6,
+    "c": 22,
+    "v": 30,
+    "t": "Le prêtre Pinhas, les responsables du peuple et les chefs des clans israélites acceptent les explications des gens de Ruben, de Gad et de Manassé.",
+    "h": "",
+    "o": 30,
+    "l": "30"
+  },
+  {
+    "id": "6022031",
+    "b": 6,
+    "c": 22,
+    "v": 31,
+    "t": "Pinhas, fils du prêtre Élazar, leur dit : « Maintenant, nous le savons, le SEIGNEUR est avec nous. Vous n’avez pas commis de faute grave contre lui. Ainsi, vous évitez aux Israélites d’être punis par le SEIGNEUR. »",
+    "h": "",
+    "o": 31,
+    "l": "31"
+  },
+  {
+    "id": "6022032",
+    "b": 6,
+    "c": 22,
+    "v": 32,
+    "t": "Ensuite, Pinhas, fils du prêtre Élazar, et les responsables du peuple laissent les gens de Ruben et de Gad. Ils quittent le pays de Galaad pour revenir en Canaan et ils rendent compte aux autres Israélites de ce qui s’est passé.",
+    "h": "",
+    "o": 32,
+    "l": "32"
+  },
+  {
+    "id": "6022033",
+    "b": 6,
+    "c": 22,
+    "v": 33,
+    "t": "Les Israélites sont satisfaits et ils remercient Dieu. Ils renoncent à attaquer les tribus de Ruben et de Gad et à détruire leur pays.",
+    "h": "",
+    "o": 33,
+    "l": "33"
+  },
+  {
+    "id": "6022034",
+    "b": 6,
+    "c": 22,
+    "v": 34,
+    "t": "Alors les gens de Ruben et de Gad disent : « Cet autel témoigne pour nous tous que le SEIGNEUR est Dieu. » Et ils donnent à cet autel le nom de « Témoin ».",
+    "h": "",
+    "o": 34,
+    "l": "34"
+  },
+  {
+    "id": "6023001",
+    "b": 6,
+    "c": 23,
+    "v": 1,
+    "t": "Le SEIGNEUR donne la paix pendant longtemps au peuple d’Israël, en le délivrant de tous les ennemis qui l’entourent. Josué est devenu très vieux.",
+    "h": "Dernières recommandations de Josué",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "6023002",
+    "b": 6,
+    "c": 23,
+    "v": 2,
+    "t": "Il réunit tous les Israélites, leurs anciens, leurs chefs, leurs juges et leurs officiers. Il leur dit : « Je suis très vieux.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "6023003",
+    "b": 6,
+    "c": 23,
+    "v": 3,
+    "t": "Vous avez pu voir tout ce que le SEIGNEUR votre Dieu a fait contre les peuples de ces régions à cause de vous. Il a combattu lui-même pour vous.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "6023004",
+    "b": 6,
+    "c": 23,
+    "v": 4,
+    "t": "Vous voyez, maintenant j’ai partagé entre vos tribus, en tirant au sort, les territoires des peuples que j’ai déjà vaincus. Je vous ai donné aussi les régions des peuples qui restent encore à conquérir depuis le fleuve Jourdain, à l’est, jusqu’à la mer Méditerranée, à l’ouest.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "6023005",
+    "b": 6,
+    "c": 23,
+    "v": 5,
+    "t": "Le SEIGNEUR votre Dieu les repoussera lui-même loin de vous, il les chassera devant vous. Alors vous pourrez prendre possession de leur pays, comme il l’a promis.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "6023006",
+    "b": 6,
+    "c": 23,
+    "v": 6,
+    "t": "Soyez donc très forts et efforcez-vous d’agir selon ce qui est écrit dans le livre de la loi de Moïse. Ne vous en éloignez jamais.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "6023007",
+    "b": 6,
+    "c": 23,
+    "v": 7,
+    "t": "Ne vous mélangez pas aux populations qui restent encore au milieu de vous. Ne priez pas leurs dieux. Quand vous faites des serments, n’utilisez pas les noms de leurs dieux. Ne vous mettez pas à genoux devant eux pour les adorer.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "6023008",
+    "b": 6,
+    "c": 23,
+    "v": 8,
+    "t": "Attachez-vous seulement au SEIGNEUR votre Dieu, comme vous l’avez fait jusqu’à maintenant.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "6023009",
+    "b": 6,
+    "c": 23,
+    "v": 9,
+    "t": "Le SEIGNEUR a chassé devant vous des peuples importants et puissants, et jusqu’à maintenant, personne n’a pu vous résister.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "6023010",
+    "b": 6,
+    "c": 23,
+    "v": 10,
+    "t": "Un seul parmi vous peut faire fuir 1 000 ennemis. En effet, le SEIGNEUR combat pour vous, comme il vous l’a promis.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "6023011",
+    "b": 6,
+    "c": 23,
+    "v": 11,
+    "t": "Faites donc attention à vous-mêmes : aimez le SEIGNEUR votre Dieu.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "6023012",
+    "b": 6,
+    "c": 23,
+    "v": 12,
+    "t": "En effet, voici ce qui peut arriver : Vous vous détournez du SEIGNEUR, vous vous unissez aux peuples qui restent encore parmi vous. Vous vous mariez avec leurs filles, vous allez chez eux et ils viennent chez vous.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "6023013",
+    "b": 6,
+    "c": 23,
+    "v": 13,
+    "t": "Dans ce cas, vous devez le savoir : le SEIGNEUR votre Dieu ne continuera pas à chasser ces peuples devant vous. Ils deviendront pour vous des pièges, ils seront comme des trous où vous tomberez. Ils seront comme des fouets qui vous frappent le dos, ils seront comme des épines dans vos yeux. À la fin, vous disparaîtrez de ce bon pays que le SEIGNEUR votre Dieu vous a donné.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "6023014",
+    "b": 6,
+    "c": 23,
+    "v": 14,
+    "t": "Pour ma part, je vais bientôt quitter cette terre. Mais vous devez être entièrement d’accord avec ceci : le SEIGNEUR vous a fait beaucoup de promesses, et il les a toutes réalisées. Aucune des paroles qu’il vous a dites n’est restée sans résultat.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "6023015",
+    "b": 6,
+    "c": 23,
+    "v": 15,
+    "t": "Eh bien, de même que le SEIGNEUR votre Dieu a tenu ses promesses, de même il réalisera ses menaces contre vous. S’il le faut, il vous fera disparaître du bon pays qu’il vous a lui-même donné.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "6023016",
+    "b": 6,
+    "c": 23,
+    "v": 16,
+    "t": "Supposons ceci : Vous n’obéissez pas à l’alliance que le SEIGNEUR votre Dieu vous a commandé de respecter, vous vous tournez vers d’autres dieux et vous vous mettez à genoux pour les adorer. Alors le SEIGNEUR se mettra en colère contre vous, et vous disparaîtrez très vite du bon pays qu’il vous a donné. »",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "6024001",
+    "b": 6,
+    "c": 24,
+    "v": 1,
+    "t": "À Sichem, Josué réunit toutes les tribus d’Israël. Il appelle les anciens, les chefs, les juges et les officiers d’Israël. Ils viennent se présenter devant Dieu.",
+    "h": "À Sichem, toutes les tribus d’Israël décident de servir le Seigneur",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "6024002",
+    "b": 6,
+    "c": 24,
+    "v": 2,
+    "t": "Alors Josué dit à tout le peuple de la part du SEIGNEUR, Dieu d’Israël : « Autrefois, vos ancêtres habitaient de l’autre côté de l’Euphrate, le grand fleuve, et ils adoraient d’autres dieux. C’était la famille de Téra, le père d’Abraham et de Nahor.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "6024003",
+    "b": 6,
+    "c": 24,
+    "v": 3,
+    "t": "Moi, le SEIGNEUR, j’ai fait sortir votre ancêtre Abraham du pays situé de l’autre côté de l’Euphrate et je l’ai conduit à travers tout le pays de Canaan. J’ai agrandi sa famille. Je lui ai donné Isaac",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "6024004",
+    "b": 6,
+    "c": 24,
+    "v": 4,
+    "t": "et à Isaac, j’ai donné Jacob et Ésaü. J’ai donné à Ésaü la région de la montagne de Séir pour qu’il habite là. Jacob et ses fils sont allés en Égypte.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "6024005",
+    "b": 6,
+    "c": 24,
+    "v": 5,
+    "t": "Plus tard, j’ai envoyé Moïse et Aaron et j’ai frappé l’Égypte de plusieurs malheurs. Ensuite, j’ai fait sortir vos ancêtres de ce pays.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "6024006",
+    "b": 6,
+    "c": 24,
+    "v": 6,
+    "t": "Ils ont quitté l’Égypte, puis ils sont arrivés à la mer des Roseaux. Mais les Égyptiens les ont poursuivis jusqu’à cet endroit, avec des chars et des cavaliers.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "6024007",
+    "b": 6,
+    "c": 24,
+    "v": 7,
+    "t": "Alors vos ancêtres m’ont appelé à l’aide, et j’ai placé un nuage sombre entre votre peuple et les Égyptiens. J’ai fait revenir l’eau de la mer sur les Égyptiens, et la mer les a recouverts. Vous savez bien ce que j’ai fait aux Égyptiens. Après cela, votre peuple est resté longtemps dans le désert.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "6024008",
+    "b": 6,
+    "c": 24,
+    "v": 8,
+    "t": "Ensuite, je vous ai conduits à l’est du fleuve Jourdain, dans le pays des Amorites. Ils vous ont attaqués, et je les ai livrés en votre pouvoir. Vous avez conquis leur pays parce que je les ai détruits devant vous.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "6024009",
+    "b": 6,
+    "c": 24,
+    "v": 9,
+    "t": "Puis le roi de Moab, Balac, le fils de Sippor, a combattu également contre vous. Pour vous jeter des malédictions, il a même appelé Balaam, le fils de Béor.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "6024010",
+    "b": 6,
+    "c": 24,
+    "v": 10,
+    "t": "Mais je n’ai pas voulu écouter Balaam. Il a dû vous bénir et ainsi, je vous ai délivrés du pouvoir de Balac.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "6024011",
+    "b": 6,
+    "c": 24,
+    "v": 11,
+    "t": "Ensuite, vous avez traversé le Jourdain et vous êtes arrivés à Jéricho. Les habitants de Jéricho ont combattu contre vous, ainsi que les Amorites, les Perizites, les Cananéens, les Hittites, les Guirgachites, les Hivites et les Jébusites. Je les ai tous livrés en votre pouvoir.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "6024012",
+    "b": 6,
+    "c": 24,
+    "v": 12,
+    "t": "J’ai envoyé devant vous de grosses guêpes, qui ont fait fuir les deux rois amorites. Vos lances et vos arcs n’y étaient pour rien.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "6024013",
+    "b": 6,
+    "c": 24,
+    "v": 13,
+    "t": "Ainsi, je vous ai donné un pays que vous n’avez pas cultivé. Je vous ai donné des villes que vous n’avez pas bâties, mais vous y habitez. Je vous ai donné des vignes et des oliviers que vous n’avez pas plantés, mais vous mangez leurs fruits. »",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "6024014",
+    "b": 6,
+    "c": 24,
+    "v": 14,
+    "t": "Josué dit encore : « Respectez le SEIGNEUR et servez-le fidèlement de tout votre cœur. Quand vos ancêtres étaient de l’autre côté de l’Euphrate ou en Égypte, ils adoraient d’autres dieux. Abandonnez ces dieux et servez le SEIGNEUR.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "6024015",
+    "b": 6,
+    "c": 24,
+    "v": 15,
+    "t": "Si le service du SEIGNEUR ne vous plaît pas, alors choisissez aujourd’hui les dieux que vous voulez adorer. Choisissez ceux que vos ancêtres adoraient de l’autre côté de l’Euphrate, ou bien les dieux des Amorites, car vous habitez dans leur pays. Mais ma famille et moi, nous servirons le SEIGNEUR. »",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "6024016",
+    "b": 6,
+    "c": 24,
+    "v": 16,
+    "t": "Le peuple répond : « Pas du tout ! Nous n’avons pas l’intention d’abandonner le SEIGNEUR pour servir d’autres dieux !",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "6024017",
+    "b": 6,
+    "c": 24,
+    "v": 17,
+    "t": "En effet, le SEIGNEUR notre Dieu nous a arrachés, nous et nos ancêtres, à l’Égypte, où nous étions esclaves. Il a fait alors des actions étonnantes, nous le savons bien. Il nous a protégés tout au long du chemin où nous avons marché, et au milieu de tous les peuples où nous sommes passés.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "6024018",
+    "b": 6,
+    "c": 24,
+    "v": 18,
+    "t": "Le SEIGNEUR a chassé devant nous tous les peuples, en particulier les Amorites qui habitaient ce pays. C’est pourquoi nous aussi, nous servirons le SEIGNEUR, parce qu’il est notre Dieu. »",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "6024019",
+    "b": 6,
+    "c": 24,
+    "v": 19,
+    "t": "Alors Josué dit au peuple : « Vous ne serez pas capables de servir le SEIGNEUR. C’est un Dieu saint, et il veut être votre seul Dieu. Il n’acceptera ni vos révoltes ni vos péchés.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "6024020",
+    "b": 6,
+    "c": 24,
+    "v": 20,
+    "t": "Si vous abandonnez le SEIGNEUR pour servir des dieux étrangers, il se tournera contre vous. Il vous fera du mal et il vous détruira après vous avoir fait du bien. »",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "6024021",
+    "b": 6,
+    "c": 24,
+    "v": 21,
+    "t": "Le peuple répond : « Mais non ! C’est le SEIGNEUR que nous servirons ! »",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "6024022",
+    "b": 6,
+    "c": 24,
+    "v": 22,
+    "t": "Josué dit au peuple : « Vous êtes témoins à l’égard de vous-mêmes : c’est vous qui choisissez de servir le SEIGNEUR. » Ils répondent : « Oui, nous en sommes témoins. »",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "6024023",
+    "b": 6,
+    "c": 24,
+    "v": 23,
+    "t": "Josué dit : « Alors, maintenant, abandonnez les dieux étrangers qui sont chez vous ! Et attachez-vous de tout votre cœur au SEIGNEUR, Dieu d’Israël ! »",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "6024024",
+    "b": 6,
+    "c": 24,
+    "v": 24,
+    "t": "Le peuple répond : « Nous servirons le SEIGNEUR notre Dieu et nous lui obéirons ! »",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "6024025",
+    "b": 6,
+    "c": 24,
+    "v": 25,
+    "t": "Ce jour-là, à Sichem, Josué établit une alliance au nom du peuple. Il lui donne des lois et des commandements.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "6024026",
+    "b": 6,
+    "c": 24,
+    "v": 26,
+    "t": "Josué écrit ces paroles dans le livre de la loi de Dieu. Puis il prend une grande pierre. Il la dresse sous un grand arbre, dans le lieu saint du SEIGNEUR.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "6024027",
+    "b": 6,
+    "c": 24,
+    "v": 27,
+    "t": "Ensuite, il dit à tout le peuple : « Regardez cette pierre, elle servira de témoin à notre égard. En effet, elle a entendu toutes les paroles que le SEIGNEUR nous a dites. Elle servira donc de témoin à votre égard pour vous empêcher de dire non à Dieu. »",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "6024028",
+    "b": 6,
+    "c": 24,
+    "v": 28,
+    "t": "Alors Josué renvoie le peuple, et chacun retourne sur la part de terre qui est à lui.",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "6024029",
+    "b": 6,
+    "c": 24,
+    "v": 29,
+    "t": "Après cela, Josué, fils de Noun et serviteur du SEIGNEUR, meurt. Il a 110 ans.",
+    "h": "Après la mort de Josué",
+    "o": 29,
+    "l": "29"
+  },
+  {
+    "id": "6024030",
+    "b": 6,
+    "c": 24,
+    "v": 30,
+    "t": "On l’enterre dans la propriété qu’il a reçue à Timnath-Séra, dans la région montagneuse d’Éfraïm, au nord du mont Gaach.",
+    "h": "",
+    "o": 30,
+    "l": "30"
+  },
+  {
+    "id": "6024031",
+    "b": 6,
+    "c": 24,
+    "v": 31,
+    "t": "Les Israélites ont servi le SEIGNEUR pendant toute la vie de Josué. Ils continuent aussi après sa mort, pendant toute la vie des anciens, qui ont vu les actions du SEIGNEUR en faveur du peuple d’Israël.",
+    "h": "",
+    "o": 31,
+    "l": "31"
+  },
+  {
+    "id": "6024032",
+    "b": 6,
+    "c": 24,
+    "v": 32,
+    "t": "Les Israélites enterrent à Sichem les os de Joseph, qu’ils ont apportés d’Égypte. Jacob avait acheté une partie d’un champ pour cent pièces d’argent, aux enfants de Hamor, le fondateur de Sichem. Ce champ appartient maintenant aux gens de la famille de Joseph. C’est dans ce champ qu’ils enterrent les os de Joseph.",
+    "h": "",
+    "o": 32,
+    "l": "32"
+  },
+  {
+    "id": "6024033",
+    "b": 6,
+    "c": 24,
+    "v": 33,
+    "t": "Élazar, fils d’Aaron, meurt aussi. On l’enterre sur la colline qu’on a donnée à son fils Pinhas, dans la région montagneuse d’Éfraïm.",
+    "h": "",
+    "o": 33,
+    "l": "33"
+  }
+]

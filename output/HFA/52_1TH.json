@@ -1,0 +1,892 @@
+[
+  {
+    "id": "52001001",
+    "b": 52,
+    "c": 1,
+    "v": 1,
+    "t": "Paulus, Silvanus und Timotheus schreiben diesen Brief an die Gemeinde in Thessalonich, die zu Gott, dem Vater, und zu dem Herrn Jesus Christus gehört. Wir wünschen euch Gottes Gnade und seinen Frieden.",
+    "h": "Der vorbildliche Glaube der Thessalonicher\n(Kapitel 1)\nAnschrift und Gruß",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "52001002",
+    "b": 52,
+    "c": 1,
+    "v": 2,
+    "t": "Wir danken Gott immer wieder für euch alle. Jedes Mal wenn wir beten, denken wir auch an euch.",
+    "h": "Ein Glaube in Wort und Tat",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "52001003",
+    "b": 52,
+    "c": 1,
+    "v": 3,
+    "t": "Vor Gott, unserem Vater, erinnern wir uns, mit welcher Selbstverständlichkeit ihr euren Glauben in die Tat umsetzt, zu welchem unermüdlichen Einsatz ihr aus Liebe bereit seid und wie standhaft euch die Hoffnung auf das Kommen unseres Herrn Jesus Christus macht.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "52001004",
+    "b": 52,
+    "c": 1,
+    "v": 4,
+    "t": "Gott liebt euch, liebe Brüder und Schwestern, und wir wissen, dass er euch erwählt hat.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "52001005",
+    "b": 52,
+    "c": 1,
+    "v": 5,
+    "t": "Denn als wir euch die rettende Botschaft verkündeten, da wirkte Gott nicht allein durch unsere Worte, sondern mit seiner ganzen Kraft. Sein Heiliger Geist stand uns bei und gab uns von Anfang an die Gewissheit, dass unsere Predigt bei euch nicht ins Leere gehen würde. Ihr wisst ja selbst, wie wir uns verhielten, während wir bei euch waren: Bei allem, was wir taten, ging es uns nur um euch.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "52001006",
+    "b": 52,
+    "c": 1,
+    "v": 6,
+    "t": "Nun seid ihr unserem Beispiel und dem unseres Herrn gefolgt. Und obwohl ihr deswegen viel leiden musstet, habt ihr Gottes Botschaft mit einer solchen Freude aufgenommen, wie sie nur der Heilige Geist schenken kann.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "52001007",
+    "b": 52,
+    "c": 1,
+    "v": 7,
+    "t": "So seid ihr für die Christen in ganz Mazedonien und in der Provinz Achaja zum Vorbild geworden.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "52001008",
+    "b": 52,
+    "c": 1,
+    "v": 8,
+    "t": "Aber nicht nur dort hat sich die Botschaft des Herrn durch euch verbreitet, auch an allen anderen Orten spricht man von eurem Glauben, so dass wir darüber nichts mehr berichten müssen.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "52001009",
+    "b": 52,
+    "c": 1,
+    "v": 9,
+    "t": "Im Gegenteil! Überall erzählt man, wie freundlich ihr uns aufgenommen habt, dass ihr nicht länger die toten Götzen anbetet, sondern zu dem lebendigen, wahren Gott umgekehrt seid und ihm allein dient.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "52001010",
+    "b": 52,
+    "c": 1,
+    "v": 10,
+    "t": "Und so wartet ihr nun auf seinen Sohn, auf Jesus, den er von den Toten auferweckt hat und der für alle sichtbar vom Himmel kommen wird. Er allein rettet uns vor Gottes Zorn im kommenden Gericht.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "52002001",
+    "b": 52,
+    "c": 2,
+    "v": 1,
+    "t": "Ihr wisst ja selbst, liebe Brüder und Schwestern, dass unsere Mühe nicht vergeblich war, als wir zum ersten Mal Gottes Botschaft bei euch verkündeten.",
+    "h": "Die Anfänge der Gemeinde und der Besuch von Timotheus\n(Kapitel 2–3)\nWie alles begann",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "52002002",
+    "b": 52,
+    "c": 2,
+    "v": 2,
+    "t": "Und ihr wisst auch, dass wir vorher in Philippi viel zu leiden hatten und misshandelt worden waren. Aber Gott hat uns den Mut und die Kraft gegeben, euch seine rettende Botschaft zu verkünden – trotz aller Widerstände, mit denen wir fertigwerden mussten.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "52002003",
+    "b": 52,
+    "c": 2,
+    "v": 3,
+    "t": "Wenn wir Menschen auffordern, diese Botschaft anzunehmen, erzählen wir ja keine Märchen. Wir machen auch niemandem etwas vor oder führen die Leute hinters Licht.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "52002004",
+    "b": 52,
+    "c": 2,
+    "v": 4,
+    "t": "Im Gegenteil, Gott selbst hat uns geprüft und für vertrauenswürdig erachtet. Er hat uns beauftragt, die rettende Botschaft zu verkünden – deshalb und nur deshalb sagen wir sie weiter. Wir wollen nicht Menschen damit gefallen, sondern Gott. Ihn können wir nicht täuschen, denn er kennt unser Herz.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "52002005",
+    "b": 52,
+    "c": 2,
+    "v": 5,
+    "t": "Ihr wisst auch, dass wir euch niemals mit Schmeicheleien einfangen wollten und dass es uns nicht um unseren eigenen Vorteil ging. Dafür ist Gott unser Zeuge.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "52002006",
+    "b": 52,
+    "c": 2,
+    "v": 6,
+    "t": "Niemals wollten wir persönliches Ansehen gewinnen – weder bei euch noch bei anderen Leuten.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "52002007",
+    "b": 52,
+    "c": 2,
+    "v": 7,
+    "t": "Als Apostel von Jesus Christus hätten wir bei euch doch auf unsere besondere Autorität pochen können; stattdessen gingen wir liebevoll mit euch um wie eine Mutter, die für ihre Kinder sorgt.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "52002008",
+    "b": 52,
+    "c": 2,
+    "v": 8,
+    "t": "Aus Liebe zu euch waren wir nicht nur dazu bereit, euch Gottes rettende Botschaft zu verkünden, sondern auch unser ganzes Leben mit euch zu teilen. So sehr hatten wir euch liebgewonnen.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "52002009",
+    "b": 52,
+    "c": 2,
+    "v": 9,
+    "t": "Ihr erinnert euch doch sicher daran, liebe Brüder und Schwestern, wie sehr wir uns geplagt und abgemüht haben. Als wir euch Gottes rettende Botschaft verkündeten, haben wir Tag und Nacht für unseren Lebensunterhalt gearbeitet, um niemandem von euch zur Last zu fallen.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "52002010",
+    "b": 52,
+    "c": 2,
+    "v": 10,
+    "t": "Gott weiß es, und ihr wisst es auch, dass wir euch, die ihr zum Glauben gekommen seid, so behandelt haben, wie es Gott gefällt. Wir verhielten uns vorbildlich und ließen uns nichts zuschulden kommen.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "52002011",
+    "b": 52,
+    "c": 2,
+    "v": 11,
+    "t": "Ihr wisst, wie ich mich um euch gekümmert habe. Wie ein Vater seine Kinder habe ich jeden Einzelnen von euch",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "52002012",
+    "b": 52,
+    "c": 2,
+    "v": 12,
+    "t": "ermahnt und ermutigt, ja, beschworen, ein Leben zu führen, das Gott ehrt. Denn er beruft euch dazu, in seinem Reich zu leben und seine Herrlichkeit mit ihm zu teilen.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "52002013",
+    "b": 52,
+    "c": 2,
+    "v": 13,
+    "t": "Immer wieder danken wir Gott dafür, dass ihr seine Botschaft, die ihr von uns gehört habt, nicht als Menschenwort betrachtet habt; ihr habt sie als das aufgenommen, was sie ja tatsächlich ist, als Gottes Wort. Und nun entfaltet dieses Wort seine Kraft in eurem Leben, weil ihr ihm Glauben geschenkt habt.",
+    "h": "Gottes Kraft wirkt",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "52002014",
+    "b": 52,
+    "c": 2,
+    "v": 14,
+    "t": "Ihr, liebe Brüder und Schwestern, wurdet wegen eures Glaubens genauso verfolgt wie die christlichen Gemeinden in Judäa. Ihr hattet von euren Landsleuten dasselbe zu erleiden wie sie von ihren jüdischen Landsleuten.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "52002015",
+    "b": 52,
+    "c": 2,
+    "v": 15,
+    "t": "Diese haben Jesus, den Herrn, getötet, wie sie vorher schon ihre Propheten töteten, und jetzt verfolgen sie auch uns. So missfallen sie Gott. Sie wenden sich gegen alle Menschen,",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "52002016",
+    "b": 52,
+    "c": 2,
+    "v": 16,
+    "t": "indem sie uns daran zu hindern versuchen, den Nichtjuden die rettende Botschaft zu verkünden. So machen sie das Maß ihrer Sünden immer voller; Gottes Zorn hat sie in seiner ganzen Härte getroffen.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "52002017",
+    "b": 52,
+    "c": 2,
+    "v": 17,
+    "t": "Doch nun zurück zu uns, liebe Brüder und Schwestern: Nach unserem Abschied von euch kamen wir uns wie verwaist vor. Auch wenn wir nur für kurze Zeit voneinander getrennt waren, so waren wir in Gedanken doch immer bei euch. Weil wir euch aber unbedingt wiedersehen wollten, haben wir alles Mögliche unternommen, um zu euch zu reisen.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "52002018",
+    "b": 52,
+    "c": 2,
+    "v": 18,
+    "t": "Wir waren fest dazu entschlossen, und ich, Paulus, versuchte es sogar mehrmals. Aber bisher hat der Satan alle diese Pläne durchkreuzt.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "52002019",
+    "b": 52,
+    "c": 2,
+    "v": 19,
+    "t": "Doch wir werden nicht aufgeben. Denn seid nicht ihr unsere Hoffnung und Freude, der Siegespreis, auf den wir stolz sein können, wenn Jesus, unser Herr, kommt?",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "52002020",
+    "b": 52,
+    "c": 2,
+    "v": 20,
+    "t": "Ja, ihr seid unser Stolz und unsere Freude!",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "52003001",
+    "b": 52,
+    "c": 3,
+    "v": 1,
+    "t": "Wir hielten es einfach nicht länger aus, ohne Nachricht von euch zu sein. Deswegen entschlossen wir uns, allein in Athen zu bleiben",
+    "h": "Besuch von Timotheus in Thessalonich",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "52003002",
+    "b": 52,
+    "c": 3,
+    "v": 2,
+    "t": "und unseren Bruder Timotheus zu euch zu schicken. Er dient ja Gott zusammen mit uns, indem er die rettende Botschaft von Christus verkündet. Timotheus nun sollte euch in eurem Glauben stärken und ermutigen,",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "52003003",
+    "b": 52,
+    "c": 3,
+    "v": 3,
+    "t": "damit ihr in all den Anfeindungen, die ihr erfahrt, standhaft bleibt. Ihr wisst ja selbst, dass solche Leiden zu unserem Leben als Christen dazugehören.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "52003004",
+    "b": 52,
+    "c": 3,
+    "v": 4,
+    "t": "Schon als wir bei euch waren, haben wir immer wieder darüber gesprochen. Und jetzt wisst ihr es aus eigener Erfahrung.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "52003005",
+    "b": 52,
+    "c": 3,
+    "v": 5,
+    "t": "Das ist auch der Grund, weshalb ich es nicht länger aushalten konnte, nichts von euch zu hören, und weshalb ich Timotheus zu euch geschickt habe. Er sollte mir berichten, ob euer Glaube all diesen Angriffen standgehalten hat oder ob euch der Versucher zu Fall bringen konnte. Dann allerdings wäre all unsere Arbeit vergeblich gewesen.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "52003006",
+    "b": 52,
+    "c": 3,
+    "v": 6,
+    "t": "Doch jetzt ist Timotheus zurückgekehrt. Er hat uns gute Nachrichten von eurem Glauben und eurer Liebe gebracht und uns erzählt, dass ihr euch gerne an uns erinnert und euch ein Wiedersehen ebenso sehnlich wünscht wie wir.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "52003007",
+    "b": 52,
+    "c": 3,
+    "v": 7,
+    "t": "Von eurem Glauben zu hören, liebe Brüder und Schwestern, hat uns in unserer eigenen Not und Bedrängnis getröstet.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "52003008",
+    "b": 52,
+    "c": 3,
+    "v": 8,
+    "t": "Wir leben wieder auf, seit wir wissen, dass ihr unbeirrt beim Herrn bleibt.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "52003009",
+    "b": 52,
+    "c": 3,
+    "v": 9,
+    "t": "Wie sollen wir Gott nur dafür danken, dass er uns durch euch so viel Freude schenkt!",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "52003010",
+    "b": 52,
+    "c": 3,
+    "v": 10,
+    "t": "Tag und Nacht bitten wir ihn inständig um die Gelegenheit, euch wiederzusehen und euch im Glauben weiterzuhelfen.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "52003011",
+    "b": 52,
+    "c": 3,
+    "v": 11,
+    "t": "So bitten wir Gott, unseren Vater, und Jesus, unseren Herrn, uns recht bald zu euch zu führen.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "52003012",
+    "b": 52,
+    "c": 3,
+    "v": 12,
+    "t": "Euch aber schenke der Herr immer größere Liebe zueinander und zu allen anderen Menschen – eine Liebe, wie wir sie euch gegenüber haben.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "52003013",
+    "b": 52,
+    "c": 3,
+    "v": 13,
+    "t": "So werdet ihr innerlich stark, ihr lebt ganz für Gott, unseren Vater, und könnt frei von aller Schuld vor ihn treten, wenn Jesus, unser Herr, kommt mit allen, die zu ihm gehören.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "52004001",
+    "b": 52,
+    "c": 4,
+    "v": 1,
+    "t": "Um eins möchten wir euch noch bitten, liebe Brüder und Schwestern. Wir haben euch bereits gelehrt, wie ihr leben sollt, damit Gott Freude an euch hat. Wir wissen auch, dass ihr euch danach richtet. Doch nun bitten wir euch eindringlich im Namen unseres Herrn Jesus: Gebt euch mit dem Erreichten nicht zufrieden, sondern macht noch mehr Fortschritte!",
+    "h": "Hoffnung auf das Kommen von Christus\n(Kapitel 4–5)\nWie Christen leben sollen",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "52004002",
+    "b": 52,
+    "c": 4,
+    "v": 2,
+    "t": "Ihr kennt ja die Anweisungen, die wir euch in seinem Auftrag gegeben haben.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "52004003",
+    "b": 52,
+    "c": 4,
+    "v": 3,
+    "t": "Gott will, dass ihr ganz und gar ihm gehört. Hütet euch deshalb vor einem sexuell unmoralischen Leben.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "52004004",
+    "b": 52,
+    "c": 4,
+    "v": 4,
+    "t": "Jeder von euch soll lernen, seinen Körper unter Kontrolle zu haben, so wie es Gott gefällt und in den Augen der Menschen anständig ist.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "52004005",
+    "b": 52,
+    "c": 4,
+    "v": 5,
+    "t": "Ungezügelte Leidenschaft ist ein Kennzeichen der Menschen, die Gott nicht kennen.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "52004006",
+    "b": 52,
+    "c": 4,
+    "v": 6,
+    "t": "Keiner von euch darf seine Grenzen überschreiten und seinen Mitmenschen mit dessen Ehepartner betrügen. Denn wir haben es euch bereits mit allem Nachdruck gesagt: Wer so etwas tut, wird in Gott einen unbestechlichen Richter finden.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "52004007",
+    "b": 52,
+    "c": 4,
+    "v": 7,
+    "t": "Gott hat uns nicht zu einem ausschweifenden Leben berufen, sondern wir sollen ihn mit unserem Leben ehren.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "52004008",
+    "b": 52,
+    "c": 4,
+    "v": 8,
+    "t": "Wer sich über diese Anweisungen hinwegsetzt, der verachtet nicht Menschen; er verachtet Gott, dessen Heiliger Geist in euch wohnt.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "52004009",
+    "b": 52,
+    "c": 4,
+    "v": 9,
+    "t": "Dass ihr als Christen einander in Liebe begegnen sollt, brauchen wir euch nicht mehr zu sagen. Gott selbst hat euch gezeigt, wie ihr einander lieben sollt.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "52004010",
+    "b": 52,
+    "c": 4,
+    "v": 10,
+    "t": "Ihr beweist diese Liebe ja auch an euren Brüdern und Schwestern in ganz Mazedonien. Trotzdem, gebt euch damit nicht zufrieden; denn eure Liebe kann nie groß genug sein.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "52004011",
+    "b": 52,
+    "c": 4,
+    "v": 11,
+    "t": "Achtet darauf, ein geregeltes Leben zu führen. Kümmert euch um eure eigenen Angelegenheiten und sorgt selbst für euren Lebensunterhalt, so wie wir es euch schon immer aufgetragen haben.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "52004012",
+    "b": 52,
+    "c": 4,
+    "v": 12,
+    "t": "Auf diese Weise lebt ihr nicht auf Kosten anderer, und die Menschen außerhalb der Gemeinde werden euch achten.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "52004013",
+    "b": 52,
+    "c": 4,
+    "v": 13,
+    "t": "Und nun, liebe Brüder und Schwestern, möchten wir euch nicht im Unklaren darüber lassen, was mit den Christen ist, die schon gestorben sind. Ihr sollt nicht so trauern müssen wie die Menschen, denen die Hoffnung auf das ewige Leben fehlt.",
+    "h": "Hoffnung über den Tod hinaus",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "52004014",
+    "b": 52,
+    "c": 4,
+    "v": 14,
+    "t": "Wir glauben doch, dass Jesus gestorben und auferstanden ist. Darum haben wir auch die Gewissheit, dass Gott alle, die im Glauben an Jesus Christus gestorben sind, auferwecken wird. Dann werden sie genauso dabei sein, wenn er kommt.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "52004015",
+    "b": 52,
+    "c": 4,
+    "v": 15,
+    "t": "Was wir euch jetzt schreiben, gründet sich auf ein Wort, das der Herr selbst gesagt hat: Wir, die beim Kommen des Herrn noch am Leben sind, werden den Verstorbenen nichts voraushaben.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "52004016",
+    "b": 52,
+    "c": 4,
+    "v": 16,
+    "t": "Auf den Befehl Gottes werden die Stimme des höchsten Engels und der Schall der Posaune ertönen, und Christus, der Herr, wird vom Himmel herabkommen. Als Erste werden die auferstehen, die im Glauben an Christus gestorben sind.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "52004017",
+    "b": 52,
+    "c": 4,
+    "v": 17,
+    "t": "Dann werden wir, die wir zu diesem Zeitpunkt noch leben, mit ihnen zusammen unserem Herrn auf Wolken entgegengeführt, um ihm zu begegnen. So werden wir für immer bei ihm sein.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "52004018",
+    "b": 52,
+    "c": 4,
+    "v": 18,
+    "t": "Tröstet euch also gegenseitig mit dieser Hoffnung.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "52005001",
+    "b": 52,
+    "c": 5,
+    "v": 1,
+    "t": "Wann das alles sein wird, zu welcher Zeit und Stunde, brauchen wir euch, liebe Brüder und Schwestern, nicht zu schreiben.",
+    "h": "Wir warten auf Christus",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "52005002",
+    "b": 52,
+    "c": 5,
+    "v": 2,
+    "t": "Ihr wisst selbst ganz genau, dass der Tag, an dem der Herr kommt, so unerwartet eintreffen wird wie ein Dieb in der Nacht.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "52005003",
+    "b": 52,
+    "c": 5,
+    "v": 3,
+    "t": "Wenn sich die Leute in Sicherheit wiegen und sagen werden: »Überall ist Ruhe und Frieden«, wird sie das Ende so plötzlich überfallen wie die Wehen eine schwangere Frau. Es wird für niemanden mehr einen Ausweg aus dem Verderben geben.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "52005004",
+    "b": 52,
+    "c": 5,
+    "v": 4,
+    "t": "Doch ihr, liebe Brüder und Schwestern, lebt ja nicht in der Finsternis. Also kann euch der Tag, an dem der Herr kommt, auch nicht wie ein Dieb in der Nacht überraschen.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "52005005",
+    "b": 52,
+    "c": 5,
+    "v": 5,
+    "t": "Ihr alle lebt im Licht; ihr gehört zum hellen Tag und nicht zur Nacht mit ihrer Finsternis.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "52005006",
+    "b": 52,
+    "c": 5,
+    "v": 6,
+    "t": "Darum lasst uns nicht schlafen wie die anderen! Wir wollen hellwach und nüchtern bleiben!",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "52005007",
+    "b": 52,
+    "c": 5,
+    "v": 7,
+    "t": "Wer schläft, tut das in der Nacht, und die Säufer feiern nachts ihre Trinkgelage.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "52005008",
+    "b": 52,
+    "c": 5,
+    "v": 8,
+    "t": "Wir aber gehören zum hellen Tag und wollen besonnen und kampfbereit sein. Dazu brauchen wir als Brustpanzer den Glauben und die Liebe. Die Hoffnung auf Erlösung wird uns wie ein Helm schützen.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "52005009",
+    "b": 52,
+    "c": 5,
+    "v": 9,
+    "t": "Denn Gott hat uns nicht für den Zorn und das Gericht bestimmt, sondern zur Rettung durch unseren Herrn Jesus Christus.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "52005010",
+    "b": 52,
+    "c": 5,
+    "v": 10,
+    "t": "Christus ist für uns gestorben, damit wir für immer zusammen mit ihm leben – und zwar ganz gleich, ob wir bei seinem Kommen noch am Leben oder schon gestorben sind.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "52005011",
+    "b": 52,
+    "c": 5,
+    "v": 11,
+    "t": "So ermutigt und tröstet einander, wie ihr es ja auch bisher getan habt.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "52005012",
+    "b": 52,
+    "c": 5,
+    "v": 12,
+    "t": "Liebe Brüder und Schwestern! Wir bitten euch darum, all die anzuerkennen, die sich für euch einsetzen. Der Herr hat ihnen die Leitung eurer Gemeinde anvertraut, und sie bewahren euch vor falschen Wegen.",
+    "h": "Anweisungen für die Gemeinde",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "52005013",
+    "b": 52,
+    "c": 5,
+    "v": 13,
+    "t": "Für ihre Mühe sollt ihr sie lieben und sie besonders achten. Wichtig ist, dass ihr alle miteinander in Frieden lebt.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "52005014",
+    "b": 52,
+    "c": 5,
+    "v": 14,
+    "t": "Außerdem, ihr Lieben, weist die zurecht, die ihr Leben nicht ordnen. Baut die Mutlosen auf, helft den Schwachen und bringt für jeden Menschen Geduld und Nachsicht auf.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "52005015",
+    "b": 52,
+    "c": 5,
+    "v": 15,
+    "t": "Keiner von euch soll Böses mit Bösem vergelten; bemüht euch vielmehr darum, einander wie auch allen anderen Menschen Gutes zu tun.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "52005016",
+    "b": 52,
+    "c": 5,
+    "v": 16,
+    "t": "Freut euch zu jeder Zeit!",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "52005017",
+    "b": 52,
+    "c": 5,
+    "v": 17,
+    "t": "Hört niemals auf zu beten.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "52005018",
+    "b": 52,
+    "c": 5,
+    "v": 18,
+    "t": "Dankt Gott, ganz gleich wie eure Lebensumstände auch sein mögen. All das erwartet Gott von euch, und weil ihr mit Jesus Christus verbunden seid, wird es euch auch möglich sein.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "52005019",
+    "b": 52,
+    "c": 5,
+    "v": 19,
+    "t": "Lasst den Geist Gottes ungehindert wirken!",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "52005020",
+    "b": 52,
+    "c": 5,
+    "v": 20,
+    "t": "Wenn jemand unter euch in Gottes Auftrag prophetisch redet, dann geht damit nicht geringschätzig um.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "52005021",
+    "b": 52,
+    "c": 5,
+    "v": 21,
+    "t": "Prüft jedoch alles und behaltet das Gute!",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "52005022",
+    "b": 52,
+    "c": 5,
+    "v": 22,
+    "t": "Das Böse aber – ganz gleich in welcher Form – sollt ihr meiden.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "52005023",
+    "b": 52,
+    "c": 5,
+    "v": 23,
+    "t": "Möge Gott, von dem aller Friede kommt, euch helfen, ein Leben zu führen, das ihm in jeder Hinsicht gefällt. Er bewahre euch ganz und gar, damit ihr fehlerlos seid an Geist, Seele und Leib, wenn unser Herr Jesus Christus kommt.",
+    "h": "Herzliche Grüße",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "52005024",
+    "b": 52,
+    "c": 5,
+    "v": 24,
+    "t": "Gott hat euch ja dazu auserwählt; er ist treu, und was er in euch begonnen hat, das bringt er auch ans Ziel.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "52005025",
+    "b": 52,
+    "c": 5,
+    "v": 25,
+    "t": "Wir beten für euch. Betet auch ihr für uns, liebe Brüder und Schwestern,",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "52005026",
+    "b": 52,
+    "c": 5,
+    "v": 26,
+    "t": "und grüßt alle in der Gemeinde mit dem Friedenskuss.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "52005027",
+    "b": 52,
+    "c": 5,
+    "v": 27,
+    "t": "Im Namen unseres Herrn bitte ich euch dringend, diesen Brief allen in der Gemeinde vorzulesen.",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "52005028",
+    "b": 52,
+    "c": 5,
+    "v": 28,
+    "t": "Die Gnade unseres Herrn Jesus Christus sei mit euch.",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  }
+]

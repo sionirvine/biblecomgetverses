@@ -1,0 +1,2802 @@
+[
+  {
+    "id": "15001001",
+    "b": 15,
+    "c": 1,
+    "v": 1,
+    "t": "In the first year of King Cyrus of Persia, the LORD fulfilled the prophecy he had given through Jeremiah. He stirred the heart of Cyrus to put this proclamation in writing and to send it throughout his kingdom:",
+    "h": "Cyrus Allows the Exiles to Return",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "15001002",
+    "b": 15,
+    "c": 1,
+    "v": 2,
+    "t": "“This is what King Cyrus of Persia says: “The LORD, the God of heaven, has given me all the kingdoms of the earth. He has appointed me to build him a Temple at Jerusalem, which is in Judah.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "15001003",
+    "b": 15,
+    "c": 1,
+    "v": 3,
+    "t": "Any of you who are his people may go to Jerusalem in Judah to rebuild this Temple of the LORD, the God of Israel, who lives in Jerusalem. And may your God be with you!",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "15001004",
+    "b": 15,
+    "c": 1,
+    "v": 4,
+    "t": "Wherever this Jewish remnant is found, let their neighbors contribute toward their expenses by giving them silver and gold, supplies for the journey, and livestock, as well as a voluntary offering for the Temple of God in Jerusalem.”",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "15001005",
+    "b": 15,
+    "c": 1,
+    "v": 5,
+    "t": "Then God stirred the hearts of the priests and Levites and the leaders of the tribes of Judah and Benjamin to go to Jerusalem to rebuild the Temple of the LORD.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "15001006",
+    "b": 15,
+    "c": 1,
+    "v": 6,
+    "t": "And all their neighbors assisted by giving them articles of silver and gold, supplies for the journey, and livestock. They gave them many valuable gifts in addition to all the voluntary offerings.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "15001007",
+    "b": 15,
+    "c": 1,
+    "v": 7,
+    "t": "King Cyrus himself brought out the articles that King Nebuchadnezzar had taken from the LORD ’s Temple in Jerusalem and had placed in the temple of his own gods.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "15001008",
+    "b": 15,
+    "c": 1,
+    "v": 8,
+    "t": "Cyrus directed Mithredath, the treasurer of Persia, to count these items and present them to Sheshbazzar, the leader of the exiles returning to Judah.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "15001009",
+    "b": 15,
+    "c": 1,
+    "v": 9,
+    "t": "This is a list of the items that were returned: gold basins 30 silver basins 1,000 silver incense burners 29",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "15001010",
+    "b": 15,
+    "c": 1,
+    "v": 10,
+    "t": "gold bowls 30 silver bowls 410 other items 1,000",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "15001011",
+    "b": 15,
+    "c": 1,
+    "v": 11,
+    "t": "In all, there were 5,400 articles of gold and silver. Sheshbazzar brought all of these along when the exiles went from Babylon to Jerusalem.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "15002001",
+    "b": 15,
+    "c": 2,
+    "v": 1,
+    "t": "Here is the list of the Jewish exiles of the provinces who returned from their captivity. King Nebuchadnezzar had deported them to Babylon, but now they returned to Jerusalem and the other towns in Judah where they originally lived.",
+    "h": "Exiles Who Returned with Zerubbabel",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "15002002",
+    "b": 15,
+    "c": 2,
+    "v": 2,
+    "t": "Their leaders were Zerubbabel, Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mispar, Bigvai, Rehum, and Baanah. This is the number of the men of Israel who returned from exile:",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "15002003",
+    "b": 15,
+    "c": 2,
+    "v": 3,
+    "t": "The family of Parosh 2,172",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "15002004",
+    "b": 15,
+    "c": 2,
+    "v": 4,
+    "t": "The family of Shephatiah 372",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "15002005",
+    "b": 15,
+    "c": 2,
+    "v": 5,
+    "t": "The family of Arah 775",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "15002006",
+    "b": 15,
+    "c": 2,
+    "v": 6,
+    "t": "The family of Pahath-moab (descendants of Jeshua and Joab) 2,812",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "15002007",
+    "b": 15,
+    "c": 2,
+    "v": 7,
+    "t": "The family of Elam 1,254",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "15002008",
+    "b": 15,
+    "c": 2,
+    "v": 8,
+    "t": "The family of Zattu 945",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "15002009",
+    "b": 15,
+    "c": 2,
+    "v": 9,
+    "t": "The family of Zaccai 760",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "15002010",
+    "b": 15,
+    "c": 2,
+    "v": 10,
+    "t": "The family of Bani 642",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "15002011",
+    "b": 15,
+    "c": 2,
+    "v": 11,
+    "t": "The family of Bebai 623",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "15002012",
+    "b": 15,
+    "c": 2,
+    "v": 12,
+    "t": "The family of Azgad 1,222",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "15002013",
+    "b": 15,
+    "c": 2,
+    "v": 13,
+    "t": "The family of Adonikam 666",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "15002014",
+    "b": 15,
+    "c": 2,
+    "v": 14,
+    "t": "The family of Bigvai 2,056",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "15002015",
+    "b": 15,
+    "c": 2,
+    "v": 15,
+    "t": "The family of Adin 454",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "15002016",
+    "b": 15,
+    "c": 2,
+    "v": 16,
+    "t": "The family of Ater (descendants of Hezekiah) 98",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "15002017",
+    "b": 15,
+    "c": 2,
+    "v": 17,
+    "t": "The family of Bezai 323",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "15002018",
+    "b": 15,
+    "c": 2,
+    "v": 18,
+    "t": "The family of Jorah 112",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "15002019",
+    "b": 15,
+    "c": 2,
+    "v": 19,
+    "t": "The family of Hashum 223",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "15002020",
+    "b": 15,
+    "c": 2,
+    "v": 20,
+    "t": "The family of Gibbar 95",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "15002021",
+    "b": 15,
+    "c": 2,
+    "v": 21,
+    "t": "The people of Bethlehem 123",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "15002022",
+    "b": 15,
+    "c": 2,
+    "v": 22,
+    "t": "The people of Netophah 56",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "15002023",
+    "b": 15,
+    "c": 2,
+    "v": 23,
+    "t": "The people of Anathoth 128",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "15002024",
+    "b": 15,
+    "c": 2,
+    "v": 24,
+    "t": "The people of Beth-azmaveth 42",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "15002025",
+    "b": 15,
+    "c": 2,
+    "v": 25,
+    "t": "The people of Kiriath-jearim, Kephirah, and Beeroth 743",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "15002026",
+    "b": 15,
+    "c": 2,
+    "v": 26,
+    "t": "The people of Ramah and Geba 621",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "15002027",
+    "b": 15,
+    "c": 2,
+    "v": 27,
+    "t": "The people of Micmash 122",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "15002028",
+    "b": 15,
+    "c": 2,
+    "v": 28,
+    "t": "The people of Bethel and Ai 223",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "15002029",
+    "b": 15,
+    "c": 2,
+    "v": 29,
+    "t": "The citizens of Nebo 52",
+    "h": "",
+    "o": 29,
+    "l": "29"
+  },
+  {
+    "id": "15002030",
+    "b": 15,
+    "c": 2,
+    "v": 30,
+    "t": "The citizens of Magbish 156",
+    "h": "",
+    "o": 30,
+    "l": "30"
+  },
+  {
+    "id": "15002031",
+    "b": 15,
+    "c": 2,
+    "v": 31,
+    "t": "The citizens of West Elam 1,254",
+    "h": "",
+    "o": 31,
+    "l": "31"
+  },
+  {
+    "id": "15002032",
+    "b": 15,
+    "c": 2,
+    "v": 32,
+    "t": "The citizens of Harim 320",
+    "h": "",
+    "o": 32,
+    "l": "32"
+  },
+  {
+    "id": "15002033",
+    "b": 15,
+    "c": 2,
+    "v": 33,
+    "t": "The citizens of Lod, Hadid, and Ono 725",
+    "h": "",
+    "o": 33,
+    "l": "33"
+  },
+  {
+    "id": "15002034",
+    "b": 15,
+    "c": 2,
+    "v": 34,
+    "t": "The citizens of Jericho 345",
+    "h": "",
+    "o": 34,
+    "l": "34"
+  },
+  {
+    "id": "15002035",
+    "b": 15,
+    "c": 2,
+    "v": 35,
+    "t": "The citizens of Senaah 3,630",
+    "h": "",
+    "o": 35,
+    "l": "35"
+  },
+  {
+    "id": "15002036",
+    "b": 15,
+    "c": 2,
+    "v": 36,
+    "t": "These are the priests who returned from exile: The family of Jedaiah (through the line of Jeshua) 973",
+    "h": "",
+    "o": 36,
+    "l": "36"
+  },
+  {
+    "id": "15002037",
+    "b": 15,
+    "c": 2,
+    "v": 37,
+    "t": "The family of Immer 1,052",
+    "h": "",
+    "o": 37,
+    "l": "37"
+  },
+  {
+    "id": "15002038",
+    "b": 15,
+    "c": 2,
+    "v": 38,
+    "t": "The family of Pashhur 1,247",
+    "h": "",
+    "o": 38,
+    "l": "38"
+  },
+  {
+    "id": "15002039",
+    "b": 15,
+    "c": 2,
+    "v": 39,
+    "t": "The family of Harim 1,017",
+    "h": "",
+    "o": 39,
+    "l": "39"
+  },
+  {
+    "id": "15002040",
+    "b": 15,
+    "c": 2,
+    "v": 40,
+    "t": "These are the Levites who returned from exile: The families of Jeshua and Kadmiel (descendants of Hodaviah) 74",
+    "h": "",
+    "o": 40,
+    "l": "40"
+  },
+  {
+    "id": "15002041",
+    "b": 15,
+    "c": 2,
+    "v": 41,
+    "t": "The singers of the family of Asaph 128",
+    "h": "",
+    "o": 41,
+    "l": "41"
+  },
+  {
+    "id": "15002042",
+    "b": 15,
+    "c": 2,
+    "v": 42,
+    "t": "The gatekeepers of the families of Shallum, Ater, Talmon, Akkub, Hatita, and Shobai 139",
+    "h": "",
+    "o": 42,
+    "l": "42"
+  },
+  {
+    "id": "15002043",
+    "b": 15,
+    "c": 2,
+    "v": 43,
+    "t": "The descendants of the following Temple servants returned from exile: Ziha, Hasupha, Tabbaoth,",
+    "h": "",
+    "o": 43,
+    "l": "43"
+  },
+  {
+    "id": "15002044",
+    "b": 15,
+    "c": 2,
+    "v": 44,
+    "t": "Keros, Siaha, Padon,",
+    "h": "",
+    "o": 44,
+    "l": "44"
+  },
+  {
+    "id": "15002045",
+    "b": 15,
+    "c": 2,
+    "v": 45,
+    "t": "Lebanah, Hagabah, Akkub,",
+    "h": "",
+    "o": 45,
+    "l": "45"
+  },
+  {
+    "id": "15002046",
+    "b": 15,
+    "c": 2,
+    "v": 46,
+    "t": "Hagab, Shalmai, Hanan,",
+    "h": "",
+    "o": 46,
+    "l": "46"
+  },
+  {
+    "id": "15002047",
+    "b": 15,
+    "c": 2,
+    "v": 47,
+    "t": "Giddel, Gahar, Reaiah,",
+    "h": "",
+    "o": 47,
+    "l": "47"
+  },
+  {
+    "id": "15002048",
+    "b": 15,
+    "c": 2,
+    "v": 48,
+    "t": "Rezin, Nekoda, Gazzam,",
+    "h": "",
+    "o": 48,
+    "l": "48"
+  },
+  {
+    "id": "15002049",
+    "b": 15,
+    "c": 2,
+    "v": 49,
+    "t": "Uzza, Paseah, Besai,",
+    "h": "",
+    "o": 49,
+    "l": "49"
+  },
+  {
+    "id": "15002050",
+    "b": 15,
+    "c": 2,
+    "v": 50,
+    "t": "Asnah, Meunim, Nephusim,",
+    "h": "",
+    "o": 50,
+    "l": "50"
+  },
+  {
+    "id": "15002051",
+    "b": 15,
+    "c": 2,
+    "v": 51,
+    "t": "Bakbuk, Hakupha, Harhur,",
+    "h": "",
+    "o": 51,
+    "l": "51"
+  },
+  {
+    "id": "15002052",
+    "b": 15,
+    "c": 2,
+    "v": 52,
+    "t": "Bazluth, Mehida, Harsha,",
+    "h": "",
+    "o": 52,
+    "l": "52"
+  },
+  {
+    "id": "15002053",
+    "b": 15,
+    "c": 2,
+    "v": 53,
+    "t": "Barkos, Sisera, Temah,",
+    "h": "",
+    "o": 53,
+    "l": "53"
+  },
+  {
+    "id": "15002054",
+    "b": 15,
+    "c": 2,
+    "v": 54,
+    "t": "Neziah, and Hatipha.",
+    "h": "",
+    "o": 54,
+    "l": "54"
+  },
+  {
+    "id": "15002055",
+    "b": 15,
+    "c": 2,
+    "v": 55,
+    "t": "The descendants of these servants of King Solomon returned from exile: Sotai, Hassophereth, Peruda,",
+    "h": "",
+    "o": 55,
+    "l": "55"
+  },
+  {
+    "id": "15002056",
+    "b": 15,
+    "c": 2,
+    "v": 56,
+    "t": "Jaalah, Darkon, Giddel,",
+    "h": "",
+    "o": 56,
+    "l": "56"
+  },
+  {
+    "id": "15002057",
+    "b": 15,
+    "c": 2,
+    "v": 57,
+    "t": "Shephatiah, Hattil, Pokereth-hazzebaim, and Ami.",
+    "h": "",
+    "o": 57,
+    "l": "57"
+  },
+  {
+    "id": "15002058",
+    "b": 15,
+    "c": 2,
+    "v": 58,
+    "t": "In all, the Temple servants and the descendants of Solomon’s servants numbered 392.",
+    "h": "",
+    "o": 58,
+    "l": "58"
+  },
+  {
+    "id": "15002059",
+    "b": 15,
+    "c": 2,
+    "v": 59,
+    "t": "Another group returned at this time from the towns of Tel-melah, Tel-harsha, Kerub, Addan, and Immer. However, they could not prove that they or their families were descendants of Israel.",
+    "h": "",
+    "o": 59,
+    "l": "59"
+  },
+  {
+    "id": "15002060",
+    "b": 15,
+    "c": 2,
+    "v": 60,
+    "t": "This group included the families of Delaiah, Tobiah, and Nekoda—a total of 652 people.",
+    "h": "",
+    "o": 60,
+    "l": "60"
+  },
+  {
+    "id": "15002061",
+    "b": 15,
+    "c": 2,
+    "v": 61,
+    "t": "Three families of priests—Hobaiah, Hakkoz, and Barzillai—also returned. (This Barzillai had married a woman who was a descendant of Barzillai of Gilead, and he had taken her family name.)",
+    "h": "",
+    "o": 61,
+    "l": "61"
+  },
+  {
+    "id": "15002062",
+    "b": 15,
+    "c": 2,
+    "v": 62,
+    "t": "They searched for their names in the genealogical records, but they were not found, so they were disqualified from serving as priests.",
+    "h": "",
+    "o": 62,
+    "l": "62"
+  },
+  {
+    "id": "15002063",
+    "b": 15,
+    "c": 2,
+    "v": 63,
+    "t": "The governor told them not to eat the priests’ share of food from the sacrifices until a priest could consult the LORD about the matter by using the Urim and Thummim—the sacred lots.",
+    "h": "",
+    "o": 63,
+    "l": "63"
+  },
+  {
+    "id": "15002064",
+    "b": 15,
+    "c": 2,
+    "v": 64,
+    "t": "So a total of 42,360 people returned to Judah,",
+    "h": "",
+    "o": 64,
+    "l": "64"
+  },
+  {
+    "id": "15002065",
+    "b": 15,
+    "c": 2,
+    "v": 65,
+    "t": "in addition to 7,337 servants and 200 singers, both men and women.",
+    "h": "",
+    "o": 65,
+    "l": "65"
+  },
+  {
+    "id": "15002066",
+    "b": 15,
+    "c": 2,
+    "v": 66,
+    "t": "They took with them 736 horses, 245 mules,",
+    "h": "",
+    "o": 66,
+    "l": "66"
+  },
+  {
+    "id": "15002067",
+    "b": 15,
+    "c": 2,
+    "v": 67,
+    "t": "435 camels, and 6,720 donkeys.",
+    "h": "",
+    "o": 67,
+    "l": "67"
+  },
+  {
+    "id": "15002068",
+    "b": 15,
+    "c": 2,
+    "v": 68,
+    "t": "When they arrived at the Temple of the LORD in Jerusalem, some of the family leaders made voluntary offerings toward the rebuilding of God’s Temple on its original site,",
+    "h": "",
+    "o": 68,
+    "l": "68"
+  },
+  {
+    "id": "15002069",
+    "b": 15,
+    "c": 2,
+    "v": 69,
+    "t": "and each leader gave as much as he could. The total of their gifts came to 61,000 gold coins, 6,250 pounds of silver, and 100 robes for the priests.",
+    "h": "",
+    "o": 69,
+    "l": "69"
+  },
+  {
+    "id": "15002070",
+    "b": 15,
+    "c": 2,
+    "v": 70,
+    "t": "So the priests, the Levites, the singers, the gatekeepers, the Temple servants, and some of the common people settled in villages near Jerusalem. The rest of the people returned to their own towns throughout Israel.",
+    "h": "",
+    "o": 70,
+    "l": "70"
+  },
+  {
+    "id": "15003001",
+    "b": 15,
+    "c": 3,
+    "v": 1,
+    "t": "In early autumn, when the Israelites had settled in their towns, all the people assembled in Jerusalem with a unified purpose.",
+    "h": "The Altar Is Rebuilt",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "15003002",
+    "b": 15,
+    "c": 3,
+    "v": 2,
+    "t": "Then Jeshua son of Jehozadak joined his fellow priests and Zerubbabel son of Shealtiel with his family in rebuilding the altar of the God of Israel. They wanted to sacrifice burnt offerings on it, as instructed in the Law of Moses, the man of God.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "15003003",
+    "b": 15,
+    "c": 3,
+    "v": 3,
+    "t": "Even though the people were afraid of the local residents, they rebuilt the altar at its old site. Then they began to sacrifice burnt offerings on the altar to the LORD each morning and evening.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "15003004",
+    "b": 15,
+    "c": 3,
+    "v": 4,
+    "t": "They celebrated the Festival of Shelters as prescribed in the Law, sacrificing the number of burnt offerings specified for each day of the festival.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "15003005",
+    "b": 15,
+    "c": 3,
+    "v": 5,
+    "t": "They also offered the regular burnt offerings and the offerings required for the new moon celebrations and the annual festivals as prescribed by the LORD. The people also gave voluntary offerings to the LORD.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "15003006",
+    "b": 15,
+    "c": 3,
+    "v": 6,
+    "t": "Fifteen days before the Festival of Shelters began, the priests had begun to sacrifice burnt offerings to the LORD. This was even before they had started to lay the foundation of the LORD ’s Temple.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "15003007",
+    "b": 15,
+    "c": 3,
+    "v": 7,
+    "t": "Then the people hired masons and carpenters and bought cedar logs from the people of Tyre and Sidon, paying them with food, wine, and olive oil. The logs were brought down from the Lebanon mountains and floated along the coast of the Mediterranean Sea to Joppa, for King Cyrus had given permission for this.",
+    "h": "The People Begin to Rebuild the Temple",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "15003008",
+    "b": 15,
+    "c": 3,
+    "v": 8,
+    "t": "The construction of the Temple of God began in midspring, during the second year after they arrived in Jerusalem. The work force was made up of everyone who had returned from exile, including Zerubbabel son of Shealtiel, Jeshua son of Jehozadak and his fellow priests, and all the Levites. The Levites who were twenty years old or older were put in charge of rebuilding the LORD ’s Temple.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "15003009",
+    "b": 15,
+    "c": 3,
+    "v": 9,
+    "t": "The workers at the Temple of God were supervised by Jeshua with his sons and relatives, and Kadmiel and his sons, all descendants of Hodaviah. They were helped in this task by the Levites of the family of Henadad.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "15003010",
+    "b": 15,
+    "c": 3,
+    "v": 10,
+    "t": "When the builders completed the foundation of the LORD ’s Temple, the priests put on their robes and took their places to blow their trumpets. And the Levites, descendants of Asaph, clashed their cymbals to praise the LORD, just as King David had prescribed.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "15003011",
+    "b": 15,
+    "c": 3,
+    "v": 11,
+    "t": "With praise and thanks, they sang this song to the LORD : “He is so good! His faithful love for Israel endures forever!” Then all the people gave a great shout, praising the LORD because the foundation of the LORD ’s Temple had been laid.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "15003012",
+    "b": 15,
+    "c": 3,
+    "v": 12,
+    "t": "But many of the older priests, Levites, and other leaders who had seen the first Temple wept aloud when they saw the new Temple’s foundation. The others, however, were shouting for joy.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "15003013",
+    "b": 15,
+    "c": 3,
+    "v": 13,
+    "t": "The joyful shouting and weeping mingled together in a loud noise that could be heard far in the distance.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "15004001",
+    "b": 15,
+    "c": 4,
+    "v": 1,
+    "t": "The enemies of Judah and Benjamin heard that the exiles were rebuilding a Temple to the LORD, the God of Israel.",
+    "h": "Enemies Oppose the Rebuilding",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "15004002",
+    "b": 15,
+    "c": 4,
+    "v": 2,
+    "t": "So they approached Zerubbabel and the other leaders and said, “Let us build with you, for we worship your God just as you do. We have sacrificed to him ever since King Esarhaddon of Assyria brought us here.”",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "15004003",
+    "b": 15,
+    "c": 4,
+    "v": 3,
+    "t": "But Zerubbabel, Jeshua, and the other leaders of Israel replied, “You may have no part in this work. We alone will build the Temple for the LORD, the God of Israel, just as King Cyrus of Persia commanded us.”",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "15004004",
+    "b": 15,
+    "c": 4,
+    "v": 4,
+    "t": "Then the local residents tried to discourage and frighten the people of Judah to keep them from their work.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "15004005",
+    "b": 15,
+    "c": 4,
+    "v": 5,
+    "t": "They bribed agents to work against them and to frustrate their plans. This went on during the entire reign of King Cyrus of Persia and lasted until King Darius of Persia took the throne.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "15004006",
+    "b": 15,
+    "c": 4,
+    "v": 6,
+    "t": "Years later when Xerxes began his reign, the enemies of Judah wrote a letter of accusation against the people of Judah and Jerusalem.",
+    "h": "Later Opposition under Xerxes and Artaxerxes",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "15004007",
+    "b": 15,
+    "c": 4,
+    "v": 7,
+    "t": "Even later, during the reign of King Artaxerxes of Persia, the enemies of Judah, led by Bishlam, Mithredath, and Tabeel, sent a letter to Artaxerxes in the Aramaic language, and it was translated for the king.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "15004008",
+    "b": 15,
+    "c": 4,
+    "v": 8,
+    "t": "Rehum the governor and Shimshai the court secretary wrote the letter, telling King Artaxerxes about the situation in Jerusalem.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "15004009",
+    "b": 15,
+    "c": 4,
+    "v": 9,
+    "t": "They greeted the king for all their colleagues—the judges and local leaders, the people of Tarpel, the Persians, the Babylonians, and the people of Erech and Susa (that is, Elam).",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "15004010",
+    "b": 15,
+    "c": 4,
+    "v": 10,
+    "t": "They also sent greetings from the rest of the people whom the great and noble Ashurbanipal had deported and relocated in Samaria and throughout the neighboring lands of the province west of the Euphrates River.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "15004011",
+    "b": 15,
+    "c": 4,
+    "v": 11,
+    "t": "This is a copy of their letter: “To King Artaxerxes, from your loyal subjects in the province west of the Euphrates River.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "15004012",
+    "b": 15,
+    "c": 4,
+    "v": 12,
+    "t": "“The king should know that the Jews who came here to Jerusalem from Babylon are rebuilding this rebellious and evil city. They have already laid the foundation and will soon finish its walls.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "15004013",
+    "b": 15,
+    "c": 4,
+    "v": 13,
+    "t": "And the king should know that if this city is rebuilt and its walls are completed, it will be much to your disadvantage, for the Jews will then refuse to pay their tribute, customs, and tolls to you.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "15004014",
+    "b": 15,
+    "c": 4,
+    "v": 14,
+    "t": "“Since we are your loyal subjects and do not want to see the king dishonored in this way, we have sent the king this information.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "15004015",
+    "b": 15,
+    "c": 4,
+    "v": 15,
+    "t": "We suggest that a search be made in your ancestors’ records, where you will discover what a rebellious city this has been in the past. In fact, it was destroyed because of its long and troublesome history of revolt against the kings and countries who controlled it.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "15004016",
+    "b": 15,
+    "c": 4,
+    "v": 16,
+    "t": "We declare to the king that if this city is rebuilt and its walls are completed, the province west of the Euphrates River will be lost to you.”",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "15004017",
+    "b": 15,
+    "c": 4,
+    "v": 17,
+    "t": "Then King Artaxerxes sent this reply: “To Rehum the governor, Shimshai the court secretary, and their colleagues living in Samaria and throughout the province west of the Euphrates River. Greetings.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "15004018",
+    "b": 15,
+    "c": 4,
+    "v": 18,
+    "t": "“The letter you sent has been translated and read to me.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "15004019",
+    "b": 15,
+    "c": 4,
+    "v": 19,
+    "t": "I ordered a search of the records and have found that Jerusalem has indeed been a hotbed of insurrection against many kings. In fact, rebellion and revolt are normal there!",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "15004020",
+    "b": 15,
+    "c": 4,
+    "v": 20,
+    "t": "Powerful kings have ruled over Jerusalem and the entire province west of the Euphrates River, receiving tribute, customs, and tolls.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "15004021",
+    "b": 15,
+    "c": 4,
+    "v": 21,
+    "t": "Therefore, issue orders to have these men stop their work. That city must not be rebuilt except at my express command.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "15004022",
+    "b": 15,
+    "c": 4,
+    "v": 22,
+    "t": "Be diligent, and don’t neglect this matter, for we must not permit the situation to harm the king’s interests.”",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "15004023",
+    "b": 15,
+    "c": 4,
+    "v": 23,
+    "t": "When this letter from King Artaxerxes was read to Rehum, Shimshai, and their colleagues, they hurried to Jerusalem. Then, with a show of strength, they forced the Jews to stop building.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "15004024",
+    "b": 15,
+    "c": 4,
+    "v": 24,
+    "t": "So the work on the Temple of God in Jerusalem had stopped, and it remained at a standstill until the second year of the reign of King Darius of Persia.",
+    "h": "The Rebuilding Resumes",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "15005001",
+    "b": 15,
+    "c": 5,
+    "v": 1,
+    "t": "At that time the prophets Haggai and Zechariah son of Iddo prophesied to the Jews in Judah and Jerusalem. They prophesied in the name of the God of Israel who was over them.",
+    "h": "",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "15005002",
+    "b": 15,
+    "c": 5,
+    "v": 2,
+    "t": "Zerubbabel son of Shealtiel and Jeshua son of Jehozadak responded by starting again to rebuild the Temple of God in Jerusalem. And the prophets of God were with them and helped them.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "15005003",
+    "b": 15,
+    "c": 5,
+    "v": 3,
+    "t": "But Tattenai, governor of the province west of the Euphrates River, and Shethar-bozenai and their colleagues soon arrived in Jerusalem and asked, “Who gave you permission to rebuild this Temple and restore this structure?”",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "15005004",
+    "b": 15,
+    "c": 5,
+    "v": 4,
+    "t": "They also asked for the names of all the men working on the Temple.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "15005005",
+    "b": 15,
+    "c": 5,
+    "v": 5,
+    "t": "But because their God was watching over them, the leaders of the Jews were not prevented from building until a report was sent to Darius and he returned his decision.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "15005006",
+    "b": 15,
+    "c": 5,
+    "v": 6,
+    "t": "This is a copy of the letter that Tattenai the governor, Shethar-bozenai, and the other officials of the province west of the Euphrates River sent to King Darius:",
+    "h": "Tattenai’s Letter to King Darius",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "15005007",
+    "b": 15,
+    "c": 5,
+    "v": 7,
+    "t": "“To King Darius. Greetings.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "15005008",
+    "b": 15,
+    "c": 5,
+    "v": 8,
+    "t": "“The king should know that we went to the construction site of the Temple of the great God in the province of Judah. It is being rebuilt with specially prepared stones, and timber is being laid in its walls. The work is going forward with great energy and success.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "15005009",
+    "b": 15,
+    "c": 5,
+    "v": 9,
+    "t": "“We asked the leaders, ‘Who gave you permission to rebuild this Temple and restore this structure?’",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "15005010",
+    "b": 15,
+    "c": 5,
+    "v": 10,
+    "t": "And we demanded their names so that we could tell you who the leaders were.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "15005011",
+    "b": 15,
+    "c": 5,
+    "v": 11,
+    "t": "“This was their answer: ‘We are the servants of the God of heaven and earth, and we are rebuilding the Temple that was built here many years ago by a great king of Israel.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "15005012",
+    "b": 15,
+    "c": 5,
+    "v": 12,
+    "t": "But because our ancestors angered the God of heaven, he abandoned them to King Nebuchadnezzar of Babylon, who destroyed this Temple and exiled the people to Babylonia.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "15005013",
+    "b": 15,
+    "c": 5,
+    "v": 13,
+    "t": "However, King Cyrus of Babylon, during the first year of his reign, issued a decree that the Temple of God should be rebuilt.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "15005014",
+    "b": 15,
+    "c": 5,
+    "v": 14,
+    "t": "King Cyrus returned the gold and silver cups that Nebuchadnezzar had taken from the Temple of God in Jerusalem and had placed in the temple of Babylon. These cups were taken from that temple and presented to a man named Sheshbazzar, whom King Cyrus appointed as governor of Judah.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "15005015",
+    "b": 15,
+    "c": 5,
+    "v": 15,
+    "t": "The king instructed him to return the cups to their place in Jerusalem and to rebuild the Temple of God there on its original site.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "15005016",
+    "b": 15,
+    "c": 5,
+    "v": 16,
+    "t": "So this Sheshbazzar came and laid the foundations of the Temple of God in Jerusalem. The people have been working on it ever since, though it is not yet completed.’",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "15005017",
+    "b": 15,
+    "c": 5,
+    "v": 17,
+    "t": "“Therefore, if it pleases the king, we request that a search be made in the royal archives of Babylon to discover whether King Cyrus ever issued a decree to rebuild God’s Temple in Jerusalem. And then let the king send us his decision in this matter.”",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "15006001",
+    "b": 15,
+    "c": 6,
+    "v": 1,
+    "t": "So King Darius issued orders that a search be made in the Babylonian archives, which were stored in the treasury.",
+    "h": "Darius Approves the Rebuilding",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "15006002",
+    "b": 15,
+    "c": 6,
+    "v": 2,
+    "t": "But it was at the fortress at Ecbatana in the province of Media that a scroll was found. This is what it said: “Memorandum:",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "15006003",
+    "b": 15,
+    "c": 6,
+    "v": 3,
+    "t": "“In the first year of King Cyrus’s reign, a decree was sent out concerning the Temple of God at Jerusalem. “Let the Temple be rebuilt on the site where Jews used to offer their sacrifices, using the original foundations. Its height will be ninety feet, and its width will be ninety feet.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "15006004",
+    "b": 15,
+    "c": 6,
+    "v": 4,
+    "t": "Every three layers of specially prepared stones will be topped by a layer of timber. All expenses will be paid by the royal treasury.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "15006005",
+    "b": 15,
+    "c": 6,
+    "v": 5,
+    "t": "Furthermore, the gold and silver cups, which were taken to Babylon by Nebuchadnezzar from the Temple of God in Jerusalem, must be returned to Jerusalem and put back where they belong. Let them be taken back to the Temple of God.”",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "15006006",
+    "b": 15,
+    "c": 6,
+    "v": 6,
+    "t": "So King Darius sent this message: “Now therefore, Tattenai, governor of the province west of the Euphrates River, and Shethar-bozenai, and your colleagues and other officials west of the Euphrates River—stay away from there!",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "15006007",
+    "b": 15,
+    "c": 6,
+    "v": 7,
+    "t": "Do not disturb the construction of the Temple of God. Let it be rebuilt on its original site, and do not hinder the governor of Judah and the elders of the Jews in their work.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "15006008",
+    "b": 15,
+    "c": 6,
+    "v": 8,
+    "t": "“Moreover, I hereby decree that you are to help these elders of the Jews as they rebuild this Temple of God. You must pay the full construction costs, without delay, from my taxes collected in the province west of the Euphrates River so that the work will not be interrupted.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "15006009",
+    "b": 15,
+    "c": 6,
+    "v": 9,
+    "t": "“Give the priests in Jerusalem whatever is needed in the way of young bulls, rams, and male lambs for the burnt offerings presented to the God of heaven. And without fail, provide them with as much wheat, salt, wine, and olive oil as they need each day.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "15006010",
+    "b": 15,
+    "c": 6,
+    "v": 10,
+    "t": "Then they will be able to offer acceptable sacrifices to the God of heaven and pray for the welfare of the king and his sons.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "15006011",
+    "b": 15,
+    "c": 6,
+    "v": 11,
+    "t": "“Those who violate this decree in any way will have a beam pulled from their house. Then they will be lifted up and impaled on it, and their house will be reduced to a pile of rubble.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "15006012",
+    "b": 15,
+    "c": 6,
+    "v": 12,
+    "t": "May the God who has chosen the city of Jerusalem as the place to honor his name destroy any king or nation that violates this command and destroys this Temple. “I, Darius, have issued this decree. Let it be obeyed with all diligence.”",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "15006013",
+    "b": 15,
+    "c": 6,
+    "v": 13,
+    "t": "Tattenai, governor of the province west of the Euphrates River, and Shethar-bozenai and their colleagues complied at once with the command of King Darius.",
+    "h": "The Temple’s Dedication",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "15006014",
+    "b": 15,
+    "c": 6,
+    "v": 14,
+    "t": "So the Jewish elders continued their work, and they were greatly encouraged by the preaching of the prophets Haggai and Zechariah son of Iddo. The Temple was finally finished, as had been commanded by the God of Israel and decreed by Cyrus, Darius, and Artaxerxes, the kings of Persia.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "15006015",
+    "b": 15,
+    "c": 6,
+    "v": 15,
+    "t": "The Temple was completed on March 12, during the sixth year of King Darius’s reign.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "15006016",
+    "b": 15,
+    "c": 6,
+    "v": 16,
+    "t": "The Temple of God was then dedicated with great joy by the people of Israel, the priests, the Levites, and the rest of the people who had returned from exile.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "15006017",
+    "b": 15,
+    "c": 6,
+    "v": 17,
+    "t": "During the dedication ceremony for the Temple of God, 100 young bulls, 200 rams, and 400 male lambs were sacrificed. And 12 male goats were presented as a sin offering for the twelve tribes of Israel.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "15006018",
+    "b": 15,
+    "c": 6,
+    "v": 18,
+    "t": "Then the priests and Levites were divided into their various divisions to serve at the Temple of God in Jerusalem, as prescribed in the Book of Moses.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "15006019",
+    "b": 15,
+    "c": 6,
+    "v": 19,
+    "t": "On April 21 the returned exiles celebrated Passover.",
+    "h": "Celebration of Passover",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "15006020",
+    "b": 15,
+    "c": 6,
+    "v": 20,
+    "t": "The priests and Levites had purified themselves and were ceremonially clean. So they slaughtered the Passover lamb for all the returned exiles, for their fellow priests, and for themselves.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "15006021",
+    "b": 15,
+    "c": 6,
+    "v": 21,
+    "t": "The Passover meal was eaten by the people of Israel who had returned from exile and by the others in the land who had turned from their corrupt practices to worship the LORD, the God of Israel.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "15006022",
+    "b": 15,
+    "c": 6,
+    "v": 22,
+    "t": "Then they celebrated the Festival of Unleavened Bread for seven days. There was great joy throughout the land because the LORD had caused the king of Assyria to be favorable to them, so that he helped them to rebuild the Temple of God, the God of Israel.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "15007001",
+    "b": 15,
+    "c": 7,
+    "v": 1,
+    "t": "Many years later, during the reign of King Artaxerxes of Persia, there was a man named Ezra. He was the son of Seraiah, son of Azariah, son of Hilkiah,",
+    "h": "Ezra Arrives in Jerusalem",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "15007002",
+    "b": 15,
+    "c": 7,
+    "v": 2,
+    "t": "son of Shallum, son of Zadok, son of Ahitub,",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "15007003",
+    "b": 15,
+    "c": 7,
+    "v": 3,
+    "t": "son of Amariah, son of Azariah, son of Meraioth,",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "15007004",
+    "b": 15,
+    "c": 7,
+    "v": 4,
+    "t": "son of Zerahiah, son of Uzzi, son of Bukki,",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "15007005",
+    "b": 15,
+    "c": 7,
+    "v": 5,
+    "t": "son of Abishua, son of Phinehas, son of Eleazar, son of Aaron the high priest.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "15007006",
+    "b": 15,
+    "c": 7,
+    "v": 6,
+    "t": "This Ezra was a scribe who was well versed in the Law of Moses, which the LORD, the God of Israel, had given to the people of Israel. He came up to Jerusalem from Babylon, and the king gave him everything he asked for, because the gracious hand of the LORD his God was on him.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "15007007",
+    "b": 15,
+    "c": 7,
+    "v": 7,
+    "t": "Some of the people of Israel, as well as some of the priests, Levites, singers, gatekeepers, and Temple servants, traveled up to Jerusalem with him in the seventh year of King Artaxerxes’ reign.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "15007008",
+    "b": 15,
+    "c": 7,
+    "v": 8,
+    "t": "Ezra arrived in Jerusalem in August of that year.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "15007009",
+    "b": 15,
+    "c": 7,
+    "v": 9,
+    "t": "He had arranged to leave Babylon on April 8, the first day of the new year, and he arrived at Jerusalem on August 4, for the gracious hand of his God was on him.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "15007010",
+    "b": 15,
+    "c": 7,
+    "v": 10,
+    "t": "This was because Ezra had determined to study and obey the Law of the LORD and to teach those decrees and regulations to the people of Israel.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "15007011",
+    "b": 15,
+    "c": 7,
+    "v": 11,
+    "t": "King Artaxerxes had given a copy of the following letter to Ezra, the priest and scribe who studied and taught the commands and decrees of the LORD to Israel:",
+    "h": "Artaxerxes’ Letter to Ezra",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "15007012",
+    "b": 15,
+    "c": 7,
+    "v": 12,
+    "t": "“From Artaxerxes, the king of kings, to Ezra the priest, the teacher of the law of the God of heaven. Greetings.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "15007013",
+    "b": 15,
+    "c": 7,
+    "v": 13,
+    "t": "“I decree that any of the people of Israel in my kingdom, including the priests and Levites, may volunteer to return to Jerusalem with you.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "15007014",
+    "b": 15,
+    "c": 7,
+    "v": 14,
+    "t": "I and my council of seven hereby instruct you to conduct an inquiry into the situation in Judah and Jerusalem, based on your God’s law, which is in your hand.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "15007015",
+    "b": 15,
+    "c": 7,
+    "v": 15,
+    "t": "We also commission you to take with you silver and gold, which we are freely presenting as an offering to the God of Israel who lives in Jerusalem.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "15007016",
+    "b": 15,
+    "c": 7,
+    "v": 16,
+    "t": "“Furthermore, you are to take any silver and gold that you may obtain from the province of Babylon, as well as the voluntary offerings of the people and the priests that are presented for the Temple of their God in Jerusalem.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "15007017",
+    "b": 15,
+    "c": 7,
+    "v": 17,
+    "t": "These donations are to be used specifically for the purchase of bulls, rams, male lambs, and the appropriate grain offerings and liquid offerings, all of which will be offered on the altar of the Temple of your God in Jerusalem.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "15007018",
+    "b": 15,
+    "c": 7,
+    "v": 18,
+    "t": "Any silver and gold that is left over may be used in whatever way you and your colleagues feel is the will of your God.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "15007019",
+    "b": 15,
+    "c": 7,
+    "v": 19,
+    "t": "“But as for the cups we are entrusting to you for the service of the Temple of your God, deliver them all to the God of Jerusalem.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "15007020",
+    "b": 15,
+    "c": 7,
+    "v": 20,
+    "t": "If you need anything else for your God’s Temple or for any similar needs, you may take it from the royal treasury.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "15007021",
+    "b": 15,
+    "c": 7,
+    "v": 21,
+    "t": "“I, Artaxerxes the king, hereby send this decree to all the treasurers in the province west of the Euphrates River : ‘You are to give Ezra, the priest and teacher of the law of the God of heaven, whatever he requests of you.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "15007022",
+    "b": 15,
+    "c": 7,
+    "v": 22,
+    "t": "You are to give him up to 7,500 pounds of silver, 500 bushels of wheat, 550 gallons of wine, 550 gallons of olive oil, and an unlimited supply of salt.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "15007023",
+    "b": 15,
+    "c": 7,
+    "v": 23,
+    "t": "Be careful to provide whatever the God of heaven demands for his Temple, for why should we risk bringing God’s anger against the realm of the king and his sons?",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "15007024",
+    "b": 15,
+    "c": 7,
+    "v": 24,
+    "t": "I also decree that no priest, Levite, singer, gatekeeper, Temple servant, or other worker in this Temple of God will be required to pay tribute, customs, or tolls of any kind.’",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "15007025",
+    "b": 15,
+    "c": 7,
+    "v": 25,
+    "t": "“And you, Ezra, are to use the wisdom your God has given you to appoint magistrates and judges who know your God’s laws to govern all the people in the province west of the Euphrates River. Teach the law to anyone who does not know it.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "15007026",
+    "b": 15,
+    "c": 7,
+    "v": 26,
+    "t": "Anyone who refuses to obey the law of your God and the law of the king will be punished immediately, either by death, banishment, confiscation of goods, or imprisonment.”",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "15007027",
+    "b": 15,
+    "c": 7,
+    "v": 27,
+    "t": "Praise the LORD, the God of our ancestors, who made the king want to beautify the Temple of the LORD in Jerusalem!",
+    "h": "Ezra Praises the LORD",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "15007028",
+    "b": 15,
+    "c": 7,
+    "v": 28,
+    "t": "And praise him for demonstrating such unfailing love to me by honoring me before the king, his council, and all his mighty nobles! I felt encouraged because the gracious hand of the LORD my God was on me. And I gathered some of the leaders of Israel to return with me to Jerusalem.",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "15008001",
+    "b": 15,
+    "c": 8,
+    "v": 1,
+    "t": "Here is a list of the family leaders and the genealogies of those who came with me from Babylon during the reign of King Artaxerxes:",
+    "h": "Exiles Who Returned with Ezra",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "15008002",
+    "b": 15,
+    "c": 8,
+    "v": 2,
+    "t": "From the family of Phinehas: Gershom. From the family of Ithamar: Daniel. From the family of David: Hattush,",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "15008003",
+    "b": 15,
+    "c": 8,
+    "v": 3,
+    "t": "a descendant of Shecaniah. From the family of Parosh: Zechariah and 150 other men were registered.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "15008004",
+    "b": 15,
+    "c": 8,
+    "v": 4,
+    "t": "From the family of Pahath-moab: Eliehoenai son of Zerahiah and 200 other men.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "15008005",
+    "b": 15,
+    "c": 8,
+    "v": 5,
+    "t": "From the family of Zattu : Shecaniah son of Jahaziel and 300 other men.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "15008006",
+    "b": 15,
+    "c": 8,
+    "v": 6,
+    "t": "From the family of Adin: Ebed son of Jonathan and 50 other men.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "15008007",
+    "b": 15,
+    "c": 8,
+    "v": 7,
+    "t": "From the family of Elam: Jeshaiah son of Athaliah and 70 other men.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "15008008",
+    "b": 15,
+    "c": 8,
+    "v": 8,
+    "t": "From the family of Shephatiah: Zebadiah son of Michael and 80 other men.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "15008009",
+    "b": 15,
+    "c": 8,
+    "v": 9,
+    "t": "From the family of Joab: Obadiah son of Jehiel and 218 other men.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "15008010",
+    "b": 15,
+    "c": 8,
+    "v": 10,
+    "t": "From the family of Bani : Shelomith son of Josiphiah and 160 other men.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "15008011",
+    "b": 15,
+    "c": 8,
+    "v": 11,
+    "t": "From the family of Bebai: Zechariah son of Bebai and 28 other men.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "15008012",
+    "b": 15,
+    "c": 8,
+    "v": 12,
+    "t": "From the family of Azgad: Johanan son of Hakkatan and 110 other men.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "15008013",
+    "b": 15,
+    "c": 8,
+    "v": 13,
+    "t": "From the family of Adonikam, who came later : Eliphelet, Jeuel, Shemaiah, and 60 other men.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "15008014",
+    "b": 15,
+    "c": 8,
+    "v": 14,
+    "t": "From the family of Bigvai: Uthai, Zaccur, and 70 other men.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "15008015",
+    "b": 15,
+    "c": 8,
+    "v": 15,
+    "t": "I assembled the exiles at the Ahava Canal, and we camped there for three days while I went over the lists of the people and the priests who had arrived. I found that not one Levite had volunteered to come along.",
+    "h": "Ezra’s Journey to Jerusalem",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "15008016",
+    "b": 15,
+    "c": 8,
+    "v": 16,
+    "t": "So I sent for Eliezer, Ariel, Shemaiah, Elnathan, Jarib, Elnathan, Nathan, Zechariah, and Meshullam, who were leaders of the people. I also sent for Joiarib and Elnathan, who were men of discernment.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "15008017",
+    "b": 15,
+    "c": 8,
+    "v": 17,
+    "t": "I sent them to Iddo, the leader of the Levites at Casiphia, to ask him and his relatives and the Temple servants to send us ministers for the Temple of God at Jerusalem.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "15008018",
+    "b": 15,
+    "c": 8,
+    "v": 18,
+    "t": "Since the gracious hand of our God was on us, they sent us a man named Sherebiah, along with eighteen of his sons and brothers. He was a very astute man and a descendant of Mahli, who was a descendant of Levi son of Israel.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "15008019",
+    "b": 15,
+    "c": 8,
+    "v": 19,
+    "t": "They also sent Hashabiah, together with Jeshaiah from the descendants of Merari, and twenty of his sons and brothers,",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "15008020",
+    "b": 15,
+    "c": 8,
+    "v": 20,
+    "t": "and 220 Temple servants. The Temple servants were assistants to the Levites—a group of Temple workers first instituted by King David and his officials. They were all listed by name.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "15008021",
+    "b": 15,
+    "c": 8,
+    "v": 21,
+    "t": "And there by the Ahava Canal, I gave orders for all of us to fast and humble ourselves before our God. We prayed that he would give us a safe journey and protect us, our children, and our goods as we traveled.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "15008022",
+    "b": 15,
+    "c": 8,
+    "v": 22,
+    "t": "For I was ashamed to ask the king for soldiers and horsemen to accompany us and protect us from enemies along the way. After all, we had told the king, “Our God’s hand of protection is on all who worship him, but his fierce anger rages against those who abandon him.”",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "15008023",
+    "b": 15,
+    "c": 8,
+    "v": 23,
+    "t": "So we fasted and earnestly prayed that our God would take care of us, and he heard our prayer.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "15008024",
+    "b": 15,
+    "c": 8,
+    "v": 24,
+    "t": "I appointed twelve leaders of the priests—Sherebiah, Hashabiah, and ten other priests—",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "15008025",
+    "b": 15,
+    "c": 8,
+    "v": 25,
+    "t": "to be in charge of transporting the silver, the gold, the gold bowls, and the other items that the king, his council, his officials, and all the people of Israel had presented for the Temple of God.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "15008026",
+    "b": 15,
+    "c": 8,
+    "v": 26,
+    "t": "I weighed the treasure as I gave it to them and found the totals to be as follows: 24 tons of silver, 7,500 pounds of silver articles, 7,500 pounds of gold,",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "15008027",
+    "b": 15,
+    "c": 8,
+    "v": 27,
+    "t": "20 gold bowls, equal in value to 1,000 gold coins, 2 fine articles of polished bronze, as precious as gold.",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "15008028",
+    "b": 15,
+    "c": 8,
+    "v": 28,
+    "t": "And I said to these priests, “You and these treasures have been set apart as holy to the LORD. This silver and gold is a voluntary offering to the LORD, the God of our ancestors.",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "15008029",
+    "b": 15,
+    "c": 8,
+    "v": 29,
+    "t": "Guard these treasures well until you present them to the leading priests, the Levites, and the leaders of Israel, who will weigh them at the storerooms of the LORD ’s Temple in Jerusalem.”",
+    "h": "",
+    "o": 29,
+    "l": "29"
+  },
+  {
+    "id": "15008030",
+    "b": 15,
+    "c": 8,
+    "v": 30,
+    "t": "So the priests and the Levites accepted the task of transporting these treasures of silver and gold to the Temple of our God in Jerusalem.",
+    "h": "",
+    "o": 30,
+    "l": "30"
+  },
+  {
+    "id": "15008031",
+    "b": 15,
+    "c": 8,
+    "v": 31,
+    "t": "We broke camp at the Ahava Canal on April 19 and started off to Jerusalem. And the gracious hand of our God protected us and saved us from enemies and bandits along the way.",
+    "h": "",
+    "o": 31,
+    "l": "31"
+  },
+  {
+    "id": "15008032",
+    "b": 15,
+    "c": 8,
+    "v": 32,
+    "t": "So we arrived safely in Jerusalem, where we rested for three days.",
+    "h": "",
+    "o": 32,
+    "l": "32"
+  },
+  {
+    "id": "15008033",
+    "b": 15,
+    "c": 8,
+    "v": 33,
+    "t": "On the fourth day after our arrival, the silver, gold, and other valuables were weighed at the Temple of our God and entrusted to Meremoth son of Uriah the priest and to Eleazar son of Phinehas, along with Jozabad son of Jeshua and Noadiah son of Binnui—both of whom were Levites.",
+    "h": "",
+    "o": 33,
+    "l": "33"
+  },
+  {
+    "id": "15008034",
+    "b": 15,
+    "c": 8,
+    "v": 34,
+    "t": "Everything was accounted for by number and weight, and the total weight was officially recorded.",
+    "h": "",
+    "o": 34,
+    "l": "34"
+  },
+  {
+    "id": "15008035",
+    "b": 15,
+    "c": 8,
+    "v": 35,
+    "t": "Then the exiles who had come out of captivity sacrificed burnt offerings to the God of Israel. They presented twelve bulls for all the people of Israel, as well as ninety-six rams and seventy-seven male lambs. They also offered twelve male goats as a sin offering. All this was given as a burnt offering to the LORD.",
+    "h": "",
+    "o": 35,
+    "l": "35"
+  },
+  {
+    "id": "15008036",
+    "b": 15,
+    "c": 8,
+    "v": 36,
+    "t": "The king’s decrees were delivered to his highest officers and the governors of the province west of the Euphrates River, who then cooperated by supporting the people and the Temple of God.",
+    "h": "",
+    "o": 36,
+    "l": "36"
+  },
+  {
+    "id": "15009001",
+    "b": 15,
+    "c": 9,
+    "v": 1,
+    "t": "When these things had been done, the Jewish leaders came to me and said, “Many of the people of Israel, and even some of the priests and Levites, have not kept themselves separate from the other peoples living in the land. They have taken up the detestable practices of the Canaanites, Hittites, Perizzites, Jebusites, Ammonites, Moabites, Egyptians, and Amorites.",
+    "h": "Ezra’s Prayer concerning Intermarriage",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "15009002",
+    "b": 15,
+    "c": 9,
+    "v": 2,
+    "t": "For the men of Israel have married women from these people and have taken them as wives for their sons. So the holy race has become polluted by these mixed marriages. Worse yet, the leaders and officials have led the way in this outrage.”",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "15009003",
+    "b": 15,
+    "c": 9,
+    "v": 3,
+    "t": "When I heard this, I tore my cloak and my shirt, pulled hair from my head and beard, and sat down utterly shocked.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "15009004",
+    "b": 15,
+    "c": 9,
+    "v": 4,
+    "t": "Then all who trembled at the words of the God of Israel came and sat with me because of this outrage committed by the returned exiles. And I sat there utterly appalled until the time of the evening sacrifice.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "15009005",
+    "b": 15,
+    "c": 9,
+    "v": 5,
+    "t": "At the time of the sacrifice, I stood up from where I had sat in mourning with my clothes torn. I fell to my knees and lifted my hands to the LORD my God.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "15009006",
+    "b": 15,
+    "c": 9,
+    "v": 6,
+    "t": "I prayed, “O my God, I am utterly ashamed; I blush to lift up my face to you. For our sins are piled higher than our heads, and our guilt has reached to the heavens.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "15009007",
+    "b": 15,
+    "c": 9,
+    "v": 7,
+    "t": "From the days of our ancestors until now, we have been steeped in sin. That is why we and our kings and our priests have been at the mercy of the pagan kings of the land. We have been killed, captured, robbed, and disgraced, just as we are today.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "15009008",
+    "b": 15,
+    "c": 9,
+    "v": 8,
+    "t": "“But now we have been given a brief moment of grace, for the LORD our God has allowed a few of us to survive as a remnant. He has given us security in this holy place. Our God has brightened our eyes and granted us some relief from our slavery.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "15009009",
+    "b": 15,
+    "c": 9,
+    "v": 9,
+    "t": "For we were slaves, but in his unfailing love our God did not abandon us in our slavery. Instead, he caused the kings of Persia to treat us favorably. He revived us so we could rebuild the Temple of our God and repair its ruins. He has given us a protective wall in Judah and Jerusalem.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "15009010",
+    "b": 15,
+    "c": 9,
+    "v": 10,
+    "t": "“And now, O our God, what can we say after all of this? For once again we have abandoned your commands!",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "15009011",
+    "b": 15,
+    "c": 9,
+    "v": 11,
+    "t": "Your servants the prophets warned us when they said, ‘The land you are entering to possess is totally defiled by the detestable practices of the people living there. From one end to the other, the land is filled with corruption.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "15009012",
+    "b": 15,
+    "c": 9,
+    "v": 12,
+    "t": "Don’t let your daughters marry their sons! Don’t take their daughters as wives for your sons. Don’t ever promote the peace and prosperity of those nations. If you follow these instructions, you will be strong and will enjoy the good things the land produces, and you will leave this prosperity to your children forever.’",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "15009013",
+    "b": 15,
+    "c": 9,
+    "v": 13,
+    "t": "“Now we are being punished because of our wickedness and our great guilt. But we have actually been punished far less than we deserve, for you, our God, have allowed some of us to survive as a remnant.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "15009014",
+    "b": 15,
+    "c": 9,
+    "v": 14,
+    "t": "But even so, we are again breaking your commands and intermarrying with people who do these detestable things. Won’t your anger be enough to destroy us, so that even this little remnant no longer survives?",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "15009015",
+    "b": 15,
+    "c": 9,
+    "v": 15,
+    "t": "O LORD, God of Israel, you are just. We come before you in our guilt as nothing but an escaped remnant, though in such a condition none of us can stand in your presence.”",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "15010001",
+    "b": 15,
+    "c": 10,
+    "v": 1,
+    "t": "While Ezra prayed and made this confession, weeping and lying face down on the ground in front of the Temple of God, a very large crowd of people from Israel—men, women, and children—gathered and wept bitterly with him.",
+    "h": "The People Confess Their Sin",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "15010002",
+    "b": 15,
+    "c": 10,
+    "v": 2,
+    "t": "Then Shecaniah son of Jehiel, a descendant of Elam, said to Ezra, “We have been unfaithful to our God, for we have married these pagan women of the land. But in spite of this there is hope for Israel.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "15010003",
+    "b": 15,
+    "c": 10,
+    "v": 3,
+    "t": "Let us now make a covenant with our God to divorce our pagan wives and to send them away with their children. We will follow the advice given by you and by the others who respect the commands of our God. Let it be done according to the Law of God.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "15010004",
+    "b": 15,
+    "c": 10,
+    "v": 4,
+    "t": "Get up, for it is your duty to tell us how to proceed in setting things straight. We are behind you, so be strong and take action.”",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "15010005",
+    "b": 15,
+    "c": 10,
+    "v": 5,
+    "t": "So Ezra stood up and demanded that the leaders of the priests and the Levites and all the people of Israel swear that they would do as Shecaniah had said. And they all swore a solemn oath.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "15010006",
+    "b": 15,
+    "c": 10,
+    "v": 6,
+    "t": "Then Ezra left the front of the Temple of God and went to the room of Jehohanan son of Eliashib. He spent the night there without eating or drinking anything. He was still in mourning because of the unfaithfulness of the returned exiles.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "15010007",
+    "b": 15,
+    "c": 10,
+    "v": 7,
+    "t": "Then a proclamation was made throughout Judah and Jerusalem that all the exiles should come to Jerusalem.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "15010008",
+    "b": 15,
+    "c": 10,
+    "v": 8,
+    "t": "Those who failed to come within three days would, if the leaders and elders so decided, forfeit all their property and be expelled from the assembly of the exiles.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "15010009",
+    "b": 15,
+    "c": 10,
+    "v": 9,
+    "t": "Within three days, all the people of Judah and Benjamin had gathered in Jerusalem. This took place on December 19, and all the people were sitting in the square before the Temple of God. They were trembling both because of the seriousness of the matter and because it was raining.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "15010010",
+    "b": 15,
+    "c": 10,
+    "v": 10,
+    "t": "Then Ezra the priest stood and said to them: “You have committed a terrible sin. By marrying pagan women, you have increased Israel’s guilt.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "15010011",
+    "b": 15,
+    "c": 10,
+    "v": 11,
+    "t": "So now confess your sin to the LORD, the God of your ancestors, and do what he demands. Separate yourselves from the people of the land and from these pagan women.”",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "15010012",
+    "b": 15,
+    "c": 10,
+    "v": 12,
+    "t": "Then the whole assembly raised their voices and answered, “Yes, you are right; we must do as you say!”",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "15010013",
+    "b": 15,
+    "c": 10,
+    "v": 13,
+    "t": "Then they added, “This isn’t something that can be done in a day or two, for many of us are involved in this extremely sinful affair. And this is the rainy season, so we cannot stay out here much longer.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "15010014",
+    "b": 15,
+    "c": 10,
+    "v": 14,
+    "t": "Let our leaders act on behalf of us all. Let everyone who has a pagan wife come at a scheduled time, accompanied by the leaders and judges of his city, so that the fierce anger of our God concerning this affair may be turned away from us.”",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "15010015",
+    "b": 15,
+    "c": 10,
+    "v": 15,
+    "t": "Only Jonathan son of Asahel and Jahzeiah son of Tikvah opposed this course of action, and they were supported by Meshullam and Shabbethai the Levite.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "15010016",
+    "b": 15,
+    "c": 10,
+    "v": 16,
+    "t": "So this was the plan they followed. Ezra selected leaders to represent their families, designating each of the representatives by name. On December 29, the leaders sat down to investigate the matter.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "15010017",
+    "b": 15,
+    "c": 10,
+    "v": 17,
+    "t": "By March 27, the first day of the new year, they had finished dealing with all the men who had married pagan wives.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "15010018",
+    "b": 15,
+    "c": 10,
+    "v": 18,
+    "t": "These are the priests who had married pagan wives: From the family of Jeshua son of Jehozadak and his brothers: Maaseiah, Eliezer, Jarib, and Gedaliah.",
+    "h": "Those Guilty of Intermarriage",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "15010019",
+    "b": 15,
+    "c": 10,
+    "v": 19,
+    "t": "They vowed to divorce their wives, and they each acknowledged their guilt by offering a ram as a guilt offering.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "15010020",
+    "b": 15,
+    "c": 10,
+    "v": 20,
+    "t": "From the family of Immer: Hanani and Zebadiah.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "15010021",
+    "b": 15,
+    "c": 10,
+    "v": 21,
+    "t": "From the family of Harim: Maaseiah, Elijah, Shemaiah, Jehiel, and Uzziah.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "15010022",
+    "b": 15,
+    "c": 10,
+    "v": 22,
+    "t": "From the family of Pashhur: Elioenai, Maaseiah, Ishmael, Nethanel, Jozabad, and Elasah.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "15010023",
+    "b": 15,
+    "c": 10,
+    "v": 23,
+    "t": "These are the Levites who were guilty: Jozabad, Shimei, Kelaiah (also called Kelita), Pethahiah, Judah, and Eliezer.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "15010024",
+    "b": 15,
+    "c": 10,
+    "v": 24,
+    "t": "This is the singer who was guilty: Eliashib. These are the gatekeepers who were guilty: Shallum, Telem, and Uri.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "15010025",
+    "b": 15,
+    "c": 10,
+    "v": 25,
+    "t": "These are the other people of Israel who were guilty: From the family of Parosh: Ramiah, Izziah, Malkijah, Mijamin, Eleazar, Hashabiah, and Benaiah.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "15010026",
+    "b": 15,
+    "c": 10,
+    "v": 26,
+    "t": "From the family of Elam: Mattaniah, Zechariah, Jehiel, Abdi, Jeremoth, and Elijah.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "15010027",
+    "b": 15,
+    "c": 10,
+    "v": 27,
+    "t": "From the family of Zattu: Elioenai, Eliashib, Mattaniah, Jeremoth, Zabad, and Aziza.",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "15010028",
+    "b": 15,
+    "c": 10,
+    "v": 28,
+    "t": "From the family of Bebai: Jehohanan, Hananiah, Zabbai, and Athlai.",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "15010029",
+    "b": 15,
+    "c": 10,
+    "v": 29,
+    "t": "From the family of Bani: Meshullam, Malluch, Adaiah, Jashub, Sheal, and Jeremoth.",
+    "h": "",
+    "o": 29,
+    "l": "29"
+  },
+  {
+    "id": "15010030",
+    "b": 15,
+    "c": 10,
+    "v": 30,
+    "t": "From the family of Pahath-moab: Adna, Kelal, Benaiah, Maaseiah, Mattaniah, Bezalel, Binnui, and Manasseh.",
+    "h": "",
+    "o": 30,
+    "l": "30"
+  },
+  {
+    "id": "15010031",
+    "b": 15,
+    "c": 10,
+    "v": 31,
+    "t": "From the family of Harim: Eliezer, Ishijah, Malkijah, Shemaiah, Shimeon,",
+    "h": "",
+    "o": 31,
+    "l": "31"
+  },
+  {
+    "id": "15010032",
+    "b": 15,
+    "c": 10,
+    "v": 32,
+    "t": "Benjamin, Malluch, and Shemariah.",
+    "h": "",
+    "o": 32,
+    "l": "32"
+  },
+  {
+    "id": "15010033",
+    "b": 15,
+    "c": 10,
+    "v": 33,
+    "t": "From the family of Hashum: Mattenai, Mattattah, Zabad, Eliphelet, Jeremai, Manasseh, and Shimei.",
+    "h": "",
+    "o": 33,
+    "l": "33"
+  },
+  {
+    "id": "15010034",
+    "b": 15,
+    "c": 10,
+    "v": 34,
+    "t": "From the family of Bani: Maadai, Amram, Uel,",
+    "h": "",
+    "o": 34,
+    "l": "34"
+  },
+  {
+    "id": "15010035",
+    "b": 15,
+    "c": 10,
+    "v": 35,
+    "t": "Benaiah, Bedeiah, Keluhi,",
+    "h": "",
+    "o": 35,
+    "l": "35"
+  },
+  {
+    "id": "15010036",
+    "b": 15,
+    "c": 10,
+    "v": 36,
+    "t": "Vaniah, Meremoth, Eliashib,",
+    "h": "",
+    "o": 36,
+    "l": "36"
+  },
+  {
+    "id": "15010037",
+    "b": 15,
+    "c": 10,
+    "v": 37,
+    "t": "Mattaniah, Mattenai, and Jaasu.",
+    "h": "",
+    "o": 37,
+    "l": "37"
+  },
+  {
+    "id": "15010038",
+    "b": 15,
+    "c": 10,
+    "v": 38,
+    "t": "From the family of Binnui : Shimei,",
+    "h": "",
+    "o": 38,
+    "l": "38"
+  },
+  {
+    "id": "15010039",
+    "b": 15,
+    "c": 10,
+    "v": 39,
+    "t": "Shelemiah, Nathan, Adaiah,",
+    "h": "",
+    "o": 39,
+    "l": "39"
+  },
+  {
+    "id": "15010040",
+    "b": 15,
+    "c": 10,
+    "v": 40,
+    "t": "Macnadebai, Shashai, Sharai,",
+    "h": "",
+    "o": 40,
+    "l": "40"
+  },
+  {
+    "id": "15010041",
+    "b": 15,
+    "c": 10,
+    "v": 41,
+    "t": "Azarel, Shelemiah, Shemariah,",
+    "h": "",
+    "o": 41,
+    "l": "41"
+  },
+  {
+    "id": "15010042",
+    "b": 15,
+    "c": 10,
+    "v": 42,
+    "t": "Shallum, Amariah, and Joseph.",
+    "h": "",
+    "o": 42,
+    "l": "42"
+  },
+  {
+    "id": "15010043",
+    "b": 15,
+    "c": 10,
+    "v": 43,
+    "t": "From the family of Nebo: Jeiel, Mattithiah, Zabad, Zebina, Jaddai, Joel, and Benaiah.",
+    "h": "",
+    "o": 43,
+    "l": "43"
+  },
+  {
+    "id": "15010044",
+    "b": 15,
+    "c": 10,
+    "v": 44,
+    "t": "Each of these men had a pagan wife, and some even had children by these wives.",
+    "h": "",
+    "o": 44,
+    "l": "44"
+  }
+]

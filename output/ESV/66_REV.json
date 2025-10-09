@@ -1,0 +1,4042 @@
+[
+  {
+    "id": "66001001",
+    "b": 66,
+    "c": 1,
+    "v": 1,
+    "t": "The revelation of Jesus Christ, which God gave him to show to his servants the things that must soon take place. He made it known by sending his angel to his servant John,",
+    "h": "Prologue",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "66001002",
+    "b": 66,
+    "c": 1,
+    "v": 2,
+    "t": "who bore witness to the word of God and to the testimony of Jesus Christ, even to all that he saw.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "66001003",
+    "b": 66,
+    "c": 1,
+    "v": 3,
+    "t": "Blessed is the one who reads aloud the words of this prophecy, and blessed are those who hear, and who keep what is written in it, for the time is near.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "66001004",
+    "b": 66,
+    "c": 1,
+    "v": 4,
+    "t": "John to the seven churches that are in Asia: Grace to you and peace from him who is and who was and who is to come, and from the seven spirits who are before his throne,",
+    "h": "Greeting to the Seven Churches",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "66001005",
+    "b": 66,
+    "c": 1,
+    "v": 5,
+    "t": "and from Jesus Christ the faithful witness, the firstborn of the dead, and the ruler of kings on earth. To him who loves us and has freed us from our sins by his blood",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "66001006",
+    "b": 66,
+    "c": 1,
+    "v": 6,
+    "t": "and made us a kingdom, priests to his God and Father, to him be glory and dominion forever and ever. Amen.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "66001007",
+    "b": 66,
+    "c": 1,
+    "v": 7,
+    "t": "Behold, he is coming with the clouds, and every eye will see him, even those who pierced him, and all tribes of the earth will wail on account of him. Even so. Amen.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "66001008",
+    "b": 66,
+    "c": 1,
+    "v": 8,
+    "t": "“I am the Alpha and the Omega,” says the Lord God, “who is and who was and who is to come, the Almighty.”",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "66001009",
+    "b": 66,
+    "c": 1,
+    "v": 9,
+    "t": "I, John, your brother and partner in the tribulation and the kingdom and the patient endurance that are in Jesus, was on the island called Patmos on account of the word of God and the testimony of Jesus.",
+    "h": "Vision of the Son of Man",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "66001010",
+    "b": 66,
+    "c": 1,
+    "v": 10,
+    "t": "I was in the Spirit on the Lord’s day, and I heard behind me a loud voice like a trumpet",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "66001011",
+    "b": 66,
+    "c": 1,
+    "v": 11,
+    "t": "saying, “Write what you see in a book and send it to the seven churches, to Ephesus and to Smyrna and to Pergamum and to Thyatira and to Sardis and to Philadelphia and to Laodicea.”",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "66001012",
+    "b": 66,
+    "c": 1,
+    "v": 12,
+    "t": "Then I turned to see the voice that was speaking to me, and on turning I saw seven golden lampstands,",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "66001013",
+    "b": 66,
+    "c": 1,
+    "v": 13,
+    "t": "and in the midst of the lampstands one like a son of man, clothed with a long robe and with a golden sash around his chest.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "66001014",
+    "b": 66,
+    "c": 1,
+    "v": 14,
+    "t": "The hairs of his head were white, like white wool, like snow. His eyes were like a flame of fire,",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "66001015",
+    "b": 66,
+    "c": 1,
+    "v": 15,
+    "t": "his feet were like burnished bronze, refined in a furnace, and his voice was like the roar of many waters.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "66001016",
+    "b": 66,
+    "c": 1,
+    "v": 16,
+    "t": "In his right hand he held seven stars, from his mouth came a sharp two-edged sword, and his face was like the sun shining in full strength.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "66001017",
+    "b": 66,
+    "c": 1,
+    "v": 17,
+    "t": "When I saw him, I fell at his feet as though dead. But he laid his right hand on me, saying, “Fear not, I am the first and the last,",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "66001018",
+    "b": 66,
+    "c": 1,
+    "v": 18,
+    "t": "and the living one. I died, and behold I am alive forevermore, and I have the keys of Death and Hades.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "66001019",
+    "b": 66,
+    "c": 1,
+    "v": 19,
+    "t": "Write therefore the things that you have seen, those that are and those that are to take place after this.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "66001020",
+    "b": 66,
+    "c": 1,
+    "v": 20,
+    "t": "As for the mystery of the seven stars that you saw in my right hand, and the seven golden lampstands, the seven stars are the angels of the seven churches, and the seven lampstands are the seven churches.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "66002001",
+    "b": 66,
+    "c": 2,
+    "v": 1,
+    "t": "“To the angel of the church in Ephesus write: ‘The words of him who holds the seven stars in his right hand, who walks among the seven golden lampstands.",
+    "h": "To the Church in Ephesus",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "66002002",
+    "b": 66,
+    "c": 2,
+    "v": 2,
+    "t": "“‘I know your works, your toil and your patient endurance, and how you cannot bear with those who are evil, but have tested those who call themselves apostles and are not, and found them to be false.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "66002003",
+    "b": 66,
+    "c": 2,
+    "v": 3,
+    "t": "I know you are enduring patiently and bearing up for my name’s sake, and you have not grown weary.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "66002004",
+    "b": 66,
+    "c": 2,
+    "v": 4,
+    "t": "But I have this against you, that you have abandoned the love you had at first.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "66002005",
+    "b": 66,
+    "c": 2,
+    "v": 5,
+    "t": "Remember therefore from where you have fallen; repent, and do the works you did at first. If not, I will come to you and remove your lampstand from its place, unless you repent.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "66002006",
+    "b": 66,
+    "c": 2,
+    "v": 6,
+    "t": "Yet this you have: you hate the works of the Nicolaitans, which I also hate.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "66002007",
+    "b": 66,
+    "c": 2,
+    "v": 7,
+    "t": "He who has an ear, let him hear what the Spirit says to the churches. To the one who conquers I will grant to eat of the tree of life, which is in the paradise of God.’",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "66002008",
+    "b": 66,
+    "c": 2,
+    "v": 8,
+    "t": "“And to the angel of the church in Smyrna write: ‘The words of the first and the last, who died and came to life.",
+    "h": "To the Church in Smyrna",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "66002009",
+    "b": 66,
+    "c": 2,
+    "v": 9,
+    "t": "“‘I know your tribulation and your poverty ( but you are rich) and the slander of those who say that they are Jews and are not, but are a synagogue of Satan.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "66002010",
+    "b": 66,
+    "c": 2,
+    "v": 10,
+    "t": "Do not fear what you are about to suffer. Behold, the devil is about to throw some of you into prison, that you may be tested, and for ten days you will have tribulation. Be faithful unto death, and I will give you the crown of life.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "66002011",
+    "b": 66,
+    "c": 2,
+    "v": 11,
+    "t": "He who has an ear, let him hear what the Spirit says to the churches. The one who conquers will not be hurt by the second death.’",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "66002012",
+    "b": 66,
+    "c": 2,
+    "v": 12,
+    "t": "“And to the angel of the church in Pergamum write: ‘The words of him who has the sharp two-edged sword.",
+    "h": "To the Church in Pergamum",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "66002013",
+    "b": 66,
+    "c": 2,
+    "v": 13,
+    "t": "“‘I know where you dwell, where Satan’s throne is. Yet you hold fast my name, and you did not deny my faith even in the days of Antipas my faithful witness, who was killed among you, where Satan dwells.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "66002014",
+    "b": 66,
+    "c": 2,
+    "v": 14,
+    "t": "But I have a few things against you: you have some there who hold the teaching of Balaam, who taught Balak to put a stumbling block before the sons of Israel, so that they might eat food sacrificed to idols and practice sexual immorality.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "66002015",
+    "b": 66,
+    "c": 2,
+    "v": 15,
+    "t": "So also you have some who hold the teaching of the Nicolaitans.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "66002016",
+    "b": 66,
+    "c": 2,
+    "v": 16,
+    "t": "Therefore repent. If not, I will come to you soon and war against them with the sword of my mouth.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "66002017",
+    "b": 66,
+    "c": 2,
+    "v": 17,
+    "t": "He who has an ear, let him hear what the Spirit says to the churches. To the one who conquers I will give some of the hidden manna, and I will give him a white stone, with a new name written on the stone that no one knows except the one who receives it.’",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "66002018",
+    "b": 66,
+    "c": 2,
+    "v": 18,
+    "t": "“And to the angel of the church in Thyatira write: ‘The words of the Son of God, who has eyes like a flame of fire, and whose feet are like burnished bronze.",
+    "h": "To the Church in Thyatira",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "66002019",
+    "b": 66,
+    "c": 2,
+    "v": 19,
+    "t": "“‘I know your works, your love and faith and service and patient endurance, and that your latter works exceed the first.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "66002020",
+    "b": 66,
+    "c": 2,
+    "v": 20,
+    "t": "But I have this against you, that you tolerate that woman Jezebel, who calls herself a prophetess and is teaching and seducing my servants to practice sexual immorality and to eat food sacrificed to idols.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "66002021",
+    "b": 66,
+    "c": 2,
+    "v": 21,
+    "t": "I gave her time to repent, but she refuses to repent of her sexual immorality.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "66002022",
+    "b": 66,
+    "c": 2,
+    "v": 22,
+    "t": "Behold, I will throw her onto a sickbed, and those who commit adultery with her I will throw into great tribulation, unless they repent of her works,",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "66002023",
+    "b": 66,
+    "c": 2,
+    "v": 23,
+    "t": "and I will strike her children dead. And all the churches will know that I am he who searches mind and heart, and I will give to each of you according to your works.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "66002024",
+    "b": 66,
+    "c": 2,
+    "v": 24,
+    "t": "But to the rest of you in Thyatira, who do not hold this teaching, who have not learned what some call the deep things of Satan, to you I say, I do not lay on you any other burden.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "66002025",
+    "b": 66,
+    "c": 2,
+    "v": 25,
+    "t": "Only hold fast what you have until I come.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "66002026",
+    "b": 66,
+    "c": 2,
+    "v": 26,
+    "t": "The one who conquers and who keeps my works until the end, to him I will give authority over the nations,",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "66002027",
+    "b": 66,
+    "c": 2,
+    "v": 27,
+    "t": "and he will rule them with a rod of iron, as when earthen pots are broken in pieces, even as I myself have received authority from my Father.",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "66002028",
+    "b": 66,
+    "c": 2,
+    "v": 28,
+    "t": "And I will give him the morning star.",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "66002029",
+    "b": 66,
+    "c": 2,
+    "v": 29,
+    "t": "He who has an ear, let him hear what the Spirit says to the churches.’",
+    "h": "",
+    "o": 29,
+    "l": "29"
+  },
+  {
+    "id": "66003001",
+    "b": 66,
+    "c": 3,
+    "v": 1,
+    "t": "“And to the angel of the church in Sardis write: ‘The words of him who has the seven spirits of God and the seven stars. “‘I know your works. You have the reputation of being alive, but you are dead.",
+    "h": "To the Church in Sardis",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "66003002",
+    "b": 66,
+    "c": 3,
+    "v": 2,
+    "t": "Wake up, and strengthen what remains and is about to die, for I have not found your works complete in the sight of my God.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "66003003",
+    "b": 66,
+    "c": 3,
+    "v": 3,
+    "t": "Remember, then, what you received and heard. Keep it, and repent. If you will not wake up, I will come like a thief, and you will not know at what hour I will come against you.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "66003004",
+    "b": 66,
+    "c": 3,
+    "v": 4,
+    "t": "Yet you have still a few names in Sardis, people who have not soiled their garments, and they will walk with me in white, for they are worthy.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "66003005",
+    "b": 66,
+    "c": 3,
+    "v": 5,
+    "t": "The one who conquers will be clothed thus in white garments, and I will never blot his name out of the book of life. I will confess his name before my Father and before his angels.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "66003006",
+    "b": 66,
+    "c": 3,
+    "v": 6,
+    "t": "He who has an ear, let him hear what the Spirit says to the churches.’",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "66003007",
+    "b": 66,
+    "c": 3,
+    "v": 7,
+    "t": "“And to the angel of the church in Philadelphia write: ‘The words of the holy one, the true one, who has the key of David, who opens and no one will shut, who shuts and no one opens.",
+    "h": "To the Church in Philadelphia",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "66003008",
+    "b": 66,
+    "c": 3,
+    "v": 8,
+    "t": "“‘I know your works. Behold, I have set before you an open door, which no one is able to shut. I know that you have but little power, and yet you have kept my word and have not denied my name.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "66003009",
+    "b": 66,
+    "c": 3,
+    "v": 9,
+    "t": "Behold, I will make those of the synagogue of Satan who say that they are Jews and are not, but lie—behold, I will make them come and bow down before your feet, and they will learn that I have loved you.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "66003010",
+    "b": 66,
+    "c": 3,
+    "v": 10,
+    "t": "Because you have kept my word about patient endurance, I will keep you from the hour of trial that is coming on the whole world, to try those who dwell on the earth.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "66003011",
+    "b": 66,
+    "c": 3,
+    "v": 11,
+    "t": "I am coming soon. Hold fast what you have, so that no one may seize your crown.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "66003012",
+    "b": 66,
+    "c": 3,
+    "v": 12,
+    "t": "The one who conquers, I will make him a pillar in the temple of my God. Never shall he go out of it, and I will write on him the name of my God, and the name of the city of my God, the new Jerusalem, which comes down from my God out of heaven, and my own new name.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "66003013",
+    "b": 66,
+    "c": 3,
+    "v": 13,
+    "t": "He who has an ear, let him hear what the Spirit says to the churches.’",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "66003014",
+    "b": 66,
+    "c": 3,
+    "v": 14,
+    "t": "“And to the angel of the church in Laodicea write: ‘The words of the Amen, the faithful and true witness, the beginning of God’s creation.",
+    "h": "To the Church in Laodicea",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "66003015",
+    "b": 66,
+    "c": 3,
+    "v": 15,
+    "t": "“‘I know your works: you are neither cold nor hot. Would that you were either cold or hot!",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "66003016",
+    "b": 66,
+    "c": 3,
+    "v": 16,
+    "t": "So, because you are lukewarm, and neither hot nor cold, I will spit you out of my mouth.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "66003017",
+    "b": 66,
+    "c": 3,
+    "v": 17,
+    "t": "For you say, I am rich, I have prospered, and I need nothing, not realizing that you are wretched, pitiable, poor, blind, and naked.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "66003018",
+    "b": 66,
+    "c": 3,
+    "v": 18,
+    "t": "I counsel you to buy from me gold refined by fire, so that you may be rich, and white garments so that you may clothe yourself and the shame of your nakedness may not be seen, and salve to anoint your eyes, so that you may see.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "66003019",
+    "b": 66,
+    "c": 3,
+    "v": 19,
+    "t": "Those whom I love, I reprove and discipline, so be zealous and repent.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "66003020",
+    "b": 66,
+    "c": 3,
+    "v": 20,
+    "t": "Behold, I stand at the door and knock. If anyone hears my voice and opens the door, I will come in to him and eat with him, and he with me.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "66003021",
+    "b": 66,
+    "c": 3,
+    "v": 21,
+    "t": "The one who conquers, I will grant him to sit with me on my throne, as I also conquered and sat down with my Father on his throne.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "66003022",
+    "b": 66,
+    "c": 3,
+    "v": 22,
+    "t": "He who has an ear, let him hear what the Spirit says to the churches.’”",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "66004001",
+    "b": 66,
+    "c": 4,
+    "v": 1,
+    "t": "After this I looked, and behold, a door standing open in heaven! And the first voice, which I had heard speaking to me like a trumpet, said, “Come up here, and I will show you what must take place after this.”",
+    "h": "The Throne in Heaven",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "66004002",
+    "b": 66,
+    "c": 4,
+    "v": 2,
+    "t": "At once I was in the Spirit, and behold, a throne stood in heaven, with one seated on the throne.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "66004003",
+    "b": 66,
+    "c": 4,
+    "v": 3,
+    "t": "And he who sat there had the appearance of jasper and carnelian, and around the throne was a rainbow that had the appearance of an emerald.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "66004004",
+    "b": 66,
+    "c": 4,
+    "v": 4,
+    "t": "Around the throne were twenty-four thrones, and seated on the thrones were twenty-four elders, clothed in white garments, with golden crowns on their heads.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "66004005",
+    "b": 66,
+    "c": 4,
+    "v": 5,
+    "t": "From the throne came flashes of lightning, and rumblings and peals of thunder, and before the throne were burning seven torches of fire, which are the seven spirits of God,",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "66004006",
+    "b": 66,
+    "c": 4,
+    "v": 6,
+    "t": "and before the throne there was as it were a sea of glass, like crystal. And around the throne, on each side of the throne, are four living creatures, full of eyes in front and behind:",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "66004007",
+    "b": 66,
+    "c": 4,
+    "v": 7,
+    "t": "the first living creature like a lion, the second living creature like an ox, the third living creature with the face of a man, and the fourth living creature like an eagle in flight.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "66004008",
+    "b": 66,
+    "c": 4,
+    "v": 8,
+    "t": "And the four living creatures, each of them with six wings, are full of eyes all around and within, and day and night they never cease to say, “Holy, holy, holy, is the Lord God Almighty, who was and is and is to come!”",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "66004009",
+    "b": 66,
+    "c": 4,
+    "v": 9,
+    "t": "And whenever the living creatures give glory and honor and thanks to him who is seated on the throne, who lives forever and ever,",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "66004010",
+    "b": 66,
+    "c": 4,
+    "v": 10,
+    "t": "the twenty-four elders fall down before him who is seated on the throne and worship him who lives forever and ever. They cast their crowns before the throne, saying,",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "66004011",
+    "b": 66,
+    "c": 4,
+    "v": 11,
+    "t": "“Worthy are you, our Lord and God, to receive glory and honor and power, for you created all things, and by your will they existed and were created.”",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "66005001",
+    "b": 66,
+    "c": 5,
+    "v": 1,
+    "t": "Then I saw in the right hand of him who was seated on the throne a scroll written within and on the back, sealed with seven seals.",
+    "h": "The Scroll and the Lamb",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "66005002",
+    "b": 66,
+    "c": 5,
+    "v": 2,
+    "t": "And I saw a mighty angel proclaiming with a loud voice, “Who is worthy to open the scroll and break its seals?”",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "66005003",
+    "b": 66,
+    "c": 5,
+    "v": 3,
+    "t": "And no one in heaven or on earth or under the earth was able to open the scroll or to look into it,",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "66005004",
+    "b": 66,
+    "c": 5,
+    "v": 4,
+    "t": "and I began to weep loudly because no one was found worthy to open the scroll or to look into it.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "66005005",
+    "b": 66,
+    "c": 5,
+    "v": 5,
+    "t": "And one of the elders said to me, “Weep no more; behold, the Lion of the tribe of Judah, the Root of David, has conquered, so that he can open the scroll and its seven seals.”",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "66005006",
+    "b": 66,
+    "c": 5,
+    "v": 6,
+    "t": "And between the throne and the four living creatures and among the elders I saw a Lamb standing, as though it had been slain, with seven horns and with seven eyes, which are the seven spirits of God sent out into all the earth.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "66005007",
+    "b": 66,
+    "c": 5,
+    "v": 7,
+    "t": "And he went and took the scroll from the right hand of him who was seated on the throne.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "66005008",
+    "b": 66,
+    "c": 5,
+    "v": 8,
+    "t": "And when he had taken the scroll, the four living creatures and the twenty-four elders fell down before the Lamb, each holding a harp, and golden bowls full of incense, which are the prayers of the saints.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "66005009",
+    "b": 66,
+    "c": 5,
+    "v": 9,
+    "t": "And they sang a new song, saying, “Worthy are you to take the scroll and to open its seals, for you were slain, and by your blood you ransomed people for God from every tribe and language and people and nation,",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "66005010",
+    "b": 66,
+    "c": 5,
+    "v": 10,
+    "t": "and you have made them a kingdom and priests to our God, and they shall reign on the earth.”",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "66005011",
+    "b": 66,
+    "c": 5,
+    "v": 11,
+    "t": "Then I looked, and I heard around the throne and the living creatures and the elders the voice of many angels, numbering myriads of myriads and thousands of thousands,",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "66005012",
+    "b": 66,
+    "c": 5,
+    "v": 12,
+    "t": "saying with a loud voice, “Worthy is the Lamb who was slain, to receive power and wealth and wisdom and might and honor and glory and blessing!”",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "66005013",
+    "b": 66,
+    "c": 5,
+    "v": 13,
+    "t": "And I heard every creature in heaven and on earth and under the earth and in the sea, and all that is in them, saying, “To him who sits on the throne and to the Lamb be blessing and honor and glory and might forever and ever!”",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "66005014",
+    "b": 66,
+    "c": 5,
+    "v": 14,
+    "t": "And the four living creatures said, “Amen!” and the elders fell down and worshiped.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "66006001",
+    "b": 66,
+    "c": 6,
+    "v": 1,
+    "t": "Now I watched when the Lamb opened one of the seven seals, and I heard one of the four living creatures say with a voice like thunder, “Come!”",
+    "h": "The Seven Seals",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "66006002",
+    "b": 66,
+    "c": 6,
+    "v": 2,
+    "t": "And I looked, and behold, a white horse! And its rider had a bow, and a crown was given to him, and he came out conquering, and to conquer.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "66006003",
+    "b": 66,
+    "c": 6,
+    "v": 3,
+    "t": "When he opened the second seal, I heard the second living creature say, “Come!”",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "66006004",
+    "b": 66,
+    "c": 6,
+    "v": 4,
+    "t": "And out came another horse, bright red. Its rider was permitted to take peace from the earth, so that people should slay one another, and he was given a great sword.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "66006005",
+    "b": 66,
+    "c": 6,
+    "v": 5,
+    "t": "When he opened the third seal, I heard the third living creature say, “Come!” And I looked, and behold, a black horse! And its rider had a pair of scales in his hand.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "66006006",
+    "b": 66,
+    "c": 6,
+    "v": 6,
+    "t": "And I heard what seemed to be a voice in the midst of the four living creatures, saying, “A quart of wheat for a denarius, and three quarts of barley for a denarius, and do not harm the oil and wine!”",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "66006007",
+    "b": 66,
+    "c": 6,
+    "v": 7,
+    "t": "When he opened the fourth seal, I heard the voice of the fourth living creature say, “Come!”",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "66006008",
+    "b": 66,
+    "c": 6,
+    "v": 8,
+    "t": "And I looked, and behold, a pale horse! And its rider’s name was Death, and Hades followed him. And they were given authority over a fourth of the earth, to kill with sword and with famine and with pestilence and by wild beasts of the earth.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "66006009",
+    "b": 66,
+    "c": 6,
+    "v": 9,
+    "t": "When he opened the fifth seal, I saw under the altar the souls of those who had been slain for the word of God and for the witness they had borne.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "66006010",
+    "b": 66,
+    "c": 6,
+    "v": 10,
+    "t": "They cried out with a loud voice, “O Sovereign Lord, holy and true, how long before you will judge and avenge our blood on those who dwell on the earth?”",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "66006011",
+    "b": 66,
+    "c": 6,
+    "v": 11,
+    "t": "Then they were each given a white robe and told to rest a little longer, until the number of their fellow servants and their brothers should be complete, who were to be killed as they themselves had been.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "66006012",
+    "b": 66,
+    "c": 6,
+    "v": 12,
+    "t": "When he opened the sixth seal, I looked, and behold, there was a great earthquake, and the sun became black as sackcloth, the full moon became like blood,",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "66006013",
+    "b": 66,
+    "c": 6,
+    "v": 13,
+    "t": "and the stars of the sky fell to the earth as the fig tree sheds its winter fruit when shaken by a gale.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "66006014",
+    "b": 66,
+    "c": 6,
+    "v": 14,
+    "t": "The sky vanished like a scroll that is being rolled up, and every mountain and island was removed from its place.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "66006015",
+    "b": 66,
+    "c": 6,
+    "v": 15,
+    "t": "Then the kings of the earth and the great ones and the generals and the rich and the powerful, and everyone, slave and free, hid themselves in the caves and among the rocks of the mountains,",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "66006016",
+    "b": 66,
+    "c": 6,
+    "v": 16,
+    "t": "calling to the mountains and rocks, “Fall on us and hide us from the face of him who is seated on the throne, and from the wrath of the Lamb,",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "66006017",
+    "b": 66,
+    "c": 6,
+    "v": 17,
+    "t": "for the great day of their wrath has come, and who can stand?”",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "66007001",
+    "b": 66,
+    "c": 7,
+    "v": 1,
+    "t": "After this I saw four angels standing at the four corners of the earth, holding back the four winds of the earth, that no wind might blow on earth or sea or against any tree.",
+    "h": "The 144,000 of Israel Sealed",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "66007002",
+    "b": 66,
+    "c": 7,
+    "v": 2,
+    "t": "Then I saw another angel ascending from the rising of the sun, with the seal of the living God, and he called with a loud voice to the four angels who had been given power to harm earth and sea,",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "66007003",
+    "b": 66,
+    "c": 7,
+    "v": 3,
+    "t": "saying, “Do not harm the earth or the sea or the trees, until we have sealed the servants of our God on their foreheads.”",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "66007004",
+    "b": 66,
+    "c": 7,
+    "v": 4,
+    "t": "And I heard the number of the sealed, 144,000, sealed from every tribe of the sons of Israel:",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "66007005",
+    "b": 66,
+    "c": 7,
+    "v": 5,
+    "t": "12,000 from the tribe of Judah were sealed, 12,000 from the tribe of Reuben, 12,000 from the tribe of Gad,",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "66007006",
+    "b": 66,
+    "c": 7,
+    "v": 6,
+    "t": "12,000 from the tribe of Asher, 12,000 from the tribe of Naphtali, 12,000 from the tribe of Manasseh,",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "66007007",
+    "b": 66,
+    "c": 7,
+    "v": 7,
+    "t": "12,000 from the tribe of Simeon, 12,000 from the tribe of Levi, 12,000 from the tribe of Issachar,",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "66007008",
+    "b": 66,
+    "c": 7,
+    "v": 8,
+    "t": "12,000 from the tribe of Zebulun, 12,000 from the tribe of Joseph, 12,000 from the tribe of Benjamin were sealed.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "66007009",
+    "b": 66,
+    "c": 7,
+    "v": 9,
+    "t": "After this I looked, and behold, a great multitude that no one could number, from every nation, from all tribes and peoples and languages, standing before the throne and before the Lamb, clothed in white robes, with palm branches in their hands,",
+    "h": "A Great Multitude from Every Nation",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "66007010",
+    "b": 66,
+    "c": 7,
+    "v": 10,
+    "t": "and crying out with a loud voice, “Salvation belongs to our God who sits on the throne, and to the Lamb!”",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "66007011",
+    "b": 66,
+    "c": 7,
+    "v": 11,
+    "t": "And all the angels were standing around the throne and around the elders and the four living creatures, and they fell on their faces before the throne and worshiped God,",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "66007012",
+    "b": 66,
+    "c": 7,
+    "v": 12,
+    "t": "saying, “Amen! Blessing and glory and wisdom and thanksgiving and honor and power and might be to our God forever and ever! Amen.”",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "66007013",
+    "b": 66,
+    "c": 7,
+    "v": 13,
+    "t": "Then one of the elders addressed me, saying, “Who are these, clothed in white robes, and from where have they come?”",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "66007014",
+    "b": 66,
+    "c": 7,
+    "v": 14,
+    "t": "I said to him, “Sir, you know.” And he said to me, “These are the ones coming out of the great tribulation. They have washed their robes and made them white in the blood of the Lamb.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "66007015",
+    "b": 66,
+    "c": 7,
+    "v": 15,
+    "t": "“Therefore they are before the throne of God, and serve him day and night in his temple; and he who sits on the throne will shelter them with his presence.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "66007016",
+    "b": 66,
+    "c": 7,
+    "v": 16,
+    "t": "They shall hunger no more, neither thirst anymore; the sun shall not strike them, nor any scorching heat.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "66007017",
+    "b": 66,
+    "c": 7,
+    "v": 17,
+    "t": "For the Lamb in the midst of the throne will be their shepherd, and he will guide them to springs of living water, and God will wipe away every tear from their eyes.”",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "66008001",
+    "b": 66,
+    "c": 8,
+    "v": 1,
+    "t": "When the Lamb opened the seventh seal, there was silence in heaven for about half an hour.",
+    "h": "The Seventh Seal and the Golden Censer",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "66008002",
+    "b": 66,
+    "c": 8,
+    "v": 2,
+    "t": "Then I saw the seven angels who stand before God, and seven trumpets were given to them.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "66008003",
+    "b": 66,
+    "c": 8,
+    "v": 3,
+    "t": "And another angel came and stood at the altar with a golden censer, and he was given much incense to offer with the prayers of all the saints on the golden altar before the throne,",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "66008004",
+    "b": 66,
+    "c": 8,
+    "v": 4,
+    "t": "and the smoke of the incense, with the prayers of the saints, rose before God from the hand of the angel.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "66008005",
+    "b": 66,
+    "c": 8,
+    "v": 5,
+    "t": "Then the angel took the censer and filled it with fire from the altar and threw it on the earth, and there were peals of thunder, rumblings, flashes of lightning, and an earthquake.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "66008006",
+    "b": 66,
+    "c": 8,
+    "v": 6,
+    "t": "Now the seven angels who had the seven trumpets prepared to blow them.",
+    "h": "The Seven Trumpets",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "66008007",
+    "b": 66,
+    "c": 8,
+    "v": 7,
+    "t": "The first angel blew his trumpet, and there followed hail and fire, mixed with blood, and these were thrown upon the earth. And a third of the earth was burned up, and a third of the trees were burned up, and all green grass was burned up.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "66008008",
+    "b": 66,
+    "c": 8,
+    "v": 8,
+    "t": "The second angel blew his trumpet, and something like a great mountain, burning with fire, was thrown into the sea, and a third of the sea became blood.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "66008009",
+    "b": 66,
+    "c": 8,
+    "v": 9,
+    "t": "A third of the living creatures in the sea died, and a third of the ships were destroyed.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "66008010",
+    "b": 66,
+    "c": 8,
+    "v": 10,
+    "t": "The third angel blew his trumpet, and a great star fell from heaven, blazing like a torch, and it fell on a third of the rivers and on the springs of water.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "66008011",
+    "b": 66,
+    "c": 8,
+    "v": 11,
+    "t": "The name of the star is Wormwood. A third of the waters became wormwood, and many people died from the water, because it had been made bitter.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "66008012",
+    "b": 66,
+    "c": 8,
+    "v": 12,
+    "t": "The fourth angel blew his trumpet, and a third of the sun was struck, and a third of the moon, and a third of the stars, so that a third of their light might be darkened, and a third of the day might be kept from shining, and likewise a third of the night.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "66008013",
+    "b": 66,
+    "c": 8,
+    "v": 13,
+    "t": "Then I looked, and I heard an eagle crying with a loud voice as it flew directly overhead, “Woe, woe, woe to those who dwell on the earth, at the blasts of the other trumpets that the three angels are about to blow!”",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "66009001",
+    "b": 66,
+    "c": 9,
+    "v": 1,
+    "t": "And the fifth angel blew his trumpet, and I saw a star fallen from heaven to earth, and he was given the key to the shaft of the bottomless pit.",
+    "h": "",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "66009002",
+    "b": 66,
+    "c": 9,
+    "v": 2,
+    "t": "He opened the shaft of the bottomless pit, and from the shaft rose smoke like the smoke of a great furnace, and the sun and the air were darkened with the smoke from the shaft.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "66009003",
+    "b": 66,
+    "c": 9,
+    "v": 3,
+    "t": "Then from the smoke came locusts on the earth, and they were given power like the power of scorpions of the earth.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "66009004",
+    "b": 66,
+    "c": 9,
+    "v": 4,
+    "t": "They were told not to harm the grass of the earth or any green plant or any tree, but only those people who do not have the seal of God on their foreheads.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "66009005",
+    "b": 66,
+    "c": 9,
+    "v": 5,
+    "t": "They were allowed to torment them for five months, but not to kill them, and their torment was like the torment of a scorpion when it stings someone.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "66009006",
+    "b": 66,
+    "c": 9,
+    "v": 6,
+    "t": "And in those days people will seek death and will not find it. They will long to die, but death will flee from them.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "66009007",
+    "b": 66,
+    "c": 9,
+    "v": 7,
+    "t": "In appearance the locusts were like horses prepared for battle: on their heads were what looked like crowns of gold; their faces were like human faces,",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "66009008",
+    "b": 66,
+    "c": 9,
+    "v": 8,
+    "t": "their hair like women’s hair, and their teeth like lions’ teeth;",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "66009009",
+    "b": 66,
+    "c": 9,
+    "v": 9,
+    "t": "they had breastplates like breastplates of iron, and the noise of their wings was like the noise of many chariots with horses rushing into battle.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "66009010",
+    "b": 66,
+    "c": 9,
+    "v": 10,
+    "t": "They have tails and stings like scorpions, and their power to hurt people for five months is in their tails.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "66009011",
+    "b": 66,
+    "c": 9,
+    "v": 11,
+    "t": "They have as king over them the angel of the bottomless pit. His name in Hebrew is Abaddon, and in Greek he is called Apollyon.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "66009012",
+    "b": 66,
+    "c": 9,
+    "v": 12,
+    "t": "The first woe has passed; behold, two woes are still to come.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "66009013",
+    "b": 66,
+    "c": 9,
+    "v": 13,
+    "t": "Then the sixth angel blew his trumpet, and I heard a voice from the four horns of the golden altar before God,",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "66009014",
+    "b": 66,
+    "c": 9,
+    "v": 14,
+    "t": "saying to the sixth angel who had the trumpet, “Release the four angels who are bound at the great river Euphrates.”",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "66009015",
+    "b": 66,
+    "c": 9,
+    "v": 15,
+    "t": "So the four angels, who had been prepared for the hour, the day, the month, and the year, were released to kill a third of mankind.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "66009016",
+    "b": 66,
+    "c": 9,
+    "v": 16,
+    "t": "The number of mounted troops was twice ten thousand times ten thousand; I heard their number.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "66009017",
+    "b": 66,
+    "c": 9,
+    "v": 17,
+    "t": "And this is how I saw the horses in my vision and those who rode them: they wore breastplates the color of fire and of sapphire and of sulfur, and the heads of the horses were like lions’ heads, and fire and smoke and sulfur came out of their mouths.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "66009018",
+    "b": 66,
+    "c": 9,
+    "v": 18,
+    "t": "By these three plagues a third of mankind was killed, by the fire and smoke and sulfur coming out of their mouths.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "66009019",
+    "b": 66,
+    "c": 9,
+    "v": 19,
+    "t": "For the power of the horses is in their mouths and in their tails, for their tails are like serpents with heads, and by means of them they wound.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "66009020",
+    "b": 66,
+    "c": 9,
+    "v": 20,
+    "t": "The rest of mankind, who were not killed by these plagues, did not repent of the works of their hands nor give up worshiping demons and idols of gold and silver and bronze and stone and wood, which cannot see or hear or walk,",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "66009021",
+    "b": 66,
+    "c": 9,
+    "v": 21,
+    "t": "nor did they repent of their murders or their sorceries or their sexual immorality or their thefts.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "66010001",
+    "b": 66,
+    "c": 10,
+    "v": 1,
+    "t": "Then I saw another mighty angel coming down from heaven, wrapped in a cloud, with a rainbow over his head, and his face was like the sun, and his legs like pillars of fire.",
+    "h": "The Angel and the Little Scroll",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "66010002",
+    "b": 66,
+    "c": 10,
+    "v": 2,
+    "t": "He had a little scroll open in his hand. And he set his right foot on the sea, and his left foot on the land,",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "66010003",
+    "b": 66,
+    "c": 10,
+    "v": 3,
+    "t": "and called out with a loud voice, like a lion roaring. When he called out, the seven thunders sounded.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "66010004",
+    "b": 66,
+    "c": 10,
+    "v": 4,
+    "t": "And when the seven thunders had sounded, I was about to write, but I heard a voice from heaven saying, “Seal up what the seven thunders have said, and do not write it down.”",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "66010005",
+    "b": 66,
+    "c": 10,
+    "v": 5,
+    "t": "And the angel whom I saw standing on the sea and on the land raised his right hand to heaven",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "66010006",
+    "b": 66,
+    "c": 10,
+    "v": 6,
+    "t": "and swore by him who lives forever and ever, who created heaven and what is in it, the earth and what is in it, and the sea and what is in it, that there would be no more delay,",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "66010007",
+    "b": 66,
+    "c": 10,
+    "v": 7,
+    "t": "but that in the days of the trumpet call to be sounded by the seventh angel, the mystery of God would be fulfilled, just as he announced to his servants the prophets.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "66010008",
+    "b": 66,
+    "c": 10,
+    "v": 8,
+    "t": "Then the voice that I had heard from heaven spoke to me again, saying, “Go, take the scroll that is open in the hand of the angel who is standing on the sea and on the land.”",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "66010009",
+    "b": 66,
+    "c": 10,
+    "v": 9,
+    "t": "So I went to the angel and told him to give me the little scroll. And he said to me, “Take and eat it; it will make your stomach bitter, but in your mouth it will be sweet as honey.”",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "66010010",
+    "b": 66,
+    "c": 10,
+    "v": 10,
+    "t": "And I took the little scroll from the hand of the angel and ate it. It was sweet as honey in my mouth, but when I had eaten it my stomach was made bitter.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "66010011",
+    "b": 66,
+    "c": 10,
+    "v": 11,
+    "t": "And I was told, “You must again prophesy about many peoples and nations and languages and kings.”",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "66011001",
+    "b": 66,
+    "c": 11,
+    "v": 1,
+    "t": "Then I was given a measuring rod like a staff, and I was told, “Rise and measure the temple of God and the altar and those who worship there,",
+    "h": "The Two Witnesses",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "66011002",
+    "b": 66,
+    "c": 11,
+    "v": 2,
+    "t": "but do not measure the court outside the temple; leave that out, for it is given over to the nations, and they will trample the holy city for forty-two months.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "66011003",
+    "b": 66,
+    "c": 11,
+    "v": 3,
+    "t": "And I will grant authority to my two witnesses, and they will prophesy for 1,260 days, clothed in sackcloth.”",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "66011004",
+    "b": 66,
+    "c": 11,
+    "v": 4,
+    "t": "These are the two olive trees and the two lampstands that stand before the Lord of the earth.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "66011005",
+    "b": 66,
+    "c": 11,
+    "v": 5,
+    "t": "And if anyone would harm them, fire pours from their mouth and consumes their foes. If anyone would harm them, this is how he is doomed to be killed.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "66011006",
+    "b": 66,
+    "c": 11,
+    "v": 6,
+    "t": "They have the power to shut the sky, that no rain may fall during the days of their prophesying, and they have power over the waters to turn them into blood and to strike the earth with every kind of plague, as often as they desire.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "66011007",
+    "b": 66,
+    "c": 11,
+    "v": 7,
+    "t": "And when they have finished their testimony, the beast that rises from the bottomless pit will make war on them and conquer them and kill them,",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "66011008",
+    "b": 66,
+    "c": 11,
+    "v": 8,
+    "t": "and their dead bodies will lie in the street of the great city that symbolically is called Sodom and Egypt, where their Lord was crucified.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "66011009",
+    "b": 66,
+    "c": 11,
+    "v": 9,
+    "t": "For three and a half days some from the peoples and tribes and languages and nations will gaze at their dead bodies and refuse to let them be placed in a tomb,",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "66011010",
+    "b": 66,
+    "c": 11,
+    "v": 10,
+    "t": "and those who dwell on the earth will rejoice over them and make merry and exchange presents, because these two prophets had been a torment to those who dwell on the earth.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "66011011",
+    "b": 66,
+    "c": 11,
+    "v": 11,
+    "t": "But after the three and a half days a breath of life from God entered them, and they stood up on their feet, and great fear fell on those who saw them.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "66011012",
+    "b": 66,
+    "c": 11,
+    "v": 12,
+    "t": "Then they heard a loud voice from heaven saying to them, “Come up here!” And they went up to heaven in a cloud, and their enemies watched them.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "66011013",
+    "b": 66,
+    "c": 11,
+    "v": 13,
+    "t": "And at that hour there was a great earthquake, and a tenth of the city fell. Seven thousand people were killed in the earthquake, and the rest were terrified and gave glory to the God of heaven.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "66011014",
+    "b": 66,
+    "c": 11,
+    "v": 14,
+    "t": "The second woe has passed; behold, the third woe is soon to come.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "66011015",
+    "b": 66,
+    "c": 11,
+    "v": 15,
+    "t": "Then the seventh angel blew his trumpet, and there were loud voices in heaven, saying, “The kingdom of the world has become the kingdom of our Lord and of his Christ, and he shall reign forever and ever.”",
+    "h": "The Seventh Trumpet",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "66011016",
+    "b": 66,
+    "c": 11,
+    "v": 16,
+    "t": "And the twenty-four elders who sit on their thrones before God fell on their faces and worshiped God,",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "66011017",
+    "b": 66,
+    "c": 11,
+    "v": 17,
+    "t": "saying, “We give thanks to you, Lord God Almighty, who is and who was, for you have taken your great power and begun to reign.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "66011018",
+    "b": 66,
+    "c": 11,
+    "v": 18,
+    "t": "The nations raged, but your wrath came, and the time for the dead to be judged, and for rewarding your servants, the prophets and saints, and those who fear your name, both small and great, and for destroying the destroyers of the earth.”",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "66011019",
+    "b": 66,
+    "c": 11,
+    "v": 19,
+    "t": "Then God’s temple in heaven was opened, and the ark of his covenant was seen within his temple. There were flashes of lightning, rumblings, peals of thunder, an earthquake, and heavy hail.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "66012001",
+    "b": 66,
+    "c": 12,
+    "v": 1,
+    "t": "And a great sign appeared in heaven: a woman clothed with the sun, with the moon under her feet, and on her head a crown of twelve stars.",
+    "h": "The Woman and the Dragon",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "66012002",
+    "b": 66,
+    "c": 12,
+    "v": 2,
+    "t": "She was pregnant and was crying out in birth pains and the agony of giving birth.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "66012003",
+    "b": 66,
+    "c": 12,
+    "v": 3,
+    "t": "And another sign appeared in heaven: behold, a great red dragon, with seven heads and ten horns, and on his heads seven diadems.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "66012004",
+    "b": 66,
+    "c": 12,
+    "v": 4,
+    "t": "His tail swept down a third of the stars of heaven and cast them to the earth. And the dragon stood before the woman who was about to give birth, so that when she bore her child he might devour it.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "66012005",
+    "b": 66,
+    "c": 12,
+    "v": 5,
+    "t": "She gave birth to a male child, one who is to rule all the nations with a rod of iron, but her child was caught up to God and to his throne,",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "66012006",
+    "b": 66,
+    "c": 12,
+    "v": 6,
+    "t": "and the woman fled into the wilderness, where she has a place prepared by God, in which she is to be nourished for 1,260 days.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "66012007",
+    "b": 66,
+    "c": 12,
+    "v": 7,
+    "t": "Now war arose in heaven, Michael and his angels fighting against the dragon. And the dragon and his angels fought back,",
+    "h": "Satan Thrown Down to Earth",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "66012008",
+    "b": 66,
+    "c": 12,
+    "v": 8,
+    "t": "but he was defeated, and there was no longer any place for them in heaven.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "66012009",
+    "b": 66,
+    "c": 12,
+    "v": 9,
+    "t": "And the great dragon was thrown down, that ancient serpent, who is called the devil and Satan, the deceiver of the whole world— he was thrown down to the earth, and his angels were thrown down with him.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "66012010",
+    "b": 66,
+    "c": 12,
+    "v": 10,
+    "t": "And I heard a loud voice in heaven, saying, “Now the salvation and the power and the kingdom of our God and the authority of his Christ have come, for the accuser of our brothers has been thrown down, who accuses them day and night before our God.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "66012011",
+    "b": 66,
+    "c": 12,
+    "v": 11,
+    "t": "And they have conquered him by the blood of the Lamb and by the word of their testimony, for they loved not their lives even unto death.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "66012012",
+    "b": 66,
+    "c": 12,
+    "v": 12,
+    "t": "Therefore, rejoice, O heavens and you who dwell in them! But woe to you, O earth and sea, for the devil has come down to you in great wrath, because he knows that his time is short!”",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "66012013",
+    "b": 66,
+    "c": 12,
+    "v": 13,
+    "t": "And when the dragon saw that he had been thrown down to the earth, he pursued the woman who had given birth to the male child.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "66012014",
+    "b": 66,
+    "c": 12,
+    "v": 14,
+    "t": "But the woman was given the two wings of the great eagle so that she might fly from the serpent into the wilderness, to the place where she is to be nourished for a time, and times, and half a time.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "66012015",
+    "b": 66,
+    "c": 12,
+    "v": 15,
+    "t": "The serpent poured water like a river out of his mouth after the woman, to sweep her away with a flood.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "66012016",
+    "b": 66,
+    "c": 12,
+    "v": 16,
+    "t": "But the earth came to the help of the woman, and the earth opened its mouth and swallowed the river that the dragon had poured from his mouth.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "66012017",
+    "b": 66,
+    "c": 12,
+    "v": 17,
+    "t": "Then the dragon became furious with the woman and went off to make war on the rest of her offspring, on those who keep the commandments of God and hold to the testimony of Jesus. And he stood on the sand of the sea.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "66013001",
+    "b": 66,
+    "c": 13,
+    "v": 1,
+    "t": "And I saw a beast rising out of the sea, with ten horns and seven heads, with ten diadems on its horns and blasphemous names on its heads.",
+    "h": "The First Beast",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "66013002",
+    "b": 66,
+    "c": 13,
+    "v": 2,
+    "t": "And the beast that I saw was like a leopard; its feet were like a bear’s, and its mouth was like a lion’s mouth. And to it the dragon gave his power and his throne and great authority.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "66013003",
+    "b": 66,
+    "c": 13,
+    "v": 3,
+    "t": "One of its heads seemed to have a mortal wound, but its mortal wound was healed, and the whole earth marveled as they followed the beast.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "66013004",
+    "b": 66,
+    "c": 13,
+    "v": 4,
+    "t": "And they worshiped the dragon, for he had given his authority to the beast, and they worshiped the beast, saying, “Who is like the beast, and who can fight against it?”",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "66013005",
+    "b": 66,
+    "c": 13,
+    "v": 5,
+    "t": "And the beast was given a mouth uttering haughty and blasphemous words, and it was allowed to exercise authority for forty-two months.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "66013006",
+    "b": 66,
+    "c": 13,
+    "v": 6,
+    "t": "It opened its mouth to utter blasphemies against God, blaspheming his name and his dwelling, that is, those who dwell in heaven.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "66013007",
+    "b": 66,
+    "c": 13,
+    "v": 7,
+    "t": "Also it was allowed to make war on the saints and to conquer them. And authority was given it over every tribe and people and language and nation,",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "66013008",
+    "b": 66,
+    "c": 13,
+    "v": 8,
+    "t": "and all who dwell on earth will worship it, everyone whose name has not been written before the foundation of the world in the book of life of the Lamb who was slain.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "66013009",
+    "b": 66,
+    "c": 13,
+    "v": 9,
+    "t": "If anyone has an ear, let him hear:",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "66013010",
+    "b": 66,
+    "c": 13,
+    "v": 10,
+    "t": "If anyone is to be taken captive, to captivity he goes; if anyone is to be slain with the sword, with the sword must he be slain. Here is a call for the endurance and faith of the saints.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "66013011",
+    "b": 66,
+    "c": 13,
+    "v": 11,
+    "t": "Then I saw another beast rising out of the earth. It had two horns like a lamb and it spoke like a dragon.",
+    "h": "The Second Beast",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "66013012",
+    "b": 66,
+    "c": 13,
+    "v": 12,
+    "t": "It exercises all the authority of the first beast in its presence, and makes the earth and its inhabitants worship the first beast, whose mortal wound was healed.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "66013013",
+    "b": 66,
+    "c": 13,
+    "v": 13,
+    "t": "It performs great signs, even making fire come down from heaven to earth in front of people,",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "66013014",
+    "b": 66,
+    "c": 13,
+    "v": 14,
+    "t": "and by the signs that it is allowed to work in the presence of the beast it deceives those who dwell on earth, telling them to make an image for the beast that was wounded by the sword and yet lived.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "66013015",
+    "b": 66,
+    "c": 13,
+    "v": 15,
+    "t": "And it was allowed to give breath to the image of the beast, so that the image of the beast might even speak and might cause those who would not worship the image of the beast to be slain.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "66013016",
+    "b": 66,
+    "c": 13,
+    "v": 16,
+    "t": "Also it causes all, both small and great, both rich and poor, both free and slave, to be marked on the right hand or the forehead,",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "66013017",
+    "b": 66,
+    "c": 13,
+    "v": 17,
+    "t": "so that no one can buy or sell unless he has the mark, that is, the name of the beast or the number of its name.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "66013018",
+    "b": 66,
+    "c": 13,
+    "v": 18,
+    "t": "This calls for wisdom: let the one who has understanding calculate the number of the beast, for it is the number of a man, and his number is 666.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "66014001",
+    "b": 66,
+    "c": 14,
+    "v": 1,
+    "t": "Then I looked, and behold, on Mount Zion stood the Lamb, and with him 144,000 who had his name and his Father’s name written on their foreheads.",
+    "h": "The Lamb and the 144,000",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "66014002",
+    "b": 66,
+    "c": 14,
+    "v": 2,
+    "t": "And I heard a voice from heaven like the roar of many waters and like the sound of loud thunder. The voice I heard was like the sound of harpists playing on their harps,",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "66014003",
+    "b": 66,
+    "c": 14,
+    "v": 3,
+    "t": "and they were singing a new song before the throne and before the four living creatures and before the elders. No one could learn that song except the 144,000 who had been redeemed from the earth.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "66014004",
+    "b": 66,
+    "c": 14,
+    "v": 4,
+    "t": "It is these who have not defiled themselves with women, for they are virgins. It is these who follow the Lamb wherever he goes. These have been redeemed from mankind as firstfruits for God and the Lamb,",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "66014005",
+    "b": 66,
+    "c": 14,
+    "v": 5,
+    "t": "and in their mouth no lie was found, for they are blameless.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "66014006",
+    "b": 66,
+    "c": 14,
+    "v": 6,
+    "t": "Then I saw another angel flying directly overhead, with an eternal gospel to proclaim to those who dwell on earth, to every nation and tribe and language and people.",
+    "h": "The Messages of the Three Angels",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "66014007",
+    "b": 66,
+    "c": 14,
+    "v": 7,
+    "t": "And he said with a loud voice, “Fear God and give him glory, because the hour of his judgment has come, and worship him who made heaven and earth, the sea and the springs of water.”",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "66014008",
+    "b": 66,
+    "c": 14,
+    "v": 8,
+    "t": "Another angel, a second, followed, saying, “Fallen, fallen is Babylon the great, she who made all nations drink the wine of the passion of her sexual immorality.”",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "66014009",
+    "b": 66,
+    "c": 14,
+    "v": 9,
+    "t": "And another angel, a third, followed them, saying with a loud voice, “If anyone worships the beast and its image and receives a mark on his forehead or on his hand,",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "66014010",
+    "b": 66,
+    "c": 14,
+    "v": 10,
+    "t": "he also will drink the wine of God’s wrath, poured full strength into the cup of his anger, and he will be tormented with fire and sulfur in the presence of the holy angels and in the presence of the Lamb.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "66014011",
+    "b": 66,
+    "c": 14,
+    "v": 11,
+    "t": "And the smoke of their torment goes up forever and ever, and they have no rest, day or night, these worshipers of the beast and its image, and whoever receives the mark of its name.”",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "66014012",
+    "b": 66,
+    "c": 14,
+    "v": 12,
+    "t": "Here is a call for the endurance of the saints, those who keep the commandments of God and their faith in Jesus.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "66014013",
+    "b": 66,
+    "c": 14,
+    "v": 13,
+    "t": "And I heard a voice from heaven saying, “Write this: Blessed are the dead who die in the Lord from now on.” “Blessed indeed,” says the Spirit, “that they may rest from their labors, for their deeds follow them!”",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "66014014",
+    "b": 66,
+    "c": 14,
+    "v": 14,
+    "t": "Then I looked, and behold, a white cloud, and seated on the cloud one like a son of man, with a golden crown on his head, and a sharp sickle in his hand.",
+    "h": "The Harvest of the Earth",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "66014015",
+    "b": 66,
+    "c": 14,
+    "v": 15,
+    "t": "And another angel came out of the temple, calling with a loud voice to him who sat on the cloud, “Put in your sickle, and reap, for the hour to reap has come, for the harvest of the earth is fully ripe.”",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "66014016",
+    "b": 66,
+    "c": 14,
+    "v": 16,
+    "t": "So he who sat on the cloud swung his sickle across the earth, and the earth was reaped.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "66014017",
+    "b": 66,
+    "c": 14,
+    "v": 17,
+    "t": "Then another angel came out of the temple in heaven, and he too had a sharp sickle.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "66014018",
+    "b": 66,
+    "c": 14,
+    "v": 18,
+    "t": "And another angel came out from the altar, the angel who has authority over the fire, and he called with a loud voice to the one who had the sharp sickle, “Put in your sickle and gather the clusters from the vine of the earth, for its grapes are ripe.”",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "66014019",
+    "b": 66,
+    "c": 14,
+    "v": 19,
+    "t": "So the angel swung his sickle across the earth and gathered the grape harvest of the earth and threw it into the great winepress of the wrath of God.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "66014020",
+    "b": 66,
+    "c": 14,
+    "v": 20,
+    "t": "And the winepress was trodden outside the city, and blood flowed from the winepress, as high as a horse’s bridle, for 1,600 stadia.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "66015001",
+    "b": 66,
+    "c": 15,
+    "v": 1,
+    "t": "Then I saw another sign in heaven, great and amazing, seven angels with seven plagues, which are the last, for with them the wrath of God is finished.",
+    "h": "The Seven Angels with Seven Plagues",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "66015002",
+    "b": 66,
+    "c": 15,
+    "v": 2,
+    "t": "And I saw what appeared to be a sea of glass mingled with fire—and also those who had conquered the beast and its image and the number of its name, standing beside the sea of glass with harps of God in their hands.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "66015003",
+    "b": 66,
+    "c": 15,
+    "v": 3,
+    "t": "And they sing the song of Moses, the servant of God, and the song of the Lamb, saying, “Great and amazing are your deeds, O Lord God the Almighty! Just and true are your ways, O King of the nations!",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "66015004",
+    "b": 66,
+    "c": 15,
+    "v": 4,
+    "t": "Who will not fear, O Lord, and glorify your name? For you alone are holy. All nations will come and worship you, for your righteous acts have been revealed.”",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "66015005",
+    "b": 66,
+    "c": 15,
+    "v": 5,
+    "t": "After this I looked, and the sanctuary of the tent of witness in heaven was opened,",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "66015006",
+    "b": 66,
+    "c": 15,
+    "v": 6,
+    "t": "and out of the sanctuary came the seven angels with the seven plagues, clothed in pure, bright linen, with golden sashes around their chests.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "66015007",
+    "b": 66,
+    "c": 15,
+    "v": 7,
+    "t": "And one of the four living creatures gave to the seven angels seven golden bowls full of the wrath of God who lives forever and ever,",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "66015008",
+    "b": 66,
+    "c": 15,
+    "v": 8,
+    "t": "and the sanctuary was filled with smoke from the glory of God and from his power, and no one could enter the sanctuary until the seven plagues of the seven angels were finished.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "66016001",
+    "b": 66,
+    "c": 16,
+    "v": 1,
+    "t": "Then I heard a loud voice from the temple telling the seven angels, “Go and pour out on the earth the seven bowls of the wrath of God.”",
+    "h": "The Seven Bowls of God’s Wrath",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "66016002",
+    "b": 66,
+    "c": 16,
+    "v": 2,
+    "t": "So the first angel went and poured out his bowl on the earth, and harmful and painful sores came upon the people who bore the mark of the beast and worshiped its image.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "66016003",
+    "b": 66,
+    "c": 16,
+    "v": 3,
+    "t": "The second angel poured out his bowl into the sea, and it became like the blood of a corpse, and every living thing died that was in the sea.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "66016004",
+    "b": 66,
+    "c": 16,
+    "v": 4,
+    "t": "The third angel poured out his bowl into the rivers and the springs of water, and they became blood.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "66016005",
+    "b": 66,
+    "c": 16,
+    "v": 5,
+    "t": "And I heard the angel in charge of the waters say, “Just are you, O Holy One, who is and who was, for you brought these judgments.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "66016006",
+    "b": 66,
+    "c": 16,
+    "v": 6,
+    "t": "For they have shed the blood of saints and prophets, and you have given them blood to drink. It is what they deserve!”",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "66016007",
+    "b": 66,
+    "c": 16,
+    "v": 7,
+    "t": "And I heard the altar saying, “Yes, Lord God the Almighty, true and just are your judgments!”",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "66016008",
+    "b": 66,
+    "c": 16,
+    "v": 8,
+    "t": "The fourth angel poured out his bowl on the sun, and it was allowed to scorch people with fire.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "66016009",
+    "b": 66,
+    "c": 16,
+    "v": 9,
+    "t": "They were scorched by the fierce heat, and they cursed the name of God who had power over these plagues. They did not repent and give him glory.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "66016010",
+    "b": 66,
+    "c": 16,
+    "v": 10,
+    "t": "The fifth angel poured out his bowl on the throne of the beast, and its kingdom was plunged into darkness. People gnawed their tongues in anguish",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "66016011",
+    "b": 66,
+    "c": 16,
+    "v": 11,
+    "t": "and cursed the God of heaven for their pain and sores. They did not repent of their deeds.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "66016012",
+    "b": 66,
+    "c": 16,
+    "v": 12,
+    "t": "The sixth angel poured out his bowl on the great river Euphrates, and its water was dried up, to prepare the way for the kings from the east.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "66016013",
+    "b": 66,
+    "c": 16,
+    "v": 13,
+    "t": "And I saw, coming out of the mouth of the dragon and out of the mouth of the beast and out of the mouth of the false prophet, three unclean spirits like frogs.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "66016014",
+    "b": 66,
+    "c": 16,
+    "v": 14,
+    "t": "For they are demonic spirits, performing signs, who go abroad to the kings of the whole world, to assemble them for battle on the great day of God the Almighty.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "66016015",
+    "b": 66,
+    "c": 16,
+    "v": 15,
+    "t": "(“Behold, I am coming like a thief! Blessed is the one who stays awake, keeping his garments on, that he may not go about naked and be seen exposed!”)",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "66016016",
+    "b": 66,
+    "c": 16,
+    "v": 16,
+    "t": "And they assembled them at the place that in Hebrew is called Armageddon.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "66016017",
+    "b": 66,
+    "c": 16,
+    "v": 17,
+    "t": "The seventh angel poured out his bowl into the air, and a loud voice came out of the temple, from the throne, saying, “It is done!”",
+    "h": "The Seventh Bowl",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "66016018",
+    "b": 66,
+    "c": 16,
+    "v": 18,
+    "t": "And there were flashes of lightning, rumblings, peals of thunder, and a great earthquake such as there had never been since man was on the earth, so great was that earthquake.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "66016019",
+    "b": 66,
+    "c": 16,
+    "v": 19,
+    "t": "The great city was split into three parts, and the cities of the nations fell, and God remembered Babylon the great, to make her drain the cup of the wine of the fury of his wrath.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "66016020",
+    "b": 66,
+    "c": 16,
+    "v": 20,
+    "t": "And every island fled away, and no mountains were to be found.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "66016021",
+    "b": 66,
+    "c": 16,
+    "v": 21,
+    "t": "And great hailstones, about one hundred pounds each, fell from heaven on people; and they cursed God for the plague of the hail, because the plague was so severe.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "66017001",
+    "b": 66,
+    "c": 17,
+    "v": 1,
+    "t": "Then one of the seven angels who had the seven bowls came and said to me, “Come, I will show you the judgment of the great prostitute who is seated on many waters,",
+    "h": "The Great Prostitute and the Beast",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "66017002",
+    "b": 66,
+    "c": 17,
+    "v": 2,
+    "t": "with whom the kings of the earth have committed sexual immorality, and with the wine of whose sexual immorality the dwellers on earth have become drunk.”",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "66017003",
+    "b": 66,
+    "c": 17,
+    "v": 3,
+    "t": "And he carried me away in the Spirit into a wilderness, and I saw a woman sitting on a scarlet beast that was full of blasphemous names, and it had seven heads and ten horns.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "66017004",
+    "b": 66,
+    "c": 17,
+    "v": 4,
+    "t": "The woman was arrayed in purple and scarlet, and adorned with gold and jewels and pearls, holding in her hand a golden cup full of abominations and the impurities of her sexual immorality.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "66017005",
+    "b": 66,
+    "c": 17,
+    "v": 5,
+    "t": "And on her forehead was written a name of mystery: “Babylon the great, mother of prostitutes and of earth’s abominations.”",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "66017006",
+    "b": 66,
+    "c": 17,
+    "v": 6,
+    "t": "And I saw the woman, drunk with the blood of the saints, the blood of the martyrs of Jesus. When I saw her, I marveled greatly.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "66017007",
+    "b": 66,
+    "c": 17,
+    "v": 7,
+    "t": "But the angel said to me, “Why do you marvel? I will tell you the mystery of the woman, and of the beast with seven heads and ten horns that carries her.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "66017008",
+    "b": 66,
+    "c": 17,
+    "v": 8,
+    "t": "The beast that you saw was, and is not, and is about to rise from the bottomless pit and go to destruction. And the dwellers on earth whose names have not been written in the book of life from the foundation of the world will marvel to see the beast, because it was and is not and is to come.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "66017009",
+    "b": 66,
+    "c": 17,
+    "v": 9,
+    "t": "This calls for a mind with wisdom: the seven heads are seven mountains on which the woman is seated;",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "66017010",
+    "b": 66,
+    "c": 17,
+    "v": 10,
+    "t": "they are also seven kings, five of whom have fallen, one is, the other has not yet come, and when he does come he must remain only a little while.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "66017011",
+    "b": 66,
+    "c": 17,
+    "v": 11,
+    "t": "As for the beast that was and is not, it is an eighth but it belongs to the seven, and it goes to destruction.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "66017012",
+    "b": 66,
+    "c": 17,
+    "v": 12,
+    "t": "And the ten horns that you saw are ten kings who have not yet received royal power, but they are to receive authority as kings for one hour, together with the beast.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "66017013",
+    "b": 66,
+    "c": 17,
+    "v": 13,
+    "t": "These are of one mind, and they hand over their power and authority to the beast.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "66017014",
+    "b": 66,
+    "c": 17,
+    "v": 14,
+    "t": "They will make war on the Lamb, and the Lamb will conquer them, for he is Lord of lords and King of kings, and those with him are called and chosen and faithful.”",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "66017015",
+    "b": 66,
+    "c": 17,
+    "v": 15,
+    "t": "And the angel said to me, “The waters that you saw, where the prostitute is seated, are peoples and multitudes and nations and languages.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "66017016",
+    "b": 66,
+    "c": 17,
+    "v": 16,
+    "t": "And the ten horns that you saw, they and the beast will hate the prostitute. They will make her desolate and naked, and devour her flesh and burn her up with fire,",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "66017017",
+    "b": 66,
+    "c": 17,
+    "v": 17,
+    "t": "for God has put it into their hearts to carry out his purpose by being of one mind and handing over their royal power to the beast, until the words of God are fulfilled.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "66017018",
+    "b": 66,
+    "c": 17,
+    "v": 18,
+    "t": "And the woman that you saw is the great city that has dominion over the kings of the earth.”",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "66018001",
+    "b": 66,
+    "c": 18,
+    "v": 1,
+    "t": "After this I saw another angel coming down from heaven, having great authority, and the earth was made bright with his glory.",
+    "h": "The Fall of Babylon",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "66018002",
+    "b": 66,
+    "c": 18,
+    "v": 2,
+    "t": "And he called out with a mighty voice, “Fallen, fallen is Babylon the great! She has become a dwelling place for demons, a haunt for every unclean spirit, a haunt for every unclean bird, a haunt for every unclean and detestable beast.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "66018003",
+    "b": 66,
+    "c": 18,
+    "v": 3,
+    "t": "For all nations have drunk the wine of the passion of her sexual immorality, and the kings of the earth have committed immorality with her, and the merchants of the earth have grown rich from the power of her luxurious living.”",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "66018004",
+    "b": 66,
+    "c": 18,
+    "v": 4,
+    "t": "Then I heard another voice from heaven saying, “Come out of her, my people, lest you take part in her sins, lest you share in her plagues;",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "66018005",
+    "b": 66,
+    "c": 18,
+    "v": 5,
+    "t": "for her sins are heaped high as heaven, and God has remembered her iniquities.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "66018006",
+    "b": 66,
+    "c": 18,
+    "v": 6,
+    "t": "Pay her back as she herself has paid back others, and repay her double for her deeds; mix a double portion for her in the cup she mixed.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "66018007",
+    "b": 66,
+    "c": 18,
+    "v": 7,
+    "t": "As she glorified herself and lived in luxury, so give her a like measure of torment and mourning, since in her heart she says, ‘I sit as a queen, I am no widow, and mourning I shall never see.’",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "66018008",
+    "b": 66,
+    "c": 18,
+    "v": 8,
+    "t": "For this reason her plagues will come in a single day, death and mourning and famine, and she will be burned up with fire; for mighty is the Lord God who has judged her.”",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "66018009",
+    "b": 66,
+    "c": 18,
+    "v": 9,
+    "t": "And the kings of the earth, who committed sexual immorality and lived in luxury with her, will weep and wail over her when they see the smoke of her burning.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "66018010",
+    "b": 66,
+    "c": 18,
+    "v": 10,
+    "t": "They will stand far off, in fear of her torment, and say, “Alas! Alas! You great city, you mighty city, Babylon! For in a single hour your judgment has come.”",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "66018011",
+    "b": 66,
+    "c": 18,
+    "v": 11,
+    "t": "And the merchants of the earth weep and mourn for her, since no one buys their cargo anymore,",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "66018012",
+    "b": 66,
+    "c": 18,
+    "v": 12,
+    "t": "cargo of gold, silver, jewels, pearls, fine linen, purple cloth, silk, scarlet cloth, all kinds of scented wood, all kinds of articles of ivory, all kinds of articles of costly wood, bronze, iron and marble,",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "66018013",
+    "b": 66,
+    "c": 18,
+    "v": 13,
+    "t": "cinnamon, spice, incense, myrrh, frankincense, wine, oil, fine flour, wheat, cattle and sheep, horses and chariots, and slaves, that is, human souls.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "66018014",
+    "b": 66,
+    "c": 18,
+    "v": 14,
+    "t": "“The fruit for which your soul longed has gone from you, and all your delicacies and your splendors are lost to you, never to be found again!”",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "66018015",
+    "b": 66,
+    "c": 18,
+    "v": 15,
+    "t": "The merchants of these wares, who gained wealth from her, will stand far off, in fear of her torment, weeping and mourning aloud,",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "66018016",
+    "b": 66,
+    "c": 18,
+    "v": 16,
+    "t": "“Alas, alas, for the great city that was clothed in fine linen, in purple and scarlet, adorned with gold, with jewels, and with pearls!",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "66018017",
+    "b": 66,
+    "c": 18,
+    "v": 17,
+    "t": "For in a single hour all this wealth has been laid waste.” And all shipmasters and seafaring men, sailors and all whose trade is on the sea, stood far off",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "66018018",
+    "b": 66,
+    "c": 18,
+    "v": 18,
+    "t": "and cried out as they saw the smoke of her burning, “What city was like the great city?”",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "66018019",
+    "b": 66,
+    "c": 18,
+    "v": 19,
+    "t": "And they threw dust on their heads as they wept and mourned, crying out, “Alas, alas, for the great city where all who had ships at sea grew rich by her wealth! For in a single hour she has been laid waste.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "66018020",
+    "b": 66,
+    "c": 18,
+    "v": 20,
+    "t": "Rejoice over her, O heaven, and you saints and apostles and prophets, for God has given judgment for you against her!”",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "66018021",
+    "b": 66,
+    "c": 18,
+    "v": 21,
+    "t": "Then a mighty angel took up a stone like a great millstone and threw it into the sea, saying, “So will Babylon the great city be thrown down with violence, and will be found no more;",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "66018022",
+    "b": 66,
+    "c": 18,
+    "v": 22,
+    "t": "and the sound of harpists and musicians, of flute players and trumpeters, will be heard in you no more, and a craftsman of any craft will be found in you no more, and the sound of the mill will be heard in you no more,",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "66018023",
+    "b": 66,
+    "c": 18,
+    "v": 23,
+    "t": "and the light of a lamp will shine in you no more, and the voice of bridegroom and bride will be heard in you no more, for your merchants were the great ones of the earth, and all nations were deceived by your sorcery.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "66018024",
+    "b": 66,
+    "c": 18,
+    "v": 24,
+    "t": "And in her was found the blood of prophets and of saints, and of all who have been slain on earth.”",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "66019001",
+    "b": 66,
+    "c": 19,
+    "v": 1,
+    "t": "After this I heard what seemed to be the loud voice of a great multitude in heaven, crying out, “Hallelujah! Salvation and glory and power belong to our God,",
+    "h": "Rejoicing in Heaven",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "66019002",
+    "b": 66,
+    "c": 19,
+    "v": 2,
+    "t": "for his judgments are true and just; for he has judged the great prostitute who corrupted the earth with her immorality, and has avenged on her the blood of his servants.”",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "66019003",
+    "b": 66,
+    "c": 19,
+    "v": 3,
+    "t": "Once more they cried out, “Hallelujah! The smoke from her goes up forever and ever.”",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "66019004",
+    "b": 66,
+    "c": 19,
+    "v": 4,
+    "t": "And the twenty-four elders and the four living creatures fell down and worshiped God who was seated on the throne, saying, “Amen. Hallelujah!”",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "66019005",
+    "b": 66,
+    "c": 19,
+    "v": 5,
+    "t": "And from the throne came a voice saying, “Praise our God, all you his servants, you who fear him, small and great.”",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "66019006",
+    "b": 66,
+    "c": 19,
+    "v": 6,
+    "t": "Then I heard what seemed to be the voice of a great multitude, like the roar of many waters and like the sound of mighty peals of thunder, crying out, “Hallelujah! For the Lord our God the Almighty reigns.",
+    "h": "The Marriage Supper of the Lamb",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "66019007",
+    "b": 66,
+    "c": 19,
+    "v": 7,
+    "t": "Let us rejoice and exult and give him the glory, for the marriage of the Lamb has come, and his Bride has made herself ready;",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "66019008",
+    "b": 66,
+    "c": 19,
+    "v": 8,
+    "t": "it was granted her to clothe herself with fine linen, bright and pure”— for the fine linen is the righteous deeds of the saints.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "66019009",
+    "b": 66,
+    "c": 19,
+    "v": 9,
+    "t": "And the angel said to me, “Write this: Blessed are those who are invited to the marriage supper of the Lamb.” And he said to me, “These are the true words of God.”",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "66019010",
+    "b": 66,
+    "c": 19,
+    "v": 10,
+    "t": "Then I fell down at his feet to worship him, but he said to me, “You must not do that! I am a fellow servant with you and your brothers who hold to the testimony of Jesus. Worship God.” For the testimony of Jesus is the spirit of prophecy.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "66019011",
+    "b": 66,
+    "c": 19,
+    "v": 11,
+    "t": "Then I saw heaven opened, and behold, a white horse! The one sitting on it is called Faithful and True, and in righteousness he judges and makes war.",
+    "h": "The Rider on a White Horse",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "66019012",
+    "b": 66,
+    "c": 19,
+    "v": 12,
+    "t": "His eyes are like a flame of fire, and on his head are many diadems, and he has a name written that no one knows but himself.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "66019013",
+    "b": 66,
+    "c": 19,
+    "v": 13,
+    "t": "He is clothed in a robe dipped in blood, and the name by which he is called is The Word of God.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "66019014",
+    "b": 66,
+    "c": 19,
+    "v": 14,
+    "t": "And the armies of heaven, arrayed in fine linen, white and pure, were following him on white horses.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "66019015",
+    "b": 66,
+    "c": 19,
+    "v": 15,
+    "t": "From his mouth comes a sharp sword with which to strike down the nations, and he will rule them with a rod of iron. He will tread the winepress of the fury of the wrath of God the Almighty.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "66019016",
+    "b": 66,
+    "c": 19,
+    "v": 16,
+    "t": "On his robe and on his thigh he has a name written, King of kings and Lord of lords.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "66019017",
+    "b": 66,
+    "c": 19,
+    "v": 17,
+    "t": "Then I saw an angel standing in the sun, and with a loud voice he called to all the birds that fly directly overhead, “Come, gather for the great supper of God,",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "66019018",
+    "b": 66,
+    "c": 19,
+    "v": 18,
+    "t": "to eat the flesh of kings, the flesh of captains, the flesh of mighty men, the flesh of horses and their riders, and the flesh of all men, both free and slave, both small and great.”",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "66019019",
+    "b": 66,
+    "c": 19,
+    "v": 19,
+    "t": "And I saw the beast and the kings of the earth with their armies gathered to make war against him who was sitting on the horse and against his army.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "66019020",
+    "b": 66,
+    "c": 19,
+    "v": 20,
+    "t": "And the beast was captured, and with it the false prophet who in its presence had done the signs by which he deceived those who had received the mark of the beast and those who worshiped its image. These two were thrown alive into the lake of fire that burns with sulfur.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "66019021",
+    "b": 66,
+    "c": 19,
+    "v": 21,
+    "t": "And the rest were slain by the sword that came from the mouth of him who was sitting on the horse, and all the birds were gorged with their flesh.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "66020001",
+    "b": 66,
+    "c": 20,
+    "v": 1,
+    "t": "Then I saw an angel coming down from heaven, holding in his hand the key to the bottomless pit and a great chain.",
+    "h": "The Thousand Years",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "66020002",
+    "b": 66,
+    "c": 20,
+    "v": 2,
+    "t": "And he seized the dragon, that ancient serpent, who is the devil and Satan, and bound him for a thousand years,",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "66020003",
+    "b": 66,
+    "c": 20,
+    "v": 3,
+    "t": "and threw him into the pit, and shut it and sealed it over him, so that he might not deceive the nations any longer, until the thousand years were ended. After that he must be released for a little while.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "66020004",
+    "b": 66,
+    "c": 20,
+    "v": 4,
+    "t": "Then I saw thrones, and seated on them were those to whom the authority to judge was committed. Also I saw the souls of those who had been beheaded for the testimony of Jesus and for the word of God, and those who had not worshiped the beast or its image and had not received its mark on their foreheads or their hands. They came to life and reigned with Christ for a thousand years.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "66020005",
+    "b": 66,
+    "c": 20,
+    "v": 5,
+    "t": "The rest of the dead did not come to life until the thousand years were ended. This is the first resurrection.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "66020006",
+    "b": 66,
+    "c": 20,
+    "v": 6,
+    "t": "Blessed and holy is the one who shares in the first resurrection! Over such the second death has no power, but they will be priests of God and of Christ, and they will reign with him for a thousand years.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "66020007",
+    "b": 66,
+    "c": 20,
+    "v": 7,
+    "t": "And when the thousand years are ended, Satan will be released from his prison",
+    "h": "The Defeat of Satan",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "66020008",
+    "b": 66,
+    "c": 20,
+    "v": 8,
+    "t": "and will come out to deceive the nations that are at the four corners of the earth, Gog and Magog, to gather them for battle; their number is like the sand of the sea.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "66020009",
+    "b": 66,
+    "c": 20,
+    "v": 9,
+    "t": "And they marched up over the broad plain of the earth and surrounded the camp of the saints and the beloved city, but fire came down from heaven and consumed them,",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "66020010",
+    "b": 66,
+    "c": 20,
+    "v": 10,
+    "t": "and the devil who had deceived them was thrown into the lake of fire and sulfur where the beast and the false prophet were, and they will be tormented day and night forever and ever.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "66020011",
+    "b": 66,
+    "c": 20,
+    "v": 11,
+    "t": "Then I saw a great white throne and him who was seated on it. From his presence earth and sky fled away, and no place was found for them.",
+    "h": "Judgment Before the Great White Throne",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "66020012",
+    "b": 66,
+    "c": 20,
+    "v": 12,
+    "t": "And I saw the dead, great and small, standing before the throne, and books were opened. Then another book was opened, which is the book of life. And the dead were judged by what was written in the books, according to what they had done.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "66020013",
+    "b": 66,
+    "c": 20,
+    "v": 13,
+    "t": "And the sea gave up the dead who were in it, Death and Hades gave up the dead who were in them, and they were judged, each one of them, according to what they had done.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "66020014",
+    "b": 66,
+    "c": 20,
+    "v": 14,
+    "t": "Then Death and Hades were thrown into the lake of fire. This is the second death, the lake of fire.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "66020015",
+    "b": 66,
+    "c": 20,
+    "v": 15,
+    "t": "And if anyone’s name was not found written in the book of life, he was thrown into the lake of fire.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "66021001",
+    "b": 66,
+    "c": 21,
+    "v": 1,
+    "t": "Then I saw a new heaven and a new earth, for the first heaven and the first earth had passed away, and the sea was no more.",
+    "h": "The New Heaven and the New Earth",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "66021002",
+    "b": 66,
+    "c": 21,
+    "v": 2,
+    "t": "And I saw the holy city, new Jerusalem, coming down out of heaven from God, prepared as a bride adorned for her husband.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "66021003",
+    "b": 66,
+    "c": 21,
+    "v": 3,
+    "t": "And I heard a loud voice from the throne saying, “Behold, the dwelling place of God is with man. He will dwell with them, and they will be his people, and God himself will be with them as their God.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "66021004",
+    "b": 66,
+    "c": 21,
+    "v": 4,
+    "t": "He will wipe away every tear from their eyes, and death shall be no more, neither shall there be mourning, nor crying, nor pain anymore, for the former things have passed away.”",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "66021005",
+    "b": 66,
+    "c": 21,
+    "v": 5,
+    "t": "And he who was seated on the throne said, “Behold, I am making all things new.” Also he said, “Write this down, for these words are trustworthy and true.”",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "66021006",
+    "b": 66,
+    "c": 21,
+    "v": 6,
+    "t": "And he said to me, “It is done! I am the Alpha and the Omega, the beginning and the end. To the thirsty I will give from the spring of the water of life without payment.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "66021007",
+    "b": 66,
+    "c": 21,
+    "v": 7,
+    "t": "The one who conquers will have this heritage, and I will be his God and he will be my son.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "66021008",
+    "b": 66,
+    "c": 21,
+    "v": 8,
+    "t": "But as for the cowardly, the faithless, the detestable, as for murderers, the sexually immoral, sorcerers, idolaters, and all liars, their portion will be in the lake that burns with fire and sulfur, which is the second death.”",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "66021009",
+    "b": 66,
+    "c": 21,
+    "v": 9,
+    "t": "Then came one of the seven angels who had the seven bowls full of the seven last plagues and spoke to me, saying, “Come, I will show you the Bride, the wife of the Lamb.”",
+    "h": "The New Jerusalem",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "66021010",
+    "b": 66,
+    "c": 21,
+    "v": 10,
+    "t": "And he carried me away in the Spirit to a great, high mountain, and showed me the holy city Jerusalem coming down out of heaven from God,",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "66021011",
+    "b": 66,
+    "c": 21,
+    "v": 11,
+    "t": "having the glory of God, its radiance like a most rare jewel, like a jasper, clear as crystal.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "66021012",
+    "b": 66,
+    "c": 21,
+    "v": 12,
+    "t": "It had a great, high wall, with twelve gates, and at the gates twelve angels, and on the gates the names of the twelve tribes of the sons of Israel were inscribed—",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "66021013",
+    "b": 66,
+    "c": 21,
+    "v": 13,
+    "t": "on the east three gates, on the north three gates, on the south three gates, and on the west three gates.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "66021014",
+    "b": 66,
+    "c": 21,
+    "v": 14,
+    "t": "And the wall of the city had twelve foundations, and on them were the twelve names of the twelve apostles of the Lamb.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "66021015",
+    "b": 66,
+    "c": 21,
+    "v": 15,
+    "t": "And the one who spoke with me had a measuring rod of gold to measure the city and its gates and walls.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "66021016",
+    "b": 66,
+    "c": 21,
+    "v": 16,
+    "t": "The city lies foursquare, its length the same as its width. And he measured the city with his rod, 12,000 stadia. Its length and width and height are equal.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "66021017",
+    "b": 66,
+    "c": 21,
+    "v": 17,
+    "t": "He also measured its wall, 144 cubits by human measurement, which is also an angel’s measurement.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "66021018",
+    "b": 66,
+    "c": 21,
+    "v": 18,
+    "t": "The wall was built of jasper, while the city was pure gold, like clear glass.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "66021019",
+    "b": 66,
+    "c": 21,
+    "v": 19,
+    "t": "The foundations of the wall of the city were adorned with every kind of jewel. The first was jasper, the second sapphire, the third agate, the fourth emerald,",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "66021020",
+    "b": 66,
+    "c": 21,
+    "v": 20,
+    "t": "the fifth onyx, the sixth carnelian, the seventh chrysolite, the eighth beryl, the ninth topaz, the tenth chrysoprase, the eleventh jacinth, the twelfth amethyst.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "66021021",
+    "b": 66,
+    "c": 21,
+    "v": 21,
+    "t": "And the twelve gates were twelve pearls, each of the gates made of a single pearl, and the street of the city was pure gold, like transparent glass.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "66021022",
+    "b": 66,
+    "c": 21,
+    "v": 22,
+    "t": "And I saw no temple in the city, for its temple is the Lord God the Almighty and the Lamb.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "66021023",
+    "b": 66,
+    "c": 21,
+    "v": 23,
+    "t": "And the city has no need of sun or moon to shine on it, for the glory of God gives it light, and its lamp is the Lamb.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "66021024",
+    "b": 66,
+    "c": 21,
+    "v": 24,
+    "t": "By its light will the nations walk, and the kings of the earth will bring their glory into it,",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "66021025",
+    "b": 66,
+    "c": 21,
+    "v": 25,
+    "t": "and its gates will never be shut by day—and there will be no night there.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "66021026",
+    "b": 66,
+    "c": 21,
+    "v": 26,
+    "t": "They will bring into it the glory and the honor of the nations.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "66021027",
+    "b": 66,
+    "c": 21,
+    "v": 27,
+    "t": "But nothing unclean will ever enter it, nor anyone who does what is detestable or false, but only those who are written in the Lamb’s book of life.",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "66022001",
+    "b": 66,
+    "c": 22,
+    "v": 1,
+    "t": "Then the angel showed me the river of the water of life, bright as crystal, flowing from the throne of God and of the Lamb",
+    "h": "The River of Life",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "66022002",
+    "b": 66,
+    "c": 22,
+    "v": 2,
+    "t": "through the middle of the street of the city; also, on either side of the river, the tree of life with its twelve kinds of fruit, yielding its fruit each month. The leaves of the tree were for the healing of the nations.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "66022003",
+    "b": 66,
+    "c": 22,
+    "v": 3,
+    "t": "No longer will there be anything accursed, but the throne of God and of the Lamb will be in it, and his servants will worship him.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "66022004",
+    "b": 66,
+    "c": 22,
+    "v": 4,
+    "t": "They will see his face, and his name will be on their foreheads.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "66022005",
+    "b": 66,
+    "c": 22,
+    "v": 5,
+    "t": "And night will be no more. They will need no light of lamp or sun, for the Lord God will be their light, and they will reign forever and ever.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "66022006",
+    "b": 66,
+    "c": 22,
+    "v": 6,
+    "t": "And he said to me, “These words are trustworthy and true. And the Lord, the God of the spirits of the prophets, has sent his angel to show his servants what must soon take place.”",
+    "h": "Jesus Is Coming",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "66022007",
+    "b": 66,
+    "c": 22,
+    "v": 7,
+    "t": "“And behold, I am coming soon. Blessed is the one who keeps the words of the prophecy of this book.”",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "66022008",
+    "b": 66,
+    "c": 22,
+    "v": 8,
+    "t": "I, John, am the one who heard and saw these things. And when I heard and saw them, I fell down to worship at the feet of the angel who showed them to me,",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "66022009",
+    "b": 66,
+    "c": 22,
+    "v": 9,
+    "t": "but he said to me, “You must not do that! I am a fellow servant with you and your brothers the prophets, and with those who keep the words of this book. Worship God.”",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "66022010",
+    "b": 66,
+    "c": 22,
+    "v": 10,
+    "t": "And he said to me, “Do not seal up the words of the prophecy of this book, for the time is near.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "66022011",
+    "b": 66,
+    "c": 22,
+    "v": 11,
+    "t": "Let the evildoer still do evil, and the filthy still be filthy, and the righteous still do right, and the holy still be holy.”",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "66022012",
+    "b": 66,
+    "c": 22,
+    "v": 12,
+    "t": "“Behold, I am coming soon, bringing my recompense with me, to repay each one for what he has done.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "66022013",
+    "b": 66,
+    "c": 22,
+    "v": 13,
+    "t": "I am the Alpha and the Omega, the first and the last, the beginning and the end.”",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "66022014",
+    "b": 66,
+    "c": 22,
+    "v": 14,
+    "t": "Blessed are those who wash their robes, so that they may have the right to the tree of life and that they may enter the city by the gates.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "66022015",
+    "b": 66,
+    "c": 22,
+    "v": 15,
+    "t": "Outside are the dogs and sorcerers and the sexually immoral and murderers and idolaters, and everyone who loves and practices falsehood.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "66022016",
+    "b": 66,
+    "c": 22,
+    "v": 16,
+    "t": "“I, Jesus, have sent my angel to testify to you about these things for the churches. I am the root and the descendant of David, the bright morning star.”",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "66022017",
+    "b": 66,
+    "c": 22,
+    "v": 17,
+    "t": "The Spirit and the Bride say, “Come.” And let the one who hears say, “Come.” And let the one who is thirsty come; let the one who desires take the water of life without price.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "66022018",
+    "b": 66,
+    "c": 22,
+    "v": 18,
+    "t": "I warn everyone who hears the words of the prophecy of this book: if anyone adds to them, God will add to him the plagues described in this book,",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "66022019",
+    "b": 66,
+    "c": 22,
+    "v": 19,
+    "t": "and if anyone takes away from the words of the book of this prophecy, God will take away his share in the tree of life and in the holy city, which are described in this book.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "66022020",
+    "b": 66,
+    "c": 22,
+    "v": 20,
+    "t": "He who testifies to these things says, “Surely I am coming soon.” Amen. Come, Lord Jesus!",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "66022021",
+    "b": 66,
+    "c": 22,
+    "v": 21,
+    "t": "The grace of the Lord Jesus be with all. Amen.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  }
+]

@@ -1,0 +1,952 @@
+[
+  {
+    "id": "51001001",
+    "b": 51,
+    "c": 1,
+    "v": 1,
+    "t": "Paul, an apostle of Christ Jesus by the will of God, and Timothy our brother,",
+    "h": "",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "51001002",
+    "b": 51,
+    "c": 1,
+    "v": 2,
+    "t": "To God’s holy people in Colossae, the faithful brothers and sisters in Christ: Grace and peace to you from God our Father.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "51001003",
+    "b": 51,
+    "c": 1,
+    "v": 3,
+    "t": "We always thank God, the Father of our Lord Jesus Christ, when we pray for you,",
+    "h": "Thanksgiving and Prayer",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "51001004",
+    "b": 51,
+    "c": 1,
+    "v": 4,
+    "t": "because we have heard of your faith in Christ Jesus and of the love you have for all God’s people—",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "51001005",
+    "b": 51,
+    "c": 1,
+    "v": 5,
+    "t": "the faith and love that spring from the hope stored up for you in heaven and about which you have already heard in the true message of the gospel",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "51001006",
+    "b": 51,
+    "c": 1,
+    "v": 6,
+    "t": "that has come to you. In the same way, the gospel is bearing fruit and growing throughout the whole world—just as it has been doing among you since the day you heard it and truly understood God’s grace.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "51001007",
+    "b": 51,
+    "c": 1,
+    "v": 7,
+    "t": "You learned it from Epaphras, our dear fellow servant, who is a faithful minister of Christ on our behalf,",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "51001008",
+    "b": 51,
+    "c": 1,
+    "v": 8,
+    "t": "and who also told us of your love in the Spirit.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "51001009",
+    "b": 51,
+    "c": 1,
+    "v": 9,
+    "t": "For this reason, since the day we heard about you, we have not stopped praying for you. We continually ask God to fill you with the knowledge of his will through all the wisdom and understanding that the Spirit gives,",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "51001010",
+    "b": 51,
+    "c": 1,
+    "v": 10,
+    "t": "so that you may live a life worthy of the Lord and please him in every way: bearing fruit in every good work, growing in the knowledge of God,",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "51001011",
+    "b": 51,
+    "c": 1,
+    "v": 11,
+    "t": "being strengthened with all power according to his glorious might so that you may have great endurance and patience,",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "51001012",
+    "b": 51,
+    "c": 1,
+    "v": 12,
+    "t": "and giving joyful thanks to the Father, who has qualified you to share in the inheritance of his holy people in the kingdom of light.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "51001013",
+    "b": 51,
+    "c": 1,
+    "v": 13,
+    "t": "For he has rescued us from the dominion of darkness and brought us into the kingdom of the Son he loves,",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "51001014",
+    "b": 51,
+    "c": 1,
+    "v": 14,
+    "t": "in whom we have redemption, the forgiveness of sins.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "51001015",
+    "b": 51,
+    "c": 1,
+    "v": 15,
+    "t": "The Son is the image of the invisible God, the firstborn over all creation.",
+    "h": "The Supremacy of the Son of God",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "51001016",
+    "b": 51,
+    "c": 1,
+    "v": 16,
+    "t": "For in him all things were created: things in heaven and on earth, visible and invisible, whether thrones or powers or rulers or authorities; all things have been created through him and for him.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "51001017",
+    "b": 51,
+    "c": 1,
+    "v": 17,
+    "t": "He is before all things, and in him all things hold together.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "51001018",
+    "b": 51,
+    "c": 1,
+    "v": 18,
+    "t": "And he is the head of the body, the church; he is the beginning and the firstborn from among the dead, so that in everything he might have the supremacy.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "51001019",
+    "b": 51,
+    "c": 1,
+    "v": 19,
+    "t": "For God was pleased to have all his fullness dwell in him,",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "51001020",
+    "b": 51,
+    "c": 1,
+    "v": 20,
+    "t": "and through him to reconcile to himself all things, whether things on earth or things in heaven, by making peace through his blood, shed on the cross.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "51001021",
+    "b": 51,
+    "c": 1,
+    "v": 21,
+    "t": "Once you were alienated from God and were enemies in your minds because of your evil behavior.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "51001022",
+    "b": 51,
+    "c": 1,
+    "v": 22,
+    "t": "But now he has reconciled you by Christ’s physical body through death to present you holy in his sight, without blemish and free from accusation—",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "51001023",
+    "b": 51,
+    "c": 1,
+    "v": 23,
+    "t": "if you continue in your faith, established and firm, and do not move from the hope held out in the gospel. This is the gospel that you heard and that has been proclaimed to every creature under heaven, and of which I, Paul, have become a servant.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "51001024",
+    "b": 51,
+    "c": 1,
+    "v": 24,
+    "t": "Now I rejoice in what I am suffering for you, and I fill up in my flesh what is still lacking in regard to Christ’s afflictions, for the sake of his body, which is the church.",
+    "h": "Paul’s Labor for the Church",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "51001025",
+    "b": 51,
+    "c": 1,
+    "v": 25,
+    "t": "I have become its servant by the commission God gave me to present to you the word of God in its fullness—",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "51001026",
+    "b": 51,
+    "c": 1,
+    "v": 26,
+    "t": "the mystery that has been kept hidden for ages and generations, but is now disclosed to the Lord’s people.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "51001027",
+    "b": 51,
+    "c": 1,
+    "v": 27,
+    "t": "To them God has chosen to make known among the Gentiles the glorious riches of this mystery, which is Christ in you, the hope of glory.",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "51001028",
+    "b": 51,
+    "c": 1,
+    "v": 28,
+    "t": "He is the one we proclaim, admonishing and teaching everyone with all wisdom, so that we may present everyone fully mature in Christ.",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "51001029",
+    "b": 51,
+    "c": 1,
+    "v": 29,
+    "t": "To this end I strenuously contend with all the energy Christ so powerfully works in me.",
+    "h": "",
+    "o": 29,
+    "l": "29"
+  },
+  {
+    "id": "51002001",
+    "b": 51,
+    "c": 2,
+    "v": 1,
+    "t": "I want you to know how hard I am contending for you and for those at Laodicea, and for all who have not met me personally.",
+    "h": "",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "51002002",
+    "b": 51,
+    "c": 2,
+    "v": 2,
+    "t": "My goal is that they may be encouraged in heart and united in love, so that they may have the full riches of complete understanding, in order that they may know the mystery of God, namely, Christ,",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "51002003",
+    "b": 51,
+    "c": 2,
+    "v": 3,
+    "t": "in whom are hidden all the treasures of wisdom and knowledge.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "51002004",
+    "b": 51,
+    "c": 2,
+    "v": 4,
+    "t": "I tell you this so that no one may deceive you by fine-sounding arguments.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "51002005",
+    "b": 51,
+    "c": 2,
+    "v": 5,
+    "t": "For though I am absent from you in body, I am present with you in spirit and delight to see how disciplined you are and how firm your faith in Christ is.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "51002006",
+    "b": 51,
+    "c": 2,
+    "v": 6,
+    "t": "So then, just as you received Christ Jesus as Lord, continue to live your lives in him,",
+    "h": "Spiritual Fullness in Christ",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "51002007",
+    "b": 51,
+    "c": 2,
+    "v": 7,
+    "t": "rooted and built up in him, strengthened in the faith as you were taught, and overflowing with thankfulness.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "51002008",
+    "b": 51,
+    "c": 2,
+    "v": 8,
+    "t": "See to it that no one takes you captive through hollow and deceptive philosophy, which depends on human tradition and the elemental spiritual forces of this world rather than on Christ.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "51002009",
+    "b": 51,
+    "c": 2,
+    "v": 9,
+    "t": "For in Christ all the fullness of the Deity lives in bodily form,",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "51002010",
+    "b": 51,
+    "c": 2,
+    "v": 10,
+    "t": "and in Christ you have been brought to fullness. He is the head over every power and authority.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "51002011",
+    "b": 51,
+    "c": 2,
+    "v": 11,
+    "t": "In him you were also circumcised with a circumcision not performed by human hands. Your whole self ruled by the flesh was put off when you were circumcised by Christ,",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "51002012",
+    "b": 51,
+    "c": 2,
+    "v": 12,
+    "t": "having been buried with him in baptism, in which you were also raised with him through your faith in the working of God, who raised him from the dead.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "51002013",
+    "b": 51,
+    "c": 2,
+    "v": 13,
+    "t": "When you were dead in your sins and in the uncircumcision of your flesh, God made you alive with Christ. He forgave us all our sins,",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "51002014",
+    "b": 51,
+    "c": 2,
+    "v": 14,
+    "t": "having canceled the charge of our legal indebtedness, which stood against us and condemned us; he has taken it away, nailing it to the cross.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "51002015",
+    "b": 51,
+    "c": 2,
+    "v": 15,
+    "t": "And having disarmed the powers and authorities, he made a public spectacle of them, triumphing over them by the cross.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "51002016",
+    "b": 51,
+    "c": 2,
+    "v": 16,
+    "t": "Therefore do not let anyone judge you by what you eat or drink, or with regard to a religious festival, a New Moon celebration or a Sabbath day.",
+    "h": "Freedom From Human Rules",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "51002017",
+    "b": 51,
+    "c": 2,
+    "v": 17,
+    "t": "These are a shadow of the things that were to come; the reality, however, is found in Christ.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "51002018",
+    "b": 51,
+    "c": 2,
+    "v": 18,
+    "t": "Do not let anyone who delights in false humility and the worship of angels disqualify you. Such a person also goes into great detail about what they have seen; they are puffed up with idle notions by their unspiritual mind.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "51002019",
+    "b": 51,
+    "c": 2,
+    "v": 19,
+    "t": "They have lost connection with the head, from whom the whole body, supported and held together by its ligaments and sinews, grows as God causes it to grow.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "51002020",
+    "b": 51,
+    "c": 2,
+    "v": 20,
+    "t": "Since you died with Christ to the elemental spiritual forces of this world, why, as though you still belonged to the world, do you submit to its rules:",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "51002021",
+    "b": 51,
+    "c": 2,
+    "v": 21,
+    "t": "“Do not handle! Do not taste! Do not touch!”?",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "51002022",
+    "b": 51,
+    "c": 2,
+    "v": 22,
+    "t": "These rules, which have to do with things that are all destined to perish with use, are based on merely human commands and teachings.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "51002023",
+    "b": 51,
+    "c": 2,
+    "v": 23,
+    "t": "Such regulations indeed have an appearance of wisdom, with their self-imposed worship, their false humility and their harsh treatment of the body, but they lack any value in restraining sensual indulgence.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "51003001",
+    "b": 51,
+    "c": 3,
+    "v": 1,
+    "t": "Since, then, you have been raised with Christ, set your hearts on things above, where Christ is, seated at the right hand of God.",
+    "h": "Living as Those Made Alive in Christ",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "51003002",
+    "b": 51,
+    "c": 3,
+    "v": 2,
+    "t": "Set your minds on things above, not on earthly things.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "51003003",
+    "b": 51,
+    "c": 3,
+    "v": 3,
+    "t": "For you died, and your life is now hidden with Christ in God.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "51003004",
+    "b": 51,
+    "c": 3,
+    "v": 4,
+    "t": "When Christ, who is your life, appears, then you also will appear with him in glory.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "51003005",
+    "b": 51,
+    "c": 3,
+    "v": 5,
+    "t": "Put to death, therefore, whatever belongs to your earthly nature: sexual immorality, impurity, lust, evil desires and greed, which is idolatry.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "51003006",
+    "b": 51,
+    "c": 3,
+    "v": 6,
+    "t": "Because of these, the wrath of God is coming.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "51003007",
+    "b": 51,
+    "c": 3,
+    "v": 7,
+    "t": "You used to walk in these ways, in the life you once lived.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "51003008",
+    "b": 51,
+    "c": 3,
+    "v": 8,
+    "t": "But now you must also rid yourselves of all such things as these: anger, rage, malice, slander, and filthy language from your lips.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "51003009",
+    "b": 51,
+    "c": 3,
+    "v": 9,
+    "t": "Do not lie to each other, since you have taken off your old self with its practices",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "51003010",
+    "b": 51,
+    "c": 3,
+    "v": 10,
+    "t": "and have put on the new self, which is being renewed in knowledge in the image of its Creator.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "51003011",
+    "b": 51,
+    "c": 3,
+    "v": 11,
+    "t": "Here there is no Gentile or Jew, circumcised or uncircumcised, barbarian, Scythian, slave or free, but Christ is all, and is in all.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "51003012",
+    "b": 51,
+    "c": 3,
+    "v": 12,
+    "t": "Therefore, as God’s chosen people, holy and dearly loved, clothe yourselves with compassion, kindness, humility, gentleness and patience.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "51003013",
+    "b": 51,
+    "c": 3,
+    "v": 13,
+    "t": "Bear with each other and forgive one another if any of you has a grievance against someone. Forgive as the Lord forgave you.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "51003014",
+    "b": 51,
+    "c": 3,
+    "v": 14,
+    "t": "And over all these virtues put on love, which binds them all together in perfect unity.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "51003015",
+    "b": 51,
+    "c": 3,
+    "v": 15,
+    "t": "Let the peace of Christ rule in your hearts, since as members of one body you were called to peace. And be thankful.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "51003016",
+    "b": 51,
+    "c": 3,
+    "v": 16,
+    "t": "Let the message of Christ dwell among you richly as you teach and admonish one another with all wisdom through psalms, hymns, and songs from the Spirit, singing to God with gratitude in your hearts.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "51003017",
+    "b": 51,
+    "c": 3,
+    "v": 17,
+    "t": "And whatever you do, whether in word or deed, do it all in the name of the Lord Jesus, giving thanks to God the Father through him.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "51003018",
+    "b": 51,
+    "c": 3,
+    "v": 18,
+    "t": "Wives, submit yourselves to your husbands, as is fitting in the Lord.",
+    "h": "Instructions for Christian Households",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "51003019",
+    "b": 51,
+    "c": 3,
+    "v": 19,
+    "t": "Husbands, love your wives and do not be harsh with them.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "51003020",
+    "b": 51,
+    "c": 3,
+    "v": 20,
+    "t": "Children, obey your parents in everything, for this pleases the Lord.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "51003021",
+    "b": 51,
+    "c": 3,
+    "v": 21,
+    "t": "Fathers, do not embitter your children, or they will become discouraged.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "51003022",
+    "b": 51,
+    "c": 3,
+    "v": 22,
+    "t": "Slaves, obey your earthly masters in everything; and do it, not only when their eye is on you and to curry their favor, but with sincerity of heart and reverence for the Lord.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "51003023",
+    "b": 51,
+    "c": 3,
+    "v": 23,
+    "t": "Whatever you do, work at it with all your heart, as working for the Lord, not for human masters,",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "51003024",
+    "b": 51,
+    "c": 3,
+    "v": 24,
+    "t": "since you know that you will receive an inheritance from the Lord as a reward. It is the Lord Christ you are serving.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "51003025",
+    "b": 51,
+    "c": 3,
+    "v": 25,
+    "t": "Anyone who does wrong will be repaid for their wrongs, and there is no favoritism.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "51004001",
+    "b": 51,
+    "c": 4,
+    "v": 1,
+    "t": "Masters, provide your slaves with what is right and fair, because you know that you also have a Master in heaven.",
+    "h": "",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "51004002",
+    "b": 51,
+    "c": 4,
+    "v": 2,
+    "t": "Devote yourselves to prayer, being watchful and thankful.",
+    "h": "Further Instructions",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "51004003",
+    "b": 51,
+    "c": 4,
+    "v": 3,
+    "t": "And pray for us, too, that God may open a door for our message, so that we may proclaim the mystery of Christ, for which I am in chains.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "51004004",
+    "b": 51,
+    "c": 4,
+    "v": 4,
+    "t": "Pray that I may proclaim it clearly, as I should.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "51004005",
+    "b": 51,
+    "c": 4,
+    "v": 5,
+    "t": "Be wise in the way you act toward outsiders; make the most of every opportunity.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "51004006",
+    "b": 51,
+    "c": 4,
+    "v": 6,
+    "t": "Let your conversation be always full of grace, seasoned with salt, so that you may know how to answer everyone.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "51004007",
+    "b": 51,
+    "c": 4,
+    "v": 7,
+    "t": "Tychicus will tell you all the news about me. He is a dear brother, a faithful minister and fellow servant in the Lord.",
+    "h": "Final Greetings",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "51004008",
+    "b": 51,
+    "c": 4,
+    "v": 8,
+    "t": "I am sending him to you for the express purpose that you may know about our circumstances and that he may encourage your hearts.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "51004009",
+    "b": 51,
+    "c": 4,
+    "v": 9,
+    "t": "He is coming with Onesimus, our faithful and dear brother, who is one of you. They will tell you everything that is happening here.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "51004010",
+    "b": 51,
+    "c": 4,
+    "v": 10,
+    "t": "My fellow prisoner Aristarchus sends you his greetings, as does Mark, the cousin of Barnabas. (You have received instructions about him; if he comes to you, welcome him.)",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "51004011",
+    "b": 51,
+    "c": 4,
+    "v": 11,
+    "t": "Jesus, who is called Justus, also sends greetings. These are the only Jews among my co-workers for the kingdom of God, and they have proved a comfort to me.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "51004012",
+    "b": 51,
+    "c": 4,
+    "v": 12,
+    "t": "Epaphras, who is one of you and a servant of Christ Jesus, sends greetings. He is always wrestling in prayer for you, that you may stand firm in all the will of God, mature and fully assured.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "51004013",
+    "b": 51,
+    "c": 4,
+    "v": 13,
+    "t": "I vouch for him that he is working hard for you and for those at Laodicea and Hierapolis.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "51004014",
+    "b": 51,
+    "c": 4,
+    "v": 14,
+    "t": "Our dear friend Luke, the doctor, and Demas send greetings.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "51004015",
+    "b": 51,
+    "c": 4,
+    "v": 15,
+    "t": "Give my greetings to the brothers and sisters at Laodicea, and to Nympha and the church in her house.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "51004016",
+    "b": 51,
+    "c": 4,
+    "v": 16,
+    "t": "After this letter has been read to you, see that it is also read in the church of the Laodiceans and that you in turn read the letter from Laodicea.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "51004017",
+    "b": 51,
+    "c": 4,
+    "v": 17,
+    "t": "Tell Archippus: “See to it that you complete the ministry you have received in the Lord.”",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "51004018",
+    "b": 51,
+    "c": 4,
+    "v": 18,
+    "t": "I, Paul, write this greeting in my own hand. Remember my chains. Grace be with you.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  }
+]

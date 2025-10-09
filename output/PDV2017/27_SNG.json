@@ -1,0 +1,1172 @@
+[
+  {
+    "id": "27001001",
+    "b": 27,
+    "c": 1,
+    "v": 1,
+    "t": "Le plus beau de tous les chants. Il appartient aux écrits de Salomon.",
+    "h": "",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "27001002",
+    "b": 27,
+    "c": 1,
+    "v": 2,
+    "t": "Couvre-moi des baisers de ta bouche. Ta tendresse est plus délicieuse que le vin,",
+    "h": "Les deux amoureux\nLa jeune fille",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "27001003",
+    "b": 27,
+    "c": 1,
+    "v": 3,
+    "t": "plus agréable que l’odeur de tes parfums. Tu plais comme un parfum délicat. C’est pourquoi les jeunes filles sont amoureuses de toi.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "27001004",
+    "b": 27,
+    "c": 1,
+    "v": 4,
+    "t": "Entraîne-moi avec toi, courons ensemble ! Mon roi, conduis-moi dans ta chambre. Alors grâce à toi, nous serons fous de bonheur. Nous chanterons ta tendresse plus délicieuse que le vin. Oui, les jeunes filles ont bien raison de t’aimer.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "27001005",
+    "b": 27,
+    "c": 1,
+    "v": 5,
+    "t": "Filles de Jérusalem, ma peau est brune mais je suis jolie comme les tentes des nomades, comme les beaux rideaux des palais.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "27001006",
+    "b": 27,
+    "c": 1,
+    "v": 6,
+    "t": "Ne faites pas attention à ma peau brune, c’est le soleil qui m’a dorée. Mes frères étaient en colère contre moi, ils m’ont forcée à garder les vignes. Mais ma vigne à moi, je ne l’ai pas gardée.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "27001007",
+    "b": 27,
+    "c": 1,
+    "v": 7,
+    "t": "Toi que mon cœur aime, dis-moi : où conduis-tu ton troupeau ? Dis-moi : où le fais-tu reposer à midi ? Ainsi je n’aurai pas l’air de courir partout, près des troupeaux de tes camarades.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "27001008",
+    "b": 27,
+    "c": 1,
+    "v": 8,
+    "t": "Si tu ne le sais pas, toi la plus belle des femmes, suis les traces des moutons, et conduis tes petites chèvres près des abris des bergers.",
+    "h": "Les bergers",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "27001009",
+    "b": 27,
+    "c": 1,
+    "v": 9,
+    "t": "Mon amie, je te compare au cheval magnifique qui conduit le char du roi d’Égypte.",
+    "h": "Le jeune homme",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "27001010",
+    "b": 27,
+    "c": 1,
+    "v": 10,
+    "t": "Entre tes longues boucles d’oreilles, tes joues sont jolies. Ton cou est beau au milieu des colliers.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "27001011",
+    "b": 27,
+    "c": 1,
+    "v": 11,
+    "t": "Nous te ferons des boucles d’or avec des points d’argent.",
+    "h": "Les bergers",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "27001012",
+    "b": 27,
+    "c": 1,
+    "v": 12,
+    "t": "Pendant que mon roi prend son repas, mon nard parfumé répand son odeur.",
+    "h": "La jeune fille",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "27001013",
+    "b": 27,
+    "c": 1,
+    "v": 13,
+    "t": "Pour moi, celui que j’aime est comme un peu de myrrhe reposant entre mes seins.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "27001014",
+    "b": 27,
+    "c": 1,
+    "v": 14,
+    "t": "Pour moi, il est pareil aux fleurs de henné, au milieu des vignes, à la Source-du-Cabri.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "27001015",
+    "b": 27,
+    "c": 1,
+    "v": 15,
+    "t": "Comme tu es belle, mon amie, comme tu es belle ! Tes yeux sont charmants comme des colombes !",
+    "h": "Le jeune homme",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "27001016",
+    "b": 27,
+    "c": 1,
+    "v": 16,
+    "t": "Comme tu es beau, toi que j’aime ! Tu es magnifique ! Notre lit à nous, c’est l’herbe verte.",
+    "h": "La jeune fille",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "27001017",
+    "b": 27,
+    "c": 1,
+    "v": 17,
+    "t": "Les cèdres, voilà les poutres de notre maison, les cyprès, voilà les murs.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "27002001",
+    "b": 27,
+    "c": 2,
+    "v": 1,
+    "t": "Et moi, je suis une fleur du Saron, une jolie fleur des vallées.",
+    "h": "",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "27002002",
+    "b": 27,
+    "c": 2,
+    "v": 2,
+    "t": "Une jolie fleur dans un buisson d’épines, voilà mon amie parmi les jeunes filles.",
+    "h": "Le jeune homme",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "27002003",
+    "b": 27,
+    "c": 2,
+    "v": 3,
+    "t": "Un arbre à fruits au milieu de la forêt, voilà celui que j’aime parmi les jeunes hommes. J’ai voulu m’asseoir à son ombre, et ses fruits sont doux à ma bouche.",
+    "h": "La jeune fille",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "27002004",
+    "b": 27,
+    "c": 2,
+    "v": 4,
+    "t": "Il me fait entrer dans la salle de fête. Au-dessus de moi, à l’entrée, il a écrit : « Amour ».",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "27002005",
+    "b": 27,
+    "c": 2,
+    "v": 5,
+    "t": "Vite, avec des gâteaux rendez-moi des forces, guérissez-moi avec des fruits. Oui, je suis malade.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "27002006",
+    "b": 27,
+    "c": 2,
+    "v": 6,
+    "t": "Sa main gauche soutient ma tête, et son bras droit me serre contre lui.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "27002007",
+    "b": 27,
+    "c": 2,
+    "v": 7,
+    "t": "Filles de Jérusalem, je vous en supplie, au nom des gazelles et des biches des champs, ne réveillez pas mon amour, ne la dérangez pas avant qu’elle donne son accord.",
+    "h": "Le jeune homme",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "27002008",
+    "b": 27,
+    "c": 2,
+    "v": 8,
+    "t": "J’entends celui que j’aime. Le voici : il vient. Il bondit sur les montagnes, il saute sur les collines.",
+    "h": "Le jeune homme arriveLa jeune fille",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "27002009",
+    "b": 27,
+    "c": 2,
+    "v": 9,
+    "t": "Celui que j’aime ressemble à une gazelle ou au petit de la biche. Le voici : il s’arrête derrière le mur de notre maison. Il regarde par la fenêtre, il guette à travers le grillage.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "27002010",
+    "b": 27,
+    "c": 2,
+    "v": 10,
+    "t": "Il me dit : « Lève-toi, mon amie, ma belle, et viens !",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "27002011",
+    "b": 27,
+    "c": 2,
+    "v": 11,
+    "t": "La mauvaise saison est finie, la pluie ne tombe plus, elle s’en est allée.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "27002012",
+    "b": 27,
+    "c": 2,
+    "v": 12,
+    "t": "Sur la terre, les fleurs paraissent, c’est le temps des chansons. Dans les champs, voici la voix de la tourterelle.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "27002013",
+    "b": 27,
+    "c": 2,
+    "v": 13,
+    "t": "Les figues vertes mûrissent déjà, les vignes en fleur répandent leur parfum. Lève-toi, mon amie, ma belle, et viens !",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "27002014",
+    "b": 27,
+    "c": 2,
+    "v": 14,
+    "t": "Ma colombe, cachée dans les fentes du rocher, dans les trous des hautes pierres. Montre-moi ton visage, fais-moi entendre ta voix. Ta voix est si agréable, et ton visage est si beau. »",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "27002015",
+    "b": 27,
+    "c": 2,
+    "v": 15,
+    "t": "Attrapez pour nous les renards, les petits renards qui abîment les vignes. C’est le moment où nos vignes sont en fleur.",
+    "h": "La mère",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "27002016",
+    "b": 27,
+    "c": 2,
+    "v": 16,
+    "t": "Celui que j’aime est à moi, et je suis à lui. Il conduit son troupeau parmi les lys en fleurs.",
+    "h": "La jeune fille",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "27002017",
+    "b": 27,
+    "c": 2,
+    "v": 17,
+    "t": "Avant que se lève le souffle du soir, quand l’ombre s’étend sur la terre, reviens, toi que j’aime. Cours comme la gazelle ou le petit de la biche sur les montagnes séparées.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "27003001",
+    "b": 27,
+    "c": 3,
+    "v": 1,
+    "t": "Sur mon lit, pendant la nuit, je cherche celui que mon cœur aime. Je le cherche, mais je ne le trouve pas.",
+    "h": "Elle rêve qu’elle part le chercher\nLa jeune fille",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "27003002",
+    "b": 27,
+    "c": 3,
+    "v": 2,
+    "t": "Je me lèverai. Je ferai le tour de la ville, des rues et des places. Je chercherai celui que mon cœur aime. Je le cherche, mais je ne le trouve pas.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "27003003",
+    "b": 27,
+    "c": 3,
+    "v": 3,
+    "t": "Je rencontre les gardes, ceux qui font le tour de la ville : « Est-ce que vous avez vu celui que mon cœur aime ? »",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "27003004",
+    "b": 27,
+    "c": 3,
+    "v": 4,
+    "t": "Je les dépasse. Aussitôt après, je trouve celui que mon cœur aime. Je lui prends la main. Je ne le lâcherai plus avant de le faire entrer dans la maison de ma mère, dans la chambre où elle est devenue enceinte de moi.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "27003005",
+    "b": 27,
+    "c": 3,
+    "v": 5,
+    "t": "Filles de Jérusalem, je vous en supplie, au nom des gazelles et des biches des champs, ne réveillez pas mon amour, ne la dérangez pas avant qu’elle donne son accord !",
+    "h": "Le jeune homme",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "27003006",
+    "b": 27,
+    "c": 3,
+    "v": 6,
+    "t": "Qui arrive du désert comme un nuage de fumée, parfumé de myrrhe, d’encens et de tous les parfums des commerçants étrangers ?",
+    "h": "La jeune fille",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "27003007",
+    "b": 27,
+    "c": 3,
+    "v": 7,
+    "t": "C’est le roi Salomon étendu sur sa litière. Soixante combattants courageux l’entourent. Ce sont les héros d’Israël.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "27003008",
+    "b": 27,
+    "c": 3,
+    "v": 8,
+    "t": "Ils sont tous armés d’une épée et entraînés à la guerre. Chacun porte son arme à la ceinture pour se protéger des dangers de la nuit.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "27003009",
+    "b": 27,
+    "c": 3,
+    "v": 9,
+    "t": "Le roi Salomon a commandé un siège à porteurs en bois du Liban.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "27003010",
+    "b": 27,
+    "c": 3,
+    "v": 10,
+    "t": "Il a fait faire des supports en argent, un dossier en or, un siège en très beau tissu rouge. Les filles de Jérusalem ont arrangé l’intérieur avec amour.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "27003011",
+    "b": 27,
+    "c": 3,
+    "v": 11,
+    "t": "Filles de Jérusalem, venez voir le roi Salomon. Il porte la couronne que sa mère lui a donnée le jour de son mariage ! Ce jour-là, son cœur était plein de joie.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "27004001",
+    "b": 27,
+    "c": 4,
+    "v": 1,
+    "t": "Comme tu es belle, mon amie, comme tu es belle ! Derrière ton voile, tes yeux sont charmants comme des colombes. Tes longs cheveux ressemblent à un troupeau de chèvres descendant du mont Galaad.",
+    "h": "Le jeune homme",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "27004002",
+    "b": 27,
+    "c": 4,
+    "v": 2,
+    "t": "Tes dents sont comme un troupeau de brebis tondues qui viennent d’être lavées. Toutes ont leur sœur jumelle, et aucune ne manque.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "27004003",
+    "b": 27,
+    "c": 4,
+    "v": 3,
+    "t": "Tes lèvres sont un fin ruban rouge, et ta bouche est jolie. Derrière ton voile, tes joues ressemblent à deux tranches de fruit rouge.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "27004004",
+    "b": 27,
+    "c": 4,
+    "v": 4,
+    "t": "Ton cou est pareil à la Tour-de-David, solidement construite. Là, mille boucliers sont accrochés. Tous sont des armes de héros.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "27004005",
+    "b": 27,
+    "c": 4,
+    "v": 5,
+    "t": "Tes seins ressemblent à deux cabris, aux jumeaux d’une gazelle, qui broutent dans un champ de fleurs.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "27004006",
+    "b": 27,
+    "c": 4,
+    "v": 6,
+    "t": "Avant que se lève le souffle du soir, quand l’ombre s’étend sur la terre, je vais aller vers la montagne de la myrrhe, vers la colline de l’encens.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "27004007",
+    "b": 27,
+    "c": 4,
+    "v": 7,
+    "t": "Tu es très belle, mon amie, et sans aucun défaut.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "27004008",
+    "b": 27,
+    "c": 4,
+    "v": 8,
+    "t": "Viens avec moi du Liban, ma fiancée, viens avec moi du Liban. Descends des montagnes de l’Amana, du Senir et de l’Hermon. Quitte ces abris des lions, ces montagnes à léopards.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "27004009",
+    "b": 27,
+    "c": 4,
+    "v": 9,
+    "t": "Tu me fais perdre la tête, petite sœur, ma fiancée, tu me fais perdre la tête par un seul de tes regards, par une seule perle de tes colliers.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "27004010",
+    "b": 27,
+    "c": 4,
+    "v": 10,
+    "t": "Comme elle est merveilleuse, ta tendresse, petite sœur, ma fiancée ! Elle est plus délicieuse que le vin ! L’odeur de tes parfums est plus agréable que tous les parfums précieux.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "27004011",
+    "b": 27,
+    "c": 4,
+    "v": 11,
+    "t": "Ton baiser a la douceur du miel. Du miel et du lait se cachent sous ta langue. Tes vêtements ont l’odeur des forêts du Liban.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "27004012",
+    "b": 27,
+    "c": 4,
+    "v": 12,
+    "t": "Tu es mon jardin privé, petite sœur, ma fiancée, la source qui m’appartient, ma fontaine réservée.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "27004013",
+    "b": 27,
+    "c": 4,
+    "v": 13,
+    "t": "Tu as la fraîcheur d’une plantation de paradis, peuplée de grenadiers aux fruits délicieux. Là poussent des plantes de bonne odeur : le henné et le nard,",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "27004014",
+    "b": 27,
+    "c": 4,
+    "v": 14,
+    "t": "le safran, le laurier et la cannelle, tous les arbres à encens, la myrrhe et l’aloès avec les parfums les plus délicats.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "27004015",
+    "b": 27,
+    "c": 4,
+    "v": 15,
+    "t": "Oui, tu es une fontaine au milieu des jardins, une source d’eau pure qui coule des montagnes du Liban.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "27004016",
+    "b": 27,
+    "c": 4,
+    "v": 16,
+    "t": "Réveille-toi, vent du Nord ! Viens vite, vent du Sud ! Soufflez sur mon jardin, qu’il répande ses bonnes odeurs ! Toi que j’aime, entre dans ton jardin et mange ses fruits délicieux !",
+    "h": "La jeune fille",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "27005001",
+    "b": 27,
+    "c": 5,
+    "v": 1,
+    "t": "J’entre dans mon jardin, petite sœur, ma fiancée. Je cueille ma myrrhe et mes autres plantes parfumées. Je mange mon rayon de miel, je bois mon vin et mon lait. Mangez, mes amis, buvez, devenez ivres d’amour !",
+    "h": "Le jeune homme",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "27005002",
+    "b": 27,
+    "c": 5,
+    "v": 2,
+    "t": "Je dors, mais mon cœur veille. J’entends un bruit. Celui que j’aime frappe à la porte. Ouvre-moi, petite sœur, mon amie, ma colombe, ma parfaite. J’ai la tête couverte de rosée, et les cheveux perlés des gouttes de la nuit.",
+    "h": "Les amisElle lui ouvre la porte, mais trop tardLa jeune fille",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "27005003",
+    "b": 27,
+    "c": 5,
+    "v": 3,
+    "t": "J’ai enlevé mon vêtement, je ne vais pas le remettre ! Je me suis lavé les pieds, je ne vais pas les salir !",
+    "h": "Le jeune hommeLa jeune fille",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "27005004",
+    "b": 27,
+    "c": 5,
+    "v": 4,
+    "t": "Celui que j’aime passe la main par le trou de la porte, et mon cœur est troublé.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "27005005",
+    "b": 27,
+    "c": 5,
+    "v": 5,
+    "t": "Je me lève pour lui ouvrir. J’ai les mains pleines de myrrhe, et mes doigts laissent couler cette huile parfumée sur la poignée de la serrure.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "27005006",
+    "b": 27,
+    "c": 5,
+    "v": 6,
+    "t": "J’ouvre à celui que j’aime, mais il a tourné le dos, il est parti… Je sors pour le chercher. Je le cherche, mais je ne le trouve pas. Je l’appelle, mais il ne répond pas.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "27005007",
+    "b": 27,
+    "c": 5,
+    "v": 7,
+    "t": "Je rencontre les gardes de la ville. Ils font le tour des hauts murs qui la protègent. Ils me frappent, ils me blessent, ils arrachent le pagne qui couvre mes épaules.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "27005008",
+    "b": 27,
+    "c": 5,
+    "v": 8,
+    "t": "Je vous en supplie, filles de Jérusalem, si vous trouvez celui que j’aime, que lui direz-vous ? Que je suis malade d’amour.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "27005009",
+    "b": 27,
+    "c": 5,
+    "v": 9,
+    "t": "Toi, la plus belle des femmes, pourquoi nous demander cela ? Dis-nous : celui que tu aimes, qu’a-t-il de plus qu’un autre ? Oui, qu’a-t-il de plus qu’un autre ?",
+    "h": "Les jeunes filles",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "27005010",
+    "b": 27,
+    "c": 5,
+    "v": 10,
+    "t": "Celui que j’aime se reconnaît parmi dix mille personnes. Il a le teint brillant et clair.",
+    "h": "La jeune fille",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "27005011",
+    "b": 27,
+    "c": 5,
+    "v": 11,
+    "t": "Sa tête est en or pur. Ses cheveux frisés ressemblent à des fleurs de dattier, ils sont noirs comme un corbeau.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "27005012",
+    "b": 27,
+    "c": 5,
+    "v": 12,
+    "t": "Ses yeux sont charmants comme des colombes au bord de l’eau. Posées au bord d’une coupe, elles se baignent dans du lait.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "27005013",
+    "b": 27,
+    "c": 5,
+    "v": 13,
+    "t": "Ses joues ? Un coin de jardin parfumé, semé d’herbes de bonne odeur. Ses lèvres ? Des fleurs de lys qui laissent couler la myrrhe.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "27005014",
+    "b": 27,
+    "c": 5,
+    "v": 14,
+    "t": "Ses mains ressemblent aux bracelets d’or, colorés de pierres vertes. Son corps est de l’ivoire poli, recouvert de pierres bleues.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "27005015",
+    "b": 27,
+    "c": 5,
+    "v": 15,
+    "t": "Ses jambes sont pareilles aux colonnes de marbre blanc, plantées sur des supports d’or pur. Celui que j’aime est aussi beau que les montagnes du Liban, aussi élégant que les cèdres.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "27005016",
+    "b": 27,
+    "c": 5,
+    "v": 16,
+    "t": "Sa bouche est la douceur même, et toute sa personne, je la désire. Voilà celui que j’aime, voilà mon ami, filles de Jérusalem.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "27006001",
+    "b": 27,
+    "c": 6,
+    "v": 1,
+    "t": "Celui que tu aimes, toi la plus belle des femmes, où est-il allé ? De quel côté est-il parti ? Nous allons le chercher avec toi.",
+    "h": "Les jeunes filles",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "27006002",
+    "b": 27,
+    "c": 6,
+    "v": 2,
+    "t": "Celui que j’aime est descendu dans son jardin, vers les fleurs parfumées. Là, il trouve sa nourriture et cueille des lys.",
+    "h": "La jeune fille",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "27006003",
+    "b": 27,
+    "c": 6,
+    "v": 3,
+    "t": "Moi, je suis à celui que j’aime, et celui que j’aime est à moi. Il conduit son troupeau parmi les lys en fleurs.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "27006004",
+    "b": 27,
+    "c": 6,
+    "v": 4,
+    "t": "Tu es belle, mon amie, comme la ville de Tirsa. Tu es charmante comme Jérusalem, terrible comme une armée au combat.",
+    "h": "Portrait de la jeune fille aimée\nLe jeune homme",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "27006005",
+    "b": 27,
+    "c": 6,
+    "v": 5,
+    "t": "Ne me regarde plus : tes yeux me troublent. Tes longs cheveux ressemblent à un troupeau de chèvres descendant du mont Galaad.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "27006006",
+    "b": 27,
+    "c": 6,
+    "v": 6,
+    "t": "Tes dents sont comme un troupeau de brebis qui remontent de la source. Toutes ont leur sœur jumelle, et aucune ne manque.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "27006007",
+    "b": 27,
+    "c": 6,
+    "v": 7,
+    "t": "Derrière ton voile, tes joues ressemblent à deux tranches de fruit rouge.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "27006008",
+    "b": 27,
+    "c": 6,
+    "v": 8,
+    "t": "Le roi peut bien avoir soixante reines, quatre-vingts maîtresses et de nombreuses jeunes filles.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "27006009",
+    "b": 27,
+    "c": 6,
+    "v": 9,
+    "t": "Pour moi, il n’y a qu’une femme au monde. C’est ma colombe, ma parfaite. Elle est la seule fille de sa mère et son enfant préférée. Les jeunes filles la voient et disent son bonheur. Les reines et les maîtresses du roi chantent ainsi ses louanges :",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "27006010",
+    "b": 27,
+    "c": 6,
+    "v": 10,
+    "t": "« Qui est cette femme qui paraît comme la lumière du jour. Elle est aussi belle que la lune, aussi brillante que le soleil, terrible comme une armée au combat. »",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "27006011",
+    "b": 27,
+    "c": 6,
+    "v": 11,
+    "t": "Je descends à la plantation d’arbres fruitiers. Je veux regarder les jeunes arbres de la vallée. Est-ce que la vigne a fleuri ? Est-ce que les grenadiers sont en fleur ?",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "27006012",
+    "b": 27,
+    "c": 6,
+    "v": 12,
+    "t": "Je ne comprends plus rien ! Tu me rends timide, fille de noble famille.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "27007001",
+    "b": 27,
+    "c": 7,
+    "v": 1,
+    "t": "Reviens, reviens, Sulamite ! Reviens, et nous pourrons te regarder. Pourquoi regardez-vous la Sulamite, entraînée dans une danse en deux groupes ?",
+    "h": "Les femmes et les jeunes filles",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "27007002",
+    "b": 27,
+    "c": 7,
+    "v": 2,
+    "t": "Comme tes pieds sont beaux dans tes sandales, fille de roi ! La courbe de tes hanches ressemble à un collier créé par un artiste.",
+    "h": "Le jeune homme",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "27007003",
+    "b": 27,
+    "c": 7,
+    "v": 3,
+    "t": "Ton nombril forme une coupe où le vin parfumé ne manque jamais. Ton ventre ? Une colline de blé entourée de jolies fleurs.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "27007004",
+    "b": 27,
+    "c": 7,
+    "v": 4,
+    "t": "Tes seins font songer à deux cabris, aux jumeaux d’une gazelle.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "27007005",
+    "b": 27,
+    "c": 7,
+    "v": 5,
+    "t": "Ton cou est pareil à la Tour-d’ivoire. Tes yeux sont les étangs de Hèchebon, à la sortie de cette grande ville. Ton nez est beau comme la Tour du Liban, qui monte la garde en face de Damas.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "27007006",
+    "b": 27,
+    "c": 7,
+    "v": 6,
+    "t": "Ta tête se dresse bien droite comme le mont Carmel. Tes longs cheveux ont des reflets de vieil or, un roi est pris dans ses boucles.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "27007007",
+    "b": 27,
+    "c": 7,
+    "v": 7,
+    "t": "Tu es vraiment belle, tu es vraiment gracieuse, mon amour, toi, ma joie !",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "27007008",
+    "b": 27,
+    "c": 7,
+    "v": 8,
+    "t": "Tu as l’allure d’un dattier, et tes seins en sont les fruits.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "27007009",
+    "b": 27,
+    "c": 7,
+    "v": 9,
+    "t": "J’ai dit : « Je monterai au dattier, je cueillerai ses fruits. » Que tes seins soient pour moi comme les grappes de raisin ! Que le parfum de ton souffle ressemble à l’odeur des fruits !",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "27007010",
+    "b": 27,
+    "c": 7,
+    "v": 10,
+    "t": "Que ta bouche soit délicieuse comme le bon vin ! Oui, un bon vin réservé à celui que j’aime et qui glisse sur nos lèvres pendant notre sommeil.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "27007011",
+    "b": 27,
+    "c": 7,
+    "v": 11,
+    "t": "Je suis à celui que j’aime, et c’est moi qu’il désire.",
+    "h": "La jeune fille",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "27007012",
+    "b": 27,
+    "c": 7,
+    "v": 12,
+    "t": "Viens, toi que j’aime, sortons ! Allons passer la nuit au village.",
+    "h": "Le bonheur d’être aiméLa jeune fille",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "27007013",
+    "b": 27,
+    "c": 7,
+    "v": 13,
+    "t": "Le matin, très tôt, nous irons dans les vignes. Nous verrons si elles sont en fleur, si les boutons sont ouverts, si les grenadiers fleurissent. Là, je t’offrirai mes caresses.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "27007014",
+    "b": 27,
+    "c": 7,
+    "v": 14,
+    "t": "Les fruits d’amour donnent leur parfum. À notre porte, nous avons toutes sortes de fruits délicieux, des nouveaux et des vieux. Je les ai gardés pour toi, mon amour.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "27008001",
+    "b": 27,
+    "c": 8,
+    "v": 1,
+    "t": "Ah, si seulement tu étais mon frère, nourri au sein de ma mère ! Dehors, quand je te rencontrerais, je pourrais t’embrasser, et les gens ne me mépriseraient pas.",
+    "h": "",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "27008002",
+    "b": 27,
+    "c": 8,
+    "v": 2,
+    "t": "Je te conduirais dans la maison de ma mère, et tu m’apprendrais l’amour. Je te ferais boire du vin parfumé, du jus de mes fruits rouges.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "27008003",
+    "b": 27,
+    "c": 8,
+    "v": 3,
+    "t": "Sa main gauche soutient ma tête, et son bras droit me serre contre lui.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "27008004",
+    "b": 27,
+    "c": 8,
+    "v": 4,
+    "t": "« Je vous en supplie, filles de Jérusalem, ne réveillez pas mon amour, ne le dérangez pas avant qu’il donne son accord ! »",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "27008005",
+    "b": 27,
+    "c": 8,
+    "v": 5,
+    "t": "Qui est cette femme qui arrive du désert, appuyée sur son ami ? Je te réveille sous l’arbre de l’amour, là où ta mère est devenue enceinte de toi, là où elle t’a mis au monde.",
+    "h": "Les jeunes filles",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "27008006",
+    "b": 27,
+    "c": 8,
+    "v": 6,
+    "t": "Pose-moi sur ton cœur comme un bijou précieux, garde-moi près de toi, comme un bracelet gravé à ton nom. Oui, l’amour est fort comme la mort, la passion est aussi cruelle que le monde des morts. On ne peut rien contre elle. Elle brûle comme un feu, elle tombe comme la foudre.",
+    "h": "L’amour est fort comme la mortLa jeune fille",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "27008007",
+    "b": 27,
+    "c": 8,
+    "v": 7,
+    "t": "Toute l’eau des mers ne peut éteindre l’amour, et l’eau des fleuves est incapable de le noyer. Si quelqu’un donne toutes les richesses de sa maison pour acheter l’amour, on le repoussera avec mépris.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "27008008",
+    "b": 27,
+    "c": 8,
+    "v": 8,
+    "t": "Nous avons une petite sœur qui n’a pas encore de seins. Qu’allons-nous faire de notre sœur, le jour où il s’agira de la marier ?",
+    "h": "Les frères",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "27008009",
+    "b": 27,
+    "c": 8,
+    "v": 9,
+    "t": "Si elle est solide comme un mur de défense, nous bâtirons sur elle des tours d’argent pour la protéger. Si elle est une porte, nous la bloquerons avec un tronc de cèdres.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "27008010",
+    "b": 27,
+    "c": 8,
+    "v": 10,
+    "t": "Moi, je suis un mur de défense et mes seins sont pareils à des tours. Alors, pour lui, je suis celle qui apporte le bonheur.",
+    "h": "La jeune fille",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "27008011",
+    "b": 27,
+    "c": 8,
+    "v": 11,
+    "t": "Salomon possède une vigne à Baal-Hamon et il l’a confiée à des gardiens. Il faudrait lui donner mille pièces d’argent pour cueillir le raisin.",
+    "h": "Le jeune homme",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "27008012",
+    "b": 27,
+    "c": 8,
+    "v": 12,
+    "t": "Salomon, les mille pièces d’argent sont pour toi. Et voici deux cents pièces pour les gardiens de la vigne. Mais ma vigne à moi, je la garde moi-même.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "27008013",
+    "b": 27,
+    "c": 8,
+    "v": 13,
+    "t": "Toi qui es assise dans le jardin, des camarades tendent l’oreille pour t’écouter. Mais c’est à moi que tu dois dire :",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "27008014",
+    "b": 27,
+    "c": 8,
+    "v": 14,
+    "t": "« Pars vite, toi que j’aime ! Cours comme la gazelle ou le petit de la biche, sur les montagnes parfumées ! »",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  }
+]

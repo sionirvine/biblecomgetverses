@@ -1,0 +1,892 @@
+[
+  {
+    "id": "52001001",
+    "b": 52,
+    "c": 1,
+    "v": 1,
+    "t": "This letter is from Paul, Silas, and Timothy. We are writing to the church in Thessalonica, to you who belong to God the Father and the Lord Jesus Christ. May God give you grace and peace.",
+    "h": "Greetings from Paul",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "52001002",
+    "b": 52,
+    "c": 1,
+    "v": 2,
+    "t": "We always thank God for all of you and pray for you constantly.",
+    "h": "The Faith of the Thessalonian Believers",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "52001003",
+    "b": 52,
+    "c": 1,
+    "v": 3,
+    "t": "As we pray to our God and Father about you, we think of your faithful work, your loving deeds, and the enduring hope you have because of our Lord Jesus Christ.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "52001004",
+    "b": 52,
+    "c": 1,
+    "v": 4,
+    "t": "We know, dear brothers and sisters, that God loves you and has chosen you to be his own people.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "52001005",
+    "b": 52,
+    "c": 1,
+    "v": 5,
+    "t": "For when we brought you the Good News, it was not only with words but also with power, for the Holy Spirit gave you full assurance that what we said was true. And you know of our concern for you from the way we lived when we were with you.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "52001006",
+    "b": 52,
+    "c": 1,
+    "v": 6,
+    "t": "So you received the message with joy from the Holy Spirit in spite of the severe suffering it brought you. In this way, you imitated both us and the Lord.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "52001007",
+    "b": 52,
+    "c": 1,
+    "v": 7,
+    "t": "As a result, you have become an example to all the believers in Greece—throughout both Macedonia and Achaia.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "52001008",
+    "b": 52,
+    "c": 1,
+    "v": 8,
+    "t": "And now the word of the Lord is ringing out from you to people everywhere, even beyond Macedonia and Achaia, for wherever we go we find people telling us about your faith in God. We don’t need to tell them about it,",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "52001009",
+    "b": 52,
+    "c": 1,
+    "v": 9,
+    "t": "for they keep talking about the wonderful welcome you gave us and how you turned away from idols to serve the living and true God.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "52001010",
+    "b": 52,
+    "c": 1,
+    "v": 10,
+    "t": "And they speak of how you are looking forward to the coming of God’s Son from heaven—Jesus, whom God raised from the dead. He is the one who has rescued us from the terrors of the coming judgment.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "52002001",
+    "b": 52,
+    "c": 2,
+    "v": 1,
+    "t": "You yourselves know, dear brothers and sisters, that our visit to you was not a failure.",
+    "h": "Paul Remembers His Visit",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "52002002",
+    "b": 52,
+    "c": 2,
+    "v": 2,
+    "t": "You know how badly we had been treated at Philippi just before we came to you and how much we suffered there. Yet our God gave us the courage to declare his Good News to you boldly, in spite of great opposition.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "52002003",
+    "b": 52,
+    "c": 2,
+    "v": 3,
+    "t": "So you can see we were not preaching with any deceit or impure motives or trickery.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "52002004",
+    "b": 52,
+    "c": 2,
+    "v": 4,
+    "t": "For we speak as messengers approved by God to be entrusted with the Good News. Our purpose is to please God, not people. He alone examines the motives of our hearts.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "52002005",
+    "b": 52,
+    "c": 2,
+    "v": 5,
+    "t": "Never once did we try to win you with flattery, as you well know. And God is our witness that we were not pretending to be your friends just to get your money!",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "52002006",
+    "b": 52,
+    "c": 2,
+    "v": 6,
+    "t": "As for human praise, we have never sought it from you or anyone else.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "52002007",
+    "b": 52,
+    "c": 2,
+    "v": 7,
+    "t": "As apostles of Christ we certainly had a right to make some demands of you, but instead we were like children among you. Or we were like a mother feeding and caring for her own children.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "52002008",
+    "b": 52,
+    "c": 2,
+    "v": 8,
+    "t": "We loved you so much that we shared with you not only God’s Good News but our own lives, too.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "52002009",
+    "b": 52,
+    "c": 2,
+    "v": 9,
+    "t": "Don’t you remember, dear brothers and sisters, how hard we worked among you? Night and day we toiled to earn a living so that we would not be a burden to any of you as we preached God’s Good News to you.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "52002010",
+    "b": 52,
+    "c": 2,
+    "v": 10,
+    "t": "You yourselves are our witnesses—and so is God—that we were devout and honest and faultless toward all of you believers.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "52002011",
+    "b": 52,
+    "c": 2,
+    "v": 11,
+    "t": "And you know that we treated each of you as a father treats his own children.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "52002012",
+    "b": 52,
+    "c": 2,
+    "v": 12,
+    "t": "We pleaded with you, encouraged you, and urged you to live your lives in a way that God would consider worthy. For he called you to share in his Kingdom and glory.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "52002013",
+    "b": 52,
+    "c": 2,
+    "v": 13,
+    "t": "Therefore, we never stop thanking God that when you received his message from us, you didn’t think of our words as mere human ideas. You accepted what we said as the very word of God—which, of course, it is. And this word continues to work in you who believe.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "52002014",
+    "b": 52,
+    "c": 2,
+    "v": 14,
+    "t": "And then, dear brothers and sisters, you suffered persecution from your own countrymen. In this way, you imitated the believers in God’s churches in Judea who, because of their belief in Christ Jesus, suffered from their own people, the Jews.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "52002015",
+    "b": 52,
+    "c": 2,
+    "v": 15,
+    "t": "For some of the Jews killed the prophets, and some even killed the Lord Jesus. Now they have persecuted us, too. They fail to please God and work against all humanity",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "52002016",
+    "b": 52,
+    "c": 2,
+    "v": 16,
+    "t": "as they try to keep us from preaching the Good News of salvation to the Gentiles. By doing this, they continue to pile up their sins. But the anger of God has caught up with them at last.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "52002017",
+    "b": 52,
+    "c": 2,
+    "v": 17,
+    "t": "Dear brothers and sisters, after we were separated from you for a little while (though our hearts never left you), we tried very hard to come back because of our intense longing to see you again.",
+    "h": "Timothy’s Good Report about the Church",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "52002018",
+    "b": 52,
+    "c": 2,
+    "v": 18,
+    "t": "We wanted very much to come to you, and I, Paul, tried again and again, but Satan prevented us.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "52002019",
+    "b": 52,
+    "c": 2,
+    "v": 19,
+    "t": "After all, what gives us hope and joy, and what will be our proud reward and crown as we stand before our Lord Jesus when he returns? It is you!",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "52002020",
+    "b": 52,
+    "c": 2,
+    "v": 20,
+    "t": "Yes, you are our pride and joy.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "52003001",
+    "b": 52,
+    "c": 3,
+    "v": 1,
+    "t": "Finally, when we could stand it no longer, we decided to stay alone in Athens,",
+    "h": "",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "52003002",
+    "b": 52,
+    "c": 3,
+    "v": 2,
+    "t": "and we sent Timothy to visit you. He is our brother and God’s co-worker in proclaiming the Good News of Christ. We sent him to strengthen you, to encourage you in your faith,",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "52003003",
+    "b": 52,
+    "c": 3,
+    "v": 3,
+    "t": "and to keep you from being shaken by the troubles you were going through. But you know that we are destined for such troubles.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "52003004",
+    "b": 52,
+    "c": 3,
+    "v": 4,
+    "t": "Even while we were with you, we warned you that troubles would soon come—and they did, as you well know.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "52003005",
+    "b": 52,
+    "c": 3,
+    "v": 5,
+    "t": "That is why, when I could bear it no longer, I sent Timothy to find out whether your faith was still strong. I was afraid that the tempter had gotten the best of you and that our work had been useless.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "52003006",
+    "b": 52,
+    "c": 3,
+    "v": 6,
+    "t": "But now Timothy has just returned, bringing us good news about your faith and love. He reports that you always remember our visit with joy and that you want to see us as much as we want to see you.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "52003007",
+    "b": 52,
+    "c": 3,
+    "v": 7,
+    "t": "So we have been greatly encouraged in the midst of our troubles and suffering, dear brothers and sisters, because you have remained strong in your faith.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "52003008",
+    "b": 52,
+    "c": 3,
+    "v": 8,
+    "t": "It gives us new life to know that you are standing firm in the Lord.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "52003009",
+    "b": 52,
+    "c": 3,
+    "v": 9,
+    "t": "How we thank God for you! Because of you we have great joy as we enter God’s presence.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "52003010",
+    "b": 52,
+    "c": 3,
+    "v": 10,
+    "t": "Night and day we pray earnestly for you, asking God to let us see you again to fill the gaps in your faith.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "52003011",
+    "b": 52,
+    "c": 3,
+    "v": 11,
+    "t": "May God our Father and our Lord Jesus bring us to you very soon.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "52003012",
+    "b": 52,
+    "c": 3,
+    "v": 12,
+    "t": "And may the Lord make your love for one another and for all people grow and overflow, just as our love for you overflows.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "52003013",
+    "b": 52,
+    "c": 3,
+    "v": 13,
+    "t": "May he, as a result, make your hearts strong, blameless, and holy as you stand before God our Father when our Lord Jesus comes again with all his holy people. Amen.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "52004001",
+    "b": 52,
+    "c": 4,
+    "v": 1,
+    "t": "Finally, dear brothers and sisters, we urge you in the name of the Lord Jesus to live in a way that pleases God, as we have taught you. You live this way already, and we encourage you to do so even more.",
+    "h": "Live to Please God",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "52004002",
+    "b": 52,
+    "c": 4,
+    "v": 2,
+    "t": "For you remember what we taught you by the authority of the Lord Jesus.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "52004003",
+    "b": 52,
+    "c": 4,
+    "v": 3,
+    "t": "God’s will is for you to be holy, so stay away from all sexual sin.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "52004004",
+    "b": 52,
+    "c": 4,
+    "v": 4,
+    "t": "Then each of you will control his own body and live in holiness and honor—",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "52004005",
+    "b": 52,
+    "c": 4,
+    "v": 5,
+    "t": "not in lustful passion like the pagans who do not know God and his ways.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "52004006",
+    "b": 52,
+    "c": 4,
+    "v": 6,
+    "t": "Never harm or cheat a fellow believer in this matter by violating his wife, for the Lord avenges all such sins, as we have solemnly warned you before.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "52004007",
+    "b": 52,
+    "c": 4,
+    "v": 7,
+    "t": "God has called us to live holy lives, not impure lives.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "52004008",
+    "b": 52,
+    "c": 4,
+    "v": 8,
+    "t": "Therefore, anyone who refuses to live by these rules is not disobeying human teaching but is rejecting God, who gives his Holy Spirit to you.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "52004009",
+    "b": 52,
+    "c": 4,
+    "v": 9,
+    "t": "But we don’t need to write to you about the importance of loving each other, for God himself has taught you to love one another.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "52004010",
+    "b": 52,
+    "c": 4,
+    "v": 10,
+    "t": "Indeed, you already show your love for all the believers throughout Macedonia. Even so, dear brothers and sisters, we urge you to love them even more.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "52004011",
+    "b": 52,
+    "c": 4,
+    "v": 11,
+    "t": "Make it your goal to live a quiet life, minding your own business and working with your hands, just as we instructed you before.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "52004012",
+    "b": 52,
+    "c": 4,
+    "v": 12,
+    "t": "Then people who are not believers will respect the way you live, and you will not need to depend on others.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "52004013",
+    "b": 52,
+    "c": 4,
+    "v": 13,
+    "t": "And now, dear brothers and sisters, we want you to know what will happen to the believers who have died so you will not grieve like people who have no hope.",
+    "h": "The Hope of the Resurrection",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "52004014",
+    "b": 52,
+    "c": 4,
+    "v": 14,
+    "t": "For since we believe that Jesus died and was raised to life again, we also believe that when Jesus returns, God will bring back with him the believers who have died.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "52004015",
+    "b": 52,
+    "c": 4,
+    "v": 15,
+    "t": "We tell you this directly from the Lord: We who are still living when the Lord returns will not meet him ahead of those who have died.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "52004016",
+    "b": 52,
+    "c": 4,
+    "v": 16,
+    "t": "For the Lord himself will come down from heaven with a commanding shout, with the voice of the archangel, and with the trumpet call of God. First, the believers who have died will rise from their graves.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "52004017",
+    "b": 52,
+    "c": 4,
+    "v": 17,
+    "t": "Then, together with them, we who are still alive and remain on the earth will be caught up in the clouds to meet the Lord in the air. Then we will be with the Lord forever.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "52004018",
+    "b": 52,
+    "c": 4,
+    "v": 18,
+    "t": "So encourage each other with these words.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "52005001",
+    "b": 52,
+    "c": 5,
+    "v": 1,
+    "t": "Now concerning how and when all this will happen, dear brothers and sisters, we don’t really need to write you.",
+    "h": "",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "52005002",
+    "b": 52,
+    "c": 5,
+    "v": 2,
+    "t": "For you know quite well that the day of the Lord’s return will come unexpectedly, like a thief in the night.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "52005003",
+    "b": 52,
+    "c": 5,
+    "v": 3,
+    "t": "When people are saying, “Everything is peaceful and secure,” then disaster will fall on them as suddenly as a pregnant woman’s labor pains begin. And there will be no escape.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "52005004",
+    "b": 52,
+    "c": 5,
+    "v": 4,
+    "t": "But you aren’t in the dark about these things, dear brothers and sisters, and you won’t be surprised when the day of the Lord comes like a thief.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "52005005",
+    "b": 52,
+    "c": 5,
+    "v": 5,
+    "t": "For you are all children of the light and of the day; we don’t belong to darkness and night.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "52005006",
+    "b": 52,
+    "c": 5,
+    "v": 6,
+    "t": "So be on your guard, not asleep like the others. Stay alert and be clearheaded.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "52005007",
+    "b": 52,
+    "c": 5,
+    "v": 7,
+    "t": "Night is the time when people sleep and drinkers get drunk.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "52005008",
+    "b": 52,
+    "c": 5,
+    "v": 8,
+    "t": "But let us who live in the light be clearheaded, protected by the armor of faith and love, and wearing as our helmet the confidence of our salvation.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "52005009",
+    "b": 52,
+    "c": 5,
+    "v": 9,
+    "t": "For God chose to save us through our Lord Jesus Christ, not to pour out his anger on us.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "52005010",
+    "b": 52,
+    "c": 5,
+    "v": 10,
+    "t": "Christ died for us so that, whether we are dead or alive when he returns, we can live with him forever.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "52005011",
+    "b": 52,
+    "c": 5,
+    "v": 11,
+    "t": "So encourage each other and build each other up, just as you are already doing.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "52005012",
+    "b": 52,
+    "c": 5,
+    "v": 12,
+    "t": "Dear brothers and sisters, honor those who are your leaders in the Lord’s work. They work hard among you and give you spiritual guidance.",
+    "h": "Paul’s Final Advice",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "52005013",
+    "b": 52,
+    "c": 5,
+    "v": 13,
+    "t": "Show them great respect and wholehearted love because of their work. And live peacefully with each other.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "52005014",
+    "b": 52,
+    "c": 5,
+    "v": 14,
+    "t": "Brothers and sisters, we urge you to warn those who are lazy. Encourage those who are timid. Take tender care of those who are weak. Be patient with everyone.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "52005015",
+    "b": 52,
+    "c": 5,
+    "v": 15,
+    "t": "See that no one pays back evil for evil, but always try to do good to each other and to all people.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "52005016",
+    "b": 52,
+    "c": 5,
+    "v": 16,
+    "t": "Always be joyful.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "52005017",
+    "b": 52,
+    "c": 5,
+    "v": 17,
+    "t": "Never stop praying.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "52005018",
+    "b": 52,
+    "c": 5,
+    "v": 18,
+    "t": "Be thankful in all circumstances, for this is God’s will for you who belong to Christ Jesus.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "52005019",
+    "b": 52,
+    "c": 5,
+    "v": 19,
+    "t": "Do not stifle the Holy Spirit.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "52005020",
+    "b": 52,
+    "c": 5,
+    "v": 20,
+    "t": "Do not scoff at prophecies,",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "52005021",
+    "b": 52,
+    "c": 5,
+    "v": 21,
+    "t": "but test everything that is said. Hold on to what is good.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "52005022",
+    "b": 52,
+    "c": 5,
+    "v": 22,
+    "t": "Stay away from every kind of evil.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "52005023",
+    "b": 52,
+    "c": 5,
+    "v": 23,
+    "t": "Now may the God of peace make you holy in every way, and may your whole spirit and soul and body be kept blameless until our Lord Jesus Christ comes again.",
+    "h": "Paul’s Final Greetings",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "52005024",
+    "b": 52,
+    "c": 5,
+    "v": 24,
+    "t": "God will make this happen, for he who calls you is faithful.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "52005025",
+    "b": 52,
+    "c": 5,
+    "v": 25,
+    "t": "Dear brothers and sisters, pray for us.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "52005026",
+    "b": 52,
+    "c": 5,
+    "v": 26,
+    "t": "Greet all the brothers and sisters with a sacred kiss.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "52005027",
+    "b": 52,
+    "c": 5,
+    "v": 27,
+    "t": "I command you in the name of the Lord to read this letter to all the brothers and sisters.",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "52005028",
+    "b": 52,
+    "c": 5,
+    "v": 28,
+    "t": "May the grace of our Lord Jesus Christ be with you.",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  }
+]

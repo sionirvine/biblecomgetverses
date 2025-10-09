@@ -1,0 +1,892 @@
+[
+  {
+    "id": "13001001",
+    "b": 13,
+    "c": 1,
+    "v": 1,
+    "t": "Dari Paulus, Silwanus dan Timotius. Kepada jemaat orang-orang Tesalonika yang di dalam Allah Bapa dan di dalam Tuhan Yesus Kristus. Anugerah dan damai sejahtera menyertai kamu.",
+    "h": "Salam\n  1:1",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "13001002",
+    "b": 13,
+    "c": 1,
+    "v": 2,
+    "t": "Kami selalu mengucap syukur kepada Allah karena kamu semua dan menyebut kamu dalam doa kami.",
+    "h": "Buah pemberitaan Paulus  1:2-10",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "13001003",
+    "b": 13,
+    "c": 1,
+    "v": 3,
+    "t": "Sebab kami selalu mengingat pekerjaan imanmu, usaha kasihmu dan ketekunan pengharapanmu kepada Tuhan kita Yesus Kristus di hadapan Allah dan Bapa kita.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "13001004",
+    "b": 13,
+    "c": 1,
+    "v": 4,
+    "t": "Dan kami tahu, hai Saudara-saudara yang dikasihi Allah bahwa Ia telah memilih kamu.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "13001005",
+    "b": 13,
+    "c": 1,
+    "v": 5,
+    "t": "Sebab Injil yang kami beritakan bukan disampaikan kepada kamu dengan kata-kata saja, tetapi juga dengan kekuatan oleh Roh Kudus dan dengan suatu kepastian yang kokoh. Memang kamu tahu, bagaimana kami bekerja di antara kamu oleh karena kamu.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "13001006",
+    "b": 13,
+    "c": 1,
+    "v": 6,
+    "t": "Dan kamu mengikuti teladan kami dan teladan Tuhan; dalam penindasan yang berat kamu telah menerima firman itu dengan sukacita yang dikerjakan oleh Roh Kudus,",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "13001007",
+    "b": 13,
+    "c": 1,
+    "v": 7,
+    "t": "sehingga kamu telah menjadi teladan untuk semua orang yang percaya di wilayah Makedonia dan Akhaya.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "13001008",
+    "b": 13,
+    "c": 1,
+    "v": 8,
+    "t": "Karena dari antara kamu firman Tuhan bergema bukan hanya di Makedonia dan Akhaya saja, tetapi di semua tempat telah tersebar kabar tentang imanmu kepada Allah, sehingga kami tidak usah mengatakan apa-apa tentang hal itu.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "13001009",
+    "b": 13,
+    "c": 1,
+    "v": 9,
+    "t": "Sebab mereka sendiri bercerita tentang kami, bagaimana sambutan kamu terhadap kami dan bagaimana kamu berbalik dari berhala-berhala kepada Allah untuk melayani Allah yang hidup dan benar,",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "13001010",
+    "b": 13,
+    "c": 1,
+    "v": 10,
+    "t": "dan untuk menantikan kedatangan Anak-Nya dari surga, yang telah dibangkitkan-Nya dari antara orang mati, yaitu Yesus, yang menyelamatkan kita dari murka yang akan datang.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "13002001",
+    "b": 13,
+    "c": 2,
+    "v": 1,
+    "t": "Kamu sendiri pun memang tahu, Saudara-saudara bahwa kedatangan kami di antara kamu tidaklah sia-sia.",
+    "h": "Pelayanan Paulus di Tesalonika\n  2:1-12",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "13002002",
+    "b": 13,
+    "c": 2,
+    "v": 2,
+    "t": "Tetapi sungguhpun kami sebelumnya, seperti kamu tahu, telah dianiaya dan dihina di Filipi, namun dengan pertolongan Allah kita, kami beroleh keberanian untuk memberitakan Injil Allah kepada kamu dalam perjuangan yang berat.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "13002003",
+    "b": 13,
+    "c": 2,
+    "v": 3,
+    "t": "Sebab nasihat kami tidak lahir dari kesesatan atau dari maksud yang tidak murni dan juga tidak disertai tipu daya.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "13002004",
+    "b": 13,
+    "c": 2,
+    "v": 4,
+    "t": "Sebaliknya, karena Allah telah menganggap kami layak sehingga Ia mempercayakan Injil kepada kami, maka kami berbicara, bukan untuk menyenangkan manusia, melainkan untuk menyenangkan Allah yang menguji hati kita.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "13002005",
+    "b": 13,
+    "c": 2,
+    "v": 5,
+    "t": "Karena seperti yang kamu ketahui, kami tidak pernah bermulut manis dan tidak pernah mempunyai maksud serakah yang tersembunyi — Allah adalah saksi.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "13002006",
+    "b": 13,
+    "c": 2,
+    "v": 6,
+    "t": "Juga tidak pernah kami mencari pujian dari manusia, baik dari kamu, maupun dari orang-orang lain, sekalipun kami dapat berbuat demikian sebagai rasul-rasul Kristus.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "13002007",
+    "b": 13,
+    "c": 2,
+    "v": 7,
+    "t": "Tetapi kami berlaku ramah di antara kamu, sama seperti seorang ibu mengasuh dan merawat anaknya.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "13002008",
+    "b": 13,
+    "c": 2,
+    "v": 8,
+    "t": "Demikianlah kami, dalam kasih sayang yang besar terhadap kamu, bukan saja rela membagi Injil Allah dengan kamu, tetapi juga hidup kami sendiri dengan kamu, karena kamu telah kami kasihi.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "13002009",
+    "b": 13,
+    "c": 2,
+    "v": 9,
+    "t": "Sebab kamu masih ingat, Saudara-saudara, akan usaha dan jerih payah kami. Sementara kami bekerja siang malam, supaya jangan menjadi beban bagi siapa pun juga di antara kamu, kami memberitakan Injil Allah kepada kamu.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "13002010",
+    "b": 13,
+    "c": 2,
+    "v": 10,
+    "t": "Kamulah saksi, demikian juga Allah, betapa saleh, adil dan tak bercacatnya kami berlaku di antara kamu yang percaya.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "13002011",
+    "b": 13,
+    "c": 2,
+    "v": 11,
+    "t": "Kamu tahu, betapa kami, seperti bapak terhadap anak-anaknya, telah menasihati kamu dan menguatkan hatimu seorang demi seorang,",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "13002012",
+    "b": 13,
+    "c": 2,
+    "v": 12,
+    "t": "dan meminta dengan sangat, supaya kamu hidup sesuai dengan kehendak Allah, yang memanggil kamu ke dalam Kerajaan dan kemuliaan-Nya.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "13002013",
+    "b": 13,
+    "c": 2,
+    "v": 13,
+    "t": "Karena itulah kami tidak putus-putusnya mengucap syukur juga kepada Allah, sebab kamu telah menerima firman Allah yang kami beritakan itu, bukan sebagai perkataan manusia, tetapi — dan memang sungguh-sungguh demikian — sebagai firman Allah, yang bekerja juga di dalam kamu yang percaya.",
+    "h": "Sukacita atas jemaat\n  2:13-20",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "13002014",
+    "b": 13,
+    "c": 2,
+    "v": 14,
+    "t": "Sebab kamu, Saudara-saudara, telah mengikuti teladan jemaat-jemaat Allah di Yudea, jemaat-jemaat di dalam Kristus Yesus, karena kamu juga telah menderita dari teman-teman sebangsamu sama seperti yang mereka derita dari orang-orang Yahudi.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "13002015",
+    "b": 13,
+    "c": 2,
+    "v": 15,
+    "t": "Bahkan orang-orang Yahudi itu telah membunuh Tuhan Yesus dan para nabi dan telah menganiaya kami. Apa yang berkenan kepada Allah tidak mereka pedulikan dan semua manusia mereka musuhi,",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "13002016",
+    "b": 13,
+    "c": 2,
+    "v": 16,
+    "t": "karena mereka mau menghalang-halangi kami memberitakan firman kepada bangsa-bangsa lain untuk keselamatan mereka. Demikianlah mereka terus-menerus menambah dosa mereka sampai genap jumlahnya dan sekarang murka telah menimpa mereka sepenuh-penuhnya.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "13002017",
+    "b": 13,
+    "c": 2,
+    "v": 17,
+    "t": "Tetapi kami, Saudara-saudara, yang seketika terpisah dari kamu, jauh di mata, tetapi tidak jauh di hati, sungguh-sungguh, dengan kerinduan yang besar, telah berusaha untuk menemui kamu muka dengan muka.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "13002018",
+    "b": 13,
+    "c": 2,
+    "v": 18,
+    "t": "Sebab kami telah berniat untuk datang kepada kamu — aku, Paulus, malahan lebih dari sekali — tetapi Iblis telah mencegah kami.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "13002019",
+    "b": 13,
+    "c": 2,
+    "v": 19,
+    "t": "Sebab siapa pengharapan kami atau sukacita kami atau mahkota kemegahan kami di hadapan Yesus, Tuhan kita, pada waktu kedatangan-Nya, kalau bukan kamu?",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "13002020",
+    "b": 13,
+    "c": 2,
+    "v": 20,
+    "t": "Sungguh, kamulah kemuliaan kami dan sukacita kami.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "13003001",
+    "b": 13,
+    "c": 3,
+    "v": 1,
+    "t": "Kami tidak dapat tahan lagi, karena itu kami mengambil keputusan untuk tinggal seorang diri di Atena.",
+    "h": "Kabar baik yang dibawa oleh Timotius\n  3:1-13",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "13003002",
+    "b": 13,
+    "c": 3,
+    "v": 2,
+    "t": "Lalu kami mengirim Timotius, saudara seiman kita dan rekan sekerja Allah dalam pemberitaan Injil Kristus, untuk menguatkan hatimu dan menasihatkan kamu tentang imanmu,",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "13003003",
+    "b": 13,
+    "c": 3,
+    "v": 3,
+    "t": "supaya jangan ada orang yang goyah imannya karena kesusahan-kesusahan ini. Kamu sendiri tahu bahwa kita ditentukan untuk itu.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "13003004",
+    "b": 13,
+    "c": 3,
+    "v": 4,
+    "t": "Sebab, juga waktu kami bersama-sama dengan kamu, telah kami katakan kepada kamu bahwa kita akan mengalami kesusahan. Seperti yang kamu ketahui, hal itu telah terjadi.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "13003005",
+    "b": 13,
+    "c": 3,
+    "v": 5,
+    "t": "Itulah sebabnya, ketika tidak dapat tahan lagi, aku mengirim dia, supaya aku tahu tentang imanmu, karena aku khawatir kalau-kalau kamu telah dicobai oleh si penggoda dan kalau-kalau usaha kami menjadi sia-sia.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "13003006",
+    "b": 13,
+    "c": 3,
+    "v": 6,
+    "t": "Tetapi sekarang, setelah Timotius datang kembali dari kamu dan membawa kabar yang menggembirakan tentang imanmu dan kasihmu, dan bahwa kamu selalu menaruh kenang-kenangan yang baik akan kami dan ingin untuk berjumpa dengan kami, seperti kami juga ingin untuk berjumpa dengan kamu,",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "13003007",
+    "b": 13,
+    "c": 3,
+    "v": 7,
+    "t": "maka kami juga, Saudara-saudara, dalam segala kesusahan dan kesukaran kami menjadi terhibur oleh kamu dan oleh imanmu.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "13003008",
+    "b": 13,
+    "c": 3,
+    "v": 8,
+    "t": "Sekarang kami hidup kembali, asal saja kamu teguh berdiri di dalam Tuhan.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "13003009",
+    "b": 13,
+    "c": 3,
+    "v": 9,
+    "t": "Sebab ucapan syukur apakah yang dapat kami persembahkan kepada Allah atas segala sukacita, yang kami peroleh karena kamu, di hadapan Allah kita?",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "13003010",
+    "b": 13,
+    "c": 3,
+    "v": 10,
+    "t": "Siang malam kami berdoa dengan sungguh-sungguh, supaya kita bertemu muka dengan muka dan menambahkan apa yang masih kurang pada imanmu.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "13003011",
+    "b": 13,
+    "c": 3,
+    "v": 11,
+    "t": "Kiranya Dia, Allah dan Bapa kita, dan Yesus, Tuhan kita, membukakan bagi kami jalan kepadamu.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "13003012",
+    "b": 13,
+    "c": 3,
+    "v": 12,
+    "t": "Kiranya Tuhan menjadikan kamu bertambah-tambah dan berkelimpahan dalam kasih seorang terhadap yang lain dan terhadap semua orang, sama seperti kami juga mengasihi kamu.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "13003013",
+    "b": 13,
+    "c": 3,
+    "v": 13,
+    "t": "Kiranya Dia menguatkan hatimu, supaya tak bercacat dan kudus, di hadapan Allah dan Bapa kita pada waktu kedatangan Yesus, Tuhan kita, dengan semua orang kudus-Nya.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "13004001",
+    "b": 13,
+    "c": 4,
+    "v": 1,
+    "t": "Akhirnya, Saudara-saudara, kami minta dan nasihatkan kamu dalam Tuhan Yesus: Kamu telah mendengar dari kami bagaimana kamu harus hidup supaya berkenan kepada Allah. Hal itu memang telah kamu turuti, tetapi baiklah kamu melakukannya lebih bersungguh-sungguh lagi.",
+    "h": "Nasihat supaya hidup kudus\n  4:1-12",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "13004002",
+    "b": 13,
+    "c": 4,
+    "v": 2,
+    "t": "Kamu tahu juga petunjuk-petunjuk mana yang telah kami berikan kepadamu atas nama Tuhan Yesus.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "13004003",
+    "b": 13,
+    "c": 4,
+    "v": 3,
+    "t": "Karena inilah kehendak Allah: Pengudusanmu, yaitu supaya kamu menjauhi percabulan,",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "13004004",
+    "b": 13,
+    "c": 4,
+    "v": 4,
+    "t": "supaya kamu masing-masing mengambil seorang perempuan menjadi istrimu sendiri dan hidup di dalam kekudusan dan kehormatan,",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "13004005",
+    "b": 13,
+    "c": 4,
+    "v": 5,
+    "t": "bukan di dalam keinginan hawa nafsu, seperti yang dibuat oleh bangsa-bangsa yang tidak mengenal Allah,",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "13004006",
+    "b": 13,
+    "c": 4,
+    "v": 6,
+    "t": "dan supaya dalam hal-hal ini orang jangan merugikan saudara seimannya atau memperdayakannya. Karena Tuhan adalah pembalas dari semuanya ini, seperti yang telah kami katakan dan tegaskan dahulu kepadamu.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "13004007",
+    "b": 13,
+    "c": 4,
+    "v": 7,
+    "t": "Allah memanggil kita bukan untuk melakukan apa yang cemar, melainkan apa yang kudus.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "13004008",
+    "b": 13,
+    "c": 4,
+    "v": 8,
+    "t": "Karena itu, siapa yang menolak ini bukanlah menolak manusia, melainkan menolak Allah yang telah memberikan juga Roh-Nya yang kudus kepada kamu.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "13004009",
+    "b": 13,
+    "c": 4,
+    "v": 9,
+    "t": "Tentang kasih persaudaraan tidak perlu dituliskan kepadamu, karena kamu sendiri telah belajar kasih mengasihi dari Allah.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "13004010",
+    "b": 13,
+    "c": 4,
+    "v": 10,
+    "t": "Hal itu kamu lakukan juga terhadap semua saudara seiman di seluruh wilayah Makedonia. Tetapi kami menasihati kamu, Saudara-saudara, supaya kamu lebih bersungguh-sungguh lagi melakukannya.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "13004011",
+    "b": 13,
+    "c": 4,
+    "v": 11,
+    "t": "Dan anggaplah sebagai suatu kehormatan untuk hidup tenang, untuk mengurus persoalan-persoalan sendiri dan bekerja dengan tangan, seperti yang telah kami pesankan kepadamu,",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "13004012",
+    "b": 13,
+    "c": 4,
+    "v": 12,
+    "t": "sehingga kamu hidup sebagai orang-orang yang sopan di mata orang luar dan tidak bergantung pada mereka.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "13004013",
+    "b": 13,
+    "c": 4,
+    "v": 13,
+    "t": "Selanjutnya kami tidak mau, Saudara-saudara bahwa kamu tidak mengetahui tentang mereka yang meninggal, supaya kamu jangan berdukacita seperti orang-orang lain yang tidak mempunyai pengharapan.",
+    "h": "Kedatangan Tuhan\n  4:13-18",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "13004014",
+    "b": 13,
+    "c": 4,
+    "v": 14,
+    "t": "Karena jikalau kita percaya bahwa Yesus telah mati dan telah bangkit, maka kita percaya juga bahwa dengan perantaraan Yesus, Allah akan mengumpulkan bersama-sama dengan Dia mereka yang telah meninggal.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "13004015",
+    "b": 13,
+    "c": 4,
+    "v": 15,
+    "t": "Hal ini kami katakan kepadamu dengan firman Tuhan: Kita yang hidup, yang masih tinggal sampai kedatangan Tuhan, sekali-kali tidak akan mendahului mereka yang telah meninggal.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "13004016",
+    "b": 13,
+    "c": 4,
+    "v": 16,
+    "t": "Sebab pada waktu aba-aba diberi pada waktu pemimpin malaikat berseru dan sangkakala Allah berbunyi, maka Tuhan sendiri akan turun dari surga dan mereka yang mati dalam Kristus akan lebih dahulu bangkit;",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "13004017",
+    "b": 13,
+    "c": 4,
+    "v": 17,
+    "t": "sesudah itu, kita yang hidup, yang masih tinggal, akan diangkat bersama-sama dengan mereka dalam awan menyongsong Tuhan di angkasa. Demikianlah kita akan selama-lamanya bersama-sama dengan Tuhan.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "13004018",
+    "b": 13,
+    "c": 4,
+    "v": 18,
+    "t": "Karena itu, hiburkanlah seorang akan yang lain dengan perkataan-perkataan ini.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "13005001",
+    "b": 13,
+    "c": 5,
+    "v": 1,
+    "t": "Tetapi tentang masa dan waktunya, Saudara-saudara, tidak perlu dituliskan kepadamu,",
+    "h": "Berjaga-jaga\n  5:1-11",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "13005002",
+    "b": 13,
+    "c": 5,
+    "v": 2,
+    "t": "karena kamu sendiri tahu benar-benar bahwa hari Tuhan datang seperti pencuri pada malam.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "13005003",
+    "b": 13,
+    "c": 5,
+    "v": 3,
+    "t": "Apabila mereka mengatakan: Semuanya damai dan aman — maka tiba-tiba mereka ditimpa oleh kebinasaan, seperti seorang perempuan yang hamil ditimpa oleh sakit bersalin — mereka pasti tidak akan luput.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "13005004",
+    "b": 13,
+    "c": 5,
+    "v": 4,
+    "t": "Tetapi kamu, Saudara-saudara, kamu tidak hidup di dalam kegelapan, sehingga hari itu tiba-tiba mendatangi kamu seperti pencuri,",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "13005005",
+    "b": 13,
+    "c": 5,
+    "v": 5,
+    "t": "karena kamu semua adalah anak-anak terang dan anak-anak siang. Kita bukanlah orang-orang malam atau orang-orang kegelapan.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "13005006",
+    "b": 13,
+    "c": 5,
+    "v": 6,
+    "t": "Sebab itu baiklah jangan kita tidur seperti orang-orang lain, tetapi berjaga-jaga dan sadar.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "13005007",
+    "b": 13,
+    "c": 5,
+    "v": 7,
+    "t": "Sebab mereka yang tidur, tidur waktu malam dan mereka yang mabuk, mabuk waktu malam.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "13005008",
+    "b": 13,
+    "c": 5,
+    "v": 8,
+    "t": "Tetapi kita, yang adalah orang-orang siang, baiklah kita sadar, berbajuzirahkan iman dan kasih, dan berketopongkan pengharapan keselamatan.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "13005009",
+    "b": 13,
+    "c": 5,
+    "v": 9,
+    "t": "Karena Allah tidak menetapkan kita untuk ditimpa murka, tetapi untuk beroleh keselamatan melalui Yesus Kristus, Tuhan kita,",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "13005010",
+    "b": 13,
+    "c": 5,
+    "v": 10,
+    "t": "yang sudah mati untuk kita, supaya entah kita berjaga-jaga, entah kita tidur, kita hidup bersama-sama dengan Dia.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "13005011",
+    "b": 13,
+    "c": 5,
+    "v": 11,
+    "t": "Karena itu nasihatilah seorang akan yang lain dan saling membangunlah kamu seperti yang memang kamu lakukan.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "13005012",
+    "b": 13,
+    "c": 5,
+    "v": 12,
+    "t": "Kami minta kepadamu, Saudara-saudara, supaya kamu menghormati mereka yang bekerja keras di antara kamu, yang memimpin kamu dalam Tuhan dan menegur kamu;",
+    "h": "Nasihat-nasihat\n  5:12-22",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "13005013",
+    "b": 13,
+    "c": 5,
+    "v": 13,
+    "t": "dan supaya kamu sungguh-sungguh menjunjung mereka dalam kasih karena pekerjaan mereka. Hiduplah selalu dalam damai seorang dengan yang lain.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "13005014",
+    "b": 13,
+    "c": 5,
+    "v": 14,
+    "t": "Kami juga menasihati kamu, Saudara-saudara, tegurlah mereka yang hidup dengan tidak tertib, hiburlah mereka yang tawar hati, belalah mereka yang lemah, sabarlah terhadap semua orang.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "13005015",
+    "b": 13,
+    "c": 5,
+    "v": 15,
+    "t": "Perhatikanlah, supaya jangan ada orang yang membalas yang jahat dengan yang jahat, tetapi usahakanlah senantiasa yang baik, terhadap kamu masing-masing dan terhadap semua orang.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "13005016",
+    "b": 13,
+    "c": 5,
+    "v": 16,
+    "t": "Bersukacitalah senantiasa.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "13005017",
+    "b": 13,
+    "c": 5,
+    "v": 17,
+    "t": "Tetaplah berdoa.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "13005018",
+    "b": 13,
+    "c": 5,
+    "v": 18,
+    "t": "Ucapkanlah syukur dalam segala hal, sebab itulah yang dikehendaki Allah di dalam Kristus Yesus bagi kamu.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "13005019",
+    "b": 13,
+    "c": 5,
+    "v": 19,
+    "t": "Janganlah padamkan Roh,",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "13005020",
+    "b": 13,
+    "c": 5,
+    "v": 20,
+    "t": "dan janganlah anggap rendah nubuat-nubuat.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "13005021",
+    "b": 13,
+    "c": 5,
+    "v": 21,
+    "t": "Ujilah segala sesuatu dan peganglah yang baik.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "13005022",
+    "b": 13,
+    "c": 5,
+    "v": 22,
+    "t": "Jauhkanlah dirimu dari segala jenis kejahatan.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "13005023",
+    "b": 13,
+    "c": 5,
+    "v": 23,
+    "t": "Semoga Allah damai sejahtera menguduskan kamu seluruhnya dan semoga roh, jiwa dan tubuhmu terpelihara sempurna tanpa cacat pada kedatangan Yesus Kristus, Tuhan kita.",
+    "h": "Salam\n  5:23-28",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "13005024",
+    "b": 13,
+    "c": 5,
+    "v": 24,
+    "t": "Ia yang memanggil kamu adalah setia, Ia juga akan menggenapinya.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "13005025",
+    "b": 13,
+    "c": 5,
+    "v": 25,
+    "t": "Saudara-saudara, doakanlah kami.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "13005026",
+    "b": 13,
+    "c": 5,
+    "v": 26,
+    "t": "Sampaikanlah salam kami kepada semua saudara seiman dengan ciuman yang kudus.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "13005027",
+    "b": 13,
+    "c": 5,
+    "v": 27,
+    "t": "Demi nama Tuhan aku minta dengan sangat kepadamu, supaya surat ini dibacakan kepada semua saudara seiman.",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "13005028",
+    "b": 13,
+    "c": 5,
+    "v": 28,
+    "t": "Anugerah Yesus Kristus, Tuhan kita, menyertai kamu!",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  }
+]

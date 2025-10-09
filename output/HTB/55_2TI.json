@@ -1,0 +1,832 @@
+[
+  {
+    "id": "55001001",
+    "b": 55,
+    "c": 1,
+    "v": 1,
+    "t": "Van: Paulus, die van God de opdracht heeft gekregen overal de belofte bekend te maken dat er door het geloof in Jezus Christus eeuwig leven is.",
+    "h": "Timotheüs door Paulus bemoedigd",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "55001002",
+    "b": 55,
+    "c": 1,
+    "v": 2,
+    "t": "Aan: Timotheüs, van wie ik houd als van mijn eigen kind. Ik wens je de genade, het medeleven en de vrede toe van God, de Vader, en van Jezus Christus, onze Here.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "55001003",
+    "b": 55,
+    "c": 1,
+    "v": 3,
+    "t": "Net als mijn voorouders dien ik God met een zuiver geweten. Ik dank Hem ervoor dat ik dag en nacht voor jou kan bidden.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "55001004",
+    "b": 55,
+    "c": 1,
+    "v": 4,
+    "t": "Wat zou ik het fijn vinden je weer eens te zien! Wat zou dat mij gelukkig maken! Want ik herinner mij je tranen, toen wij afscheid van elkaar namen.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "55001005",
+    "b": 55,
+    "c": 1,
+    "v": 5,
+    "t": "Ik weet hoe je op de Here vertrouwde, net als je moeder Eunike en je grootmoeder Loïs, ik ben ervan overtuigd dat je geloof niet verzwakt is.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "55001006",
+    "b": 55,
+    "c": 1,
+    "v": 6,
+    "t": "Daarom dring ik erop aan dat je de gave van God, die je ontving toen ik je de handen oplegde, zult ontwikkelen.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "55001007",
+    "b": 55,
+    "c": 1,
+    "v": 7,
+    "t": "Want God geeft ons niet een lafhartige geest, maar een sterke geest vol liefde en bedachtzaamheid.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "55001008",
+    "b": 55,
+    "c": 1,
+    "v": 8,
+    "t": "Wees nooit bang om anderen over onze Heer te vertellen of ervoor uit te komen dat je mijn vriend bent, hoewel ik ter wille van Christus in de gevangenis zit. Je moet bereid zijn met mij voor de Here te lijden, Hij zal je de kracht ervoor geven.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "55001009",
+    "b": 55,
+    "c": 1,
+    "v": 9,
+    "t": "God heeft ons bevrijd en voor zijn heilig werk uitgekozen, niet omdat wij dat verdienen, maar omdat Hij dat vanaf het allereerste begin al van plan was. In Jezus Christus wilde Hij ons zijn liefde en genade laten zien.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "55001010",
+    "b": 55,
+    "c": 1,
+    "v": 10,
+    "t": "En nu heeft Hij ons dit allemaal duidelijk gemaakt door de komst van onze redder, Jezus Christus, die de macht van de dood gebroken heeft en ons heeft laten zien hoe wij, door op Hem te vertrouwen, eeuwig leven kunnen krijgen.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "55001011",
+    "b": 55,
+    "c": 1,
+    "v": 11,
+    "t": "God heeft mij aangesteld als apostel en leraar om zijn boodschap te verkondigen.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "55001012",
+    "b": 55,
+    "c": 1,
+    "v": 12,
+    "t": "Daarom zit ik hier in de gevangenis en ik schaam mij er beslist niet voor, want ik weet op wie ik vertrouw. Ik ben er zeker van dat Hij alles wat Hij mij heeft toevertrouwd, veilig zal bewaren tot de dag waarop Hij terugkomt.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "55001013",
+    "b": 55,
+    "c": 1,
+    "v": 13,
+    "t": "Houd vast aan de waarheden die ik je geleerd heb, de waarheden over het geloof en de liefde die Christus Jezus geeft.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "55001014",
+    "b": 55,
+    "c": 1,
+    "v": 14,
+    "t": "Waak over de schat die de Heilige Geest die in ons woont, ons heeft gegeven.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "55001015",
+    "b": 55,
+    "c": 1,
+    "v": 15,
+    "t": "Je weet dat alle christenen die vanuit Asia hier zijn gekomen, mij in de steek hebben gelaten, zelfs Fygelus en Hermogenes.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "55001016",
+    "b": 55,
+    "c": 1,
+    "v": 16,
+    "t": "Ik vraag de Here of Hij Onesiforus en zijn gezin wil zegenen, omdat die mij vaak heeft bezocht om mij moed in te spreken. Zijn bezoeken waren voor mij een verfrissing, hij schaamde zich er niet voor met een gevangene bevriend te zijn.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "55001017",
+    "b": 55,
+    "c": 1,
+    "v": 17,
+    "t": "Integendeel: toen hij in Rome aankwam, heeft hij overal naar mij gezocht en mij ten slotte gevonden.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "55001018",
+    "b": 55,
+    "c": 1,
+    "v": 18,
+    "t": "Ik bid dat de Here hem een bijzondere zegen geeft op de grote dag waarop Christus terugkeert. En jij, Timotheüs, weet maar al te goed hoe hij mij in Efeze heeft geholpen.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "55002001",
+    "b": 55,
+    "c": 2,
+    "v": 1,
+    "t": "Mijn zoon, wees sterk door de genade die Christus Jezus je geeft!",
+    "h": "Een goed soldaat van Jezus Christus",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "55002002",
+    "b": 55,
+    "c": 2,
+    "v": 2,
+    "t": "Want je moet aan anderen doorgeven wat ik jou en vele anderen geleerd heb. Leer deze grote waarheden aan betrouwbare mannen, die ze op hun beurt weer aan anderen kunnen doorgeven.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "55002003",
+    "b": 55,
+    "c": 2,
+    "v": 3,
+    "t": "Neem, als een goed soldaat van Jezus Christus, je deel van het lijden op je, net als ik.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "55002004",
+    "b": 55,
+    "c": 2,
+    "v": 4,
+    "t": "Laat je als soldaat van Christus niet in beslag nemen door de zorgen van het leven, want dan zal degene die je in dienst heeft genomen, niet tevreden over je zijn.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "55002005",
+    "b": 55,
+    "c": 2,
+    "v": 5,
+    "t": "Houd je aan de regels die de Here heeft gegeven, net als een sportman. Als die zich niet aan de regels houdt, wordt hij gediskwalificeerd en kan hij geen prijs winnen.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "55002006",
+    "b": 55,
+    "c": 2,
+    "v": 6,
+    "t": "Werk hard. Een boer die het zware werk doet, is de eerste die van de opbrengst mag genieten.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "55002007",
+    "b": 55,
+    "c": 2,
+    "v": 7,
+    "t": "Denk eens goed over deze drie voorbeelden na, de Here zal je laten zien wat je er in de praktijk mee kunt doen.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "55002008",
+    "b": 55,
+    "c": 2,
+    "v": 8,
+    "t": "Vergeet nooit dat Jezus Christus, een nakomeling van koning David, uit de dood is opgewekt. Dit is het goede nieuws dat ik bekend heb gemaakt",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "55002009",
+    "b": 55,
+    "c": 2,
+    "v": 9,
+    "t": "en waardoor ik in moeilijkheden ben gekomen en als een misdadiger gevangengezet. Maar het woord van God laat zich niet gevangenzetten.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "55002010",
+    "b": 55,
+    "c": 2,
+    "v": 10,
+    "t": "Ik wil graag leed verdragen als dat redding en eeuwige heerlijkheid in Christus Jezus brengt aan de mensen die door God zijn uitgekozen.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "55002011",
+    "b": 55,
+    "c": 2,
+    "v": 11,
+    "t": "Ik vind troost in deze waarheid: als wij samen met Christus gestorven zijn, zullen wij ook met Hem leven.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "55002012",
+    "b": 55,
+    "c": 2,
+    "v": 12,
+    "t": "Als wij standhouden, zullen we eens met Hem regeren. Maar als wij het opgeven en ons tegen Christus keren, zal Hij Zich tegen ons keren.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "55002013",
+    "b": 55,
+    "c": 2,
+    "v": 13,
+    "t": "Zelfs als wij Hem ontrouw zijn, blijft Hij ons trouw, want Hij kan Zich niet tegen Zichzelf keren.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "55002014",
+    "b": 55,
+    "c": 2,
+    "v": 14,
+    "t": "Herinner de mensen in de gemeente aan deze geweldige waarheden en verbied hun namens de Here over onbelangrijke dingen te ruziën. Dat is verwarrend en zinloos, ja, zelfs slecht.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "55002015",
+    "b": 55,
+    "c": 2,
+    "v": 15,
+    "t": "Doe je best, wees een goede werker voor God die zich niet hoeft te schamen. Geef Gods boodschap onvervalst door.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "55002016",
+    "b": 55,
+    "c": 2,
+    "v": 16,
+    "t": "Vermijd onzinnige discussies, waardoor mensen hun ondergang tegemoet gaan.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "55002017",
+    "b": 55,
+    "c": 2,
+    "v": 17,
+    "t": "Hun woorden zullen voortwoekeren als een kwaadaardig gezwel. Hymeneüs en Filetus zijn zulke mensen.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "55002018",
+    "b": 55,
+    "c": 2,
+    "v": 18,
+    "t": "Zij zijn het spoor van de waarheid kwijtgeraakt en beweren dat de opstanding van de doden al heeft plaatsgevonden. Daarmee ondermijnen zij het geloof van sommigen.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "55002019",
+    "b": 55,
+    "c": 2,
+    "v": 19,
+    "t": "Maar de waarheid van God staat zo vast als een huis, daar is geen beweging in te krijgen. Op de eerste steen staan deze woorden: ‘De Here kent de mensen die echt bij Hem horen,’ en ‘Wie zichzelf een christen noemt, zou niets verkeerds moeten doen en niets verkeerd moeten zeggen.’",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "55002020",
+    "b": 55,
+    "c": 2,
+    "v": 20,
+    "t": "In een groot huis heeft men niet alleen borden van goud en zilver, maar ook van hout en aardewerk. De dure borden worden voor de gasten gebruikt en de goedkope voor dagelijks gebruik.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "55002021",
+    "b": 55,
+    "c": 2,
+    "v": 21,
+    "t": "Als je je niet met de zonde inlaat, zul je zijn als een van die borden van zuiver goud, de beste in huis, zodat Christus je kan gebruiken voor zijn hoogste doelen.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "55002022",
+    "b": 55,
+    "c": 2,
+    "v": 22,
+    "t": "Blijf uit de buurt van alles wat jou als jongeman slechte gedachten en gevoelens kan geven. Geef in plaats daarvan je aandacht aan alles wat je kan helpen goed te doen, aan trouw, liefde en vrede, en zoek het gezelschap van hen die de Here met een zuiver hart aanroepen.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "55002023",
+    "b": 55,
+    "c": 2,
+    "v": 23,
+    "t": "Ik zeg het nog eens: laat je niet verleiden tot zinloze discussies, die alleen maar op ruzie kunnen uitlopen.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "55002024",
+    "b": 55,
+    "c": 2,
+    "v": 24,
+    "t": "Een knecht van de Here mag geen ruzie maken, hij moet de mensen die verkeerd doen, vriendelijk en geduldig terechtwijzen.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "55002025",
+    "b": 55,
+    "c": 2,
+    "v": 25,
+    "t": "Wees daarom nederig als je de mensen die zich verzetten, duidelijk de waarheid zegt. Want als je vriendelijk met hen spreekt, is er een kans dat zij met Gods hulp hun verkeerde ideeën zullen loslaten en de waarheid gaan erkennen.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "55002026",
+    "b": 55,
+    "c": 2,
+    "v": 26,
+    "t": "Dan zullen ze tot bezinning komen en zich losmaken uit de valstrik van de duivel, die hen gevangen houdt en in zijn macht heeft.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "55003001",
+    "b": 55,
+    "c": 3,
+    "v": 1,
+    "t": "Je moet goed weten dat wanneer de laatste dagen van deze wereld aanbreken, er zware tijden komen.",
+    "h": "In de laatste dagen",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "55003002",
+    "b": 55,
+    "c": 3,
+    "v": 2,
+    "t": "Want de mensen zullen alleen van zichzelf en van hun geld houden, ze zullen verwaand en hoogmoedig zijn, ze zullen God belachelijk maken en hun ouders ongehoorzaam zijn, ze zullen ondankbaar en door-en-door slecht zijn.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "55003003",
+    "b": 55,
+    "c": 3,
+    "v": 3,
+    "t": "Ze zullen harteloos en koppig zijn, roddelen, ruzie maken en een lage moraal hebben. Ze zullen bruut en wreed zijn en met goede mensen spotten.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "55003004",
+    "b": 55,
+    "c": 3,
+    "v": 4,
+    "t": "Ze zullen hun vrienden verraden, ze zullen roekeloos en opgeblazen zijn en liever hun driften volgen dan God aanbidden.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "55003005",
+    "b": 55,
+    "c": 3,
+    "v": 5,
+    "t": "Ze zullen in uiterlijkheden wel godsdienstig doen, maar de kern van het goede nieuws afwijzen. Houd zulke mensen op een afstand.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "55003006",
+    "b": 55,
+    "c": 3,
+    "v": 6,
+    "t": "Zij zijn van het soort dat listig het huis van andere mensen binnendringt en vrouwen inpalmt die zondigen en zich door hun begeerte laten beheersen.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "55003007",
+    "b": 55,
+    "c": 3,
+    "v": 7,
+    "t": "Zulke vrouwen lopen altijd achter nieuwe leraren aan, zonder ooit de waarheid te aanvaarden.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "55003008",
+    "b": 55,
+    "c": 3,
+    "v": 8,
+    "t": "En die leraren verzetten zich net zo hard tegen de waarheid als Jannes en Jambres, die zich tegen Mozes verzetten. Hun gedachten zijn onzuiver, verwrongen en verward, en zij hebben zich van het geloof afgewend.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "55003009",
+    "b": 55,
+    "c": 3,
+    "v": 9,
+    "t": "Maar zij kunnen daar niet altijd mee doorgaan. Op een dag zal hun dwaasheid aan het licht komen, net als de zonde van Jannes en Jambres.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "55003010",
+    "b": 55,
+    "c": 3,
+    "v": 10,
+    "t": "Jij echter hebt precies mijn lessen opgevolgd, mijn manier van leven, het doel dat mij voor ogen stond, mijn geloof, mijn geduld, mijn liefde voor de mensen en mijn doorzettingsvermogen.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "55003011",
+    "b": 55,
+    "c": 3,
+    "v": 11,
+    "t": "Je weet hoeveel moeilijkheden ik heb gehad bij de prediking van het goede nieuws. Jij weet wat mij allemaal is aangedaan toen ik Antiochië, Ikonium en Lystra bezocht, maar ik ben door alles heengekomen en de Here heeft mij steeds weer gered.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "55003012",
+    "b": 55,
+    "c": 3,
+    "v": 12,
+    "t": "Ja, het is nu eenmaal zo dat wie werkelijk één met Jezus Christus willen blijven, het zwaar te verduren krijgen van de mensen die Hem haten.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "55003013",
+    "b": 55,
+    "c": 3,
+    "v": 13,
+    "t": "De slechte mensen en de valse leraren zullen steeds slechter worden en velen misleiden, zijzelf worden op hun beurt misleid door de duivel.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "55003014",
+    "b": 55,
+    "c": 3,
+    "v": 14,
+    "t": "Maar jij moet blijven geloven wat je is geleerd. Je weet dat het allemaal waar is, omdat je weet dat je ons kunt vertrouwen. Wij hebben het jou immers geleerd?",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "55003015",
+    "b": 55,
+    "c": 3,
+    "v": 15,
+    "t": "Jij hebt van jongsaf aan geleerd wat er in de Boeken staat, die je het inzicht geven hoe je gered kunt worden door het geloof in Christus Jezus.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "55003016",
+    "b": 55,
+    "c": 3,
+    "v": 16,
+    "t": "Alles in de Boeken is door God geïnspireerd en is nuttig om ons de waarheid te leren en ons te wijzen op wat er aan ons leven en geloof nog mankeert, het zet ons leven op orde en helpt ons in te zien wat juist en goed is.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "55003017",
+    "b": 55,
+    "c": 3,
+    "v": 17,
+    "t": "Zo maakt God ons klaar, opdat Hij ons voor elk goed werk kan gebruiken.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "55004001",
+    "b": 55,
+    "c": 4,
+    "v": 1,
+    "t": "Voor God en Jezus Christus—als Hij verschijnt om zijn koninkrijk te stichten, zal Hij over de levenden en de doden oordelen—",
+    "h": "De taak van Timotheüs",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "55004002",
+    "b": 55,
+    "c": 4,
+    "v": 2,
+    "t": "vraag ik je dringend het woord van God door te geven als je daar de kans voor krijgt, of het je nu gelegen komt of niet. Wijs de mensen in de gemeente terecht en bestraf hen als het nodig is, moedig hen aan en onderwijs hun geduldig in het woord van God.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "55004003",
+    "b": 55,
+    "c": 4,
+    "v": 3,
+    "t": "Want er komt een tijd dat de mensen niet meer naar de waarheid willen luisteren, maar leraren zoeken die hun vertellen wat zij graag willen horen.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "55004004",
+    "b": 55,
+    "c": 4,
+    "v": 4,
+    "t": "Zij zullen niet naar de waarheid luisteren, maar hun eigen dwaze ideeën volgen.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "55004005",
+    "b": 55,
+    "c": 4,
+    "v": 5,
+    "t": "Blijf kalm en wees niet bang om voor de Here te lijden. Breng anderen tot Jezus Christus. Laat niets na van wat je moet doen.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "55004006",
+    "b": 55,
+    "c": 4,
+    "v": 6,
+    "t": "Ik zeg dit omdat mijn tijd bijna voorbij is. Ik zal voor God geofferd worden en binnenkort sterven.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "55004007",
+    "b": 55,
+    "c": 4,
+    "v": 7,
+    "t": "Ik heb de goede strijd gestreden, de wedloop tot het einde gelopen, het geloof behouden.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "55004008",
+    "b": 55,
+    "c": 4,
+    "v": 8,
+    "t": "In de hemel wacht mij een krans, die de Here, de rechtvaardige rechter, mij op de grote dag van zijn terugkeer zal geven. En niet alleen aan mij, maar ook aan alle mensen die vol verwachting naar zijn terugkeer uitkijken.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "55004009",
+    "b": 55,
+    "c": 4,
+    "v": 9,
+    "t": "Probeer zo vlug mogelijk naar mij toe te komen,",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "55004010",
+    "b": 55,
+    "c": 4,
+    "v": 10,
+    "t": "want Demas heeft mij verlaten. Hij hield te veel van deze wereld en is naar Thessalonica gegaan. Crescens is naar Galatië gegaan en Titus naar Dalmatië.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "55004011",
+    "b": 55,
+    "c": 4,
+    "v": 11,
+    "t": "Alleen Lucas is nog bij mij. Als je komt, breng dan Marcus mee, want ik heb hem nodig.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "55004012",
+    "b": 55,
+    "c": 4,
+    "v": 12,
+    "t": "Tychikus is ook niet meer hier, want ik heb hem naar Efeze gestuurd.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "55004013",
+    "b": 55,
+    "c": 4,
+    "v": 13,
+    "t": "Als je komt, vergeet dan niet de mantel mee te brengen die ik in Troas bij Carpus heb laten liggen. Neem ook de boekrollen mee en vooral die van perkament.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "55004014",
+    "b": 55,
+    "c": 4,
+    "v": 14,
+    "t": "De kopersmid Alexander heeft mij veel kwaad gedaan. De Here zal hem zijn verdiende loon geven,",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "55004015",
+    "b": 55,
+    "c": 4,
+    "v": 15,
+    "t": "maar pas wel voor hem op, want hij verzet zich fel tegen onze boodschap.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "55004016",
+    "b": 55,
+    "c": 4,
+    "v": 16,
+    "t": "De eerste keer dat ik voor de rechter moest komen, was er niemand die mij hielp. Iedereen had mij in de steek gelaten. Ik hoop dat het hun niet zal worden aangerekend.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "55004017",
+    "b": 55,
+    "c": 4,
+    "v": 17,
+    "t": "Maar de Here heeft mij altijd bijgestaan. Hij gaf mij de kracht zodat ik het goede nieuws onder alle volken heb kunnen brengen en zij het allemaal gehoord hebben. Hij heeft mij beschermd tegen de verscheurende leeuwen.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "55004018",
+    "b": 55,
+    "c": 4,
+    "v": 18,
+    "t": "Ja, de Here zal er altijd voor zorgen dat mij geen kwaad overkomt, Hij zal mij veilig in zijn hemels koninkrijk brengen. Alle eer is voor God, voor altijd en eeuwig. Amen.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "55004019",
+    "b": 55,
+    "c": 4,
+    "v": 19,
+    "t": "Breng mijn groeten over aan Prisca en Aquila en aan ieder die in het huis van Onesiforus woont.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "55004020",
+    "b": 55,
+    "c": 4,
+    "v": 20,
+    "t": "Erastus is in Korinthe gebleven en ik heb Trofimus ziek in Milete achtergelaten.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "55004021",
+    "b": 55,
+    "c": 4,
+    "v": 21,
+    "t": "Probeer voor de winter hier te zijn. Eubulus, Pudens, Linus, Claudia en alle anderen laten je groeten.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "55004022",
+    "b": 55,
+    "c": 4,
+    "v": 22,
+    "t": "Ik bid dat de Here Jezus Christus met je geest zal zijn en ik wens jullie zijn genade toe.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  }
+]

@@ -1,0 +1,9002 @@
+[
+  {
+    "id": "20001001",
+    "b": 20,
+    "c": 1,
+    "v": 1,
+    "t": "The proverbs of Solomon son of David, king of Israel:",
+    "h": "Purpose and Theme",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "20001002",
+    "b": 20,
+    "c": 1,
+    "v": 2,
+    "t": "for gaining wisdom and instruction; for understanding words of insight;",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "20001003",
+    "b": 20,
+    "c": 1,
+    "v": 3,
+    "t": "for receiving instruction in prudent behavior, doing what is right and just and fair;",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "20001004",
+    "b": 20,
+    "c": 1,
+    "v": 4,
+    "t": "for giving prudence to those who are simple, knowledge and discretion to the young—",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "20001005",
+    "b": 20,
+    "c": 1,
+    "v": 5,
+    "t": "let the wise listen and add to their learning, and let the discerning get guidance—",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "20001006",
+    "b": 20,
+    "c": 1,
+    "v": 6,
+    "t": "for understanding proverbs and parables, the sayings and riddles of the wise.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "20001007",
+    "b": 20,
+    "c": 1,
+    "v": 7,
+    "t": "The fear of the LORD is the beginning of knowledge, but fools despise wisdom and instruction.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "20001008",
+    "b": 20,
+    "c": 1,
+    "v": 8,
+    "t": "Listen, my son, to your father’s instruction and do not forsake your mother’s teaching.",
+    "h": "Prologue: Exhortations to Embrace Wisdom\nWarning Against the Invitation of Sinful Men",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "20001009",
+    "b": 20,
+    "c": 1,
+    "v": 9,
+    "t": "They are a garland to grace your head and a chain to adorn your neck.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "20001010",
+    "b": 20,
+    "c": 1,
+    "v": 10,
+    "t": "My son, if sinful men entice you, do not give in to them.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "20001011",
+    "b": 20,
+    "c": 1,
+    "v": 11,
+    "t": "If they say, “Come along with us; let’s lie in wait for innocent blood, let’s ambush some harmless soul;",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "20001012",
+    "b": 20,
+    "c": 1,
+    "v": 12,
+    "t": "let’s swallow them alive, like the grave, and whole, like those who go down to the pit;",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "20001013",
+    "b": 20,
+    "c": 1,
+    "v": 13,
+    "t": "we will get all sorts of valuable things and fill our houses with plunder;",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "20001014",
+    "b": 20,
+    "c": 1,
+    "v": 14,
+    "t": "cast lots with us; we will all share the loot”—",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "20001015",
+    "b": 20,
+    "c": 1,
+    "v": 15,
+    "t": "my son, do not go along with them, do not set foot on their paths;",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "20001016",
+    "b": 20,
+    "c": 1,
+    "v": 16,
+    "t": "for their feet rush into evil, they are swift to shed blood.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "20001017",
+    "b": 20,
+    "c": 1,
+    "v": 17,
+    "t": "How useless to spread a net where every bird can see it!",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "20001018",
+    "b": 20,
+    "c": 1,
+    "v": 18,
+    "t": "These men lie in wait for their own blood; they ambush only themselves!",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "20001019",
+    "b": 20,
+    "c": 1,
+    "v": 19,
+    "t": "Such are the paths of all who go after ill-gotten gain; it takes away the life of those who get it.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "20001020",
+    "b": 20,
+    "c": 1,
+    "v": 20,
+    "t": "Out in the open wisdom calls aloud, she raises her voice in the public square;",
+    "h": "Wisdom’s Rebuke",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "20001021",
+    "b": 20,
+    "c": 1,
+    "v": 21,
+    "t": "on top of the wall she cries out, at the city gate she makes her speech:",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "20001022",
+    "b": 20,
+    "c": 1,
+    "v": 22,
+    "t": "“How long will you who are simple love your simple ways? How long will mockers delight in mockery and fools hate knowledge?",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "20001023",
+    "b": 20,
+    "c": 1,
+    "v": 23,
+    "t": "Repent at my rebuke! Then I will pour out my thoughts to you, I will make known to you my teachings.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "20001024",
+    "b": 20,
+    "c": 1,
+    "v": 24,
+    "t": "But since you refuse to listen when I call and no one pays attention when I stretch out my hand,",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "20001025",
+    "b": 20,
+    "c": 1,
+    "v": 25,
+    "t": "since you disregard all my advice and do not accept my rebuke,",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "20001026",
+    "b": 20,
+    "c": 1,
+    "v": 26,
+    "t": "I in turn will laugh when disaster strikes you; I will mock when calamity overtakes you—",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "20001027",
+    "b": 20,
+    "c": 1,
+    "v": 27,
+    "t": "when calamity overtakes you like a storm, when disaster sweeps over you like a whirlwind, when distress and trouble overwhelm you.",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "20001028",
+    "b": 20,
+    "c": 1,
+    "v": 28,
+    "t": "“Then they will call to me but I will not answer; they will look for me but will not find me,",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "20001029",
+    "b": 20,
+    "c": 1,
+    "v": 29,
+    "t": "since they hated knowledge and did not choose to fear the LORD.",
+    "h": "",
+    "o": 29,
+    "l": "29"
+  },
+  {
+    "id": "20001030",
+    "b": 20,
+    "c": 1,
+    "v": 30,
+    "t": "Since they would not accept my advice and spurned my rebuke,",
+    "h": "",
+    "o": 30,
+    "l": "30"
+  },
+  {
+    "id": "20001031",
+    "b": 20,
+    "c": 1,
+    "v": 31,
+    "t": "they will eat the fruit of their ways and be filled with the fruit of their schemes.",
+    "h": "",
+    "o": 31,
+    "l": "31"
+  },
+  {
+    "id": "20001032",
+    "b": 20,
+    "c": 1,
+    "v": 32,
+    "t": "For the waywardness of the simple will kill them, and the complacency of fools will destroy them;",
+    "h": "",
+    "o": 32,
+    "l": "32"
+  },
+  {
+    "id": "20001033",
+    "b": 20,
+    "c": 1,
+    "v": 33,
+    "t": "but whoever listens to me will live in safety and be at ease, without fear of harm.”",
+    "h": "",
+    "o": 33,
+    "l": "33"
+  },
+  {
+    "id": "20002001",
+    "b": 20,
+    "c": 2,
+    "v": 1,
+    "t": "My son, if you accept my words and store up my commands within you,",
+    "h": "Moral Benefits of Wisdom",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "20002002",
+    "b": 20,
+    "c": 2,
+    "v": 2,
+    "t": "turning your ear to wisdom and applying your heart to understanding—",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "20002003",
+    "b": 20,
+    "c": 2,
+    "v": 3,
+    "t": "indeed, if you call out for insight and cry aloud for understanding,",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "20002004",
+    "b": 20,
+    "c": 2,
+    "v": 4,
+    "t": "and if you look for it as for silver and search for it as for hidden treasure,",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "20002005",
+    "b": 20,
+    "c": 2,
+    "v": 5,
+    "t": "then you will understand the fear of the LORD and find the knowledge of God.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "20002006",
+    "b": 20,
+    "c": 2,
+    "v": 6,
+    "t": "For the LORD gives wisdom; from his mouth come knowledge and understanding.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "20002007",
+    "b": 20,
+    "c": 2,
+    "v": 7,
+    "t": "He holds success in store for the upright, he is a shield to those whose walk is blameless,",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "20002008",
+    "b": 20,
+    "c": 2,
+    "v": 8,
+    "t": "for he guards the course of the just and protects the way of his faithful ones.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "20002009",
+    "b": 20,
+    "c": 2,
+    "v": 9,
+    "t": "Then you will understand what is right and just and fair—every good path.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "20002010",
+    "b": 20,
+    "c": 2,
+    "v": 10,
+    "t": "For wisdom will enter your heart, and knowledge will be pleasant to your soul.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "20002011",
+    "b": 20,
+    "c": 2,
+    "v": 11,
+    "t": "Discretion will protect you, and understanding will guard you.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "20002012",
+    "b": 20,
+    "c": 2,
+    "v": 12,
+    "t": "Wisdom will save you from the ways of wicked men, from men whose words are perverse,",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "20002013",
+    "b": 20,
+    "c": 2,
+    "v": 13,
+    "t": "who have left the straight paths to walk in dark ways,",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "20002014",
+    "b": 20,
+    "c": 2,
+    "v": 14,
+    "t": "who delight in doing wrong and rejoice in the perverseness of evil,",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "20002015",
+    "b": 20,
+    "c": 2,
+    "v": 15,
+    "t": "whose paths are crooked and who are devious in their ways.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "20002016",
+    "b": 20,
+    "c": 2,
+    "v": 16,
+    "t": "Wisdom will save you also from the adulterous woman, from the wayward woman with her seductive words,",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "20002017",
+    "b": 20,
+    "c": 2,
+    "v": 17,
+    "t": "who has left the partner of her youth and ignored the covenant she made before God.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "20002018",
+    "b": 20,
+    "c": 2,
+    "v": 18,
+    "t": "Surely her house leads down to death and her paths to the spirits of the dead.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "20002019",
+    "b": 20,
+    "c": 2,
+    "v": 19,
+    "t": "None who go to her return or attain the paths of life.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "20002020",
+    "b": 20,
+    "c": 2,
+    "v": 20,
+    "t": "Thus you will walk in the ways of the good and keep to the paths of the righteous.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "20002021",
+    "b": 20,
+    "c": 2,
+    "v": 21,
+    "t": "For the upright will live in the land, and the blameless will remain in it;",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "20002022",
+    "b": 20,
+    "c": 2,
+    "v": 22,
+    "t": "but the wicked will be cut off from the land, and the unfaithful will be torn from it.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "20003001",
+    "b": 20,
+    "c": 3,
+    "v": 1,
+    "t": "My son, do not forget my teaching, but keep my commands in your heart,",
+    "h": "Wisdom Bestows Well-Being",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "20003002",
+    "b": 20,
+    "c": 3,
+    "v": 2,
+    "t": "for they will prolong your life many years and bring you peace and prosperity.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "20003003",
+    "b": 20,
+    "c": 3,
+    "v": 3,
+    "t": "Let love and faithfulness never leave you; bind them around your neck, write them on the tablet of your heart.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "20003004",
+    "b": 20,
+    "c": 3,
+    "v": 4,
+    "t": "Then you will win favor and a good name in the sight of God and man.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "20003005",
+    "b": 20,
+    "c": 3,
+    "v": 5,
+    "t": "Trust in the LORD with all your heart and lean not on your own understanding;",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "20003006",
+    "b": 20,
+    "c": 3,
+    "v": 6,
+    "t": "in all your ways submit to him, and he will make your paths straight.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "20003007",
+    "b": 20,
+    "c": 3,
+    "v": 7,
+    "t": "Do not be wise in your own eyes; fear the LORD and shun evil.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "20003008",
+    "b": 20,
+    "c": 3,
+    "v": 8,
+    "t": "This will bring health to your body and nourishment to your bones.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "20003009",
+    "b": 20,
+    "c": 3,
+    "v": 9,
+    "t": "Honor the LORD with your wealth, with the firstfruits of all your crops;",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "20003010",
+    "b": 20,
+    "c": 3,
+    "v": 10,
+    "t": "then your barns will be filled to overflowing, and your vats will brim over with new wine.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "20003011",
+    "b": 20,
+    "c": 3,
+    "v": 11,
+    "t": "My son, do not despise the LORD ’s discipline, and do not resent his rebuke,",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "20003012",
+    "b": 20,
+    "c": 3,
+    "v": 12,
+    "t": "because the LORD disciplines those he loves, as a father the son he delights in.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "20003013",
+    "b": 20,
+    "c": 3,
+    "v": 13,
+    "t": "Blessed are those who find wisdom, those who gain understanding,",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "20003014",
+    "b": 20,
+    "c": 3,
+    "v": 14,
+    "t": "for she is more profitable than silver and yields better returns than gold.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "20003015",
+    "b": 20,
+    "c": 3,
+    "v": 15,
+    "t": "She is more precious than rubies; nothing you desire can compare with her.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "20003016",
+    "b": 20,
+    "c": 3,
+    "v": 16,
+    "t": "Long life is in her right hand; in her left hand are riches and honor.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "20003017",
+    "b": 20,
+    "c": 3,
+    "v": 17,
+    "t": "Her ways are pleasant ways, and all her paths are peace.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "20003018",
+    "b": 20,
+    "c": 3,
+    "v": 18,
+    "t": "She is a tree of life to those who take hold of her; those who hold her fast will be blessed.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "20003019",
+    "b": 20,
+    "c": 3,
+    "v": 19,
+    "t": "By wisdom the LORD laid the earth’s foundations, by understanding he set the heavens in place;",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "20003020",
+    "b": 20,
+    "c": 3,
+    "v": 20,
+    "t": "by his knowledge the watery depths were divided, and the clouds let drop the dew.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "20003021",
+    "b": 20,
+    "c": 3,
+    "v": 21,
+    "t": "My son, do not let wisdom and understanding out of your sight, preserve sound judgment and discretion;",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "20003022",
+    "b": 20,
+    "c": 3,
+    "v": 22,
+    "t": "they will be life for you, an ornament to grace your neck.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "20003023",
+    "b": 20,
+    "c": 3,
+    "v": 23,
+    "t": "Then you will go on your way in safety, and your foot will not stumble.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "20003024",
+    "b": 20,
+    "c": 3,
+    "v": 24,
+    "t": "When you lie down, you will not be afraid; when you lie down, your sleep will be sweet.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "20003025",
+    "b": 20,
+    "c": 3,
+    "v": 25,
+    "t": "Have no fear of sudden disaster or of the ruin that overtakes the wicked,",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "20003026",
+    "b": 20,
+    "c": 3,
+    "v": 26,
+    "t": "for the LORD will be at your side and will keep your foot from being snared.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "20003027",
+    "b": 20,
+    "c": 3,
+    "v": 27,
+    "t": "Do not withhold good from those to whom it is due, when it is in your power to act.",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "20003028",
+    "b": 20,
+    "c": 3,
+    "v": 28,
+    "t": "Do not say to your neighbor, “Come back tomorrow and I’ll give it to you”— when you already have it with you.",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "20003029",
+    "b": 20,
+    "c": 3,
+    "v": 29,
+    "t": "Do not plot harm against your neighbor, who lives trustfully near you.",
+    "h": "",
+    "o": 29,
+    "l": "29"
+  },
+  {
+    "id": "20003030",
+    "b": 20,
+    "c": 3,
+    "v": 30,
+    "t": "Do not accuse anyone for no reason— when they have done you no harm.",
+    "h": "",
+    "o": 30,
+    "l": "30"
+  },
+  {
+    "id": "20003031",
+    "b": 20,
+    "c": 3,
+    "v": 31,
+    "t": "Do not envy the violent or choose any of their ways.",
+    "h": "",
+    "o": 31,
+    "l": "31"
+  },
+  {
+    "id": "20003032",
+    "b": 20,
+    "c": 3,
+    "v": 32,
+    "t": "For the LORD detests the perverse but takes the upright into his confidence.",
+    "h": "",
+    "o": 32,
+    "l": "32"
+  },
+  {
+    "id": "20003033",
+    "b": 20,
+    "c": 3,
+    "v": 33,
+    "t": "The LORD ’s curse is on the house of the wicked, but he blesses the home of the righteous.",
+    "h": "",
+    "o": 33,
+    "l": "33"
+  },
+  {
+    "id": "20003034",
+    "b": 20,
+    "c": 3,
+    "v": 34,
+    "t": "He mocks proud mockers but shows favor to the humble and oppressed.",
+    "h": "",
+    "o": 34,
+    "l": "34"
+  },
+  {
+    "id": "20003035",
+    "b": 20,
+    "c": 3,
+    "v": 35,
+    "t": "The wise inherit honor, but fools get only shame.",
+    "h": "",
+    "o": 35,
+    "l": "35"
+  },
+  {
+    "id": "20004001",
+    "b": 20,
+    "c": 4,
+    "v": 1,
+    "t": "Listen, my sons, to a father’s instruction; pay attention and gain understanding.",
+    "h": "Get Wisdom at Any Cost",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "20004002",
+    "b": 20,
+    "c": 4,
+    "v": 2,
+    "t": "I give you sound learning, so do not forsake my teaching.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "20004003",
+    "b": 20,
+    "c": 4,
+    "v": 3,
+    "t": "For I too was a son to my father, still tender, and cherished by my mother.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "20004004",
+    "b": 20,
+    "c": 4,
+    "v": 4,
+    "t": "Then he taught me, and he said to me, “Take hold of my words with all your heart; keep my commands, and you will live.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "20004005",
+    "b": 20,
+    "c": 4,
+    "v": 5,
+    "t": "Get wisdom, get understanding; do not forget my words or turn away from them.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "20004006",
+    "b": 20,
+    "c": 4,
+    "v": 6,
+    "t": "Do not forsake wisdom, and she will protect you; love her, and she will watch over you.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "20004007",
+    "b": 20,
+    "c": 4,
+    "v": 7,
+    "t": "The beginning of wisdom is this: Get wisdom. Though it cost all you have, get understanding.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "20004008",
+    "b": 20,
+    "c": 4,
+    "v": 8,
+    "t": "Cherish her, and she will exalt you; embrace her, and she will honor you.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "20004009",
+    "b": 20,
+    "c": 4,
+    "v": 9,
+    "t": "She will give you a garland to grace your head and present you with a glorious crown.”",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "20004010",
+    "b": 20,
+    "c": 4,
+    "v": 10,
+    "t": "Listen, my son, accept what I say, and the years of your life will be many.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "20004011",
+    "b": 20,
+    "c": 4,
+    "v": 11,
+    "t": "I instruct you in the way of wisdom and lead you along straight paths.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "20004012",
+    "b": 20,
+    "c": 4,
+    "v": 12,
+    "t": "When you walk, your steps will not be hampered; when you run, you will not stumble.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "20004013",
+    "b": 20,
+    "c": 4,
+    "v": 13,
+    "t": "Hold on to instruction, do not let it go; guard it well, for it is your life.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "20004014",
+    "b": 20,
+    "c": 4,
+    "v": 14,
+    "t": "Do not set foot on the path of the wicked or walk in the way of evildoers.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "20004015",
+    "b": 20,
+    "c": 4,
+    "v": 15,
+    "t": "Avoid it, do not travel on it; turn from it and go on your way.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "20004016",
+    "b": 20,
+    "c": 4,
+    "v": 16,
+    "t": "For they cannot rest until they do evil; they are robbed of sleep till they make someone stumble.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "20004017",
+    "b": 20,
+    "c": 4,
+    "v": 17,
+    "t": "They eat the bread of wickedness and drink the wine of violence.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "20004018",
+    "b": 20,
+    "c": 4,
+    "v": 18,
+    "t": "The path of the righteous is like the morning sun, shining ever brighter till the full light of day.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "20004019",
+    "b": 20,
+    "c": 4,
+    "v": 19,
+    "t": "But the way of the wicked is like deep darkness; they do not know what makes them stumble.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "20004020",
+    "b": 20,
+    "c": 4,
+    "v": 20,
+    "t": "My son, pay attention to what I say; turn your ear to my words.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "20004021",
+    "b": 20,
+    "c": 4,
+    "v": 21,
+    "t": "Do not let them out of your sight, keep them within your heart;",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "20004022",
+    "b": 20,
+    "c": 4,
+    "v": 22,
+    "t": "for they are life to those who find them and health to one’s whole body.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "20004023",
+    "b": 20,
+    "c": 4,
+    "v": 23,
+    "t": "Above all else, guard your heart, for everything you do flows from it.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "20004024",
+    "b": 20,
+    "c": 4,
+    "v": 24,
+    "t": "Keep your mouth free of perversity; keep corrupt talk far from your lips.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "20004025",
+    "b": 20,
+    "c": 4,
+    "v": 25,
+    "t": "Let your eyes look straight ahead; fix your gaze directly before you.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "20004026",
+    "b": 20,
+    "c": 4,
+    "v": 26,
+    "t": "Give careful thought to the paths for your feet and be steadfast in all your ways.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "20004027",
+    "b": 20,
+    "c": 4,
+    "v": 27,
+    "t": "Do not turn to the right or the left; keep your foot from evil.",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "20005001",
+    "b": 20,
+    "c": 5,
+    "v": 1,
+    "t": "My son, pay attention to my wisdom, turn your ear to my words of insight,",
+    "h": "Warning Against Adultery",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "20005002",
+    "b": 20,
+    "c": 5,
+    "v": 2,
+    "t": "that you may maintain discretion and your lips may preserve knowledge.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "20005003",
+    "b": 20,
+    "c": 5,
+    "v": 3,
+    "t": "For the lips of the adulterous woman drip honey, and her speech is smoother than oil;",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "20005004",
+    "b": 20,
+    "c": 5,
+    "v": 4,
+    "t": "but in the end she is bitter as gall, sharp as a double-edged sword.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "20005005",
+    "b": 20,
+    "c": 5,
+    "v": 5,
+    "t": "Her feet go down to death; her steps lead straight to the grave.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "20005006",
+    "b": 20,
+    "c": 5,
+    "v": 6,
+    "t": "She gives no thought to the way of life; her paths wander aimlessly, but she does not know it.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "20005007",
+    "b": 20,
+    "c": 5,
+    "v": 7,
+    "t": "Now then, my sons, listen to me; do not turn aside from what I say.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "20005008",
+    "b": 20,
+    "c": 5,
+    "v": 8,
+    "t": "Keep to a path far from her, do not go near the door of her house,",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "20005009",
+    "b": 20,
+    "c": 5,
+    "v": 9,
+    "t": "lest you lose your honor to others and your dignity to one who is cruel,",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "20005010",
+    "b": 20,
+    "c": 5,
+    "v": 10,
+    "t": "lest strangers feast on your wealth and your toil enrich the house of another.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "20005011",
+    "b": 20,
+    "c": 5,
+    "v": 11,
+    "t": "At the end of your life you will groan, when your flesh and body are spent.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "20005012",
+    "b": 20,
+    "c": 5,
+    "v": 12,
+    "t": "You will say, “How I hated discipline! How my heart spurned correction!",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "20005013",
+    "b": 20,
+    "c": 5,
+    "v": 13,
+    "t": "I would not obey my teachers or turn my ear to my instructors.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "20005014",
+    "b": 20,
+    "c": 5,
+    "v": 14,
+    "t": "And I was soon in serious trouble in the assembly of God’s people.”",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "20005015",
+    "b": 20,
+    "c": 5,
+    "v": 15,
+    "t": "Drink water from your own cistern, running water from your own well.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "20005016",
+    "b": 20,
+    "c": 5,
+    "v": 16,
+    "t": "Should your springs overflow in the streets, your streams of water in the public squares?",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "20005017",
+    "b": 20,
+    "c": 5,
+    "v": 17,
+    "t": "Let them be yours alone, never to be shared with strangers.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "20005018",
+    "b": 20,
+    "c": 5,
+    "v": 18,
+    "t": "May your fountain be blessed, and may you rejoice in the wife of your youth.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "20005019",
+    "b": 20,
+    "c": 5,
+    "v": 19,
+    "t": "A loving doe, a graceful deer— may her breasts satisfy you always, may you ever be intoxicated with her love.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "20005020",
+    "b": 20,
+    "c": 5,
+    "v": 20,
+    "t": "Why, my son, be intoxicated with another man’s wife? Why embrace the bosom of a wayward woman?",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "20005021",
+    "b": 20,
+    "c": 5,
+    "v": 21,
+    "t": "For your ways are in full view of the LORD, and he examines all your paths.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "20005022",
+    "b": 20,
+    "c": 5,
+    "v": 22,
+    "t": "The evil deeds of the wicked ensnare them; the cords of their sins hold them fast.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "20005023",
+    "b": 20,
+    "c": 5,
+    "v": 23,
+    "t": "For lack of discipline they will die, led astray by their own great folly.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "20006001",
+    "b": 20,
+    "c": 6,
+    "v": 1,
+    "t": "My son, if you have put up security for your neighbor, if you have shaken hands in pledge for a stranger,",
+    "h": "Warnings Against Folly",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "20006002",
+    "b": 20,
+    "c": 6,
+    "v": 2,
+    "t": "you have been trapped by what you said, ensnared by the words of your mouth.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "20006003",
+    "b": 20,
+    "c": 6,
+    "v": 3,
+    "t": "So do this, my son, to free yourself, since you have fallen into your neighbor’s hands: Go—to the point of exhaustion— and give your neighbor no rest!",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "20006004",
+    "b": 20,
+    "c": 6,
+    "v": 4,
+    "t": "Allow no sleep to your eyes, no slumber to your eyelids.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "20006005",
+    "b": 20,
+    "c": 6,
+    "v": 5,
+    "t": "Free yourself, like a gazelle from the hand of the hunter, like a bird from the snare of the fowler.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "20006006",
+    "b": 20,
+    "c": 6,
+    "v": 6,
+    "t": "Go to the ant, you sluggard; consider its ways and be wise!",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "20006007",
+    "b": 20,
+    "c": 6,
+    "v": 7,
+    "t": "It has no commander, no overseer or ruler,",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "20006008",
+    "b": 20,
+    "c": 6,
+    "v": 8,
+    "t": "yet it stores its provisions in summer and gathers its food at harvest.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "20006009",
+    "b": 20,
+    "c": 6,
+    "v": 9,
+    "t": "How long will you lie there, you sluggard? When will you get up from your sleep?",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "20006010",
+    "b": 20,
+    "c": 6,
+    "v": 10,
+    "t": "A little sleep, a little slumber, a little folding of the hands to rest—",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "20006011",
+    "b": 20,
+    "c": 6,
+    "v": 11,
+    "t": "and poverty will come on you like a thief and scarcity like an armed man.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "20006012",
+    "b": 20,
+    "c": 6,
+    "v": 12,
+    "t": "A troublemaker and a villain, who goes about with a corrupt mouth,",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "20006013",
+    "b": 20,
+    "c": 6,
+    "v": 13,
+    "t": "who winks maliciously with his eye, signals with his feet and motions with his fingers,",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "20006014",
+    "b": 20,
+    "c": 6,
+    "v": 14,
+    "t": "who plots evil with deceit in his heart— he always stirs up conflict.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "20006015",
+    "b": 20,
+    "c": 6,
+    "v": 15,
+    "t": "Therefore disaster will overtake him in an instant; he will suddenly be destroyed—without remedy.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "20006016",
+    "b": 20,
+    "c": 6,
+    "v": 16,
+    "t": "There are six things the LORD hates, seven that are detestable to him:",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "20006017",
+    "b": 20,
+    "c": 6,
+    "v": 17,
+    "t": "haughty eyes, a lying tongue, hands that shed innocent blood,",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "20006018",
+    "b": 20,
+    "c": 6,
+    "v": 18,
+    "t": "a heart that devises wicked schemes, feet that are quick to rush into evil,",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "20006019",
+    "b": 20,
+    "c": 6,
+    "v": 19,
+    "t": "a false witness who pours out lies and a person who stirs up conflict in the community.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "20006020",
+    "b": 20,
+    "c": 6,
+    "v": 20,
+    "t": "My son, keep your father’s command and do not forsake your mother’s teaching.",
+    "h": "Warning Against Adultery",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "20006021",
+    "b": 20,
+    "c": 6,
+    "v": 21,
+    "t": "Bind them always on your heart; fasten them around your neck.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "20006022",
+    "b": 20,
+    "c": 6,
+    "v": 22,
+    "t": "When you walk, they will guide you; when you sleep, they will watch over you; when you awake, they will speak to you.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "20006023",
+    "b": 20,
+    "c": 6,
+    "v": 23,
+    "t": "For this command is a lamp, this teaching is a light, and correction and instruction are the way to life,",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "20006024",
+    "b": 20,
+    "c": 6,
+    "v": 24,
+    "t": "keeping you from your neighbor’s wife, from the smooth talk of a wayward woman.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "20006025",
+    "b": 20,
+    "c": 6,
+    "v": 25,
+    "t": "Do not lust in your heart after her beauty or let her captivate you with her eyes.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "20006026",
+    "b": 20,
+    "c": 6,
+    "v": 26,
+    "t": "For a prostitute can be had for a loaf of bread, but another man’s wife preys on your very life.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "20006027",
+    "b": 20,
+    "c": 6,
+    "v": 27,
+    "t": "Can a man scoop fire into his lap without his clothes being burned?",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "20006028",
+    "b": 20,
+    "c": 6,
+    "v": 28,
+    "t": "Can a man walk on hot coals without his feet being scorched?",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "20006029",
+    "b": 20,
+    "c": 6,
+    "v": 29,
+    "t": "So is he who sleeps with another man’s wife; no one who touches her will go unpunished.",
+    "h": "",
+    "o": 29,
+    "l": "29"
+  },
+  {
+    "id": "20006030",
+    "b": 20,
+    "c": 6,
+    "v": 30,
+    "t": "People do not despise a thief if he steals to satisfy his hunger when he is starving.",
+    "h": "",
+    "o": 30,
+    "l": "30"
+  },
+  {
+    "id": "20006031",
+    "b": 20,
+    "c": 6,
+    "v": 31,
+    "t": "Yet if he is caught, he must pay sevenfold, though it costs him all the wealth of his house.",
+    "h": "",
+    "o": 31,
+    "l": "31"
+  },
+  {
+    "id": "20006032",
+    "b": 20,
+    "c": 6,
+    "v": 32,
+    "t": "But a man who commits adultery has no sense; whoever does so destroys himself.",
+    "h": "",
+    "o": 32,
+    "l": "32"
+  },
+  {
+    "id": "20006033",
+    "b": 20,
+    "c": 6,
+    "v": 33,
+    "t": "Blows and disgrace are his lot, and his shame will never be wiped away.",
+    "h": "",
+    "o": 33,
+    "l": "33"
+  },
+  {
+    "id": "20006034",
+    "b": 20,
+    "c": 6,
+    "v": 34,
+    "t": "For jealousy arouses a husband’s fury, and he will show no mercy when he takes revenge.",
+    "h": "",
+    "o": 34,
+    "l": "34"
+  },
+  {
+    "id": "20006035",
+    "b": 20,
+    "c": 6,
+    "v": 35,
+    "t": "He will not accept any compensation; he will refuse a bribe, however great it is.",
+    "h": "",
+    "o": 35,
+    "l": "35"
+  },
+  {
+    "id": "20007001",
+    "b": 20,
+    "c": 7,
+    "v": 1,
+    "t": "My son, keep my words and store up my commands within you.",
+    "h": "Warning Against the Adulterous Woman",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "20007002",
+    "b": 20,
+    "c": 7,
+    "v": 2,
+    "t": "Keep my commands and you will live; guard my teachings as the apple of your eye.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "20007003",
+    "b": 20,
+    "c": 7,
+    "v": 3,
+    "t": "Bind them on your fingers; write them on the tablet of your heart.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "20007004",
+    "b": 20,
+    "c": 7,
+    "v": 4,
+    "t": "Say to wisdom, “You are my sister,” and to insight, “You are my relative.”",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "20007005",
+    "b": 20,
+    "c": 7,
+    "v": 5,
+    "t": "They will keep you from the adulterous woman, from the wayward woman with her seductive words.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "20007006",
+    "b": 20,
+    "c": 7,
+    "v": 6,
+    "t": "At the window of my house I looked down through the lattice.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "20007007",
+    "b": 20,
+    "c": 7,
+    "v": 7,
+    "t": "I saw among the simple, I noticed among the young men, a youth who had no sense.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "20007008",
+    "b": 20,
+    "c": 7,
+    "v": 8,
+    "t": "He was going down the street near her corner, walking along in the direction of her house",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "20007009",
+    "b": 20,
+    "c": 7,
+    "v": 9,
+    "t": "at twilight, as the day was fading, as the dark of night set in.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "20007010",
+    "b": 20,
+    "c": 7,
+    "v": 10,
+    "t": "Then out came a woman to meet him, dressed like a prostitute and with crafty intent.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "20007011",
+    "b": 20,
+    "c": 7,
+    "v": 11,
+    "t": "(She is unruly and defiant, her feet never stay at home;",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "20007012",
+    "b": 20,
+    "c": 7,
+    "v": 12,
+    "t": "now in the street, now in the squares, at every corner she lurks.)",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "20007013",
+    "b": 20,
+    "c": 7,
+    "v": 13,
+    "t": "She took hold of him and kissed him and with a brazen face she said:",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "20007014",
+    "b": 20,
+    "c": 7,
+    "v": 14,
+    "t": "“Today I fulfilled my vows, and I have food from my fellowship offering at home.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "20007015",
+    "b": 20,
+    "c": 7,
+    "v": 15,
+    "t": "So I came out to meet you; I looked for you and have found you!",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "20007016",
+    "b": 20,
+    "c": 7,
+    "v": 16,
+    "t": "I have covered my bed with colored linens from Egypt.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "20007017",
+    "b": 20,
+    "c": 7,
+    "v": 17,
+    "t": "I have perfumed my bed with myrrh, aloes and cinnamon.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "20007018",
+    "b": 20,
+    "c": 7,
+    "v": 18,
+    "t": "Come, let’s drink deeply of love till morning; let’s enjoy ourselves with love!",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "20007019",
+    "b": 20,
+    "c": 7,
+    "v": 19,
+    "t": "My husband is not at home; he has gone on a long journey.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "20007020",
+    "b": 20,
+    "c": 7,
+    "v": 20,
+    "t": "He took his purse filled with money and will not be home till full moon.”",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "20007021",
+    "b": 20,
+    "c": 7,
+    "v": 21,
+    "t": "With persuasive words she led him astray; she seduced him with her smooth talk.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "20007022",
+    "b": 20,
+    "c": 7,
+    "v": 22,
+    "t": "All at once he followed her like an ox going to the slaughter, like a deer stepping into a noose",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "20007023",
+    "b": 20,
+    "c": 7,
+    "v": 23,
+    "t": "till an arrow pierces his liver, like a bird darting into a snare, little knowing it will cost him his life.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "20007024",
+    "b": 20,
+    "c": 7,
+    "v": 24,
+    "t": "Now then, my sons, listen to me; pay attention to what I say.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "20007025",
+    "b": 20,
+    "c": 7,
+    "v": 25,
+    "t": "Do not let your heart turn to her ways or stray into her paths.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "20007026",
+    "b": 20,
+    "c": 7,
+    "v": 26,
+    "t": "Many are the victims she has brought down; her slain are a mighty throng.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "20007027",
+    "b": 20,
+    "c": 7,
+    "v": 27,
+    "t": "Her house is a highway to the grave, leading down to the chambers of death.",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "20008001",
+    "b": 20,
+    "c": 8,
+    "v": 1,
+    "t": "Does not wisdom call out? Does not understanding raise her voice?",
+    "h": "Wisdom’s Call",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "20008002",
+    "b": 20,
+    "c": 8,
+    "v": 2,
+    "t": "At the highest point along the way, where the paths meet, she takes her stand;",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "20008003",
+    "b": 20,
+    "c": 8,
+    "v": 3,
+    "t": "beside the gate leading into the city, at the entrance, she cries aloud:",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "20008004",
+    "b": 20,
+    "c": 8,
+    "v": 4,
+    "t": "“To you, O people, I call out; I raise my voice to all mankind.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "20008005",
+    "b": 20,
+    "c": 8,
+    "v": 5,
+    "t": "You who are simple, gain prudence; you who are foolish, set your hearts on it.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "20008006",
+    "b": 20,
+    "c": 8,
+    "v": 6,
+    "t": "Listen, for I have trustworthy things to say; I open my lips to speak what is right.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "20008007",
+    "b": 20,
+    "c": 8,
+    "v": 7,
+    "t": "My mouth speaks what is true, for my lips detest wickedness.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "20008008",
+    "b": 20,
+    "c": 8,
+    "v": 8,
+    "t": "All the words of my mouth are just; none of them is crooked or perverse.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "20008009",
+    "b": 20,
+    "c": 8,
+    "v": 9,
+    "t": "To the discerning all of them are right; they are upright to those who have found knowledge.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "20008010",
+    "b": 20,
+    "c": 8,
+    "v": 10,
+    "t": "Choose my instruction instead of silver, knowledge rather than choice gold,",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "20008011",
+    "b": 20,
+    "c": 8,
+    "v": 11,
+    "t": "for wisdom is more precious than rubies, and nothing you desire can compare with her.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "20008012",
+    "b": 20,
+    "c": 8,
+    "v": 12,
+    "t": "“I, wisdom, dwell together with prudence; I possess knowledge and discretion.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "20008013",
+    "b": 20,
+    "c": 8,
+    "v": 13,
+    "t": "To fear the LORD is to hate evil; I hate pride and arrogance, evil behavior and perverse speech.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "20008014",
+    "b": 20,
+    "c": 8,
+    "v": 14,
+    "t": "Counsel and sound judgment are mine; I have insight, I have power.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "20008015",
+    "b": 20,
+    "c": 8,
+    "v": 15,
+    "t": "By me kings reign and rulers issue decrees that are just;",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "20008016",
+    "b": 20,
+    "c": 8,
+    "v": 16,
+    "t": "by me princes govern, and nobles—all who rule on earth.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "20008017",
+    "b": 20,
+    "c": 8,
+    "v": 17,
+    "t": "I love those who love me, and those who seek me find me.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "20008018",
+    "b": 20,
+    "c": 8,
+    "v": 18,
+    "t": "With me are riches and honor, enduring wealth and prosperity.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "20008019",
+    "b": 20,
+    "c": 8,
+    "v": 19,
+    "t": "My fruit is better than fine gold; what I yield surpasses choice silver.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "20008020",
+    "b": 20,
+    "c": 8,
+    "v": 20,
+    "t": "I walk in the way of righteousness, along the paths of justice,",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "20008021",
+    "b": 20,
+    "c": 8,
+    "v": 21,
+    "t": "bestowing a rich inheritance on those who love me and making their treasuries full.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "20008022",
+    "b": 20,
+    "c": 8,
+    "v": 22,
+    "t": "“The LORD brought me forth as the first of his works, before his deeds of old;",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "20008023",
+    "b": 20,
+    "c": 8,
+    "v": 23,
+    "t": "I was formed long ages ago, at the very beginning, when the world came to be.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "20008024",
+    "b": 20,
+    "c": 8,
+    "v": 24,
+    "t": "When there were no watery depths, I was given birth, when there were no springs overflowing with water;",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "20008025",
+    "b": 20,
+    "c": 8,
+    "v": 25,
+    "t": "before the mountains were settled in place, before the hills, I was given birth,",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "20008026",
+    "b": 20,
+    "c": 8,
+    "v": 26,
+    "t": "before he made the world or its fields or any of the dust of the earth.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "20008027",
+    "b": 20,
+    "c": 8,
+    "v": 27,
+    "t": "I was there when he set the heavens in place, when he marked out the horizon on the face of the deep,",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "20008028",
+    "b": 20,
+    "c": 8,
+    "v": 28,
+    "t": "when he established the clouds above and fixed securely the fountains of the deep,",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "20008029",
+    "b": 20,
+    "c": 8,
+    "v": 29,
+    "t": "when he gave the sea its boundary so the waters would not overstep his command, and when he marked out the foundations of the earth.",
+    "h": "",
+    "o": 29,
+    "l": "29"
+  },
+  {
+    "id": "20008030",
+    "b": 20,
+    "c": 8,
+    "v": 30,
+    "t": "Then I was constantly at his side. I was filled with delight day after day, rejoicing always in his presence,",
+    "h": "",
+    "o": 30,
+    "l": "30"
+  },
+  {
+    "id": "20008031",
+    "b": 20,
+    "c": 8,
+    "v": 31,
+    "t": "rejoicing in his whole world and delighting in mankind.",
+    "h": "",
+    "o": 31,
+    "l": "31"
+  },
+  {
+    "id": "20008032",
+    "b": 20,
+    "c": 8,
+    "v": 32,
+    "t": "“Now then, my children, listen to me; blessed are those who keep my ways.",
+    "h": "",
+    "o": 32,
+    "l": "32"
+  },
+  {
+    "id": "20008033",
+    "b": 20,
+    "c": 8,
+    "v": 33,
+    "t": "Listen to my instruction and be wise; do not disregard it.",
+    "h": "",
+    "o": 33,
+    "l": "33"
+  },
+  {
+    "id": "20008034",
+    "b": 20,
+    "c": 8,
+    "v": 34,
+    "t": "Blessed are those who listen to me, watching daily at my doors, waiting at my doorway.",
+    "h": "",
+    "o": 34,
+    "l": "34"
+  },
+  {
+    "id": "20008035",
+    "b": 20,
+    "c": 8,
+    "v": 35,
+    "t": "For those who find me find life and receive favor from the LORD.",
+    "h": "",
+    "o": 35,
+    "l": "35"
+  },
+  {
+    "id": "20008036",
+    "b": 20,
+    "c": 8,
+    "v": 36,
+    "t": "But those who fail to find me harm themselves; all who hate me love death.”",
+    "h": "",
+    "o": 36,
+    "l": "36"
+  },
+  {
+    "id": "20009001",
+    "b": 20,
+    "c": 9,
+    "v": 1,
+    "t": "Wisdom has built her house; she has set up its seven pillars.",
+    "h": "Invitations of Wisdom and Folly",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "20009002",
+    "b": 20,
+    "c": 9,
+    "v": 2,
+    "t": "She has prepared her meat and mixed her wine; she has also set her table.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "20009003",
+    "b": 20,
+    "c": 9,
+    "v": 3,
+    "t": "She has sent out her servants, and she calls from the highest point of the city,",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "20009004",
+    "b": 20,
+    "c": 9,
+    "v": 4,
+    "t": "“Let all who are simple come to my house!” To those who have no sense she says,",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "20009005",
+    "b": 20,
+    "c": 9,
+    "v": 5,
+    "t": "“Come, eat my food and drink the wine I have mixed.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "20009006",
+    "b": 20,
+    "c": 9,
+    "v": 6,
+    "t": "Leave your simple ways and you will live; walk in the way of insight.”",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "20009007",
+    "b": 20,
+    "c": 9,
+    "v": 7,
+    "t": "Whoever corrects a mocker invites insults; whoever rebukes the wicked incurs abuse.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "20009008",
+    "b": 20,
+    "c": 9,
+    "v": 8,
+    "t": "Do not rebuke mockers or they will hate you; rebuke the wise and they will love you.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "20009009",
+    "b": 20,
+    "c": 9,
+    "v": 9,
+    "t": "Instruct the wise and they will be wiser still; teach the righteous and they will add to their learning.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "20009010",
+    "b": 20,
+    "c": 9,
+    "v": 10,
+    "t": "The fear of the LORD is the beginning of wisdom, and knowledge of the Holy One is understanding.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "20009011",
+    "b": 20,
+    "c": 9,
+    "v": 11,
+    "t": "For through wisdom your days will be many, and years will be added to your life.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "20009012",
+    "b": 20,
+    "c": 9,
+    "v": 12,
+    "t": "If you are wise, your wisdom will reward you; if you are a mocker, you alone will suffer.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "20009013",
+    "b": 20,
+    "c": 9,
+    "v": 13,
+    "t": "Folly is an unruly woman; she is simple and knows nothing.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "20009014",
+    "b": 20,
+    "c": 9,
+    "v": 14,
+    "t": "She sits at the door of her house, on a seat at the highest point of the city,",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "20009015",
+    "b": 20,
+    "c": 9,
+    "v": 15,
+    "t": "calling out to those who pass by, who go straight on their way,",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "20009016",
+    "b": 20,
+    "c": 9,
+    "v": 16,
+    "t": "“Let all who are simple come to my house!” To those who have no sense she says,",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "20009017",
+    "b": 20,
+    "c": 9,
+    "v": 17,
+    "t": "“Stolen water is sweet; food eaten in secret is delicious!”",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "20009018",
+    "b": 20,
+    "c": 9,
+    "v": 18,
+    "t": "But little do they know that the dead are there, that her guests are deep in the realm of the dead.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "20010001",
+    "b": 20,
+    "c": 10,
+    "v": 1,
+    "t": "The proverbs of Solomon: A wise son brings joy to his father, but a foolish son brings grief to his mother.",
+    "h": "Proverbs of Solomon",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "20010002",
+    "b": 20,
+    "c": 10,
+    "v": 2,
+    "t": "Ill-gotten treasures have no lasting value, but righteousness delivers from death.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "20010003",
+    "b": 20,
+    "c": 10,
+    "v": 3,
+    "t": "The LORD does not let the righteous go hungry, but he thwarts the craving of the wicked.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "20010004",
+    "b": 20,
+    "c": 10,
+    "v": 4,
+    "t": "Lazy hands make for poverty, but diligent hands bring wealth.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "20010005",
+    "b": 20,
+    "c": 10,
+    "v": 5,
+    "t": "He who gathers crops in summer is a prudent son, but he who sleeps during harvest is a disgraceful son.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "20010006",
+    "b": 20,
+    "c": 10,
+    "v": 6,
+    "t": "Blessings crown the head of the righteous, but violence overwhelms the mouth of the wicked.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "20010007",
+    "b": 20,
+    "c": 10,
+    "v": 7,
+    "t": "The name of the righteous is used in blessings, but the name of the wicked will rot.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "20010008",
+    "b": 20,
+    "c": 10,
+    "v": 8,
+    "t": "The wise in heart accept commands, but a chattering fool comes to ruin.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "20010009",
+    "b": 20,
+    "c": 10,
+    "v": 9,
+    "t": "Whoever walks in integrity walks securely, but whoever takes crooked paths will be found out.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "20010010",
+    "b": 20,
+    "c": 10,
+    "v": 10,
+    "t": "Whoever winks maliciously causes grief, and a chattering fool comes to ruin.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "20010011",
+    "b": 20,
+    "c": 10,
+    "v": 11,
+    "t": "The mouth of the righteous is a fountain of life, but the mouth of the wicked conceals violence.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "20010012",
+    "b": 20,
+    "c": 10,
+    "v": 12,
+    "t": "Hatred stirs up conflict, but love covers over all wrongs.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "20010013",
+    "b": 20,
+    "c": 10,
+    "v": 13,
+    "t": "Wisdom is found on the lips of the discerning, but a rod is for the back of one who has no sense.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "20010014",
+    "b": 20,
+    "c": 10,
+    "v": 14,
+    "t": "The wise store up knowledge, but the mouth of a fool invites ruin.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "20010015",
+    "b": 20,
+    "c": 10,
+    "v": 15,
+    "t": "The wealth of the rich is their fortified city, but poverty is the ruin of the poor.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "20010016",
+    "b": 20,
+    "c": 10,
+    "v": 16,
+    "t": "The wages of the righteous is life, but the earnings of the wicked are sin and death.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "20010017",
+    "b": 20,
+    "c": 10,
+    "v": 17,
+    "t": "Whoever heeds discipline shows the way to life, but whoever ignores correction leads others astray.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "20010018",
+    "b": 20,
+    "c": 10,
+    "v": 18,
+    "t": "Whoever conceals hatred with lying lips and spreads slander is a fool.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "20010019",
+    "b": 20,
+    "c": 10,
+    "v": 19,
+    "t": "Sin is not ended by multiplying words, but the prudent hold their tongues.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "20010020",
+    "b": 20,
+    "c": 10,
+    "v": 20,
+    "t": "The tongue of the righteous is choice silver, but the heart of the wicked is of little value.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "20010021",
+    "b": 20,
+    "c": 10,
+    "v": 21,
+    "t": "The lips of the righteous nourish many, but fools die for lack of sense.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "20010022",
+    "b": 20,
+    "c": 10,
+    "v": 22,
+    "t": "The blessing of the LORD brings wealth, without painful toil for it.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "20010023",
+    "b": 20,
+    "c": 10,
+    "v": 23,
+    "t": "A fool finds pleasure in wicked schemes, but a person of understanding delights in wisdom.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "20010024",
+    "b": 20,
+    "c": 10,
+    "v": 24,
+    "t": "What the wicked dread will overtake them; what the righteous desire will be granted.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "20010025",
+    "b": 20,
+    "c": 10,
+    "v": 25,
+    "t": "When the storm has swept by, the wicked are gone, but the righteous stand firm forever.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "20010026",
+    "b": 20,
+    "c": 10,
+    "v": 26,
+    "t": "As vinegar to the teeth and smoke to the eyes, so are sluggards to those who send them.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "20010027",
+    "b": 20,
+    "c": 10,
+    "v": 27,
+    "t": "The fear of the LORD adds length to life, but the years of the wicked are cut short.",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "20010028",
+    "b": 20,
+    "c": 10,
+    "v": 28,
+    "t": "The prospect of the righteous is joy, but the hopes of the wicked come to nothing.",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "20010029",
+    "b": 20,
+    "c": 10,
+    "v": 29,
+    "t": "The way of the LORD is a refuge for the blameless, but it is the ruin of those who do evil.",
+    "h": "",
+    "o": 29,
+    "l": "29"
+  },
+  {
+    "id": "20010030",
+    "b": 20,
+    "c": 10,
+    "v": 30,
+    "t": "The righteous will never be uprooted, but the wicked will not remain in the land.",
+    "h": "",
+    "o": 30,
+    "l": "30"
+  },
+  {
+    "id": "20010031",
+    "b": 20,
+    "c": 10,
+    "v": 31,
+    "t": "From the mouth of the righteous comes the fruit of wisdom, but a perverse tongue will be silenced.",
+    "h": "",
+    "o": 31,
+    "l": "31"
+  },
+  {
+    "id": "20011001",
+    "b": 20,
+    "c": 11,
+    "v": 1,
+    "t": "The LORD detests dishonest scales, but accurate weights find favor with him.",
+    "h": "",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "20011002",
+    "b": 20,
+    "c": 11,
+    "v": 2,
+    "t": "When pride comes, then comes disgrace, but with humility comes wisdom.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "20011003",
+    "b": 20,
+    "c": 11,
+    "v": 3,
+    "t": "The integrity of the upright guides them, but the unfaithful are destroyed by their duplicity.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "20011004",
+    "b": 20,
+    "c": 11,
+    "v": 4,
+    "t": "Wealth is worthless in the day of wrath, but righteousness delivers from death.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "20011005",
+    "b": 20,
+    "c": 11,
+    "v": 5,
+    "t": "The righteousness of the blameless makes their paths straight, but the wicked are brought down by their own wickedness.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "20011006",
+    "b": 20,
+    "c": 11,
+    "v": 6,
+    "t": "The righteousness of the upright delivers them, but the unfaithful are trapped by evil desires.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "20011007",
+    "b": 20,
+    "c": 11,
+    "v": 7,
+    "t": "Hopes placed in mortals die with them; all the promise of their power comes to nothing.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "20011008",
+    "b": 20,
+    "c": 11,
+    "v": 8,
+    "t": "The righteous person is rescued from trouble, and it falls on the wicked instead.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "20011009",
+    "b": 20,
+    "c": 11,
+    "v": 9,
+    "t": "With their mouths the godless destroy their neighbors, but through knowledge the righteous escape.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "20011010",
+    "b": 20,
+    "c": 11,
+    "v": 10,
+    "t": "When the righteous prosper, the city rejoices; when the wicked perish, there are shouts of joy.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "20011011",
+    "b": 20,
+    "c": 11,
+    "v": 11,
+    "t": "Through the blessing of the upright a city is exalted, but by the mouth of the wicked it is destroyed.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "20011012",
+    "b": 20,
+    "c": 11,
+    "v": 12,
+    "t": "Whoever derides their neighbor has no sense, but the one who has understanding holds their tongue.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "20011013",
+    "b": 20,
+    "c": 11,
+    "v": 13,
+    "t": "A gossip betrays a confidence, but a trustworthy person keeps a secret.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "20011014",
+    "b": 20,
+    "c": 11,
+    "v": 14,
+    "t": "For lack of guidance a nation falls, but victory is won through many advisers.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "20011015",
+    "b": 20,
+    "c": 11,
+    "v": 15,
+    "t": "Whoever puts up security for a stranger will surely suffer, but whoever refuses to shake hands in pledge is safe.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "20011016",
+    "b": 20,
+    "c": 11,
+    "v": 16,
+    "t": "A kindhearted woman gains honor, but ruthless men gain only wealth.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "20011017",
+    "b": 20,
+    "c": 11,
+    "v": 17,
+    "t": "Those who are kind benefit themselves, but the cruel bring ruin on themselves.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "20011018",
+    "b": 20,
+    "c": 11,
+    "v": 18,
+    "t": "A wicked person earns deceptive wages, but the one who sows righteousness reaps a sure reward.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "20011019",
+    "b": 20,
+    "c": 11,
+    "v": 19,
+    "t": "Truly the righteous attain life, but whoever pursues evil finds death.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "20011020",
+    "b": 20,
+    "c": 11,
+    "v": 20,
+    "t": "The LORD detests those whose hearts are perverse, but he delights in those whose ways are blameless.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "20011021",
+    "b": 20,
+    "c": 11,
+    "v": 21,
+    "t": "Be sure of this: The wicked will not go unpunished, but those who are righteous will go free.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "20011022",
+    "b": 20,
+    "c": 11,
+    "v": 22,
+    "t": "Like a gold ring in a pig’s snout is a beautiful woman who shows no discretion.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "20011023",
+    "b": 20,
+    "c": 11,
+    "v": 23,
+    "t": "The desire of the righteous ends only in good, but the hope of the wicked only in wrath.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "20011024",
+    "b": 20,
+    "c": 11,
+    "v": 24,
+    "t": "One person gives freely, yet gains even more; another withholds unduly, but comes to poverty.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "20011025",
+    "b": 20,
+    "c": 11,
+    "v": 25,
+    "t": "A generous person will prosper; whoever refreshes others will be refreshed.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "20011026",
+    "b": 20,
+    "c": 11,
+    "v": 26,
+    "t": "People curse the one who hoards grain, but they pray God’s blessing on the one who is willing to sell.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "20011027",
+    "b": 20,
+    "c": 11,
+    "v": 27,
+    "t": "Whoever seeks good finds favor, but evil comes to one who searches for it.",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "20011028",
+    "b": 20,
+    "c": 11,
+    "v": 28,
+    "t": "Those who trust in their riches will fall, but the righteous will thrive like a green leaf.",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "20011029",
+    "b": 20,
+    "c": 11,
+    "v": 29,
+    "t": "Whoever brings ruin on their family will inherit only wind, and the fool will be servant to the wise.",
+    "h": "",
+    "o": 29,
+    "l": "29"
+  },
+  {
+    "id": "20011030",
+    "b": 20,
+    "c": 11,
+    "v": 30,
+    "t": "The fruit of the righteous is a tree of life, and the one who is wise saves lives.",
+    "h": "",
+    "o": 30,
+    "l": "30"
+  },
+  {
+    "id": "20012001",
+    "b": 20,
+    "c": 12,
+    "v": 1,
+    "t": "Whoever loves discipline loves knowledge, but whoever hates correction is stupid.",
+    "h": "",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "20012002",
+    "b": 20,
+    "c": 12,
+    "v": 2,
+    "t": "Good people obtain favor from the LORD, but he condemns those who devise wicked schemes.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "20012003",
+    "b": 20,
+    "c": 12,
+    "v": 3,
+    "t": "No one can be established through wickedness, but the righteous cannot be uprooted.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "20012004",
+    "b": 20,
+    "c": 12,
+    "v": 4,
+    "t": "A wife of noble character is her husband’s crown, but a disgraceful wife is like decay in his bones.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "20012005",
+    "b": 20,
+    "c": 12,
+    "v": 5,
+    "t": "The plans of the righteous are just, but the advice of the wicked is deceitful.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "20012006",
+    "b": 20,
+    "c": 12,
+    "v": 6,
+    "t": "The words of the wicked lie in wait for blood, but the speech of the upright rescues them.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "20012007",
+    "b": 20,
+    "c": 12,
+    "v": 7,
+    "t": "The wicked are overthrown and are no more, but the house of the righteous stands firm.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "20012008",
+    "b": 20,
+    "c": 12,
+    "v": 8,
+    "t": "A person is praised according to their prudence, and one with a warped mind is despised.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "20012009",
+    "b": 20,
+    "c": 12,
+    "v": 9,
+    "t": "Better to be a nobody and yet have a servant than pretend to be somebody and have no food.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "20012010",
+    "b": 20,
+    "c": 12,
+    "v": 10,
+    "t": "The righteous care for the needs of their animals, but the kindest acts of the wicked are cruel.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "20012011",
+    "b": 20,
+    "c": 12,
+    "v": 11,
+    "t": "Those who work their land will have abundant food, but those who chase fantasies have no sense.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "20012012",
+    "b": 20,
+    "c": 12,
+    "v": 12,
+    "t": "The wicked desire the stronghold of evildoers, but the root of the righteous endures.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "20012013",
+    "b": 20,
+    "c": 12,
+    "v": 13,
+    "t": "Evildoers are trapped by their sinful talk, and so the innocent escape trouble.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "20012014",
+    "b": 20,
+    "c": 12,
+    "v": 14,
+    "t": "From the fruit of their lips people are filled with good things, and the work of their hands brings them reward.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "20012015",
+    "b": 20,
+    "c": 12,
+    "v": 15,
+    "t": "The way of fools seems right to them, but the wise listen to advice.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "20012016",
+    "b": 20,
+    "c": 12,
+    "v": 16,
+    "t": "Fools show their annoyance at once, but the prudent overlook an insult.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "20012017",
+    "b": 20,
+    "c": 12,
+    "v": 17,
+    "t": "An honest witness tells the truth, but a false witness tells lies.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "20012018",
+    "b": 20,
+    "c": 12,
+    "v": 18,
+    "t": "The words of the reckless pierce like swords, but the tongue of the wise brings healing.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "20012019",
+    "b": 20,
+    "c": 12,
+    "v": 19,
+    "t": "Truthful lips endure forever, but a lying tongue lasts only a moment.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "20012020",
+    "b": 20,
+    "c": 12,
+    "v": 20,
+    "t": "Deceit is in the hearts of those who plot evil, but those who promote peace have joy.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "20012021",
+    "b": 20,
+    "c": 12,
+    "v": 21,
+    "t": "No harm overtakes the righteous, but the wicked have their fill of trouble.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "20012022",
+    "b": 20,
+    "c": 12,
+    "v": 22,
+    "t": "The LORD detests lying lips, but he delights in people who are trustworthy.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "20012023",
+    "b": 20,
+    "c": 12,
+    "v": 23,
+    "t": "The prudent keep their knowledge to themselves, but a fool’s heart blurts out folly.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "20012024",
+    "b": 20,
+    "c": 12,
+    "v": 24,
+    "t": "Diligent hands will rule, but laziness ends in forced labor.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "20012025",
+    "b": 20,
+    "c": 12,
+    "v": 25,
+    "t": "Anxiety weighs down the heart, but a kind word cheers it up.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "20012026",
+    "b": 20,
+    "c": 12,
+    "v": 26,
+    "t": "The righteous choose their friends carefully, but the way of the wicked leads them astray.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "20012027",
+    "b": 20,
+    "c": 12,
+    "v": 27,
+    "t": "The lazy do not roast any game, but the diligent feed on the riches of the hunt.",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "20013001",
+    "b": 20,
+    "c": 13,
+    "v": 1,
+    "t": "A wise son heeds his father’s instruction, but a mocker does not respond to rebukes.",
+    "h": "",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "20013002",
+    "b": 20,
+    "c": 13,
+    "v": 2,
+    "t": "From the fruit of their lips people enjoy good things, but the unfaithful have an appetite for violence.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "20013003",
+    "b": 20,
+    "c": 13,
+    "v": 3,
+    "t": "Those who guard their lips preserve their lives, but those who speak rashly will come to ruin.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "20013004",
+    "b": 20,
+    "c": 13,
+    "v": 4,
+    "t": "A sluggard’s appetite is never filled, but the desires of the diligent are fully satisfied.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "20013005",
+    "b": 20,
+    "c": 13,
+    "v": 5,
+    "t": "The righteous hate what is false, but the wicked make themselves a stench and bring shame on themselves.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "20013006",
+    "b": 20,
+    "c": 13,
+    "v": 6,
+    "t": "Righteousness guards the person of integrity, but wickedness overthrows the sinner.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "20013007",
+    "b": 20,
+    "c": 13,
+    "v": 7,
+    "t": "One person pretends to be rich, yet has nothing; another pretends to be poor, yet has great wealth.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "20013008",
+    "b": 20,
+    "c": 13,
+    "v": 8,
+    "t": "A person’s riches may ransom their life, but the poor cannot respond to threatening rebukes.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "20013009",
+    "b": 20,
+    "c": 13,
+    "v": 9,
+    "t": "The light of the righteous shines brightly, but the lamp of the wicked is snuffed out.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "20013010",
+    "b": 20,
+    "c": 13,
+    "v": 10,
+    "t": "Where there is strife, there is pride, but wisdom is found in those who take advice.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "20013011",
+    "b": 20,
+    "c": 13,
+    "v": 11,
+    "t": "Dishonest money dwindles away, but whoever gathers money little by little makes it grow.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "20013012",
+    "b": 20,
+    "c": 13,
+    "v": 12,
+    "t": "Hope deferred makes the heart sick, but a longing fulfilled is a tree of life.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "20013013",
+    "b": 20,
+    "c": 13,
+    "v": 13,
+    "t": "Whoever scorns instruction will pay for it, but whoever respects a command is rewarded.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "20013014",
+    "b": 20,
+    "c": 13,
+    "v": 14,
+    "t": "The teaching of the wise is a fountain of life, turning a person from the snares of death.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "20013015",
+    "b": 20,
+    "c": 13,
+    "v": 15,
+    "t": "Good judgment wins favor, but the way of the unfaithful leads to their destruction.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "20013016",
+    "b": 20,
+    "c": 13,
+    "v": 16,
+    "t": "All who are prudent act with knowledge, but fools expose their folly.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "20013017",
+    "b": 20,
+    "c": 13,
+    "v": 17,
+    "t": "A wicked messenger falls into trouble, but a trustworthy envoy brings healing.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "20013018",
+    "b": 20,
+    "c": 13,
+    "v": 18,
+    "t": "Whoever disregards discipline comes to poverty and shame, but whoever heeds correction is honored.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "20013019",
+    "b": 20,
+    "c": 13,
+    "v": 19,
+    "t": "A longing fulfilled is sweet to the soul, but fools detest turning from evil.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "20013020",
+    "b": 20,
+    "c": 13,
+    "v": 20,
+    "t": "Walk with the wise and become wise, for a companion of fools suffers harm.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "20013021",
+    "b": 20,
+    "c": 13,
+    "v": 21,
+    "t": "Trouble pursues the sinner, but the righteous are rewarded with good things.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "20013022",
+    "b": 20,
+    "c": 13,
+    "v": 22,
+    "t": "A good person leaves an inheritance for their children’s children, but a sinner’s wealth is stored up for the righteous.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "20013023",
+    "b": 20,
+    "c": 13,
+    "v": 23,
+    "t": "An unplowed field produces food for the poor, but injustice sweeps it away.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "20013024",
+    "b": 20,
+    "c": 13,
+    "v": 24,
+    "t": "Whoever spares the rod hates their children, but the one who loves their children is careful to discipline them.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "20014001",
+    "b": 20,
+    "c": 14,
+    "v": 1,
+    "t": "The wise woman builds her house, but with her own hands the foolish one tears hers down.",
+    "h": "",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "20014002",
+    "b": 20,
+    "c": 14,
+    "v": 2,
+    "t": "Whoever fears the LORD walks uprightly, but those who despise him are devious in their ways.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "20014003",
+    "b": 20,
+    "c": 14,
+    "v": 3,
+    "t": "A fool’s mouth lashes out with pride, but the lips of the wise protect them.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "20014004",
+    "b": 20,
+    "c": 14,
+    "v": 4,
+    "t": "Where there are no oxen, the manger is empty, but from the strength of an ox come abundant harvests.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "20014005",
+    "b": 20,
+    "c": 14,
+    "v": 5,
+    "t": "An honest witness does not deceive, but a false witness pours out lies.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "20014006",
+    "b": 20,
+    "c": 14,
+    "v": 6,
+    "t": "The mocker seeks wisdom and finds none, but knowledge comes easily to the discerning.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "20014007",
+    "b": 20,
+    "c": 14,
+    "v": 7,
+    "t": "Stay away from a fool, for you will not find knowledge on their lips.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "20014008",
+    "b": 20,
+    "c": 14,
+    "v": 8,
+    "t": "The wisdom of the prudent is to give thought to their ways, but the folly of fools is deception.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "20014009",
+    "b": 20,
+    "c": 14,
+    "v": 9,
+    "t": "Fools mock at making amends for sin, but goodwill is found among the upright.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "20014010",
+    "b": 20,
+    "c": 14,
+    "v": 10,
+    "t": "Each heart knows its own bitterness, and no one else can share its joy.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "20014011",
+    "b": 20,
+    "c": 14,
+    "v": 11,
+    "t": "The house of the wicked will be destroyed, but the tent of the upright will flourish.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "20014012",
+    "b": 20,
+    "c": 14,
+    "v": 12,
+    "t": "There is a way that appears to be right, but in the end it leads to death.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "20014013",
+    "b": 20,
+    "c": 14,
+    "v": 13,
+    "t": "Even in laughter the heart may ache, and rejoicing may end in grief.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "20014014",
+    "b": 20,
+    "c": 14,
+    "v": 14,
+    "t": "The faithless will be fully repaid for their ways, and the good rewarded for theirs.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "20014015",
+    "b": 20,
+    "c": 14,
+    "v": 15,
+    "t": "The simple believe anything, but the prudent give thought to their steps.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "20014016",
+    "b": 20,
+    "c": 14,
+    "v": 16,
+    "t": "The wise fear the LORD and shun evil, but a fool is hotheaded and yet feels secure.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "20014017",
+    "b": 20,
+    "c": 14,
+    "v": 17,
+    "t": "A quick-tempered person does foolish things, and the one who devises evil schemes is hated.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "20014018",
+    "b": 20,
+    "c": 14,
+    "v": 18,
+    "t": "The simple inherit folly, but the prudent are crowned with knowledge.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "20014019",
+    "b": 20,
+    "c": 14,
+    "v": 19,
+    "t": "Evildoers will bow down in the presence of the good, and the wicked at the gates of the righteous.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "20014020",
+    "b": 20,
+    "c": 14,
+    "v": 20,
+    "t": "The poor are shunned even by their neighbors, but the rich have many friends.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "20014021",
+    "b": 20,
+    "c": 14,
+    "v": 21,
+    "t": "It is a sin to despise one’s neighbor, but blessed is the one who is kind to the needy.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "20014022",
+    "b": 20,
+    "c": 14,
+    "v": 22,
+    "t": "Do not those who plot evil go astray? But those who plan what is good find love and faithfulness.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "20014023",
+    "b": 20,
+    "c": 14,
+    "v": 23,
+    "t": "All hard work brings a profit, but mere talk leads only to poverty.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "20014024",
+    "b": 20,
+    "c": 14,
+    "v": 24,
+    "t": "The wealth of the wise is their crown, but the folly of fools yields folly.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "20014025",
+    "b": 20,
+    "c": 14,
+    "v": 25,
+    "t": "A truthful witness saves lives, but a false witness is deceitful.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "20014026",
+    "b": 20,
+    "c": 14,
+    "v": 26,
+    "t": "Whoever fears the LORD has a secure fortress, and for their children it will be a refuge.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "20014027",
+    "b": 20,
+    "c": 14,
+    "v": 27,
+    "t": "The fear of the LORD is a fountain of life, turning a person from the snares of death.",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "20014028",
+    "b": 20,
+    "c": 14,
+    "v": 28,
+    "t": "A large population is a king’s glory, but without subjects a prince is ruined.",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "20014029",
+    "b": 20,
+    "c": 14,
+    "v": 29,
+    "t": "Whoever is patient has great understanding, but one who is quick-tempered displays folly.",
+    "h": "",
+    "o": 29,
+    "l": "29"
+  },
+  {
+    "id": "20014030",
+    "b": 20,
+    "c": 14,
+    "v": 30,
+    "t": "A heart at peace gives life to the body, but envy rots the bones.",
+    "h": "",
+    "o": 30,
+    "l": "30"
+  },
+  {
+    "id": "20014031",
+    "b": 20,
+    "c": 14,
+    "v": 31,
+    "t": "Whoever oppresses the poor shows contempt for their Maker, but whoever is kind to the needy honors God.",
+    "h": "",
+    "o": 31,
+    "l": "31"
+  },
+  {
+    "id": "20014032",
+    "b": 20,
+    "c": 14,
+    "v": 32,
+    "t": "When calamity comes, the wicked are brought down, but even in death the righteous seek refuge in God.",
+    "h": "",
+    "o": 32,
+    "l": "32"
+  },
+  {
+    "id": "20014033",
+    "b": 20,
+    "c": 14,
+    "v": 33,
+    "t": "Wisdom reposes in the heart of the discerning and even among fools she lets herself be known.",
+    "h": "",
+    "o": 33,
+    "l": "33"
+  },
+  {
+    "id": "20014034",
+    "b": 20,
+    "c": 14,
+    "v": 34,
+    "t": "Righteousness exalts a nation, but sin condemns any people.",
+    "h": "",
+    "o": 34,
+    "l": "34"
+  },
+  {
+    "id": "20015001",
+    "b": 20,
+    "c": 15,
+    "v": 1,
+    "t": "A gentle answer turns away wrath, but a harsh word stirs up anger.",
+    "h": "",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "20015002",
+    "b": 20,
+    "c": 15,
+    "v": 2,
+    "t": "The tongue of the wise adorns knowledge, but the mouth of the fool gushes folly.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "20015003",
+    "b": 20,
+    "c": 15,
+    "v": 3,
+    "t": "The eyes of the LORD are everywhere, keeping watch on the wicked and the good.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "20015004",
+    "b": 20,
+    "c": 15,
+    "v": 4,
+    "t": "The soothing tongue is a tree of life, but a perverse tongue crushes the spirit.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "20015005",
+    "b": 20,
+    "c": 15,
+    "v": 5,
+    "t": "A fool spurns a parent’s discipline, but whoever heeds correction shows prudence.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "20015006",
+    "b": 20,
+    "c": 15,
+    "v": 6,
+    "t": "The house of the righteous contains great treasure, but the income of the wicked brings ruin.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "20015007",
+    "b": 20,
+    "c": 15,
+    "v": 7,
+    "t": "The lips of the wise spread knowledge, but the hearts of fools are not upright.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "20015008",
+    "b": 20,
+    "c": 15,
+    "v": 8,
+    "t": "The LORD detests the sacrifice of the wicked, but the prayer of the upright pleases him.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "20015009",
+    "b": 20,
+    "c": 15,
+    "v": 9,
+    "t": "The LORD detests the way of the wicked, but he loves those who pursue righteousness.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "20015010",
+    "b": 20,
+    "c": 15,
+    "v": 10,
+    "t": "Stern discipline awaits anyone who leaves the path; the one who hates correction will die.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "20015011",
+    "b": 20,
+    "c": 15,
+    "v": 11,
+    "t": "Death and Destruction lie open before the LORD — how much more do human hearts!",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "20015012",
+    "b": 20,
+    "c": 15,
+    "v": 12,
+    "t": "Mockers resent correction, so they avoid the wise.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "20015013",
+    "b": 20,
+    "c": 15,
+    "v": 13,
+    "t": "A happy heart makes the face cheerful, but heartache crushes the spirit.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "20015014",
+    "b": 20,
+    "c": 15,
+    "v": 14,
+    "t": "The discerning heart seeks knowledge, but the mouth of a fool feeds on folly.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "20015015",
+    "b": 20,
+    "c": 15,
+    "v": 15,
+    "t": "All the days of the oppressed are wretched, but the cheerful heart has a continual feast.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "20015016",
+    "b": 20,
+    "c": 15,
+    "v": 16,
+    "t": "Better a little with the fear of the LORD than great wealth with turmoil.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "20015017",
+    "b": 20,
+    "c": 15,
+    "v": 17,
+    "t": "Better a small serving of vegetables with love than a fattened calf with hatred.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "20015018",
+    "b": 20,
+    "c": 15,
+    "v": 18,
+    "t": "A hot-tempered person stirs up conflict, but the one who is patient calms a quarrel.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "20015019",
+    "b": 20,
+    "c": 15,
+    "v": 19,
+    "t": "The way of the sluggard is blocked with thorns, but the path of the upright is a highway.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "20015020",
+    "b": 20,
+    "c": 15,
+    "v": 20,
+    "t": "A wise son brings joy to his father, but a foolish man despises his mother.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "20015021",
+    "b": 20,
+    "c": 15,
+    "v": 21,
+    "t": "Folly brings joy to one who has no sense, but whoever has understanding keeps a straight course.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "20015022",
+    "b": 20,
+    "c": 15,
+    "v": 22,
+    "t": "Plans fail for lack of counsel, but with many advisers they succeed.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "20015023",
+    "b": 20,
+    "c": 15,
+    "v": 23,
+    "t": "A person finds joy in giving an apt reply— and how good is a timely word!",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "20015024",
+    "b": 20,
+    "c": 15,
+    "v": 24,
+    "t": "The path of life leads upward for the prudent to keep them from going down to the realm of the dead.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "20015025",
+    "b": 20,
+    "c": 15,
+    "v": 25,
+    "t": "The LORD tears down the house of the proud, but he sets the widow’s boundary stones in place.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "20015026",
+    "b": 20,
+    "c": 15,
+    "v": 26,
+    "t": "The LORD detests the thoughts of the wicked, but gracious words are pure in his sight.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "20015027",
+    "b": 20,
+    "c": 15,
+    "v": 27,
+    "t": "The greedy bring ruin to their households, but the one who hates bribes will live.",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "20015028",
+    "b": 20,
+    "c": 15,
+    "v": 28,
+    "t": "The heart of the righteous weighs its answers, but the mouth of the wicked gushes evil.",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "20015029",
+    "b": 20,
+    "c": 15,
+    "v": 29,
+    "t": "The LORD is far from the wicked, but he hears the prayer of the righteous.",
+    "h": "",
+    "o": 29,
+    "l": "29"
+  },
+  {
+    "id": "20015030",
+    "b": 20,
+    "c": 15,
+    "v": 30,
+    "t": "Light in a messenger’s eyes brings joy to the heart, and good news gives health to the bones.",
+    "h": "",
+    "o": 30,
+    "l": "30"
+  },
+  {
+    "id": "20015031",
+    "b": 20,
+    "c": 15,
+    "v": 31,
+    "t": "Whoever heeds life-giving correction will be at home among the wise.",
+    "h": "",
+    "o": 31,
+    "l": "31"
+  },
+  {
+    "id": "20015032",
+    "b": 20,
+    "c": 15,
+    "v": 32,
+    "t": "Those who disregard discipline despise themselves, but the one who heeds correction gains understanding.",
+    "h": "",
+    "o": 32,
+    "l": "32"
+  },
+  {
+    "id": "20016001",
+    "b": 20,
+    "c": 16,
+    "v": 1,
+    "t": "To humans belong the plans of the heart, but from the LORD comes the proper answer of the tongue.",
+    "h": "",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "20016002",
+    "b": 20,
+    "c": 16,
+    "v": 2,
+    "t": "All a person’s ways seem pure to them, but motives are weighed by the LORD.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "20016003",
+    "b": 20,
+    "c": 16,
+    "v": 3,
+    "t": "Commit to the LORD whatever you do, and he will establish your plans.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "20016004",
+    "b": 20,
+    "c": 16,
+    "v": 4,
+    "t": "The LORD works out everything to its proper end— even the wicked for a day of disaster.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "20016005",
+    "b": 20,
+    "c": 16,
+    "v": 5,
+    "t": "The LORD detests all the proud of heart. Be sure of this: They will not go unpunished.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "20016006",
+    "b": 20,
+    "c": 16,
+    "v": 6,
+    "t": "Through love and faithfulness sin is atoned for; through the fear of the LORD evil is avoided.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "20016007",
+    "b": 20,
+    "c": 16,
+    "v": 7,
+    "t": "When the LORD takes pleasure in anyone’s way, he causes their enemies to make peace with them.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "20016008",
+    "b": 20,
+    "c": 16,
+    "v": 8,
+    "t": "Better a little with righteousness than much gain with injustice.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "20016009",
+    "b": 20,
+    "c": 16,
+    "v": 9,
+    "t": "In their hearts humans plan their course, but the LORD establishes their steps.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "20016010",
+    "b": 20,
+    "c": 16,
+    "v": 10,
+    "t": "The lips of a king speak as an oracle, and his mouth does not betray justice.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "20016011",
+    "b": 20,
+    "c": 16,
+    "v": 11,
+    "t": "Honest scales and balances belong to the LORD ; all the weights in the bag are of his making.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "20016012",
+    "b": 20,
+    "c": 16,
+    "v": 12,
+    "t": "Kings detest wrongdoing, for a throne is established through righteousness.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "20016013",
+    "b": 20,
+    "c": 16,
+    "v": 13,
+    "t": "Kings take pleasure in honest lips; they value the one who speaks what is right.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "20016014",
+    "b": 20,
+    "c": 16,
+    "v": 14,
+    "t": "A king’s wrath is a messenger of death, but the wise will appease it.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "20016015",
+    "b": 20,
+    "c": 16,
+    "v": 15,
+    "t": "When a king’s face brightens, it means life; his favor is like a rain cloud in spring.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "20016016",
+    "b": 20,
+    "c": 16,
+    "v": 16,
+    "t": "How much better to get wisdom than gold, to get insight rather than silver!",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "20016017",
+    "b": 20,
+    "c": 16,
+    "v": 17,
+    "t": "The highway of the upright avoids evil; those who guard their ways preserve their lives.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "20016018",
+    "b": 20,
+    "c": 16,
+    "v": 18,
+    "t": "Pride goes before destruction, a haughty spirit before a fall.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "20016019",
+    "b": 20,
+    "c": 16,
+    "v": 19,
+    "t": "Better to be lowly in spirit along with the oppressed than to share plunder with the proud.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "20016020",
+    "b": 20,
+    "c": 16,
+    "v": 20,
+    "t": "Whoever gives heed to instruction prospers, and blessed is the one who trusts in the LORD.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "20016021",
+    "b": 20,
+    "c": 16,
+    "v": 21,
+    "t": "The wise in heart are called discerning, and gracious words promote instruction.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "20016022",
+    "b": 20,
+    "c": 16,
+    "v": 22,
+    "t": "Prudence is a fountain of life to the prudent, but folly brings punishment to fools.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "20016023",
+    "b": 20,
+    "c": 16,
+    "v": 23,
+    "t": "The hearts of the wise make their mouths prudent, and their lips promote instruction.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "20016024",
+    "b": 20,
+    "c": 16,
+    "v": 24,
+    "t": "Gracious words are a honeycomb, sweet to the soul and healing to the bones.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "20016025",
+    "b": 20,
+    "c": 16,
+    "v": 25,
+    "t": "There is a way that appears to be right, but in the end it leads to death.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "20016026",
+    "b": 20,
+    "c": 16,
+    "v": 26,
+    "t": "The appetite of laborers works for them; their hunger drives them on.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "20016027",
+    "b": 20,
+    "c": 16,
+    "v": 27,
+    "t": "A scoundrel plots evil, and on their lips it is like a scorching fire.",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "20016028",
+    "b": 20,
+    "c": 16,
+    "v": 28,
+    "t": "A perverse person stirs up conflict, and a gossip separates close friends.",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "20016029",
+    "b": 20,
+    "c": 16,
+    "v": 29,
+    "t": "A violent person entices their neighbor and leads them down a path that is not good.",
+    "h": "",
+    "o": 29,
+    "l": "29"
+  },
+  {
+    "id": "20016030",
+    "b": 20,
+    "c": 16,
+    "v": 30,
+    "t": "Whoever winks with their eye is plotting perversity; whoever purses their lips is bent on evil.",
+    "h": "",
+    "o": 30,
+    "l": "30"
+  },
+  {
+    "id": "20016031",
+    "b": 20,
+    "c": 16,
+    "v": 31,
+    "t": "Gray hair is a crown of splendor; it is attained in the way of righteousness.",
+    "h": "",
+    "o": 31,
+    "l": "31"
+  },
+  {
+    "id": "20016032",
+    "b": 20,
+    "c": 16,
+    "v": 32,
+    "t": "Better a patient person than a warrior, one with self-control than one who takes a city.",
+    "h": "",
+    "o": 32,
+    "l": "32"
+  },
+  {
+    "id": "20017001",
+    "b": 20,
+    "c": 17,
+    "v": 1,
+    "t": "Better a dry crust with peace and quiet than a house full of feasting, with strife.",
+    "h": "",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "20017002",
+    "b": 20,
+    "c": 17,
+    "v": 2,
+    "t": "A prudent servant will rule over a disgraceful son and will share the inheritance as one of the family.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "20017003",
+    "b": 20,
+    "c": 17,
+    "v": 3,
+    "t": "The crucible for silver and the furnace for gold, but the LORD tests the heart.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "20017004",
+    "b": 20,
+    "c": 17,
+    "v": 4,
+    "t": "A wicked person listens to deceitful lips; a liar pays attention to a destructive tongue.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "20017005",
+    "b": 20,
+    "c": 17,
+    "v": 5,
+    "t": "Whoever mocks the poor shows contempt for their Maker; whoever gloats over disaster will not go unpunished.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "20017006",
+    "b": 20,
+    "c": 17,
+    "v": 6,
+    "t": "Children’s children are a crown to the aged, and parents are the pride of their children.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "20017007",
+    "b": 20,
+    "c": 17,
+    "v": 7,
+    "t": "Eloquent lips are unsuited to a godless fool— how much worse lying lips to a ruler!",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "20017008",
+    "b": 20,
+    "c": 17,
+    "v": 8,
+    "t": "A bribe is seen as a charm by the one who gives it; they think success will come at every turn.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "20017009",
+    "b": 20,
+    "c": 17,
+    "v": 9,
+    "t": "Whoever would foster love covers over an offense, but whoever repeats the matter separates close friends.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "20017010",
+    "b": 20,
+    "c": 17,
+    "v": 10,
+    "t": "A rebuke impresses a discerning person more than a hundred lashes a fool.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "20017011",
+    "b": 20,
+    "c": 17,
+    "v": 11,
+    "t": "Evildoers foster rebellion against God; the messenger of death will be sent against them.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "20017012",
+    "b": 20,
+    "c": 17,
+    "v": 12,
+    "t": "Better to meet a bear robbed of her cubs than a fool bent on folly.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "20017013",
+    "b": 20,
+    "c": 17,
+    "v": 13,
+    "t": "Evil will never leave the house of one who pays back evil for good.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "20017014",
+    "b": 20,
+    "c": 17,
+    "v": 14,
+    "t": "Starting a quarrel is like breaching a dam; so drop the matter before a dispute breaks out.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "20017015",
+    "b": 20,
+    "c": 17,
+    "v": 15,
+    "t": "Acquitting the guilty and condemning the innocent— the LORD detests them both.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "20017016",
+    "b": 20,
+    "c": 17,
+    "v": 16,
+    "t": "Why should fools have money in hand to buy wisdom, when they are not able to understand it?",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "20017017",
+    "b": 20,
+    "c": 17,
+    "v": 17,
+    "t": "A friend loves at all times, and a brother is born for a time of adversity.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "20017018",
+    "b": 20,
+    "c": 17,
+    "v": 18,
+    "t": "One who has no sense shakes hands in pledge and puts up security for a neighbor.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "20017019",
+    "b": 20,
+    "c": 17,
+    "v": 19,
+    "t": "Whoever loves a quarrel loves sin; whoever builds a high gate invites destruction.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "20017020",
+    "b": 20,
+    "c": 17,
+    "v": 20,
+    "t": "One whose heart is corrupt does not prosper; one whose tongue is perverse falls into trouble.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "20017021",
+    "b": 20,
+    "c": 17,
+    "v": 21,
+    "t": "To have a fool for a child brings grief; there is no joy for the parent of a godless fool.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "20017022",
+    "b": 20,
+    "c": 17,
+    "v": 22,
+    "t": "A cheerful heart is good medicine, but a crushed spirit dries up the bones.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "20017023",
+    "b": 20,
+    "c": 17,
+    "v": 23,
+    "t": "The wicked accept bribes in secret to pervert the course of justice.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "20017024",
+    "b": 20,
+    "c": 17,
+    "v": 24,
+    "t": "A discerning person keeps wisdom in view, but a fool’s eyes wander to the ends of the earth.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "20017025",
+    "b": 20,
+    "c": 17,
+    "v": 25,
+    "t": "A foolish son brings grief to his father and bitterness to the mother who bore him.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "20017026",
+    "b": 20,
+    "c": 17,
+    "v": 26,
+    "t": "If imposing a fine on the innocent is not good, surely to flog honest officials is not right.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "20017027",
+    "b": 20,
+    "c": 17,
+    "v": 27,
+    "t": "The one who has knowledge uses words with restraint, and whoever has understanding is even-tempered.",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "20018001",
+    "b": 20,
+    "c": 18,
+    "v": 1,
+    "t": "An unfriendly person pursues selfish ends and against all sound judgment starts quarrels.",
+    "h": "",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "20018002",
+    "b": 20,
+    "c": 18,
+    "v": 2,
+    "t": "Fools find no pleasure in understanding but delight in airing their own opinions.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "20018003",
+    "b": 20,
+    "c": 18,
+    "v": 3,
+    "t": "When wickedness comes, so does contempt, and with shame comes reproach.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "20018004",
+    "b": 20,
+    "c": 18,
+    "v": 4,
+    "t": "The words of the mouth are deep waters, but the fountain of wisdom is a rushing stream.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "20018005",
+    "b": 20,
+    "c": 18,
+    "v": 5,
+    "t": "It is not good to be partial to the wicked and so deprive the innocent of justice.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "20018006",
+    "b": 20,
+    "c": 18,
+    "v": 6,
+    "t": "The lips of fools bring them strife, and their mouths invite a beating.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "20018007",
+    "b": 20,
+    "c": 18,
+    "v": 7,
+    "t": "The mouths of fools are their undoing, and their lips are a snare to their very lives.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "20018008",
+    "b": 20,
+    "c": 18,
+    "v": 8,
+    "t": "The words of a gossip are like choice morsels; they go down to the inmost parts.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "20018009",
+    "b": 20,
+    "c": 18,
+    "v": 9,
+    "t": "One who is slack in his work is brother to one who destroys.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "20018010",
+    "b": 20,
+    "c": 18,
+    "v": 10,
+    "t": "The name of the LORD is a fortified tower; the righteous run to it and are safe.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "20018011",
+    "b": 20,
+    "c": 18,
+    "v": 11,
+    "t": "The wealth of the rich is their fortified city; they imagine it a wall too high to scale.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "20018012",
+    "b": 20,
+    "c": 18,
+    "v": 12,
+    "t": "Before a downfall the heart is haughty, but humility comes before honor.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "20018013",
+    "b": 20,
+    "c": 18,
+    "v": 13,
+    "t": "To answer before listening— that is folly and shame.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "20018014",
+    "b": 20,
+    "c": 18,
+    "v": 14,
+    "t": "The human spirit can endure in sickness, but a crushed spirit who can bear?",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "20018015",
+    "b": 20,
+    "c": 18,
+    "v": 15,
+    "t": "The heart of the discerning acquires knowledge, for the ears of the wise seek it out.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "20018016",
+    "b": 20,
+    "c": 18,
+    "v": 16,
+    "t": "A gift opens the way and ushers the giver into the presence of the great.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "20018017",
+    "b": 20,
+    "c": 18,
+    "v": 17,
+    "t": "In a lawsuit the first to speak seems right, until someone comes forward and cross-examines.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "20018018",
+    "b": 20,
+    "c": 18,
+    "v": 18,
+    "t": "Casting the lot settles disputes and keeps strong opponents apart.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "20018019",
+    "b": 20,
+    "c": 18,
+    "v": 19,
+    "t": "A brother wronged is more unyielding than a fortified city; disputes are like the barred gates of a citadel.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "20018020",
+    "b": 20,
+    "c": 18,
+    "v": 20,
+    "t": "From the fruit of their mouth a person’s stomach is filled; with the harvest of their lips they are satisfied.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "20018021",
+    "b": 20,
+    "c": 18,
+    "v": 21,
+    "t": "The tongue has the power of life and death, and those who love it will eat its fruit.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "20018022",
+    "b": 20,
+    "c": 18,
+    "v": 22,
+    "t": "He who finds a wife finds what is good and receives favor from the LORD.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "20018023",
+    "b": 20,
+    "c": 18,
+    "v": 23,
+    "t": "The poor plead for mercy, but the rich answer harshly.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "20019001",
+    "b": 20,
+    "c": 19,
+    "v": 1,
+    "t": "Better the poor whose walk is blameless than a fool whose lips are perverse.",
+    "h": "",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "20019002",
+    "b": 20,
+    "c": 19,
+    "v": 2,
+    "t": "Desire without knowledge is not good— how much more will hasty feet miss the way!",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "20019003",
+    "b": 20,
+    "c": 19,
+    "v": 3,
+    "t": "A person’s own folly leads to their ruin, yet their heart rages against the LORD.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "20019004",
+    "b": 20,
+    "c": 19,
+    "v": 4,
+    "t": "Wealth attracts many friends, but even the closest friend of the poor person deserts them.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "20019005",
+    "b": 20,
+    "c": 19,
+    "v": 5,
+    "t": "A false witness will not go unpunished, and whoever pours out lies will not go free.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "20019006",
+    "b": 20,
+    "c": 19,
+    "v": 6,
+    "t": "Many curry favor with a ruler, and everyone is the friend of one who gives gifts.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "20019007",
+    "b": 20,
+    "c": 19,
+    "v": 7,
+    "t": "The poor are shunned by all their relatives— how much more do their friends avoid them! Though the poor pursue them with pleading, they are nowhere to be found.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "20019008",
+    "b": 20,
+    "c": 19,
+    "v": 8,
+    "t": "The one who gets wisdom loves life; the one who cherishes understanding will soon prosper.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "20019009",
+    "b": 20,
+    "c": 19,
+    "v": 9,
+    "t": "A false witness will not go unpunished, and whoever pours out lies will perish.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "20019010",
+    "b": 20,
+    "c": 19,
+    "v": 10,
+    "t": "It is not fitting for a fool to live in luxury— how much worse for a slave to rule over princes!",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "20019011",
+    "b": 20,
+    "c": 19,
+    "v": 11,
+    "t": "A person’s wisdom yields patience; it is to one’s glory to overlook an offense.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "20019012",
+    "b": 20,
+    "c": 19,
+    "v": 12,
+    "t": "A king’s rage is like the roar of a lion, but his favor is like dew on the grass.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "20019013",
+    "b": 20,
+    "c": 19,
+    "v": 13,
+    "t": "A foolish child is a father’s ruin, and a quarrelsome wife is like the constant dripping of a leaky roof.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "20019014",
+    "b": 20,
+    "c": 19,
+    "v": 14,
+    "t": "Houses and wealth are inherited from parents, but a prudent wife is from the LORD.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "20019015",
+    "b": 20,
+    "c": 19,
+    "v": 15,
+    "t": "Laziness brings on deep sleep, and the shiftless go hungry.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "20019016",
+    "b": 20,
+    "c": 19,
+    "v": 16,
+    "t": "Whoever keeps commandments keeps their life, but whoever shows contempt for their ways will die.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "20019017",
+    "b": 20,
+    "c": 19,
+    "v": 17,
+    "t": "Whoever is kind to the poor lends to the LORD, and he will reward them for what they have done.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "20019018",
+    "b": 20,
+    "c": 19,
+    "v": 18,
+    "t": "Discipline your children, for in that there is hope; do not be a willing party to their death.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "20019019",
+    "b": 20,
+    "c": 19,
+    "v": 19,
+    "t": "A hot-tempered person must pay the penalty; rescue them, and you will have to do it again.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "20019020",
+    "b": 20,
+    "c": 19,
+    "v": 20,
+    "t": "Listen to advice and accept discipline, and at the end you will be counted among the wise.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "20019021",
+    "b": 20,
+    "c": 19,
+    "v": 21,
+    "t": "Many are the plans in a person’s heart, but it is the LORD ’s purpose that prevails.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "20019022",
+    "b": 20,
+    "c": 19,
+    "v": 22,
+    "t": "What a person desires is unfailing love ; better to be poor than a liar.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "20019023",
+    "b": 20,
+    "c": 19,
+    "v": 23,
+    "t": "The fear of the LORD leads to life; then one rests content, untouched by trouble.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "20019024",
+    "b": 20,
+    "c": 19,
+    "v": 24,
+    "t": "A sluggard buries his hand in the dish; he will not even bring it back to his mouth!",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "20019025",
+    "b": 20,
+    "c": 19,
+    "v": 25,
+    "t": "Flog a mocker, and the simple will learn prudence; rebuke the discerning, and they will gain knowledge.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "20019026",
+    "b": 20,
+    "c": 19,
+    "v": 26,
+    "t": "Whoever robs their father and drives out their mother is a child who brings shame and disgrace.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "20019027",
+    "b": 20,
+    "c": 19,
+    "v": 27,
+    "t": "Stop listening to instruction, my son, and you will stray from the words of knowledge.",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "20019028",
+    "b": 20,
+    "c": 19,
+    "v": 28,
+    "t": "A corrupt witness mocks at justice, and the mouth of the wicked gulps down evil.",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "20020001",
+    "b": 20,
+    "c": 20,
+    "v": 1,
+    "t": "Wine is a mocker and beer a brawler; whoever is led astray by them is not wise.",
+    "h": "",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "20020002",
+    "b": 20,
+    "c": 20,
+    "v": 2,
+    "t": "A king’s wrath strikes terror like the roar of a lion; those who anger him forfeit their lives.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "20020003",
+    "b": 20,
+    "c": 20,
+    "v": 3,
+    "t": "It is to one’s honor to avoid strife, but every fool is quick to quarrel.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "20020004",
+    "b": 20,
+    "c": 20,
+    "v": 4,
+    "t": "Sluggards do not plow in season; so at harvest time they look but find nothing.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "20020005",
+    "b": 20,
+    "c": 20,
+    "v": 5,
+    "t": "The purposes of a person’s heart are deep waters, but one who has insight draws them out.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "20020006",
+    "b": 20,
+    "c": 20,
+    "v": 6,
+    "t": "Many claim to have unfailing love, but a faithful person who can find?",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "20020007",
+    "b": 20,
+    "c": 20,
+    "v": 7,
+    "t": "The righteous lead blameless lives; blessed are their children after them.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "20020008",
+    "b": 20,
+    "c": 20,
+    "v": 8,
+    "t": "When a king sits on his throne to judge, he winnows out all evil with his eyes.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "20020009",
+    "b": 20,
+    "c": 20,
+    "v": 9,
+    "t": "Who can say, “I have kept my heart pure; I am clean and without sin”?",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "20020010",
+    "b": 20,
+    "c": 20,
+    "v": 10,
+    "t": "Differing weights and differing measures— the LORD detests them both.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "20020011",
+    "b": 20,
+    "c": 20,
+    "v": 11,
+    "t": "Even small children are known by their actions, so is their conduct really pure and upright?",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "20020012",
+    "b": 20,
+    "c": 20,
+    "v": 12,
+    "t": "Ears that hear and eyes that see— the LORD has made them both.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "20020013",
+    "b": 20,
+    "c": 20,
+    "v": 13,
+    "t": "Do not love sleep or you will grow poor; stay awake and you will have food to spare.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "20020014",
+    "b": 20,
+    "c": 20,
+    "v": 14,
+    "t": "“It’s no good, it’s no good!” says the buyer— then goes off and boasts about the purchase.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "20020015",
+    "b": 20,
+    "c": 20,
+    "v": 15,
+    "t": "Gold there is, and rubies in abundance, but lips that speak knowledge are a rare jewel.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "20020016",
+    "b": 20,
+    "c": 20,
+    "v": 16,
+    "t": "Take the garment of one who puts up security for a stranger; hold it in pledge if it is done for an outsider.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "20020017",
+    "b": 20,
+    "c": 20,
+    "v": 17,
+    "t": "Food gained by fraud tastes sweet, but one ends up with a mouth full of gravel.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "20020018",
+    "b": 20,
+    "c": 20,
+    "v": 18,
+    "t": "Plans are established by seeking advice; so if you wage war, obtain guidance.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "20020019",
+    "b": 20,
+    "c": 20,
+    "v": 19,
+    "t": "A gossip betrays a confidence; so avoid anyone who talks too much.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "20020020",
+    "b": 20,
+    "c": 20,
+    "v": 20,
+    "t": "If someone curses their father or mother, their lamp will be snuffed out in pitch darkness.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "20020021",
+    "b": 20,
+    "c": 20,
+    "v": 21,
+    "t": "An inheritance claimed too soon will not be blessed at the end.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "20020022",
+    "b": 20,
+    "c": 20,
+    "v": 22,
+    "t": "Do not say, “I’ll pay you back for this wrong!” Wait for the LORD, and he will avenge you.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "20020023",
+    "b": 20,
+    "c": 20,
+    "v": 23,
+    "t": "The LORD detests differing weights, and dishonest scales do not please him.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "20020024",
+    "b": 20,
+    "c": 20,
+    "v": 24,
+    "t": "A person’s steps are directed by the LORD. How then can anyone understand their own way?",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "20020025",
+    "b": 20,
+    "c": 20,
+    "v": 25,
+    "t": "It is a trap to dedicate something rashly and only later to consider one’s vows.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "20020026",
+    "b": 20,
+    "c": 20,
+    "v": 26,
+    "t": "A wise king winnows out the wicked; he drives the threshing wheel over them.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "20020027",
+    "b": 20,
+    "c": 20,
+    "v": 27,
+    "t": "The human spirit is the lamp of the LORD that sheds light on one’s inmost being.",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "20020028",
+    "b": 20,
+    "c": 20,
+    "v": 28,
+    "t": "Love and faithfulness keep a king safe; through love his throne is made secure.",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "20020029",
+    "b": 20,
+    "c": 20,
+    "v": 29,
+    "t": "The glory of young men is their strength, gray hair the splendor of the old.",
+    "h": "",
+    "o": 29,
+    "l": "29"
+  },
+  {
+    "id": "20021001",
+    "b": 20,
+    "c": 21,
+    "v": 1,
+    "t": "In the LORD ’s hand the king’s heart is a stream of water that he channels toward all who please him.",
+    "h": "",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "20021002",
+    "b": 20,
+    "c": 21,
+    "v": 2,
+    "t": "A person may think their own ways are right, but the LORD weighs the heart.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "20021003",
+    "b": 20,
+    "c": 21,
+    "v": 3,
+    "t": "To do what is right and just is more acceptable to the LORD than sacrifice.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "20021004",
+    "b": 20,
+    "c": 21,
+    "v": 4,
+    "t": "Haughty eyes and a proud heart— the unplowed field of the wicked—produce sin.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "20021005",
+    "b": 20,
+    "c": 21,
+    "v": 5,
+    "t": "The plans of the diligent lead to profit as surely as haste leads to poverty.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "20021006",
+    "b": 20,
+    "c": 21,
+    "v": 6,
+    "t": "A fortune made by a lying tongue is a fleeting vapor and a deadly snare.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "20021007",
+    "b": 20,
+    "c": 21,
+    "v": 7,
+    "t": "The violence of the wicked will drag them away, for they refuse to do what is right.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "20021008",
+    "b": 20,
+    "c": 21,
+    "v": 8,
+    "t": "The way of the guilty is devious, but the conduct of the innocent is upright.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "20021009",
+    "b": 20,
+    "c": 21,
+    "v": 9,
+    "t": "Better to live on a corner of the roof than share a house with a quarrelsome wife.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "20021010",
+    "b": 20,
+    "c": 21,
+    "v": 10,
+    "t": "The wicked crave evil; their neighbors get no mercy from them.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "20021011",
+    "b": 20,
+    "c": 21,
+    "v": 11,
+    "t": "When a mocker is punished, the simple gain wisdom; by paying attention to the wise they get knowledge.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "20021012",
+    "b": 20,
+    "c": 21,
+    "v": 12,
+    "t": "The Righteous One takes note of the house of the wicked and brings the wicked to ruin.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "20021013",
+    "b": 20,
+    "c": 21,
+    "v": 13,
+    "t": "Whoever shuts their ears to the cry of the poor will also cry out and not be answered.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "20021014",
+    "b": 20,
+    "c": 21,
+    "v": 14,
+    "t": "A gift given in secret soothes anger, and a bribe concealed in the cloak pacifies great wrath.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "20021015",
+    "b": 20,
+    "c": 21,
+    "v": 15,
+    "t": "When justice is done, it brings joy to the righteous but terror to evildoers.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "20021016",
+    "b": 20,
+    "c": 21,
+    "v": 16,
+    "t": "Whoever strays from the path of prudence comes to rest in the company of the dead.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "20021017",
+    "b": 20,
+    "c": 21,
+    "v": 17,
+    "t": "Whoever loves pleasure will become poor; whoever loves wine and olive oil will never be rich.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "20021018",
+    "b": 20,
+    "c": 21,
+    "v": 18,
+    "t": "The wicked become a ransom for the righteous, and the unfaithful for the upright.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "20021019",
+    "b": 20,
+    "c": 21,
+    "v": 19,
+    "t": "Better to live in a desert than with a quarrelsome and nagging wife.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "20021020",
+    "b": 20,
+    "c": 21,
+    "v": 20,
+    "t": "The wise store up choice food and olive oil, but fools gulp theirs down.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "20021021",
+    "b": 20,
+    "c": 21,
+    "v": 21,
+    "t": "Whoever pursues righteousness and love finds life, prosperity and honor.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "20021022",
+    "b": 20,
+    "c": 21,
+    "v": 22,
+    "t": "One who is wise can go up against the city of the mighty and pull down the stronghold in which they trust.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "20021023",
+    "b": 20,
+    "c": 21,
+    "v": 23,
+    "t": "Those who guard their mouths and their tongues keep themselves from calamity.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "20021024",
+    "b": 20,
+    "c": 21,
+    "v": 24,
+    "t": "The proud and arrogant person—“Mocker” is his name— behaves with insolent fury.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "20021025",
+    "b": 20,
+    "c": 21,
+    "v": 25,
+    "t": "The craving of a sluggard will be the death of him, because his hands refuse to work.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "20021026",
+    "b": 20,
+    "c": 21,
+    "v": 26,
+    "t": "All day long he craves for more, but the righteous give without sparing.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "20021027",
+    "b": 20,
+    "c": 21,
+    "v": 27,
+    "t": "The sacrifice of the wicked is detestable— how much more so when brought with evil intent!",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "20021028",
+    "b": 20,
+    "c": 21,
+    "v": 28,
+    "t": "A false witness will perish, but a careful listener will testify successfully.",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "20021029",
+    "b": 20,
+    "c": 21,
+    "v": 29,
+    "t": "The wicked put up a bold front, but the upright give thought to their ways.",
+    "h": "",
+    "o": 29,
+    "l": "29"
+  },
+  {
+    "id": "20021030",
+    "b": 20,
+    "c": 21,
+    "v": 30,
+    "t": "There is no wisdom, no insight, no plan that can succeed against the LORD.",
+    "h": "",
+    "o": 30,
+    "l": "30"
+  },
+  {
+    "id": "20022001",
+    "b": 20,
+    "c": 22,
+    "v": 1,
+    "t": "A good name is more desirable than great riches; to be esteemed is better than silver or gold.",
+    "h": "",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "20022002",
+    "b": 20,
+    "c": 22,
+    "v": 2,
+    "t": "Rich and poor have this in common: The LORD is the Maker of them all.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "20022003",
+    "b": 20,
+    "c": 22,
+    "v": 3,
+    "t": "The prudent see danger and take refuge, but the simple keep going and pay the penalty.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "20022004",
+    "b": 20,
+    "c": 22,
+    "v": 4,
+    "t": "Humility is the fear of the LORD ; its wages are riches and honor and life.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "20022005",
+    "b": 20,
+    "c": 22,
+    "v": 5,
+    "t": "In the paths of the wicked are snares and pitfalls, but those who would preserve their life stay far from them.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "20022006",
+    "b": 20,
+    "c": 22,
+    "v": 6,
+    "t": "Start children off on the way they should go, and even when they are old they will not turn from it.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "20022007",
+    "b": 20,
+    "c": 22,
+    "v": 7,
+    "t": "The rich rule over the poor, and the borrower is slave to the lender.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "20022008",
+    "b": 20,
+    "c": 22,
+    "v": 8,
+    "t": "Whoever sows injustice reaps calamity, and the rod they wield in fury will be broken.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "20022009",
+    "b": 20,
+    "c": 22,
+    "v": 9,
+    "t": "The generous will themselves be blessed, for they share their food with the poor.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "20022010",
+    "b": 20,
+    "c": 22,
+    "v": 10,
+    "t": "Drive out the mocker, and out goes strife; quarrels and insults are ended.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "20022011",
+    "b": 20,
+    "c": 22,
+    "v": 11,
+    "t": "One who loves a pure heart and who speaks with grace will have the king for a friend.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "20022012",
+    "b": 20,
+    "c": 22,
+    "v": 12,
+    "t": "The eyes of the LORD keep watch over knowledge, but he frustrates the words of the unfaithful.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "20022013",
+    "b": 20,
+    "c": 22,
+    "v": 13,
+    "t": "The sluggard says, “There’s a lion outside! I’ll be killed in the public square!”",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "20022014",
+    "b": 20,
+    "c": 22,
+    "v": 14,
+    "t": "The mouth of an adulterous woman is a deep pit; a man who is under the LORD ’s wrath falls into it.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "20022015",
+    "b": 20,
+    "c": 22,
+    "v": 15,
+    "t": "Folly is bound up in the heart of a child, but the rod of discipline will drive it far away.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "20022016",
+    "b": 20,
+    "c": 22,
+    "v": 16,
+    "t": "One who oppresses the poor to increase his wealth and one who gives gifts to the rich—both come to poverty.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "20022017",
+    "b": 20,
+    "c": 22,
+    "v": 17,
+    "t": "Pay attention and turn your ear to the sayings of the wise; apply your heart to what I teach,",
+    "h": "Thirty Sayings of the Wise\nSaying 1",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "20022018",
+    "b": 20,
+    "c": 22,
+    "v": 18,
+    "t": "for it is pleasing when you keep them in your heart and have all of them ready on your lips.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "20022019",
+    "b": 20,
+    "c": 22,
+    "v": 19,
+    "t": "So that your trust may be in the LORD, I teach you today, even you.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "20022020",
+    "b": 20,
+    "c": 22,
+    "v": 20,
+    "t": "Have I not written thirty sayings for you, sayings of counsel and knowledge,",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "20022021",
+    "b": 20,
+    "c": 22,
+    "v": 21,
+    "t": "teaching you to be honest and to speak the truth, so that you bring back truthful reports to those you serve?",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "20022022",
+    "b": 20,
+    "c": 22,
+    "v": 22,
+    "t": "Do not exploit the poor because they are poor and do not crush the needy in court,",
+    "h": "Saying 2",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "20022023",
+    "b": 20,
+    "c": 22,
+    "v": 23,
+    "t": "for the LORD will take up their case and will exact life for life.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "20022024",
+    "b": 20,
+    "c": 22,
+    "v": 24,
+    "t": "Do not make friends with a hot-tempered person, do not associate with one easily angered,",
+    "h": "Saying 3",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "20022025",
+    "b": 20,
+    "c": 22,
+    "v": 25,
+    "t": "or you may learn their ways and get yourself ensnared.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "20022026",
+    "b": 20,
+    "c": 22,
+    "v": 26,
+    "t": "Do not be one who shakes hands in pledge or puts up security for debts;",
+    "h": "Saying 4",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "20022027",
+    "b": 20,
+    "c": 22,
+    "v": 27,
+    "t": "if you lack the means to pay, your very bed will be snatched from under you.",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "20022028",
+    "b": 20,
+    "c": 22,
+    "v": 28,
+    "t": "Do not move an ancient boundary stone set up by your ancestors.",
+    "h": "Saying 5",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "20022029",
+    "b": 20,
+    "c": 22,
+    "v": 29,
+    "t": "Do you see someone skilled in their work? They will serve before kings; they will not serve before officials of low rank.",
+    "h": "Saying 6",
+    "o": 29,
+    "l": "29"
+  },
+  {
+    "id": "20023001",
+    "b": 20,
+    "c": 23,
+    "v": 1,
+    "t": "When you sit to dine with a ruler, note well what is before you,",
+    "h": "Saying 7",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "20023002",
+    "b": 20,
+    "c": 23,
+    "v": 2,
+    "t": "and put a knife to your throat if you are given to gluttony.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "20023003",
+    "b": 20,
+    "c": 23,
+    "v": 3,
+    "t": "Do not crave his delicacies, for that food is deceptive.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "20023004",
+    "b": 20,
+    "c": 23,
+    "v": 4,
+    "t": "Do not wear yourself out to get rich; do not trust your own cleverness.",
+    "h": "Saying 8",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "20023005",
+    "b": 20,
+    "c": 23,
+    "v": 5,
+    "t": "Cast but a glance at riches, and they are gone, for they will surely sprout wings and fly off to the sky like an eagle.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "20023006",
+    "b": 20,
+    "c": 23,
+    "v": 6,
+    "t": "Do not eat the food of a begrudging host, do not crave his delicacies;",
+    "h": "Saying 9",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "20023007",
+    "b": 20,
+    "c": 23,
+    "v": 7,
+    "t": "for he is the kind of person who is always thinking about the cost. “Eat and drink,” he says to you, but his heart is not with you.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "20023008",
+    "b": 20,
+    "c": 23,
+    "v": 8,
+    "t": "You will vomit up the little you have eaten and will have wasted your compliments.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "20023009",
+    "b": 20,
+    "c": 23,
+    "v": 9,
+    "t": "Do not speak to fools, for they will scorn your prudent words.",
+    "h": "Saying 10",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "20023010",
+    "b": 20,
+    "c": 23,
+    "v": 10,
+    "t": "Do not move an ancient boundary stone or encroach on the fields of the fatherless,",
+    "h": "Saying 11",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "20023011",
+    "b": 20,
+    "c": 23,
+    "v": 11,
+    "t": "for their Defender is strong; he will take up their case against you.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "20023012",
+    "b": 20,
+    "c": 23,
+    "v": 12,
+    "t": "Apply your heart to instruction and your ears to words of knowledge.",
+    "h": "Saying 12",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "20023013",
+    "b": 20,
+    "c": 23,
+    "v": 13,
+    "t": "Do not withhold discipline from a child; if you punish them with the rod, they will not die.",
+    "h": "Saying 13",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "20023014",
+    "b": 20,
+    "c": 23,
+    "v": 14,
+    "t": "Punish them with the rod and save them from death.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "20023015",
+    "b": 20,
+    "c": 23,
+    "v": 15,
+    "t": "My son, if your heart is wise, then my heart will be glad indeed;",
+    "h": "Saying 14",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "20023016",
+    "b": 20,
+    "c": 23,
+    "v": 16,
+    "t": "my inmost being will rejoice when your lips speak what is right.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "20023017",
+    "b": 20,
+    "c": 23,
+    "v": 17,
+    "t": "Do not let your heart envy sinners, but always be zealous for the fear of the LORD.",
+    "h": "Saying 15",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "20023018",
+    "b": 20,
+    "c": 23,
+    "v": 18,
+    "t": "There is surely a future hope for you, and your hope will not be cut off.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "20023019",
+    "b": 20,
+    "c": 23,
+    "v": 19,
+    "t": "Listen, my son, and be wise, and set your heart on the right path:",
+    "h": "Saying 16",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "20023020",
+    "b": 20,
+    "c": 23,
+    "v": 20,
+    "t": "Do not join those who drink too much wine or gorge themselves on meat,",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "20023021",
+    "b": 20,
+    "c": 23,
+    "v": 21,
+    "t": "for drunkards and gluttons become poor, and drowsiness clothes them in rags.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "20023022",
+    "b": 20,
+    "c": 23,
+    "v": 22,
+    "t": "Listen to your father, who gave you life, and do not despise your mother when she is old.",
+    "h": "Saying 17",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "20023023",
+    "b": 20,
+    "c": 23,
+    "v": 23,
+    "t": "Buy the truth and do not sell it— wisdom, instruction and insight as well.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "20023024",
+    "b": 20,
+    "c": 23,
+    "v": 24,
+    "t": "The father of a righteous child has great joy; a man who fathers a wise son rejoices in him.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "20023025",
+    "b": 20,
+    "c": 23,
+    "v": 25,
+    "t": "May your father and mother rejoice; may she who gave you birth be joyful!",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "20023026",
+    "b": 20,
+    "c": 23,
+    "v": 26,
+    "t": "My son, give me your heart and let your eyes delight in my ways,",
+    "h": "Saying 18",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "20023027",
+    "b": 20,
+    "c": 23,
+    "v": 27,
+    "t": "for an adulterous woman is a deep pit, and a wayward wife is a narrow well.",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "20023028",
+    "b": 20,
+    "c": 23,
+    "v": 28,
+    "t": "Like a bandit she lies in wait and multiplies the unfaithful among men.",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "20023029",
+    "b": 20,
+    "c": 23,
+    "v": 29,
+    "t": "Who has woe? Who has sorrow? Who has strife? Who has complaints? Who has needless bruises? Who has bloodshot eyes?",
+    "h": "Saying 19",
+    "o": 29,
+    "l": "29"
+  },
+  {
+    "id": "20023030",
+    "b": 20,
+    "c": 23,
+    "v": 30,
+    "t": "Those who linger over wine, who go to sample bowls of mixed wine.",
+    "h": "",
+    "o": 30,
+    "l": "30"
+  },
+  {
+    "id": "20023031",
+    "b": 20,
+    "c": 23,
+    "v": 31,
+    "t": "Do not gaze at wine when it is red, when it sparkles in the cup, when it goes down smoothly!",
+    "h": "",
+    "o": 31,
+    "l": "31"
+  },
+  {
+    "id": "20023032",
+    "b": 20,
+    "c": 23,
+    "v": 32,
+    "t": "In the end it bites like a snake and poisons like a viper.",
+    "h": "",
+    "o": 32,
+    "l": "32"
+  },
+  {
+    "id": "20023033",
+    "b": 20,
+    "c": 23,
+    "v": 33,
+    "t": "Your eyes will see strange sights, and your mind will imagine confusing things.",
+    "h": "",
+    "o": 33,
+    "l": "33"
+  },
+  {
+    "id": "20023034",
+    "b": 20,
+    "c": 23,
+    "v": 34,
+    "t": "You will be like one sleeping on the high seas, lying on top of the rigging.",
+    "h": "",
+    "o": 34,
+    "l": "34"
+  },
+  {
+    "id": "20023035",
+    "b": 20,
+    "c": 23,
+    "v": 35,
+    "t": "“They hit me,” you will say, “but I’m not hurt! They beat me, but I don’t feel it! When will I wake up so I can find another drink?”",
+    "h": "",
+    "o": 35,
+    "l": "35"
+  },
+  {
+    "id": "20024001",
+    "b": 20,
+    "c": 24,
+    "v": 1,
+    "t": "Do not envy the wicked, do not desire their company;",
+    "h": "Saying 20",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "20024002",
+    "b": 20,
+    "c": 24,
+    "v": 2,
+    "t": "for their hearts plot violence, and their lips talk about making trouble.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "20024003",
+    "b": 20,
+    "c": 24,
+    "v": 3,
+    "t": "By wisdom a house is built, and through understanding it is established;",
+    "h": "Saying 21",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "20024004",
+    "b": 20,
+    "c": 24,
+    "v": 4,
+    "t": "through knowledge its rooms are filled with rare and beautiful treasures.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "20024005",
+    "b": 20,
+    "c": 24,
+    "v": 5,
+    "t": "The wise prevail through great power, and those who have knowledge muster their strength.",
+    "h": "Saying 22",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "20024006",
+    "b": 20,
+    "c": 24,
+    "v": 6,
+    "t": "Surely you need guidance to wage war, and victory is won through many advisers.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "20024007",
+    "b": 20,
+    "c": 24,
+    "v": 7,
+    "t": "Wisdom is too high for fools; in the assembly at the gate they must not open their mouths.",
+    "h": "Saying 23",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "20024008",
+    "b": 20,
+    "c": 24,
+    "v": 8,
+    "t": "Whoever plots evil will be known as a schemer.",
+    "h": "Saying 24",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "20024009",
+    "b": 20,
+    "c": 24,
+    "v": 9,
+    "t": "The schemes of folly are sin, and people detest a mocker.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "20024010",
+    "b": 20,
+    "c": 24,
+    "v": 10,
+    "t": "If you falter in a time of trouble, how small is your strength!",
+    "h": "Saying 25",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "20024011",
+    "b": 20,
+    "c": 24,
+    "v": 11,
+    "t": "Rescue those being led away to death; hold back those staggering toward slaughter.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "20024012",
+    "b": 20,
+    "c": 24,
+    "v": 12,
+    "t": "If you say, “But we knew nothing about this,” does not he who weighs the heart perceive it? Does not he who guards your life know it? Will he not repay everyone according to what they have done?",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "20024013",
+    "b": 20,
+    "c": 24,
+    "v": 13,
+    "t": "Eat honey, my son, for it is good; honey from the comb is sweet to your taste.",
+    "h": "Saying 26",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "20024014",
+    "b": 20,
+    "c": 24,
+    "v": 14,
+    "t": "Know also that wisdom is like honey for you: If you find it, there is a future hope for you, and your hope will not be cut off.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "20024015",
+    "b": 20,
+    "c": 24,
+    "v": 15,
+    "t": "Do not lurk like a thief near the house of the righteous, do not plunder their dwelling place;",
+    "h": "Saying 27",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "20024016",
+    "b": 20,
+    "c": 24,
+    "v": 16,
+    "t": "for though the righteous fall seven times, they rise again, but the wicked stumble when calamity strikes.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "20024017",
+    "b": 20,
+    "c": 24,
+    "v": 17,
+    "t": "Do not gloat when your enemy falls; when they stumble, do not let your heart rejoice,",
+    "h": "Saying 28",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "20024018",
+    "b": 20,
+    "c": 24,
+    "v": 18,
+    "t": "or the LORD will see and disapprove and turn his wrath away from them.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "20024019",
+    "b": 20,
+    "c": 24,
+    "v": 19,
+    "t": "Do not fret because of evildoers or be envious of the wicked,",
+    "h": "Saying 29",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "20024020",
+    "b": 20,
+    "c": 24,
+    "v": 20,
+    "t": "for the evildoer has no future hope, and the lamp of the wicked will be snuffed out.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "20024021",
+    "b": 20,
+    "c": 24,
+    "v": 21,
+    "t": "Fear the LORD and the king, my son, and do not join with rebellious officials,",
+    "h": "Saying 30",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "20024022",
+    "b": 20,
+    "c": 24,
+    "v": 22,
+    "t": "for those two will send sudden destruction on them, and who knows what calamities they can bring?",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "20024023",
+    "b": 20,
+    "c": 24,
+    "v": 23,
+    "t": "These also are sayings of the wise: To show partiality in judging is not good:",
+    "h": "Further Sayings of the Wise",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "20024024",
+    "b": 20,
+    "c": 24,
+    "v": 24,
+    "t": "Whoever says to the guilty, “You are innocent,” will be cursed by peoples and denounced by nations.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "20024025",
+    "b": 20,
+    "c": 24,
+    "v": 25,
+    "t": "But it will go well with those who convict the guilty, and rich blessing will come on them.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "20024026",
+    "b": 20,
+    "c": 24,
+    "v": 26,
+    "t": "An honest answer is like a kiss on the lips.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "20024027",
+    "b": 20,
+    "c": 24,
+    "v": 27,
+    "t": "Put your outdoor work in order and get your fields ready; after that, build your house.",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "20024028",
+    "b": 20,
+    "c": 24,
+    "v": 28,
+    "t": "Do not testify against your neighbor without cause— would you use your lips to mislead?",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "20024029",
+    "b": 20,
+    "c": 24,
+    "v": 29,
+    "t": "Do not say, “I’ll do to them as they have done to me; I’ll pay them back for what they did.”",
+    "h": "",
+    "o": 29,
+    "l": "29"
+  },
+  {
+    "id": "20024030",
+    "b": 20,
+    "c": 24,
+    "v": 30,
+    "t": "I went past the field of a sluggard, past the vineyard of someone who has no sense;",
+    "h": "",
+    "o": 30,
+    "l": "30"
+  },
+  {
+    "id": "20024031",
+    "b": 20,
+    "c": 24,
+    "v": 31,
+    "t": "thorns had come up everywhere, the ground was covered with weeds, and the stone wall was in ruins.",
+    "h": "",
+    "o": 31,
+    "l": "31"
+  },
+  {
+    "id": "20024032",
+    "b": 20,
+    "c": 24,
+    "v": 32,
+    "t": "I applied my heart to what I observed and learned a lesson from what I saw:",
+    "h": "",
+    "o": 32,
+    "l": "32"
+  },
+  {
+    "id": "20024033",
+    "b": 20,
+    "c": 24,
+    "v": 33,
+    "t": "A little sleep, a little slumber, a little folding of the hands to rest—",
+    "h": "",
+    "o": 33,
+    "l": "33"
+  },
+  {
+    "id": "20024034",
+    "b": 20,
+    "c": 24,
+    "v": 34,
+    "t": "and poverty will come on you like a thief and scarcity like an armed man.",
+    "h": "",
+    "o": 34,
+    "l": "34"
+  },
+  {
+    "id": "20025001",
+    "b": 20,
+    "c": 25,
+    "v": 1,
+    "t": "These are more proverbs of Solomon, compiled by the men of Hezekiah king of Judah:",
+    "h": "More Proverbs of Solomon",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "20025002",
+    "b": 20,
+    "c": 25,
+    "v": 2,
+    "t": "It is the glory of God to conceal a matter; to search out a matter is the glory of kings.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "20025003",
+    "b": 20,
+    "c": 25,
+    "v": 3,
+    "t": "As the heavens are high and the earth is deep, so the hearts of kings are unsearchable.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "20025004",
+    "b": 20,
+    "c": 25,
+    "v": 4,
+    "t": "Remove the dross from the silver, and a silversmith can produce a vessel;",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "20025005",
+    "b": 20,
+    "c": 25,
+    "v": 5,
+    "t": "remove wicked officials from the king’s presence, and his throne will be established through righteousness.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "20025006",
+    "b": 20,
+    "c": 25,
+    "v": 6,
+    "t": "Do not exalt yourself in the king’s presence, and do not claim a place among his great men;",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "20025007",
+    "b": 20,
+    "c": 25,
+    "v": 7,
+    "t": "it is better for him to say to you, “Come up here,” than for him to humiliate you before his nobles. What you have seen with your eyes",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "20025008",
+    "b": 20,
+    "c": 25,
+    "v": 8,
+    "t": "do not bring hastily to court, for what will you do in the end if your neighbor puts you to shame?",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "20025009",
+    "b": 20,
+    "c": 25,
+    "v": 9,
+    "t": "If you take your neighbor to court, do not betray another’s confidence,",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "20025010",
+    "b": 20,
+    "c": 25,
+    "v": 10,
+    "t": "or the one who hears it may shame you and the charge against you will stand.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "20025011",
+    "b": 20,
+    "c": 25,
+    "v": 11,
+    "t": "Like apples of gold in settings of silver is a ruling rightly given.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "20025012",
+    "b": 20,
+    "c": 25,
+    "v": 12,
+    "t": "Like an earring of gold or an ornament of fine gold is the rebuke of a wise judge to a listening ear.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "20025013",
+    "b": 20,
+    "c": 25,
+    "v": 13,
+    "t": "Like a snow-cooled drink at harvest time is a trustworthy messenger to the one who sends him; he refreshes the spirit of his master.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "20025014",
+    "b": 20,
+    "c": 25,
+    "v": 14,
+    "t": "Like clouds and wind without rain is one who boasts of gifts never given.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "20025015",
+    "b": 20,
+    "c": 25,
+    "v": 15,
+    "t": "Through patience a ruler can be persuaded, and a gentle tongue can break a bone.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "20025016",
+    "b": 20,
+    "c": 25,
+    "v": 16,
+    "t": "If you find honey, eat just enough— too much of it, and you will vomit.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "20025017",
+    "b": 20,
+    "c": 25,
+    "v": 17,
+    "t": "Seldom set foot in your neighbor’s house— too much of you, and they will hate you.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "20025018",
+    "b": 20,
+    "c": 25,
+    "v": 18,
+    "t": "Like a club or a sword or a sharp arrow is one who gives false testimony against a neighbor.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "20025019",
+    "b": 20,
+    "c": 25,
+    "v": 19,
+    "t": "Like a broken tooth or a lame foot is reliance on the unfaithful in a time of trouble.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "20025020",
+    "b": 20,
+    "c": 25,
+    "v": 20,
+    "t": "Like one who takes away a garment on a cold day, or like vinegar poured on a wound, is one who sings songs to a heavy heart.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "20025021",
+    "b": 20,
+    "c": 25,
+    "v": 21,
+    "t": "If your enemy is hungry, give him food to eat; if he is thirsty, give him water to drink.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "20025022",
+    "b": 20,
+    "c": 25,
+    "v": 22,
+    "t": "In doing this, you will heap burning coals on his head, and the LORD will reward you.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "20025023",
+    "b": 20,
+    "c": 25,
+    "v": 23,
+    "t": "Like a north wind that brings unexpected rain is a sly tongue—which provokes a horrified look.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "20025024",
+    "b": 20,
+    "c": 25,
+    "v": 24,
+    "t": "Better to live on a corner of the roof than share a house with a quarrelsome wife.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "20025025",
+    "b": 20,
+    "c": 25,
+    "v": 25,
+    "t": "Like cold water to a weary soul is good news from a distant land.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "20025026",
+    "b": 20,
+    "c": 25,
+    "v": 26,
+    "t": "Like a muddied spring or a polluted well are the righteous who give way to the wicked.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "20025027",
+    "b": 20,
+    "c": 25,
+    "v": 27,
+    "t": "It is not good to eat too much honey, nor is it honorable to search out matters that are too deep.",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "20025028",
+    "b": 20,
+    "c": 25,
+    "v": 28,
+    "t": "Like a city whose walls are broken through is a person who lacks self-control.",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "20026001",
+    "b": 20,
+    "c": 26,
+    "v": 1,
+    "t": "Like snow in summer or rain in harvest, honor is not fitting for a fool.",
+    "h": "",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "20026002",
+    "b": 20,
+    "c": 26,
+    "v": 2,
+    "t": "Like a fluttering sparrow or a darting swallow, an undeserved curse does not come to rest.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "20026003",
+    "b": 20,
+    "c": 26,
+    "v": 3,
+    "t": "A whip for the horse, a bridle for the donkey, and a rod for the backs of fools!",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "20026004",
+    "b": 20,
+    "c": 26,
+    "v": 4,
+    "t": "Do not answer a fool according to his folly, or you yourself will be just like him.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "20026005",
+    "b": 20,
+    "c": 26,
+    "v": 5,
+    "t": "Answer a fool according to his folly, or he will be wise in his own eyes.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "20026006",
+    "b": 20,
+    "c": 26,
+    "v": 6,
+    "t": "Sending a message by the hands of a fool is like cutting off one’s feet or drinking poison.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "20026007",
+    "b": 20,
+    "c": 26,
+    "v": 7,
+    "t": "Like the useless legs of one who is lame is a proverb in the mouth of a fool.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "20026008",
+    "b": 20,
+    "c": 26,
+    "v": 8,
+    "t": "Like tying a stone in a sling is the giving of honor to a fool.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "20026009",
+    "b": 20,
+    "c": 26,
+    "v": 9,
+    "t": "Like a thornbush in a drunkard’s hand is a proverb in the mouth of a fool.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "20026010",
+    "b": 20,
+    "c": 26,
+    "v": 10,
+    "t": "Like an archer who wounds at random is one who hires a fool or any passer-by.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "20026011",
+    "b": 20,
+    "c": 26,
+    "v": 11,
+    "t": "As a dog returns to its vomit, so fools repeat their folly.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "20026012",
+    "b": 20,
+    "c": 26,
+    "v": 12,
+    "t": "Do you see a person wise in their own eyes? There is more hope for a fool than for them.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "20026013",
+    "b": 20,
+    "c": 26,
+    "v": 13,
+    "t": "A sluggard says, “There’s a lion in the road, a fierce lion roaming the streets!”",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "20026014",
+    "b": 20,
+    "c": 26,
+    "v": 14,
+    "t": "As a door turns on its hinges, so a sluggard turns on his bed.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "20026015",
+    "b": 20,
+    "c": 26,
+    "v": 15,
+    "t": "A sluggard buries his hand in the dish; he is too lazy to bring it back to his mouth.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "20026016",
+    "b": 20,
+    "c": 26,
+    "v": 16,
+    "t": "A sluggard is wiser in his own eyes than seven people who answer discreetly.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "20026017",
+    "b": 20,
+    "c": 26,
+    "v": 17,
+    "t": "Like one who grabs a stray dog by the ears is someone who rushes into a quarrel not their own.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "20026018",
+    "b": 20,
+    "c": 26,
+    "v": 18,
+    "t": "Like a maniac shooting flaming arrows of death",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "20026019",
+    "b": 20,
+    "c": 26,
+    "v": 19,
+    "t": "is one who deceives their neighbor and says, “I was only joking!”",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "20026020",
+    "b": 20,
+    "c": 26,
+    "v": 20,
+    "t": "Without wood a fire goes out; without a gossip a quarrel dies down.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "20026021",
+    "b": 20,
+    "c": 26,
+    "v": 21,
+    "t": "As charcoal to embers and as wood to fire, so is a quarrelsome person for kindling strife.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "20026022",
+    "b": 20,
+    "c": 26,
+    "v": 22,
+    "t": "The words of a gossip are like choice morsels; they go down to the inmost parts.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "20026023",
+    "b": 20,
+    "c": 26,
+    "v": 23,
+    "t": "Like a coating of silver dross on earthenware are fervent lips with an evil heart.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "20026024",
+    "b": 20,
+    "c": 26,
+    "v": 24,
+    "t": "Enemies disguise themselves with their lips, but in their hearts they harbor deceit.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "20026025",
+    "b": 20,
+    "c": 26,
+    "v": 25,
+    "t": "Though their speech is charming, do not believe them, for seven abominations fill their hearts.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "20026026",
+    "b": 20,
+    "c": 26,
+    "v": 26,
+    "t": "Their malice may be concealed by deception, but their wickedness will be exposed in the assembly.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "20026027",
+    "b": 20,
+    "c": 26,
+    "v": 27,
+    "t": "Whoever digs a pit will fall into it; if someone rolls a stone, it will roll back on them.",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "20027001",
+    "b": 20,
+    "c": 27,
+    "v": 1,
+    "t": "Do not boast about tomorrow, for you do not know what a day may bring.",
+    "h": "",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "20027002",
+    "b": 20,
+    "c": 27,
+    "v": 2,
+    "t": "Let someone else praise you, and not your own mouth; an outsider, and not your own lips.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "20027003",
+    "b": 20,
+    "c": 27,
+    "v": 3,
+    "t": "Stone is heavy and sand a burden, but a fool’s provocation is heavier than both.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "20027004",
+    "b": 20,
+    "c": 27,
+    "v": 4,
+    "t": "Anger is cruel and fury overwhelming, but who can stand before jealousy?",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "20027005",
+    "b": 20,
+    "c": 27,
+    "v": 5,
+    "t": "Better is open rebuke than hidden love.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "20027006",
+    "b": 20,
+    "c": 27,
+    "v": 6,
+    "t": "Wounds from a friend can be trusted, but an enemy multiplies kisses.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "20027007",
+    "b": 20,
+    "c": 27,
+    "v": 7,
+    "t": "One who is full loathes honey from the comb, but to the hungry even what is bitter tastes sweet.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "20027008",
+    "b": 20,
+    "c": 27,
+    "v": 8,
+    "t": "Like a bird that flees its nest is anyone who flees from home.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "20027009",
+    "b": 20,
+    "c": 27,
+    "v": 9,
+    "t": "Perfume and incense bring joy to the heart, and the pleasantness of a friend springs from their heartfelt advice.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "20027010",
+    "b": 20,
+    "c": 27,
+    "v": 10,
+    "t": "Do not forsake your friend or a friend of your family, and do not go to your relative’s house when disaster strikes you— better a neighbor nearby than a relative far away.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "20027011",
+    "b": 20,
+    "c": 27,
+    "v": 11,
+    "t": "Be wise, my son, and bring joy to my heart; then I can answer anyone who treats me with contempt.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "20027012",
+    "b": 20,
+    "c": 27,
+    "v": 12,
+    "t": "The prudent see danger and take refuge, but the simple keep going and pay the penalty.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "20027013",
+    "b": 20,
+    "c": 27,
+    "v": 13,
+    "t": "Take the garment of one who puts up security for a stranger; hold it in pledge if it is done for an outsider.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "20027014",
+    "b": 20,
+    "c": 27,
+    "v": 14,
+    "t": "If anyone loudly blesses their neighbor early in the morning, it will be taken as a curse.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "20027015",
+    "b": 20,
+    "c": 27,
+    "v": 15,
+    "t": "A quarrelsome wife is like the dripping of a leaky roof in a rainstorm;",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "20027016",
+    "b": 20,
+    "c": 27,
+    "v": 16,
+    "t": "restraining her is like restraining the wind or grasping oil with the hand.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "20027017",
+    "b": 20,
+    "c": 27,
+    "v": 17,
+    "t": "As iron sharpens iron, so one person sharpens another.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "20027018",
+    "b": 20,
+    "c": 27,
+    "v": 18,
+    "t": "The one who guards a fig tree will eat its fruit, and whoever protects their master will be honored.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "20027019",
+    "b": 20,
+    "c": 27,
+    "v": 19,
+    "t": "As water reflects the face, so one’s life reflects the heart.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "20027020",
+    "b": 20,
+    "c": 27,
+    "v": 20,
+    "t": "Death and Destruction are never satisfied, and neither are human eyes.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "20027021",
+    "b": 20,
+    "c": 27,
+    "v": 21,
+    "t": "The crucible for silver and the furnace for gold, but people are tested by their praise.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "20027022",
+    "b": 20,
+    "c": 27,
+    "v": 22,
+    "t": "Though you grind a fool in a mortar, grinding them like grain with a pestle, you will not remove their folly from them.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "20027023",
+    "b": 20,
+    "c": 27,
+    "v": 23,
+    "t": "Be sure you know the condition of your flocks, give careful attention to your herds;",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "20027024",
+    "b": 20,
+    "c": 27,
+    "v": 24,
+    "t": "for riches do not endure forever, and a crown is not secure for all generations.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "20027025",
+    "b": 20,
+    "c": 27,
+    "v": 25,
+    "t": "When the hay is removed and new growth appears and the grass from the hills is gathered in,",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "20027026",
+    "b": 20,
+    "c": 27,
+    "v": 26,
+    "t": "the lambs will provide you with clothing, and the goats with the price of a field.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "20028001",
+    "b": 20,
+    "c": 28,
+    "v": 1,
+    "t": "The wicked flee though no one pursues, but the righteous are as bold as a lion.",
+    "h": "",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "20028002",
+    "b": 20,
+    "c": 28,
+    "v": 2,
+    "t": "When a country is rebellious, it has many rulers, but a ruler with discernment and knowledge maintains order.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "20028003",
+    "b": 20,
+    "c": 28,
+    "v": 3,
+    "t": "A ruler who oppresses the poor is like a driving rain that leaves no crops.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "20028004",
+    "b": 20,
+    "c": 28,
+    "v": 4,
+    "t": "Those who forsake instruction praise the wicked, but those who heed it resist them.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "20028005",
+    "b": 20,
+    "c": 28,
+    "v": 5,
+    "t": "Evildoers do not understand what is right, but those who seek the LORD understand it fully.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "20028006",
+    "b": 20,
+    "c": 28,
+    "v": 6,
+    "t": "Better the poor whose walk is blameless than the rich whose ways are perverse.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "20028007",
+    "b": 20,
+    "c": 28,
+    "v": 7,
+    "t": "A discerning son heeds instruction, but a companion of gluttons disgraces his father.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "20028008",
+    "b": 20,
+    "c": 28,
+    "v": 8,
+    "t": "Whoever increases wealth by taking interest or profit from the poor amasses it for another, who will be kind to the poor.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "20028009",
+    "b": 20,
+    "c": 28,
+    "v": 9,
+    "t": "If anyone turns a deaf ear to my instruction, even their prayers are detestable.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "20028010",
+    "b": 20,
+    "c": 28,
+    "v": 10,
+    "t": "Whoever leads the upright along an evil path will fall into their own trap, but the blameless will receive a good inheritance.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "20028011",
+    "b": 20,
+    "c": 28,
+    "v": 11,
+    "t": "The rich are wise in their own eyes; one who is poor and discerning sees how deluded they are.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "20028012",
+    "b": 20,
+    "c": 28,
+    "v": 12,
+    "t": "When the righteous triumph, there is great elation; but when the wicked rise to power, people go into hiding.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "20028013",
+    "b": 20,
+    "c": 28,
+    "v": 13,
+    "t": "Whoever conceals their sins does not prosper, but the one who confesses and renounces them finds mercy.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "20028014",
+    "b": 20,
+    "c": 28,
+    "v": 14,
+    "t": "Blessed is the one who always trembles before God, but whoever hardens their heart falls into trouble.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "20028015",
+    "b": 20,
+    "c": 28,
+    "v": 15,
+    "t": "Like a roaring lion or a charging bear is a wicked ruler over a helpless people.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "20028016",
+    "b": 20,
+    "c": 28,
+    "v": 16,
+    "t": "A tyrannical ruler practices extortion, but one who hates ill-gotten gain will enjoy a long reign.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "20028017",
+    "b": 20,
+    "c": 28,
+    "v": 17,
+    "t": "Anyone tormented by the guilt of murder will seek refuge in the grave; let no one hold them back.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "20028018",
+    "b": 20,
+    "c": 28,
+    "v": 18,
+    "t": "The one whose walk is blameless is kept safe, but the one whose ways are perverse will fall into the pit.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "20028019",
+    "b": 20,
+    "c": 28,
+    "v": 19,
+    "t": "Those who work their land will have abundant food, but those who chase fantasies will have their fill of poverty.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "20028020",
+    "b": 20,
+    "c": 28,
+    "v": 20,
+    "t": "A faithful person will be richly blessed, but one eager to get rich will not go unpunished.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "20028021",
+    "b": 20,
+    "c": 28,
+    "v": 21,
+    "t": "To show partiality is not good— yet a person will do wrong for a piece of bread.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "20028022",
+    "b": 20,
+    "c": 28,
+    "v": 22,
+    "t": "The stingy are eager to get rich and are unaware that poverty awaits them.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "20028023",
+    "b": 20,
+    "c": 28,
+    "v": 23,
+    "t": "Whoever rebukes a person will in the end gain favor rather than one who has a flattering tongue.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "20028024",
+    "b": 20,
+    "c": 28,
+    "v": 24,
+    "t": "Whoever robs their father or mother and says, “It’s not wrong,” is partner to one who destroys.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "20028025",
+    "b": 20,
+    "c": 28,
+    "v": 25,
+    "t": "The greedy stir up conflict, but those who trust in the LORD will prosper.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "20028026",
+    "b": 20,
+    "c": 28,
+    "v": 26,
+    "t": "Those who trust in themselves are fools, but those who walk in wisdom are kept safe.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "20028027",
+    "b": 20,
+    "c": 28,
+    "v": 27,
+    "t": "Those who give to the poor will lack nothing, but those who close their eyes to them receive many curses.",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "20029001",
+    "b": 20,
+    "c": 29,
+    "v": 1,
+    "t": "Whoever remains stiff-necked after many rebukes will suddenly be destroyed—without remedy.",
+    "h": "",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "20029002",
+    "b": 20,
+    "c": 29,
+    "v": 2,
+    "t": "When the righteous thrive, the people rejoice; when the wicked rule, the people groan.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "20029003",
+    "b": 20,
+    "c": 29,
+    "v": 3,
+    "t": "A man who loves wisdom brings joy to his father, but a companion of prostitutes squanders his wealth.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "20029004",
+    "b": 20,
+    "c": 29,
+    "v": 4,
+    "t": "By justice a king gives a country stability, but those who are greedy for bribes tear it down.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "20029005",
+    "b": 20,
+    "c": 29,
+    "v": 5,
+    "t": "Those who flatter their neighbors are spreading nets for their feet.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "20029006",
+    "b": 20,
+    "c": 29,
+    "v": 6,
+    "t": "Evildoers are snared by their own sin, but the righteous shout for joy and are glad.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "20029007",
+    "b": 20,
+    "c": 29,
+    "v": 7,
+    "t": "The righteous care about justice for the poor, but the wicked have no such concern.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "20029008",
+    "b": 20,
+    "c": 29,
+    "v": 8,
+    "t": "Mockers stir up a city, but the wise turn away anger.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "20029009",
+    "b": 20,
+    "c": 29,
+    "v": 9,
+    "t": "If a wise person goes to court with a fool, the fool rages and scoffs, and there is no peace.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "20029010",
+    "b": 20,
+    "c": 29,
+    "v": 10,
+    "t": "The bloodthirsty hate a person of integrity and seek to kill the upright.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "20029011",
+    "b": 20,
+    "c": 29,
+    "v": 11,
+    "t": "Fools give full vent to their rage, but the wise bring calm in the end.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "20029012",
+    "b": 20,
+    "c": 29,
+    "v": 12,
+    "t": "If a ruler listens to lies, all his officials become wicked.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "20029013",
+    "b": 20,
+    "c": 29,
+    "v": 13,
+    "t": "The poor and the oppressor have this in common: The LORD gives sight to the eyes of both.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "20029014",
+    "b": 20,
+    "c": 29,
+    "v": 14,
+    "t": "If a king judges the poor with fairness, his throne will be established forever.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "20029015",
+    "b": 20,
+    "c": 29,
+    "v": 15,
+    "t": "A rod and a reprimand impart wisdom, but a child left undisciplined disgraces its mother.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "20029016",
+    "b": 20,
+    "c": 29,
+    "v": 16,
+    "t": "When the wicked thrive, so does sin, but the righteous will see their downfall.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "20029017",
+    "b": 20,
+    "c": 29,
+    "v": 17,
+    "t": "Discipline your children, and they will give you peace; they will bring you the delights you desire.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "20029018",
+    "b": 20,
+    "c": 29,
+    "v": 18,
+    "t": "Where there is no revelation, people cast off restraint; but blessed is the one who heeds wisdom’s instruction.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "20029019",
+    "b": 20,
+    "c": 29,
+    "v": 19,
+    "t": "Servants cannot be corrected by mere words; though they understand, they will not respond.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "20029020",
+    "b": 20,
+    "c": 29,
+    "v": 20,
+    "t": "Do you see someone who speaks in haste? There is more hope for a fool than for them.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "20029021",
+    "b": 20,
+    "c": 29,
+    "v": 21,
+    "t": "A servant pampered from youth will turn out to be insolent.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "20029022",
+    "b": 20,
+    "c": 29,
+    "v": 22,
+    "t": "An angry person stirs up conflict, and a hot-tempered person commits many sins.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "20029023",
+    "b": 20,
+    "c": 29,
+    "v": 23,
+    "t": "Pride brings a person low, but the lowly in spirit gain honor.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "20029024",
+    "b": 20,
+    "c": 29,
+    "v": 24,
+    "t": "The accomplices of thieves are their own enemies; they are put under oath and dare not testify.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "20029025",
+    "b": 20,
+    "c": 29,
+    "v": 25,
+    "t": "Fear of man will prove to be a snare, but whoever trusts in the LORD is kept safe.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "20029026",
+    "b": 20,
+    "c": 29,
+    "v": 26,
+    "t": "Many seek an audience with a ruler, but it is from the LORD that one gets justice.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "20029027",
+    "b": 20,
+    "c": 29,
+    "v": 27,
+    "t": "The righteous detest the dishonest; the wicked detest the upright.",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "20030001",
+    "b": 20,
+    "c": 30,
+    "v": 1,
+    "t": "The sayings of Agur son of Jakeh—an inspired utterance. This man’s utterance to Ithiel: “I am weary, God, but I can prevail.",
+    "h": "Sayings of Agur",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "20030002",
+    "b": 20,
+    "c": 30,
+    "v": 2,
+    "t": "Surely I am only a brute, not a man; I do not have human understanding.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "20030003",
+    "b": 20,
+    "c": 30,
+    "v": 3,
+    "t": "I have not learned wisdom, nor have I attained to the knowledge of the Holy One.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "20030004",
+    "b": 20,
+    "c": 30,
+    "v": 4,
+    "t": "Who has gone up to heaven and come down? Whose hands have gathered up the wind? Who has wrapped up the waters in a cloak? Who has established all the ends of the earth? What is his name, and what is the name of his son? Surely you know!",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "20030005",
+    "b": 20,
+    "c": 30,
+    "v": 5,
+    "t": "“Every word of God is flawless; he is a shield to those who take refuge in him.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "20030006",
+    "b": 20,
+    "c": 30,
+    "v": 6,
+    "t": "Do not add to his words, or he will rebuke you and prove you a liar.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "20030007",
+    "b": 20,
+    "c": 30,
+    "v": 7,
+    "t": "“Two things I ask of you, LORD ; do not refuse me before I die:",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "20030008",
+    "b": 20,
+    "c": 30,
+    "v": 8,
+    "t": "Keep falsehood and lies far from me; give me neither poverty nor riches, but give me only my daily bread.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "20030009",
+    "b": 20,
+    "c": 30,
+    "v": 9,
+    "t": "Otherwise, I may have too much and disown you and say, ‘Who is the LORD ?’ Or I may become poor and steal, and so dishonor the name of my God.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "20030010",
+    "b": 20,
+    "c": 30,
+    "v": 10,
+    "t": "“Do not slander a servant to their master, or they will curse you, and you will pay for it.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "20030011",
+    "b": 20,
+    "c": 30,
+    "v": 11,
+    "t": "“There are those who curse their fathers and do not bless their mothers;",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "20030012",
+    "b": 20,
+    "c": 30,
+    "v": 12,
+    "t": "those who are pure in their own eyes and yet are not cleansed of their filth;",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "20030013",
+    "b": 20,
+    "c": 30,
+    "v": 13,
+    "t": "those whose eyes are ever so haughty, whose glances are so disdainful;",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "20030014",
+    "b": 20,
+    "c": 30,
+    "v": 14,
+    "t": "those whose teeth are swords and whose jaws are set with knives to devour the poor from the earth and the needy from among mankind.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "20030015",
+    "b": 20,
+    "c": 30,
+    "v": 15,
+    "t": "“The leech has two daughters. ‘Give! Give!’ they cry. “There are three things that are never satisfied, four that never say, ‘Enough!’:",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "20030016",
+    "b": 20,
+    "c": 30,
+    "v": 16,
+    "t": "the grave, the barren womb, land, which is never satisfied with water, and fire, which never says, ‘Enough!’",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "20030017",
+    "b": 20,
+    "c": 30,
+    "v": 17,
+    "t": "“The eye that mocks a father, that scorns an aged mother, will be pecked out by the ravens of the valley, will be eaten by the vultures.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "20030018",
+    "b": 20,
+    "c": 30,
+    "v": 18,
+    "t": "“There are three things that are too amazing for me, four that I do not understand:",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "20030019",
+    "b": 20,
+    "c": 30,
+    "v": 19,
+    "t": "the way of an eagle in the sky, the way of a snake on a rock, the way of a ship on the high seas, and the way of a man with a young woman.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "20030020",
+    "b": 20,
+    "c": 30,
+    "v": 20,
+    "t": "“This is the way of an adulterous woman: She eats and wipes her mouth and says, ‘I’ve done nothing wrong.’",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "20030021",
+    "b": 20,
+    "c": 30,
+    "v": 21,
+    "t": "“Under three things the earth trembles, under four it cannot bear up:",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "20030022",
+    "b": 20,
+    "c": 30,
+    "v": 22,
+    "t": "a servant who becomes king, a godless fool who gets plenty to eat,",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "20030023",
+    "b": 20,
+    "c": 30,
+    "v": 23,
+    "t": "a contemptible woman who gets married, and a servant who displaces her mistress.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "20030024",
+    "b": 20,
+    "c": 30,
+    "v": 24,
+    "t": "“Four things on earth are small, yet they are extremely wise:",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "20030025",
+    "b": 20,
+    "c": 30,
+    "v": 25,
+    "t": "Ants are creatures of little strength, yet they store up their food in the summer;",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "20030026",
+    "b": 20,
+    "c": 30,
+    "v": 26,
+    "t": "hyraxes are creatures of little power, yet they make their home in the crags;",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "20030027",
+    "b": 20,
+    "c": 30,
+    "v": 27,
+    "t": "locusts have no king, yet they advance together in ranks;",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "20030028",
+    "b": 20,
+    "c": 30,
+    "v": 28,
+    "t": "a lizard can be caught with the hand, yet it is found in kings’ palaces.",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "20030029",
+    "b": 20,
+    "c": 30,
+    "v": 29,
+    "t": "“There are three things that are stately in their stride, four that move with stately bearing:",
+    "h": "",
+    "o": 29,
+    "l": "29"
+  },
+  {
+    "id": "20030030",
+    "b": 20,
+    "c": 30,
+    "v": 30,
+    "t": "a lion, mighty among beasts, who retreats before nothing;",
+    "h": "",
+    "o": 30,
+    "l": "30"
+  },
+  {
+    "id": "20030031",
+    "b": 20,
+    "c": 30,
+    "v": 31,
+    "t": "a strutting rooster, a he-goat, and a king secure against revolt.",
+    "h": "",
+    "o": 31,
+    "l": "31"
+  },
+  {
+    "id": "20030032",
+    "b": 20,
+    "c": 30,
+    "v": 32,
+    "t": "“If you play the fool and exalt yourself, or if you plan evil, clap your hand over your mouth!",
+    "h": "",
+    "o": 32,
+    "l": "32"
+  },
+  {
+    "id": "20030033",
+    "b": 20,
+    "c": 30,
+    "v": 33,
+    "t": "For as churning cream produces butter, and as twisting the nose produces blood, so stirring up anger produces strife.”",
+    "h": "",
+    "o": 33,
+    "l": "33"
+  },
+  {
+    "id": "20031001",
+    "b": 20,
+    "c": 31,
+    "v": 1,
+    "t": "The sayings of King Lemuel—an inspired utterance his mother taught him.",
+    "h": "Sayings of King Lemuel",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "20031002",
+    "b": 20,
+    "c": 31,
+    "v": 2,
+    "t": "Listen, my son! Listen, son of my womb! Listen, my son, the answer to my prayers!",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "20031003",
+    "b": 20,
+    "c": 31,
+    "v": 3,
+    "t": "Do not spend your strength on women, your vigor on those who ruin kings.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "20031004",
+    "b": 20,
+    "c": 31,
+    "v": 4,
+    "t": "It is not for kings, Lemuel— it is not for kings to drink wine, not for rulers to crave beer,",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "20031005",
+    "b": 20,
+    "c": 31,
+    "v": 5,
+    "t": "lest they drink and forget what has been decreed, and deprive all the oppressed of their rights.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "20031006",
+    "b": 20,
+    "c": 31,
+    "v": 6,
+    "t": "Let beer be for those who are perishing, wine for those who are in anguish!",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "20031007",
+    "b": 20,
+    "c": 31,
+    "v": 7,
+    "t": "Let them drink and forget their poverty and remember their misery no more.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "20031008",
+    "b": 20,
+    "c": 31,
+    "v": 8,
+    "t": "Speak up for those who cannot speak for themselves, for the rights of all who are destitute.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "20031009",
+    "b": 20,
+    "c": 31,
+    "v": 9,
+    "t": "Speak up and judge fairly; defend the rights of the poor and needy.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "20031010",
+    "b": 20,
+    "c": 31,
+    "v": 10,
+    "t": "A wife of noble character who can find? She is worth far more than rubies.",
+    "h": "Epilogue: The Wife of Noble Character",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "20031011",
+    "b": 20,
+    "c": 31,
+    "v": 11,
+    "t": "Her husband has full confidence in her and lacks nothing of value.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "20031012",
+    "b": 20,
+    "c": 31,
+    "v": 12,
+    "t": "She brings him good, not harm, all the days of her life.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "20031013",
+    "b": 20,
+    "c": 31,
+    "v": 13,
+    "t": "She selects wool and flax and works with eager hands.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "20031014",
+    "b": 20,
+    "c": 31,
+    "v": 14,
+    "t": "She is like the merchant ships, bringing her food from afar.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "20031015",
+    "b": 20,
+    "c": 31,
+    "v": 15,
+    "t": "She gets up while it is still night; she provides food for her family and portions for her female servants.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "20031016",
+    "b": 20,
+    "c": 31,
+    "v": 16,
+    "t": "She considers a field and buys it; out of her earnings she plants a vineyard.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "20031017",
+    "b": 20,
+    "c": 31,
+    "v": 17,
+    "t": "She sets about her work vigorously; her arms are strong for her tasks.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "20031018",
+    "b": 20,
+    "c": 31,
+    "v": 18,
+    "t": "She sees that her trading is profitable, and her lamp does not go out at night.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "20031019",
+    "b": 20,
+    "c": 31,
+    "v": 19,
+    "t": "In her hand she holds the distaff and grasps the spindle with her fingers.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "20031020",
+    "b": 20,
+    "c": 31,
+    "v": 20,
+    "t": "She opens her arms to the poor and extends her hands to the needy.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "20031021",
+    "b": 20,
+    "c": 31,
+    "v": 21,
+    "t": "When it snows, she has no fear for her household; for all of them are clothed in scarlet.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "20031022",
+    "b": 20,
+    "c": 31,
+    "v": 22,
+    "t": "She makes coverings for her bed; she is clothed in fine linen and purple.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "20031023",
+    "b": 20,
+    "c": 31,
+    "v": 23,
+    "t": "Her husband is respected at the city gate, where he takes his seat among the elders of the land.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "20031024",
+    "b": 20,
+    "c": 31,
+    "v": 24,
+    "t": "She makes linen garments and sells them, and supplies the merchants with sashes.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "20031025",
+    "b": 20,
+    "c": 31,
+    "v": 25,
+    "t": "She is clothed with strength and dignity; she can laugh at the days to come.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "20031026",
+    "b": 20,
+    "c": 31,
+    "v": 26,
+    "t": "She speaks with wisdom, and faithful instruction is on her tongue.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "20031027",
+    "b": 20,
+    "c": 31,
+    "v": 27,
+    "t": "She watches over the affairs of her household and does not eat the bread of idleness.",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "20031028",
+    "b": 20,
+    "c": 31,
+    "v": 28,
+    "t": "Her children arise and call her blessed; her husband also, and he praises her:",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "20031029",
+    "b": 20,
+    "c": 31,
+    "v": 29,
+    "t": "“Many women do noble things, but you surpass them all.”",
+    "h": "",
+    "o": 29,
+    "l": "29"
+  },
+  {
+    "id": "20031030",
+    "b": 20,
+    "c": 31,
+    "v": 30,
+    "t": "Charm is deceptive, and beauty is fleeting; but a woman who fears the LORD is to be praised.",
+    "h": "",
+    "o": 30,
+    "l": "30"
+  },
+  {
+    "id": "20031031",
+    "b": 20,
+    "c": 31,
+    "v": 31,
+    "t": "Honor her for all that her hands have done, and let her works bring her praise at the city gate.",
+    "h": "",
+    "o": 31,
+    "l": "31"
+  }
+]

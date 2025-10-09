@@ -1,0 +1,952 @@
+[
+  {
+    "id": "12001001",
+    "b": 12,
+    "c": 1,
+    "v": 1,
+    "t": "Salam dari Paulus, seorang rasul Yesus Kristus. Aku menjadi rasul karena keinginan Allah. Salam juga dari Timotius, saudara seiman kita.",
+    "h": "Salam dari Paulus",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "12001002",
+    "b": 12,
+    "c": 1,
+    "v": 2,
+    "t": "Kepada orang-orang kudus yang tinggal di kota Kolose, saudara-saudari seiman kita yang setia yang adalah milik Kristus. Anugerah dan damai sejahtera untukmu, dari Allah Bapa kita.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "12001003",
+    "b": 12,
+    "c": 1,
+    "v": 3,
+    "t": "Kami selalu bersyukur kepada Allah, Bapa Tuhan kita Yesus Kristus, setiap kali kami mendoakan kalian.",
+    "h": "Doa dan ucapan syukur Paulus",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "12001004",
+    "b": 12,
+    "c": 1,
+    "v": 4,
+    "t": "Kami bersyukur karena kami mendengar kabar tentang imanmu dalam Yesus Kristus dan kasihmu kepada semua orang kudus.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "12001005",
+    "b": 12,
+    "c": 1,
+    "v": 5,
+    "t": "Iman dan kasihmu datang dari pengertian bahwa kamu akan mendapatkan apa yang kamu harapkan. Allah menjaganya bagimu dengan aman di surga. Harapan itu sama seperti yang kamu miliki sejak pertama kali kamu mendengar berita yang benar, yaitu Kabar Baik,",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "12001006",
+    "b": 12,
+    "c": 1,
+    "v": 6,
+    "t": "yang disampaikan kepadamu. Di seluruh dunia, Kabar Baik itu terus membawa berkat dan menyebar. Dan itu yang terjadi di antara kamu sejak pertama kali kamu mendengar dan mengerti kebenaran tentang anugerah Allah.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "12001007",
+    "b": 12,
+    "c": 1,
+    "v": 7,
+    "t": "Kamu mendengar Kabar Baik itu dari Epafras, teman sepelayanan kami yang terkasih. Ia membantu kami sebagai seorang pelayan Kristus yang setia.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "12001008",
+    "b": 12,
+    "c": 1,
+    "v": 8,
+    "t": "Ia juga yang menceritakan kepada kami tentang kasih yang kami peroleh dari Roh.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "12001009",
+    "b": 12,
+    "c": 1,
+    "v": 9,
+    "t": "Karena itu sejak kami mendengarnya, kami terus berdoa untukmu: supaya Allah membuatmu benar-benar yakin akan apa yang dikehendaki-Nya melalui semua hikmat dan pengertian yang diberikan oleh Roh-Nya;",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "12001010",
+    "b": 12,
+    "c": 1,
+    "v": 10,
+    "t": "supaya hidupmu membawa kemuliaan kepada Tuhan dan menyenangkan Dia dalam segala hal; supaya hidupmu akan menghasilkan berbagai macam pekerjaan baik dan kamu terus bertumbuh dalam pengetahuanmu tentang Allah;",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "12001011",
+    "b": 12,
+    "c": 1,
+    "v": 11,
+    "t": "supaya Allah akan menguatkan kamu dengan kebesaran kuasa-Nya sehingga kamu dapat bersabar dan tidak menyerah saat menghadapi kesusahan. Lalu kamu akan bergembira",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "12001012",
+    "b": 12,
+    "c": 1,
+    "v": 12,
+    "t": "dan bersyukurlah kepada Bapa. Ia telah membuatmu dapat mengambil bagian dari apa yang sudah dijanjikan Allah untuk umat-Nya yang kudus, yang hidup dalam terang.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "12001013",
+    "b": 12,
+    "c": 1,
+    "v": 13,
+    "t": "Allah telah membebaskan kita dari kuasa kegelapan dan menuntun kita ke dalam Kerajaan Anak-Nya yang terkasih.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "12001014",
+    "b": 12,
+    "c": 1,
+    "v": 14,
+    "t": "Melalui Anak-Nya kita telah ditebus. Ini berarti bahwa semua dosa kita diampuni.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "12001015",
+    "b": 12,
+    "c": 1,
+    "v": 15,
+    "t": "Tiada orang yang bisa melihat Allah, tetapi Anak adalah benar-benar serupa dengan Allah. Ia memerintah semua yang diciptakan.",
+    "h": "Anak Allah adalah sama dengan Allah",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "12001016",
+    "b": 12,
+    "c": 1,
+    "v": 16,
+    "t": "Melalui kuasa-Nya, segala sesuatu diciptakan, semua yang di surga dan yang di bumi, yang terlihat dan yang tidak terlihat, semua roh yang berkuasa, tuan-tuan, penguasa-penguasa, dan pemerintah-pemerintah. Segala sesuatu diciptakan melalui Dia dan untuk Dia.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "12001017",
+    "b": 12,
+    "c": 1,
+    "v": 17,
+    "t": "Anak sudah ada sebelum segala sesuatu diciptakan, dan segala sesuatu bersatu karena Dia.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "12001018",
+    "b": 12,
+    "c": 1,
+    "v": 18,
+    "t": "Ia adalah kepala dari tubuh, yaitu gereja. Ia adalah awal dari hidup yang akan datang, pertama di antara semua yang akan dibangkitkan dari kematian. Jadi, dalam segala hal Dialah yang paling terutama.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "12001019",
+    "b": 12,
+    "c": 1,
+    "v": 19,
+    "t": "Allah berkenan untuk hidup sepenuh-Nya di dalam Anak-Nya.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "12001020",
+    "b": 12,
+    "c": 1,
+    "v": 20,
+    "t": "Dan melalui Kristus, Allah berkenan untuk membawa kembali segala sesuatu kepada-Nya. Melalui darah kematian anak-Nya di atas salib, Allah berdamai dengan segala sesuatu, yang di bumi dan yang di surga.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "12001021",
+    "b": 12,
+    "c": 1,
+    "v": 21,
+    "t": "Dahulu kalian terpisah dari Allah. Kamu menjadi musuh-musuh-Nya dalam pikiranmu, karena perbuatan jahat yang kamu lakukan.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "12001022",
+    "b": 12,
+    "c": 1,
+    "v": 22,
+    "t": "Namun, sekarang Ia membuat kamu sahabat-Nya. Allah melakukan ini melalui kematian Kristus yang dialami secara jasmani. Allah perbuat ini supaya Ia dapat membawa kamu kepada diri-Nya sebagai persembahan yang kudus dan tanpa cela.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "12001023",
+    "b": 12,
+    "c": 1,
+    "v": 23,
+    "t": "Ini akan terjadi kalau kamu terus percaya pada Kabar Baik yang sudah kamu dengar. Kamu harus tetap kuat dan yakin dalam imanmu. Jangan biarkan apa pun membuatmu menyerah dari harapan yang adalah milikmu ketika kamu mendengar Kabar Baik. Kabar Baik yang sama itu telah diberitakan ke seluruh dunia, dan itulah pekerjaan yang aku, Paulus, telah ditugaskan.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "12001024",
+    "b": 12,
+    "c": 1,
+    "v": 24,
+    "t": "Aku bergembira dalam penderitaanku bagimu. Masih banyak lagi yang harus diderita Kristus. Dan dengan senang hati aku ikut ambil bagian dalam penderitaan ini demi tubuh-Nya, yaitu gereja.",
+    "h": "Pelayanan Paulus untuk gereja",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "12001025",
+    "b": 12,
+    "c": 1,
+    "v": 25,
+    "t": "Aku menjadi pelayan gereja karena Allah memberikan tugas khusus kepadaku. Tugas ini untuk membantumu, yaitu menyampaikan berita Allah kepadamu secara utuh.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "12001026",
+    "b": 12,
+    "c": 1,
+    "v": 26,
+    "t": "Berita ini adalah kebenaran rahasia yang tersembunyi dari generasi ke generasi, tetapi yang sekarang dinyatakan kepada umat Allah yang kudus.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "12001027",
+    "b": 12,
+    "c": 1,
+    "v": 27,
+    "t": "Allah ingin agar umat-Nya tahu betapa kaya dan mulianya rahasia itu, yaitu bahwa Kristus hidup di antara kamu. Ia adalah harapanmu untuk mengambil bagian dalam kemuliaan Allah.",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "12001028",
+    "b": 12,
+    "c": 1,
+    "v": 28,
+    "t": "Jadi, kami terus memberitakan Kristus kepada orang-orang. Kami menggunakan hikmat untuk menasihati dan mengajar setiap orang. Kami berusaha membawa setiap orang kepada Allah sebagai orang-orang yang sudah bertumbuh dewasa secara rohani dalam hubungannya dengan Kristus.",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "12001029",
+    "b": 12,
+    "c": 1,
+    "v": 29,
+    "t": "Untuk tercapainya hal ini, aku bekerja dan berjuang dengan segenap tenaga yang diberikan Kristus yang bekerja di dalam diriku.",
+    "h": "",
+    "o": 29,
+    "l": "29"
+  },
+  {
+    "id": "12002001",
+    "b": 12,
+    "c": 2,
+    "v": 1,
+    "t": "Aku ingin supaya kalian tahu betapa khawatirnya aku padamu dan mereka yang di Laodikia serta lainnya yang belum pernah bertemu denganku.",
+    "h": "",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "12002002",
+    "b": 12,
+    "c": 2,
+    "v": 2,
+    "t": "Aku ingin agar mereka dikuatkan dan bersatu dalam kasih. Aku ingin mereka mempunyai keyakinan penuh sehingga mereka mengerti kebenaran Allah yang sebelumnya dirahasiakan, yaitu Kristus sendiri.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "12002003",
+    "b": 12,
+    "c": 2,
+    "v": 3,
+    "t": "Kristus adalah satu-satunya tempat di mana manusia bisa menemukan semua kekayaan hikmat dan pengetahuan.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "12002004",
+    "b": 12,
+    "c": 2,
+    "v": 4,
+    "t": "Aku katakan ini supaya tiada seorang pun yang bisa menipumu dengan gagasan atau pikiran yang kedengarannya baik, padahal salah.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "12002005",
+    "b": 12,
+    "c": 2,
+    "v": 5,
+    "t": "Meskipun aku jauh darimu, tetapi pikiranku selalu bersamamu. Aku senang melihat betapa teraturnya hidupmu dan keteguhan imanmu dalam Kristus.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "12002006",
+    "b": 12,
+    "c": 2,
+    "v": 6,
+    "t": "Kamu sudah menerima Yesus Kristus sebagai Tuhan, jadi teruslah hidup mengikuti-Nya.",
+    "h": "Teruslah hanya mengikuti Kristus Yesus",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "12002007",
+    "b": 12,
+    "c": 2,
+    "v": 7,
+    "t": "Kamu harus bergantung hanya pada Kristus sebagai sumber kehidupan dan kekuatan. Teruslah bertumbuh kuat dalam pengertianmu tentang iman sesungguhnya yang diajarkan kepadamu. Dan jangan berhenti mengucapkan syukur kepada Allah.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "12002008",
+    "b": 12,
+    "c": 2,
+    "v": 8,
+    "t": "Berhati-hatilah supaya kamu tidak terpengaruh oleh ajaran orang-orang yang isinya kosong dan tujuannya hanya untuk menyesatkan. Ajaran itu hanyalah tradisi manusia dan berasal dari kuasa-kuasa roh jahat yang menguasai hidup orang. Itu bukan dari Kristus.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "12002009",
+    "b": 12,
+    "c": 2,
+    "v": 9,
+    "t": "Aku bilang ini karena Allah sendiri benar-benar hidup di dalam Kristus secara lengkap, bahkan dalam tubuh manusia-Nya.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "12002010",
+    "b": 12,
+    "c": 2,
+    "v": 10,
+    "t": "Dan karena kamu adalah milik Kristus, kamu juga menjadi lengkap, semua kebutuhanmu terpenuhi. Kristus berkuasa atas semua penguasa dan pemerintah yang ada.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "12002011",
+    "b": 12,
+    "c": 2,
+    "v": 11,
+    "t": "Ketika kamu bersatu dengan Kristus, kamu disunat dengan cara yang berbeda, bukan dengan tangan manusia. Maksudnya, kamu mengambil bagian dalam kematian Kristus, yang adalah semacam sunatan, yaitu penanggalan dari tubuh manusia-Nya.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "12002012",
+    "b": 12,
+    "c": 2,
+    "v": 12,
+    "t": "Ketika kamu dibaptis, kamu dikubur bersama-Nya dan dibangkitkan bersama-Nya karena imanmu dalam kuasa. Allahlah yang membangkitkan Kristus dari kematian.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "12002013",
+    "b": 12,
+    "c": 2,
+    "v": 13,
+    "t": "Kamu sudah mati secara rohani karena dosa-dosamu dan karena kamu tidak termasuk dari umat Allah. Tetapi Allah memberikan kepadamu hidup baru bersama-sama dengan Kristus. Ia mengampuni semua dosa kita.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "12002014",
+    "b": 12,
+    "c": 2,
+    "v": 14,
+    "t": "Kita sebenarnya telah melanggar hukum Allah, karena itu kita berutang kepada-Nya. Tetapi tuntutan atas utang itu telah dibatalkan karena Allah mengampuni kita. Ia memakukan semua tuntutan utang itu pada kayu salib.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "12002015",
+    "b": 12,
+    "c": 2,
+    "v": 15,
+    "t": "Pada salib itu, Ia menanggalkan kuasa pemerintah dan penguasa dunia rohani. Ia mengalahkan mereka di situ. Dan Ia menggiring mereka sebagai tawanan untuk dilihat seluruh dunia.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "12002016",
+    "b": 12,
+    "c": 2,
+    "v": 16,
+    "t": "Jadi, jangan biarkan orang menyalahkan kamu dalam hal makanan atau minuman ataupun mengikuti tradisi Yahudi seperti hari-hari raya, perayaan Bulan Baru atau hari Sabat.",
+    "h": "Hidup barumu hanyalah dari Kristus",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "12002017",
+    "b": 12,
+    "c": 2,
+    "v": 17,
+    "t": "Pada waktu dulu, hal-hal ini adalah seperti bayangan yang menunjukkan apa yang akan datang. Tetapi apa yang kita punya sekarang adalah nyata, yaitu Kristus.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "12002018",
+    "b": 12,
+    "c": 2,
+    "v": 18,
+    "t": "Banyak orang yang senang berpura-pura merendahkan hati dan menyembah para malaikat. Mereka membicarakan tentang hal-hal ini dalam penglihatan mereka. Jangan dengarkan mereka kalau mereka menyalahkan kamu karena kamu tidak melakukan hal-hal tersebut. Hal itu sungguh bodoh bagi mereka untuk menyombongkan diri, karena semuanya bergantung pada pengalaman mereka saja.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "12002019",
+    "b": 12,
+    "c": 2,
+    "v": 19,
+    "t": "Mereka bagaikan bagian tubuh yang hilang hubungannya dengan kepala. Kristus adalah kepala dan seluruh anggota tubuh bergantung kepada-Nya. Karena Kristus, semua bagian tubuh saling memperhatikan dan saling menolong dan bertumbuh. Dan Allahlah yang membuatnya bertumbuh.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "12002020",
+    "b": 12,
+    "c": 2,
+    "v": 20,
+    "t": "Jika kamu sudah mati bersama Kristus dari kuasa-kuasa roh dunia ini, mengapa hidupmu seakan-akan masih dikuasai olehnya? Mengapa kamu tunduk pada aturan-aturan seperti:",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "12002021",
+    "b": 12,
+    "c": 2,
+    "v": 21,
+    "t": "“Jangan makan ini”, “Jangan cicipi itu”, “Jangan sentuh itu”?",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "12002022",
+    "b": 12,
+    "c": 2,
+    "v": 22,
+    "t": "Semua aturan itu tidak berlaku lagi setelah digunakan. Mereka hanyalah perintah-perintah dan ajaran-ajaran yang dibuat manusia.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "12002023",
+    "b": 12,
+    "c": 2,
+    "v": 23,
+    "t": "Aturan-aturan itu mungkin terlihat bijaksana, tetapi itu hanyalah agama buatan yang mana orang menyiksa dirinya dan membuat hal-hal supaya mereka terlihat rendah hati. Tetapi sebenarnya, aturan-aturan ini tidak membantu orang mengendalikan keinginan-keinginan badani manusia yang lemah.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "12003001",
+    "b": 12,
+    "c": 3,
+    "v": 1,
+    "t": "Kamu sudah dibangkitkan dari kematian bersama Kristus. Jadi, hiduplah bagi apa yang ada di surga, di mana Kristus duduk di sebelah kanan Allah.",
+    "h": "Hidup yang baru dalam Kristus",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "12003002",
+    "b": 12,
+    "c": 3,
+    "v": 2,
+    "t": "Pikirkanlah hal-hal di atas, bukan hal-hal di bumi.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "12003003",
+    "b": 12,
+    "c": 3,
+    "v": 3,
+    "t": "Hidupmu yang lama sudah mati, dan hidupmu yang baru bersama Kristus disimpan dengan aman untukmu oleh Allah.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "12003004",
+    "b": 12,
+    "c": 3,
+    "v": 4,
+    "t": "Ya, ketika Kristus yang adalah pusat hidupmu, datang kembali, kamu akan mengambil bagian dalam segala kemuliaan-Nya.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "12003005",
+    "b": 12,
+    "c": 3,
+    "v": 5,
+    "t": "Jadi, singkirkanlah hal-hal jahat yang kamu gunakan dengan tubuhmu: melakukan dosa percabulan, menjadi tidak bermoral, membiarkan hawa nafsu menguasaimu dan mengingini hal-hal yang tidak benar. Dan janganlah terus mengingini hal-hal yang berlebihan untuk dirimu sendiri, itu sama seperti penyembahan berhala.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "12003006",
+    "b": 12,
+    "c": 3,
+    "v": 6,
+    "t": "Allah akan menunjukkan kemarahan-Nya terhadap orang-orang yang tidak taat kepada-Nya, karena mereka melakukan hal-hal jahat itu.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "12003007",
+    "b": 12,
+    "c": 3,
+    "v": 7,
+    "t": "Dahulu kamu juga melakukan hal-hal itu, ketika kamu hidup seperti mereka.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "12003008",
+    "b": 12,
+    "c": 3,
+    "v": 8,
+    "t": "Tetapi sekarang buanglah semuanya ini dari hidupmu: kemarahan, kehilangan kesabaran, perbuatan atau perkataan yang menyakiti orang lain dan penggunaan kata-kata yang kotor.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "12003009",
+    "b": 12,
+    "c": 3,
+    "v": 9,
+    "t": "Janganlah saling membohongi karena kamu telah menanggalkan manusia lama dan perbuatannya.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "12003010",
+    "b": 12,
+    "c": 3,
+    "v": 10,
+    "t": "Sekarang kamu mengenakan hidup baru, hidup yang terus diperbarui setiap hari. Kamu bertumbuh dalam pengertianmu tentang Dia yang memberikan hidup baru ini dan menjadi seperti Dia.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "12003011",
+    "b": 12,
+    "c": 3,
+    "v": 11,
+    "t": "Dalam hidup baru ini tidak ada lagi perbedaan apakah kamu orang Yunani atau orang Yahudi, disunat atau tidak, orang Skit atau bukan, hamba atau bebas. Kristus adalah segala-galanya dan Ia hidup di dalam kita semua.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "12003012",
+    "b": 12,
+    "c": 3,
+    "v": 12,
+    "t": "Sebagai umat pilihan Allah yang kudus dan dikasihi-Nya, hidup barumu haruslah ditunjukkan dengan kemurahan hati, keramahan, kerendahan hati, kelemah-lembutan dan kesabaran.",
+    "h": "Hidup yang baru dengan sesama",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "12003013",
+    "b": 12,
+    "c": 3,
+    "v": 13,
+    "t": "Bersabarlah terhadap sesamamu dan saling mengampunilah. Jika kamu merasa seorang sudah berbuat salah kepadamu, Ampunilah mereka. Ampunilah orang lain karena Tuhan sudah mengampuni kamu.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "12003014",
+    "b": 12,
+    "c": 3,
+    "v": 14,
+    "t": "Dan yang terpenting dari semuanya ini adalah kasih. Kasihlah yang menyatukan semuanya dalam kesatuan yang sempurna.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "12003015",
+    "b": 12,
+    "c": 3,
+    "v": 15,
+    "t": "Biarlah damai Kristus menguasai pikiranmu. Karena demi kedamaian kamu dipilih bersama-sama dalam satu tubuh. Dan bersyukurlah selalu.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "12003016",
+    "b": 12,
+    "c": 3,
+    "v": 16,
+    "t": "Biarlah pengajaran Kristus tinggal di dalammu dengan berlimpah. Gunakanlah semua hikmat untuk saling mengajar dan menasihati. Nyanyikanlah mazmur, kidung pujian dan nyanyian rohani dengan bersyukur kepada Allah.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "12003017",
+    "b": 12,
+    "c": 3,
+    "v": 17,
+    "t": "Apa pun yang kamu lakukan dalam perkataan atau perbuatan, lakukanlah semuanya itu dalam nama Tuhan Yesus. Dan bersyukurlah kepada Allah Bapa melalui Yesus.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "12003018",
+    "b": 12,
+    "c": 3,
+    "v": 18,
+    "t": "Istri-istri, bersedialah untuk melayani suamimu. Ini sungguh benar untuk dilakukan untuk menaati Tuhan.",
+    "h": "Hidup yang baru dalam rumah tangga",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "12003019",
+    "b": 12,
+    "c": 3,
+    "v": 19,
+    "t": "Suami-suami, kasihilah istrimu dan janganlah marah kepada mereka.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "12003020",
+    "b": 12,
+    "c": 3,
+    "v": 20,
+    "t": "Anak-anak, taatilah orang tuamu dalam segala sesuatu karena itulah yang menyenangkan Tuhan.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "12003021",
+    "b": 12,
+    "c": 3,
+    "v": 21,
+    "t": "Bapak-bapak, janganlah mengecewakan anak-anakmu. Kalau kamu sulit untuk disenangkan, mereka bisa patah semangat.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "12003022",
+    "b": 12,
+    "c": 3,
+    "v": 22,
+    "t": "Hamba-hamba, taatilah tuan-tuanmu dalam segala hal. Taatilah mereka setiap saat, meskipun mereka tidak mengawasimu. Janganlah berpura-pura bekerja keras untuk mendapat perawatan khusus, tetapi layanilah tuan-tuanmu dengan tulus hati karena kamu takut akan Tuhan.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "12003023",
+    "b": 12,
+    "c": 3,
+    "v": 23,
+    "t": "Pekerjaan apa pun yang diberikan kepadamu, lakukanlah sebaik mungkin. Bekerjalah seolah-olah kamu bekerja untuk Tuhan, bukan untuk manusia.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "12003024",
+    "b": 12,
+    "c": 3,
+    "v": 24,
+    "t": "Ingatlah bahwa kamu akan menerima pahalamu dari Tuhan, yang akan memberikan padamu apa yang telah Ia janjikan kepada umat-Nya. Benar, kamu sedang melayani Kristus. Ia adalah Tuanmu yang sesungguhnya.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "12003025",
+    "b": 12,
+    "c": 3,
+    "v": 25,
+    "t": "Ingatlah bahwa siapa pun yang melakukan pelanggaran akan dihukum karena pelanggaran itu. Dan Allah tidak memandang muka.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "12004001",
+    "b": 12,
+    "c": 4,
+    "v": 1,
+    "t": "Tuan-tuan, perlakukanlah hamba-hambamu secara adil dan jujur. Ingatlah bahwa kamu juga mempunyai Tuan di surga.",
+    "h": "",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "12004002",
+    "b": 12,
+    "c": 4,
+    "v": 2,
+    "t": "Tekunlah berdoa dan bersiaplah bagi apa pun dan bersyukurlah.",
+    "h": "Hal-hal yang harus dilakukan",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "12004003",
+    "b": 12,
+    "c": 4,
+    "v": 3,
+    "t": "Berdoalah juga bagi kami supaya Allah membuka kesempatan kepada kami untuk memberitakan firman. Aku dipenjarakan karena melakukan ini. Tetapi berdoalah supaya kami bisa terus menyampaikan rahasia kebenaran tentang Kristus yang telah diperkenalkan Allah.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "12004004",
+    "b": 12,
+    "c": 4,
+    "v": 4,
+    "t": "Berdoalah supaya aku akan menyampaikan yang seharusnya membuat kebenaran ini dengan jelas.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "12004005",
+    "b": 12,
+    "c": 4,
+    "v": 5,
+    "t": "Bertindaklah dengan bijak kepada orang yang tidak percaya. Gunakanlah kesempatan yang ada dengan sebaik-baiknya.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "12004006",
+    "b": 12,
+    "c": 4,
+    "v": 6,
+    "t": "Berbicaralah dengan penuh kasih sehingga apa yang kamu katakan diterima dengan baik. Siaplah selalu supaya kamu tahu bagaimana seharusnya menjawab setiap orang.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "12004007",
+    "b": 12,
+    "c": 4,
+    "v": 7,
+    "t": "Tikhikus adalah saudaraku yang terkasih. Ia adalah penolong yang setia dan teman sepelayananku dalam Tuhan. Ia akan menceritakan kepadamu segala sesuatu yang terjadi padaku.",
+    "h": "Berita tentang mereka yang bersama Paulus",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "12004008",
+    "b": 12,
+    "c": 4,
+    "v": 8,
+    "t": "Aku mengutusnya kepadamu dengan maksud supaya kamu tahu keadaan kami dan juga untuk memberikan semangat kepadamu.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "12004009",
+    "b": 12,
+    "c": 4,
+    "v": 9,
+    "t": "Aku mengutusnya bersama Onesimus, seorang saudara seiman yang setia dan terkasih, yang juga dari kelompokmu. Mereka berdua akan menceritakan kepadamu tentang segala sesuatu yang telah terjadi di sini.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "12004010",
+    "b": 12,
+    "c": 4,
+    "v": 10,
+    "t": "Aristarkhus, yang ada bersamaku di sini di dalam penjara mengirim salam untukmu. Markus, sepupu Barnabas, juga mengirim salam. Aku juga berpesan kepadamu, sambutlah Markus ketika ia datang kepadamu.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "12004011",
+    "b": 12,
+    "c": 4,
+    "v": 11,
+    "t": "Dan juga, salam dari Yesus yang juga dipanggil Yustus. Mereka bertiga ini adalah satu-satunya orang percaya Yahudi, yang bekerja bersamaku untuk Kerajaan Allah. Mereka sangat menghibur aku.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "12004012",
+    "b": 12,
+    "c": 4,
+    "v": 12,
+    "t": "Epafras, salah satu pelayan Yesus Kristus dari kelompokmu, mengirim salam untuk kamu. Ia terus berjuang untukmu dalam doa. Ia berdoa agar kalian bertumbuh dan menjadi dewasa secara rohani dan memiliki semua yang diinginkan Allah bagimu.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "12004013",
+    "b": 12,
+    "c": 4,
+    "v": 13,
+    "t": "Aku tahu bahwa Epafras sudah bekerja keras untuk kamu dan untuk mereka yang ada di kota Laodikia dan Hierapolis.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "12004014",
+    "b": 12,
+    "c": 4,
+    "v": 14,
+    "t": "Lukas, seorang dokter yang terkasih mengirim salam untukmu dan juga salam dari Demas untukmu.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "12004015",
+    "b": 12,
+    "c": 4,
+    "v": 15,
+    "t": "Sampaikanlah salam kami kepada saudara-saudari seiman di kota Laodikia. Salam juga untuk Nimfa dan gereja yang berkumpul di rumahnya.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "12004016",
+    "b": 12,
+    "c": 4,
+    "v": 16,
+    "t": "Setelah surat ini dibacakan untukmu, usahakanlah agar surat ini juga dibacakan untuk gereja di Laodikia. Dan kamu bacakan surat yang aku tuliskan kepada mereka.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "12004017",
+    "b": 12,
+    "c": 4,
+    "v": 17,
+    "t": "Katakanlah kepada Arkhipus, “Perhatikanlah agar kamu menyelesaikan pelayanan yang kamu terima dari Tuhan.”",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "12004018",
+    "b": 12,
+    "c": 4,
+    "v": 18,
+    "t": "Inilah salamku dengan tulisan tanganku sendiri: Paulus. Ingatlah aku di dalam penjara. Anugerah Allah menyertai kamu.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  }
+]

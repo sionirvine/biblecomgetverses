@@ -1,0 +1,892 @@
+[
+  {
+    "id": "61001001",
+    "b": 61,
+    "c": 1,
+    "v": 1,
+    "t": "Moi, Paul, avec Silas et Timothée, j’écris à l’Église de Thessalonique qui appartient à Dieu le Père et au Seigneur Jésus-Christ. Que Dieu vous bénisse et vous donne la paix !",
+    "h": "Salutation",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "61001002",
+    "b": 61,
+    "c": 1,
+    "v": 2,
+    "t": "Sans cesse, nous remercions Dieu pour vous tous et nous disons vos noms dans nos prières.",
+    "h": "Paul remercie Dieu pour la foi des chrétiens",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "61001003",
+    "b": 61,
+    "c": 1,
+    "v": 3,
+    "t": "Devant Dieu notre Père, nous nous souvenons toujours de vous. Oui, votre foi est active, votre amour vous fait agir, et votre espérance en notre Seigneur Jésus-Christ est solide.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "61001004",
+    "b": 61,
+    "c": 1,
+    "v": 4,
+    "t": "Frères et sœurs chrétiens, nous le savons, Dieu vous aime et il vous a choisis pour être à lui.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "61001005",
+    "b": 61,
+    "c": 1,
+    "v": 5,
+    "t": "En effet, la Bonne Nouvelle que nous vous avons annoncée n’est pas arrivée chez vous seulement en paroles, mais aussi avec la puissance et l’aide de l’Esprit Saint. De plus, nous étions sûrs de ce que nous disions. En effet, vous savez comment nous avons vécu parmi vous pour votre bien.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "61001006",
+    "b": 61,
+    "c": 1,
+    "v": 6,
+    "t": "Et vous, vous avez suivi notre exemple et celui du Seigneur : vous avez reçu la Parole dans de grandes souffrances, avec la joie donnée par l’Esprit Saint.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "61001007",
+    "b": 61,
+    "c": 1,
+    "v": 7,
+    "t": "Ainsi, vous êtes devenus un modèle pour tous ceux qui croient, en Macédoine et en Akaïe.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "61001008",
+    "b": 61,
+    "c": 1,
+    "v": 8,
+    "t": "En effet, c’est de chez vous que la parole du Seigneur est partie pour se faire entendre en Macédoine et en Akaïe. De plus, on sait partout que vous croyez en Dieu, nous n’avons donc pas besoin d’en parler.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "61001009",
+    "b": 61,
+    "c": 1,
+    "v": 9,
+    "t": "Les gens racontent en parlant de nous comment vous nous avez reçus chez vous et comment vous vous êtes tournés vers Dieu. Vous avez laissé les faux dieux, pour servir le Dieu vivant et vrai",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "61001010",
+    "b": 61,
+    "c": 1,
+    "v": 10,
+    "t": "et pour attendre que son Fils vienne des cieux. Ce Fils, c’est Jésus que Dieu a réveillé de la mort et qui nous délivre du jugement de Dieu, qui est proche.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "61002001",
+    "b": 61,
+    "c": 2,
+    "v": 1,
+    "t": "Frères et sœurs chrétiens, vous le savez bien, nous ne sommes pas allés chez vous pour rien !",
+    "h": "Le travail de Paul à Thessalonique",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "61002002",
+    "b": 61,
+    "c": 2,
+    "v": 2,
+    "t": "Vous le savez aussi, nous avons d’abord souffert dans la ville de Philippes, où on nous a insultés. Mais ensuite, Dieu nous a donné le courage de vous annoncer sa Bonne Nouvelle au milieu de beaucoup de difficultés.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "61002003",
+    "b": 61,
+    "c": 2,
+    "v": 3,
+    "t": "Nos paroles ne s’appuient pas sur des choses fausses, nous n’avons pas de mauvaises intentions, nous ne cherchons pas à tromper !",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "61002004",
+    "b": 61,
+    "c": 2,
+    "v": 4,
+    "t": "Au contraire, Dieu nous a trouvés capables et il nous a confié sa Bonne Nouvelle. Maintenant, quand nous parlons, ce n’est pas pour plaire aux hommes, c’est pour plaire à Dieu, qui voit le fond de notre cœur.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "61002005",
+    "b": 61,
+    "c": 2,
+    "v": 5,
+    "t": "Vous le savez, nous n’avons jamais parlé pour flatter les gens, et notre intention, ce n’était pas de gagner de l’argent, Dieu en est témoin.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "61002006",
+    "b": 61,
+    "c": 2,
+    "v": 6,
+    "t": "Nous n’avons cherché les félicitations de personne, ni de vous, ni de quelqu’un d’autre.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "61002007",
+    "b": 61,
+    "c": 2,
+    "v": 7,
+    "t": "Pourtant, nous, les apôtres du Christ, nous pouvions faire peser notre autorité sur vous. Au contraire, quand nous étions avec vous, nous avons été pleins de douceur, comme une mère qui prend soin de ses enfants.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "61002008",
+    "b": 61,
+    "c": 2,
+    "v": 8,
+    "t": "À cause de notre tendresse pour vous, nous étions prêts à vous donner non seulement la Bonne Nouvelle de Dieu, mais aussi notre vie. Notre amour pour vous était devenu si grand !",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "61002009",
+    "b": 61,
+    "c": 2,
+    "v": 9,
+    "t": "Frères et sœurs, vous vous souvenez de notre travail et de notre fatigue. Nous avons travaillé nuit et jour pour ne rien vous coûter, et c’est ainsi que nous vous avons annoncé la Bonne Nouvelle de Dieu.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "61002010",
+    "b": 61,
+    "c": 2,
+    "v": 10,
+    "t": "Avec vous les croyants, nous avons agi d’une manière parfaite et juste. On ne pouvait rien nous reprocher, vous êtes témoins de cela, et Dieu avec vous.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "61002011",
+    "b": 61,
+    "c": 2,
+    "v": 11,
+    "t": "Vous le savez aussi : avec chacun de vous, nous avons été comme un père avec ses enfants.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "61002012",
+    "b": 61,
+    "c": 2,
+    "v": 12,
+    "t": "Nous vous avons donné des conseils et des encouragements. Nous vous avons demandé avec force de vivre comme Dieu le veut, lui qui vous appelle à entrer dans son Royaume pour participer à sa gloire.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "61002013",
+    "b": 61,
+    "c": 2,
+    "v": 13,
+    "t": "Sans cesse nous remercions Dieu pour une autre raison encore : quand vous avez reçu de nous la parole de Dieu, vous ne l’avez pas reçue comme une parole humaine, mais comme la parole de Dieu. Oui, elle vient vraiment de Dieu et elle agit en vous, les croyants.",
+    "h": "Les Thessaloniciens ont bien accueilli la parole de Dieu",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "61002014",
+    "b": 61,
+    "c": 2,
+    "v": 14,
+    "t": "En effet, frères et sœurs, vous avez imité les Églises de Dieu qui sont en Judée et qui sont unies au Christ Jésus. Vous avez souffert à cause des gens de votre pays, comme ces Églises ont souffert à cause des Juifs.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "61002015",
+    "b": 61,
+    "c": 2,
+    "v": 15,
+    "t": "Ils ont tué le Seigneur Jésus et les prophètes, et ils nous ont fait souffrir, nous aussi. Ils ne plaisent pas à Dieu, ils sont ennemis de tout le monde !",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "61002016",
+    "b": 61,
+    "c": 2,
+    "v": 16,
+    "t": "Ils nous empêchent d’annoncer à ceux qui ne sont pas juifs le message qui doit les sauver. Ainsi, ils complètent la somme des péchés qu’ils ont toujours commis. Mais finalement, la colère de Dieu est tombée sur eux.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "61002017",
+    "b": 61,
+    "c": 2,
+    "v": 17,
+    "t": "Frères et sœurs, nous avons été séparés de vous pendant un certain temps, loin des yeux mais non pas loin du cœur ! Nous désirions beaucoup vous revoir et nous avons tout fait pour cela.",
+    "h": "Paul désire revoir les chrétiens de Thessalonique",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "61002018",
+    "b": 61,
+    "c": 2,
+    "v": 18,
+    "t": "Nous avons voulu vous rendre visite plusieurs fois, en tout cas, moi, Paul, j’ai voulu le faire, mais Satan nous en a empêchés.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "61002019",
+    "b": 61,
+    "c": 2,
+    "v": 19,
+    "t": "Oui, notre raison d’espérer, notre joie, c’est vous. Quand notre Seigneur Jésus-Christ viendra, vous serez pour nous la récompense qu’on donne aux vainqueurs, et devant lui, nous serons fiers de vous.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "61002020",
+    "b": 61,
+    "c": 2,
+    "v": 20,
+    "t": "C’est vrai, vous êtes notre fierté et notre joie !",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "61003001",
+    "b": 61,
+    "c": 3,
+    "v": 1,
+    "t": "Aussi, comme nous ne pouvions plus attendre, nous avons décidé de rester seuls à Athènes.",
+    "h": "",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "61003002",
+    "b": 61,
+    "c": 3,
+    "v": 2,
+    "t": "Et nous vous avons envoyé notre frère Timothée qui travaille avec Dieu pour annoncer la Bonne Nouvelle du Christ. Nous l’avons envoyé pour qu’il rende votre foi solide et vous donne du courage.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "61003003",
+    "b": 61,
+    "c": 3,
+    "v": 3,
+    "t": "Ainsi, personne ne se laissera troubler par les souffrances d’aujourd’hui. Vous savez vous-mêmes qu’elles font partie du projet de Dieu pour nous.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "61003004",
+    "b": 61,
+    "c": 3,
+    "v": 4,
+    "t": "Quand nous étions chez vous, nous vous avons annoncé d’avance que nous allions souffrir durement, et c’est ce qui s’est passé, vous le savez.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "61003005",
+    "b": 61,
+    "c": 3,
+    "v": 5,
+    "t": "C’est pourquoi, comme je ne pouvais plus attendre, j’ai envoyé Timothée prendre des nouvelles de votre foi. J’avais peur d’une chose : l’esprit du mal vous avait peut-être tentés, et dans ce cas, nous aurions travaillé pour rien.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "61003006",
+    "b": 61,
+    "c": 3,
+    "v": 6,
+    "t": "Maintenant, Timothée vient d’arriver de chez vous. Il nous a apporté de bonnes nouvelles de votre foi et de votre amour. Il nous a dit que vous gardez toujours un bon souvenir de nous et que vous désirez nous revoir, comme nous désirons vous revoir.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "61003007",
+    "b": 61,
+    "c": 3,
+    "v": 7,
+    "t": "Alors, frères et sœurs, au milieu de tous nos malheurs et de nos souffrances, votre foi nous a encouragés.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "61003008",
+    "b": 61,
+    "c": 3,
+    "v": 8,
+    "t": "Maintenant, nous revivons parce que vous restez forts dans le Seigneur.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "61003009",
+    "b": 61,
+    "c": 3,
+    "v": 9,
+    "t": "Comment remercier Dieu pour vous, à cause de la grande joie que vous nous donnez devant lui ?",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "61003010",
+    "b": 61,
+    "c": 3,
+    "v": 10,
+    "t": "Nuit et jour, voici ce que nous lui demandons avec force : qu’il nous permette de vous revoir et de compléter ce qui manque à votre foi.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "61003011",
+    "b": 61,
+    "c": 3,
+    "v": 11,
+    "t": "Que Dieu lui-même, notre Père, et que notre Seigneur Jésus-Christ nous ouvrent la route pour aller jusqu’à vous !",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "61003012",
+    "b": 61,
+    "c": 3,
+    "v": 12,
+    "t": "Que le Seigneur fasse grandir de plus en plus l’amour que vous avez les uns pour les autres et pour tous ! Que cet amour ressemble à notre amour pour vous !",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "61003013",
+    "b": 61,
+    "c": 3,
+    "v": 13,
+    "t": "Ainsi, le Seigneur remplira vos cœurs de sa force. Et quand notre Seigneur Jésus viendra avec tous ceux qui lui appartiennent, vous serez saints devant Dieu notre Père, et on ne pourra rien vous reprocher.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "61004001",
+    "b": 61,
+    "c": 4,
+    "v": 1,
+    "t": "Frères et sœurs chrétiens, vous avez appris de nous comment vous devez vivre pour plaire à Dieu, et c’est bien de cette façon que vous vivez. Mais faites encore des progrès ! Nous vous demandons et nous vous conseillons cela au nom du Seigneur Jésus.",
+    "h": "Vivre comme le Seigneur le demande",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "61004002",
+    "b": 61,
+    "c": 4,
+    "v": 2,
+    "t": "En effet, vous connaissez les conseils que nous vous avons donnés de la part du Seigneur Jésus.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "61004003",
+    "b": 61,
+    "c": 4,
+    "v": 3,
+    "t": "Ce que Dieu veut, c’est que vous soyez entièrement à lui. N’ayez pas une vie immorale.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "61004004",
+    "b": 61,
+    "c": 4,
+    "v": 4,
+    "t": "Chacun de vous doit bien choisir sa femme pour mener une vie digne de respect, qui plaît à Dieu.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "61004005",
+    "b": 61,
+    "c": 4,
+    "v": 5,
+    "t": "Ne vous laissez pas entraîner par les mauvais désirs, comme les autres qui ne connaissent pas Dieu.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "61004006",
+    "b": 61,
+    "c": 4,
+    "v": 6,
+    "t": "À ce sujet, personne ne doit faire de tort à sa sœur ou à son frère chrétiens, ni les tromper. Le Seigneur punit tout cela, nous l’avons déjà dit et redit.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "61004007",
+    "b": 61,
+    "c": 4,
+    "v": 7,
+    "t": "En effet, Dieu ne nous a pas appelés à vivre n’importe comment, mais à vivre pour lui.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "61004008",
+    "b": 61,
+    "c": 4,
+    "v": 8,
+    "t": "C’est pourquoi celui qui rejette ces conseils ne rejette pas un homme, c’est Dieu qu’il rejette, lui qui vous donne son Esprit Saint.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "61004009",
+    "b": 61,
+    "c": 4,
+    "v": 9,
+    "t": "D’autre part, vous n’avez pas besoin qu’on vous écrive sur l’amour entre frères et sœurs chrétiens. Vous avez vous-mêmes appris de Dieu à vous aimer les uns les autres.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "61004010",
+    "b": 61,
+    "c": 4,
+    "v": 10,
+    "t": "D’ailleurs, c’est ce que vous faites envers tous les chrétiens dans toute la Macédoine, mais nous vous encourageons à faire encore des progrès.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "61004011",
+    "b": 61,
+    "c": 4,
+    "v": 11,
+    "t": "Cherchez à vivre en paix, occupez-vous de vos affaires, travaillez de vos mains, comme nous vous l’avons demandé.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "61004012",
+    "b": 61,
+    "c": 4,
+    "v": 12,
+    "t": "Alors ceux qui ne sont pas chrétiens respecteront votre façon de vivre. De plus, vous ne dépendrez pas des autres.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "61004013",
+    "b": 61,
+    "c": 4,
+    "v": 13,
+    "t": "Frères et sœurs, nous voulons vous faire connaître la vérité au sujet des morts. Ainsi vous ne serez pas tristes comme les autres qui n’ont aucune espérance.",
+    "h": "Dieu relèvera ceux qui sont morts",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "61004014",
+    "b": 61,
+    "c": 4,
+    "v": 14,
+    "t": "Nous croyons que Jésus est mort et qu’il s’est relevé de la mort. Donc, de la même façon, ceux qui sont morts avec Jésus en croyant en lui, Dieu les réunira à Jésus.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "61004015",
+    "b": 61,
+    "c": 4,
+    "v": 15,
+    "t": "Oui, voici ce que nous disons, d’après une parole du Seigneur : nous qui serons encore vivants quand le Seigneur viendra, nous ne passerons pas avant ceux qui sont morts.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "61004016",
+    "b": 61,
+    "c": 4,
+    "v": 16,
+    "t": "On entendra un signal, la voix du chef des anges, le son de la trompette de Dieu. Alors le Seigneur lui-même descendra du ciel. Ceux qui sont morts en croyant au Christ, se relèveront de la mort les premiers.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "61004017",
+    "b": 61,
+    "c": 4,
+    "v": 17,
+    "t": "Ensuite, nous qui serons encore vivants, nous serons emportés ensemble avec eux sur les nuages, en montant vers le Seigneur pour le rencontrer. Et ainsi nous serons avec le Seigneur pour toujours.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "61004018",
+    "b": 61,
+    "c": 4,
+    "v": 18,
+    "t": "Alors, encouragez-vous les uns les autres avec ces paroles.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "61005001",
+    "b": 61,
+    "c": 5,
+    "v": 1,
+    "t": "Frères et sœurs, au sujet de la date et du moment où le Seigneur viendra, vous n’avez pas besoin qu’on vous écrive.",
+    "h": "Personne ne sait quand le Seigneur viendra",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "61005002",
+    "b": 61,
+    "c": 5,
+    "v": 2,
+    "t": "Vous le savez très bien vous-mêmes, le jour du Seigneur arrivera comme un voleur dans la nuit.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "61005003",
+    "b": 61,
+    "c": 5,
+    "v": 3,
+    "t": "Quand les gens diront : « Quelle paix ! Quelle sécurité ! », alors tout à coup, ce sera la catastrophe. Elle tombera sur eux comme les douleurs sur la femme enceinte, et ils ne pourront pas y échapper.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "61005004",
+    "b": 61,
+    "c": 5,
+    "v": 4,
+    "t": "Mais vous, frères et sœurs, vous n’êtes pas dans la nuit, et ce jour-là ne peut pas vous surprendre comme un voleur.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "61005005",
+    "b": 61,
+    "c": 5,
+    "v": 5,
+    "t": "En effet, tous, vous appartenez à la lumière, vous appartenez au jour. Nous ne vivons pas dans la nuit, nous ne vivons pas dans l’obscurité.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "61005006",
+    "b": 61,
+    "c": 5,
+    "v": 6,
+    "t": "Ne dormons pas comme les autres, mais restons éveillés et soyons sobres.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "61005007",
+    "b": 61,
+    "c": 5,
+    "v": 7,
+    "t": "Ceux qui dorment dorment la nuit. Ceux qui boivent trop boivent la nuit.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "61005008",
+    "b": 61,
+    "c": 5,
+    "v": 8,
+    "t": "Mais nous, nous appartenons au jour : alors, soyons sobres ! Prenons la foi et l’amour comme vêtements de combat. Mettons comme casque l’espérance d’être sauvés.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "61005009",
+    "b": 61,
+    "c": 5,
+    "v": 9,
+    "t": "Dieu ne nous a pas appelés pour nous juger, mais pour que nous obtenions le salut, par notre Seigneur Jésus-Christ.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "61005010",
+    "b": 61,
+    "c": 5,
+    "v": 10,
+    "t": "Jésus est mort pour nous afin que, vivants ou morts, nous vivions unis à lui.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "61005011",
+    "b": 61,
+    "c": 5,
+    "v": 11,
+    "t": "Alors, encouragez-vous les uns les autres et construisez la communauté comme vous le faites déjà.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "61005012",
+    "b": 61,
+    "c": 5,
+    "v": 12,
+    "t": "Frères et sœurs, nous vous demandons ceci : respectez ceux qui travaillent parmi vous comme responsables. Le Seigneur vous les a donnés pour vous conseiller.",
+    "h": "Derniers conseils et salutations",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "61005013",
+    "b": 61,
+    "c": 5,
+    "v": 13,
+    "t": "Montrez-leur beaucoup de respect et d’amour à cause de ce qu’ils font. Soyez en paix entre vous.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "61005014",
+    "b": 61,
+    "c": 5,
+    "v": 14,
+    "t": "Frères et sœurs, nous vous demandons encore ceci : faites des reproches aux paresseux. Donnez du courage à ceux qui n’en ont pas beaucoup, soutenez les faibles, soyez patients envers tous.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "61005015",
+    "b": 61,
+    "c": 5,
+    "v": 15,
+    "t": "Attention, personne ne doit rendre le mal pour le mal ! Mais cherchez toujours à faire le bien, entre vous et avec tous.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "61005016",
+    "b": 61,
+    "c": 5,
+    "v": 16,
+    "t": "Soyez toujours joyeux,",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "61005017",
+    "b": 61,
+    "c": 5,
+    "v": 17,
+    "t": "priez sans cesse,",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "61005018",
+    "b": 61,
+    "c": 5,
+    "v": 18,
+    "t": "remerciez Dieu en toute occasion. C’est ce qu’il attend de vous qui êtes unis au Christ Jésus.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "61005019",
+    "b": 61,
+    "c": 5,
+    "v": 19,
+    "t": "N’empêchez pas l’Esprit Saint d’agir,",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "61005020",
+    "b": 61,
+    "c": 5,
+    "v": 20,
+    "t": "ne méprisez pas les paroles des prophètes.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "61005021",
+    "b": 61,
+    "c": 5,
+    "v": 21,
+    "t": "Examinez tout avec soin et retenez ce qui est bon.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "61005022",
+    "b": 61,
+    "c": 5,
+    "v": 22,
+    "t": "Évitez le mal sous toutes ses formes.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "61005023",
+    "b": 61,
+    "c": 5,
+    "v": 23,
+    "t": "Que le Dieu de la paix lui-même vous fasse vivre totalement pour lui. Qu’il garde toute votre personne, votre esprit, votre âme et votre corps. Alors on ne pourra rien vous reprocher quand notre Seigneur Jésus-Christ viendra.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "61005024",
+    "b": 61,
+    "c": 5,
+    "v": 24,
+    "t": "Celui qui vous a appelés est fidèle : il agira pour cela.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "61005025",
+    "b": 61,
+    "c": 5,
+    "v": 25,
+    "t": "Frères et sœurs, priez pour nous.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "61005026",
+    "b": 61,
+    "c": 5,
+    "v": 26,
+    "t": "Saluez tous les chrétiens en les embrassant comme des frères et des sœurs.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "61005027",
+    "b": 61,
+    "c": 5,
+    "v": 27,
+    "t": "Je vous le demande au nom du Seigneur : lisez cette lettre à tous les chrétiens.",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "61005028",
+    "b": 61,
+    "c": 5,
+    "v": 28,
+    "t": "Que l’amour de notre Seigneur Jésus-Christ soit avec vous !",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  }
+]

@@ -1,0 +1,2462 @@
+[
+  {
+    "id": "17001001",
+    "b": 17,
+    "c": 1,
+    "v": 1,
+    "t": "Voici l’histoire de Tobit, fils de Tobiel. Il était petit-fils d’Ananiel. Ananiel était fils d’Adouël et petit-fils de Gabaël. Tous étaient du clan d’Asiel, de la tribu de Neftali.",
+    "h": "Présentation de Tobit",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "17001002",
+    "b": 17,
+    "c": 1,
+    "v": 2,
+    "t": "Tobit habitait le pays de Neftali, en Haute-Galilée, dans la ville de Tisbé, entre Cadès au nord, Hassor à l’ouest et Fogor au sud. C’est de là qu’il a été déporté en Assyrie quand Salmanasar était roi de ce pays.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "17001003",
+    "b": 17,
+    "c": 1,
+    "v": 3,
+    "t": "Moi, Tobit, toute ma vie, j’ai vécu dans la vérité et j’ai fait ce qui est bien. J’ai souvent donné de l’argent à mes frères juifs qui étaient déportés avec moi à Ninive, en Assyrie.",
+    "h": "Tobit se souvient du passé",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "17001004",
+    "b": 17,
+    "c": 1,
+    "v": 4,
+    "t": "Quand j’étais jeune et que j’habitais encore en Israël, mon pays, toute la tribu de Neftali, mon ancêtre, s’est séparée de la famille royale de David et de Jérusalem. Pourtant, cette ville était la seule choisie par Dieu en Israël pour que toutes les tribus viennent y offrir des sacrifices. C’est à Jérusalem que le temple de Dieu avait été construit et consacré pour toutes les générations à venir.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "17001005",
+    "b": 17,
+    "c": 1,
+    "v": 5,
+    "t": "Sur toutes les montagnes de Galilée, ma famille et les gens de la tribu de Neftali, mon ancêtre, offraient leurs sacrifices au veau d’or que Jéroboam, roi d’Israël, avait fait placer dans le lieu sacré de Dan.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "17001006",
+    "b": 17,
+    "c": 1,
+    "v": 6,
+    "t": "Donc, moi, j’allais souvent seul à Jérusalem au moment des fêtes, comme la loi de Moïse l’a commandé pour toujours à tout le peuple d’Israël. J’apportais au temple les premières récoltes de mes champs, les premiers-nés de mes troupeaux, la dixième partie de mes animaux et la première laine de mes moutons.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "17001007",
+    "b": 17,
+    "c": 1,
+    "v": 7,
+    "t": "Je donnais tout cela aux prêtres, fils d’Aaron, pour les sacrifices. Aux lévites en service à Jérusalem, je donnais aussi la dixième partie du blé, du vin, des olives, des grenades, des figues et des autres fruits. Je vendais encore un autre dixième de mes biens, celui que nous devons donner six ans sur sept. Et je dépensais chaque année à Jérusalem une partie de cet argent.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "17001008",
+    "b": 17,
+    "c": 1,
+    "v": 8,
+    "t": "Enfin, je donnais un troisième dixième de mes biens aux orphelins, aux veuves et aux étrangers installés parmi les Israélites. Je faisais ces dons tous les trois ans pour que nous prenions un repas ensemble, comme la loi de Moïse le commande et comme Débora, la mère de mon père, me l’avait appris. En effet, j’étais orphelin, car Ananiel, mon père, était mort.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "17001009",
+    "b": 17,
+    "c": 1,
+    "v": 9,
+    "t": "Quand je suis devenu adulte, je me suis marié avec une femme de ma tribu. Elle m’a donné un fils, que j’ai appelé Tobias.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "17001010",
+    "b": 17,
+    "c": 1,
+    "v": 10,
+    "t": "Plus tard, j’ai été déporté en Assyrie, et je suis venu habiter à Ninive. Dans cette ville, j’ai vu toute ma famille et les gens de ma tribu manger la même nourriture que les non-Juifs.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "17001011",
+    "b": 17,
+    "c": 1,
+    "v": 11,
+    "t": "Mais moi, j’ai refusé de manger comme eux.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "17001012",
+    "b": 17,
+    "c": 1,
+    "v": 12,
+    "t": "Je suis resté fidèle à mon Dieu de tout mon cœur.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "17001013",
+    "b": 17,
+    "c": 1,
+    "v": 13,
+    "t": "C’est pourquoi le Très-Haut m’a accordé son aide : je suis devenu l’ami du roi Salmanasar et son homme d’affaires.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "17001014",
+    "b": 17,
+    "c": 1,
+    "v": 14,
+    "t": "Il m’envoyait en Médie, où j’achetais pour lui ce qui lui était nécessaire. C’est ainsi que, dans ce pays, à Raguès, j’ai déposé chez Gabaël, le frère de Gabri, 300 kilos de pièces d’argent dans des sacs.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "17001015",
+    "b": 17,
+    "c": 1,
+    "v": 15,
+    "t": "Quand le roi Salmanasar est mort, c’est son fils Sennakérib qui est devenu roi après lui. Les routes de Médie étaient devenues dangereuses, et je ne suis plus retourné dans ce pays.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "17001016",
+    "b": 17,
+    "c": 1,
+    "v": 16,
+    "t": "Déjà au temps du roi Salmanasar, je donnais souvent de l’argent à mes frères juifs.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "17001017",
+    "b": 17,
+    "c": 1,
+    "v": 17,
+    "t": "Je partageais ma nourriture avec ceux qui avaient faim, je donnais des vêtements à ceux qui étaient nus. Quand je voyais le corps d’un de mes frères juifs, jeté derrière les murs de Ninive, je l’enterrais.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "17001018",
+    "b": 17,
+    "c": 1,
+    "v": 18,
+    "t": "J’ai enterré aussi ceux que Sennakérib a tués. En Judée, celui-ci avait insulté Dieu, le roi qui est au ciel. Pour le punir, Dieu l’a obligé à fuir ce pays. Quand Sennakérib est revenu à Ninive, il était en colère et il a fait tuer beaucoup d’Israélites. Mais moi, j’emportais leurs corps en cachette et je les enterrais. Sennakérib les faisait chercher, mais il ne les trouvait plus.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "17001019",
+    "b": 17,
+    "c": 1,
+    "v": 19,
+    "t": "Un homme de Ninive a dit au roi : « C’est Tobit qui enterre les morts. » Alors je me suis caché. Le roi était au courant de ce que je faisais et il m’a fait rechercher pour me tuer. J’ai eu peur et j’ai fui.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "17001020",
+    "b": 17,
+    "c": 1,
+    "v": 20,
+    "t": "On a pris tous mes biens pour le trésor du roi. Il ne me restait plus rien, sauf ma femme Anna et mon fils Tobias.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "17001021",
+    "b": 17,
+    "c": 1,
+    "v": 21,
+    "t": "À peine 40 jours après cela, le roi a été tué par deux de ses fils. Ceux-ci ont fui dans les montagnes d’Ararat. Un autre de ses fils, Assaradon, est devenu roi à sa place. Ahikar, fils de mon frère Anaël, a été nommé par Assaradon responsable des finances et chef de toute l’administration du roi.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "17001022",
+    "b": 17,
+    "c": 1,
+    "v": 22,
+    "t": "Ahikar a parlé de moi au roi Assaradon, et j’ai pu revenir à Ninive. Quand Sennakérib était roi, Ahikar était le responsable de la maison du roi, chargé de la justice et des finances et chef du gouvernement en Assyrie. Assaradon lui a redonné les mêmes responsabilités. De plus, Ahikar était de ma famille, c’était mon neveu.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "17002001",
+    "b": 17,
+    "c": 2,
+    "v": 1,
+    "t": "Quand Assaradon est devenu roi, je suis rentré chez moi, à Ninive. On m’a rendu ma femme Anna, et mon fils Tobias. Pour la fête de la Pentecôte, que nous fêtons sept semaines après la Pâque, on m’a préparé un bon repas. Je me suis installé pour manger,",
+    "h": "Tobit devient aveugle",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "17002002",
+    "b": 17,
+    "c": 2,
+    "v": 2,
+    "t": "et on m’a apporté sur la table beaucoup de bons plats. Alors j’ai dit à mon fils Tobias : « Mon fils, va chercher parmi nos frères déportés à Ninive un pauvre resté fidèle au Seigneur de tout son cœur. Invite-le à partager mon repas. J’attendrai ton retour pour manger. »",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "17002003",
+    "b": 17,
+    "c": 2,
+    "v": 3,
+    "t": "Tobias est parti chercher un pauvre parmi nos frères. Mais il est revenu en disant : « Père ! » Je lui ai demandé : « Qu’est-ce qu’il y a, mon fils ? » Il m’a répondu : « Père, je viens de voir un Israélite qui a été tué. Quelqu’un l’a étranglé et l’a jeté sur la place du marché. Il y est encore. »",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "17002004",
+    "b": 17,
+    "c": 2,
+    "v": 4,
+    "t": "J’ai alors laissé mon repas sans le toucher et j’ai couru sur la place enlever le corps. Je l’ai placé sous un abri en attendant le coucher du soleil pour l’enterrer.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "17002005",
+    "b": 17,
+    "c": 2,
+    "v": 5,
+    "t": "Rentré chez moi, je me suis lavé pour me rendre pur. Puis je me suis mis à manger, très triste.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "17002006",
+    "b": 17,
+    "c": 2,
+    "v": 6,
+    "t": "Je me suis souvenu des paroles du prophète Amos contre les gens de Béthel : « Vos fêtes se changeront en deuil, tous vos chants deviendront des chants de deuil. » Et je me suis mis à pleurer.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "17002007",
+    "b": 17,
+    "c": 2,
+    "v": 7,
+    "t": "Ensuite, après le coucher du soleil, je suis allé creuser une fosse et j’ai enterré le mort.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "17002008",
+    "b": 17,
+    "c": 2,
+    "v": 8,
+    "t": "Mes voisins se moquaient de moi en disant : « Tobit n’a toujours pas peur ! On l’a déjà cherché pour le tuer parce qu’il faisait cela, et il a fui. Maintenant, il recommence à enterrer les morts ! »",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "17002009",
+    "b": 17,
+    "c": 2,
+    "v": 9,
+    "t": "Cette nuit-là, je me suis lavé pour me rendre pur. Puis, je suis allé me coucher dans la cour, le long du mur. J’avais le visage découvert à cause de la chaleur.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "17002010",
+    "b": 17,
+    "c": 2,
+    "v": 10,
+    "t": "Je ne savais pas qu’il y avait des oiseaux dans le mur, au-dessus de moi. Leurs excréments tout chauds sont tombés dans mes yeux. Ensuite j’ai eu les yeux couverts de taches blanches. Je suis allé voir des médecins pour qu’ils me soignent. Mais plus ils appliquaient de remèdes, plus les taches blanches m’empêchaient de voir. Et j’ai fini par devenir complètement aveugle. Je suis resté aveugle pendant quatre ans. Les gens de ma famille avaient pitié de moi. Ahikar s’est occupé de moi pendant deux ans, puis il est parti pour Élymaïs.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "17002011",
+    "b": 17,
+    "c": 2,
+    "v": 11,
+    "t": "À ce moment-là, ma femme Anna a pris un travail de tissage.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "17002012",
+    "b": 17,
+    "c": 2,
+    "v": 12,
+    "t": "Elle livrait à ses patrons les travaux qu’ils commandaient, et eux la payaient. Un jour, le 7 du mois de Dystros, elle a fini une pièce de tissage. Elle est allée la livrer à ses patrons. Ils l’ont payée et de plus, ils lui ont donné un cabri.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "17002013",
+    "b": 17,
+    "c": 2,
+    "v": 13,
+    "t": "En entrant dans la maison, le cabri s’est mis à bêler. J’ai appelé ma femme et lui ai demandé : « D’où vient ce cabri ? Quelqu’un l’a peut-être volé. Rends-le à ses propriétaires. Nous n’avons pas le droit de manger une chose volée. »",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "17002014",
+    "b": 17,
+    "c": 2,
+    "v": 14,
+    "t": "Ma femme m’a répondu : « Mais c’est un cadeau en plus de mon salaire ! » Je ne l’ai pas crue et je lui ai demandé d’aller rendre le cabri à ses propriétaires. À cause de cela, je me suis mis en colère contre elle. Elle m’a répondu : « À quoi t’ont servi tes dons aux pauvres ? Et tes bonnes actions ? On voit bien le résultat ! »",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "17003001",
+    "b": 17,
+    "c": 3,
+    "v": 1,
+    "t": "Rempli d’une profonde tristesse, je me suis mis à gémir et à pleurer. Puis, en gémissant, j’ai commencé à prier :",
+    "h": "Tobit prie le Seigneur",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "17003002",
+    "b": 17,
+    "c": 3,
+    "v": 2,
+    "t": "« Oui, tu es juste, Seigneur, et tout ce que tu fais est juste. Tu agis toujours avec amour et fidélité. C’est toi qui juges le monde.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "17003003",
+    "b": 17,
+    "c": 3,
+    "v": 3,
+    "t": "Alors, Seigneur, souviens-toi de moi. Regarde-moi. Ne me punis pas pour mes péchés, ni pour les erreurs que nous avons commises, moi et mes ancêtres.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "17003004",
+    "b": 17,
+    "c": 3,
+    "v": 4,
+    "t": "Nous n’avons pas obéi à tes commandements. C’est pourquoi tu as permis que nos ennemis nous pillent, nous emmènent en déportation et nous tuent. Chez les autres peuples où tu nous as envoyés, les gens se moquent de nous et nous insultent.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "17003005",
+    "b": 17,
+    "c": 3,
+    "v": 5,
+    "t": "Oui, tu es juste dans tous tes jugements, quand tu me punis pour mes péchés et pour ceux de mes ancêtres. En effet, nous n’avons pas obéi à tes commandements, nous n’avons pas vécu dans la vérité, en ta présence.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "17003006",
+    "b": 17,
+    "c": 3,
+    "v": 6,
+    "t": "Et maintenant, fais de moi ce que tu veux. Reprends ma vie ! Je veux disparaître de la surface de la terre, et que mon corps redevienne poussière ! Pour moi, la mort est meilleure que la vie, car j’ai entendu des insultes que je ne mérite pas. Je suis rempli d’une profonde tristesse. Seigneur, délivre-moi de ce malheur ! Laisse-moi entrer dans le repos qui dure toujours. Ne détourne pas de moi ton visage, Seigneur ! Oui, j’aime mieux mourir que de continuer à vivre dans un si grand malheur, en entendant ces insultes-là ! »",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "17003007",
+    "b": 17,
+    "c": 3,
+    "v": 7,
+    "t": "Le même jour, dans la ville d’Ecbatane, en Médie, Sara, la fille de Ragouël, est insultée par une servante de son père.",
+    "h": "Une servante insulte Sara",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "17003008",
+    "b": 17,
+    "c": 3,
+    "v": 8,
+    "t": "En effet, Sara a été mariée sept fois. Mais chaque fois, l’esprit mauvais Asmodée, a tué son mari avant qu’il s’unisse à sa femme comme cela doit se faire entre gens mariés. Cette servante dit donc à Sara : « C’est toi qui tues tes maris ! Tu en as déjà eu sept et tu ne portes le nom d’aucun.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "17003009",
+    "b": 17,
+    "c": 3,
+    "v": 9,
+    "t": "Si tes maris sont morts, ce n’est pas une raison pour nous traiter durement ! Va donc avec eux ! Nous ne voulons voir aucun enfant de toi, ni garçon ni fille ! »",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "17003010",
+    "b": 17,
+    "c": 3,
+    "v": 10,
+    "t": "Ce jour-là, Sara est remplie d’une profonde tristesse. Elle se met à pleurer et monte dans une chambre, en haut de la maison de son père, avec l’intention de se pendre. Mais elle réfléchit et se dit : « Les gens vont peut-être insulter mon père par ces paroles : “Tu n’avais qu’une fille très aimée, et elle s’est pendue à cause de ses malheurs !” Le chagrin que je causerais ainsi à mon vieux père risque de le faire mourir dans la tristesse. Au lieu de me pendre, je ferais mieux de supplier le Seigneur de me laisser mourir. Alors je n’entendrais plus les gens m’insulter pendant ma vie. »",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "17003011",
+    "b": 17,
+    "c": 3,
+    "v": 11,
+    "t": "Alors Sara se tourne vers la fenêtre. Elle lève les mains pour prier et dit : « Louange à toi, Dieu plein de bonté. Louange à toi pour toujours ! Que tout ce que tu as créé chante sans cesse ta louange !",
+    "h": "Sara prie le Seigneur",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "17003012",
+    "b": 17,
+    "c": 3,
+    "v": 12,
+    "t": "Maintenant, je tourne mon visage vers toi, vers toi je lève les yeux.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "17003013",
+    "b": 17,
+    "c": 3,
+    "v": 13,
+    "t": "Fais que je sois délivrée de cette terre et que je n’entende plus les gens m’insulter.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "17003014",
+    "b": 17,
+    "c": 3,
+    "v": 14,
+    "t": "Seigneur, tu le sais, je suis pure. Aucun homme ne m’a touchée.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "17003015",
+    "b": 17,
+    "c": 3,
+    "v": 15,
+    "t": "Je n’ai pas sali mon nom ni le nom de mon père, dans ce pays où je suis déportée. Je suis la seule fille de mon père. Il n’a pas d’autre enfant pour hériter de lui. Il n’a pas de frère ni de parent proche qui peut me prendre pour femme. J’ai déjà perdu sept maris. Pourquoi vivre encore ? Mais Seigneur, si tu ne veux pas me laisser mourir, alors écoute les insultes qu’on me lance ! »",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "17003016",
+    "b": 17,
+    "c": 3,
+    "v": 16,
+    "t": "Au même moment, le Dieu glorieux entend la prière de Tobit et celle de Sara.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "17003017",
+    "b": 17,
+    "c": 3,
+    "v": 17,
+    "t": "Raphaël est envoyé pour les guérir tous les deux. Il doit enlever les taches blanches des yeux de Tobit pour qu’il voie de nouveau la lumière de Dieu. Il doit aussi délivrer Sara, la fille de Ragouël, de l’esprit mauvais, Asmodée, et la donner pour femme à Tobias, fils de Tobit. En effet, c’est Tobias qui doit se marier avec elle, selon la loi, avant tous les autres qui veulent la prendre pour femme. À ce moment-là, Tobit, qui était dans la cour, rentre dans sa maison, et Sara descend de la chambre située en haut de la maison de son père.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "17004001",
+    "b": 17,
+    "c": 4,
+    "v": 1,
+    "t": "Le même jour, Tobit se souvient de l’argent qu’il a laissé chez Gabaël, dans la ville de Raguès, en Médie.",
+    "h": "Tobit donne des conseils à son fils",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "17004002",
+    "b": 17,
+    "c": 4,
+    "v": 2,
+    "t": "Alors il se dit en lui-même : « J’ai demandé à Dieu de me laisser mourir. Je ferais bien d’appeler mon fils Tobias pour lui parler de cet argent avant ma mort. »",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "17004003",
+    "b": 17,
+    "c": 4,
+    "v": 3,
+    "t": "Il appelle donc Tobias. Dès que son fils est là, il lui dit : « Quand je mourrai, enterre-moi comme il faut. Honore ta mère, ne l’abandonne jamais tout le temps qu’elle vivra. Tâche de la contenter en tout et ne lui fais pas de peine.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "17004004",
+    "b": 17,
+    "c": 4,
+    "v": 4,
+    "t": "Mon enfant, n’oublie pas tous les dangers qu’elle a connus à cause de toi, quand tu étais dans son ventre. À sa mort, enterre-la auprès de moi, dans la même tombe.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "17004005",
+    "b": 17,
+    "c": 4,
+    "v": 5,
+    "t": "« Mon enfant, reste fidèle au Seigneur pendant toute ta vie. Évite de pécher et de désobéir à ses commandements. Pendant toute ta vie, fais ce qui est juste et ne marche pas sur le chemin du mal.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "17004006",
+    "b": 17,
+    "c": 4,
+    "v": 6,
+    "t": "Oui, ceux qui vivent dans la vérité réussiront dans tout ce qu’ils entreprennent.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "17004007",
+    "b": 17,
+    "c": 4,
+    "v": 7,
+    "t": "« Prends une part de tes biens pour la donner à ceux qui font ce qui est juste, et ne le regrette pas. Ne détourne jamais ton visage d’un pauvre, et Dieu ne se détournera pas de toi.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "17004008",
+    "b": 17,
+    "c": 4,
+    "v": 8,
+    "t": "Aide les autres selon ce que tu as, que tu sois riche ou non. Même si tu as peu de choses, n’hésite pas à donner le peu que tu as.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "17004009",
+    "b": 17,
+    "c": 4,
+    "v": 9,
+    "t": "Ainsi, tu mets un beau trésor en réserve pour les jours de malheur.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "17004010",
+    "b": 17,
+    "c": 4,
+    "v": 10,
+    "t": "Oui, celui qui donne aux pauvres est protégé de la mort. Ses dons l’empêchent d’aller dans la nuit de la tombe.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "17004011",
+    "b": 17,
+    "c": 4,
+    "v": 11,
+    "t": "Tous ceux qui donnent aux pauvres font une offrande de valeur au Très-Haut.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "17004012",
+    "b": 17,
+    "c": 4,
+    "v": 12,
+    "t": "« Mon enfant, évite de faire un mariage contraire à la loi de Dieu. Choisis une femme de ton peuple. Ne te marie pas avec une étrangère, avec une femme qui n’est pas de la tribu de ton père. En effet, nous sommes d’une famille de prophètes. Mon enfant, souviens-toi de Noé, d’Abraham, d’Isaac et de Jacob, nos premiers ancêtres. Ils se sont tous mariés avec une femme de leur tribu, et Dieu les a bénis en leur donnant des enfants. Il a promis à leurs enfants et aux enfants de leurs enfants qu’ils posséderaient le pays.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "17004013",
+    "b": 17,
+    "c": 4,
+    "v": 13,
+    "t": "Toi aussi, mon enfant, aime tes frères israélites. Ne méprise pas les fils ni les filles de ton peuple, et prends ta femme parmi eux. Oui, l’orgueil perd les gens et les détruit. De même, la paresse amène la pauvreté et une grande misère. Elle est la mère de la famine.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "17004014",
+    "b": 17,
+    "c": 4,
+    "v": 14,
+    "t": "« N’attends pas le jour suivant pour payer le salaire de ton ouvrier, paie-le tout de suite. Si tu sers Dieu de cette manière, il te récompensera. Fais attention à toutes tes actions, mon enfant. Montre-toi bien élevé dans toute ta conduite.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "17004015",
+    "b": 17,
+    "c": 4,
+    "v": 15,
+    "t": "Ne fais à personne ce que tu n’aimerais pas supporter. Ne bois pas trop de vin, ne deviens jamais ivre. Ne prends pas cette mauvaise habitude.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "17004016",
+    "b": 17,
+    "c": 4,
+    "v": 16,
+    "t": "« Partage ta nourriture avec ceux qui ont faim, et tes vêtements avec ceux qui sont nus. Ce que tu as en trop, donne-le aux pauvres. Quand tu donnes, ne le regrette pas.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "17004017",
+    "b": 17,
+    "c": 4,
+    "v": 17,
+    "t": "Donne de la nourriture au moment de la mort d’une personne fidèle à Dieu, mais ne le fais pas pour un pécheur.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "17004018",
+    "b": 17,
+    "c": 4,
+    "v": 18,
+    "t": "« Demande conseil à toute personne sage, et ne méprise pas un bon conseil.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "17004019",
+    "b": 17,
+    "c": 4,
+    "v": 19,
+    "t": "Remercie le Seigneur en toute circonstance. Demande-lui de te conduire sur un chemin droit, de faire réussir tous tes projets et tout ce que tu entreprends. En effet, aucun peuple ne possède la sagesse. C’est le Seigneur seul qui donne les biens. Et il abaisse qui il veut jusqu’au fond du monde des morts. « Eh bien, mon enfant, souviens-toi de ces enseignements, ne les laisse pas disparaître de ton cœur !",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "17004020",
+    "b": 17,
+    "c": 4,
+    "v": 20,
+    "t": "« Maintenant, je dois te dire ceci : j’ai laissé 300 kilos de pièces d’argent chez Gabaël, fils de Gabri, à Raguès, en Médie.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "17004021",
+    "b": 17,
+    "c": 4,
+    "v": 21,
+    "t": "C’est vrai, nous sommes devenus pauvres, mon enfant, mais ne te fais pas de souci. Tu possèdes une grande richesse à une condition : tu dois respecter Dieu, éviter tout péché et faire ce qui plaît au Seigneur ton Dieu. »",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "17005001",
+    "b": 17,
+    "c": 5,
+    "v": 1,
+    "t": "Tobias répond à son père Tobit : « Père, je vais faire tout ce que tu m’as commandé.",
+    "h": "",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "17005002",
+    "b": 17,
+    "c": 5,
+    "v": 2,
+    "t": "Mais comment reprendre cet argent ? Gabaël ne me connaît pas, et moi non plus, je ne le connais pas. Par quel moyen me faire reconnaître de lui pour qu’il me croie et me rende l’argent ? D’ailleurs, je ne connais pas la route pour aller en Médie. »",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "17005003",
+    "b": 17,
+    "c": 5,
+    "v": 3,
+    "t": "Tobit répond à son fils : « Gabaël et moi, nous avons signé un document. Je l’ai partagé en deux, et chacun de nous en a gardé une moitié. J’ai mis sa moitié avec l’argent. Cet argent est chez lui depuis 20 ans. Maintenant, mon enfant, cherche un homme sûr pour aller avec toi en Médie. Nous lui paierons un salaire jusqu’à ton retour. Va donc reprendre cet argent chez Gabaël. »",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "17005004",
+    "b": 17,
+    "c": 5,
+    "v": 4,
+    "t": "Tobias sort de chez son père. Il cherche un guide qui connaît bien la route pour aller en Médie. Dehors, il rencontre l’ange Raphaël, debout devant lui, mais il ne sait pas que c’est un ange de Dieu.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "17005005",
+    "b": 17,
+    "c": 5,
+    "v": 5,
+    "t": "Tobias lui dit : « D’où viens-tu, mon ami ? » L’ange répond : « Je suis l’un de tes frères israélites. Je suis venu ici pour chercher du travail. » Tobias lui dit : « Est-ce que tu connais la route pour aller en Médie ? »",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "17005006",
+    "b": 17,
+    "c": 5,
+    "v": 6,
+    "t": "Raphaël lui répond : « Oui, je connais tous les chemins par cœur, car je vais souvent là-bas. Quand je vais en Médie, je loge chez notre frère Gabaël, qui habite à Raguès. Il y a deux jours de marche normale pour aller d’Ecbatane à Raguès. Les deux villes sont situées dans la montagne. »",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "17005007",
+    "b": 17,
+    "c": 5,
+    "v": 7,
+    "t": "Tobias lui dit alors : « Attends-moi, mon ami, je vais aller prévenir mon père. J’ai besoin que tu viennes avec moi et je te paierai ton salaire. »",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "17005008",
+    "b": 17,
+    "c": 5,
+    "v": 8,
+    "t": "L’ange lui dit : « Bon. Je t’attends, mais fais vite. »",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "17005009",
+    "b": 17,
+    "c": 5,
+    "v": 9,
+    "t": "Tobias rentre à la maison avertir son père. Il lui dit : « J’ai trouvé quelqu’un. C’est l’un de nos frères, un Israélite. » Tobit lui dit : « Fais-le venir. Je veux savoir quelle est sa famille et sa tribu, et si on peut compter sur lui pour partir avec toi, mon enfant. »",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "17005010",
+    "b": 17,
+    "c": 5,
+    "v": 10,
+    "t": "Tobias sort pour appeler Raphaël : « Mon ami, mon père veut te voir. » L’ange entre dans la maison, et Tobit le salue le premier. L’ange répond : « Je te souhaite beaucoup de bonheur. » Mais Tobit lui dit : « Est-ce que je peux encore avoir du bonheur ? Je suis aveugle, je ne vois plus la lumière du soleil, mais je vis dans le noir. Je suis comme les morts, qui ne reverront pas la lumière du jour. Je suis encore vivant, mais j’habite parmi les morts. J’entends la voix des gens, mais je ne les vois pas. » L’ange lui dit : « Courage ! Dieu va bientôt te guérir. » Tobit lui dit : « Mon fils Tobias doit aller en Médie. Est-ce que tu peux l’accompagner et lui servir de guide ? Je te paierai ton salaire, mon frère. » L’ange lui dit : « Je peux aller avec lui. Je connais tous les chemins, car je suis déjà allé plusieurs fois en Médie. J’ai traversé toutes les plaines et les montagnes de ce pays, et je connais toutes ses pistes. »",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "17005011",
+    "b": 17,
+    "c": 5,
+    "v": 11,
+    "t": "Tobit lui demande : « Mon frère, de quelle famille es-tu ? Et quelle est ta tribu ? Dis-le-moi, s’il te plaît. »",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "17005012",
+    "b": 17,
+    "c": 5,
+    "v": 12,
+    "t": "L’ange lui répond : « Ma tribu n’a pas d’importance. » Tobit lui dit : « Je veux connaître la vérité. Tu es le fils de qui ? Quel est ton nom ? »",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "17005013",
+    "b": 17,
+    "c": 5,
+    "v": 13,
+    "t": "L’ange Raphaël lui répond : « Je m’appelle Azaria, fils d’Ananias le Grand, un Israélite comme toi. »",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "17005014",
+    "b": 17,
+    "c": 5,
+    "v": 14,
+    "t": "Tobit lui dit : « Sois le bienvenu, mon frère. Ne te fâche pas contre moi, j’ai voulu seulement savoir la vérité sur ta famille. Tu es un frère et tu as des ancêtres dignes de respect. Je connais bien Ananias et Natan, les deux fils de Sémélias le Grand. Autrefois, nous allions ensemble à Jérusalem et là, nous adorions Dieu ensemble. Ils n’ont pas quitté le chemin droit. Ton père et ton oncle sont des hommes de bien, tu es d’une bonne famille. Sois donc le bienvenu ! »",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "17005015",
+    "b": 17,
+    "c": 5,
+    "v": 15,
+    "t": "Puis Tobit ajoute : « Je te paierai le salaire normal, une pièce d’argent par jour. Et pour tes autres frais, je te donnerai la même chose qu’à mon fils.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "17005016",
+    "b": 17,
+    "c": 5,
+    "v": 16,
+    "t": "À votre retour, j’ajouterai quelque chose en plus. »",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "17005017",
+    "b": 17,
+    "c": 5,
+    "v": 17,
+    "t": "L’ange lui dit : « Oui, je ferai le voyage avec ton fils. N’aie pas peur, tout se passera très bien pour nous au départ comme au retour, car la route n’est pas dangereuse. » Tobit lui dit : « Que Dieu te bénisse, mon frère ! » Ensuite, il s’adresse à son fils et lui dit : « Mon enfant, prépare ce qu’il faut pour le voyage, et pars avec Azaria, ton frère. Que le Dieu qui est au ciel vous protège là-bas, qu’il vous ramène auprès de moi en bonne santé ! Que son ange voyage avec vous et vous protège, mon enfant ! » Tobias prépare ses affaires, puis il embrasse son père et sa mère. Son père lui souhaite encore bon voyage.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "17005018",
+    "b": 17,
+    "c": 5,
+    "v": 18,
+    "t": "La mère de Tobias se met à pleurer et elle dit à Tobit : « Pourquoi est-ce que tu fais partir mon enfant ? C’est lui qui nous soutient pendant qu’il est là auprès de nous.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "17005019",
+    "b": 17,
+    "c": 5,
+    "v": 19,
+    "t": "Pourquoi vouloir tant d’argent ? L’argent ne vaut rien à côté de la vie de notre enfant.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "17005020",
+    "b": 17,
+    "c": 5,
+    "v": 20,
+    "t": "Ce que Dieu nous a donné pour vivre est bien suffisant ! »",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "17005021",
+    "b": 17,
+    "c": 5,
+    "v": 21,
+    "t": "Tobit dit à sa femme : « Ne te fais pas de souci, tout va bien se passer. Notre enfant reviendra en bonne santé comme il est parti. Tu verras cela de tes propres yeux quand il reviendra auprès de toi.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "17005022",
+    "b": 17,
+    "c": 5,
+    "v": 22,
+    "t": "Ne te fais donc pas de souci, n’aie pas peur pour eux, ma sœur. Un bon ange l’accompagnera, son voyage réussira et il reviendra en bonne santé. »",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "17005023",
+    "b": 17,
+    "c": 5,
+    "v": 23,
+    "t": "Alors la femme de Tobit s’arrête de pleurer.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "17006001",
+    "b": 17,
+    "c": 6,
+    "v": 1,
+    "t": "Le jeune homme part avec l’ange. Le chien de la maison part aussi avec eux. La première nuit, ils campent au bord du fleuve appelé le Tigre.",
+    "h": "Tobias part en Médie",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "17006002",
+    "b": 17,
+    "c": 6,
+    "v": 2,
+    "t": "Tobias descend se laver les pieds dans le fleuve. Mais un gros poisson saute hors de l’eau et il veut lui dévorer un pied. Tobias se met à crier.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "17006003",
+    "b": 17,
+    "c": 6,
+    "v": 3,
+    "t": "Alors l’ange lui dit : « Attrape-le et ne le lâche pas ! » Tobias arrive à attraper le poisson et le tire sur le bord.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "17006004",
+    "b": 17,
+    "c": 6,
+    "v": 4,
+    "t": "L’ange lui dit : « Ouvre-le, enlève-lui la bile, le cœur et le foie. Mets-les de côté et jette les intestins. En effet, la bile, le cœur et le foie sont utiles comme remèdes. »",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "17006005",
+    "b": 17,
+    "c": 6,
+    "v": 5,
+    "t": "Le jeune homme ouvre le poisson, il enlève la bile, le cœur et le foie. Il fait griller un morceau de poisson, il le mange et met le reste dans du sel pour le conserver.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "17006006",
+    "b": 17,
+    "c": 6,
+    "v": 6,
+    "t": "Ensuite, Tobias et l’ange continuent la route ensemble jusqu’à la frontière de la Médie.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "17006007",
+    "b": 17,
+    "c": 6,
+    "v": 7,
+    "t": "Alors le garçon interroge l’ange : « Azaria, mon frère, comment est-ce que le cœur, le foie et la bile d’un poisson peuvent guérir des maladies ? »",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "17006008",
+    "b": 17,
+    "c": 6,
+    "v": 8,
+    "t": "L’ange lui dit : « Quand un esprit mauvais attaque un homme ou une femme, on brûle devant cette personne le cœur et le foie du poisson. La fumée qui monte chasse aussitôt l’esprit mauvais, et l’homme ou la femme sont guéris pour toujours.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "17006009",
+    "b": 17,
+    "c": 6,
+    "v": 9,
+    "t": "Quand une personne a des taches blanches sur les yeux, on lui frotte les yeux avec la bile, et ils guérissent »",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "17006010",
+    "b": 17,
+    "c": 6,
+    "v": 10,
+    "t": "Raphaël et Tobias arrivent en Médie. Quand ils approchent d’Ecbatane,",
+    "h": "Raphaël conseille à Tobias de se marier avec Sara",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "17006011",
+    "b": 17,
+    "c": 6,
+    "v": 11,
+    "t": "Raphaël dit à Tobias : « Tobias, mon frère ! » Tobias lui répond : « Qu’est-ce qu’il y a ? » L’ange continue : « Cette nuit, nous devons loger chez ton parent Ragouël. Il a une fille : Sara.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "17006012",
+    "b": 17,
+    "c": 6,
+    "v": 12,
+    "t": "À part elle, il n’a pas de fils et pas d’autre fille. Tu es le plus proche parent de Sara. Tu as le droit de la prendre pour femme et d’hériter des biens de son père. C’est une jeune fille intelligente, courageuse et belle, et son père est un homme respectable.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "17006013",
+    "b": 17,
+    "c": 6,
+    "v": 13,
+    "t": "Tu as le droit de te marier avec elle. Écoute-moi, frère : je parlerai de la jeune fille à son père, dès ce soir, afin qu’il la réserve pour toi. Et quand nous reviendrons de Raguès, nous ferons le mariage. Ragouël ne peut pas te la refuser ni la fiancer à quelqu’un d’autre, j’en suis sûr. S’il fait cela, il doit être condamné à mort selon la loi de Moïse. En effet, il sait que, selon cette loi, tu as le droit de prendre sa fille avant tout autre homme. Alors, écoute-moi, frère : dès ce soir, Ragouël et moi, nous parlerons de la jeune fille, et je la demanderai en mariage à son père pour toi. À notre retour de Raguès, nous la prendrons avec nous et nous la conduirons chez toi. »",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "17006014",
+    "b": 17,
+    "c": 6,
+    "v": 14,
+    "t": "Tobias répond à Raphaël : « Azaria, mon frère, voici ce qu’on m’a raconté : Sara a eu sept maris, et tous ses maris sont morts dans la chambre de mariage. Pendant la nuit, quand ils voulaient s’approcher d’elle, ils mouraient. On m’a même dit que c’était un esprit mauvais qui les tuait.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "17006015",
+    "b": 17,
+    "c": 6,
+    "v": 15,
+    "t": "C’est pourquoi j’ai peur. L’esprit mauvais ne fait pas de mal à la jeune fille, mais quand un homme veut s’approcher d’elle, l’esprit le tue. Je suis fils unique, et si je meurs, mon père et ma mère descendront dans la tombe remplis de tristesse à cause de moi. Et ils n’ont pas d’autre fils pour les enterrer. »",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "17006016",
+    "b": 17,
+    "c": 6,
+    "v": 16,
+    "t": "Raphaël lui dit : « Est-ce que tu as oublié ce que ton père t’a dit ? Il t’a donné l’ordre de prendre une femme dans sa propre famille. Écoute-moi, mon frère, ne te fais pas de souci pour cet esprit mauvais et marie-toi avec Sara. J’en suis sûr, ce soir même, on te la donnera pour femme.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "17006017",
+    "b": 17,
+    "c": 6,
+    "v": 17,
+    "t": "Quand tu seras entré dans la chambre de mariage, prends le cœur et un morceau de foie du poisson. Mets-les sur les charbons du brûle-parfum, et l’odeur va se répandre. L’esprit mauvais la respirera et il s’enfuira. Il ne se montrera plus jamais autour d’elle.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "17006018",
+    "b": 17,
+    "c": 6,
+    "v": 18,
+    "t": "Avant de vous unir, levez-vous tous les deux et priez le Seigneur qui est au ciel. Demandez-lui d’avoir pitié de vous et de vous protéger. N’aie pas peur, Sara est choisie pour toi depuis toujours, c’est toi qui vas la sauver. Elle ira avec toi, tu auras d’elle des enfants, j’en suis sûr. Ils seront pour toi comme des frères. Donc, ne te fais pas de souci. »",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "17006019",
+    "b": 17,
+    "c": 6,
+    "v": 19,
+    "t": "Tobias apprend ainsi de Raphaël que Sara est de sa famille et de la tribu de son père. Il commence à l’aimer de tout son cœur, et il ne peut plus se détacher d’elle.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "17007001",
+    "b": 17,
+    "c": 7,
+    "v": 1,
+    "t": "Quand ils arrivent à Ecbatane, Tobias dit : « Azaria, mon frère, conduis-moi tout droit chez notre frère Ragouël. » L’ange le conduit alors chez Ragouël. Celui-ci est assis devant la porte de sa cour. Tobias et l’ange le saluent les premiers. Ragouël leur répond : « Je vous salue, mes frères, j’espère que vous allez bien ! » Et il les fait entrer chez lui.",
+    "h": "Ragouël donne sa fille à Tobias",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "17007002",
+    "b": 17,
+    "c": 7,
+    "v": 2,
+    "t": "Il dit à sa femme Edna : « Ce jeune homme ressemble vraiment beaucoup à mon parent Tobit. »",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "17007003",
+    "b": 17,
+    "c": 7,
+    "v": 3,
+    "t": "Edna leur demande : « D’où venez-vous, frères ? » Ils répondent : « De Ninive. Nous sommes des déportés israélites, de la tribu de Neftali. »",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "17007004",
+    "b": 17,
+    "c": 7,
+    "v": 4,
+    "t": "Elle leur demande : « Est-ce que vous connaissez Tobit, qui est de notre famille ? » Ils lui répondent : « Oui, nous le connaissons. »",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "17007005",
+    "b": 17,
+    "c": 7,
+    "v": 5,
+    "t": "Elle leur dit : « Comment va-t-il ? » Ils lui disent : « Il est toujours en vie et il va bien. » Et Tobias ajoute : « C’est mon père ! »",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "17007006",
+    "b": 17,
+    "c": 7,
+    "v": 6,
+    "t": "Alors Ragouël se lève aussitôt, et il l’embrasse en pleurant. Puis il lui dit : « Que Dieu te bénisse, mon enfant ! Tu as un bon père, c’est un homme juste qui partage ses biens avec les pauvres. Quel malheur qu’un homme aussi juste et généreux soit devenu aveugle ! » Ragouël embrasse de nouveau Tobias et il se met à pleurer.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "17007007",
+    "b": 17,
+    "c": 7,
+    "v": 7,
+    "t": "Sa femme Edna et leur fille Sara pleurent aussi en pensant à Tobit.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "17007008",
+    "b": 17,
+    "c": 7,
+    "v": 8,
+    "t": "Ensuite, Ragouël fait tuer un mouton de son troupeau et il reçoit ses visiteurs avec beaucoup d’amitié.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "17007009",
+    "b": 17,
+    "c": 7,
+    "v": 9,
+    "t": "Ils se lavent et se rendent purs, puis ils se mettent à table. Tobias dit alors à Raphaël : « Azaria, mon frère, demande à Ragouël de me donner ma sœur Sara en mariage. »",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "17007010",
+    "b": 17,
+    "c": 7,
+    "v": 10,
+    "t": "Ragouël entend cela et dit au jeune homme : « Pour le moment, mange, bois et passe une bonne soirée. À part toi, mon frère, personne n’a le droit de se marier avec ma fille Sara, et moi, je ne suis pas libre de la donner à quelqu’un d’autre. Elle est pour toi, car tu es mon plus proche parent. Mais je vais te dire toute la vérité :",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "17007011",
+    "b": 17,
+    "c": 7,
+    "v": 11,
+    "t": "je l’ai déjà donnée en mariage sept fois. Ces jeunes gens étaient des Israélites. Or, ils sont tous morts la nuit où ils ont voulu s’unir à elle. En tout cas, mon enfant, mange et bois : le Seigneur montrera sa bonté envers vous. »",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "17007012",
+    "b": 17,
+    "c": 7,
+    "v": 12,
+    "t": "Mais Tobias répond : « Non, je ne mangerai pas et je ne boirai pas avant que tu prennes une décision au sujet de Sara. » Ragouël lui dit : « Eh bien, je vais le faire. Sara est à toi, comme la loi de Moïse le demande. Accepte-la pour femme. Donc, c’est Dieu qui te la donne. À partir de maintenant, tu es son mari, et elle est ta femme. Elle est à toi dès aujourd’hui et pour toujours. La nuit sera bonne pour vous, car le Seigneur qui est au ciel vous protège. Qu’il vous montre sa bonté et vous garde dans la paix ! »",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "17007013",
+    "b": 17,
+    "c": 7,
+    "v": 13,
+    "t": "Ragouël appelle ensuite sa fille Sara. Quand elle arrive, il lui prend la main et la pose dans celle de Tobias en disant : « Accepte-la pour femme, comme la loi de Moïse le demande. Prends-la avec toi, et conduis-la dans la maison de ton père. Que le Dieu qui est au ciel vous guide et vous rende heureux ! »",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "17007014",
+    "b": 17,
+    "c": 7,
+    "v": 14,
+    "t": "Puis Ragouël appelle la mère de Sara et lui dit : « Apporte quelque chose pour écrire. » Il écrit le contrat de mariage. Le voici : « Ragouël donne en mariage sa fille Sara à Tobias, comme la loi de Moïse le demande. » Après cela, ils se mettent à manger et à boire.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "17007015",
+    "b": 17,
+    "c": 7,
+    "v": 15,
+    "t": "Ragouël appelle sa femme Edna. Il lui dit : « Ma sœur, prépare l’autre chambre pour Sara et conduis-la à cet endroit. »",
+    "h": "La nuit du mariage",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "17007016",
+    "b": 17,
+    "c": 7,
+    "v": 16,
+    "t": "Edna va préparer le lit dans la chambre, comme son mari l’a demandé. Elle amène sa fille dans cette chambre et elle pleure en pensant à Sara. Puis elle essuie ses larmes et lui dit :",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "17007017",
+    "b": 17,
+    "c": 7,
+    "v": 17,
+    "t": "« Courage, ma fille ! Que le Seigneur qui est au ciel change ton chagrin en joie ! Courage, ma fille ! » Et elle sort.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "17008001",
+    "b": 17,
+    "c": 8,
+    "v": 1,
+    "t": "Quand ils ont fini de manger et de boire, ils veulent se coucher. On conduit le jeune homme dans la chambre.",
+    "h": "",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "17008002",
+    "b": 17,
+    "c": 8,
+    "v": 2,
+    "t": "Alors Tobias se souvient des paroles de Raphaël. Il tire de son sac le foie et le cœur du poisson et les met sur les charbons du brûle-parfum.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "17008003",
+    "b": 17,
+    "c": 8,
+    "v": 3,
+    "t": "L’odeur du poisson repousse l’esprit mauvais, qui fuit dans l’air jusqu’en Égypte. Raphaël le poursuit, il le domine et l’attache aussitôt avec des chaînes.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "17008004",
+    "b": 17,
+    "c": 8,
+    "v": 4,
+    "t": "Puis les parents quittent la chambre et ferment la porte. Alors Tobias sort du lit et dit à Sara : « Lève-toi, ma sœur. Prions avec force notre Seigneur pour qu’il nous montre sa bonté et nous protège. »",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "17008005",
+    "b": 17,
+    "c": 8,
+    "v": 5,
+    "t": "Sara se lève, et ils se mettent à prier et à supplier le Seigneur de les protéger. Voici la prière de Tobias : « Louange à toi, Dieu de nos ancêtres ! Louange à ton nom pour toujours ! Que le ciel et tout ce que tu as créé chantent ta louange pour toujours !",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "17008006",
+    "b": 17,
+    "c": 8,
+    "v": 6,
+    "t": "C’est toi qui as créé Adam et c’est toi qui as créé Ève, sa femme, pour l’aider et le soutenir. Et ce couple a donné naissance à la famille humaine. Tu as dit : “Pour l’homme, ce n’est pas bon d’être seul. Je vais lui faire une aide qui lui convienne parfaitement.”",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "17008007",
+    "b": 17,
+    "c": 8,
+    "v": 7,
+    "t": "Maintenant, ce n’est pas un désir contraire à la loi qui me fait prendre Sara pour femme, mais la fidélité envers toi. Je t’en prie, aie pitié d’elle et de moi et accorde-nous à tous deux de vivre très vieux ensemble. »",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "17008008",
+    "b": 17,
+    "c": 8,
+    "v": 8,
+    "t": "Puis ils disent : « Oui, qu’il en soit ainsi ! »",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "17008009",
+    "b": 17,
+    "c": 8,
+    "v": 9,
+    "t": "Et ils se couchent pour la nuit.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "17008010",
+    "b": 17,
+    "c": 8,
+    "v": 10,
+    "t": "Ragouël se lève et il appelle ses serviteurs pour aller creuser une tombe. En effet, il pense : Le jeune homme va peut-être mourir. Alors les gens vont se moquer de nous et nous insulter.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "17008011",
+    "b": 17,
+    "c": 8,
+    "v": 11,
+    "t": "Quand ils ont fini de creuser la tombe, Ragouël revient à la maison et il appelle sa femme.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "17008012",
+    "b": 17,
+    "c": 8,
+    "v": 12,
+    "t": "Il lui dit : « Envoie une servante dans la chambre pour voir si Tobias vit encore. S’il est mort, nous pourrons l’enterrer, et personne ne le saura. »",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "17008013",
+    "b": 17,
+    "c": 8,
+    "v": 13,
+    "t": "Ils font venir la servante. Ils allument la lampe et ouvrent la porte de la chambre. La servante entre et elle les trouve tous les deux en train de dormir profondément.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "17008014",
+    "b": 17,
+    "c": 8,
+    "v": 14,
+    "t": "Elle sort et elle leur annonce : « Il est vivant ! Tout va bien ! »",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "17008015",
+    "b": 17,
+    "c": 8,
+    "v": 15,
+    "t": "Alors ils remercient le Dieu qui est au ciel, et Ragouël dit : « Mon Dieu, qu’ils chantent ta louange, tous ceux qui ont le cœur pur ! Louange à toi pour toujours !",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "17008016",
+    "b": 17,
+    "c": 8,
+    "v": 16,
+    "t": "Louange à toi, parce que tu me remplis de joie ! Ce que j’imaginais n’est pas arrivé. Tu as agi envers nous selon ta grande bonté.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "17008017",
+    "b": 17,
+    "c": 8,
+    "v": 17,
+    "t": "Merci d’avoir eu pitié de deux enfants uniques ! Maître, montre-leur ta tendresse et protège-les ! Fais que leur vie se passe dans la joie ! »",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "17008018",
+    "b": 17,
+    "c": 8,
+    "v": 18,
+    "t": "Ensuite, Ragouël donne l’ordre à ses serviteurs de boucher la tombe avant le lever du jour.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "17008019",
+    "b": 17,
+    "c": 8,
+    "v": 19,
+    "t": "Ragouël demande à sa femme de faire cuire beaucoup de pain. Il choisit deux bœufs et quatre moutons dans son troupeau, et il demande aux cuisiniers de les faire cuire. On commence alors à préparer la fête.",
+    "h": "Le repas de mariage",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "17008020",
+    "b": 17,
+    "c": 8,
+    "v": 20,
+    "t": "Ragouël appelle Tobias et lui dit : « Tu ne partiras pas de chez moi avant 14 jours, mais tu resteras ici pour manger et boire. Tu rendras ma fille heureuse et tu lui feras oublier tous ses malheurs, elle qui a tant souffert.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "17008021",
+    "b": 17,
+    "c": 8,
+    "v": 21,
+    "t": "Je te donnerai la moitié de mes biens, et tu retourneras sans difficulté auprès de ton père. Vous aurez l’autre moitié de nos biens quand nous serons morts, ma femme et moi. Aie confiance, mon enfant ! Je suis ton père, et Edna est ta mère. Nous sommes tes parents, comme nous sommes ceux de ta femme, dès maintenant et pour toujours. Aie donc confiance, mon enfant ! »",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "17009001",
+    "b": 17,
+    "c": 9,
+    "v": 1,
+    "t": "Alors Tobias appelle Raphaël et lui dit :",
+    "h": "Raphaël part pour Raguès",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "17009002",
+    "b": 17,
+    "c": 9,
+    "v": 2,
+    "t": "« Azaria, mon frère, emmène avec toi quatre serviteurs et deux chameaux. Va à Raguès chez Gabaël. Donne-lui le document signé et prends l’argent laissé chez lui. Puis reviens avec Gabaël pour la fête du mariage.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "17009003",
+    "b": 17,
+    "c": 9,
+    "v": 3,
+    "t": "Mon père est sûrement en train de compter les jours jusqu’à mon retour. Si je suis en retard d’un jour, cela lui fera beaucoup de peine. De plus, tu le sais, Ragouël a juré de ne pas me laisser partir, et je ne peux pas aller contre son serment. »",
+    "h": "",
+    "o": 3,
+    "l": "3-4"
+  },
+  {
+    "id": "17009004",
+    "b": 17,
+    "c": 9,
+    "v": 5,
+    "t": "Raphaël part donc pour Raguès de Médie, avec les quatre serviteurs et les deux chameaux. Ils passent la nuit chez Gabaël. Raphaël lui remet le document signé au sujet de l’argent. Ensuite, il lui apprend le mariage de Tobias, fils de Tobit, et il l’invite à la fête du mariage. Gabaël compte aussitôt les sacs d’argent qui sont encore fermés par un sceau. Puis ils les chargent sur les chameaux.",
+    "h": "",
+    "o": 4,
+    "l": "5"
+  },
+  {
+    "id": "17009005",
+    "b": 17,
+    "c": 9,
+    "v": 6,
+    "t": "Ils partent ensemble le matin suivant, très tôt, et ils vont au mariage. Quand ils arrivent chez Ragouël, ils trouvent Tobias à table. Celui-ci se lève aussitôt et salue Gabaël. Gabaël se met à pleurer et il bénit Tobias en disant : « Fils excellent d’un père excellent, juste et généreux ! Que le Seigneur, du haut du ciel, te bénisse ! Qu’il bénisse ta femme, le père et la mère de ta femme ! Je remercie le Seigneur, car, en te voyant, je crois voir mon cousin Tobit lui-même. »",
+    "h": "",
+    "o": 5,
+    "l": "6"
+  },
+  {
+    "id": "17010001",
+    "b": 17,
+    "c": 10,
+    "v": 1,
+    "t": "Jour après jour, Tobit calcule le temps qu’il faut pour aller à Raguès et en revenir. Quand ce temps est passé, son fils n’est pas encore de retour.",
+    "h": "Tobit et Anna sont inquiets",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "17010002",
+    "b": 17,
+    "c": 10,
+    "v": 2,
+    "t": "Il se dit : « Il a peut-être été retenu là-bas. Ou bien Gabaël est mort, et il n’y a personne pour lui remettre l’argent. »",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "17010003",
+    "b": 17,
+    "c": 10,
+    "v": 3,
+    "t": "Et Tobit commence à se faire du souci.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "17010004",
+    "b": 17,
+    "c": 10,
+    "v": 4,
+    "t": "Puis Anna, sa femme, dit : « Mon enfant est mort ! Il n’est plus parmi les vivants ! » Elle se met à pleurer et à gémir en pensant à lui. Elle dit :",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "17010005",
+    "b": 17,
+    "c": 10,
+    "v": 5,
+    "t": "« Quel malheur pour moi, mon fils ! Je t’ai laissé partir, toi, la lumière de mes yeux ! »",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "17010006",
+    "b": 17,
+    "c": 10,
+    "v": 6,
+    "t": "Mais Tobit lui dit : « Tais-toi, ne te fais pas de souci, ma sœur, il va bien. Ils ont sans doute été retenus là-bas. Son compagnon de voyage est un homme sûr, c’est l’un de nos frères. Ne te fais pas de souci pour ton enfant, ma sœur, il va bientôt revenir. »",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "17010007",
+    "b": 17,
+    "c": 10,
+    "v": 7,
+    "t": "Mais Anna lui répond : « Ne me dis plus rien ! Arrête de me tromper ! Mon enfant est mort ! » Anna n’a plus confiance en personne. Chaque jour, elle sort tôt, elle surveille elle-même la route par laquelle son fils est parti. Le soir, elle rentre à la maison. Là, elle gémit et pleure toute la nuit, elle n’arrive pas à dormir.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "17010008",
+    "b": 17,
+    "c": 10,
+    "v": 8,
+    "t": "Ragouël avait décidé d’organiser 14 jours de fête pour le mariage de sa fille. Quand ce temps est passé, Tobias lui dit : « Laisse-moi partir. Mon père et ma mère ont sûrement perdu l’espoir de me revoir. Je t’en prie, laisse-moi partir et retourner chez mon père. Je t’ai déjà expliqué dans quel état je l’ai laissé. »",
+    "h": "Tobias veut retourner chez son père",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "17010009",
+    "b": 17,
+    "c": 10,
+    "v": 9,
+    "t": "Mais Ragouël répond à Tobias : « Mon enfant, reste chez moi. Je vais envoyer des messagers à ton père Tobit. Ils lui donneront de tes nouvelles. » Mais Tobias lui dit : « Non, je t’en prie, laisse-moi retourner chez mon père. »",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "17010010",
+    "b": 17,
+    "c": 10,
+    "v": 10,
+    "t": "Alors Ragouël lui donne Sara, sa femme, et la moitié de tous ses biens : des serviteurs et des servantes, des bœufs et des moutons, des ânes et des chameaux, des vêtements, de l’argent et des objets divers.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "17010011",
+    "b": 17,
+    "c": 10,
+    "v": 11,
+    "t": "Ragouël les laisse partir, très heureux. Il dit au revoir à Tobias : « Porte-toi bien, mon enfant et bon voyage ! Que le Seigneur vous guide, toi et ta femme Sara ! J’espère voir vos enfants avant de mourir. »",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "17010012",
+    "b": 17,
+    "c": 10,
+    "v": 12,
+    "t": "Ensuite, il dit à sa fille Sara : « Va chez ton beau-père. Maintenant, les parents de ton mari seront pour toi comme nous qui t’avons donné la vie. Va en paix, ma fille ! J’espère entendre dire du bien de toi tant que je vivrai. » Puis il les salue et les laisse partir.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "17010013",
+    "b": 17,
+    "c": 10,
+    "v": 13,
+    "t": "À son tour, Edna dit à Tobias : « Mon enfant, mon frère très aimé, que le Seigneur soit avec toi sur la route du retour ! Qu’il me donne de vivre longtemps ! Ainsi je pourrai voir avant de mourir les enfants que vous aurez, Sara et toi ! Devant Dieu, je te confie ma fille. Prends soin d’elle. Ne lui fais jamais de peine pendant toute ta vie. Mon enfant, va en paix ! À partir de maintenant, je suis ta mère, et Sara est ta sœur. Je souhaite que nous soyons tous heureux de la même manière, tous les jours de notre vie. » Puis Edna les embrasse tous les deux et elle les laisse partir, très heureux.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "17010014",
+    "b": 17,
+    "c": 10,
+    "v": 14,
+    "t": "Alors Tobias quitte Ragouël, heureux et joyeux. Il remercie le Seigneur du ciel et de la terre, le roi de l’univers, car il a fait réussir son voyage. Ragouël dit encore à Tobias : « Que le Seigneur te donne le bonheur d’honorer tes parents tous les jours de ta vie ! »",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "17011001",
+    "b": 17,
+    "c": 11,
+    "v": 1,
+    "t": "Ils approchent de la ville de Casérine, qui est en face de Ninive. Raphaël dit à Tobias :",
+    "h": "Tobit est guéri",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "17011002",
+    "b": 17,
+    "c": 11,
+    "v": 2,
+    "t": "« Tu sais dans quel état nous avons laissé ton père.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "17011003",
+    "b": 17,
+    "c": 11,
+    "v": 3,
+    "t": "Partons en avant pour arriver avant ta femme. Ainsi, nous préparerons la maison pendant qu’elle viendra avec les autres. »",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "17011004",
+    "b": 17,
+    "c": 11,
+    "v": 4,
+    "t": "Ils partent donc en avant, tous les deux ensemble. Raphaël dit à Tobias : « Prends la bile du poisson avec toi. » Le chien de Tobias les suit.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "17011005",
+    "b": 17,
+    "c": 11,
+    "v": 5,
+    "t": "Pendant ce temps, Anna, la mère de Tobias est assise devant la maison. Elle guette la route par laquelle son fils doit revenir.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "17011006",
+    "b": 17,
+    "c": 11,
+    "v": 6,
+    "t": "Tout à coup, elle le voit arriver et dit à son mari : « Voilà ton fils avec l’homme qui l’a accompagné ! »",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "17011007",
+    "b": 17,
+    "c": 11,
+    "v": 7,
+    "t": "Avant que Tobias soit près de son père, Raphaël lui dit : « Les yeux de ton père vont s’ouvrir, j’en suis sûr.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "17011008",
+    "b": 17,
+    "c": 11,
+    "v": 8,
+    "t": "Applique la bile du poisson sur ses yeux. Le remède va faire disparaître petit à petit les taches blanches de ses yeux. Ensuite, ton père ne sera plus aveugle, il verra la lumière. »",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "17011009",
+    "b": 17,
+    "c": 11,
+    "v": 9,
+    "t": "À ce moment-là, Anna court se jeter au cou de son fils. Elle lui dit : « Je te revois mon fils, maintenant je peux mourir. » Elle se met à pleurer.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "17011010",
+    "b": 17,
+    "c": 11,
+    "v": 10,
+    "t": "Tobit se lève. En marchant difficilement, il sort par la porte de la cour.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "17011011",
+    "b": 17,
+    "c": 11,
+    "v": 11,
+    "t": "Son fils Tobias va à sa rencontre. Il tient la bile du poisson dans la main. Il souffle sur les yeux de son père et lui dit, en le tenant fort : « Courage, mon père ! » Il lui applique le remède sur les yeux et le laisse agir.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "17011012",
+    "b": 17,
+    "c": 11,
+    "v": 12,
+    "t": "Puis, avec ses mains, il fait tomber des écailles blanches au coin de chaque œil.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "17011013",
+    "b": 17,
+    "c": 11,
+    "v": 13,
+    "t": "Alors le père se jette au cou de Tobias et il lui dit en pleurant : « Je te revois, mon fils, toi, la lumière de mes yeux. »",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "17011014",
+    "b": 17,
+    "c": 11,
+    "v": 14,
+    "t": "Ensuite il ajoute : « Louange à Dieu ! Louange à son nom glorieux ! Louange à tous ses anges saints ! Que le Dieu au nom glorieux nous protège toujours ! Louange à tous ses anges pour toujours ! Le Seigneur m’a envoyé cette souffrance, mais maintenant, je vois de nouveau mon fils Tobias ! »",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "17011015",
+    "b": 17,
+    "c": 11,
+    "v": 15,
+    "t": "Tobias entre dans la maison. Il est heureux et chante la louange du Seigneur à haute voix. Il raconte tout à son père : « Mon voyage a bien réussi, j’ai rapporté l’argent placé chez Gabaël. J’ai pris pour femme Sara, la fille de Ragouël. Elle arrive, elle est maintenant près de la porte de Ninive. »",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "17011016",
+    "b": 17,
+    "c": 11,
+    "v": 16,
+    "t": "Tobit est heureux. Il chante la louange du Seigneur et va à la rencontre de sa belle-fille, vers la porte de Ninive. Les gens de Ninive sont étonnés. Ils le voient marcher facilement, et personne ne le guide. Tobit annonce à tout le monde : « Dieu a eu pitié de moi, il m’a ouvert les yeux. »",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "17011017",
+    "b": 17,
+    "c": 11,
+    "v": 17,
+    "t": "Quand il arrive près de Sara, la femme de son fils Tobias, il la bénit en disant : « Sois la bienvenue, ma fille ! Louange à ton Dieu qui t’a fait venir chez nous ! Que ton père soit béni ! Que mon fils Tobias soit béni ! Sois bénie, toi aussi, ma fille ! Entre dans ta maison, tu es la bienvenue ! Pour toi, bénédiction et joie ! Entre ma fille ! »",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "17011018",
+    "b": 17,
+    "c": 11,
+    "v": 18,
+    "t": "Ce jour-là, tous les Juifs de Ninive sont pleins de joie.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "17011019",
+    "b": 17,
+    "c": 11,
+    "v": 19,
+    "t": "Ahikar et Nadab, les neveux de Tobit, viennent se réjouir avec lui.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "17012001",
+    "b": 17,
+    "c": 12,
+    "v": 1,
+    "t": "Quand la fête du mariage est finie, Tobit appelle son fils Tobias et lui dit : « Mon enfant, tu dois payer le salaire de ton compagnon de voyage en ajoutant une récompense. »",
+    "h": "Raphaël fait savoir qui il est",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "17012002",
+    "b": 17,
+    "c": 12,
+    "v": 2,
+    "t": "Tobias répond à son père : « Père, quelle somme lui verser ? Même si je lui donnais la moitié des biens qu’il m’a aidé à rapporter, je ne perdrais rien.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "17012003",
+    "b": 17,
+    "c": 12,
+    "v": 3,
+    "t": "En effet, il m’a ramené en bonne santé, il a guéri ma femme, il m’a aidé à rapporter l’argent et il t’a guéri. Quelle somme lui donner pour tout cela ? »",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "17012004",
+    "b": 17,
+    "c": 12,
+    "v": 4,
+    "t": "Tobit lui dit : « Mon enfant, il mérite bien de recevoir la moitié de tout ce qu’il a rapporté. »",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "17012005",
+    "b": 17,
+    "c": 12,
+    "v": 5,
+    "t": "Tobias appelle donc Raphaël et lui dit : « Prends comme salaire la moitié de tout ce que tu as rapporté. Et maintenant, tu peux rentrer chez toi dans la paix. »",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "17012006",
+    "b": 17,
+    "c": 12,
+    "v": 6,
+    "t": "Alors Raphaël prend à part Tobit et son fils Tobias. Il leur dit : « Remerciez Dieu et racontez devant tous les êtres vivants ce qu’il a fait pour vous. Alors ils le remercieront et chanteront en son honneur. Faites connaître à tous les êtres humains les actions de Dieu comme elles le méritent. N’attendez pas pour le remercier.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "17012007",
+    "b": 17,
+    "c": 12,
+    "v": 7,
+    "t": "Il est bon de tenir caché le secret du roi. Mais les actions de Dieu, il faut les chanter et les faire connaître. Chantez-les comme elles le méritent. « Faites le bien, et le malheur ne vous atteindra pas.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "17012008",
+    "b": 17,
+    "c": 12,
+    "v": 8,
+    "t": "Il faut prier avec vérité et donner aux pauvres pour être juste. Cela vaut mieux que d’être riche en étant malhonnête. Il vaut mieux donner aux pauvres que d’amasser de l’or.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "17012009",
+    "b": 17,
+    "c": 12,
+    "v": 9,
+    "t": "Ces dons délivrent de la mort et rendent pur de tout péché. Ceux qui donnent aux pauvres vivront très longtemps.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "17012010",
+    "b": 17,
+    "c": 12,
+    "v": 10,
+    "t": "Ceux qui commettent des péchés et qui sont malhonnêtes se font du mal à eux-mêmes.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "17012011",
+    "b": 17,
+    "c": 12,
+    "v": 11,
+    "t": "« Maintenant, je vais vous dire la vérité et je ne vous cacherai rien. Je viens de vous faire connaître ceci : il est bon de cacher le secret du roi et de faire connaître les actions de Dieu comme elles le méritent.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "17012012",
+    "b": 17,
+    "c": 12,
+    "v": 12,
+    "t": "Eh bien, quand tu priais, Tobit, et quand Sara priait, c’est moi qui présentais votre prière au Seigneur glorieux. Je le faisais aussi quand tu enterrais les morts.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "17012013",
+    "b": 17,
+    "c": 12,
+    "v": 13,
+    "t": "Tu n’as pas hésité à te lever de table et à laisser ton repas pour aller enterrer un mort. Dieu m’a envoyé vers toi à ce moment-là pour voir ce que tu valais.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "17012014",
+    "b": 17,
+    "c": 12,
+    "v": 14,
+    "t": "Mais il m’a envoyé aussi pour te guérir ainsi que Sara, ta belle-fille.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "17012015",
+    "b": 17,
+    "c": 12,
+    "v": 15,
+    "t": "Je suis Raphaël, l’un des sept anges qui se tiennent devant le Seigneur glorieux et s’approchent de lui pour le servir. »",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "17012016",
+    "b": 17,
+    "c": 12,
+    "v": 16,
+    "t": "Tobit et son fils sont très émus. Ils se mettent à genoux, le front contre le sol, car ils ont peur.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "17012017",
+    "b": 17,
+    "c": 12,
+    "v": 17,
+    "t": "Mais l’ange leur dit : « N’ayez pas peur ! Soyez dans la paix ! Remerciez Dieu en tout temps !",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "17012018",
+    "b": 17,
+    "c": 12,
+    "v": 18,
+    "t": "Quand j’étais avec vous, ce n’est pas parce que j’étais bon, mais parce que Dieu le voulait. C’est lui que vous devez remercier. Vous devez chanter sa louange tous les jours de votre vie.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "17012019",
+    "b": 17,
+    "c": 12,
+    "v": 19,
+    "t": "Quand vous me voyiez manger, en fait, je ne mangeais pas vraiment, mais vous aviez une vision.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "17012020",
+    "b": 17,
+    "c": 12,
+    "v": 20,
+    "t": "Chantez donc la louange du Seigneur sur cette terre et annoncez la grandeur de Dieu. Et moi, je retourne auprès de celui qui m’a envoyé. Vous, mettez par écrit tout ce qui vous est arrivé. » Ensuite, Raphaël monte vers le ciel.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "17012021",
+    "b": 17,
+    "c": 12,
+    "v": 21,
+    "t": "Tobit et son fils se relèvent, mais ils ne le voient plus.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "17012022",
+    "b": 17,
+    "c": 12,
+    "v": 22,
+    "t": "Ils chantent la louange de Dieu, ils le remercient pour toutes les grandes choses qu’il a accomplies : un ange de Dieu s’est montré à eux !",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "17013001",
+    "b": 17,
+    "c": 13,
+    "v": 1,
+    "t": "Et Tobit dit :",
+    "h": "Chant de Tobit",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "17013002",
+    "b": 17,
+    "c": 13,
+    "v": 2,
+    "t": "« Louange au Dieu vivant qui est roi pour toujours ! C’est lui qui punit et qui pardonne. Il fait descendre dans le monde des morts, dans la profondeur de la terre, puis il délivre de la mort terrible. Rien n’échappe à son pouvoir.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "17013003",
+    "b": 17,
+    "c": 13,
+    "v": 3,
+    "t": "Israélites, chantez-le devant les autres peuples parmi lesquels il vous a envoyés.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "17013004",
+    "b": 17,
+    "c": 13,
+    "v": 4,
+    "t": "Chez eux aussi, il vous a fait voir sa puissance. Annoncez sa grandeur devant tous les êtres vivants. Oui, il est notre Seigneur, notre Dieu et notre Père ! Il est Dieu pour toujours.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "17013005",
+    "b": 17,
+    "c": 13,
+    "v": 5,
+    "t": "Il vous punit parce que vous agissez mal, mais il aura pitié de vous tous. Il vous fera revenir de tous les pays où vous avez été envoyés.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "17013006",
+    "b": 17,
+    "c": 13,
+    "v": 6,
+    "t": "Revenez vers lui de tout votre cœur et de tout votre être, pour vivre dans la vérité devant lui. Alors il reviendra vers vous et ne vous cachera plus son visage.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "17013007",
+    "b": 17,
+    "c": 13,
+    "v": 7,
+    "t": "Et maintenant, réfléchissez à ce qu’il a fait pour vous et chantez-le à pleine voix. Chantez la louange du Seigneur qui est juste, annoncez la grandeur du Roi de toujours.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "17013008",
+    "b": 17,
+    "c": 13,
+    "v": 8,
+    "t": "Moi, je le chante dans le pays où j’ai été déporté. Je montre sa force et sa grandeur à un peuple qui agit mal. Revenez vers lui, vous qui agissez mal, faites ce qui est juste devant lui. Qui sait ? Il vous montrera peut-être sa bonté et vous traitera avec générosité.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "17013009",
+    "b": 17,
+    "c": 13,
+    "v": 9,
+    "t": "Je chante la grandeur de mon Dieu et je suis plein de joie à cause du Roi qui est au ciel.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "17013010",
+    "b": 17,
+    "c": 13,
+    "v": 10,
+    "t": "Que tous annoncent : Dieu est grand ! Qu’ils le chantent à Jérusalem ! Jérusalem, ville sainte, Dieu te punira à cause des actions de tes habitants. Mais de nouveau, il montrera sa bonté à ceux qui lui obéissent.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "17013011",
+    "b": 17,
+    "c": 13,
+    "v": 11,
+    "t": "Chante donc le Seigneur avec éclat, oui, chante la louange du Roi de toujours. Alors chez toi, on reconstruira son temple dans la joie.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "17013012",
+    "b": 17,
+    "c": 13,
+    "v": 12,
+    "t": "Que le Seigneur rende la joie à tous les déportés ! Qu’il montre son amour jusqu’à la fin du monde à tous les malheureux qui vivent chez toi !",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "17013013",
+    "b": 17,
+    "c": 13,
+    "v": 13,
+    "t": "Chez toi, une vive lumière éclairera tous les pays de la terre. Des peuples nombreux venant de loin arriveront chez toi. Les habitants des pays du bout du monde viendront vers toi, Jérusalem ! Ils porteront dans leurs mains des offrandes pour le Roi qui est au ciel. Les générations à venir te rempliront de joie les unes après les autres. Dans tous les temps, on t’appellera “Ville choisie”.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "17013014",
+    "b": 17,
+    "c": 13,
+    "v": 14,
+    "t": "Qu’ils soient maudits, ceux qui t’insulteront ! Qu’ils soient maudits, tous ceux qui te détruiront et qui renverseront tes murs, tous ceux qui feront tomber tes tours et brûleront tes maisons ! Mais qu’ils soient bénis pour toujours, tous ceux qui te respecteront !",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "17013015",
+    "b": 17,
+    "c": 13,
+    "v": 15,
+    "t": "Alors, Jérusalem, réjouis-toi à cause de ceux qui sont restés fidèles à Dieu. Ils seront rassemblés et ils chanteront la louange du Seigneur de toujours. Ils sont heureux, ceux qui t’aiment ! Ils sont heureux, ceux qui se réjouissent de ta paix !",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "17013016",
+    "b": 17,
+    "c": 13,
+    "v": 16,
+    "t": "Ils sont heureux, tous ceux qui pleurent sur tous tes malheurs ! Ils se réjouiront à cause de toi et ils partageront ta joie pour toujours. Je veux chanter la louange du Seigneur, le grand Roi.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "17013017",
+    "b": 17,
+    "c": 13,
+    "v": 17,
+    "t": "On reconstruira Jérusalem, et la maison du Seigneur se dressera dans cette ville pour toujours. Jérusalem, je serai vraiment heureux quand le reste de mon peuple verra ta puissance glorieuse et chantera le Roi qui est au ciel. Tes portes seront faites de saphirs et d’émeraudes. Tous tes murs seront construits avec d’autres pierres précieuses. Jérusalem, tes tours seront en or, et leurs murs de protection en or pur. Tes rues seront couvertes de rubis et de pierres d’Ofir.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "17013018",
+    "b": 17,
+    "c": 13,
+    "v": 18,
+    "t": "Sur tes places, on entendra des chants de joie, et dans toutes tes maisons, les gens diront : “Chantez la louange du Seigneur ! Remerciez le Dieu d’Israël !” Et tous ceux que le Seigneur aura bénis chanteront en l’honneur de son saint nom pour toujours. »",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "17014001",
+    "b": 17,
+    "c": 14,
+    "v": 1,
+    "t": "Voilà comment Tobit termine son chant de louange.",
+    "h": "",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "17014002",
+    "b": 17,
+    "c": 14,
+    "v": 2,
+    "t": "Tobit meurt dans la paix à l’âge de 112 ans, et on l’enterre avec honneur à Ninive. Il avait 62 ans quand il est devenu aveugle. Après sa guérison, il a vécu avec de grandes richesses et il en a donné généreusement aux pauvres. Il a continué à chanter la louange de Dieu et à annoncer sa grandeur.",
+    "h": "Dernières recommandations de Tobit",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "17014003",
+    "b": 17,
+    "c": 14,
+    "v": 3,
+    "t": "Peu de temps avant de mourir, il appelle son fils Tobias et lui donne les conseils suivants : « Mon fils, pars avec tes enfants.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "17014004",
+    "b": 17,
+    "c": 14,
+    "v": 4,
+    "t": "Dépêche-toi d’aller en Médie. En effet, je crois à la parole de Dieu que le prophète Nahoum a dite contre la ville de Ninive. Tout va se réaliser, et le malheur va tomber sur les villes d’Assour et de Ninive. Tout ce que les prophètes d’Israël envoyés par Dieu ont annoncé, tout cela arrivera. Aucune de leurs paroles ne restera sans résultat, chacune s’accomplira au moment fixé. En Médie, tu seras plus en sécurité qu’en Assyrie ou à Babylone. En effet, je le sais et j’en suis sûr : tout ce que Dieu a dit s’accomplira. Aucune des paroles que les prophètes ont annoncées ne sera sans résultat. Nos frères qui habitent encore sur la terre d’Israël seront envoyés un peu partout, on les déportera loin de cet heureux pays. Toute la terre deviendra un désert, Samarie et Jérusalem resteront sans habitants. On brûlera le temple de Dieu, et il sera détruit pendant un certain temps.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "17014005",
+    "b": 17,
+    "c": 14,
+    "v": 5,
+    "t": "Mais Dieu aura de nouveau pitié d’eux et les fera revenir sur la terre d’Israël. Ils rebâtiront son temple, mais celui-ci sera moins beau que le premier, du moins jusqu’à ce que le temps décidé par Dieu arrive. Après cela, tous les Israélites reviendront d’exil, et ils reconstruiront Jérusalem de façon magnifique. Là, le temple de Dieu sera reconstruit, comme les prophètes d’Israël l’ont annoncé.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "17014006",
+    "b": 17,
+    "c": 14,
+    "v": 6,
+    "t": "Les peuples de toute la terre se tourneront vers Dieu et ils le respecteront vraiment. Tous abandonneront leurs dieux trompeurs qui les conduisent dans l’erreur. Et ils chanteront la louange du Dieu de toujours en faisant ce qui est juste.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "17014007",
+    "b": 17,
+    "c": 14,
+    "v": 7,
+    "t": "Tous les Israélites que Dieu délivrera à ce moment-là se souviendront de lui fidèlement. Ils se rassembleront et reviendront à Jérusalem. Ils habiteront pour toujours en sécurité sur la terre d’Abraham. Ceux qui aiment vraiment Dieu seront dans la joie. Au contraire, ceux qui commettent des péchés et qui sont malhonnêtes disparaîtront de la terre.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "17014008",
+    "b": 17,
+    "c": 14,
+    "v": 8,
+    "t": "« Et maintenant, mes enfants, voici ce que je vous demande : servez Dieu dans la vérité et faites ce qui lui plaît. Apprenez à vos enfants à être justes et à se montrer généreux avec les pauvres. Qu’ils se souviennent de Dieu et qu’ils chantent sa louange en toute occasion, dans la vérité et de toute leur force. « Et toi, mon fils Tobias, tu dois quitter Ninive, ne reste pas ici. Quand tu auras enterré ta mère auprès de moi, ne passe pas une nuit de plus dans cette région. En effet, je le vois, le mal y est très répandu, les gens n’arrêtent pas de tromper les autres, et cela ne leur fait même pas honte.",
+    "h": "",
+    "o": 8,
+    "l": "8-9"
+  },
+  {
+    "id": "17014009",
+    "b": 17,
+    "c": 14,
+    "v": 10,
+    "t": "Mon enfant, souviens-toi de tout ce que Nadab a fait contre Ahikar, son père adoptif. Il l’a fait jeter vivant sous la terre. Mais Dieu lui a fait payer son acte horrible sous les yeux de son père. Ahikar est revenu à la lumière. Mais Nadab a été pour toujours plongé dans la nuit, parce qu’il avait cherché à le tuer. Ahikar est sorti du piège de mort que Nadab lui avait tendu, parce qu’il s’était montré généreux avec les pauvres. Mais Nadab, lui, est tombé dans ce piège qui a causé sa mort.",
+    "h": "",
+    "o": 9,
+    "l": "10"
+  },
+  {
+    "id": "17014010",
+    "b": 17,
+    "c": 14,
+    "v": 11,
+    "t": "Donc, mes enfants, voyez ce qui arrive à quelqu’un qui est généreux avec les pauvres. Mais voyez aussi ce qui arrive à quelqu’un qui est malhonnête : cela le conduit à la mort. « Maintenant, je sens que la vie m’abandonne. » Ses enfants étendent Tobit sur son lit, et il meurt. Ils l’enterrent avec honneur.",
+    "h": "",
+    "o": 10,
+    "l": "11"
+  },
+  {
+    "id": "17014011",
+    "b": 17,
+    "c": 14,
+    "v": 12,
+    "t": "Quand Anna, la mère de Tobias, meurt, celui-ci l’enterre à côté de son père. Puis il part pour la Médie avec sa femme et il va s’installer à Ecbatane, auprès de Ragouël, son beau-père.",
+    "h": "La mort de Tobias",
+    "o": 11,
+    "l": "12"
+  },
+  {
+    "id": "17014012",
+    "b": 17,
+    "c": 14,
+    "v": 13,
+    "t": "Tobias prend bien soin de Ragouël et de sa femme quand ils sont vieux. À leur mort, il les enterre à Ecbatane. Tobias hérite des biens de Ragouël, comme il avait hérité de ceux de son père Tobit.",
+    "h": "",
+    "o": 12,
+    "l": "13"
+  },
+  {
+    "id": "17014013",
+    "b": 17,
+    "c": 14,
+    "v": 14,
+    "t": "Il meurt lui-même à 117 ans, respecté par tous.",
+    "h": "",
+    "o": 13,
+    "l": "14"
+  },
+  {
+    "id": "17014014",
+    "b": 17,
+    "c": 14,
+    "v": 15,
+    "t": "Avant de mourir, il apprend la destruction de Ninive. Il voit arriver en Médie les Ninivites prisonniers, déportés par Cyaxare, roi des Mèdes. Il chante la louange de Dieu à cause de tout ce qu’il a fait contre les habitants de Ninive et d’Assyrie. Il se réjouit de la destruction de Ninive. Jusqu’à sa mort, il chante le Seigneur Dieu, digne de louange pour toujours.",
+    "h": "",
+    "o": 14,
+    "l": "15"
+  }
+]

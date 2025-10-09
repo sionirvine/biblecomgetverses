@@ -1,0 +1,1162 @@
+[
+  {
+    "id": "22001001",
+    "b": 22,
+    "c": 1,
+    "v": 1,
+    "t": "Das schönste aller Lieder, von Salomo.",
+    "h": "Von der Schönheit der Liebe\n(Kapitel 1–8)\nDu bist mein König",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "22001002",
+    "b": 22,
+    "c": 1,
+    "v": 2,
+    "t": "Komm und küss mich, küss mich immer wieder! Ich genieße deine Liebe mehr als den besten Wein.",
+    "h": "Sie:",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "22001003",
+    "b": 22,
+    "c": 1,
+    "v": 3,
+    "t": "Der Duft deiner Salben betört mich. Dein Name ist wie ein besonderes Parfüm, darum lieben dich die Mädchen.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "22001004",
+    "b": 22,
+    "c": 1,
+    "v": 4,
+    "t": "Nimm mich bei der Hand! Schnell, lass uns laufen, bring mich zu dir nach Hause! Du bist mein König! Ich freue mich über dich, du bist mein ganzes Glück. Deine Liebe ist kostbarer als der edelste Wein. Kein Wunder, dass die Mädchen für dich schwärmen!",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "22001005",
+    "b": 22,
+    "c": 1,
+    "v": 5,
+    "t": "Schaut nicht auf mich herab, ihr Mädchen von Jerusalem, weil meine Haut so dunkel ist, braun wie die Zelte der Nomaden. Ich bin dennoch schön, so wie die wertvollen Zeltdecken Salomos. Meine Brüder waren streng mit mir, sie ließen mich ihre Weinberge hüten. Doch mich selbst zu pflegen, meinen eigenen Weinberg, dafür hatte ich keine Zeit! Darum bin ich von der Sonne braun gebrannt.",
+    "h": "Schaut nicht auf mich herab!\nSie:",
+    "o": 5,
+    "l": "5-6"
+  },
+  {
+    "id": "22001006",
+    "b": 22,
+    "c": 1,
+    "v": 7,
+    "t": "Sag mir, mein Geliebter, wo lässt du deine Schafe weiden, wo lässt du sie am Mittag lagern? Lass mich nicht vergebens nach dir suchen, nicht umherirren bei den Herden anderer Hirten!",
+    "h": "Wo bist du?Sie:",
+    "o": 6,
+    "l": "7"
+  },
+  {
+    "id": "22001007",
+    "b": 22,
+    "c": 1,
+    "v": 8,
+    "t": "Weißt du’s wirklich nicht, du schönste aller Frauen? Folg den Spuren meiner Schafe und weide deine kleinen Ziegen bei den Hirtenzelten! Dort wirst du mich treffen.",
+    "h": "Er:",
+    "o": 7,
+    "l": "8"
+  },
+  {
+    "id": "22001008",
+    "b": 22,
+    "c": 1,
+    "v": 9,
+    "t": "Wie schön du bist, meine Freundin, schön wie eine Stute vor dem Prachtwagen des Pharaos!",
+    "h": "Du bist schön!Er:",
+    "o": 8,
+    "l": "9"
+  },
+  {
+    "id": "22001009",
+    "b": 22,
+    "c": 1,
+    "v": 10,
+    "t": "Deine Wangen sind von Ohrringen umrahmt, deinen Hals schmückt eine Kette.",
+    "h": "",
+    "o": 9,
+    "l": "10"
+  },
+  {
+    "id": "22001010",
+    "b": 22,
+    "c": 1,
+    "v": 11,
+    "t": "Doch ich will dir noch mehr geben: Ein Geschmeide aus Gold sollst du haben und Perlen um den Hals, in Silber gefasst!",
+    "h": "",
+    "o": 10,
+    "l": "11"
+  },
+  {
+    "id": "22001011",
+    "b": 22,
+    "c": 1,
+    "v": 12,
+    "t": "Wenn mein König mit mir speist, riecht er den Duft meines Nardenöls.",
+    "h": "Sie:",
+    "o": 11,
+    "l": "12"
+  },
+  {
+    "id": "22001012",
+    "b": 22,
+    "c": 1,
+    "v": 13,
+    "t": "Mein Geliebter ruht an meiner Brust wie ein Säckchen gefüllt mit Myrrhe.",
+    "h": "",
+    "o": 12,
+    "l": "13"
+  },
+  {
+    "id": "22001013",
+    "b": 22,
+    "c": 1,
+    "v": 14,
+    "t": "Er duftet wie die Blüten des Hennastrauchs, der in den Weingärten von En-Gedi wächst.",
+    "h": "",
+    "o": 13,
+    "l": "14"
+  },
+  {
+    "id": "22001014",
+    "b": 22,
+    "c": 1,
+    "v": 15,
+    "t": "Wie schön du bist, meine Freundin, wunderschön bist du, deine Augen glänzen wie das Gefieder der Tauben.",
+    "h": "Er:",
+    "o": 14,
+    "l": "15"
+  },
+  {
+    "id": "22001015",
+    "b": 22,
+    "c": 1,
+    "v": 16,
+    "t": "Schön bist auch du, mein Liebster – wie stattlich anzusehen! Das Gras ist unser Lager,",
+    "h": "Sie:",
+    "o": 15,
+    "l": "16"
+  },
+  {
+    "id": "22001016",
+    "b": 22,
+    "c": 1,
+    "v": 17,
+    "t": "Zedern sind die Balken unsres Hauses und die Zypressen unser Dach.",
+    "h": "",
+    "o": 16,
+    "l": "17"
+  },
+  {
+    "id": "22002001",
+    "b": 22,
+    "c": 2,
+    "v": 1,
+    "t": "Ich bin nur eine Narzisse in der Scharon-Ebene, eine Lilie aus den Tälern.",
+    "h": "Du bist einzigartig!\nSie:",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "22002002",
+    "b": 22,
+    "c": 2,
+    "v": 2,
+    "t": "Ja, eine Lilie bist du, meine Freundin, eine Lilie unter lauter Dornen, schöner als alle anderen Mädchen!",
+    "h": "Er:",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "22002003",
+    "b": 22,
+    "c": 2,
+    "v": 3,
+    "t": "Und du, mein Liebster, bist wie ein Apfelbaum unter den Bäumen des Waldes, du übertriffst alle anderen Männer! Im Schatten dieses Baumes möchte ich ausruhn und seine süßen Früchte genießen.",
+    "h": "Sie:",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "22002004",
+    "b": 22,
+    "c": 2,
+    "v": 4,
+    "t": "Ins Weinhaus hat er mich geführt, dort zeigt er mir, wie sehr er mich liebt.",
+    "h": "Ich bin krank vor LiebeSie:",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "22002005",
+    "b": 22,
+    "c": 2,
+    "v": 5,
+    "t": "Stärkt mich mit Rosinenkuchen, erfrischt mich mit Äpfeln, denn ich bin krank vor Liebe!",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "22002006",
+    "b": 22,
+    "c": 2,
+    "v": 6,
+    "t": "Sein linker Arm liegt unter meinem Kopf, und mit dem rechten hält er mich umschlungen.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "22002007",
+    "b": 22,
+    "c": 2,
+    "v": 7,
+    "t": "Ihr Mädchen von Jerusalem, ich beschwöre euch bei der Liebe selbst : Weckt sie nicht auf und facht die Leidenschaft nicht an, bis die Zeit dafür kommt!",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "22002008",
+    "b": 22,
+    "c": 2,
+    "v": 8,
+    "t": "Da kommt mein Geliebter! Ich höre es, ja, ich kann ihn schon sehen! Er springt über die Berge und hüpft über die Hügel.",
+    "h": "Die Regenzeit ist vorbei – der Frühling ist da!\nSie:",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "22002009",
+    "b": 22,
+    "c": 2,
+    "v": 9,
+    "t": "Schnell wie eine Gazelle läuft er, flink wie ein Hirsch. Schon steht er vor dem Haus! Er späht durch das Gitter, blickt zum Fenster herein.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "22002010",
+    "b": 22,
+    "c": 2,
+    "v": 10,
+    "t": "Er sagt zu mir: »Steh auf, meine Freundin, meine Schöne, und komm!",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "22002011",
+    "b": 22,
+    "c": 2,
+    "v": 11,
+    "t": "Die Regenzeit liegt hinter uns, der Winter ist vorbei!",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "22002012",
+    "b": 22,
+    "c": 2,
+    "v": 12,
+    "t": "Die Blumen beginnen zu blühen, die Vögel zwitschern, und überall im Land hört man die Turteltaube gurren.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "22002013",
+    "b": 22,
+    "c": 2,
+    "v": 13,
+    "t": "Die ersten Feigen werden reif, die Reben blühen und verströmen ihren Duft. Steh auf, meine Freundin, meine Schöne, und komm!",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "22002014",
+    "b": 22,
+    "c": 2,
+    "v": 14,
+    "t": "Versteck dich nicht wie eine Taube im Felsspalt, bleib mir nicht fern! Zeig mir dein schönes Gesicht und lass mich deine wunderbare Stimme hören!«",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "22002015",
+    "b": 22,
+    "c": 2,
+    "v": 15,
+    "t": "Fangt uns doch die kleinen Füchse, denn sie verwüsten den Weinberg, wenn die Reben in schönster Blüte stehn.",
+    "h": "Die Mädchen:",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "22002016",
+    "b": 22,
+    "c": 2,
+    "v": 16,
+    "t": "Nur mir gehört mein Liebster, und ich gehöre ihm. Er allein darf zwischen den Lilien weiden.",
+    "h": "Sie:",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "22002017",
+    "b": 22,
+    "c": 2,
+    "v": 17,
+    "t": "Abends, wenn es kühl wird und die Nacht ihre Schatten über das Land breitet, dann komm zu mir, mein Liebster! Sei schnell wie eine Gazelle, flink wie ein junger Hirsch, der über die rauen Berge springt!",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "22003001",
+    "b": 22,
+    "c": 3,
+    "v": 1,
+    "t": "Nachts auf meinem Bett sehnte ich mich nach meinem Liebsten. So gern wollte ich bei ihm sein, doch er war nicht da!",
+    "h": "Nächtliche Sehnsucht\nSie:",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "22003002",
+    "b": 22,
+    "c": 3,
+    "v": 2,
+    "t": "»Ich will aufstehn, die Stadt durchstreifen, durch die Gassen und über die Plätze laufen. Meinen Liebsten muss ich finden!« Ich suchte nach ihm, doch vergebens.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "22003003",
+    "b": 22,
+    "c": 3,
+    "v": 3,
+    "t": "Bei ihrem Rundgang griff die Wache mich auf: »Habt ihr meinen Liebsten gesehen?«, fragte ich sie.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "22003004",
+    "b": 22,
+    "c": 3,
+    "v": 4,
+    "t": "Kaum war ich an ihnen vorbei, da fand ich ihn, dem mein Herz gehört. Ich hielt ihn fest und ließ ihn nicht mehr los. Ich führte ihn in das Haus meiner Mutter, in jene Kammer, in der sie mich empfing.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "22003005",
+    "b": 22,
+    "c": 3,
+    "v": 5,
+    "t": "Ihr Mädchen von Jerusalem, ich beschwöre euch bei der Liebe selbst: Weckt sie nicht auf und facht die Leidenschaft nicht an, bis die Zeit dafür kommt!",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "22003006",
+    "b": 22,
+    "c": 3,
+    "v": 6,
+    "t": "Wer kommt dort herauf aus der Wüste, umgeben von Rauchsäulen aus Weihrauch und Myrrhe und allen Parfümen der Händler?",
+    "h": "Der Hochzeitszug\nDie Zuschauer:",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "22003007",
+    "b": 22,
+    "c": 3,
+    "v": 7,
+    "t": "Seht! Es ist die Sänfte Salomos, von sechzig Männern ist sie umringt, von Israels tapferen Soldaten.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "22003008",
+    "b": 22,
+    "c": 3,
+    "v": 8,
+    "t": "Sie alle sind im Kampf erprobt, sie tragen das Schwert an der Seite zum Schutz vor den Gefahren der Nacht.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "22003009",
+    "b": 22,
+    "c": 3,
+    "v": 9,
+    "t": "Eine Sänfte ließ König Salomo sich bauen aus dem kostbaren Holz des Libanon.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "22003010",
+    "b": 22,
+    "c": 3,
+    "v": 10,
+    "t": "Die Pfosten sind mit Silber beschlagen und die Lehnen mit Gold überzogen. Der Stoff des Thronsitzes ist purpurrot, liebevoll bestickt von Jerusalems Frauen.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "22003011",
+    "b": 22,
+    "c": 3,
+    "v": 11,
+    "t": "Kommt heraus, ihr Mädchen von Jerusalem! Seht König Salomo mit seiner Krone! Heute hat seine Mutter ihn damit geschmückt, am Tag seiner Hochzeit, am Tag seines Glücks!",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "22004001",
+    "b": 22,
+    "c": 4,
+    "v": 1,
+    "t": "Wie schön du bist, meine Freundin, wie wunderschön! Deine Augen hinter dem Schleier glänzen wie das Gefieder der Tauben. Dein Haar fließt über deine Schultern wie eine Herde Ziegen, die vom Gebirge Gilead ins Tal zieht.",
+    "h": "Wie schön du bist!\nEr:",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "22004002",
+    "b": 22,
+    "c": 4,
+    "v": 2,
+    "t": "Deine Zähne sind weiß wie frisch geschorene Schafe, die aus der Schwemme kommen. Sie stehen in zwei vollkommenen Reihen, keiner von ihnen fehlt.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "22004003",
+    "b": 22,
+    "c": 4,
+    "v": 3,
+    "t": "Wie ein scharlachrotes Band leuchten deine Lippen, dein Mund ist verlockend und schön. Hinter dem Schleier schimmern deine Wangen rosig wie die Hälften eines Granatapfels.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "22004004",
+    "b": 22,
+    "c": 4,
+    "v": 4,
+    "t": "Dein schlanker Hals ist so herrlich anzusehen wie der Turm Davids, dein Schmuck gleicht tausend prachtvollen Schilden, die daran hängen.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "22004005",
+    "b": 22,
+    "c": 4,
+    "v": 5,
+    "t": "Deine Brüste sind wie junge Zwillinge einer Gazelle, die zwischen Lilien weiden.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "22004006",
+    "b": 22,
+    "c": 4,
+    "v": 6,
+    "t": "Abends, wenn es kühl wird und die Nacht ihre Schatten über das Land breitet, will ich zu dir kommen – zu dem Hügel, der nach Myrrhe und Weihrauch duftet.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "22004007",
+    "b": 22,
+    "c": 4,
+    "v": 7,
+    "t": "Deine Schönheit ist vollkommen, meine Freundin, kein Makel ist an dir.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "22004008",
+    "b": 22,
+    "c": 4,
+    "v": 8,
+    "t": "Komm mit mir, meine Braut, steig mit mir herab vom Libanon, verlass den Gipfel des Amanaberges, den steilen Senir und den Hermon! Komm weg von den Klippen, wo die Löwen und Leoparden lauern!",
+    "h": "Du hast mich verzaubert\nEr:",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "22004009",
+    "b": 22,
+    "c": 4,
+    "v": 9,
+    "t": "Du hast mich verzaubert, mein Mädchen, meine Braut! Mit einem einzigen Blick hast du mein Herz gestohlen. Schon eine Kette deines Halsschmucks zog mich in deinen Bann!",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "22004010",
+    "b": 22,
+    "c": 4,
+    "v": 10,
+    "t": "Wie glücklich macht mich deine Liebe, mein Mädchen, meine Braut! Ich genieße deine Liebe mehr als den besten Wein. Dein Duft ist bezaubernder als jedes Parfüm.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "22004011",
+    "b": 22,
+    "c": 4,
+    "v": 11,
+    "t": "Wie Honig schmecken deine Lippen, meine Braut, ja, süße Honigmilch hält deine Zunge für mich bereit! Und wie der Wald dort auf dem Libanon, so duften deine Kleider!",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "22004012",
+    "b": 22,
+    "c": 4,
+    "v": 12,
+    "t": "Mein Mädchen ist ein Garten, in dem die schönsten Pflanzen wachsen. Aber noch ist er mir verschlossen. Meine Braut ist eine erfrischende Quelle, aber noch kann ich nicht davon trinken.",
+    "h": "Ein Garten voll edler Pflanzen\nEr:",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "22004013",
+    "b": 22,
+    "c": 4,
+    "v": 13,
+    "t": "Ja, dein Körper ist ein herrlicher Garten. Darin stehen Granatapfelbäume mit köstlichen Früchten, und die Hennasträucher blühen in voller Pracht.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "22004014",
+    "b": 22,
+    "c": 4,
+    "v": 14,
+    "t": "Es duftet nach Narde und Safran, Kalmus und Zimt; selbst Weihrauchsträucher, Myrrhe, Aloe und die edelsten Balsamgewächse sind dort zu finden.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "22004015",
+    "b": 22,
+    "c": 4,
+    "v": 15,
+    "t": "Du bist eine sprudelnde Quelle mit frischem Wasser, vom Libanon fließt es herab.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "22004016",
+    "b": 22,
+    "c": 4,
+    "v": 16,
+    "t": "Kommt, Nordwind und Südwind, durchweht meinen Garten, tragt seine Düfte hinaus! Komm, mein Liebster, in deinen Garten und genieße die köstlichen Früchte!",
+    "h": "Sie:",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "22005001",
+    "b": 22,
+    "c": 5,
+    "v": 1,
+    "t": "Ich betrete den Garten, mein Mädchen, meine Braut. Ich pflücke die Myrrhe und ernte den Balsam. Ich öffne die Wabe und esse den Honig. Ich trinke den Wein und genieße die Milch. Esst auch ihr, Freunde, trinkt euren Wein! Berauscht euch an der Liebe!",
+    "h": "Er:",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "22005002",
+    "b": 22,
+    "c": 5,
+    "v": 2,
+    "t": "Ich schlief, doch mein Herz war wach. Da, es klopft! Mein Liebster kommt! Mach auf, mein Mädchen, meine Freundin! Mein Täubchen, meine Vollkommene, lass mich herein! Mein Haar ist vom Tau der Nacht ganz durchnässt.",
+    "h": "Suche in der NachtSie:",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "22005003",
+    "b": 22,
+    "c": 5,
+    "v": 3,
+    "t": "Ich habe mein Kleid schon ausgezogen, soll ich es deinetwegen wieder anziehn? Meine Füße habe ich schon gewaschen, ich würde sie nur wieder schmutzig machen.",
+    "h": "Er:Sie:",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "22005004",
+    "b": 22,
+    "c": 5,
+    "v": 4,
+    "t": "Jetzt streckt er seine Hand durch die Öffnung in der Tür. Mein Herz schlägt bis zum Hals, weil er in meiner Nähe ist.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "22005005",
+    "b": 22,
+    "c": 5,
+    "v": 5,
+    "t": "Ich springe auf und will dem Liebsten öffnen; meine Hände greifen nach dem Riegel, sie sind voll von Myrrhenöl.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "22005006",
+    "b": 22,
+    "c": 5,
+    "v": 6,
+    "t": "Schnell öffne ich die Tür für meinen Liebsten, doch weg ist er, spurlos verschwunden. Entsetzen packt mich: Er ist fortgegangen! Ich suche ihn, doch ich kann ihn nirgends finden; ich rufe laut nach ihm, doch er gibt keine Antwort.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "22005007",
+    "b": 22,
+    "c": 5,
+    "v": 7,
+    "t": "Bei ihrem Rundgang greifen die Wächter mich auf. Sie schlagen und verwunden mich, ohne Mitleid reißen sie mir den Umhang weg.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "22005008",
+    "b": 22,
+    "c": 5,
+    "v": 8,
+    "t": "Ihr Mädchen von Jerusalem, ich beschwöre euch: Wenn ihr meinen Liebsten findet, dann sagt ihm, dass ich krank vor Liebe bin.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "22005009",
+    "b": 22,
+    "c": 5,
+    "v": 9,
+    "t": "Warum beschwörst du uns, du schönste aller Frauen? Was hat denn dein Liebster anderen voraus? Was unterscheidet ihn von den anderen Männern?",
+    "h": "Die Mädchen:",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "22005010",
+    "b": 22,
+    "c": 5,
+    "v": 10,
+    "t": "Mein Liebster strahlt vor Schönheit und Kraft, unter Tausenden ist keiner so wie er!",
+    "h": "Sie:",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "22005011",
+    "b": 22,
+    "c": 5,
+    "v": 11,
+    "t": "Sein Gesicht schimmert wie Gold, sein Haar ist rabenschwarz, seine Locken erinnern an die Blütenrispen einer Dattelpalme.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "22005012",
+    "b": 22,
+    "c": 5,
+    "v": 12,
+    "t": "Seine Augen sind von vollkommener Schönheit, so wie Tauben, die in Milch baden und aus vollen Bächen trinken.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "22005013",
+    "b": 22,
+    "c": 5,
+    "v": 13,
+    "t": "Seine Wangen duften nach Balsamkräutern, nach kostbaren Salben. Seine Lippen leuchten wie rote Lilien, sie sind mit Myrrhenöl benetzt.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "22005014",
+    "b": 22,
+    "c": 5,
+    "v": 14,
+    "t": "Seine Arme sind wie Barren aus Gold, mit Türkissteinen verziert. Sein Leib gleicht einer Statue aus Elfenbein, über und über mit Saphiren bedeckt.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "22005015",
+    "b": 22,
+    "c": 5,
+    "v": 15,
+    "t": "Seine Beine sind Alabastersäulen, die auf goldenen Sockeln stehn. Eindrucksvoll wie der Libanon ist seine Gestalt, stattlich wie mächtige Zedern.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "22005016",
+    "b": 22,
+    "c": 5,
+    "v": 16,
+    "t": "Seine Küsse sind zärtlich, alles an ihm ist begehrenswert. So ist mein Liebster, mein Freund, ihr Mädchen von Jerusalem.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "22006001",
+    "b": 22,
+    "c": 6,
+    "v": 1,
+    "t": "Wohin ist dein Liebster denn gegangen, du schönste aller Frauen? Wir wollen mit dir gehn und nach ihm suchen, wo könnte er denn sein?",
+    "h": "Die Mädchen:",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "22006002",
+    "b": 22,
+    "c": 6,
+    "v": 2,
+    "t": "Mein Liebster ging in seinen Garten, wo Balsamkräuter wachsen. Dort ist seine Weide, dort pflückt er schöne Lilien.",
+    "h": "Sie:",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "22006003",
+    "b": 22,
+    "c": 6,
+    "v": 3,
+    "t": "Nur mir gehört mein Liebster, und ich gehöre ihm. Er allein darf zwischen den Lilien weiden.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "22006004",
+    "b": 22,
+    "c": 6,
+    "v": 4,
+    "t": "Schön bist du, meine Freundin, schön wie die Stadt Tirza, prachtvoll wie Jerusalem! Du hast mich erobert wie ein mächtiges Heer, das zum Krieg auszieht.",
+    "h": "Schöner als alle bist du!\nEr:",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "22006005",
+    "b": 22,
+    "c": 6,
+    "v": 5,
+    "t": "Wende deine Augen von mir ab, denn dein Blick überwältigt mich. Dein Haar fließt über deine Schultern wie eine Herde Ziegen, die vom Gebirge Gilead ins Tal zieht.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "22006006",
+    "b": 22,
+    "c": 6,
+    "v": 6,
+    "t": "Deine Zähne sind weiß wie Mutterschafe, die aus der Schwemme kommen. Sie stehen in zwei vollkommenen Reihen, keiner von ihnen fehlt.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "22006007",
+    "b": 22,
+    "c": 6,
+    "v": 7,
+    "t": "Hinter dem Schleier schimmern deine Wangen rosig wie die Hälften eines Granatapfels.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "22006008",
+    "b": 22,
+    "c": 6,
+    "v": 8,
+    "t": "Mag der König sechzig Ehefrauen haben, achtzig Nebenfrauen und Mädchen ohne Zahl:",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "22006009",
+    "b": 22,
+    "c": 6,
+    "v": 9,
+    "t": "Ich liebe nur die eine, mein Täubchen, meine Vollkommene. Sie ist einmalig für ihre Mutter, ihr Lieblingskind, dem sie das Leben gab. Alle Mädchen, die sie sehen, bewundern ihre Schönheit. Selbst die Frauen und Nebenfrauen des Königs schwärmen von ihr.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "22006010",
+    "b": 22,
+    "c": 6,
+    "v": 10,
+    "t": "Sie ist so strahlend schön wie das Morgenrot, so herrlich wie der Mond und der Schein der Sonne! Sie kann einen Mann erobern wie ein mächtiges Heer, das zum Krieg auszieht.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "22006011",
+    "b": 22,
+    "c": 6,
+    "v": 11,
+    "t": "Ich ging hinunter ins Tal, in den Garten, wo die Walnussbäume stehen. Ich wollte sehen, ob die Bäume schon blühen, ob der Weinstock neue Blätter treibt und ob am Granatapfelbaum Knospen sprießen.",
+    "h": "Sehnsucht\nSie:",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "22006012",
+    "b": 22,
+    "c": 6,
+    "v": 12,
+    "t": "Ohne dass ich es merkte, trieb mich die Sehnsucht zu meinem Liebsten, hin zu seinem königlichen Prachtwagen.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "22007001",
+    "b": 22,
+    "c": 7,
+    "v": 1,
+    "t": "Dreh dich, Sulamith, dreh dich beim Tanz im Kreise, denn wir wollen dich bewundern! Was gibt es denn zu sehen, wenn ich den Reigen von Mahanajim tanze?",
+    "h": "Lass dich bewundern!\nDie Mädchen:",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "22007002",
+    "b": 22,
+    "c": 7,
+    "v": 2,
+    "t": "Meine Prinzessin, wie schön sind deine Füße in den Sandalen! Die Rundungen deiner Hüften sind wie ein Halsgeschmeide, ein Werk aus Künstlerhand.",
+    "h": "Sie:Er:",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "22007003",
+    "b": 22,
+    "c": 7,
+    "v": 3,
+    "t": "Dein Schoß gleicht einem runden Kelch, der stets mit edlem Wein gefüllt ist. Dein Bauch ist golden wie Weizen, von Lilien umkränzt.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "22007004",
+    "b": 22,
+    "c": 7,
+    "v": 4,
+    "t": "Deine Brüste sind wie junge Zwillinge einer Gazelle.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "22007005",
+    "b": 22,
+    "c": 7,
+    "v": 5,
+    "t": "Dein Hals gleicht einem Turm aus Elfenbein, und deine Augen sind wie die Teiche von Heschbon am Bat-Rabbim-Tor. Deine Nase ist wie der Libanonturm, der nach Damaskus blickt.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "22007006",
+    "b": 22,
+    "c": 7,
+    "v": 6,
+    "t": "Dein Kopf ist schön und majestätisch wie das Karmelgebirge. Dein Haar schimmert wie Purpur, deine Locken können einen König fesseln.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "22007007",
+    "b": 22,
+    "c": 7,
+    "v": 7,
+    "t": "Wie schön und bezaubernd du bist, meine Liebste! Du bist mein ganzes Glück.",
+    "h": "Du bist mein ganzes Glück\nEr:",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "22007008",
+    "b": 22,
+    "c": 7,
+    "v": 8,
+    "t": "Deine Gestalt gleicht einer hohen Dattelpalme, und deine Brüste sind wie ihre Früchte.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "22007009",
+    "b": 22,
+    "c": 7,
+    "v": 9,
+    "t": "Ich sagte mir: Ich will auf die Palme steigen und nach ihren reifen Früchten greifen. Freuen will ich mich an deinen Brüsten, die den Trauben am Weinstock gleichen. Deinen Atem will ich trinken, der wie frische Äpfel duftet;",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "22007010",
+    "b": 22,
+    "c": 7,
+    "v": 10,
+    "t": "deine Lippen will ich spüren, denn sie schmecken mir wie edler Wein. Ja, möge der Wein dich so erfreuen, dass du ihn im Schlaf noch auf den Lippen spürst.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "22007011",
+    "b": 22,
+    "c": 7,
+    "v": 11,
+    "t": "Ich gehöre meinem Liebsten, und sein Herz sehnt sich nach mir.",
+    "h": "Sie:",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "22007012",
+    "b": 22,
+    "c": 7,
+    "v": 12,
+    "t": "Komm, wir gehn hinaus aufs Feld, mein Liebster, unter Hennasträuchern lass uns die Nacht verbringen!",
+    "h": "Ich will dir meine Liebe schenkenSie:",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "22007013",
+    "b": 22,
+    "c": 7,
+    "v": 13,
+    "t": "In der Frühe wollen wir zum Weinberg gehen und sehen, ob der Weinstock treibt, ob seine kleinen Blüten aufgegangen sind und der Granatapfelbaum schon die ersten Knospen hat. Dort will ich dir meine Liebe schenken!",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "22007014",
+    "b": 22,
+    "c": 7,
+    "v": 14,
+    "t": "Die Liebesäpfel verströmen ihren Duft. Verlockende Früchte liegen vor unsrer Tür, frische Köstlichkeiten und solche, die ich für dich, mein Liebster, aufbewahrt habe.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "22008001",
+    "b": 22,
+    "c": 8,
+    "v": 1,
+    "t": "Ach, wärst du doch mein Bruder, hätte meine Mutter dich doch gestillt! Dann könnte ich dich unbekümmert küssen, wenn wir uns auf der Straße treffen, und niemand würde Anstoß daran nehmen!",
+    "h": "Könnten wir doch ungestört sein!\nSie:",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "22008002",
+    "b": 22,
+    "c": 8,
+    "v": 2,
+    "t": "Ins Haus meiner Mutter würde ich dich führen, dort könntest du mir deine Liebe zeigen; ich gäbe dir gewürzten Wein zu trinken und Nektar von meinen Granatäpfeln.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "22008003",
+    "b": 22,
+    "c": 8,
+    "v": 3,
+    "t": "Sein linker Arm liegt unter meinem Kopf, und mit dem rechten hält er mich umschlungen.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "22008004",
+    "b": 22,
+    "c": 8,
+    "v": 4,
+    "t": "Ihr Mädchen von Jerusalem, ich beschwöre euch: Weckt die Liebe nicht auf und facht die Leidenschaft nicht an, bis die Zeit dafür kommt!",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "22008005",
+    "b": 22,
+    "c": 8,
+    "v": 5,
+    "t": "Wer ist sie, die heraufkommt aus der Wüste, Arm in Arm mit ihrem Liebsten? Unter dem Apfelbaum, da habe ich deine Liebe geweckt, dort, wo deine Mutter dich empfing, wo sie dir das Leben gab.",
+    "h": "Die Macht der Liebe\nDie Mädchen:",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "22008006",
+    "b": 22,
+    "c": 8,
+    "v": 6,
+    "t": "Lass mich deinem Herzen nahe sein, so wie der Siegelring auf deiner Brust. Ich will einzigartig für dich bleiben, so wie der Siegelreif um deinen Arm. Unüberwindlich wie der Tod, so ist die Liebe, und ihre Leidenschaft so unentrinnbar wie das Totenreich! Wen die Liebe erfasst hat, der kennt ihr Feuer: Sie ist eine Flamme des HERRN !",
+    "h": "Sie:",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "22008007",
+    "b": 22,
+    "c": 8,
+    "v": 7,
+    "t": "Mächtige Fluten können sie nicht auslöschen, gewaltige Ströme sie nicht fortreißen. Böte einer seinen ganzen Besitz, um die Liebe zu kaufen, so würde man ihn nur verspotten.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "22008008",
+    "b": 22,
+    "c": 8,
+    "v": 8,
+    "t": "Unsre Schwester ist fast noch ein Kind und hat noch keine Brüste. Doch kommt einmal die Zeit, dass jemand um sie werben wird, dann müssen wir zur Stelle sein!",
+    "h": "Leicht zu erobern?\nDie Brüder:",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "22008009",
+    "b": 22,
+    "c": 8,
+    "v": 9,
+    "t": "Wenn sie uneinnehmbar ist wie eine Mauer, dann schmücken wir sie mit einem silbernen Turm. Doch wenn sie leicht zu erobern ist wie eine offene Tür, dann verriegeln wir sie mit Zedernbalken.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "22008010",
+    "b": 22,
+    "c": 8,
+    "v": 10,
+    "t": "Ich bin wie eine starke Mauer, und meine Brüste sind wie Wachtürme. Darum habe ich das Herz meines Liebsten gewonnen.",
+    "h": "Sie:",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "22008011",
+    "b": 22,
+    "c": 8,
+    "v": 11,
+    "t": "Salomo besaß einen Weinberg in Baal-Hamon. Er überließ ihn den Pächtern, und bei der Ernte sollte jeder ihm tausend Silbermünzen zahlen.",
+    "h": "Reicher als SalomoSie:",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "22008012",
+    "b": 22,
+    "c": 8,
+    "v": 12,
+    "t": "Die tausend gönne ich dir, Salomo, und zweihundert den Pächtern, doch über meinen Weinberg verfüge ich ganz allein!",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "22008013",
+    "b": 22,
+    "c": 8,
+    "v": 13,
+    "t": "Du Mädchen in den Gärten, noch andre Männer lauschen, ob du sie rufst. Nur mich lass deine Stimme hören!",
+    "h": "Rufe nur mich\nEr:",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "22008014",
+    "b": 22,
+    "c": 8,
+    "v": 14,
+    "t": "Ja, komm rasch zu mir, mein Liebster! Sei schnell wie eine Gazelle, flink wie ein junger Hirsch, der von den Bergen kommt, wo duftende Kräuter wachsen!",
+    "h": "Sie:",
+    "o": 14,
+    "l": "14"
+  }
+]

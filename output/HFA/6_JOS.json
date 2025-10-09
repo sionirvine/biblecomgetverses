@@ -1,0 +1,6312 @@
+[
+  {
+    "id": "6001001",
+    "b": 6,
+    "c": 1,
+    "v": 1,
+    "t": "Als Mose gestorben war, sprach der HERR zu Josua, dem Sohn von Nun, der Mose bei seinen Aufgaben geholfen hatte:",
+    "h": "Vorbereitungen zum Einzug in das verheißene Land\n(Kapitel 1–5)\nJosua wird Moses Nachfolger",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "6001002",
+    "b": 6,
+    "c": 1,
+    "v": 2,
+    "t": "»Mein Diener Mose ist tot. Nun wirst du Israel führen! Befiehl dem Volk, sich für den Aufbruch fertigzumachen. Ihr alle werdet den Jordan überqueren und in das Land ziehen, das ich euch gebe.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "6001003",
+    "b": 6,
+    "c": 1,
+    "v": 3,
+    "t": "Jedes Gebiet, das ihr betretet, gehört euch. Das habe ich schon Mose versprochen.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "6001004",
+    "b": 6,
+    "c": 1,
+    "v": 4,
+    "t": "Euer Land wird von der Wüste im Süden bis zum Libanon im Norden reichen und vom Euphrat im Osten bis zum Mittelmeer im Westen; das ganze Gebiet der Hetiter wird euch gehören.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "6001005",
+    "b": 6,
+    "c": 1,
+    "v": 5,
+    "t": "Dein Leben lang wird niemand dir standhalten können. Denn ich bin bei dir, so wie ich bei Mose gewesen bin. Ich lasse dich nicht im Stich, nie wende ich mich von dir ab.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "6001006",
+    "b": 6,
+    "c": 1,
+    "v": 6,
+    "t": "Sei mutig und stark! Denn du wirst das Land einnehmen, das ich euren Vorfahren versprochen habe, und wirst es den Israeliten geben.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "6001007",
+    "b": 6,
+    "c": 1,
+    "v": 7,
+    "t": "Halte dich mutig und entschlossen an das ganze Gesetz, das dir mein Diener Mose gegeben hat. Weiche kein Stück davon ab! Dann wirst du bei allem, was du tust, Erfolg haben.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "6001008",
+    "b": 6,
+    "c": 1,
+    "v": 8,
+    "t": "Sag dir die Gebote immer wieder auf! Denke Tag und Nacht über sie nach, damit du dein Leben ganz nach ihnen ausrichtest. Dann wird dir alles gelingen, was du dir vornimmst.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "6001009",
+    "b": 6,
+    "c": 1,
+    "v": 9,
+    "t": "Ja, ich sage es noch einmal: Sei mutig und entschlossen! Lass dich nicht einschüchtern und hab keine Angst! Denn ich, der HERR, dein Gott, stehe dir bei, wohin du auch gehst.«",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "6001010",
+    "b": 6,
+    "c": 1,
+    "v": 10,
+    "t": "Da schickte Josua die führenden Männer des Volkes durch das Lager und ließ sie überall ausrufen: »Macht euch zum Aufbruch fertig! Nehmt genug Vorräte mit! In drei Tagen werdet ihr den Jordan überqueren, um das Land einzunehmen, das euch der HERR, euer Gott, geben wird.«",
+    "h": "Vorbereitung zum Aufbruch",
+    "o": 10,
+    "l": "10-11"
+  },
+  {
+    "id": "6001011",
+    "b": 6,
+    "c": 1,
+    "v": 12,
+    "t": "Die israelitischen Stämme Ruben und Gad und der halbe Stamm Manasse hatten sich bereits östlich des Jordan angesiedelt. Ihnen ließ Josua ausrichten:",
+    "h": "",
+    "o": 11,
+    "l": "12"
+  },
+  {
+    "id": "6001012",
+    "b": 6,
+    "c": 1,
+    "v": 13,
+    "t": "»Denkt daran, was euch Mose, der Diener des HERRN, gesagt hat: ›Der HERR, euer Gott, will euch dieses Land östlich des Jordan geben, damit ihr hier in Ruhe und Frieden leben könnt.‹ Als Mose euch dieses Land versprach, stellte er euch jedoch eine Bedingung. Darum lasst nun eure Frauen und Kinder und euer Vieh hier zurück und zieht mit den kampffähigen Männern bewaffnet vor euren Bruderstämmen her! Helft ihnen, das Gebiet westlich des Jordan einzunehmen!",
+    "h": "",
+    "o": 12,
+    "l": "13-14"
+  },
+  {
+    "id": "6001013",
+    "b": 6,
+    "c": 1,
+    "v": 15,
+    "t": "Bleibt so lange bei ihnen, bis der HERR auch ihnen ihr Land gegeben hat und sie dort in Ruhe und Frieden leben, so wie ihr es jetzt schon tut! Dann aber kehrt in euer eigenes Land zurück, das euch Mose, der Diener Gottes, östlich des Jordan zugeteilt hat, und lasst euch dort nieder!«",
+    "h": "",
+    "o": 13,
+    "l": "15"
+  },
+  {
+    "id": "6001014",
+    "b": 6,
+    "c": 1,
+    "v": 16,
+    "t": "Sie antworteten Josua: »Wir werden alles tun, was du befiehlst, und dich überall unterstützen, wo du uns einsetzen willst.",
+    "h": "",
+    "o": 14,
+    "l": "16"
+  },
+  {
+    "id": "6001015",
+    "b": 6,
+    "c": 1,
+    "v": 17,
+    "t": "Wie wir Mose gehorcht haben, gehorchen wir dir. Der HERR möge dir helfen, so wie er Mose geholfen hat.",
+    "h": "",
+    "o": 15,
+    "l": "17"
+  },
+  {
+    "id": "6001016",
+    "b": 6,
+    "c": 1,
+    "v": 18,
+    "t": "Wer sich deinen Befehlen widersetzt und nicht jeder Weisung folgt, die du uns gibst, der soll getötet werden. Sei nur mutig und entschlossen!«",
+    "h": "",
+    "o": 16,
+    "l": "18"
+  },
+  {
+    "id": "6002001",
+    "b": 6,
+    "c": 2,
+    "v": 1,
+    "t": "Die Israeliten lagerten zu dieser Zeit in der Gegend von Schittim. Von dort schickte Josua, der Sohn von Nun, heimlich zwei Männer los. Sie sollten das vor ihnen liegende Land auskundschaften, besonders die Stadt Jericho. Die beiden machten sich auf den Weg und erreichten gegen Abend die Stadt. Auf der Suche nach einer Bleibe für die Nacht kamen sie in das Haus einer Prostituierten namens Rahab.",
+    "h": "Josua schickt Kundschafter nach Jericho",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "6002002",
+    "b": 6,
+    "c": 2,
+    "v": 2,
+    "t": "Kurz darauf erhielt der König von Jericho die Nachricht: »Heute Abend sind israelitische Männer eingetroffen, die unser Land erkunden sollen. Sie halten sich bei Rahab auf.«",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "6002003",
+    "b": 6,
+    "c": 2,
+    "v": 3,
+    "t": "Der König schickte sofort Soldaten zu Rahab. Sie befahlen ihr: »Bring die Männer heraus! Sie wollen unser Land ausspionieren.«",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "6002004",
+    "b": 6,
+    "c": 2,
+    "v": 4,
+    "t": "Rahab aber hatte die beiden Israeliten versteckt und stellte sich ahnungslos: »Ja, diese Männer sind bei mir gewesen. Ich wusste aber nicht, wo sie herkamen.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "6002005",
+    "b": 6,
+    "c": 2,
+    "v": 5,
+    "t": "Sie brachen wieder auf, als es dunkel wurde und das Stadttor geschlossen werden sollte. Ich kann nicht sagen, wohin sie gegangen sind. Wenn ihr ihnen schnell nachlauft, holt ihr sie bestimmt ein.«",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "6002006",
+    "b": 6,
+    "c": 2,
+    "v": 6,
+    "t": "Rahab hatte die Israeliten auf ihr Flachdach gebracht und unter Flachsstängeln versteckt, die dort aufgeschichtet waren.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "6002007",
+    "b": 6,
+    "c": 2,
+    "v": 7,
+    "t": "Die Soldaten des Königs nahmen die Verfolgung auf und eilten in Richtung des Jordanübergangs davon. Unmittelbar hinter ihnen wurde das Stadttor geschlossen.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "6002008",
+    "b": 6,
+    "c": 2,
+    "v": 8,
+    "t": "Bevor die beiden Israeliten sich schlafen legten, stieg Rahab zu ihnen auf das Dach",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "6002009",
+    "b": 6,
+    "c": 2,
+    "v": 9,
+    "t": "und sagte: »Ich weiß, dass der HERR eurem Volk dieses Land geben wird. Wir haben große Angst. Jeder hier zittert vor euch.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "6002010",
+    "b": 6,
+    "c": 2,
+    "v": 10,
+    "t": "Wir haben gehört, dass der HERR euch einen Weg durch das Schilfmeer gebahnt hat, als ihr aus Ägypten gekommen seid. Wir wissen auch, was ihr mit den Amoritern und ihren Königen Sihon und Og auf der anderen Jordanseite gemacht habt: Ihr habt sie völlig vernichtet.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "6002011",
+    "b": 6,
+    "c": 2,
+    "v": 11,
+    "t": "Als wir das hörten, waren wir vor Angst wie gelähmt. Jeder von uns hat den Mut verloren. Der HERR, euer Gott, ist der wahre Gott oben im Himmel und hier unten auf der Erde.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "6002012",
+    "b": 6,
+    "c": 2,
+    "v": 12,
+    "t": "Deshalb flehe ich euch an: Schwört mir jetzt beim HERRN, dass ihr meine Familie und mich verschont, denn ich habe auch euch das Leben gerettet. Bitte gebt mir einen Beweis dafür, dass ich euch vertrauen kann.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "6002013",
+    "b": 6,
+    "c": 2,
+    "v": 13,
+    "t": "Lasst meine Eltern und Geschwister und alle ihre Angehörigen am Leben. Rettet uns vor dem Tod!«",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "6002014",
+    "b": 6,
+    "c": 2,
+    "v": 14,
+    "t": "Die Männer antworteten ihr: »Wenn ihr uns nicht verratet, stehen wir mit unserem Leben dafür ein, dass euch nichts getan wird. Wenn der HERR uns dieses Land gibt, werden wir unser Versprechen einlösen und euch verschonen.«",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "6002015",
+    "b": 6,
+    "c": 2,
+    "v": 15,
+    "t": "Rahabs Haus lag direkt an der Stadtmauer. So konnte sie die Männer durch eines ihrer Fenster mit einem Seil hinunterlassen, um ihnen zur Flucht zu verhelfen.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "6002016",
+    "b": 6,
+    "c": 2,
+    "v": 16,
+    "t": "Sie riet ihnen: »Lauft erst ins Bergland, damit euch die Verfolger nicht finden! Versteckt euch dort drei Tage, bis sie zurückgekehrt sind. Danach geht, wohin ihr wollt.«",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "6002017",
+    "b": 6,
+    "c": 2,
+    "v": 17,
+    "t": "Die beiden Männer sagten zu ihr: »Der Eid, den wir dir gegeben haben, bindet uns nur unter diesen Bedingungen:",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "6002018",
+    "b": 6,
+    "c": 2,
+    "v": 18,
+    "t": "Wenn unsere Soldaten hier eintreffen, musst du das rote Seil, an dem du uns jetzt hinablässt, an dein Fenster binden. Und deine Eltern, deine Geschwister und alle Verwandten müssen hier bei dir im Haus sein.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "6002019",
+    "b": 6,
+    "c": 2,
+    "v": 19,
+    "t": "Jeder, der nach draußen geht, ist selbst verantwortlich für seinen Tod. Wer aber bei dir im Haus bleibt und trotzdem angegriffen wird, für den stehen wir mit unserem Leben ein.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "6002020",
+    "b": 6,
+    "c": 2,
+    "v": 20,
+    "t": "Solltest du uns aber verraten, ist unser Eid ungültig!«",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "6002021",
+    "b": 6,
+    "c": 2,
+    "v": 21,
+    "t": "»Einverstanden«, antwortete Rahab. Dann half sie ihnen, ins Freie zu gelangen. Als sie fort waren, band Rahab das rote Seil ans Fenster.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "6002022",
+    "b": 6,
+    "c": 2,
+    "v": 22,
+    "t": "Die beiden Männer liefen ins Bergland und versteckten sich dort drei Tage. Ihre Verfolger suchten die ganze Strecke bis zum Jordan ab, fanden aber niemanden und kehrten schließlich nach Jericho zurück.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "6002023",
+    "b": 6,
+    "c": 2,
+    "v": 23,
+    "t": "Da verließen die beiden Israeliten ihr Versteck, stiegen von den Bergen herab und durchquerten die Jordan-Ebene. Als sie wieder bei Josua waren, berichteten sie ihm, was sie erlebt hatten.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "6002024",
+    "b": 6,
+    "c": 2,
+    "v": 24,
+    "t": "»Der HERR gibt das ganze Land in unsere Gewalt«, erklärten sie, »alle Menschen, die dort leben, haben große Angst vor uns.«",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "6003001",
+    "b": 6,
+    "c": 3,
+    "v": 1,
+    "t": "Frühmorgens befahl Josua dem Volk, von Schittim aufzubrechen. Sie erreichten den Jordan, überquerten ihn aber noch nicht, sondern schlugen zunächst ihre Zelte am östlichen Ufer auf.",
+    "h": "Israel überquert trockenen Fußes den Jordan",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "6003002",
+    "b": 6,
+    "c": 3,
+    "v": 2,
+    "t": "Nach drei Tagen ließ Josua die führenden Männer durch das Lager gehen.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "6003003",
+    "b": 6,
+    "c": 3,
+    "v": 3,
+    "t": "Sie sollten ausrufen: »Sobald ihr seht, dass die Priester vom Stamm Levi die Bundeslade des HERRN, eures Gottes, tragen, brecht euer Lager ab und folgt ihnen!",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "6003004",
+    "b": 6,
+    "c": 3,
+    "v": 4,
+    "t": "Haltet aber einen Abstand von ungefähr 1000 Metern zwischen euch und den Priestern, damit ihr der Bundeslade nicht zu nahe kommt. Sie zeigt euch den Weg, den ihr gehen sollt, denn ihr kennt ihn ja noch nicht.«",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "6003005",
+    "b": 6,
+    "c": 3,
+    "v": 5,
+    "t": "Dann sprach Josua selbst zum Volk: »Reinigt euch und bereitet euch darauf vor, Gott zu begegnen! Morgen wird er vor euren Augen Wunder tun.«",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "6003006",
+    "b": 6,
+    "c": 3,
+    "v": 6,
+    "t": "Am nächsten Tag forderte Josua die Priester auf: »Nehmt die Bundeslade und tragt sie vor dem Volk her!« Sie folgten seinem Befehl.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "6003007",
+    "b": 6,
+    "c": 3,
+    "v": 7,
+    "t": "Darauf sprach der HERR zu Josua: »Ich will heute damit beginnen, dir bei allen Israeliten Achtung zu verschaffen. Sie sollen wissen, dass ich dir beistehe, so wie ich Mose beigestanden habe.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "6003008",
+    "b": 6,
+    "c": 3,
+    "v": 8,
+    "t": "Befiehl den Priestern, mit der Bundeslade anzuhalten, sobald ihre Füße das Wasser des Jordan berühren.«",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "6003009",
+    "b": 6,
+    "c": 3,
+    "v": 9,
+    "t": "Josua ließ die Israeliten zusammenkommen und rief ihnen zu: »Hört, was der HERR, euer Gott, euch sagt:",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "6003010",
+    "b": 6,
+    "c": 3,
+    "v": 10,
+    "t": "Ihr sollt wissen, dass der lebendige Gott bei euch ist und dass er ganz sicher für euch alle Völker eures neuen Landes vertreiben wird: die Kanaaniter, Hetiter, Hiwiter, Perisiter, Girgaschiter, Amoriter und Jebusiter.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "6003011",
+    "b": 6,
+    "c": 3,
+    "v": 11,
+    "t": "Seht, hier ist die Bundeslade des Herrn, dem die ganze Welt gehört! Die Priester werden sie vor euch her in den Jordan tragen.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "6003012",
+    "b": 6,
+    "c": 3,
+    "v": 12,
+    "t": "Sobald ihre Füße den Jordan berühren, wird das Wasser sich flussaufwärts stauen und wie ein Wall stehen bleiben. Wenn das geschehen ist, brauche ich zwölf Männer von euch. Wählt aus jedem Stamm einen aus!«",
+    "h": "",
+    "o": 12,
+    "l": "12-13"
+  },
+  {
+    "id": "6003013",
+    "b": 6,
+    "c": 3,
+    "v": 14,
+    "t": "Das Volk brach seine Zelte ab und war bereit, den Fluss zu überqueren. Vor ihnen gingen die Priester mit der Bundeslade.",
+    "h": "",
+    "o": 13,
+    "l": "14"
+  },
+  {
+    "id": "6003014",
+    "b": 6,
+    "c": 3,
+    "v": 15,
+    "t": "Der Jordan war wie jedes Jahr zur Erntezeit über die Ufer getreten. Als nun die Träger der Bundeslade das Wasser berührten,",
+    "h": "",
+    "o": 14,
+    "l": "15"
+  },
+  {
+    "id": "6003015",
+    "b": 6,
+    "c": 3,
+    "v": 16,
+    "t": "staute es sich. Es stand wie ein Wall sehr weit flussaufwärts in der Nähe des Ortes Adam, der bei Zaretan liegt. Das Wasser unterhalb des Walles lief zum Toten Meer hin ab. So konnte das Volk durch das Flussbett gehen. Vor ihnen lag die Stadt Jericho.",
+    "h": "",
+    "o": 15,
+    "l": "16"
+  },
+  {
+    "id": "6003016",
+    "b": 6,
+    "c": 3,
+    "v": 17,
+    "t": "Die Priester mit der Bundeslade des HERRN standen auf festem Grund mitten im Jordan, und die Israeliten zogen trockenen Fußes an ihnen vorüber ans andere Ufer.",
+    "h": "",
+    "o": 16,
+    "l": "17"
+  },
+  {
+    "id": "6004001",
+    "b": 6,
+    "c": 4,
+    "v": 1,
+    "t": "Als das ganze Volk durch den Jordan gezogen war, sprach der HERR zu Josua:",
+    "h": "Josua errichtet zwei Denkmäler",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "6004002",
+    "b": 6,
+    "c": 4,
+    "v": 2,
+    "t": "»Wählt nun zwölf Männer aus dem Volk aus, von jedem Stamm einen.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "6004003",
+    "b": 6,
+    "c": 4,
+    "v": 3,
+    "t": "Befehlt ihnen, zwölf große Steine aus dem Jordan zu holen, genau an der Stelle, wo die Priester stehen. Sie sollen die Steine zu dem Ort bringen, an dem ihr heute übernachten werdet.«",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "6004004",
+    "b": 6,
+    "c": 4,
+    "v": 4,
+    "t": "Josua rief die zwölf Männer",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "6004005",
+    "b": 6,
+    "c": 4,
+    "v": 5,
+    "t": "und wies sie an: »Geht zurück in den Jordan, bis an die Stelle, wo die Priester mit der Bundeslade des HERRN, eures Gottes, stehen. Jeder von euch soll sich dort einen großen Stein auf die Schulter laden, damit wir zwölf Steine haben, für jeden Stamm Israels einen.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "6004006",
+    "b": 6,
+    "c": 4,
+    "v": 6,
+    "t": "Aus ihnen soll ein Denkmal gebaut werden. Wenn euch eure Kinder später einmal fragen, was diese Steine bedeuten,",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "6004007",
+    "b": 6,
+    "c": 4,
+    "v": 7,
+    "t": "dann erklärt ihnen: ›Als man die Bundeslade durch den Jordan trug, staute sich sein Wasser, und wir konnten trockenen Fußes hinüberziehen. Daran soll dieses Denkmal die Israeliten zu allen Zeiten erinnern.‹«",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "6004008",
+    "b": 6,
+    "c": 4,
+    "v": 8,
+    "t": "Die zwölf Männer taten, was Josua ihnen befohlen hatte. Sie hoben zwölf Steine aus dem Flussbett, für jeden Stamm Israels einen, und trugen sie bis an den Ort, wo sie übernachten sollten.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "6004009",
+    "b": 6,
+    "c": 4,
+    "v": 9,
+    "t": "Josua nahm weitere zwölf Steine und richtete mitten im Jordan ein Denkmal auf, genau dort, wo die Priester mit der Bundeslade standen. Diese Steine sind noch heute dort.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "6004010",
+    "b": 6,
+    "c": 4,
+    "v": 10,
+    "t": "Die Priester mit der Bundeslade standen noch immer im Flussbett. Sie blieben so lange dort, bis Josua und das Volk alle Weisungen des HERRN ausgeführt hatten, ganz wie es Moses Willen entsprach. Die Israeliten hatten den Fluss so schnell wie möglich durchquert.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "6004011",
+    "b": 6,
+    "c": 4,
+    "v": 11,
+    "t": "Erst als alle auf der anderen Seite waren, brachen auch die Priester mit der Bundeslade auf und nahmen ihren Platz an der Spitze des Zuges wieder ein.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "6004012",
+    "b": 6,
+    "c": 4,
+    "v": 12,
+    "t": "Die Stämme Ruben und Gad und der halbe Stamm Manasse zogen bewaffnet vor den anderen Israeliten her, wie Mose es befohlen hatte.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "6004013",
+    "b": 6,
+    "c": 4,
+    "v": 13,
+    "t": "Insgesamt waren es etwa 40.000 kampfbereite Soldaten, die unter der Führung des HERRN in die Ebene von Jericho einmarschierten.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "6004014",
+    "b": 6,
+    "c": 4,
+    "v": 14,
+    "t": "An diesem Tag sorgte der HERR dafür, dass ganz Israel vor Josua Achtung bekam. Das Volk hatte nun den gleichen Respekt vor ihm wie früher vor Mose; und so blieb es sein Leben lang.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "6004015",
+    "b": 6,
+    "c": 4,
+    "v": 15,
+    "t": "Der HERR hatte zu Josua gesagt:",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "6004016",
+    "b": 6,
+    "c": 4,
+    "v": 16,
+    "t": "»Befiehl den Priestern, die die Bundeslade mit dem Gesetz tragen, ans Ufer zu kommen.«",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "6004017",
+    "b": 6,
+    "c": 4,
+    "v": 17,
+    "t": "Josua forderte die Priester dazu auf,",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "6004018",
+    "b": 6,
+    "c": 4,
+    "v": 18,
+    "t": "und sie stiegen mit der Bundeslade aus dem Jordan. Kaum berührten sie mit ihren Füßen das Land, da strömte das Wasser mit gleicher Gewalt wie zuvor, und der Jordan trat wieder über die Ufer.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "6004019",
+    "b": 6,
+    "c": 4,
+    "v": 19,
+    "t": "Dies ereignete sich am 10. Tag des 1. Monats. Das Volk schlug sein Lager bei Gilgal auf, an der östlichen Grenze des Gebietes von Jericho.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "6004020",
+    "b": 6,
+    "c": 4,
+    "v": 20,
+    "t": "Dort errichtete Josua ein Denkmal aus den zwölf Steinen, die er vom Jordan hatte mitbringen lassen.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "6004021",
+    "b": 6,
+    "c": 4,
+    "v": 21,
+    "t": "Er sagte zu den Israeliten: »Wenn eure Nachkommen euch eines Tages fragen werden, was diese Steine bedeuten,",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "6004022",
+    "b": 6,
+    "c": 4,
+    "v": 22,
+    "t": "dann sollt ihr ihnen erklären: ›Die Steine erinnern uns daran, dass Israel trockenen Fußes den Jordan durchquert hat.‹",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "6004023",
+    "b": 6,
+    "c": 4,
+    "v": 23,
+    "t": "Denn der HERR, euer Gott, hat diesen Fluss vor euren Augen aufgestaut, damit ihr hindurchziehen konntet, so wie er euch damals einen Weg durch das Schilfmeer gebahnt hat.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "6004024",
+    "b": 6,
+    "c": 4,
+    "v": 24,
+    "t": "Er tat es, um allen Völkern der Welt seine Macht zu zeigen. Und auch ihr sollt dem HERRN, eurem Gott, zu allen Zeiten mit Ehrfurcht begegnen!«",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "6005001",
+    "b": 6,
+    "c": 5,
+    "v": 1,
+    "t": "Die Amoriter westlich des Jordan und die Kanaaniter am Mittelmeer hörten, dass der HERR den Jordan aufgestaut hatte, damit die Israeliten ans andere Ufer gelangen konnten. Da fuhr ihnen der Schreck in die Glieder, und sie waren vor Angst wie gelähmt.",
+    "h": "Die Beschneidung der männlichen Israeliten",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "6005002",
+    "b": 6,
+    "c": 5,
+    "v": 2,
+    "t": "Zu dieser Zeit gab der HERR Josua den Auftrag: »Fertige Messer aus Stein an und beschneide so wie früher alle männlichen Israeliten!«",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "6005003",
+    "b": 6,
+    "c": 5,
+    "v": 3,
+    "t": "Josua tat, was Gott ihm befohlen hatte. Am Hügel Aralot (»Beschneidungshügel«) wurden die Israeliten beschnitten.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "6005004",
+    "b": 6,
+    "c": 5,
+    "v": 4,
+    "t": "Denn als das Volk Ägypten verließ, waren noch alle männlichen Israeliten beschnitten gewesen. Doch inzwischen lebte niemand mehr, der damals im wehrfähigen Alter gewesen war. Der HERR hatte ihnen geschworen: »Weil ihr nicht auf mich gehört habt, werdet ihr das reiche Land niemals sehen, das ich euren Vorfahren versprochen habe, das Land, in dem es selbst Milch und Honig im Überfluss gibt.« Israel musste deshalb vierzig Jahre in der Wüste verbringen, bis von dieser ersten Generation keiner mehr lebte. Während die Israeliten die Wüste durchzogen, hatten sie ihre neugeborenen Söhne nicht beschneiden lassen.",
+    "h": "",
+    "o": 4,
+    "l": "4-6"
+  },
+  {
+    "id": "6005005",
+    "b": 6,
+    "c": 5,
+    "v": 7,
+    "t": "Nun aber wurden alle männlichen Nachkommen beschnitten, die Gott dem Volk in dieser Zeit geschenkt hatte.",
+    "h": "",
+    "o": 5,
+    "l": "7"
+  },
+  {
+    "id": "6005006",
+    "b": 6,
+    "c": 5,
+    "v": 8,
+    "t": "Das Volk blieb einige Zeit an seinem Lagerplatz, bis die Wunden der Beschnittenen verheilt waren.",
+    "h": "",
+    "o": 6,
+    "l": "8"
+  },
+  {
+    "id": "6005007",
+    "b": 6,
+    "c": 5,
+    "v": 9,
+    "t": "Da sprach der HERR zu Josua: »Heute habe ich die Schande von euch abgewälzt, die seit Ägypten auf euch lastete.« Deshalb nennt man diesen Ort bis heute Gilgal (»abwälzen«).",
+    "h": "",
+    "o": 7,
+    "l": "9"
+  },
+  {
+    "id": "6005008",
+    "b": 6,
+    "c": 5,
+    "v": 10,
+    "t": "Bei Gilgal, in der Ebene von Jericho, feierten die Israeliten am 14. Tag des 1. Monats abends das Passahfest.",
+    "h": "Passahfeier bei Gilgal und Ausbleiben des Manna",
+    "o": 8,
+    "l": "10"
+  },
+  {
+    "id": "6005009",
+    "b": 6,
+    "c": 5,
+    "v": 11,
+    "t": "Am nächsten Tag aßen sie zum ersten Mal etwas aus ihrem neuen Land: Brot, das ohne Sauerteig gebacken war, und geröstetes Getreide.",
+    "h": "",
+    "o": 9,
+    "l": "11"
+  },
+  {
+    "id": "6005010",
+    "b": 6,
+    "c": 5,
+    "v": 12,
+    "t": "Und genau an diesem ersten Tag nach dem Passah, an dem sie etwas vom Ertrag des Landes gegessen hatten, blieb das Manna aus. Von nun an ernährten sich die Israeliten nicht mehr vom Manna, sondern vom Ertrag des Landes Kanaan.",
+    "h": "",
+    "o": 10,
+    "l": "12"
+  },
+  {
+    "id": "6005011",
+    "b": 6,
+    "c": 5,
+    "v": 13,
+    "t": "In der Nähe von Jericho sah Josua sich plötzlich einem Mann mit gezücktem Schwert gegenüber. Josua ging auf ihn zu und rief: »Gehörst du zu uns oder unseren Feinden?«",
+    "h": "Josua begegnet dem Befehlshaber über das Heer Gottes",
+    "o": 11,
+    "l": "13"
+  },
+  {
+    "id": "6005012",
+    "b": 6,
+    "c": 5,
+    "v": 14,
+    "t": "»Weder noch«, antwortete der Fremde. »Ich bin der Befehlshaber über das Heer Gottes. Und jetzt bin ich hier zur Stelle.« Da warf sich Josua ehrfürchtig vor ihm zu Boden. »Ich gehorche dir, Herr!«, sagte er. »Was befiehlst du?«",
+    "h": "",
+    "o": 12,
+    "l": "14"
+  },
+  {
+    "id": "6005013",
+    "b": 6,
+    "c": 5,
+    "v": 15,
+    "t": "»Zieh deine Schuhe aus«, antwortete der Befehlshaber über das Heer Gottes, »denn du stehst auf heiligem Boden.« Josua gehorchte.",
+    "h": "",
+    "o": 13,
+    "l": "15"
+  },
+  {
+    "id": "6006001",
+    "b": 6,
+    "c": 6,
+    "v": 1,
+    "t": "In Jericho hatte man aus Angst vor den Israeliten sämtliche Tore fest verriegelt. Niemand kam mehr heraus oder hinein.",
+    "h": "Die Eroberung der Gebiete westlich des Jordan\n(Kapitel 6–12)\nIsrael erobert Jericho",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "6006002",
+    "b": 6,
+    "c": 6,
+    "v": 2,
+    "t": "Da sprach der HERR zu Josua: »Ihr werdet sehen: Ich gebe die Stadt, ihren König und seine Soldaten in eure Gewalt.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "6006003",
+    "b": 6,
+    "c": 6,
+    "v": 3,
+    "t": "Sechs Tage lang sollt ihr jeden Tag einmal mit allen kampffähigen Männern um die Stadt ziehen.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "6006004",
+    "b": 6,
+    "c": 6,
+    "v": 4,
+    "t": "Nehmt die Bundeslade mit! Lasst sieben Priester mit Widderhörnern in der Hand vor ihr hergehen! Am siebten Tag sollt ihr siebenmal um die Stadt ziehen, und die Priester sollen die Hörner blasen.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "6006005",
+    "b": 6,
+    "c": 6,
+    "v": 5,
+    "t": "Wenn der langgezogene Signalton des Widderhorns ertönt, so stimmt ein lautes Kriegsgeschrei an! Dann wird die Stadtmauer einstürzen, und ihr könnt von allen Seiten nach Jericho eindringen.«",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "6006006",
+    "b": 6,
+    "c": 6,
+    "v": 6,
+    "t": "Josua, der Sohn von Nun, rief die Priester zusammen und wies sie an: »Nehmt die Bundeslade des HERRN ! Sieben von euch sollen mit Widderhörnern vor ihr herziehen.«",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "6006007",
+    "b": 6,
+    "c": 6,
+    "v": 7,
+    "t": "Dem Heer befahl er: »Macht euch bereit und geht um Jericho herum, einige Kämpfer als Vorhut, dahinter die Priester mit der Bundeslade und am Schluss alle übrigen Soldaten!«",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "6006008",
+    "b": 6,
+    "c": 6,
+    "v": 8,
+    "t": "Nachdem Josua seine Anweisungen gegeben hatte, stießen die Priester in die Hörner, und alle brachen auf. An der Spitze des Zuges marschierte die ausgewählte Vorhut. Hinter ihr gingen die sieben Priester, die nun unablässig ihre Hörner bliesen, und die anderen Priester mit der Bundeslade. Den Schluss bildete das übrige Heer.",
+    "h": "",
+    "o": 8,
+    "l": "8-9"
+  },
+  {
+    "id": "6006009",
+    "b": 6,
+    "c": 6,
+    "v": 10,
+    "t": "Zuvor hatte Josua angeordnet: »Macht keinen Lärm! Verhaltet euch ganz still, bis ich euch befehle, ein lautes Kriegsgeschrei anzustimmen. Dann aber schreit, so laut ihr könnt!«",
+    "h": "",
+    "o": 9,
+    "l": "10"
+  },
+  {
+    "id": "6006010",
+    "b": 6,
+    "c": 6,
+    "v": 11,
+    "t": "So zogen sie mit der Bundeslade einmal um Jericho herum und kehrten anschließend wieder in ihr Lager zurück, wo sie übernachteten.",
+    "h": "",
+    "o": 10,
+    "l": "11"
+  },
+  {
+    "id": "6006011",
+    "b": 6,
+    "c": 6,
+    "v": 12,
+    "t": "Früh am nächsten Morgen ließ Josua sie wieder aufbrechen: Die Priester trugen die Bundeslade,",
+    "h": "",
+    "o": 11,
+    "l": "12"
+  },
+  {
+    "id": "6006012",
+    "b": 6,
+    "c": 6,
+    "v": 13,
+    "t": "sieben von ihnen gingen vor der Bundeslade her und bliesen immerzu die Hörner, eine Gruppe von Soldaten marschierte voraus, und alle übrigen folgten.",
+    "h": "",
+    "o": 12,
+    "l": "13"
+  },
+  {
+    "id": "6006013",
+    "b": 6,
+    "c": 6,
+    "v": 14,
+    "t": "Wie am Vortag zogen die Israeliten einmal um Jericho herum und kehrten dann in ihr Lager zurück. Das taten sie insgesamt sechs Tage lang.",
+    "h": "",
+    "o": 13,
+    "l": "14"
+  },
+  {
+    "id": "6006014",
+    "b": 6,
+    "c": 6,
+    "v": 15,
+    "t": "Am siebten Tag brachen sie bereits bei Sonnenaufgang auf und zogen wie zuvor um die Stadt herum, an diesem Tag jedoch siebenmal.",
+    "h": "",
+    "o": 14,
+    "l": "15"
+  },
+  {
+    "id": "6006015",
+    "b": 6,
+    "c": 6,
+    "v": 16,
+    "t": "Beim siebten Mal, als die Priester die Hörner bliesen, rief Josua seinen Männern zu: »Schreit, so laut ihr könnt! Der HERR gibt euch Jericho!",
+    "h": "",
+    "o": 15,
+    "l": "16"
+  },
+  {
+    "id": "6006016",
+    "b": 6,
+    "c": 6,
+    "v": 17,
+    "t": "Die ganze Stadt ist dem Untergang geweiht. Darum löscht alles aus, was ihr darin findet! Nur die Prostituierte Rahab soll am Leben bleiben und jeder, der bei ihr im Haus ist, denn sie hat unsere Kundschafter versteckt.",
+    "h": "",
+    "o": 16,
+    "l": "17"
+  },
+  {
+    "id": "6006017",
+    "b": 6,
+    "c": 6,
+    "v": 18,
+    "t": "Hütet euch davor, irgendetwas für euch zu behalten, worüber Gott sein Urteil verhängt hat! Sonst stürzt ihr Israel ins Unglück und bringt dieselbe Strafe über unser Volk, die ihr an Jericho vollstrecken sollt.",
+    "h": "",
+    "o": 17,
+    "l": "18"
+  },
+  {
+    "id": "6006018",
+    "b": 6,
+    "c": 6,
+    "v": 19,
+    "t": "Das Silber und Gold und die Gegenstände aus Bronze und Eisen gehören dem HERRN. Sie sollen in der Schatzkammer des heiligen Zeltes aufbewahrt werden.«",
+    "h": "",
+    "o": 18,
+    "l": "19"
+  },
+  {
+    "id": "6006019",
+    "b": 6,
+    "c": 6,
+    "v": 20,
+    "t": "Die Priester bliesen ihre Hörner, und die Soldaten stimmten das Kriegsgeschrei an. Da stürzte die Mauer von Jericho ein. Die Israeliten stürmten die Stadt von allen Seiten und eroberten sie.",
+    "h": "",
+    "o": 19,
+    "l": "20"
+  },
+  {
+    "id": "6006020",
+    "b": 6,
+    "c": 6,
+    "v": 21,
+    "t": "Mit ihren Schwertern vernichteten sie alles Leben darin: Männer und Frauen, Kinder und Greise, Rinder, Schafe und Esel.",
+    "h": "",
+    "o": 20,
+    "l": "21"
+  },
+  {
+    "id": "6006021",
+    "b": 6,
+    "c": 6,
+    "v": 22,
+    "t": "Den beiden jungen Männern, die Jericho erkundet hatten, befahl Josua: »Geht zum Haus der Prostituierten und holt sie und ihre Angehörigen heraus, wie ihr es geschworen habt!«",
+    "h": "",
+    "o": 21,
+    "l": "22"
+  },
+  {
+    "id": "6006022",
+    "b": 6,
+    "c": 6,
+    "v": 23,
+    "t": "Die beiden liefen zu Rahabs Haus, brachten sie zusammen mit ihren Eltern, Geschwistern und allen Verwandten aus der Stadt und führten sie an einen Ort außerhalb des israelitischen Lagers.",
+    "h": "",
+    "o": 22,
+    "l": "23"
+  },
+  {
+    "id": "6006023",
+    "b": 6,
+    "c": 6,
+    "v": 24,
+    "t": "Schließlich steckte man Jericho in Brand. Nur das Silber, das Gold und die bronzenen und eisernen Gegenstände nahmen die Israeliten mit und brachten sie in die Schatzkammer des heiligen Zeltes.",
+    "h": "",
+    "o": 23,
+    "l": "24"
+  },
+  {
+    "id": "6006024",
+    "b": 6,
+    "c": 6,
+    "v": 25,
+    "t": "Von den Einwohnern der Stadt ließ Josua niemanden am Leben außer der Prostituierten Rahab, der Familie ihres Vaters und ihren anderen Verwandten. Denn sie hatte die israelitischen Kundschafter versteckt, die Josua nach Jericho gesandt hatte. Noch heute lebt sie in Israel.",
+    "h": "",
+    "o": 24,
+    "l": "25"
+  },
+  {
+    "id": "6006025",
+    "b": 6,
+    "c": 6,
+    "v": 26,
+    "t": "Als Jericho niederbrannte, sprach Josua einen Fluch aus: »Die Strafe des HERRN soll den treffen, der diese Stadt wieder aufbaut. Wenn er das Fundament legt, muss er dafür mit dem Tod seines ältesten Sohnes bezahlen, und wenn er die Tore einsetzt, wird er auch noch seinen jüngsten verlieren.«",
+    "h": "",
+    "o": 25,
+    "l": "26"
+  },
+  {
+    "id": "6006026",
+    "b": 6,
+    "c": 6,
+    "v": 27,
+    "t": "Der HERR stand Josua zur Seite. Im ganzen Land sprach man von ihm.",
+    "h": "",
+    "o": 26,
+    "l": "27"
+  },
+  {
+    "id": "6007001",
+    "b": 6,
+    "c": 7,
+    "v": 1,
+    "t": "Ein Israelit verstieß gegen das Verbot, sich etwas von den Reichtümern Jerichos anzueignen: Achan, der Sohn von Karmi. Er war ein Nachkomme von Sabdi und Serach aus dem Stamm Juda. Achan nahm etwas von dem mit, was vernichtet werden sollte. Darum wurde der HERR sehr zornig über die Israeliten.",
+    "h": "Achans Diebstahl und Israels Niederlage bei Ai",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "6007002",
+    "b": 6,
+    "c": 7,
+    "v": 2,
+    "t": "Josua sandte von Jericho aus einige Männer zur Stadt Ai, die bei Bet-Awen östlich von Bethel liegt. »Geht hin«, sagte er, »und erkundet die Gegend.« Die Männer führten den Auftrag aus.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "6007003",
+    "b": 6,
+    "c": 7,
+    "v": 3,
+    "t": "Als sie wieder zurückgekehrt waren, erstatteten sie Josua Bericht und rieten: »Lass nicht das ganze Heer gegen die Stadt ziehen. Zwei- oder dreitausend Mann reichen völlig aus, um Ai zu erobern. Es hat nur wenige Einwohner. Du brauchst nicht alle Soldaten einzusetzen.«",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "6007004",
+    "b": 6,
+    "c": 7,
+    "v": 4,
+    "t": "Josua folgte ihrem Rat und sandte dreitausend Mann los, um Ai einzunehmen. Doch sie wurden in die Flucht geschlagen.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "6007005",
+    "b": 6,
+    "c": 7,
+    "v": 5,
+    "t": "Die Männer von Ai verfolgten die Israeliten von der Stadt bis zum Abhang von Schebarim und töteten dort 36 Soldaten. Da packte die Israeliten die Angst.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "6007006",
+    "b": 6,
+    "c": 7,
+    "v": 6,
+    "t": "Josua zerriss entsetzt sein Gewand und warf sich mit den führenden Männern des Volkes vor der Bundeslade zu Boden. Voller Verzweiflung streuten sie sich Erde auf den Kopf und blieben bis zum Abend so liegen.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "6007007",
+    "b": 6,
+    "c": 7,
+    "v": 7,
+    "t": "Dann betete Josua: »Ach, HERR, warum hast du uns bloß über den Jordan geführt? Etwa damit uns die Amoriter besiegen und umbringen? Wären wir doch geblieben, wo wir waren!",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "6007008",
+    "b": 6,
+    "c": 7,
+    "v": 8,
+    "t": "Ich frage dich, Herr: Was kann ich jetzt noch sagen, nachdem Israel vor seinen Feinden fliehen musste?",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "6007009",
+    "b": 6,
+    "c": 7,
+    "v": 9,
+    "t": "Die Kanaaniter und alle anderen Völker dieses Landes werden davon hören. Sie werden uns umbringen und jede Spur von uns für immer auslöschen. Wie willst du deine Ehre dann noch retten?«",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "6007010",
+    "b": 6,
+    "c": 7,
+    "v": 10,
+    "t": "Der HERR antwortete: »Steh auf! Warum liegst du hier am Boden?",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "6007011",
+    "b": 6,
+    "c": 7,
+    "v": 11,
+    "t": "Die Israeliten haben Schuld auf sich geladen und den Bund verletzt, den ich mit ihnen schloss. Sie haben etwas von dem an sich genommen, was ich zur Vernichtung bestimmt habe. Sie haben es gestohlen und heimlich bei sich versteckt.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "6007012",
+    "b": 6,
+    "c": 7,
+    "v": 12,
+    "t": "Deshalb seid ihr euren Feinden unterlegen und müsst vor ihnen fliehen. Ihr selbst seid jetzt dem Untergang geweiht! Ich werde euch nicht mehr helfen, wenn ihr nicht das aus eurem Volk beseitigt, worüber ich mein Urteil verhängt habe.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "6007013",
+    "b": 6,
+    "c": 7,
+    "v": 13,
+    "t": "Steh jetzt auf und sprich zum Volk! Sag ihnen: ›Unter euch befindet sich etwas, worüber Gott sein Urteil gesprochen hat und was allein ihm gehört. Ihr werdet euren Feinden so lange unterlegen sein, bis ihr es entfernt habt. Der HERR, der Gott Israels, befiehlt, dass ihr euch reinigt und darauf vorbereitet, ihm morgen früh zu begegnen!",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "6007014",
+    "b": 6,
+    "c": 7,
+    "v": 14,
+    "t": "Dann sollt ihr euch nach euren Stammesverbänden geordnet versammeln. Der HERR wird uns den Schuldigen zeigen: Wir werden das Los werfen, und der Stamm, den es trifft, soll vortreten. Dann entscheidet das Los zwischen den Sippen dieses Stammes. Ist die Sippe gefunden, wird in ihr die Familie durch das Los ermittelt. Diese Familie, die der HERR uns zeigen wird, soll dann vortreten, Mann für Mann.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "6007015",
+    "b": 6,
+    "c": 7,
+    "v": 15,
+    "t": "Derjenige, bei dem man etwas findet, das Gott gehört, muss verbrannt werden, zusammen mit seiner Familie und seinem Besitz. Denn er hat den Bund mit dem HERRN gebrochen und durch seine abscheuliche Tat Schande über Israel gebracht.‹«",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "6007016",
+    "b": 6,
+    "c": 7,
+    "v": 16,
+    "t": "Früh am nächsten Morgen ließ Josua das Volk nach Stammesverbänden geordnet zu sich kommen. Das Los wurde geworfen und traf den Stamm Juda.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "6007017",
+    "b": 6,
+    "c": 7,
+    "v": 17,
+    "t": "Er musste vortreten. Aus diesem Stamm wurde die Sippe Serach ermittelt, und in ihr fiel das Los auf die Familie von Sabdi.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "6007018",
+    "b": 6,
+    "c": 7,
+    "v": 18,
+    "t": "Unter dessen Angehörigen traf es schließlich Achan, den Sohn von Karmi und Nachkommen von Sabdi und Serach.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "6007019",
+    "b": 6,
+    "c": 7,
+    "v": 19,
+    "t": "Josua sagte zu ihm: »Mein Sohn, beug dich vor dem HERRN, dem Gott Israels. Zeig, dass du ihn achtest, und gestehe, was du getan hast; verschweig mir nichts!«",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "6007020",
+    "b": 6,
+    "c": 7,
+    "v": 20,
+    "t": "Achan antwortete: »Es ist wahr, ich bin es gewesen, ich habe das Gebot des HERRN, des Gottes Israels, verletzt.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "6007021",
+    "b": 6,
+    "c": 7,
+    "v": 21,
+    "t": "Unter der Beute sah ich einen wertvollen Mantel aus Babylonien, fast zweieinhalb Kilo Silber und einen Goldbarren, über ein Pfund schwer. Ich konnte einfach nicht widerstehen und nahm es mit. Ich habe alles im Boden meines Zeltes vergraben, das Silber zuunterst.«",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "6007022",
+    "b": 6,
+    "c": 7,
+    "v": 22,
+    "t": "Josua schickte einige Männer zu Achans Zelt. Sie fanden das Gestohlene tatsächlich dort vergraben, das Silber zuunterst, genau wie Achan es beschrieben hatte.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "6007023",
+    "b": 6,
+    "c": 7,
+    "v": 23,
+    "t": "Sie holten alles heraus und brachten es dahin, wo Josua und das Volk warteten. Dort legten sie es vor der Bundeslade auf die Erde.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "6007024",
+    "b": 6,
+    "c": 7,
+    "v": 24,
+    "t": "Josua nahm Achan von der Sippe Serach samt seinen Söhnen und Töchtern gefangen und ließ seine Rinder und Esel, seine Schafe und Ziegen, sein Zelt und seine gesamte Habe herbeiholen. Begleitet vom ganzen Volk, brachte er Achan, seine Kinder, seinen ganzen Besitz und das gestohlene Gut ins Achor-Tal.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "6007025",
+    "b": 6,
+    "c": 7,
+    "v": 25,
+    "t": "Dort sagte Josua zu ihm: »Du hast Israel ins Unglück gestürzt! Darum stürzt der HERR heute dich ins Unglück!« Das ganze Volk steinigte Achan und seine Familie, und anschließend wurden sie mit ihrem ganzen Besitz verbrannt.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "6007026",
+    "b": 6,
+    "c": 7,
+    "v": 26,
+    "t": "Man begrub sie unter einem großen Steinhaufen, der sich noch immer dort befindet. Da legte sich der Zorn des HERRN. Dem Tal gaben die Israeliten den Namen Achor (»Unglück«), und so wird es noch heute genannt.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "6008001",
+    "b": 6,
+    "c": 8,
+    "v": 1,
+    "t": "Der HERR sprach zu Josua: »Hab keine Angst und lass dich nicht einschüchtern! Zieh mit dem ganzen Heer nach Ai und leg einen Hinterhalt auf der anderen Seite der Stadt! Du wirst sehen: Ich gebe den König von Ai in deine Gewalt und mit ihm sein Volk, seine Stadt und sein Land. Du sollst mit Ai und seinem König das Gleiche tun wie mit Jericho und seinem König. Dieses Mal dürft ihr jedoch die Beute und das Vieh für euch behalten.«",
+    "h": "Israel erobert Ai",
+    "o": 1,
+    "l": "1-2"
+  },
+  {
+    "id": "6008002",
+    "b": 6,
+    "c": 8,
+    "v": 3,
+    "t": "Josua brach mit dem ganzen Heer auf und rückte in die Nähe von Ai vor. Er wählte 30.000 erfahrene Soldaten aus, und in der Nacht befahl er ihnen:",
+    "h": "",
+    "o": 2,
+    "l": "3"
+  },
+  {
+    "id": "6008003",
+    "b": 6,
+    "c": 8,
+    "v": 4,
+    "t": "»Legt euch auf der Rückseite der Stadt in den Hinterhalt, nicht weit von ihr entfernt. Haltet euch zum Angriff bereit!",
+    "h": "",
+    "o": 3,
+    "l": "4"
+  },
+  {
+    "id": "6008004",
+    "b": 6,
+    "c": 8,
+    "v": 5,
+    "t": "Mit dem Hauptheer werden wir uns von vorn der Stadt nähern. Die Soldaten von Ai werden dann wie beim letzten Mal die Stadt verlassen, um uns anzugreifen, und wir werden scheinbar vor ihnen fliehen.",
+    "h": "",
+    "o": 4,
+    "l": "5"
+  },
+  {
+    "id": "6008005",
+    "b": 6,
+    "c": 8,
+    "v": 6,
+    "t": "Sie werden meinen, dass wir erneut vor ihnen davonlaufen, und werden uns verfolgen. Wenn wir sie auf diese Weise herausgelockt haben,",
+    "h": "",
+    "o": 5,
+    "l": "6"
+  },
+  {
+    "id": "6008006",
+    "b": 6,
+    "c": 8,
+    "v": 7,
+    "t": "brecht ihr aus eurem Hinterhalt hervor und nehmt die Stadt ein. Der HERR, euer Gott, wird euch zum Sieg verhelfen.",
+    "h": "",
+    "o": 6,
+    "l": "7"
+  },
+  {
+    "id": "6008007",
+    "b": 6,
+    "c": 8,
+    "v": 8,
+    "t": "Nach der Eroberung legt ihr dort Feuer. So hat es der HERR befohlen. Haltet euch an meine Anweisungen!«",
+    "h": "",
+    "o": 7,
+    "l": "8"
+  },
+  {
+    "id": "6008008",
+    "b": 6,
+    "c": 8,
+    "v": 9,
+    "t": "Dann schickte Josua die Männer los. Sie umgingen die Stadt und legten sich im Westen zwischen Ai und Bethel in den Hinterhalt. Josua verbrachte die Nacht beim Hauptheer.",
+    "h": "",
+    "o": 8,
+    "l": "9"
+  },
+  {
+    "id": "6008009",
+    "b": 6,
+    "c": 8,
+    "v": 10,
+    "t": "Früh am Morgen ließ Josua seine Truppen antreten. Dann brachen sie in Richtung Ai auf. Josua und die Sippenoberhäupter von Israel führten das Heer an.",
+    "h": "",
+    "o": 9,
+    "l": "10"
+  },
+  {
+    "id": "6008010",
+    "b": 6,
+    "c": 8,
+    "v": 11,
+    "t": "Sie näherten sich der Stadt von Norden her und hielten auf einer Anhöhe, nur noch durch ein Tal von ihrem Ziel getrennt.",
+    "h": "",
+    "o": 10,
+    "l": "11"
+  },
+  {
+    "id": "6008011",
+    "b": 6,
+    "c": 8,
+    "v": 12,
+    "t": "Josua hatte weitere 5000 Mann in den Hinterhalt westlich der Stadt gelegt, zwischen Ai und Bethel.",
+    "h": "",
+    "o": 11,
+    "l": "12"
+  },
+  {
+    "id": "6008012",
+    "b": 6,
+    "c": 8,
+    "v": 13,
+    "t": "So stand das Hauptheer nördlich von Ai und der Hinterhalt im Westen. Es war immer noch dunkel, als Josua sein Heer schließlich in das Tal hinabführte.",
+    "h": "",
+    "o": 12,
+    "l": "13"
+  },
+  {
+    "id": "6008013",
+    "b": 6,
+    "c": 8,
+    "v": 14,
+    "t": "In aller Frühe entdeckte der König von Ai die Israeliten. Sofort gab er den Befehl zum Angriff und verließ mit seinen Soldaten die Stadt, um auf dem Schlachtfeld in der Ebene gegen Israel zu kämpfen. Er wusste nichts von dem Hinterhalt.",
+    "h": "",
+    "o": 13,
+    "l": "14"
+  },
+  {
+    "id": "6008014",
+    "b": 6,
+    "c": 8,
+    "v": 15,
+    "t": "Wie Josua angeordnet hatte, ließ sich Israel von den Männern aus Ai zunächst in die Flucht schlagen und floh vor ihnen in Richtung Wüste.",
+    "h": "",
+    "o": 14,
+    "l": "15"
+  },
+  {
+    "id": "6008015",
+    "b": 6,
+    "c": 8,
+    "v": 16,
+    "t": "Da rief man die in der Stadt verbliebenen Männer zusammen, um gemeinsam den Feind zu verfolgen. Sie jagten Josuas Heer nach und entfernten sich immer weiter von ihrer Stadt.",
+    "h": "",
+    "o": 15,
+    "l": "16"
+  },
+  {
+    "id": "6008016",
+    "b": 6,
+    "c": 8,
+    "v": 17,
+    "t": "In Ai und in Bethel blieb kein einziger Mann mehr zurück. Alle verfolgten die fliehenden Israeliten. Die Stadt Ai war offen und ohne jeden Schutz.",
+    "h": "",
+    "o": 16,
+    "l": "17"
+  },
+  {
+    "id": "6008017",
+    "b": 6,
+    "c": 8,
+    "v": 18,
+    "t": "Da sprach der HERR zu Josua: »Heb dein Schwert hoch und richte es gegen Ai! Die Stadt gehört euch.« Josua streckte sein Schwert aus.",
+    "h": "",
+    "o": 17,
+    "l": "18"
+  },
+  {
+    "id": "6008018",
+    "b": 6,
+    "c": 8,
+    "v": 19,
+    "t": "Das war das verabredete Zeichen für die Truppen im Hinterhalt. Sie brachen aus ihrem Versteck hervor, fielen in die Stadt ein, eroberten sie und steckten alles schnell in Brand.",
+    "h": "",
+    "o": 18,
+    "l": "19"
+  },
+  {
+    "id": "6008019",
+    "b": 6,
+    "c": 8,
+    "v": 20,
+    "t": "Die Männer von Ai wandten sich um und sahen auf einmal Rauch aus ihrer Stadt aufsteigen. Sie erkannten, dass sie in eine Falle geraten waren. Denn die eben noch fliehenden Israeliten machten nun kehrt und griffen an.",
+    "h": "",
+    "o": 19,
+    "l": "20"
+  },
+  {
+    "id": "6008020",
+    "b": 6,
+    "c": 8,
+    "v": 21,
+    "t": "Sie hatten den Rauch ebenfalls gesehen und wussten, dass die Stadt erobert war. Nun stürmten Josua und seine Soldaten den Männern von Ai entgegen.",
+    "h": "",
+    "o": 20,
+    "l": "21"
+  },
+  {
+    "id": "6008021",
+    "b": 6,
+    "c": 8,
+    "v": 22,
+    "t": "Diese waren plötzlich von zwei Seiten eingeschlossen. Denn jetzt kamen auch die israelitischen Soldaten aus der Stadt heran. Es gab kein Entrinnen. Alle Männer von Ai wurden getötet.",
+    "h": "",
+    "o": 21,
+    "l": "22"
+  },
+  {
+    "id": "6008022",
+    "b": 6,
+    "c": 8,
+    "v": 23,
+    "t": "Nur den König fasste man lebendig und brachte ihn zu Josua.",
+    "h": "",
+    "o": 22,
+    "l": "23"
+  },
+  {
+    "id": "6008023",
+    "b": 6,
+    "c": 8,
+    "v": 24,
+    "t": "Als die Israeliten ihre Gegner auf dem Schlachtfeld in der Ebene besiegt hatten, drangen sie erneut in die Stadt ein und brachten alle Einwohner mit dem Schwert um.",
+    "h": "",
+    "o": 23,
+    "l": "24"
+  },
+  {
+    "id": "6008024",
+    "b": 6,
+    "c": 8,
+    "v": 25,
+    "t": "Insgesamt starben an jenem Tag etwa 12.000 Männer und Frauen.",
+    "h": "",
+    "o": 24,
+    "l": "25"
+  },
+  {
+    "id": "6008025",
+    "b": 6,
+    "c": 8,
+    "v": 26,
+    "t": "Josua ließ seine Hand mit dem Schwert erst sinken, als alle Einwohner Ais tot waren und so Gottes Urteil vollstreckt war.",
+    "h": "",
+    "o": 25,
+    "l": "26"
+  },
+  {
+    "id": "6008026",
+    "b": 6,
+    "c": 8,
+    "v": 27,
+    "t": "Das Vieh und die übrige Beute nahmen die Israeliten diesmal mit, wie der HERR es Josua erlaubt hatte.",
+    "h": "",
+    "o": 26,
+    "l": "27"
+  },
+  {
+    "id": "6008027",
+    "b": 6,
+    "c": 8,
+    "v": 28,
+    "t": "Dann ließ Josua die Stadt niederbrennen, so dass nur noch ein Trümmerhaufen von ihr übrig blieb. Bis heute ist sie nicht wieder aufgebaut worden.",
+    "h": "",
+    "o": 27,
+    "l": "28"
+  },
+  {
+    "id": "6008028",
+    "b": 6,
+    "c": 8,
+    "v": 29,
+    "t": "Den König von Ai erhängte Josua an einem Baum. Am Abend ließ er die Leiche abnehmen, vor das Stadttor werfen und unter einem großen Steinhaufen begraben, den man noch heute dort findet.",
+    "h": "",
+    "o": 28,
+    "l": "29"
+  },
+  {
+    "id": "6008029",
+    "b": 6,
+    "c": 8,
+    "v": 30,
+    "t": "Damals errichtete Josua auf dem Berg Ebal einen Altar für den HERRN, den Gott Israels.",
+    "h": "Israel erneuert seinen Bund mit dem Herrn",
+    "o": 29,
+    "l": "30"
+  },
+  {
+    "id": "6008030",
+    "b": 6,
+    "c": 8,
+    "v": 31,
+    "t": "So hatte es Mose, der Diener des HERRN, den Israeliten in seinem Gesetzbuch befohlen. Es sollten Steine verwendet werden, die man nicht mit dem Meißel bearbeitet hatte. Die Israeliten brachten dem HERRN auf diesem Altar Brand- und Friedensopfer dar.",
+    "h": "",
+    "o": 30,
+    "l": "31"
+  },
+  {
+    "id": "6008031",
+    "b": 6,
+    "c": 8,
+    "v": 32,
+    "t": "Dann schrieb Josua in Gegenwart des Volkes die Gesetze von Mose auf die Gedenksteine.",
+    "h": "",
+    "o": 31,
+    "l": "32"
+  },
+  {
+    "id": "6008032",
+    "b": 6,
+    "c": 8,
+    "v": 33,
+    "t": "Die levitischen Priester standen bei der Bundeslade des HERRN. Auf beiden Seiten der Bundeslade hatte sich das ganze Volk versammelt, Israeliten und Ausländer, auch die führenden Männer, Richter und Beamten. Sie alle waren der Bundeslade zugewandt, die eine Hälfte des Volkes stand mit dem Rücken zum Berg Garizim, die andere zum Berg Ebal. Mose hatte befohlen, dies zu tun und das Volk zu segnen, sobald es im Land Kanaan angelangt war.",
+    "h": "",
+    "o": 32,
+    "l": "33"
+  },
+  {
+    "id": "6008033",
+    "b": 6,
+    "c": 8,
+    "v": 34,
+    "t": "Josua las das ganze Gesetzbuch von Mose vor, auch die Segensverheißungen und Fluchandrohungen.",
+    "h": "",
+    "o": 33,
+    "l": "34"
+  },
+  {
+    "id": "6008034",
+    "b": 6,
+    "c": 8,
+    "v": 35,
+    "t": "Nicht ein Wort ließ er aus. Die ganze Gemeinschaft der Israeliten, alle Männer, Frauen und Kinder, und auch die Ausländer in ihrer Mitte hörten es Wort für Wort.",
+    "h": "",
+    "o": 34,
+    "l": "35"
+  },
+  {
+    "id": "6009001",
+    "b": 6,
+    "c": 9,
+    "v": 1,
+    "t": "Die Nachricht von der Zerstörung Jerichos und Ais erreichte alle Könige westlich des Jordan – ob im Bergland, in der Ebene oder an der Mittelmeerküste bis hin zum Libanon –, die Könige der Hetiter, Amoriter, Kanaaniter, Perisiter, Hiwiter und Jebusiter.",
+    "h": "Die Einwohner von Gibeon überlisten Israel",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "6009002",
+    "b": 6,
+    "c": 9,
+    "v": 2,
+    "t": "Sie verbündeten sich, um gemeinsam gegen Josua und die Israeliten Krieg zu führen.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "6009003",
+    "b": 6,
+    "c": 9,
+    "v": 3,
+    "t": "Auch die Einwohner der Stadt Gibeon vom Volk der Hiwiter hörten, was mit Jericho und Ai geschehen war.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "6009004",
+    "b": 6,
+    "c": 9,
+    "v": 4,
+    "t": "Da dachten sie sich eine List aus: Sie wollten verkleidete Boten zu den Israeliten schicken, um mit ihnen zu verhandeln. Einige ihrer Männer zogen sich abgenutzte Kleider und geflickte Schuhe an, packten ein paar Habseligkeiten in schäbigen Säcken auf ihre Esel, hängten alte, rissige Weinschläuche daran und versorgten sich mit trockenem, zerbröckeltem Brot.",
+    "h": "",
+    "o": 4,
+    "l": "4-5"
+  },
+  {
+    "id": "6009005",
+    "b": 6,
+    "c": 9,
+    "v": 6,
+    "t": "So gingen sie zum israelitischen Lager in Gilgal. »Wir kommen von weit her«, erklärten sie Josua und den führenden Männern Israels, »unser Volk möchte sich mit euch verbünden.«",
+    "h": "",
+    "o": 5,
+    "l": "6"
+  },
+  {
+    "id": "6009006",
+    "b": 6,
+    "c": 9,
+    "v": 7,
+    "t": "Die Israeliten antworteten den Hiwitern: »Woher sollen wir wissen, dass ihr nicht aus diesem Land stammt? Wir können doch nicht einfach ein Bündnis mit euch schließen!«",
+    "h": "",
+    "o": 6,
+    "l": "7"
+  },
+  {
+    "id": "6009007",
+    "b": 6,
+    "c": 9,
+    "v": 8,
+    "t": "Die Boten wandten sich an Josua: »Wir bitten dich unterwürfig um Hilfe!« Josua fragte: »Wer seid ihr und wo kommt ihr her?«",
+    "h": "",
+    "o": 7,
+    "l": "8"
+  },
+  {
+    "id": "6009008",
+    "b": 6,
+    "c": 9,
+    "v": 9,
+    "t": "»Wir kommen aus einem fernen Land«, antworteten sie. »Wir möchten den HERRN, deinen Gott, kennen lernen. Wir haben gehört, was er in Ägypten vollbracht hat.",
+    "h": "",
+    "o": 8,
+    "l": "9"
+  },
+  {
+    "id": "6009009",
+    "b": 6,
+    "c": 9,
+    "v": 10,
+    "t": "Wir wissen auch, was er mit den amoritischen Königen östlich des Jordan getan hat, mit Sihon von Heschbon und Og von Baschan, der in Aschtarot regierte.",
+    "h": "",
+    "o": 9,
+    "l": "10"
+  },
+  {
+    "id": "6009010",
+    "b": 6,
+    "c": 9,
+    "v": 11,
+    "t": "Unsere Obersten und unser Volk gaben uns den Auftrag: ›Versorgt euch mit Proviant und geht zu ihnen! Bittet sie unterwürfig, einen Bund mit uns zu schließen!‹",
+    "h": "",
+    "o": 10,
+    "l": "11"
+  },
+  {
+    "id": "6009011",
+    "b": 6,
+    "c": 9,
+    "v": 12,
+    "t": "Hier, seht euch das Brot an! Es war noch warm, als wir zu Hause aufbrachen; jetzt ist es vertrocknet und zerbröckelt.",
+    "h": "",
+    "o": 11,
+    "l": "12"
+  },
+  {
+    "id": "6009012",
+    "b": 6,
+    "c": 9,
+    "v": 13,
+    "t": "Diese Weinschläuche hier waren neu und voll; jetzt sind sie rissig. Auch unsere Kleidung und die Schuhe sind durch die lange Reise verschlissen.«",
+    "h": "",
+    "o": 12,
+    "l": "13"
+  },
+  {
+    "id": "6009013",
+    "b": 6,
+    "c": 9,
+    "v": 14,
+    "t": "Die führenden Männer Israels untersuchten das vertrocknete Brot. Aber sie fragten nicht den HERRN um Rat.",
+    "h": "",
+    "o": 13,
+    "l": "14"
+  },
+  {
+    "id": "6009014",
+    "b": 6,
+    "c": 9,
+    "v": 15,
+    "t": "So schloss Josua Frieden mit den Fremden und sicherte zu, sie am Leben zu lassen. Die Führer des Volkes bekräftigten das Bündnis mit einem Eid.",
+    "h": "",
+    "o": 14,
+    "l": "15"
+  },
+  {
+    "id": "6009015",
+    "b": 6,
+    "c": 9,
+    "v": 16,
+    "t": "Drei Tage später erfuhren die Israeliten, dass die Männer, mit denen sie gerade ein Bündnis geschlossen hatten, aus Kanaan stammten und ganz in der Nähe wohnten.",
+    "h": "",
+    "o": 15,
+    "l": "16"
+  },
+  {
+    "id": "6009016",
+    "b": 6,
+    "c": 9,
+    "v": 17,
+    "t": "Mittlerweile hatten die Israeliten nämlich mit ihrem Heer die hiwitischen Städte Gibeon, Kefira, Beerot und Kirjat-Jearim erreicht, die zum Gebiet der Gibeoniter gehörten.",
+    "h": "",
+    "o": 16,
+    "l": "17"
+  },
+  {
+    "id": "6009017",
+    "b": 6,
+    "c": 9,
+    "v": 18,
+    "t": "Weil aber die führenden Männer des Volkes im Namen des HERRN, ihres Gottes, den Gibeonitern einen Eid geschworen hatten, vernichteten sie keine der vier Städte. Darüber ärgerte sich ganz Israel und beschwerte sich über seine Führer.",
+    "h": "",
+    "o": 17,
+    "l": "18"
+  },
+  {
+    "id": "6009018",
+    "b": 6,
+    "c": 9,
+    "v": 19,
+    "t": "Die riefen das Volk zusammen und erklärten: »Wir sind durch einen Eid gebunden, den wir im Namen des HERRN, unseres Gottes, gegeben haben. Deshalb dürfen wir diesen Menschen nichts antun.",
+    "h": "",
+    "o": 18,
+    "l": "19"
+  },
+  {
+    "id": "6009019",
+    "b": 6,
+    "c": 9,
+    "v": 20,
+    "t": "Wir werden unser Versprechen halten und sie leben lassen; wenn wir unseren Eid brechen, fordern wir Gottes Zorn heraus.",
+    "h": "",
+    "o": 19,
+    "l": "20"
+  },
+  {
+    "id": "6009020",
+    "b": 6,
+    "c": 9,
+    "v": 21,
+    "t": "Sie sollen am Leben bleiben und dem ganzen Volk als Holzfäller und Wasserträger dienen.« So wurde die Abmachung zwischen den israelitischen Führern und den Gibeonitern eingehalten.",
+    "h": "",
+    "o": 20,
+    "l": "21"
+  },
+  {
+    "id": "6009021",
+    "b": 6,
+    "c": 9,
+    "v": 22,
+    "t": "Dann stellte Josua die Boten aus Gibeon zur Rede: »Warum habt ihr uns betrogen? Wie konntet ihr nur behaupten, dass ihr aus einem fernen Land stammt, obwohl ihr von hier seid?",
+    "h": "",
+    "o": 21,
+    "l": "22"
+  },
+  {
+    "id": "6009022",
+    "b": 6,
+    "c": 9,
+    "v": 23,
+    "t": "Weil ihr das getan habt, wird euch ein Fluch treffen: Ihr und euer Volk werdet zu allen Zeiten als Sklaven für das Heiligtum meines Gottes Holz hauen und Wasser schleppen!«",
+    "h": "",
+    "o": 22,
+    "l": "23"
+  },
+  {
+    "id": "6009023",
+    "b": 6,
+    "c": 9,
+    "v": 24,
+    "t": "Sie antworteten Josua: »Uns wurde berichtet, dass der HERR, dein Gott, seinem Diener Mose versprochen hat, euch dieses ganze Land zu geben und alle seine Bewohner zu vernichten. Wir fürchteten um unser Leben. Deshalb haben wir so gehandelt.",
+    "h": "",
+    "o": 23,
+    "l": "24"
+  },
+  {
+    "id": "6009024",
+    "b": 6,
+    "c": 9,
+    "v": 25,
+    "t": "Jetzt sind wir in deiner Hand. Mach mit uns, was du für richtig hältst.«",
+    "h": "",
+    "o": 24,
+    "l": "25"
+  },
+  {
+    "id": "6009025",
+    "b": 6,
+    "c": 9,
+    "v": 26,
+    "t": "Josua stand zu seinem Wort und bewahrte die Gibeoniter davor, von den Israeliten getötet zu werden.",
+    "h": "",
+    "o": 25,
+    "l": "26"
+  },
+  {
+    "id": "6009026",
+    "b": 6,
+    "c": 9,
+    "v": 27,
+    "t": "Er bestimmte sie zu Holzfällern und Wasserträgern für das Volk und für den Opferdienst am Altar des HERRN. Sie sollten den Israeliten an dem Ort dienen, den der Herr für sein Heiligtum erwählen würde. So ist es bis heute geblieben.",
+    "h": "",
+    "o": 26,
+    "l": "27"
+  },
+  {
+    "id": "6010001",
+    "b": 6,
+    "c": 10,
+    "v": 1,
+    "t": "Wie ein Lauffeuer verbreitete sich die Nachricht von der Eroberung und Zerstörung Ais. Auch Adoni-Zedek, der König von Jerusalem, erfuhr, dass die Stadt Ai und ihr König dasselbe Schicksal erlitten hatten wie Jericho. Man berichtete ihm, die Einwohner Gibeons hätten mit den Israeliten Frieden geschlossen und lebten nun in ihrem Gebiet.",
+    "h": "Die Amoriter wollen Gibeon bestrafen",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "6010002",
+    "b": 6,
+    "c": 10,
+    "v": 2,
+    "t": "Diese Neuigkeiten lösten große Angst aus. Denn Gibeon war eine bedeutende Stadt, so wie die anderen Königsstädte. Sie war noch größer als Ai und verfügte über ein starkes Heer.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "6010003",
+    "b": 6,
+    "c": 10,
+    "v": 3,
+    "t": "Da sandte Adoni-Zedek Boten von Jerusalem zu den benachbarten Amoriterkönigen Hoham von Hebron, Piram von Jarmut, Jafia von Lachisch und Debir von Eglon. Er ließ ihnen sagen:",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "6010004",
+    "b": 6,
+    "c": 10,
+    "v": 4,
+    "t": "»Die Leute von Gibeon haben mit Israel Frieden geschlossen. Kommt und helft mir, sie anzugreifen!«",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "6010005",
+    "b": 6,
+    "c": 10,
+    "v": 5,
+    "t": "Die vier Könige folgten der Aufforderung und schlossen sich mit ihren Truppen dem Heer Adoni-Zedeks an. Sie zogen nach Gibeon, belagerten die Stadt und erklärten ihr den Krieg.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "6010006",
+    "b": 6,
+    "c": 10,
+    "v": 6,
+    "t": "Die Einwohner Gibeons schickten sofort Boten zu Josua in das Lager bei Gilgal. »Wir flehen dich an«, sagten sie zu ihm, »lass uns nicht im Stich! Komm schnell und hilf uns! Alle Amoriterkönige aus dem Bergland haben sich gegen uns verschworen. Ihre Heere belagern unsere Stadt!«",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "6010007",
+    "b": 6,
+    "c": 10,
+    "v": 7,
+    "t": "Da brach Josua mit seinem ganzen Heer auf.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "6010008",
+    "b": 6,
+    "c": 10,
+    "v": 8,
+    "t": "Der HERR sprach zu Josua: »Hab keine Angst vor ihnen! Ich gebe sie in deine Gewalt. Keiner von ihnen kann dir standhalten.«",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "6010009",
+    "b": 6,
+    "c": 10,
+    "v": 9,
+    "t": "Josua führte seine Truppen noch in der Nacht von Gilgal nach Gibeon. Die Gegner waren von ihrem Angriff völlig überrascht.",
+    "h": "Israel besiegt die Amoriter",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "6010010",
+    "b": 6,
+    "c": 10,
+    "v": 10,
+    "t": "Der HERR ließ unter den Amoritern heillose Verwirrung ausbrechen, und so konnten die Israeliten ihnen bei Gibeon eine schwere Niederlage zufügen. Sie verfolgten die zurückweichenden Truppen entlang dem Weg, der zum Pass von Bet-Horon hinaufführt, und weiter bis Aseka und Makkeda.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "6010011",
+    "b": 6,
+    "c": 10,
+    "v": 11,
+    "t": "Als die Fliehenden Bet-Horon erreichten und von dort ins Tal hinabstiegen, ließ der HERR sie durch ein schweres Hagelunwetter erschlagen. Die Hagelkörner waren so groß wie Kieselsteine und töteten mehr Menschen als die Schwerter der Israeliten.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "6010012",
+    "b": 6,
+    "c": 10,
+    "v": 12,
+    "t": "An jenem Tag, als der HERR die Amoriter in die Gewalt der Israeliten gab, hatte Josua laut zum HERRN gebetet. Vor dem ganzen Volk hatte er gerufen: »Sonne, bleib stehen über Gibeon, und Mond über dem Tal Ajalon!«",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "6010013",
+    "b": 6,
+    "c": 10,
+    "v": 13,
+    "t": "Da waren die Sonne und der Mond stehen geblieben, bis die Israeliten sich an ihren Feinden gerächt hatten. Dieses Ereignis wird auch im »Buch des Rechtschaffenen« beschrieben. Die Sonne stand fast einen Tag lang hoch am Himmel und lief nicht nach Westen.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "6010014",
+    "b": 6,
+    "c": 10,
+    "v": 14,
+    "t": "Weder vorher noch nachher hat es je einen Tag gegeben, an dem der HERR so etwas auf die Bitte eines Menschen hin getan hätte. Damals aber tat er es, denn er kämpfte auf der Seite Israels.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "6010015",
+    "b": 6,
+    "c": 10,
+    "v": 15,
+    "t": "Schließlich kehrte Josua mit dem ganzen Heer ins Lager bei Gilgal zurück.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "6010016",
+    "b": 6,
+    "c": 10,
+    "v": 16,
+    "t": "Den fünf Amoriterkönigen aber war die Flucht gelungen. Sie versteckten sich in einer Höhle in der Nähe der Stadt Makkeda.",
+    "h": "Das Ende der fünf Amoriterkönige",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "6010017",
+    "b": 6,
+    "c": 10,
+    "v": 17,
+    "t": "Es dauerte nicht lange, da wurde Josua gemeldet, dass man sie entdeckt hatte.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "6010018",
+    "b": 6,
+    "c": 10,
+    "v": 18,
+    "t": "Er befahl den Israeliten: »Wälzt große Felsbrocken vor den Eingang der Höhle und sichert ihn mit einigen Wachposten.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "6010019",
+    "b": 6,
+    "c": 10,
+    "v": 19,
+    "t": "Ihr Übrigen aber sollt nicht dortbleiben. Jagt wieder euren Feinden nach und versucht, ihre Nachhut zu schlagen! Lasst sie nicht in ihre Städte entkommen! Denn der HERR, euer Gott, gibt sie in eure Hand.«",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "6010020",
+    "b": 6,
+    "c": 10,
+    "v": 20,
+    "t": "Die Israeliten brachten den Amoritern an jenem Tag eine vernichtende Niederlage bei. Ihre Heere waren vollständig besiegt. Nur wenige Überlebende konnten sich in die befestigten Städte retten.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "6010021",
+    "b": 6,
+    "c": 10,
+    "v": 21,
+    "t": "Nach der Schlacht kehrten die israelitischen Soldaten ungehindert zu Josua ins Lager von Makkeda zurück. Kein Feind wagte sich mehr an sie heran.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "6010022",
+    "b": 6,
+    "c": 10,
+    "v": 22,
+    "t": "Josua befahl: »Öffnet den Eingang der Höhle! Holt die fünf Könige heraus und bringt sie zu mir!«",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "6010023",
+    "b": 6,
+    "c": 10,
+    "v": 23,
+    "t": "Man wälzte die Steine beiseite und holte die fünf aus ihrem Versteck: die Könige von Jerusalem, Hebron, Jarmut, Lachisch und Eglon.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "6010024",
+    "b": 6,
+    "c": 10,
+    "v": 24,
+    "t": "Sie wurden zu Josua gebracht. Der rief alle Israeliten zusammen und forderte seine Heerführer auf: »Kommt her! Setzt diesen Königen den Fuß auf den Nacken!« Sie gehorchten.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "6010025",
+    "b": 6,
+    "c": 10,
+    "v": 25,
+    "t": "Dann rief Josua ihnen zu: »Ihr braucht euch vor niemandem zu fürchten; lasst euch nicht einschüchtern! Seid mutig und entschlossen! Denn jetzt seht ihr, was der HERR mit allen Feinden machen wird, gegen die ihr kämpft!«",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "6010026",
+    "b": 6,
+    "c": 10,
+    "v": 26,
+    "t": "Darauf tötete Josua die Könige und ließ ihre Leichen an fünf Bäumen aufhängen. Dort blieben sie bis zum Abend.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "6010027",
+    "b": 6,
+    "c": 10,
+    "v": 27,
+    "t": "Als die Sonne unterging, befahl er, sie herabzunehmen und in die Höhle zu werfen, in der sie sich versteckt hatten. Der Eingang wurde mit großen Steinen verschlossen, die noch heute dort liegen.",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "6010028",
+    "b": 6,
+    "c": 10,
+    "v": 28,
+    "t": "Am selben Tag eroberte Josua die Stadt Makkeda. Er vollstreckte Gottes Urteil an ihrem König und an allen Einwohnern, indem er sie mit dem Schwert umbringen ließ. Niemand entkam. Der König von Makkeda fand das gleiche Ende wie der König von Jericho.",
+    "h": "Israel erobert das südliche Kanaan",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "6010029",
+    "b": 6,
+    "c": 10,
+    "v": 29,
+    "t": "Dann führte Josua das israelitische Heer nach Libna und griff auch diese Stadt an.",
+    "h": "",
+    "o": 29,
+    "l": "29"
+  },
+  {
+    "id": "6010030",
+    "b": 6,
+    "c": 10,
+    "v": 30,
+    "t": "Wieder verhalf der HERR den Israeliten zum Sieg. Alle Einwohner wurden getötet, niemand konnte fliehen. Der König von Libna fand das gleiche Ende wie der König von Jericho.",
+    "h": "",
+    "o": 30,
+    "l": "30"
+  },
+  {
+    "id": "6010031",
+    "b": 6,
+    "c": 10,
+    "v": 31,
+    "t": "Von Libna zog Josua mit dem Heer nach Lachisch. Er belagerte die Stadt und griff an.",
+    "h": "",
+    "o": 31,
+    "l": "31"
+  },
+  {
+    "id": "6010032",
+    "b": 6,
+    "c": 10,
+    "v": 32,
+    "t": "Am zweiten Tag schenkte der HERR ihm den Sieg. Josua eroberte die Stadt und ließ, wie schon in Libna, alle Einwohner umbringen.",
+    "h": "",
+    "o": 32,
+    "l": "32"
+  },
+  {
+    "id": "6010033",
+    "b": 6,
+    "c": 10,
+    "v": 33,
+    "t": "Horam, der König von Geser, war Lachisch mit seinem Heer zu Hilfe geeilt. Doch Josua vernichtete auch ihn und seine Truppen, kein Soldat überlebte.",
+    "h": "",
+    "o": 33,
+    "l": "33"
+  },
+  {
+    "id": "6010034",
+    "b": 6,
+    "c": 10,
+    "v": 34,
+    "t": "Von Lachisch führte Josua das israelitische Heer weiter nach Eglon. Er ließ die Stadt umzingeln und angreifen.",
+    "h": "",
+    "o": 34,
+    "l": "34"
+  },
+  {
+    "id": "6010035",
+    "b": 6,
+    "c": 10,
+    "v": 35,
+    "t": "Noch am selben Tag eroberte er sie und vollstreckte Gottes Urteil an allen Einwohnern. Wie zuvor in Lachisch ließ er niemanden am Leben.",
+    "h": "",
+    "o": 35,
+    "l": "35"
+  },
+  {
+    "id": "6010036",
+    "b": 6,
+    "c": 10,
+    "v": 36,
+    "t": "Dann zogen die Israeliten weiter nach Hebron. Sie eröffneten den Kampf gegen die Stadt",
+    "h": "",
+    "o": 36,
+    "l": "36"
+  },
+  {
+    "id": "6010037",
+    "b": 6,
+    "c": 10,
+    "v": 37,
+    "t": "und nahmen sie ein. Wie in Eglon töteten sie den König und alle Einwohner mit dem Schwert, ohne einen einzigen entkommen zu lassen. Auch die Städte, die zu Hebron gehörten, wurden vernichtet.",
+    "h": "",
+    "o": 37,
+    "l": "37"
+  },
+  {
+    "id": "6010038",
+    "b": 6,
+    "c": 10,
+    "v": 38,
+    "t": "Darauf wandten sich die Israeliten nach Debir, griffen es an",
+    "h": "",
+    "o": 38,
+    "l": "38"
+  },
+  {
+    "id": "6010039",
+    "b": 6,
+    "c": 10,
+    "v": 39,
+    "t": "und bemächtigten sich der Stadt, ihres Königs und der umliegenden Orte. Alle Menschen dort wurden mit dem Schwert getötet. Wieder gab es kein Entrinnen. Debir traf das gleiche Schicksal wie Hebron und Libna.",
+    "h": "",
+    "o": 39,
+    "l": "39"
+  },
+  {
+    "id": "6010040",
+    "b": 6,
+    "c": 10,
+    "v": 40,
+    "t": "Josua besiegte alle Könige des südlichen Kanaan und eroberte ihr ganzes Land: die Berge im Landesinnern, die Wüste Negev im Süden, das Hügelland im Westen und die Gebirgsausläufer im Osten. Niemand, der dort lebte, entging dem Gericht Gottes; Josua ließ sämtliche Bewohner töten, so wie es der HERR, der Gott Israels, angeordnet hatte.",
+    "h": "",
+    "o": 40,
+    "l": "40"
+  },
+  {
+    "id": "6010041",
+    "b": 6,
+    "c": 10,
+    "v": 41,
+    "t": "Das eingenommene Gebiet erstreckte sich von Kadesch-Barnea bis Gaza und von Goschen bis Gibeon.",
+    "h": "",
+    "o": 41,
+    "l": "41"
+  },
+  {
+    "id": "6010042",
+    "b": 6,
+    "c": 10,
+    "v": 42,
+    "t": "Alle Königreiche dort eroberte Josua in einem einzigen Feldzug, denn der HERR kämpfte auf Israels Seite.",
+    "h": "",
+    "o": 42,
+    "l": "42"
+  },
+  {
+    "id": "6010043",
+    "b": 6,
+    "c": 10,
+    "v": 43,
+    "t": "Schließlich kehrte Josua mit dem ganzen Heer ins Lager bei Gilgal zurück.",
+    "h": "",
+    "o": 43,
+    "l": "43"
+  },
+  {
+    "id": "6011001",
+    "b": 6,
+    "c": 11,
+    "v": 1,
+    "t": "Als Jabin, der König von Hazor, hörte, was geschehen war, sandte er Boten zu allen Herrschern des nördlichen Kanaan, um sich mit ihnen gegen Israel zu verbünden: zu König Jobab von Madon, zu den Königen von Schimron und Achschaf,",
+    "h": "Israel besiegt die Königreiche des nördlichen Kanaan",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "6011002",
+    "b": 6,
+    "c": 11,
+    "v": 2,
+    "t": "zu den Königen im nördlichen Bergland, in den Niederungen südlich von Genezareth, im westlichen Hügelland und im Küstengebiet von Dor.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "6011003",
+    "b": 6,
+    "c": 11,
+    "v": 3,
+    "t": "Weitere Boten schickte er zu den Kanaanitern im Osten und Westen, den Amoritern, Hetitern und Perisitern, den Jebusitern im Bergland und den Hiwitern am Berg Hermon im Gebiet von Mizpa.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "6011004",
+    "b": 6,
+    "c": 11,
+    "v": 4,
+    "t": "Alle diese Könige brachen mit ihren Truppen auf; es war ein riesiges Heer mit einer ungeheuren Menge Soldaten, Pferden und Kriegswagen, unzählbar wie der Sand am Meer.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "6011005",
+    "b": 6,
+    "c": 11,
+    "v": 5,
+    "t": "Sie versammelten sich an der Quelle bei Merom und schlugen ihr Lager auf, um von dort gegen Israel in den Kampf zu ziehen.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "6011006",
+    "b": 6,
+    "c": 11,
+    "v": 6,
+    "t": "Der HERR aber sprach zu Josua: »Hab keine Angst vor ihnen! Ich selbst kämpfe für euch. Bis morgen um diese Zeit liefere ich sie an euch aus und lasse sie alle in der Schlacht umkommen. Dann sollt ihr den Pferden die Sehnen durchschneiden und die Kriegswagen verbrennen.«",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "6011007",
+    "b": 6,
+    "c": 11,
+    "v": 7,
+    "t": "Josua führte sein Heer unbemerkt zur Quelle Merom, dicht an das feindliche Lager heran, und überraschte die Kanaaniter mit einem Angriff.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "6011008",
+    "b": 6,
+    "c": 11,
+    "v": 8,
+    "t": "Der HERR verhalf den Israeliten zum Sieg: Sie schlugen ihre Feinde und verfolgten sie nach Norden bis zur großen Stadt Sidon, bis Misrefot-Majim und östlich bis in das Tal von Mizpa. Keiner der Fliehenden entkam.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "6011009",
+    "b": 6,
+    "c": 11,
+    "v": 9,
+    "t": "Den erbeuteten Pferden ließ Josua die Sehnen durchschneiden, und die Streitwagen ließ er verbrennen, wie es der HERR befohlen hatte.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "6011010",
+    "b": 6,
+    "c": 11,
+    "v": 10,
+    "t": "Nach der Schlacht führte Josua sein Heer nach Hazor, der Hauptstadt aller Königreiche, deren Truppen sie gerade besiegt hatten. Die Israeliten eroberten die Stadt und töteten ihren König.",
+    "h": "Israel nimmt das nördliche Kanaan ein",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "6011011",
+    "b": 6,
+    "c": 11,
+    "v": 11,
+    "t": "Dann brachten sie alle Einwohner mit dem Schwert um. Niemanden ließen sie am Leben, denn Gott hatte die Stadt und alles darin zur Vernichtung bestimmt. Zuletzt brannten die Israeliten Hazor nieder.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "6011012",
+    "b": 6,
+    "c": 11,
+    "v": 12,
+    "t": "Alle Städte der Könige, die sich gegen Israel verbündet hatten, nahm Josua ein und vollstreckte an ihnen Gottes Gericht: Er vernichtete sie, wie es Mose, der Diener des HERRN, angeordnet hatte.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "6011013",
+    "b": 6,
+    "c": 11,
+    "v": 13,
+    "t": "Niederbrennen ließ er jedoch nur Hazor. Die anderen Städte auf den Hügeln ließ er stehen.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "6011014",
+    "b": 6,
+    "c": 11,
+    "v": 14,
+    "t": "Alles Gut und Vieh, das dort zu finden war, behielten die Israeliten als Beute. Die Menschen aber töteten sie mit dem Schwert, bis alle vernichtet waren; keinen einzigen ließen sie am Leben.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "6011015",
+    "b": 6,
+    "c": 11,
+    "v": 15,
+    "t": "So hatte der HERR es Mose befohlen, und Mose hatte es an Josua weitergegeben, der sich genau daran hielt. Er befolgte alle Weisungen, die Mose vom HERRN bekommen hatte.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "6011016",
+    "b": 6,
+    "c": 11,
+    "v": 16,
+    "t": "Josua nahm ganz Kanaan ein: das Gebirge, die gesamte Wüste Negev, das ganze Gebiet von Goschen, das Hügelland zwischen dem Mittelmeer und dem Bergland, die Jordan-Ebene und die Berge Israels,",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "6011017",
+    "b": 6,
+    "c": 11,
+    "v": 17,
+    "t": "alles Land zwischen dem kahlen Gebirge bei Seïr im Süden und Baal-Gad in der Ebene vor dem Libanon am Fuß des Hermon. Sämtliche Könige, die dort regierten, besiegte und tötete er.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "6011018",
+    "b": 6,
+    "c": 11,
+    "v": 18,
+    "t": "Der Krieg mit ihnen dauerte jedoch lange Zeit.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "6011019",
+    "b": 6,
+    "c": 11,
+    "v": 19,
+    "t": "Denn keine Stadt ergab sich den Israeliten freiwillig, außer den Hiwitern von Gibeon. Alle anderen Städte mussten mit Gewalt erobert werden.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "6011020",
+    "b": 6,
+    "c": 11,
+    "v": 20,
+    "t": "Denn der HERR hatte es so gefügt, dass die Bewohner des Landes sich Israel unnachgiebig widersetzten. Er wollte sie dem Untergang weihen, es sollte keine Gnade für sie geben. Israel musste sie vernichten, wie der HERR es Mose befohlen hatte.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "6011021",
+    "b": 6,
+    "c": 11,
+    "v": 21,
+    "t": "Josua brach mit seinen Truppen auf und rottete auch die Anakiter in Hebron, Debir, Anab und allen anderen Städten aus, die sie im Bergland von Juda und Israel bewohnten. Niemand und nichts blieb dort verschont.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "6011022",
+    "b": 6,
+    "c": 11,
+    "v": 22,
+    "t": "Im gesamten eroberten Gebiet wurden die Anakiter vernichtet. Nur in Gaza, Gat und Aschdod blieben sie am Leben.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "6011023",
+    "b": 6,
+    "c": 11,
+    "v": 23,
+    "t": "Als das ganze Land in der Hand der Israeliten war, wie der HERR es Mose versprochen hatte, teilte Josua die Gebiete den Stämmen und Sippen zu. So hatte das Land nun endlich Ruhe vom Krieg.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "6012001",
+    "b": 6,
+    "c": 12,
+    "v": 1,
+    "t": "Östlich des Jordan hatten die Israeliten das ganze Gebiet erobert, das zwischen dem Fluss Arnon im Süden und dem Hermongebirge im Norden liegt, einschließlich des gesamten Ostjordantals. Zwei Könige hatten sie dort besiegt:",
+    "h": "Zusammenfassung der Eroberungen unter Mose",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "6012002",
+    "b": 6,
+    "c": 12,
+    "v": 2,
+    "t": "Einer von ihnen war Sihon, der König der Amoriter, der in Heschbon regierte. Sein Reich erstreckte sich von der Mitte des Arnontals, an dessen Rand die Stadt Aroër liegt, über das halbe Land Gilead bis an den Fluss Jabbok, der die Grenze zu den Ammonitern bildete.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "6012003",
+    "b": 6,
+    "c": 12,
+    "v": 3,
+    "t": "Es umfasste das östliche Jordantal vom See Genezareth bis hinab nach Bet-Jeschimot am Toten Meer. Von dort zog es sich noch weiter südlich bis zu den Abhängen des Berges Pisga.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "6012004",
+    "b": 6,
+    "c": 12,
+    "v": 4,
+    "t": "Der andere Herrscher, dessen Gebiet die Israeliten erobert hatten, war Og, der König von Baschan. Er gehörte zu den Refaïtern, den letzten Riesen, die es noch im Land gab, und regierte in Aschtarot und Edreï.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "6012005",
+    "b": 6,
+    "c": 12,
+    "v": 5,
+    "t": "Sein Reich umschloss das Hermongebirge im Norden, die Stadt Salcha im Osten und das ganze Gebiet von Baschan bis an die Grenzen der Geschuriter und Maachatiter. Ihm gehörte auch die nördliche Hälfte Gileads bis an die Grenzen von König Sihons Herrschaftsgebiet.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "6012006",
+    "b": 6,
+    "c": 12,
+    "v": 6,
+    "t": "Unter Moses Führung hatte Israel beide Könige besiegt. Das eroberte Land gab Mose, der Diener des HERRN, den Stämmen Ruben, Gad und dem halben Stamm Manasse.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "6012007",
+    "b": 6,
+    "c": 12,
+    "v": 7,
+    "t": "Unter Josuas Führung besiegten die Israeliten die Könige westlich des Jordan zwischen Baal-Gad im Libanontal und dem kahlen Gebirge im Süden, das sich in Richtung Seïr erhebt. Dieses Gebiet teilte Josua später unter die übrigen Stämme und ihre Sippen auf:",
+    "h": "Zusammenfassung der Eroberungen unter Josua",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "6012008",
+    "b": 6,
+    "c": 12,
+    "v": 8,
+    "t": "das Hügelland zwischen dem Mittelmeer und dem Bergland, das Bergland selbst und seine östlichen Ausläufer, das Jordantal, die Steppe und die Wüste Negev im Süden, das gesamte Gebiet der Hetiter, Amoriter, Kanaaniter, Perisiter, Hiwiter und Jebusiter.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "6012009",
+    "b": 6,
+    "c": 12,
+    "v": 9,
+    "t": "Deren Könige hatten in folgenden Städten regiert: Jericho und Ai, das bei Bethel liegt,",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "6012010",
+    "b": 6,
+    "c": 12,
+    "v": 10,
+    "t": "Jerusalem, Hebron,",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "6012011",
+    "b": 6,
+    "c": 12,
+    "v": 11,
+    "t": "Jarmut, Lachisch,",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "6012012",
+    "b": 6,
+    "c": 12,
+    "v": 12,
+    "t": "Eglon, Geser,",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "6012013",
+    "b": 6,
+    "c": 12,
+    "v": 13,
+    "t": "Debir, Geder,",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "6012014",
+    "b": 6,
+    "c": 12,
+    "v": 14,
+    "t": "Horma, Arad,",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "6012015",
+    "b": 6,
+    "c": 12,
+    "v": 15,
+    "t": "Libna, Adullam,",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "6012016",
+    "b": 6,
+    "c": 12,
+    "v": 16,
+    "t": "Makkeda, Bethel,",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "6012017",
+    "b": 6,
+    "c": 12,
+    "v": 17,
+    "t": "Tappuach, Hefer,",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "6012018",
+    "b": 6,
+    "c": 12,
+    "v": 18,
+    "t": "Afek, Scharon,",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "6012019",
+    "b": 6,
+    "c": 12,
+    "v": 19,
+    "t": "Madon, Hazor,",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "6012020",
+    "b": 6,
+    "c": 12,
+    "v": 20,
+    "t": "Schimron-Meron, Achschaf,",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "6012021",
+    "b": 6,
+    "c": 12,
+    "v": 21,
+    "t": "Taanach, Megiddo,",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "6012022",
+    "b": 6,
+    "c": 12,
+    "v": 22,
+    "t": "Kedesch, Jokneam am Karmel,",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "6012023",
+    "b": 6,
+    "c": 12,
+    "v": 23,
+    "t": "Dor an der Küste, Gojim in Galiläa",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "6012024",
+    "b": 6,
+    "c": 12,
+    "v": 24,
+    "t": "und Tirza. Insgesamt waren es 31 Könige.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "6013001",
+    "b": 6,
+    "c": 13,
+    "v": 1,
+    "t": "Josua war inzwischen alt geworden. Da sprach der HERR zu ihm: »Du bist nun schon sehr alt, aber es ist noch viel Land zu erobern.",
+    "h": "Die Verteilung des Landes an die zwölf Stämme Israels\n(Kapitel 13–22)\nGott ordnet die Verteilung des Landes an",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "6013002",
+    "b": 6,
+    "c": 13,
+    "v": 2,
+    "t": "Dazu gehören sämtliche Bezirke der Philister mit ihren fünf Königsstädten Gaza, Aschdod, Aschkelon, Gat und Ekron sowie die Gegend von Geschur. Dieser Landstrich beginnt beim Wadi Schihor östlich von Ägypten und zieht sich von dort in nördlicher Richtung bis nach Ekron. Er gehört zum Gebiet der Kanaaniter. Auch die Gegend der Awiter im Süden ist noch nicht eingenommen,",
+    "h": "",
+    "o": 2,
+    "l": "2-3"
+  },
+  {
+    "id": "6013003",
+    "b": 6,
+    "c": 13,
+    "v": 4,
+    "t": "ebenso der hohe Norden Kanaans von der Sidonierstadt Meara bis zur Stadt Afek und zum Gebiet der Amoriter.",
+    "h": "",
+    "o": 3,
+    "l": "4"
+  },
+  {
+    "id": "6013004",
+    "b": 6,
+    "c": 13,
+    "v": 5,
+    "t": "Zudem soll euch das Land der Gebaliter gehören und im Osten der ganze Libanon von Baal-Gad am Fuß des Berges Hermon bis hinab zur Straße nach Hamat,",
+    "h": "",
+    "o": 4,
+    "l": "5"
+  },
+  {
+    "id": "6013005",
+    "b": 6,
+    "c": 13,
+    "v": 6,
+    "t": "auch die Region des Libanon bis hinab nach Misrefot-Majim. Alle Sidonier dort werde ich selbst vertreiben, um euch ihr Gebiet zu geben. Verlose das ganze Land schon jetzt unter den Israeliten, wie ich es dir befohlen habe;",
+    "h": "",
+    "o": 5,
+    "l": "6"
+  },
+  {
+    "id": "6013006",
+    "b": 6,
+    "c": 13,
+    "v": 7,
+    "t": "gib es den neun Stämmen und dem halben Stamm Manasse zum Besitz!«",
+    "h": "",
+    "o": 6,
+    "l": "7"
+  },
+  {
+    "id": "6013007",
+    "b": 6,
+    "c": 13,
+    "v": 8,
+    "t": "Der anderen Hälfte des Stammes Manasse und den Stämmen Ruben und Gad hatte Mose, der Diener des HERRN, bereits das Land östlich des Jordan zugewiesen. Er überließ ihnen",
+    "h": "Rückblick auf die Verteilung des Ostjordanlandes",
+    "o": 7,
+    "l": "8"
+  },
+  {
+    "id": "6013008",
+    "b": 6,
+    "c": 13,
+    "v": 9,
+    "t": "alle Städte des amoritischen Königs Sihon von Heschbon, von Aroër am Rand des Arnontals im Süden und der Stadt am Fluss Arnon bis zur ammonitischen Grenze im Norden, einschließlich der Hochebene zwischen Dibon und Medeba.",
+    "h": "",
+    "o": 8,
+    "l": "9-10"
+  },
+  {
+    "id": "6013009",
+    "b": 6,
+    "c": 13,
+    "v": 11,
+    "t": "Diesen Stämmen gehörte auch das Land Gilead und das Gebiet der Geschuriter und Maachatiter, das ganze Hermongebirge und das gesamte Land Baschan bis zur Stadt Salcha.",
+    "h": "",
+    "o": 9,
+    "l": "11"
+  },
+  {
+    "id": "6013010",
+    "b": 6,
+    "c": 13,
+    "v": 12,
+    "t": "Dieses Gebiet hatte vorher König Og von Baschan gehört, der in Aschtarot und Edreï regierte und einer der Refaïter, der letzten Riesen, war. Die Israeliten hatten diese Gegenden unter Moses Führung erobert und sämtliche Bewohner vertrieben,",
+    "h": "",
+    "o": 10,
+    "l": "12"
+  },
+  {
+    "id": "6013011",
+    "b": 6,
+    "c": 13,
+    "v": 13,
+    "t": "außer den Geschuritern und Maachatitern. Sie leben bis heute unter den Israeliten.",
+    "h": "",
+    "o": 11,
+    "l": "13"
+  },
+  {
+    "id": "6013012",
+    "b": 6,
+    "c": 13,
+    "v": 14,
+    "t": "Der Stamm Levi erhielt als einziger keinen Grundbesitz. Er sollte von den Opfergaben leben, die das Volk Israel seinem Gott darbringt. So hatte der HERR es Mose befohlen.",
+    "h": "",
+    "o": 12,
+    "l": "14"
+  },
+  {
+    "id": "6013013",
+    "b": 6,
+    "c": 13,
+    "v": 15,
+    "t": "Dem Stamm Ruben mit seinen Sippen hatte Mose folgendes Gebiet gegeben:",
+    "h": "Das Gebiet des Stammes Ruben",
+    "o": 13,
+    "l": "15"
+  },
+  {
+    "id": "6013014",
+    "b": 6,
+    "c": 13,
+    "v": 16,
+    "t": "von Aroër am Rand des Arnontals und der Stadt am Fluss Arnon über die ganze Hochebene bis Medeba",
+    "h": "",
+    "o": 14,
+    "l": "16"
+  },
+  {
+    "id": "6013015",
+    "b": 6,
+    "c": 13,
+    "v": 17,
+    "t": "und Heschbon. Dazu gehörten die Städte des Hochlandes: Dibon, Bamot-Baal, Bet-Baal-Meon,",
+    "h": "",
+    "o": 15,
+    "l": "17"
+  },
+  {
+    "id": "6013016",
+    "b": 6,
+    "c": 13,
+    "v": 18,
+    "t": "Jahaz, Kedemot, Mefaat,",
+    "h": "",
+    "o": 16,
+    "l": "18"
+  },
+  {
+    "id": "6013017",
+    "b": 6,
+    "c": 13,
+    "v": 19,
+    "t": "Kirjatajim, Sibma, Zeret-Schahar im Hügelland östlich des Toten Meeres,",
+    "h": "",
+    "o": 17,
+    "l": "19"
+  },
+  {
+    "id": "6013018",
+    "b": 6,
+    "c": 13,
+    "v": 20,
+    "t": "Bet-Peor, die Siedlungen an den Abhängen des Berges Pisga und Bet-Jeschimot.",
+    "h": "",
+    "o": 18,
+    "l": "20"
+  },
+  {
+    "id": "6013019",
+    "b": 6,
+    "c": 13,
+    "v": 21,
+    "t": "Alle Ortschaften der Hochebene wurden den Rubenitern zugeteilt, das ganze frühere Reich des Amoriterkönigs Sihon, das er von Heschbon aus regiert hatte. Er war von den Israeliten auf Moses Befehl hin getötet worden. Mit Sihon hatten sie auch die midianitischen Fürsten Ewi, Rekem, Zur, Hur und Reba hingerichtet, die er in seinem Gebiet als Herrscher eingesetzt hatte.",
+    "h": "",
+    "o": 19,
+    "l": "21"
+  },
+  {
+    "id": "6013020",
+    "b": 6,
+    "c": 13,
+    "v": 22,
+    "t": "Unter denen, die damals mit dem Schwert getötet wurden, war auch der Wahrsager Bileam, der Sohn von Beor.",
+    "h": "",
+    "o": 20,
+    "l": "22"
+  },
+  {
+    "id": "6013021",
+    "b": 6,
+    "c": 13,
+    "v": 23,
+    "t": "Der untere Jordan und seine Uferlandschaft bildeten die nordwestliche Grenze des Gebietes, dessen Städte und Dörfer der Stamm Ruben mit seinen Sippen in Besitz nahm.",
+    "h": "",
+    "o": 21,
+    "l": "23"
+  },
+  {
+    "id": "6013022",
+    "b": 6,
+    "c": 13,
+    "v": 24,
+    "t": "Dem Stamm Gad und seinen Sippen hatte Mose folgendes Gebiet gegeben:",
+    "h": "Das Gebiet des Stammes Gad",
+    "o": 22,
+    "l": "24"
+  },
+  {
+    "id": "6013023",
+    "b": 6,
+    "c": 13,
+    "v": 25,
+    "t": "Jaser und alle Städte Gileads, das halbe Land der Ammoniter bis zur Stadt Aroër bei Rabba,",
+    "h": "",
+    "o": 23,
+    "l": "25"
+  },
+  {
+    "id": "6013024",
+    "b": 6,
+    "c": 13,
+    "v": 26,
+    "t": "den nördlichen Rest des Reiches Sihons von Heschbon, also die Gegenden zwischen Heschbon, Ramat-Mizpe und Betonim sowie zwischen Mahanajim und dem Gebiet von Debir, außerdem das östliche Jordantal mit Bet-Haram, Bet-Nimra, Sukkot und Zafon, bis hinauf zum Südufer des Sees Genezareth.",
+    "h": "",
+    "o": 24,
+    "l": "26-27"
+  },
+  {
+    "id": "6013025",
+    "b": 6,
+    "c": 13,
+    "v": 28,
+    "t": "Dieses Land mit seinen Städten und Dörfern erhielt der Stamm Gad für seine Sippen.",
+    "h": "",
+    "o": 25,
+    "l": "28"
+  },
+  {
+    "id": "6013026",
+    "b": 6,
+    "c": 13,
+    "v": 29,
+    "t": "Das Gebiet, das Mose dem halben Stamm Manasse und seinen Sippen zugeteilt hatte,",
+    "h": "Das Gebiet des halben Stammes Manasse",
+    "o": 26,
+    "l": "29"
+  },
+  {
+    "id": "6013027",
+    "b": 6,
+    "c": 13,
+    "v": 30,
+    "t": "erstreckte sich von Mahanajim nach Norden über das gesamte Reich König Ogs. Es umschloss das Land Baschan und die sechzig Ortschaften, die Jaïr dort erobert hatte.",
+    "h": "",
+    "o": 27,
+    "l": "30"
+  },
+  {
+    "id": "6013028",
+    "b": 6,
+    "c": 13,
+    "v": 31,
+    "t": "Das halbe Gebiet von Gilead mit den beiden Städten Aschtarot und Edreï, in denen Og regiert hatte, wurde der Hälfte der Nachkommen Machirs zugesprochen, einem Sohn von Manasse.",
+    "h": "",
+    "o": 28,
+    "l": "31"
+  },
+  {
+    "id": "6013029",
+    "b": 6,
+    "c": 13,
+    "v": 32,
+    "t": "Die Verteilung des Landes hatte Mose in den Ebenen von Moab vorgenommen, östlich des Jordan, gegenüber von Jericho.",
+    "h": "",
+    "o": 29,
+    "l": "32"
+  },
+  {
+    "id": "6013030",
+    "b": 6,
+    "c": 13,
+    "v": 33,
+    "t": "Den Leviten hatte Mose jedoch kein eigenes Stammesgebiet gegeben. Der HERR, der Gott Israels, war ihr Anteil und Erbe und sorgte für sie, wie er es ihnen versprochen hatte.",
+    "h": "",
+    "o": 30,
+    "l": "33"
+  },
+  {
+    "id": "6014001",
+    "b": 6,
+    "c": 14,
+    "v": 1,
+    "t": "Das Land Kanaan westlich des Jordan wurde unter die übrigen neuneinhalb Stämme aufgeteilt. Der Priester Eleasar, Josua und die Stammesoberhäupter losten aus, welcher Stamm welches Gebiet erhalten sollte. So hatte es der HERR durch Mose befohlen.",
+    "h": "Die Verteilung des Landes Kanaan",
+    "o": 1,
+    "l": "1-2"
+  },
+  {
+    "id": "6014002",
+    "b": 6,
+    "c": 14,
+    "v": 3,
+    "t": "Zweieinhalb Stämme hatten bereits östlich des Jordan Grundbesitz erhalten. Nur den Leviten wurde kein Land zugeteilt.",
+    "h": "",
+    "o": 2,
+    "l": "3"
+  },
+  {
+    "id": "6014003",
+    "b": 6,
+    "c": 14,
+    "v": 4,
+    "t": "Sie bekamen jedoch eigene Städte, in denen sie wohnen konnten. Auch gab man ihnen Weideplätze für ihr Vieh. Die Nachkommen von Josef hatten zwei Stämme gebildet: Ephraim und Manasse.",
+    "h": "",
+    "o": 3,
+    "l": "4"
+  },
+  {
+    "id": "6014004",
+    "b": 6,
+    "c": 14,
+    "v": 5,
+    "t": "Bei der Verteilung Kanaans hielten sich die Israeliten an die Weisungen, die Mose vom HERRN bekommen hatte.",
+    "h": "",
+    "o": 4,
+    "l": "5"
+  },
+  {
+    "id": "6014005",
+    "b": 6,
+    "c": 14,
+    "v": 6,
+    "t": "In Gilgal kamen die Männer des Stammes Juda zu Josua. Unter ihnen war auch Kaleb, der Sohn von Jefunne, aus der Sippe Kenas. Er sagte zu Josua: »Du weißt, was der HERR bei Kadesch-Barnea zu Mose, dem Mann Gottes, über mich und dich gesagt hat.",
+    "h": "Kaleb bittet um Hebron",
+    "o": 5,
+    "l": "6"
+  },
+  {
+    "id": "6014006",
+    "b": 6,
+    "c": 14,
+    "v": 7,
+    "t": "Ich war damals 40 Jahre alt. Mose, der Diener des HERRN, hatte mich von Kadesch-Barnea als Kundschafter in dieses Land hier gesandt. Als ich ihm dann Bericht erstatten musste, war ich zuversichtlich, dass wir das Land einnehmen könnten.",
+    "h": "",
+    "o": 6,
+    "l": "7"
+  },
+  {
+    "id": "6014007",
+    "b": 6,
+    "c": 14,
+    "v": 8,
+    "t": "Aber die Männer, die mit mir zusammen dieses Gebiet erkundet hatten, jagten dem Volk Angst ein. Ich dagegen vertraute ganz dem HERRN, meinem Gott.",
+    "h": "",
+    "o": 7,
+    "l": "8"
+  },
+  {
+    "id": "6014008",
+    "b": 6,
+    "c": 14,
+    "v": 9,
+    "t": "Mose hat mir damals geschworen: ›Das Land, in das du vorgedrungen bist, wird dir und deinen Nachkommen für immer gehören, weil du dich fest auf den HERRN, meinen Gott, verlassen hast.‹",
+    "h": "",
+    "o": 8,
+    "l": "9"
+  },
+  {
+    "id": "6014009",
+    "b": 6,
+    "c": 14,
+    "v": 10,
+    "t": "Nun hat mich der HERR tatsächlich am Leben erhalten, wie er es versprochen hat. 45 Jahre sind vergangen, seit der HERR dies zu Mose gesagt hat. In dieser langen Zeit sind wir Israeliten in der Wüste umhergezogen. Heute bin ich 85 Jahre alt",
+    "h": "",
+    "o": 9,
+    "l": "10"
+  },
+  {
+    "id": "6014010",
+    "b": 6,
+    "c": 14,
+    "v": 11,
+    "t": "und noch genauso stark wie damals als Kundschafter. Ich habe die gleiche Kraft und kann immer noch kämpfen und Kriegszüge unternehmen.",
+    "h": "",
+    "o": 10,
+    "l": "11"
+  },
+  {
+    "id": "6014011",
+    "b": 6,
+    "c": 14,
+    "v": 12,
+    "t": "Teile mir das Bergland zu, das der HERR mir damals versprochen hat! Du weißt, dass dort Anakiter in großen Städten leben, die sie zu Festungen ausgebaut haben. Vielleicht wird der HERR mir helfen, sie zu vertreiben, wie er es zugesagt hat.«",
+    "h": "",
+    "o": 11,
+    "l": "12"
+  },
+  {
+    "id": "6014012",
+    "b": 6,
+    "c": 14,
+    "v": 13,
+    "t": "Da segnete Josua Kaleb, den Sohn von Jefunne, und erklärte Hebron zu seinem Besitz.",
+    "h": "",
+    "o": 12,
+    "l": "13"
+  },
+  {
+    "id": "6014013",
+    "b": 6,
+    "c": 14,
+    "v": 14,
+    "t": "Früher nannte man Hebron Kirjat-Arba (»Stadt des Arba«). Arba war der größte Mann im Volk der Anakiter gewesen. Heute gehört die Stadt Kaleb und seinen Nachkommen, weil er dem HERRN, dem Gott Israels, völlig vertraut und gehorcht hatte. Dann hatte das Land endlich Ruhe vom Krieg.",
+    "h": "",
+    "o": 13,
+    "l": "14-15"
+  },
+  {
+    "id": "6015001",
+    "b": 6,
+    "c": 15,
+    "v": 1,
+    "t": "Als das Land durch das Los verteilt wurde, erhielten die Sippen des Stammes Juda das südliche Kanaan. Ihr Gebiet reichte bis an das Land Edom und an die Wüste Zin im äußersten Süden.",
+    "h": "Die Grenzen des Gebietes von Juda",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "6015002",
+    "b": 6,
+    "c": 15,
+    "v": 2,
+    "t": "Die Südgrenze Judas verlief vom unteren Ende des Toten Meeres",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "6015003",
+    "b": 6,
+    "c": 15,
+    "v": 3,
+    "t": "in südlicher Richtung bis zum Skorpionensteig. Von dort führte sie hinüber nach Zin, südlich um Kadesch-Barnea herum und durch Hezron hinauf nach Addar, wo sie einen Bogen nach Karka machte.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "6015004",
+    "b": 6,
+    "c": 15,
+    "v": 4,
+    "t": "Sie ging weiter durch Azmon bis an den Bach an der Grenze zu Ägypten, dem sie bis zur Mündung ins Mittelmeer folgte. Dies war die südliche Landesgrenze.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "6015005",
+    "b": 6,
+    "c": 15,
+    "v": 5,
+    "t": "Im Osten verlief die Grenze Judas am Toten Meer entlang bis zur Jordanmündung. Die Nordgrenze führte von der Jordanmündung",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "6015006",
+    "b": 6,
+    "c": 15,
+    "v": 6,
+    "t": "hinauf nach Bet-Hogla, dann nördlich von Bet-Araba weiter bergauf zum Stein von Bohan, dem Rubeniter,",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "6015007",
+    "b": 6,
+    "c": 15,
+    "v": 7,
+    "t": "abwärts in das Achor-Tal und wieder aufwärts nach Debir. Hier wandte sie sich in nördlicher Richtung nach Gilgal, gegenüber dem Pass von Adummim, der südlich des Baches verläuft. Dann erreichte die Grenze die Quellen Schemesch und Rogel.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "6015008",
+    "b": 6,
+    "c": 15,
+    "v": 8,
+    "t": "Sie führte durch das Hinnomtal, südlich um den Abhang, auf dem die Jebusiterstadt – also Jerusalem – liegt, zur Spitze des Berges, der sich westlich des Hinnomtals am Nordrand der Refaïm-Ebene erhebt.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "6015009",
+    "b": 6,
+    "c": 15,
+    "v": 9,
+    "t": "Dort machte die Grenze einen Bogen in Richtung der Quelle Neftoach, führte dann zu den Städten des Berglandes Efron und weiter nach Baala, dem heutigen Kirjat-Jearim.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "6015010",
+    "b": 6,
+    "c": 15,
+    "v": 10,
+    "t": "Von Baala wandte sie sich westlich zum Gebirge Seïr, zog dann am Nordhang des Berges Jearim – auch Kesalon genannt – hinab nach Bet-Schemesch und hinüber nach Timna.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "6015011",
+    "b": 6,
+    "c": 15,
+    "v": 11,
+    "t": "Sie verlief an der nördlichen Seite von Ekron in einem Bogen nach Schikkaron, hinüber zum Berg Baala, und endete bei Jabneel an der Küste des Mittelmeeres.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "6015012",
+    "b": 6,
+    "c": 15,
+    "v": 12,
+    "t": "Das Meer bildete die Westgrenze des Landes Juda. Dies war das Gebiet, das der Stamm Juda für seine Sippen erhielt.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "6015013",
+    "b": 6,
+    "c": 15,
+    "v": 13,
+    "t": "Kaleb, dem Sohn von Jefunne, überließ Josua einen Teil des Stammesgebiets von Juda. Der HERR hatte Josua befohlen, Kaleb die Stadt Hebron zu geben. Sie hieß damals noch Kirjat-Arba (»Stadt des Arba«), nach dem Stammvater der Anakiter.",
+    "h": "Die Eroberung von Hebron und Debir",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "6015014",
+    "b": 6,
+    "c": 15,
+    "v": 14,
+    "t": "Dort lebten die Sippen Scheschai, Ahiman und Talmai vom Volk der Anakiter. Kaleb vertrieb sie aus der Stadt.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "6015015",
+    "b": 6,
+    "c": 15,
+    "v": 15,
+    "t": "Dann zog er zur Stadt Debir, die man damals noch Kirjat-Sefer nannte.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "6015016",
+    "b": 6,
+    "c": 15,
+    "v": 16,
+    "t": "»Wer Kirjat-Sefer erobert«, versprach er seinen Männern, »der erhält meine Tochter Achsa zur Frau!«",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "6015017",
+    "b": 6,
+    "c": 15,
+    "v": 17,
+    "t": "Kalebs Bruder Otniël, dem Sohn von Kenas, gelang es, die Stadt einzunehmen. Dafür sollte er Achsa zur Frau bekommen.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "6015018",
+    "b": 6,
+    "c": 15,
+    "v": 18,
+    "t": "Achsa drängte Otniël, Kaleb um einen Acker zu bitten. Als sie am Tag der Hochzeit mit ihrem Vater auf dem Weg zu Otniël war, sprang sie plötzlich vom Esel ab. »Was ist los?«, fragte Kaleb.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "6015019",
+    "b": 6,
+    "c": 15,
+    "v": 19,
+    "t": "»Gib mir zum Abschied deinen Segen und ein Geschenk!«, bat sie. »Du lässt mich in das trockene Südland ziehen, darum gib mir doch bitte auch ein paar Wasserstellen!« Da schenkte er ihr von seinem Besitz die oberen und unteren Quellen.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "6015020",
+    "b": 6,
+    "c": 15,
+    "v": 20,
+    "t": "Zum Land, das dem Stamm Juda und seinen Sippen zugeteilt wurde,",
+    "h": "Die Städte des Stammes Juda",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "6015021",
+    "b": 6,
+    "c": 15,
+    "v": 21,
+    "t": "gehörten die folgenden Städte: Im Süden in Richtung der Grenze von Edom: Kabzeel, Eder, Jagur,",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "6015022",
+    "b": 6,
+    "c": 15,
+    "v": 22,
+    "t": "Kina, Dimona, Adada,",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "6015023",
+    "b": 6,
+    "c": 15,
+    "v": 23,
+    "t": "Kedesch, Hazor, Jitnan,",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "6015024",
+    "b": 6,
+    "c": 15,
+    "v": 24,
+    "t": "Sif, Telem, Bealot,",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "6015025",
+    "b": 6,
+    "c": 15,
+    "v": 25,
+    "t": "Hazor-Hadatta, Kerijot-Hezron – das heutige Hazor –,",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "6015026",
+    "b": 6,
+    "c": 15,
+    "v": 26,
+    "t": "Amam, Schema, Molada,",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "6015027",
+    "b": 6,
+    "c": 15,
+    "v": 27,
+    "t": "Hazar-Gadda, Heschmon, Bet-Pelet,",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "6015028",
+    "b": 6,
+    "c": 15,
+    "v": 28,
+    "t": "Hazar-Schual, Beerscheba und Bisjotja,",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "6015029",
+    "b": 6,
+    "c": 15,
+    "v": 29,
+    "t": "Baala, Ijim, Ezem,",
+    "h": "",
+    "o": 29,
+    "l": "29"
+  },
+  {
+    "id": "6015030",
+    "b": 6,
+    "c": 15,
+    "v": 30,
+    "t": "Eltolad, Kesil, Horma,",
+    "h": "",
+    "o": 30,
+    "l": "30"
+  },
+  {
+    "id": "6015031",
+    "b": 6,
+    "c": 15,
+    "v": 31,
+    "t": "Ziklag, Madmanna, Sansanna,",
+    "h": "",
+    "o": 31,
+    "l": "31"
+  },
+  {
+    "id": "6015032",
+    "b": 6,
+    "c": 15,
+    "v": 32,
+    "t": "Bet-Lebaot, Schilhim, Ajin und Rimmon. Es waren insgesamt 29 Städte mit den dazugehörigen Dörfern.",
+    "h": "",
+    "o": 32,
+    "l": "32"
+  },
+  {
+    "id": "6015033",
+    "b": 6,
+    "c": 15,
+    "v": 33,
+    "t": "In der Gegend zwischen dem Mittelmeer und dem Bergland: Eschtaol, Zora, Aschna,",
+    "h": "",
+    "o": 33,
+    "l": "33"
+  },
+  {
+    "id": "6015034",
+    "b": 6,
+    "c": 15,
+    "v": 34,
+    "t": "Sanoach, En-Gannim, Tappuach, Enam,",
+    "h": "",
+    "o": 34,
+    "l": "34"
+  },
+  {
+    "id": "6015035",
+    "b": 6,
+    "c": 15,
+    "v": 35,
+    "t": "Jarmut, Adullam, Socho, Aseka,",
+    "h": "",
+    "o": 35,
+    "l": "35"
+  },
+  {
+    "id": "6015036",
+    "b": 6,
+    "c": 15,
+    "v": 36,
+    "t": "Schaarajim, Aditajim, Gedera und Gederotajim. Es waren 14 Städte mit ihren Dörfern.",
+    "h": "",
+    "o": 36,
+    "l": "36"
+  },
+  {
+    "id": "6015037",
+    "b": 6,
+    "c": 15,
+    "v": 37,
+    "t": "Zum Besitz des Stammes Juda gehörten auch Zenan, Hadascha, Migdal-Gad,",
+    "h": "",
+    "o": 37,
+    "l": "37"
+  },
+  {
+    "id": "6015038",
+    "b": 6,
+    "c": 15,
+    "v": 38,
+    "t": "Dilan, Mizpe, Jokteel,",
+    "h": "",
+    "o": 38,
+    "l": "38"
+  },
+  {
+    "id": "6015039",
+    "b": 6,
+    "c": 15,
+    "v": 39,
+    "t": "Lachisch, Bozkat, Eglon,",
+    "h": "",
+    "o": 39,
+    "l": "39"
+  },
+  {
+    "id": "6015040",
+    "b": 6,
+    "c": 15,
+    "v": 40,
+    "t": "Kabbon, Lachmas, Kitlisch,",
+    "h": "",
+    "o": 40,
+    "l": "40"
+  },
+  {
+    "id": "6015041",
+    "b": 6,
+    "c": 15,
+    "v": 41,
+    "t": "Gederot, Bet-Dagon, Naama und Makkeda. Es waren 16 Städte mit den umliegenden Dörfern.",
+    "h": "",
+    "o": 41,
+    "l": "41"
+  },
+  {
+    "id": "6015042",
+    "b": 6,
+    "c": 15,
+    "v": 42,
+    "t": "Außerdem Libna, Eter, Aschan,",
+    "h": "",
+    "o": 42,
+    "l": "42"
+  },
+  {
+    "id": "6015043",
+    "b": 6,
+    "c": 15,
+    "v": 43,
+    "t": "Jiftach, Aschna, Nezib,",
+    "h": "",
+    "o": 43,
+    "l": "43"
+  },
+  {
+    "id": "6015044",
+    "b": 6,
+    "c": 15,
+    "v": 44,
+    "t": "Keïla, Achsib und Marescha – neun Städte mit ihren Dörfern.",
+    "h": "",
+    "o": 44,
+    "l": "44"
+  },
+  {
+    "id": "6015045",
+    "b": 6,
+    "c": 15,
+    "v": 45,
+    "t": "Dazu kamen Ekron mit ihren Tochterstädten und Dörfern",
+    "h": "",
+    "o": 45,
+    "l": "45"
+  },
+  {
+    "id": "6015046",
+    "b": 6,
+    "c": 15,
+    "v": 46,
+    "t": "und von dort an alle Städte und Dörfer westwärts in Richtung Aschdod:",
+    "h": "",
+    "o": 46,
+    "l": "46"
+  },
+  {
+    "id": "6015047",
+    "b": 6,
+    "c": 15,
+    "v": 47,
+    "t": "Aschdod selbst und Gaza mit ihren Tochterstädten und Dörfern, bis hinab an den Bach an der Grenze zu Ägypten und an die Mittelmeerküste.",
+    "h": "",
+    "o": 47,
+    "l": "47"
+  },
+  {
+    "id": "6015048",
+    "b": 6,
+    "c": 15,
+    "v": 48,
+    "t": "Im Bergland: Schamir, Jattir, Socho,",
+    "h": "",
+    "o": 48,
+    "l": "48"
+  },
+  {
+    "id": "6015049",
+    "b": 6,
+    "c": 15,
+    "v": 49,
+    "t": "Danna, Kirjat-Sanna – das heutige Debir –,",
+    "h": "",
+    "o": 49,
+    "l": "49"
+  },
+  {
+    "id": "6015050",
+    "b": 6,
+    "c": 15,
+    "v": 50,
+    "t": "Anab, Eschtemo, Anim,",
+    "h": "",
+    "o": 50,
+    "l": "50"
+  },
+  {
+    "id": "6015051",
+    "b": 6,
+    "c": 15,
+    "v": 51,
+    "t": "Goschen, Holon und Gilo; insgesamt elf Städte mit ihren Dörfern.",
+    "h": "",
+    "o": 51,
+    "l": "51"
+  },
+  {
+    "id": "6015052",
+    "b": 6,
+    "c": 15,
+    "v": 52,
+    "t": "Dazu noch Arab, Duma, Eschan,",
+    "h": "",
+    "o": 52,
+    "l": "52"
+  },
+  {
+    "id": "6015053",
+    "b": 6,
+    "c": 15,
+    "v": 53,
+    "t": "Janum, Bet-Tappuach, Afeka,",
+    "h": "",
+    "o": 53,
+    "l": "53"
+  },
+  {
+    "id": "6015054",
+    "b": 6,
+    "c": 15,
+    "v": 54,
+    "t": "Humta, Kirjat-Arba – das jetzige Hebron – und Zior: neun Städte mit den dazugehörigen Dörfern.",
+    "h": "",
+    "o": 54,
+    "l": "54"
+  },
+  {
+    "id": "6015055",
+    "b": 6,
+    "c": 15,
+    "v": 55,
+    "t": "Dann Maon, Karmel, Sif, Jutta,",
+    "h": "",
+    "o": 55,
+    "l": "55"
+  },
+  {
+    "id": "6015056",
+    "b": 6,
+    "c": 15,
+    "v": 56,
+    "t": "Jesreel, Jokdeam, Sanoach,",
+    "h": "",
+    "o": 56,
+    "l": "56"
+  },
+  {
+    "id": "6015057",
+    "b": 6,
+    "c": 15,
+    "v": 57,
+    "t": "Kajin, Gibea und Timna. Es waren zehn Städte mit ihren Dörfern.",
+    "h": "",
+    "o": 57,
+    "l": "57"
+  },
+  {
+    "id": "6015058",
+    "b": 6,
+    "c": 15,
+    "v": 58,
+    "t": "Dann Halhul, Bet-Zur, Gedor,",
+    "h": "",
+    "o": 58,
+    "l": "58"
+  },
+  {
+    "id": "6015059",
+    "b": 6,
+    "c": 15,
+    "v": 59,
+    "t": "Maarat, Bet-Anot und Eltekon: sechs Städte und ihre Dörfer.",
+    "h": "",
+    "o": 59,
+    "l": "59"
+  },
+  {
+    "id": "6015060",
+    "b": 6,
+    "c": 15,
+    "v": 60,
+    "t": "Außerdem Kirjat-Baal – das heutige Kirjat-Jearim – sowie Rabba: zwei Städte mit ihren Dörfern.",
+    "h": "",
+    "o": 60,
+    "l": "60"
+  },
+  {
+    "id": "6015061",
+    "b": 6,
+    "c": 15,
+    "v": 61,
+    "t": "In der Steppe: Bet-Araba, Middin, Sechacha,",
+    "h": "",
+    "o": 61,
+    "l": "61"
+  },
+  {
+    "id": "6015062",
+    "b": 6,
+    "c": 15,
+    "v": 62,
+    "t": "Nibschan, Ir-Hammelach – die Salzstadt – und En-Gedi; sechs Städte samt ihren Dörfern.",
+    "h": "",
+    "o": 62,
+    "l": "62"
+  },
+  {
+    "id": "6015063",
+    "b": 6,
+    "c": 15,
+    "v": 63,
+    "t": "Die Judäer konnten jedoch die Jebusiter nicht aus Jerusalem vertreiben. Ihre Nachkommen wohnen noch heute dort inmitten des Stammes Juda.",
+    "h": "",
+    "o": 63,
+    "l": "63"
+  },
+  {
+    "id": "6016001",
+    "b": 6,
+    "c": 16,
+    "v": 1,
+    "t": "Für die Nachkommen von Josef bestimmte das Los folgendes Gebiet: Die Grenze begann am Jordan auf der Höhe von Jericho und führte über die Quellen östlich der Stadt durch die Wüste hinauf ins Bergland von Bethel.",
+    "h": "Die Südgrenze der Stämme Ephraim und Manasse",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "6016002",
+    "b": 6,
+    "c": 16,
+    "v": 2,
+    "t": "Sie verlief weiter durch Lus zum Gebiet der Arkiter nach Atarot.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "6016003",
+    "b": 6,
+    "c": 16,
+    "v": 3,
+    "t": "Dann führte sie in westlicher Richtung hinab in die Gegend der Jafletiter und durch das untere Bet-Horon, bis sie hinter Geser das Mittelmeer erreichte.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "6016004",
+    "b": 6,
+    "c": 16,
+    "v": 4,
+    "t": "Dies war die Südgrenze des Gebiets, das den Stämmen Ephraim und Manasse, den Nachkommen von Josef, zugeteilt wurde.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "6016005",
+    "b": 6,
+    "c": 16,
+    "v": 5,
+    "t": "Der Stamm Ephraim mit seinen Sippen erhielt folgendes Gebiet: Seine Südgrenze führte über Atrot-Addar und das obere Bet-Horon",
+    "h": "Das Gebiet des Stammes Ephraim",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "6016006",
+    "b": 6,
+    "c": 16,
+    "v": 6,
+    "t": "bis zum Mittelmeer. Die nördliche Grenze verlief vom Mittelmeer entlang dem Bach Kana hinauf nach Tappuach. Von dort führte sie ein Stück nordwärts nach Michmetat, wo sie sich wieder in Richtung Osten nach Taanat-Silo und Janoach wandte. Die Ostgrenze ging von Janoach über Atarot ins westliche Jordantal hinab, folgte dem Talverlauf über Naara bis Jericho und endete dort am Jordan. Diese Grenzen umschlossen das Gebiet Ephraims und seiner Sippen.",
+    "h": "",
+    "o": 6,
+    "l": "6-8"
+  },
+  {
+    "id": "6016007",
+    "b": 6,
+    "c": 16,
+    "v": 9,
+    "t": "Dazu kamen noch die Städte und Dörfer, die dem Stamm zugesprochen wurden, obwohl sie im Gebiet Manasses lagen.",
+    "h": "",
+    "o": 7,
+    "l": "9"
+  },
+  {
+    "id": "6016008",
+    "b": 6,
+    "c": 16,
+    "v": 10,
+    "t": "Die Männer von Ephraim vertrieben die Kanaaniter nicht, die in Geser wohnten. Ihre Nachkommen leben noch heute dort, müssen jedoch für die Israeliten Fronarbeit leisten.",
+    "h": "",
+    "o": 8,
+    "l": "10"
+  },
+  {
+    "id": "6017001",
+    "b": 6,
+    "c": 17,
+    "v": 1,
+    "t": "Die Nachkommen von Manasse, dem ältesten Sohn Josefs, erhielten zwei Gebiete. Östlich des Jordan hatte man der Sippe von Machir, dem ältesten Sohn Manasses und Vater Gileads, die Gegenden Gilead und Baschan zugeteilt. Die Nachkommen von Machir waren nämlich erfahrene Soldaten.",
+    "h": "Das Gebiet des Stammes Manasse",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "6017002",
+    "b": 6,
+    "c": 17,
+    "v": 2,
+    "t": "Nun bestimmte das Los die Bezirke westlich des Jordan, die von den Nachkommen der übrigen Söhne Manasses besiedelt werden sollten. Es waren die Sippen Abiëser, Helek, Asriël, Sichem, Hefer und Schemida.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "6017003",
+    "b": 6,
+    "c": 17,
+    "v": 3,
+    "t": "Zelofhad, der Sohn Hefers und Enkel Gileads, aus der Sippe Machir vom Stamm Manasse, hatte keine Söhne, sondern nur Töchter: Sie hießen Machla, Noa, Hogla, Milka und Tirza.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "6017004",
+    "b": 6,
+    "c": 17,
+    "v": 4,
+    "t": "Diese Frauen kamen zum Priester Eleasar, zu Josua, dem Sohn von Nun, und zu den führenden Männern des Volkes und sagten: »Der HERR hat Mose befohlen, auch uns einen Anteil am Stammesgebiet zu geben.« Josua gehorchte dem Gebot des HERRN und gab ihnen Land neben den Sippen der männlichen Nachkommen von Manasse.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "6017005",
+    "b": 6,
+    "c": 17,
+    "v": 5,
+    "t": "So kam es, dass der Stamm Manasse insgesamt zehn Anteile westlich des Jordan besaß, dazu im Osten die Länder Gilead und Baschan.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "6017006",
+    "b": 6,
+    "c": 17,
+    "v": 6,
+    "t": "Im Westen erhielten sowohl die Sippen der männlichen als auch der weiblichen Nachkommen Manasses ein Gebiet; das Land Gilead im Osten dagegen wurde nur unter die männlichen Nachkommen aufgeteilt.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "6017007",
+    "b": 6,
+    "c": 17,
+    "v": 7,
+    "t": "Die Grenze des Gebiets von Manasse verlief von Asser nach Michmetat östlich von Sichem und dann zum Siedlungsgebiet von En-Tappuach.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "6017008",
+    "b": 6,
+    "c": 17,
+    "v": 8,
+    "t": "Die Gegend um Tappuach lag im Land von Manasse, die grenznahe Stadt selbst gehörte jedoch zu Ephraim.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "6017009",
+    "b": 6,
+    "c": 17,
+    "v": 9,
+    "t": "Von dort führte die Grenze hinab zum Bach Kana. Nördlich des Baches begann das Gebiet von Manasse, im Westen reichte es bis ans Mittelmeer. Die Städte südlich dieses Baches lagen zwar auch noch im Stammesgebiet von Manasse, sie gehörten aber zum Stamm Ephraim.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "6017010",
+    "b": 6,
+    "c": 17,
+    "v": 10,
+    "t": "Der Bach Kana bildete also die Grenze zwischen Ephraim und Manasse. Das Mittelmeer war für beide die Westgrenze. Im Norden stieß Manasses Land an das Stammesgebiet von Asser und im Osten an das von Issachar.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "6017011",
+    "b": 6,
+    "c": 17,
+    "v": 11,
+    "t": "In beiden Gebieten besaß Manasse einige Städte: Bet-Schean, Jibleam und Dor mit ihren Dörfern, dazu das Dreihügelland mit En-Dor, Taanach und Megiddo, ebenfalls mit ihren Dörfern.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "6017012",
+    "b": 6,
+    "c": 17,
+    "v": 12,
+    "t": "Der Stamm Manasse konnte jedoch die Kanaaniter dort nicht vertreiben, und so blieben sie dort wohnen.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "6017013",
+    "b": 6,
+    "c": 17,
+    "v": 13,
+    "t": "Selbst als die Israeliten mächtiger geworden waren, vertrieben sie die Kanaaniter nicht, sondern machten sie zu Fronarbeitern.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "6017014",
+    "b": 6,
+    "c": 17,
+    "v": 14,
+    "t": "Die Nachkommen von Josef, die westlich des Jordan Land erhalten hatten, kamen zu Josua und fragten ihn: »Warum hast du nur ein Stammesgebiet für uns ausgelost? Wir sind so viele Leute! Der HERR hat uns gesegnet und zu einem großen Volk gemacht!«",
+    "h": "Die Stämme Ephraim und Manasse fordern mehr Land",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "6017015",
+    "b": 6,
+    "c": 17,
+    "v": 15,
+    "t": "Josua antwortete: »Wenn ihr so viele seid und euch das Bergland von Ephraim nicht reicht, dann zieht hinauf in die Wälder! Rodet dort Land im Gebiet der Perisiter und Refaïter.«",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "6017016",
+    "b": 6,
+    "c": 17,
+    "v": 16,
+    "t": "Die Nachkommen von Josef sagten: »Das Bergland ist zu klein für uns; und unten im Flachland wohnen die Kanaaniter. In der ganzen Jesreel-Ebene bis hinab nach Bet-Schean mit seinen Dörfern besitzen sie eiserne Kriegswagen.«",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "6017017",
+    "b": 6,
+    "c": 17,
+    "v": 17,
+    "t": "Da machte Josua den Männern von Ephraim und Manasse Mut: »Ihr seid ein so großes und starkes Volk, dass es nicht bei dem Gebiet bleiben wird, das euch jetzt zugeteilt ist.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "6017018",
+    "b": 6,
+    "c": 17,
+    "v": 18,
+    "t": "Das Gebirge soll euch gehören, den Wald dort werdet ihr roden. Auch das Hügelland werdet ihr erobern und die Kanaaniter vertreiben, selbst wenn sie stark sind und eiserne Kriegswagen besitzen.«",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "6018001",
+    "b": 6,
+    "c": 18,
+    "v": 1,
+    "t": "Als das Land erobert war, versammelte sich die ganze Gemeinschaft der Israeliten in Silo und errichtete dort das heilige Zelt, in dem Gott ihnen begegnen wollte.",
+    "h": "Die sieben übrigen Stämme erhalten Gebiete",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "6018002",
+    "b": 6,
+    "c": 18,
+    "v": 2,
+    "t": "Sieben Stämme hatten sich noch kein eigenes Gebiet zuteilen lassen.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "6018003",
+    "b": 6,
+    "c": 18,
+    "v": 3,
+    "t": "Josua ermahnte sie: »Wie lange wollt ihr noch so träge sein? Wann endlich werdet ihr das Land in Besitz nehmen, das euch der HERR, der Gott eurer Väter, gegeben hat?",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "6018004",
+    "b": 6,
+    "c": 18,
+    "v": 4,
+    "t": "Wählt drei Männer aus jedem Stamm! In meinem Auftrag sollen sie im Land umherziehen, die Städte und Gebiete in Listen eintragen und dann wieder zu mir kommen.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "6018005",
+    "b": 6,
+    "c": 18,
+    "v": 5,
+    "t": "Sie sollen das Land in sieben Abschnitte aufteilen, dabei aber die Grenzen von Juda im Süden und von Josef im Norden unverletzt lassen.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "6018006",
+    "b": 6,
+    "c": 18,
+    "v": 6,
+    "t": "Sie schreiben auf, wo die Grenzen der sieben neuen Stammesgebiete verlaufen sollen, und bringen mir die Verzeichnisse. Dann werde ich hier in der Gegenwart des HERRN, unseres Gottes, das Los werfen und euch das Land zuteilen.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "6018007",
+    "b": 6,
+    "c": 18,
+    "v": 7,
+    "t": "Nur die Leviten bleiben ohne Gebiet. Dafür dürfen sie Priester des HERRN sein. Auch die Stämme Gad und Ruben und der halbe Stamm Manasse bekommen nichts mehr zugeteilt, denn sie haben bereits östlich des Jordan Land erhalten. Mose, der Diener des HERRN, hat es ihnen gegeben.«",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "6018008",
+    "b": 6,
+    "c": 18,
+    "v": 8,
+    "t": "Die Männer, die man ausgesucht hatte, machten sich zum Aufbruch fertig. Josua befahl ihnen: »Geht durch das ganze Land und schreibt alle Städte auf! Wenn ihr fertig seid, bringt eure Verzeichnisse zu mir. Ich werde dann hier in Silo vor dem HERRN das Los für euch werfen.«",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "6018009",
+    "b": 6,
+    "c": 18,
+    "v": 9,
+    "t": "Die Männer brachen auf, durchzogen das Land und fertigten eine Liste aller Städte an. Sie teilten das Land in sieben Gebiete auf und verzeichneten alles auf einer Schriftrolle, die sie Josua im Lager bei Silo übergaben.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "6018010",
+    "b": 6,
+    "c": 18,
+    "v": 10,
+    "t": "Dort warf Josua in der Gegenwart des HERRN das Los und teilte den restlichen sieben Stämmen und ihren Sippen die Gebiete zu.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "6018011",
+    "b": 6,
+    "c": 18,
+    "v": 11,
+    "t": "Das erste Los fiel auf den Stamm Benjamin. Er erhielt für seine Sippen ein Gebiet zwischen den Stämmen Juda und Josef.",
+    "h": "Das Gebiet des Stammes Benjamin",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "6018012",
+    "b": 6,
+    "c": 18,
+    "v": 12,
+    "t": "Seine Nordgrenze begann am Jordan, führte zum Höhenzug nördlich von Jericho hinauf und in westlicher Richtung durch die Berge bis zur Steppe von Bet-Awen.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "6018013",
+    "b": 6,
+    "c": 18,
+    "v": 13,
+    "t": "Von dort ging sie nach Lus, dem heutigen Bethel, auf dem Höhenzug südlich an der Stadt vorbei, nach Atrot-Addar hinab und bis zu dem Hügel, der südlich des unteren Bet-Horon liegt.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "6018014",
+    "b": 6,
+    "c": 18,
+    "v": 14,
+    "t": "Dort wandte sie sich nach Süden und führte als Westgrenze bis nach Kirjat-Baal, dem heutigen Kirjat-Jearim, das zu Juda gehörte.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "6018015",
+    "b": 6,
+    "c": 18,
+    "v": 15,
+    "t": "Die Südgrenze verlief vom westlichen Stadtrand Kirjat-Jearims bis zur Quelle Neftoach.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "6018016",
+    "b": 6,
+    "c": 18,
+    "v": 16,
+    "t": "Dann führte sie zum Fuß des Berges hinab, der westlich vom Hinnomtal und nördlich der Refaïm-Ebene liegt. Sie durchquerte das Hinnomtal südlich der Jebusiterstadt und erreichte die Quelle Rogel.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "6018017",
+    "b": 6,
+    "c": 18,
+    "v": 17,
+    "t": "Dort wandte sie sich nördlich zur Quelle Schemesch, weiter nach Gelilot gegenüber dem Adummimpass und hinab zum Stein von Bohan, dem Rubeniter.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "6018018",
+    "b": 6,
+    "c": 18,
+    "v": 18,
+    "t": "Sie verlief nördlich über den Bergrücken am Rand der Jordan-Ebene, führte dann hinab durch die Ebene",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "6018019",
+    "b": 6,
+    "c": 18,
+    "v": 19,
+    "t": "bis zum Hügel bei Bet-Hogla, ging nördlich daran vorbei und endete am Nordufer des Toten Meeres, wo der Jordan einmündet.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "6018020",
+    "b": 6,
+    "c": 18,
+    "v": 20,
+    "t": "Die Ostgrenze bildete der Jordan. Dies war das Gebiet, das dem Stamm Benjamin und seinen Sippen gegeben wurde.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "6018021",
+    "b": 6,
+    "c": 18,
+    "v": 21,
+    "t": "Folgende Städte gehörten dazu: Jericho, Bet-Hogla, Emek-Keziz,",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "6018022",
+    "b": 6,
+    "c": 18,
+    "v": 22,
+    "t": "Bet-Araba, Zemarajim, Bethel,",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "6018023",
+    "b": 6,
+    "c": 18,
+    "v": 23,
+    "t": "Awim, Para, Ofra,",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "6018024",
+    "b": 6,
+    "c": 18,
+    "v": 24,
+    "t": "Kefar-Ammoni, Ofni und Geba. Es waren zwölf Städte mit ihren Dörfern.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "6018025",
+    "b": 6,
+    "c": 18,
+    "v": 25,
+    "t": "Dazu kamen Gibeon, Rama, Beerot,",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "6018026",
+    "b": 6,
+    "c": 18,
+    "v": 26,
+    "t": "Mizpe, Kefira, Moza,",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "6018027",
+    "b": 6,
+    "c": 18,
+    "v": 27,
+    "t": "Rekem, Jirpeel, Tarala,",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "6018028",
+    "b": 6,
+    "c": 18,
+    "v": 28,
+    "t": "Zela, Elef, die Jebusiterstadt – also Jerusalem –, Gibea und Kirjat-Jearim: zusammen 14 Städte mit ihren Dörfern. Diese Städte gehörten dem Stamm Benjamin und seinen Sippen.",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "6019001",
+    "b": 6,
+    "c": 19,
+    "v": 1,
+    "t": "Das zweite Los fiel auf den Stamm Simeon mit seinen Sippen. Er erhielt seinen Anteil mitten im Stammesgebiet von Juda.",
+    "h": "Das Gebiet des Stammes Simeon",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "6019002",
+    "b": 6,
+    "c": 19,
+    "v": 2,
+    "t": "Ihm gehörten: Beerscheba, Scheba, Molada,",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "6019003",
+    "b": 6,
+    "c": 19,
+    "v": 3,
+    "t": "Hazar-Schual, Baala, Ezem,",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "6019004",
+    "b": 6,
+    "c": 19,
+    "v": 4,
+    "t": "Eltolad, Betul, Horma,",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "6019005",
+    "b": 6,
+    "c": 19,
+    "v": 5,
+    "t": "Ziklag, Bet-Markabot, Hazar-Susa,",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "6019006",
+    "b": 6,
+    "c": 19,
+    "v": 6,
+    "t": "Bet-Lebaot und Scharuhen. Es waren 13 Städte mit den dazugehörigen Dörfern.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "6019007",
+    "b": 6,
+    "c": 19,
+    "v": 7,
+    "t": "Dazu kamen Ajin, Rimmon, Eter und Aschan: zusammen vier Städte mit ihren Dörfern.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "6019008",
+    "b": 6,
+    "c": 19,
+    "v": 8,
+    "t": "Zu diesen Städten gehörten alle Ortschaften in ihrem Umkreis bis nach Baalat-Beer, dem Rama des Südens. Dies war das Gebiet des Stammes Simeon und seiner Sippen.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "6019009",
+    "b": 6,
+    "c": 19,
+    "v": 9,
+    "t": "Es wurde vom Land des Stammes Juda genommen, das für ihn allein zu groß war. Daher liegt das Gebiet von Simeon mitten in Juda.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "6019010",
+    "b": 6,
+    "c": 19,
+    "v": 10,
+    "t": "Das dritte Los fiel auf den Stamm Sebulon mit seinen Sippen. Seine Südgrenze verlief vom Bach bei Jokneam ostwärts über Dabbeschet, Marala und Sarid bis zum Gebiet von Kislot-Tabor. Dann wandte sie sich als Ostgrenze nach Daberat und hinauf nach Jafia.",
+    "h": "Das Gebiet des Stammes Sebulon",
+    "o": 10,
+    "l": "10-12"
+  },
+  {
+    "id": "6019011",
+    "b": 6,
+    "c": 19,
+    "v": 13,
+    "t": "Von dort führte sie weiter östlich über Gat-Hefer, Et-Kazin und Rimmon bis nach Nea.",
+    "h": "",
+    "o": 11,
+    "l": "13"
+  },
+  {
+    "id": "6019012",
+    "b": 6,
+    "c": 19,
+    "v": 14,
+    "t": "Die Nord- und Westgrenze verlief durch Hannaton und endete im Tal von Jiftach-El.",
+    "h": "",
+    "o": 12,
+    "l": "14"
+  },
+  {
+    "id": "6019013",
+    "b": 6,
+    "c": 19,
+    "v": 15,
+    "t": "Zwölf Städte mit ihren Dörfern gehörten zu Sebulon, darunter Kattat, Nahalal, Schimron, Jidala und Bethlehem.",
+    "h": "",
+    "o": 13,
+    "l": "15"
+  },
+  {
+    "id": "6019014",
+    "b": 6,
+    "c": 19,
+    "v": 16,
+    "t": "Dieses Gebiet erhielt der Stamm Sebulon für seine Sippen.",
+    "h": "",
+    "o": 14,
+    "l": "16"
+  },
+  {
+    "id": "6019015",
+    "b": 6,
+    "c": 19,
+    "v": 17,
+    "t": "Das vierte Los fiel auf den Stamm Issachar und seine Sippen.",
+    "h": "Das Gebiet des Stammes Issachar",
+    "o": 15,
+    "l": "17"
+  },
+  {
+    "id": "6019016",
+    "b": 6,
+    "c": 19,
+    "v": 18,
+    "t": "Sein Gebiet erstreckte sich von Jesreel nach Norden und umfasste folgende Städte: Kesullot, Schunem,",
+    "h": "",
+    "o": 16,
+    "l": "18"
+  },
+  {
+    "id": "6019017",
+    "b": 6,
+    "c": 19,
+    "v": 19,
+    "t": "Hafarajim, Schion, Anaharat,",
+    "h": "",
+    "o": 17,
+    "l": "19"
+  },
+  {
+    "id": "6019018",
+    "b": 6,
+    "c": 19,
+    "v": 20,
+    "t": "Rabbit, Kischjon, Ebez,",
+    "h": "",
+    "o": 18,
+    "l": "20"
+  },
+  {
+    "id": "6019019",
+    "b": 6,
+    "c": 19,
+    "v": 21,
+    "t": "Remet, En-Gannim, En-Hadda und Bet-Pazzez.",
+    "h": "",
+    "o": 19,
+    "l": "21"
+  },
+  {
+    "id": "6019020",
+    "b": 6,
+    "c": 19,
+    "v": 22,
+    "t": "Die Nordgrenze führte vom Berg Tabor über Schahazajim und Bet-Schemesch zum Jordan hinab. Insgesamt 16 Städte mit ihren Dörfern gehörten zum Stamm Issachar.",
+    "h": "",
+    "o": 20,
+    "l": "22"
+  },
+  {
+    "id": "6019021",
+    "b": 6,
+    "c": 19,
+    "v": 23,
+    "t": "Dieses ganze Gebiet bekam er für seine Sippen.",
+    "h": "",
+    "o": 21,
+    "l": "23"
+  },
+  {
+    "id": "6019022",
+    "b": 6,
+    "c": 19,
+    "v": 24,
+    "t": "Das fünfte Los fiel auf den Stamm Asser und seine Sippen.",
+    "h": "Das Gebiet des Stammes Asser",
+    "o": 22,
+    "l": "24"
+  },
+  {
+    "id": "6019023",
+    "b": 6,
+    "c": 19,
+    "v": 25,
+    "t": "Sein Gebiet umfasste die Städte Helkat, Hali, Beten, Achschaf,",
+    "h": "",
+    "o": 23,
+    "l": "25"
+  },
+  {
+    "id": "6019024",
+    "b": 6,
+    "c": 19,
+    "v": 26,
+    "t": "Alammelech, Amad und Mischal. Die Grenze verlief entlang dem Mittelmeer um das Karmelgebirge bis hinab zum Fluss Libnat.",
+    "h": "",
+    "o": 24,
+    "l": "26"
+  },
+  {
+    "id": "6019025",
+    "b": 6,
+    "c": 19,
+    "v": 27,
+    "t": "Dort wandte sie sich ostwärts nach Bet-Dagon, erreichte das Gebiet Sebulons und folgte dessen Westgrenze bis zum Tal Jiftach-El im Norden. Sie zog sich weiter durch Bet-Emek und Negiël, machte einen Bogen links nach Kabul",
+    "h": "",
+    "o": 25,
+    "l": "27"
+  },
+  {
+    "id": "6019026",
+    "b": 6,
+    "c": 19,
+    "v": 28,
+    "t": "und führte über Ebron, Rehob, Hammon und Kana bis zur großen Stadt Sidon.",
+    "h": "",
+    "o": 26,
+    "l": "28"
+  },
+  {
+    "id": "6019027",
+    "b": 6,
+    "c": 19,
+    "v": 29,
+    "t": "Dann wandte sich die Grenze nach Rama und erreichte die befestigte Stadt Tyrus. Hier machte sie einen Bogen in Richtung Hosa und endete in der Umgebung von Achsib am Mittelmeer.",
+    "h": "",
+    "o": 27,
+    "l": "29"
+  },
+  {
+    "id": "6019028",
+    "b": 6,
+    "c": 19,
+    "v": 30,
+    "t": "Zu Asser gehörten 22 Städte mit ihren Dörfern, darunter Umma, Afek und Rehob.",
+    "h": "",
+    "o": 28,
+    "l": "30"
+  },
+  {
+    "id": "6019029",
+    "b": 6,
+    "c": 19,
+    "v": 31,
+    "t": "Diesen Teil des Landes erhielt Asser für seine Sippen.",
+    "h": "",
+    "o": 29,
+    "l": "31"
+  },
+  {
+    "id": "6019030",
+    "b": 6,
+    "c": 19,
+    "v": 32,
+    "t": "Das sechste Los entschied darüber, welches Gebiet der Stamm Naftali und seine Sippen bekommen sollten.",
+    "h": "Das Gebiet des Stammes Naftali",
+    "o": 30,
+    "l": "32"
+  },
+  {
+    "id": "6019031",
+    "b": 6,
+    "c": 19,
+    "v": 33,
+    "t": "Die Südgrenze begann bei Lakkum am Jordan und verlief westwärts über Jabneel, Adami-Nekeb, Elon-Zaanannim und Helef bis nach Asnot-Tabor. Von dort aus führte sie als Westgrenze nach Hukkok. Im Süden stieß das Gebiet von Naftali an das Land Sebulons, im Westen an das Land Assers. Im Osten bildete der Jordan die Grenze zum Gebiet von Juda.",
+    "h": "",
+    "o": 31,
+    "l": "33-34"
+  },
+  {
+    "id": "6019032",
+    "b": 6,
+    "c": 19,
+    "v": 35,
+    "t": "Folgende befestigten Städte gehörten zu Naftali: Ziddim, Zer, Hammat, Rakkat, Kinneret,",
+    "h": "",
+    "o": 32,
+    "l": "35"
+  },
+  {
+    "id": "6019033",
+    "b": 6,
+    "c": 19,
+    "v": 36,
+    "t": "Adama, Rama, Hazor,",
+    "h": "",
+    "o": 33,
+    "l": "36"
+  },
+  {
+    "id": "6019034",
+    "b": 6,
+    "c": 19,
+    "v": 37,
+    "t": "Kedesch, Edreï, En-Hazor,",
+    "h": "",
+    "o": 34,
+    "l": "37"
+  },
+  {
+    "id": "6019035",
+    "b": 6,
+    "c": 19,
+    "v": 38,
+    "t": "Jiron, Migdal-El, Horem, Bet-Anat und Bet-Schemesch: 19 Städte mit ihren Dörfern.",
+    "h": "",
+    "o": 35,
+    "l": "38"
+  },
+  {
+    "id": "6019036",
+    "b": 6,
+    "c": 19,
+    "v": 39,
+    "t": "Dieses Gebiet bekam der Stamm Naftali für seine Sippen.",
+    "h": "",
+    "o": 36,
+    "l": "39"
+  },
+  {
+    "id": "6019037",
+    "b": 6,
+    "c": 19,
+    "v": 40,
+    "t": "Das siebte Los fiel auf den Stamm Dan mit seinen Sippen.",
+    "h": "Das Gebiet des Stammes Dan",
+    "o": 37,
+    "l": "40"
+  },
+  {
+    "id": "6019038",
+    "b": 6,
+    "c": 19,
+    "v": 41,
+    "t": "Zu seinem Gebiet gehörten die Städte Zora, Eschtaol, Ir-Schemesch,",
+    "h": "",
+    "o": 38,
+    "l": "41"
+  },
+  {
+    "id": "6019039",
+    "b": 6,
+    "c": 19,
+    "v": 42,
+    "t": "Schaalbim, Ajalon, Jitla,",
+    "h": "",
+    "o": 39,
+    "l": "42"
+  },
+  {
+    "id": "6019040",
+    "b": 6,
+    "c": 19,
+    "v": 43,
+    "t": "Elon, Timna, Ekron,",
+    "h": "",
+    "o": 40,
+    "l": "43"
+  },
+  {
+    "id": "6019041",
+    "b": 6,
+    "c": 19,
+    "v": 44,
+    "t": "Elteke, Gibbeton, Baalat,",
+    "h": "",
+    "o": 41,
+    "l": "44"
+  },
+  {
+    "id": "6019042",
+    "b": 6,
+    "c": 19,
+    "v": 45,
+    "t": "Jehud, Bene-Berak, Gat-Rimmon,",
+    "h": "",
+    "o": 42,
+    "l": "45"
+  },
+  {
+    "id": "6019043",
+    "b": 6,
+    "c": 19,
+    "v": 46,
+    "t": "Me-Jarkon und Rakkon mit dem Gebiet gegenüber Jafo.",
+    "h": "",
+    "o": 43,
+    "l": "46"
+  },
+  {
+    "id": "6019044",
+    "b": 6,
+    "c": 19,
+    "v": 47,
+    "t": "Später erweiterte der Stamm Dan sein Gebiet. Seine Männer griffen die Stadt Leschem an, eroberten sie und töteten die Einwohner mit dem Schwert. Dann ließen sie sich dort nieder und gaben Leschem den Namen ihres Stammvaters: Dan.",
+    "h": "",
+    "o": 44,
+    "l": "47"
+  },
+  {
+    "id": "6019045",
+    "b": 6,
+    "c": 19,
+    "v": 48,
+    "t": "Diese Städte und ihre Dörfer gehörten zu dem Gebiet, das der Stamm Dan mit seinen Sippen bekam.",
+    "h": "",
+    "o": 45,
+    "l": "48"
+  },
+  {
+    "id": "6019046",
+    "b": 6,
+    "c": 19,
+    "v": 49,
+    "t": "Als das ganze Land verteilt war, gaben die Israeliten auch Josua, dem Sohn von Nun, ein Stück Land in ihrer Mitte.",
+    "h": "Josuas Anteil",
+    "o": 46,
+    "l": "49"
+  },
+  {
+    "id": "6019047",
+    "b": 6,
+    "c": 19,
+    "v": 50,
+    "t": "Wie der HERR es befohlen hatte, wiesen sie ihm die Stadt Timnat-Serach im Gebirge Ephraim zu, um die Josua gebeten hatte. Er baute sie aus und siedelte sich mit seiner Sippe dort an.",
+    "h": "",
+    "o": 47,
+    "l": "50"
+  },
+  {
+    "id": "6019048",
+    "b": 6,
+    "c": 19,
+    "v": 51,
+    "t": "Der Priester Eleasar, Josua und die Stammesoberhäupter hatten den einzelnen Stämmen ihre Gebiete zugeteilt. Dazu hatten sie sich in Silo vor dem Eingang des heiligen Zeltes versammelt und in der Gegenwart des HERRN das Los geworfen. So war nun die Verteilung des Landes Kanaan abgeschlossen.",
+    "h": "",
+    "o": 48,
+    "l": "51"
+  },
+  {
+    "id": "6020001",
+    "b": 6,
+    "c": 20,
+    "v": 1,
+    "t": "Der HERR sprach zu Josua:",
+    "h": "Sechs Zufluchtsorte für Totschläger",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "6020002",
+    "b": 6,
+    "c": 20,
+    "v": 2,
+    "t": "»Befiehl dem Volk, Städte auszuwählen, die als Zufluchtsorte dienen sollen, wie ich es euch schon durch Mose gesagt habe.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "6020003",
+    "b": 6,
+    "c": 20,
+    "v": 3,
+    "t": "Sie sollen jedem Schutz bieten, der ohne Absicht einen Menschen getötet hat. An diesen Orten ist man vor der Blutrache sicher.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "6020004",
+    "b": 6,
+    "c": 20,
+    "v": 4,
+    "t": "Wer dorthin flieht, muss sich gleich am Stadttor den führenden Männern des Ortes stellen und seinen Fall schildern. Dann soll er in die Stadt aufgenommen werden und eine Unterkunft erhalten.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "6020005",
+    "b": 6,
+    "c": 20,
+    "v": 5,
+    "t": "Wenn jemand ihn verfolgt, um den Getöteten zu rächen, dürfen die Einwohner der Stadt ihn nicht ausliefern. Denn er hat die Tat nicht vorsätzlich, sondern aus Versehen begangen.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "6020006",
+    "b": 6,
+    "c": 20,
+    "v": 6,
+    "t": "Er soll an dem Zufluchtsort in Sicherheit sein, bis ein Gericht über ihn entschieden hat. Wird er freigesprochen, soll er bis zum Tod des Hohenpriesters in der Stadt bleiben. Erst dann darf der Totschläger in seine Heimatstadt zurückkehren, aus der er fliehen musste.«",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "6020007",
+    "b": 6,
+    "c": 20,
+    "v": 7,
+    "t": "Die Israeliten wählten folgende Zufluchtsstädte aus: Kedesch im Bergland von Naftali in Galiläa, Sichem im Bergland von Ephraim und Kirjat-Arba, das heutige Hebron, im Bergland von Juda.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "6020008",
+    "b": 6,
+    "c": 20,
+    "v": 8,
+    "t": "Östlich des Jordan bestimmten sie Bezer, das in der Steppe der Hochebene weit im Osten von Jericho liegt und zum Stamm Ruben gehört, dann Ramot im Land Gilead im Stammesgebiet von Gad und schließlich Golan im Land Baschan im Gebiet von Manasse.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "6020009",
+    "b": 6,
+    "c": 20,
+    "v": 9,
+    "t": "Diese Städte wurden für alle Israeliten und für alle Ausländer, die unter ihnen lebten, als Zufluchtsorte festgelegt. Dorthin konnte jeder fliehen, der unabsichtlich einen Menschen getötet hatte. Hier war er vor der Blutrache sicher, bis ein Gericht über ihn entschieden hatte.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "6021001",
+    "b": 6,
+    "c": 21,
+    "v": 1,
+    "t": "Noch während das Volk Israel in Silo im Land Kanaan lagerte, kamen die führenden Männer aus den Sippen der Leviten zum Priester Eleasar, zu Josua, dem Sohn von Nun, und zu den Oberhäuptern der Stämme Israels. Sie sagten: »Der HERR hat durch Mose befohlen, dass wir Städte bekommen sollen, in denen wir wohnen können, und Weideland für unser Vieh.«",
+    "h": "Die Leviten erhalten Städte und Weidegebiete",
+    "o": 1,
+    "l": "1-2"
+  },
+  {
+    "id": "6021002",
+    "b": 6,
+    "c": 21,
+    "v": 3,
+    "t": "Die Israeliten gehorchten dem Gebot des HERRN und gaben den Leviten Städte und Weideplätze aus ihren Gebieten.",
+    "h": "",
+    "o": 2,
+    "l": "3"
+  },
+  {
+    "id": "6021003",
+    "b": 6,
+    "c": 21,
+    "v": 4,
+    "t": "Das Los wurde geworfen und traf zunächst die levitische Sippe Kehat. Zu ihr gehörten die Nachkommen des Priesters Aaron. Sie erhielten als Erste ihren Anteil: dreizehn Städte in den Gebieten der Stämme Juda, Simeon und Benjamin.",
+    "h": "",
+    "o": 3,
+    "l": "4"
+  },
+  {
+    "id": "6021004",
+    "b": 6,
+    "c": 21,
+    "v": 5,
+    "t": "Den übrigen Nachkommen Kehats fielen zehn Städte in den Gebieten von Ephraim und Dan und im westlichen Gebiet von Manasse zu.",
+    "h": "",
+    "o": 4,
+    "l": "5"
+  },
+  {
+    "id": "6021005",
+    "b": 6,
+    "c": 21,
+    "v": 6,
+    "t": "Die Sippe Gerschon bekam dreizehn Städte in den Gebieten von Issachar, Asser, Naftali und im Land Baschan, das dem halben Stamm Manasse östlich des Jordan gehörte.",
+    "h": "",
+    "o": 5,
+    "l": "6"
+  },
+  {
+    "id": "6021006",
+    "b": 6,
+    "c": 21,
+    "v": 7,
+    "t": "Die Sippe Merari erhielt zwölf Städte bei den Stämmen Ruben, Gad und Sebulon.",
+    "h": "",
+    "o": 6,
+    "l": "7"
+  },
+  {
+    "id": "6021007",
+    "b": 6,
+    "c": 21,
+    "v": 8,
+    "t": "Die Israeliten teilten den Leviten diese Städte mit den umliegenden Weideplätzen zu, wie es das Los bestimmte. So hatte es der HERR durch Mose befohlen.",
+    "h": "",
+    "o": 7,
+    "l": "8"
+  },
+  {
+    "id": "6021008",
+    "b": 6,
+    "c": 21,
+    "v": 9,
+    "t": "Das erste Los traf die Nachkommen von Aaron aus der levitischen Sippe Kehat. Sie erhielten von den Stämmen Juda und Simeon folgende Städte:",
+    "h": "Die Städte der Sippe Kehat",
+    "o": 8,
+    "l": "9-10"
+  },
+  {
+    "id": "6021009",
+    "b": 6,
+    "c": 21,
+    "v": 11,
+    "t": "zunächst Kirjat-Arba, die Stadt des Stammvaters der Anakiter, die im Bergland liegt und jetzt Hebron heißt, mit ihren Weideflächen.",
+    "h": "",
+    "o": 9,
+    "l": "11"
+  },
+  {
+    "id": "6021010",
+    "b": 6,
+    "c": 21,
+    "v": 12,
+    "t": "Die Äcker und Dörfer rings um Hebron blieben jedoch im Besitz von Kaleb, der Jefunnes Sohn war.",
+    "h": "",
+    "o": 10,
+    "l": "12"
+  },
+  {
+    "id": "6021011",
+    "b": 6,
+    "c": 21,
+    "v": 13,
+    "t": "Die Nachkommen von Aaron bekamen die unmittelbar an Hebron grenzenden Weiden und die Stadt selbst, die auch als Zufluchtsort für Totschläger diente. Weiter gab man ihnen die Städte Libna,",
+    "h": "",
+    "o": 11,
+    "l": "13"
+  },
+  {
+    "id": "6021012",
+    "b": 6,
+    "c": 21,
+    "v": 14,
+    "t": "Jattir, Eschtemoa,",
+    "h": "",
+    "o": 12,
+    "l": "14"
+  },
+  {
+    "id": "6021013",
+    "b": 6,
+    "c": 21,
+    "v": 15,
+    "t": "Holon, Debir,",
+    "h": "",
+    "o": 13,
+    "l": "15"
+  },
+  {
+    "id": "6021014",
+    "b": 6,
+    "c": 21,
+    "v": 16,
+    "t": "Ajin, Jutta und Bet-Schemesch. Insgesamt erhielten sie neun Städte mit den dazugehörigen Weideplätzen von den Stämmen Juda und Simeon.",
+    "h": "",
+    "o": 14,
+    "l": "16"
+  },
+  {
+    "id": "6021015",
+    "b": 6,
+    "c": 21,
+    "v": 17,
+    "t": "Dazu kamen vom Stamm Benjamin die vier Städte Gibeon, Geba,",
+    "h": "",
+    "o": 15,
+    "l": "17"
+  },
+  {
+    "id": "6021016",
+    "b": 6,
+    "c": 21,
+    "v": 18,
+    "t": "Anatot und Almon mit ihren Weiden.",
+    "h": "",
+    "o": 16,
+    "l": "18"
+  },
+  {
+    "id": "6021017",
+    "b": 6,
+    "c": 21,
+    "v": 19,
+    "t": "Damit besaß das Priestergeschlecht von Aaron dreizehn Städte.",
+    "h": "",
+    "o": 17,
+    "l": "19"
+  },
+  {
+    "id": "6021018",
+    "b": 6,
+    "c": 21,
+    "v": 20,
+    "t": "Die übrigen Familien der Sippe Kehat vom Stamm Levi erhielten durch das Los einige Städte im Stammesgebiet von Ephraim.",
+    "h": "",
+    "o": 18,
+    "l": "20"
+  },
+  {
+    "id": "6021019",
+    "b": 6,
+    "c": 21,
+    "v": 21,
+    "t": "Ihnen gehörte nun Sichem im Bergland, ein Zufluchtsort für Totschläger, außerdem Geser,",
+    "h": "",
+    "o": 19,
+    "l": "21"
+  },
+  {
+    "id": "6021020",
+    "b": 6,
+    "c": 21,
+    "v": 22,
+    "t": "Kibzajim und Bet-Horon: vier Städte mit den dazugehörigen Weideplätzen.",
+    "h": "",
+    "o": 20,
+    "l": "22"
+  },
+  {
+    "id": "6021021",
+    "b": 6,
+    "c": 21,
+    "v": 23,
+    "t": "Der Stamm Dan gab ihnen ebenfalls vier Städte mit Weiden: Elteke, Gibbeton, Ajalon und Gat-Rimmon.",
+    "h": "",
+    "o": 21,
+    "l": "23-24"
+  },
+  {
+    "id": "6021022",
+    "b": 6,
+    "c": 21,
+    "v": 25,
+    "t": "Im westlichen Gebiet des Stammes Manasse bekamen sie die beiden Städte Taanach und Gat-Rimmon mit ihren Weiden.",
+    "h": "",
+    "o": 22,
+    "l": "25"
+  },
+  {
+    "id": "6021023",
+    "b": 6,
+    "c": 21,
+    "v": 26,
+    "t": "Insgesamt gehörten den übrigen Familien der Sippe Kehat zehn Städte.",
+    "h": "",
+    "o": 23,
+    "l": "26"
+  },
+  {
+    "id": "6021024",
+    "b": 6,
+    "c": 21,
+    "v": 27,
+    "t": "Der Sippe Gerschon vom Stamm Levi wurden im östlichen Gebiet des Stammes Manasse zwei Städte mit Weiden zugeteilt: im Land Baschan die Stadt Golan, einer der Zufluchtsorte für Totschläger, und Beëschtera.",
+    "h": "Die Städte der Sippe Gerschon",
+    "o": 24,
+    "l": "27"
+  },
+  {
+    "id": "6021025",
+    "b": 6,
+    "c": 21,
+    "v": 28,
+    "t": "Im Gebiet von Issachar erhielten sie vier Städte mit Weiden: Kirschjon, Daberat, Jarmut und En-Gannim,",
+    "h": "",
+    "o": 25,
+    "l": "28-29"
+  },
+  {
+    "id": "6021026",
+    "b": 6,
+    "c": 21,
+    "v": 30,
+    "t": "und im Gebiet von Asser diese vier Städte: Mischal, Abdon, Helkat und Rehob.",
+    "h": "",
+    "o": 26,
+    "l": "30-31"
+  },
+  {
+    "id": "6021027",
+    "b": 6,
+    "c": 21,
+    "v": 32,
+    "t": "Der Stamm Naftali gab drei Städte mit Weiden: den Zufluchtsort Kedesch in Galiläa sowie Hammot-Dor und Kartan.",
+    "h": "",
+    "o": 27,
+    "l": "32"
+  },
+  {
+    "id": "6021028",
+    "b": 6,
+    "c": 21,
+    "v": 33,
+    "t": "Insgesamt besaß die Sippe Gerschon dreizehn Städte mit Weideflächen.",
+    "h": "",
+    "o": 28,
+    "l": "33"
+  },
+  {
+    "id": "6021029",
+    "b": 6,
+    "c": 21,
+    "v": 34,
+    "t": "Die Sippe Merari, zu der alle übrigen Leviten gehörten, bekam vier Städte mit Weiden im Gebiet von Sebulon: Jokneam, Karta, Dimna und Nahalal.",
+    "h": "Die Städte der Sippe Merari",
+    "o": 29,
+    "l": "34-35"
+  },
+  {
+    "id": "6021030",
+    "b": 6,
+    "c": 21,
+    "v": 36,
+    "t": "Weitere vier Städte mit Weideplätzen teilte man ihnen im Gebiet des Stammes Ruben zu: Bezer, Jahaz, Kedemot und Mefaat.",
+    "h": "",
+    "o": 30,
+    "l": "36-37"
+  },
+  {
+    "id": "6021031",
+    "b": 6,
+    "c": 21,
+    "v": 38,
+    "t": "Vom Stamm Gad erhielten sie Ramot im Land Gilead, den Zufluchtsort für Totschläger, Mahanajim, Heschbon und Jaser, ebenfalls vier Städte mit Weiden.",
+    "h": "",
+    "o": 31,
+    "l": "38-39"
+  },
+  {
+    "id": "6021032",
+    "b": 6,
+    "c": 21,
+    "v": 40,
+    "t": "Insgesamt besaßen die restlichen Sippen des Stammes Levi, die Nachkommen von Merari, zwölf Städte.",
+    "h": "",
+    "o": 32,
+    "l": "40"
+  },
+  {
+    "id": "6021033",
+    "b": 6,
+    "c": 21,
+    "v": 41,
+    "t": "Alle Leviten erhielten zusammen 48 Städte in den verschiedenen Stammesgebieten Israels.",
+    "h": "",
+    "o": 33,
+    "l": "41"
+  },
+  {
+    "id": "6021034",
+    "b": 6,
+    "c": 21,
+    "v": 42,
+    "t": "Jede dieser Städte war von Weideland umgeben.",
+    "h": "",
+    "o": 34,
+    "l": "42"
+  },
+  {
+    "id": "6021035",
+    "b": 6,
+    "c": 21,
+    "v": 43,
+    "t": "So gab der HERR den Israeliten das ganze Land, wie er es ihren Vorfahren versprochen hatte. Sie nahmen es in Besitz und wohnten darin.",
+    "h": "Gott hat Wort gehalten",
+    "o": 35,
+    "l": "43"
+  },
+  {
+    "id": "6021036",
+    "b": 6,
+    "c": 21,
+    "v": 44,
+    "t": "Der HERR hielt sein Wort und sorgte dafür, dass sie in Ruhe und Frieden leben konnten. Mit seiner Hilfe hatten die Israeliten alle Feinde besiegt.",
+    "h": "",
+    "o": 36,
+    "l": "44"
+  },
+  {
+    "id": "6021037",
+    "b": 6,
+    "c": 21,
+    "v": 45,
+    "t": "Kein Versprechen des HERRN blieb unerfüllt – alles war eingetroffen!",
+    "h": "",
+    "o": 37,
+    "l": "45"
+  },
+  {
+    "id": "6022001",
+    "b": 6,
+    "c": 22,
+    "v": 1,
+    "t": "Josua rief die Männer von Ruben, Gad und dem halben Stamm Manasse zu sich",
+    "h": "Die Oststämme dürfen nach Hause zurückkehren",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "6022002",
+    "b": 6,
+    "c": 22,
+    "v": 2,
+    "t": "und sagte zu ihnen: »Ihr habt alles getan, was euch Mose, der Diener des HERRN, befohlen hat, und auch mir seid ihr immer gehorsam gewesen.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "6022003",
+    "b": 6,
+    "c": 22,
+    "v": 3,
+    "t": "Bis heute habt ihr eure Bruderstämme nicht im Stich gelassen. Während dieser langen Zeit habt ihr genau das getan, was der HERR von euch wollte.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "6022004",
+    "b": 6,
+    "c": 22,
+    "v": 4,
+    "t": "Der HERR, euer Gott, hat euren Bruderstämmen das versprochene Land gegeben, in dem sie jetzt in Frieden leben. Kehrt nun zurück in euer eigenes Land auf der anderen Seite des Jordan, das euch Mose, der Diener des HERRN, dort gegeben hat.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "6022005",
+    "b": 6,
+    "c": 22,
+    "v": 5,
+    "t": "Aber achtet darauf, dass ihr tut, was euch Mose im Auftrag des HERRN befohlen hat: Liebt den HERRN, euren Gott! Lebt so, wie es ihm gefällt, und richtet euch nach seinen Geboten! Haltet ihm die Treue und dient ihm aufrichtig und von ganzem Herzen!«",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "6022006",
+    "b": 6,
+    "c": 22,
+    "v": 6,
+    "t": "Dann segnete Josua die Männer, und sie machten sich auf den Heimweg.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "6022007",
+    "b": 6,
+    "c": 22,
+    "v": 7,
+    "t": "Die eine Hälfte des Stammes Manasse hatte von Mose östlich des Jordan im Land Baschan ihr Gebiet bekommen. Die andere Hälfte Manasses erhielt von Josua westlich des Jordan ihr Land, wo sich auch die übrigen neun Stämme niedergelassen hatten. Als Josua die Männer nun entließ, segnete er sie",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "6022008",
+    "b": 6,
+    "c": 22,
+    "v": 8,
+    "t": "und sagte: »Ihr kommt mit reichen Schätzen nach Hause: mit großen Viehherden, mit Gold und Silber, Bronze und Eisen und mit vielen Kleidern. Teilt diese Kriegsbeute mit denen, die zu Hause geblieben sind!«",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "6022009",
+    "b": 6,
+    "c": 22,
+    "v": 9,
+    "t": "Die Männer von Ruben, Gad und dem halben Stamm Manasse verließen die übrigen Israeliten bei Silo im Land Kanaan und zogen in Richtung des Landes Gilead, das östlich des Jordan liegt. Dort besaßen sie ihre eigenen Gebiete, in denen sich ihre Stämme angesiedelt hatten, wie es der HERR durch Mose befohlen hatte.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "6022010",
+    "b": 6,
+    "c": 22,
+    "v": 10,
+    "t": "Als die Männer das Westufer des Jordan, das noch im Land Kanaan lag, erreichten, bauten sie dort einen großen Altar.",
+    "h": "Die Oststämme bauen einen Altar",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "6022011",
+    "b": 6,
+    "c": 22,
+    "v": 11,
+    "t": "Bald schon verbreitete sich unter den übrigen Israeliten die Nachricht: »Die Stämme Ruben, Gad und der halbe Stamm Manasse haben sich doch tatsächlich unten im Jordantal einen Altar errichtet; er steht noch auf der Seite, die zu unserem Land gehört!«",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "6022012",
+    "b": 6,
+    "c": 22,
+    "v": 12,
+    "t": "Da versammelten sie sich in Silo, um gemeinsam gegen die Oststämme Krieg zu führen.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "6022013",
+    "b": 6,
+    "c": 22,
+    "v": 13,
+    "t": "Sie schickten Pinhas, den Sohn des Priesters Eleasar, ins Land Gilead zu den Stämmen Ruben, Gad und Manasse.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "6022014",
+    "b": 6,
+    "c": 22,
+    "v": 14,
+    "t": "Ihn begleiteten zehn Männer, aus jedem der zehn Stämme einer. Jeder von ihnen war das Oberhaupt einer ganzen Sippe.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "6022015",
+    "b": 6,
+    "c": 22,
+    "v": 15,
+    "t": "In Gilead angekommen, stellten sie die Oststämme zur Rede:",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "6022016",
+    "b": 6,
+    "c": 22,
+    "v": 16,
+    "t": "»Die ganze Gemeinde des HERRN fragt euch, warum ihr dem Gott Israels die Treue gebrochen habt. Warum wendet ihr euch vom HERRN ab? Was für einen Altar habt ihr euch da gebaut? Wollt ihr euch damit etwa gegen den HERRN auflehnen?",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "6022017",
+    "b": 6,
+    "c": 22,
+    "v": 17,
+    "t": "Reicht es denn nicht, dass wir uns damals mit dem Götzen Peor schuldig gemacht haben? Der HERR hat unser Volk deswegen schon schwer bestraft, wir leiden bis heute noch unter den Folgen!",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "6022018",
+    "b": 6,
+    "c": 22,
+    "v": 18,
+    "t": "Und was tut ihr? Ihr wendet euch schon wieder vom HERRN ab! Wenn ihr euch gegen ihn auflehnt, wird sich sein Zorn bald gegen die ganze Gemeinschaft der Israeliten richten!",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "6022019",
+    "b": 6,
+    "c": 22,
+    "v": 19,
+    "t": "Wenn ihr meint, dass euer Land unrein ist, dann kommt doch zu uns herüber! Siedelt euch bei uns an in dem Land, das dem HERRN gehört und wo sein heiliges Zelt steht. Nur lehnt euch nicht gegen den HERRN auf! Und auch nicht gegen uns! Ihr dürft keinen anderen Altar haben als den des HERRN, unseres Gottes.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "6022020",
+    "b": 6,
+    "c": 22,
+    "v": 20,
+    "t": "Denkt daran, was mit Achan, dem Sohn von Serach, geschah! Als er etwas von der Beute stahl, die dem Herrn allein gehörte, da bestrafte Gott die ganze Gemeinschaft der Israeliten. Achans Sünde hat nicht nur ihn selbst, sondern auch viele andere das Leben gekostet!«",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "6022021",
+    "b": 6,
+    "c": 22,
+    "v": 21,
+    "t": "Die Männer von Ruben, Gad und dem halben Stamm Manasse antworteten den Abgesandten der Israeliten:",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "6022022",
+    "b": 6,
+    "c": 22,
+    "v": 22,
+    "t": "»Gott, der HERR, ist der einzige und wahre Gott! Er weiß es, und Israel soll es auch wissen: Wir sind dem HERRN nicht untreu geworden und lehnen uns nicht gegen ihn auf! Das schwören wir! Wenn wir lügen, dann tötet uns !",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "6022023",
+    "b": 6,
+    "c": 22,
+    "v": 23,
+    "t": "Wir haben den Altar nicht gebaut, um uns vom HERRN abzuwenden. Wir wollten auf ihm keine Opfer darbringen, weder Brandopfer noch Speiseopfer noch Friedensopfer. Sagen wir nicht die Wahrheit, dann soll der HERR uns zur Rechenschaft ziehen.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "6022024",
+    "b": 6,
+    "c": 22,
+    "v": 24,
+    "t": "Aber es ist wahr: Wir haben es aus Sorge um unsere Nachkommen getan. Wir fürchteten, eure Kinder würden eines Tages unsere Kinder fragen: ›Was habt ihr Rubeniter und Gaditer denn schon mit dem HERRN, dem Gott Israels, zu schaffen?",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "6022025",
+    "b": 6,
+    "c": 22,
+    "v": 25,
+    "t": "Schließlich hat er den Jordan als Grenze zwischen uns und euch gesetzt! Ihr habt keinen Anspruch darauf, dem HERRN zu dienen!‹ So würden eure Nachkommen unsere davon abbringen, den HERRN zu verehren.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "6022026",
+    "b": 6,
+    "c": 22,
+    "v": 26,
+    "t": "Darum haben wir diesen Altar gebaut. Nicht für Brandopfer oder Schlachtopfer,",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "6022027",
+    "b": 6,
+    "c": 22,
+    "v": 27,
+    "t": "sondern als Denkmal für uns und für euch und die Generationen nach uns. Er soll uns daran erinnern, dem HERRN zu dienen und vor seinem Heiligtum unsere Opfer darzubringen: Brandopfer, Schlachtopfer und Friedensopfer. Dann können eure Nachkommen nicht zu unseren sagen: ›Ihr dürft dem HERRN nicht dienen.‹",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "6022028",
+    "b": 6,
+    "c": 22,
+    "v": 28,
+    "t": "Und wenn sie es eines Tages doch einmal behaupten, dann können unsere Kinder sagen: ›Seht euch diese Nachbildung vom Altar des HERRN an! Unsere Väter haben sie gemacht, nicht für Brand- oder Schlachtopfer, sondern um uns und euch daran zu erinnern, dass wir gemeinsam dem HERRN dienen sollen.‹",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "6022029",
+    "b": 6,
+    "c": 22,
+    "v": 29,
+    "t": "Niemals soll es so weit kommen, dass wir uns gegen den HERRN auflehnen und ihm den Rücken kehren. Wir haben den Altar nicht für Brandopfer, Speiseopfer oder Schlachtopfer gebaut. Nur auf dem Altar vor dem heiligen Zelt des HERRN, unseres Gottes, wollen wir unsere Opfer darbringen.«",
+    "h": "",
+    "o": 29,
+    "l": "29"
+  },
+  {
+    "id": "6022030",
+    "b": 6,
+    "c": 22,
+    "v": 30,
+    "t": "Als der Priester Pinhas und die Sippenoberhäupter, die als Leiter der israelitischen Gemeinde nach Gilead gekommen waren, hörten, was die Männer von Ruben, Gad und dem halben Stamm Manasse vorbrachten, waren sie beruhigt.",
+    "h": "",
+    "o": 30,
+    "l": "30"
+  },
+  {
+    "id": "6022031",
+    "b": 6,
+    "c": 22,
+    "v": 31,
+    "t": "Pinhas, der Sohn des Priesters Eleasar, sagte zu den Oststämmen: »Nun wissen wir, dass der HERR weiter in unserer Mitte bleibt, denn ihr habt ihm nicht die Treue gebrochen. Ihr habt die Israeliten vor der Strafe des HERRN bewahrt.«",
+    "h": "",
+    "o": 31,
+    "l": "31"
+  },
+  {
+    "id": "6022032",
+    "b": 6,
+    "c": 22,
+    "v": 32,
+    "t": "Dann ließen Pinhas und die israelitischen Führer die Stämme Ruben, Gad und den halben Stamm Manasse im Land Gilead zurück und machten sich auf den Weg ins Land Kanaan. Dort erzählten sie, was geschehen war.",
+    "h": "",
+    "o": 32,
+    "l": "32"
+  },
+  {
+    "id": "6022033",
+    "b": 6,
+    "c": 22,
+    "v": 33,
+    "t": "Die Israeliten freuten sich und lobten Gott. Sie wollten nun nicht mehr in den Krieg ziehen, um das Land der Oststämme zu verwüsten.",
+    "h": "",
+    "o": 33,
+    "l": "33"
+  },
+  {
+    "id": "6022034",
+    "b": 6,
+    "c": 22,
+    "v": 34,
+    "t": "Die Rubeniter und Gaditer nannten den Altar »Zeuge«, weil er allen Stämmen im Westen und im Osten bezeugen sollte, dass der HERR Gott ist.",
+    "h": "",
+    "o": 34,
+    "l": "34"
+  },
+  {
+    "id": "6023001",
+    "b": 6,
+    "c": 23,
+    "v": 1,
+    "t": "Seit langer Zeit lebten die Israeliten nun in Ruhe und Frieden. Der HERR sorgte dafür, dass die Völker ringsum sie nicht bedrohten. Josua war inzwischen sehr alt geworden.",
+    "h": "Josuas Abschiedsreden\n(Kapitel 23–24)\nJosuas letzte Mahnungen an die führenden Männer Israels",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "6023002",
+    "b": 6,
+    "c": 23,
+    "v": 2,
+    "t": "Eines Tages rief er die führenden Männer Israels, die Sippenoberhäupter, die Richter und Beamten zusammen. Er sagte zu ihnen: »Ich bin schon sehr alt und werde bald sterben.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "6023003",
+    "b": 6,
+    "c": 23,
+    "v": 3,
+    "t": "Ihr habt mit eigenen Augen gesehen, was der HERR mit allen Völkern in dieser Gegend gemacht hat. Er selbst, der HERR, euer Gott, hat für euch gekämpft, und das tut er bis heute.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "6023004",
+    "b": 6,
+    "c": 23,
+    "v": 4,
+    "t": "Erinnert euch nur, wie ich das Land zwischen dem Jordan im Osten und dem Mittelmeer im Westen euren Stämmen durch das Los zugeteilt habe. Viele Völker habe ich hier besiegt. Einige sind zwar noch übrig geblieben,",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "6023005",
+    "b": 6,
+    "c": 23,
+    "v": 5,
+    "t": "doch der HERR, euer Gott, wird auch sie verstoßen und vertreiben. Ihr werdet ihr Land in Besitz nehmen, wie er es versprochen hat.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "6023006",
+    "b": 6,
+    "c": 23,
+    "v": 6,
+    "t": "Seid fest entschlossen, alles zu befolgen, was im Gesetzbuch von Mose aufgeschrieben ist! Weicht kein Stück davon ab!",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "6023007",
+    "b": 6,
+    "c": 23,
+    "v": 7,
+    "t": "Vermischt euch nicht mit den Völkern, die noch in eurem Land wohnen! Nehmt die Namen ihrer Götter nicht in den Mund und schwört nicht bei ihnen! Dient ihnen nicht und betet sie nicht an!",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "6023008",
+    "b": 6,
+    "c": 23,
+    "v": 8,
+    "t": "Haltet dem HERRN, eurem Gott, die Treue, wie ihr es bis heute getan habt.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "6023009",
+    "b": 6,
+    "c": 23,
+    "v": 9,
+    "t": "Der HERR hat große und mächtige Völker euretwegen vertrieben. Niemand konnte euch standhalten.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "6023010",
+    "b": 6,
+    "c": 23,
+    "v": 10,
+    "t": "Ein Einziger von euch verjagt tausend Feinde! Denn der HERR, euer Gott, kämpft selbst für euch, wie er es versprochen hat.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "6023011",
+    "b": 6,
+    "c": 23,
+    "v": 11,
+    "t": "Liebt den HERRN, euren Gott, bemüht euch immer wieder darum, denn es geht um euer Leben!",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "6023012",
+    "b": 6,
+    "c": 23,
+    "v": 12,
+    "t": "Wenn ihr euch von ihm abwendet und euch mit den Völkern einlasst, die noch in eurem Land sind, wenn ihr euch mit ihnen verheiratet und vermischt,",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "6023013",
+    "b": 6,
+    "c": 23,
+    "v": 13,
+    "t": "dann wird der HERR, euer Gott, diese Völker ganz gewiss nicht mehr aus eurem Land vertreiben. Dann werden sie für euch zum Fallstrick. Sie werden euch quälen wie Peitschenhiebe und wie Dornenzweige, die man euch ins Gesicht schlägt. Am Ende wird keiner von euch in diesem guten Land bleiben, das der HERR, euer Gott, euch gegeben hat.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "6023014",
+    "b": 6,
+    "c": 23,
+    "v": 14,
+    "t": "Bald werde ich sterben, denn jedes Leben geht einmal zu Ende. Dann nehmt euch zu Herzen, was ihr erlebt habt, und denkt immer daran: Kein Versprechen des HERRN, eures Gottes, blieb unerfüllt – alles ist eingetroffen!",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "6023015",
+    "b": 6,
+    "c": 23,
+    "v": 15,
+    "t": "Aber genau so, wie der HERR, euer Gott, jedes Versprechen gehalten hat, so wird er auch jede Drohung wahr machen, wenn ihr den Bund brecht, den er mit euch geschlossen hat. Wenn ihr anderen Göttern dient und sie anbetet, dann wird sich der HERR voller Zorn gegen euch wenden und euch bald aus dem guten Land vertreiben, das er euch gegeben hat.«",
+    "h": "",
+    "o": 15,
+    "l": "15-16"
+  },
+  {
+    "id": "6024001",
+    "b": 6,
+    "c": 24,
+    "v": 1,
+    "t": "Josua versammelte alle Stämme Israels bei Sichem. Er rief die führenden Männer zu sich, die Sippenoberhäupter, die Richter und die Beamten. Gemeinsam traten sie vor Gott.",
+    "h": "Josua erneuert den Bund zwischen Gott und Israel",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "6024002",
+    "b": 6,
+    "c": 24,
+    "v": 2,
+    "t": "Dann redete Josua zum Volk: »So spricht der HERR, der Gott Israels: Vor langer Zeit lebten eure Vorfahren auf der anderen Seite des Euphrat: Terach mit seinen Söhnen Abraham und Nahor. Sie verehrten dort andere Götter.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "6024003",
+    "b": 6,
+    "c": 24,
+    "v": 3,
+    "t": "Ich brachte euren Stammvater Abraham aus dem Land jenseits des Euphrat hierher und ließ ihn durch ganz Kanaan ziehen. Ich schenkte ihm viele Nachkommen; ich gab ihm Isaak,",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "6024004",
+    "b": 6,
+    "c": 24,
+    "v": 4,
+    "t": "und Isaak gab ich Jakob und Esau. Esau erhielt das Gebirge Seïr, und Jakob siedelte sich mit seinen Söhnen in Ägypten an.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "6024005",
+    "b": 6,
+    "c": 24,
+    "v": 5,
+    "t": "Später sandte ich ihnen Mose und Aaron und strafte das Land Ägypten mit schweren Plagen. Ich führte euer Volk in die Freiheit",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "6024006",
+    "b": 6,
+    "c": 24,
+    "v": 6,
+    "t": "und brachte es von Ägypten bis zum Schilfmeer. Die Ägypter aber verfolgten es mit Kriegswagen und Reitern.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "6024007",
+    "b": 6,
+    "c": 24,
+    "v": 7,
+    "t": "Eure Väter schrien zu mir um Hilfe. Da ließ ich zwischen ihnen und ihren Verfolgern Dunkelheit hereinbrechen. Die Ägypter jagten ihnen nach bis ins Schilfmeer, und dort ließ ich sie in den Wellen untergehen. Mit eigenen Augen haben eure Vorfahren gesehen, wie ich die Ägypter bestrafte! Danach habt ihr lange Zeit in der Wüste gelebt,",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "6024008",
+    "b": 6,
+    "c": 24,
+    "v": 8,
+    "t": "bis ich euch in das Land der Amoriter östlich des Jordan brachte. Sie kämpften gegen euch, und ich gab sie in eure Gewalt. Überall, wo ihr hinzogt, vernichtete ich sie und überließ euch ihr Land.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "6024009",
+    "b": 6,
+    "c": 24,
+    "v": 9,
+    "t": "Auch der Moabiterkönig Balak, Zippors Sohn, stellte sich euch in den Weg. Er ließ Bileam, den Sohn von Beor, rufen, um euch zu verfluchen.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "6024010",
+    "b": 6,
+    "c": 24,
+    "v": 10,
+    "t": "Aber ich wollte nicht auf Bileam hören, darum musste er euch segnen, und ich bewahrte euch vor den Moabitern.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "6024011",
+    "b": 6,
+    "c": 24,
+    "v": 11,
+    "t": "Dann habt ihr den Jordan durchquert und seid nach Jericho gekommen. Die Einwohner dieser Stadt führten Krieg gegen euch, ebenso die anderen Völker des Landes: die Amoriter, Perisiter, Kanaaniter, Hetiter, Girgaschiter, Hiwiter und Jebusiter. Sie alle gab ich in eure Gewalt.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "6024012",
+    "b": 6,
+    "c": 24,
+    "v": 12,
+    "t": "Ich schickte Hornissenschwärme vor euch her, so dass die beiden Amoriterkönige voller Entsetzen die Flucht ergriffen. Den Sieg verdankt ihr nicht euren Schwertern und Bogen, sondern allein mir.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "6024013",
+    "b": 6,
+    "c": 24,
+    "v": 13,
+    "t": "Ich gab euch ein Land, das ihr nicht mehr urbar machen musstet, und Städte, die ihr nicht erbaut habt. Ihr esst die Früchte von Weinbergen und Ölbäumen, die ihr nicht gepflanzt habt.«",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "6024014",
+    "b": 6,
+    "c": 24,
+    "v": 14,
+    "t": "Josua fuhr fort: »Deshalb habt Ehrfurcht vor dem HERRN ! Dient ihm aufrichtig und mit ganzer Hingabe! Trennt euch von den Göttern, die eure Vorfahren jenseits des Euphrat und in Ägypten verehrt haben. Dient allein dem HERRN !",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "6024015",
+    "b": 6,
+    "c": 24,
+    "v": 15,
+    "t": "Wenn es euch aber nicht gefällt, dem HERRN zu dienen, dann entscheidet euch heute, wem ihr gehören wollt: den Göttern, die eure Vorfahren jenseits des Euphrat verehrt haben, oder den Göttern der Amoriter, in deren Land ihr lebt. Ich aber und meine Familie, wir wollen dem HERRN dienen.«",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "6024016",
+    "b": 6,
+    "c": 24,
+    "v": 16,
+    "t": "Da antwortete das Volk: »Niemals wollen wir den HERRN verlassen und anderen Göttern dienen!",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "6024017",
+    "b": 6,
+    "c": 24,
+    "v": 17,
+    "t": "Denn der HERR, unser Gott, war es, der unsere Väter aus der Sklaverei in Ägypten befreit hat. Er hat große Wunder vor den Augen unseres Volkes vollbracht. Er hat uns auf dem ganzen Weg beschützt, als wir die Gebiete vieler Völker durchqueren mussten.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "6024018",
+    "b": 6,
+    "c": 24,
+    "v": 18,
+    "t": "Der HERR war es, der die Amoriter und alle anderen Völker vertrieben hat, die hier früher gelebt haben. Auch wir wollen ihm dienen: Der HERR ist unser Gott!«",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "6024019",
+    "b": 6,
+    "c": 24,
+    "v": 19,
+    "t": "Josua erwiderte: »Meint ihr wirklich, ihr könnt dem HERRN dienen? Täuscht euch nicht: Er ist ein heiliger und leidenschaftlicher Gott, der keinen neben sich duldet. Er wird euch nicht vergeben, wenn ihr ihm untreu werdet und gegen ihn sündigt!",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "6024020",
+    "b": 6,
+    "c": 24,
+    "v": 20,
+    "t": "Wenn ihr den HERRN verlasst und fremden Göttern dient, wird er sich gegen euch wenden. Er wird euch Böses antun und euch vernichten, obwohl er euch vorher Gutes erwiesen hat.«",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "6024021",
+    "b": 6,
+    "c": 24,
+    "v": 21,
+    "t": "Da sagte das Volk: »Wir wollen trotzdem dem HERRN dienen!«",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "6024022",
+    "b": 6,
+    "c": 24,
+    "v": 22,
+    "t": "Josua antwortete: »Ihr selbst seid Zeugen dafür, dass ihr euch für den HERRN entschieden habt und ihm gehören wollt.« Sie riefen: »Ja, wir sind Zeugen!«",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "6024023",
+    "b": 6,
+    "c": 24,
+    "v": 23,
+    "t": "Da forderte Josua sie auf: »Werft alle Götzenfiguren weg, die ihr noch besitzt. Wendet euch von ganzem Herzen dem HERRN, dem Gott Israels, zu!«",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "6024024",
+    "b": 6,
+    "c": 24,
+    "v": 24,
+    "t": "Das Volk antwortete: »Wir wollen dem HERRN, unserem Gott, dienen und auf ihn hören!«",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "6024025",
+    "b": 6,
+    "c": 24,
+    "v": 25,
+    "t": "Da erneuerte Josua noch am selben Tag in Sichem den Bund zwischen Gott und den Israeliten. Er gab ihnen die Gebote und Rechtsbestimmungen",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "6024026",
+    "b": 6,
+    "c": 24,
+    "v": 26,
+    "t": "und schrieb alles im Buch des Gesetzes Gottes auf. Dann nahm er einen großen Stein und richtete ihn unter der Eiche beim Heiligtum des HERRN auf.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "6024027",
+    "b": 6,
+    "c": 24,
+    "v": 27,
+    "t": "Josua rief dem Volk zu: »Seht diesen Stein! Er ist Zeuge! Denn er hat alles gehört, was der HERR zu uns gesagt hat. Er soll euch mahnen, euren Gott nicht zu verleugnen.«",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "6024028",
+    "b": 6,
+    "c": 24,
+    "v": 28,
+    "t": "Dann schickte Josua das Volk nach Hause, jeden in sein Gebiet.",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "6024029",
+    "b": 6,
+    "c": 24,
+    "v": 29,
+    "t": "Einige Zeit später starb Josua, der Sohn von Nun, der Diener des HERRN. Er wurde 110 Jahre alt.",
+    "h": "Josua und Eleasar sterben",
+    "o": 29,
+    "l": "29"
+  },
+  {
+    "id": "6024030",
+    "b": 6,
+    "c": 24,
+    "v": 30,
+    "t": "Man begrub ihn auf dem Grundstück, das ihm und seinen Nachkommen gehören sollte; es lag in Timnat-Serach nördlich des Berges Gaasch im Gebirge Ephraim.",
+    "h": "",
+    "o": 30,
+    "l": "30"
+  },
+  {
+    "id": "6024031",
+    "b": 6,
+    "c": 24,
+    "v": 31,
+    "t": "Israel blieb dem HERRN treu, solange Josua und nach ihm die führenden Männer des Volkes lebten, die noch alles mit eigenen Augen gesehen hatten, was der HERR für Israel getan hatte.",
+    "h": "",
+    "o": 31,
+    "l": "31"
+  },
+  {
+    "id": "6024032",
+    "b": 6,
+    "c": 24,
+    "v": 32,
+    "t": "Die Israeliten begruben auch Josefs Gebeine, die sie aus Ägypten mitgeführt hatten. Man bestattete sie im Gebiet des Stammes Josef bei Sichem, auf dem Feld, das Jakob von den Nachkommen Hamors, des Vaters von Sichem, für 100 Silberstücke gekauft hatte.",
+    "h": "",
+    "o": 32,
+    "l": "32"
+  },
+  {
+    "id": "6024033",
+    "b": 6,
+    "c": 24,
+    "v": 33,
+    "t": "Auch Eleasar, der Sohn von Aaron, starb. Er wurde in der Stadt Gibea beigesetzt, die seinem Sohn Pinhas im Gebirge Ephraim gehörte.",
+    "h": "",
+    "o": 33,
+    "l": "33"
+  }
+]

@@ -1,0 +1,1542 @@
+[
+  {
+    "id": "49001001",
+    "b": 49,
+    "c": 1,
+    "v": 1,
+    "t": "Paulus, ein Apostel von Jesus Christus, durch Gott berufen, schreibt diesen Brief an alle in Ephesus, die durch den Glauben mit Jesus Christus verbunden sind und ganz zu Gott gehören.",
+    "h": "Gottes Plan zur Erlösung und das neue Leben der Christen\n(Kapitel 1–2)\nAnschrift und Gruß",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "49001002",
+    "b": 49,
+    "c": 1,
+    "v": 2,
+    "t": "Ich wünsche euch Gnade und Frieden von Gott, unserem Vater, und von Jesus Christus, unserem Herrn.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "49001003",
+    "b": 49,
+    "c": 1,
+    "v": 3,
+    "t": "Gelobt sei Gott, der Vater unseres Herrn Jesus Christus! Er hat uns mit seinem Geist reich beschenkt und uns durch Christus Zugang zu seiner himmlischen Welt gewährt.",
+    "h": "Dank für Gottes Erlösung",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "49001004",
+    "b": 49,
+    "c": 1,
+    "v": 4,
+    "t": "Schon vor Beginn der Welt, von allem Anfang an, hat Gott uns, die wir mit Christus verbunden sind, auserwählt. Er wollte, dass wir zu ihm gehören und in seiner Gegenwart leben, und zwar befreit von aller Sünde und Schuld. Aus Liebe zu uns",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "49001005",
+    "b": 49,
+    "c": 1,
+    "v": 5,
+    "t": "hat er schon damals beschlossen, dass wir durch Jesus Christus seine eigenen Kinder werden sollten. Dies war sein Plan, und so gefiel es ihm.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "49001006",
+    "b": 49,
+    "c": 1,
+    "v": 6,
+    "t": "Mit all dem sollte Gottes herrliche, unverdiente Güte gepriesen werden, die wir durch seinen geliebten Sohn erfahren haben.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "49001007",
+    "b": 49,
+    "c": 1,
+    "v": 7,
+    "t": "Durch Christus, der sein Blut am Kreuz vergossen hat, sind wir erlöst, sind unsere Sünden vergeben. Und das verdanken wir allein Gottes unermesslich großer Gnade.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "49001008",
+    "b": 49,
+    "c": 1,
+    "v": 8,
+    "t": "Ja, in seiner Liebe hat er uns überreich beschenkt: Er hat uns mit Weisheit erfüllt und uns seinen Willen erkennen lassen.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "49001009",
+    "b": 49,
+    "c": 1,
+    "v": 9,
+    "t": "Sein Plan für diese Welt war bis dahin verborgen, doch nun hat er ihn uns gezeigt. Durch Christus verwirklicht er ihn genau so, wie er es sich vorgenommen hat.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "49001010",
+    "b": 49,
+    "c": 1,
+    "v": 10,
+    "t": "So soll, wenn die Zeit dafür gekommen ist, alles im Himmel und auf der Erde unter der Herrschaft von Christus vereint werden.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "49001011",
+    "b": 49,
+    "c": 1,
+    "v": 11,
+    "t": "Weil wir nun zu Christus gehören, hat Gott uns als seine Erben eingesetzt; so entsprach es von Anfang an seinem Willen. Und was Gott einmal beschlossen hat, das führt er auch aus.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "49001012",
+    "b": 49,
+    "c": 1,
+    "v": 12,
+    "t": "Jetzt sollen wir mit unserem Leben Gottes Herrlichkeit für alle sichtbar machen, wir, die wir schon lange auf unseren Retter gewartet haben.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "49001013",
+    "b": 49,
+    "c": 1,
+    "v": 13,
+    "t": "Durch eure Verbindung mit Christus gelten diese Zusagen auch für euch, die ihr erst jetzt das Wort der Wahrheit gehört habt, die gute Botschaft von eurer Rettung. Nachdem ihr diese Botschaft im Glauben angenommen habt, gehört ihr nun Gott. Er hat euch sein Siegel aufgedrückt, als er euch den Heiligen Geist schenkte, den er jedem Glaubenden zugesagt hat.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "49001014",
+    "b": 49,
+    "c": 1,
+    "v": 14,
+    "t": "Ihn hat Gott uns als ersten Anteil an unserem himmlischen Erbe gegeben, und dieser Geist verbürgt uns das vollständige Erbe, die vollkommene Erlösung. Dann werden wir Gott in seiner Herrlichkeit loben und preisen.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "49001015",
+    "b": 49,
+    "c": 1,
+    "v": 15,
+    "t": "Das ist auch der Grund, warum ich mich so über euch freue. Seitdem ich von eurem Glauben an den Herrn Jesus und von eurer Liebe zu allen Christen erfahren habe,",
+    "h": "Christus, der Herr über alles",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "49001016",
+    "b": 49,
+    "c": 1,
+    "v": 16,
+    "t": "höre ich nicht auf, Gott dafür zu danken. Jedes Mal wenn ich bete, denke ich auch an euch.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "49001017",
+    "b": 49,
+    "c": 1,
+    "v": 17,
+    "t": "Ihn, den Gott unseres Herrn Jesus Christus, den Vater, dem alle Herrlichkeit gehört, bitte ich darum, euch durch seinen Geist Weisheit und Einblick zu geben, so dass ihr ihn und seinen Plan immer besser erkennt.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "49001018",
+    "b": 49,
+    "c": 1,
+    "v": 18,
+    "t": "Er öffne euch die Augen, damit ihr seht, wozu ihr berufen seid, worauf ihr hoffen könnt und welches unvorstellbar reiche Erbe auf alle wartet, die zu Gott gehören.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "49001019",
+    "b": 49,
+    "c": 1,
+    "v": 19,
+    "t": "Ihr sollt erfahren, mit welcher unermesslich großen Kraft Gott in uns, den Glaubenden, wirkt. Ist es doch dieselbe gewaltige Kraft,",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "49001020",
+    "b": 49,
+    "c": 1,
+    "v": 20,
+    "t": "mit der er am Werk war, als er Christus von den Toten auferweckte und ihm in der himmlischen Welt den Ehrenplatz an seiner rechten Seite gab!",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "49001021",
+    "b": 49,
+    "c": 1,
+    "v": 21,
+    "t": "Mit ihr hat Gott ihn zum Herrscher eingesetzt über alle Mächte und Gewalten, über alle Kräfte und Herrschaften, ja, über alles, was Rang und Namen hat in dieser und in der zukünftigen Welt.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "49001022",
+    "b": 49,
+    "c": 1,
+    "v": 22,
+    "t": "Alles hat Gott ihm zu Füßen gelegt und ihn, den höchsten Herrn, zum Haupt seiner Gemeinde gemacht.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "49001023",
+    "b": 49,
+    "c": 1,
+    "v": 23,
+    "t": "Sie ist sein Leib: Der Schöpfer und Vollender aller Dinge lebt in ihr mit seiner ganzen Fülle.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "49002001",
+    "b": 49,
+    "c": 2,
+    "v": 1,
+    "t": "Aber wie sah euer Leben früher aus? Ihr wart Gott ungehorsam und wolltet von ihm nichts wissen. In seinen Augen wart ihr tot.",
+    "h": "Das neue Leben",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "49002002",
+    "b": 49,
+    "c": 2,
+    "v": 2,
+    "t": "Ihr habt gelebt, wie es in dieser Welt üblich ist, und wart dem Satan verfallen, der seine Macht ausübt zwischen Himmel und Erde. Sein böser Geist beherrscht auch heute noch das Leben aller Menschen, die Gott nicht gehorchen.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "49002003",
+    "b": 49,
+    "c": 2,
+    "v": 3,
+    "t": "Zu ihnen haben wir früher auch gehört, damals, als wir eigensüchtig unser Leben selbst bestimmen wollten. Wir haben den Leidenschaften und Verlockungen unserer alten Natur nachgegeben, und wie alle anderen Menschen waren wir dem Zorn Gottes ausgeliefert.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "49002004",
+    "b": 49,
+    "c": 2,
+    "v": 4,
+    "t": "Aber Gottes Barmherzigkeit ist groß. Wegen unserer Sünden waren wir in Gottes Augen tot. Doch er hat uns so sehr geliebt, dass er uns mit Christus neues Leben schenkte. Denkt immer daran: Diese Rettung verdankt ihr allein der Gnade Gottes.",
+    "h": "",
+    "o": 4,
+    "l": "4-5"
+  },
+  {
+    "id": "49002005",
+    "b": 49,
+    "c": 2,
+    "v": 6,
+    "t": "Er hat uns mit Christus vom Tod auferweckt, und durch die Verbindung mit Christus haben wir schon jetzt unseren Platz in der himmlischen Welt erhalten.",
+    "h": "",
+    "o": 5,
+    "l": "6"
+  },
+  {
+    "id": "49002006",
+    "b": 49,
+    "c": 2,
+    "v": 7,
+    "t": "So will Gott in seiner Liebe, die er uns in Jesus Christus erwiesen hat, für alle Zeiten die überwältigende Größe seiner Gnade zeigen.",
+    "h": "",
+    "o": 6,
+    "l": "7"
+  },
+  {
+    "id": "49002007",
+    "b": 49,
+    "c": 2,
+    "v": 8,
+    "t": "Denn nur durch seine unverdiente Güte seid ihr vom Tod gerettet worden. Das ist geschehen, weil ihr an Jesus Christus glaubt. Es ist ein Geschenk Gottes und nicht euer eigenes Werk.",
+    "h": "",
+    "o": 7,
+    "l": "8"
+  },
+  {
+    "id": "49002008",
+    "b": 49,
+    "c": 2,
+    "v": 9,
+    "t": "Durch eigene Leistungen kann ein Mensch nichts dazu beitragen. Deshalb kann sich niemand etwas auf seine guten Taten einbilden.",
+    "h": "",
+    "o": 8,
+    "l": "9"
+  },
+  {
+    "id": "49002009",
+    "b": 49,
+    "c": 2,
+    "v": 10,
+    "t": "Was wir jetzt sind, ist allein Gottes Werk. Er hat uns durch Jesus Christus neu geschaffen, um Gutes zu tun. Damit erfüllen wir nun, was Gott schon im Voraus für uns vorbereitet hat.",
+    "h": "",
+    "o": 9,
+    "l": "10"
+  },
+  {
+    "id": "49002010",
+    "b": 49,
+    "c": 2,
+    "v": 11,
+    "t": "Vergesst nie, dass ihr früher verächtlich »Unbeschnittene« genannt wurdet, weil ihr zu den nichtjüdischen Völkern gehört. Die Juden wollten sich als »Beschnittene« von euch unterscheiden, obwohl ihre Beschneidung nur von Menschen durchgeführt wird.",
+    "h": "Versöhnt mit Gott und miteinander",
+    "o": 10,
+    "l": "11"
+  },
+  {
+    "id": "49002011",
+    "b": 49,
+    "c": 2,
+    "v": 12,
+    "t": "Ihr habt damals ohne Christus gelebt und wart ausgeschlossen von Israel, dem Volk Gottes. Darum galten für euch die Zusagen nicht, die Gott seinem Volk gab, als er seine Bündnisse mit ihnen schloss. Ohne jede Hoffnung und ohne Gott habt ihr in dieser Welt gelebt.",
+    "h": "",
+    "o": 11,
+    "l": "12"
+  },
+  {
+    "id": "49002012",
+    "b": 49,
+    "c": 2,
+    "v": 13,
+    "t": "Doch das ist vorbei! Jetzt gehört ihr zu Jesus Christus, der am Kreuz sein Blut für euch vergossen hat. Ihr seid Gott jetzt nahe, obwohl ihr vorher so weit von ihm entfernt lebtet.",
+    "h": "",
+    "o": 12,
+    "l": "13"
+  },
+  {
+    "id": "49002013",
+    "b": 49,
+    "c": 2,
+    "v": 14,
+    "t": "Durch Christus haben wir Frieden. Er hat Juden und Nichtjuden in seiner Gemeinde vereint, die Mauer zwischen ihnen niedergerissen und ihre Feindschaft beendet. Durch sein Sterben",
+    "h": "",
+    "o": 13,
+    "l": "14"
+  },
+  {
+    "id": "49002014",
+    "b": 49,
+    "c": 2,
+    "v": 15,
+    "t": "hat er das jüdische Gesetz mit seinen zahlreichen Geboten und Forderungen außer Kraft gesetzt. Durch Christus leben wir nicht länger voneinander getrennt, der eine als Jude, der andere als Nichtjude. Als Christen sind wir eins. So hat er zwischen uns Frieden gestiftet.",
+    "h": "",
+    "o": 14,
+    "l": "15"
+  },
+  {
+    "id": "49002015",
+    "b": 49,
+    "c": 2,
+    "v": 16,
+    "t": "Christus ist für alle Menschen am Kreuz gestorben, damit wir alle Frieden mit Gott haben. In seinem neuen Leib, der Gemeinde von Christus, können wir nun als Versöhnte miteinander leben.",
+    "h": "",
+    "o": 15,
+    "l": "16"
+  },
+  {
+    "id": "49002016",
+    "b": 49,
+    "c": 2,
+    "v": 17,
+    "t": "Christus ist gekommen und hat seine Friedensbotschaft allen gebracht: euch, die ihr fern von Gott lebtet, und allen, die nahe bei ihm waren.",
+    "h": "",
+    "o": 16,
+    "l": "17"
+  },
+  {
+    "id": "49002017",
+    "b": 49,
+    "c": 2,
+    "v": 18,
+    "t": "Durch Christus dürfen wir jetzt alle, Juden wie Nichtjuden, vereint in einem Geist zu Gott, dem Vater, kommen.",
+    "h": "",
+    "o": 17,
+    "l": "18"
+  },
+  {
+    "id": "49002018",
+    "b": 49,
+    "c": 2,
+    "v": 19,
+    "t": "So seid ihr nicht länger Fremde und Heimatlose; ihr gehört jetzt als Bürger zum Volk Gottes, ja sogar zu seiner Familie.",
+    "h": "",
+    "o": 18,
+    "l": "19"
+  },
+  {
+    "id": "49002019",
+    "b": 49,
+    "c": 2,
+    "v": 20,
+    "t": "Als Gemeinde von Jesus Christus steht ihr auf dem Fundament der Apostel und Propheten. Doch der Grundstein, der dieses Gebäude trägt und zusammenhält, ist Jesus Christus selbst.",
+    "h": "",
+    "o": 19,
+    "l": "20"
+  },
+  {
+    "id": "49002020",
+    "b": 49,
+    "c": 2,
+    "v": 21,
+    "t": "Durch ihn sind die Bauteile untereinander fest verbunden und wachsen zu einem Tempel des Herrn heran.",
+    "h": "",
+    "o": 20,
+    "l": "21"
+  },
+  {
+    "id": "49002021",
+    "b": 49,
+    "c": 2,
+    "v": 22,
+    "t": "Weil ihr zu Christus gehört, seid auch ihr ein Teil dieses Baus, in dem Gott durch seinen Geist wohnt.",
+    "h": "",
+    "o": 21,
+    "l": "22"
+  },
+  {
+    "id": "49003001",
+    "b": 49,
+    "c": 3,
+    "v": 1,
+    "t": "Weil ich, Paulus, euch Nichtjuden diese rettende Botschaft verkündete, bin ich nun im Gefängnis. Als Gefangener von Jesus Christus bete ich für euch.",
+    "h": "Die Gemeinde – durch Christus vereint\n(Kapitel 3–4)\nGottes Auftrag für Paulus",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "49003002",
+    "b": 49,
+    "c": 3,
+    "v": 2,
+    "t": "Sicher wisst ihr, dass Gott mir den Auftrag gegeben hat, gerade euch, den Menschen aus anderen Völkern, von seiner Gnade zu erzählen.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "49003003",
+    "b": 49,
+    "c": 3,
+    "v": 3,
+    "t": "Gott selbst hat mir dieses Geheimnis offenbart. Ich habe es eben schon kurz erwähnt,",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "49003004",
+    "b": 49,
+    "c": 3,
+    "v": 4,
+    "t": "und wenn ihr meinen Brief lest, werdet ihr merken: Gott hat mir tiefen Einblick in den geheimnisvollen Plan gegeben, den er durch Christus verwirklicht hat.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "49003005",
+    "b": 49,
+    "c": 3,
+    "v": 5,
+    "t": "Frühere Generationen wussten nichts von diesem Geheimnis; jetzt aber ist es seinen berufenen Aposteln und Propheten durch seinen Geist offenbart worden:",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "49003006",
+    "b": 49,
+    "c": 3,
+    "v": 6,
+    "t": "Dieses Geheimnis besteht nämlich darin, dass die nichtjüdischen Völker durch Christus zusammen mit den Juden Anteil bekommen an dem Erbe, das Gott uns versprochen hat; sie gehören zum Leib von Jesus Christus, zu seiner Gemeinde, und auch für sie gelten die Zusagen, die Gott seinem auserwählten Volk gab. Das alles bewirkt Gott durch die rettende Botschaft.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "49003007",
+    "b": 49,
+    "c": 3,
+    "v": 7,
+    "t": "Mein ganzes Leben steht im Dienst dieser Botschaft, sie will ich weitersagen, weil Gott mir in seiner großen Gnade den Auftrag dazu gegeben und seine Macht an mir erwiesen hat.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "49003008",
+    "b": 49,
+    "c": 3,
+    "v": 8,
+    "t": "Ausgerechnet ich, der geringste unter allen Christen, darf den anderen Völkern verkünden, welchen unermesslichen Reichtum Christus für jeden von uns bereithält.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "49003009",
+    "b": 49,
+    "c": 3,
+    "v": 9,
+    "t": "Allen darf ich erklären, was Gott, der das Weltall geschaffen hat, von Anfang an mit uns Menschen vorhatte und was bisher verborgen blieb.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "49003010",
+    "b": 49,
+    "c": 3,
+    "v": 10,
+    "t": "Jetzt sollen alle Mächte und Gewalten der himmlischen Welt an der Gemeinde die unerschöpfliche Weisheit Gottes erkennen.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "49003011",
+    "b": 49,
+    "c": 3,
+    "v": 11,
+    "t": "Alle sollen nun wissen, dass Gott seinen ewigen Plan durch unseren Herrn Jesus Christus verwirklicht hat.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "49003012",
+    "b": 49,
+    "c": 3,
+    "v": 12,
+    "t": "Jetzt können wir zu jeder Zeit furchtlos und voller Zuversicht zu Gott kommen, weil wir an ihn glauben.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "49003013",
+    "b": 49,
+    "c": 3,
+    "v": 13,
+    "t": "Darum bitte ich euch: Werdet durch meine Gefangenschaft nicht mutlos. Was ich hier erleide, kommt euch zugute. Ihr sollt an Gottes Herrlichkeit Anteil haben.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "49003014",
+    "b": 49,
+    "c": 3,
+    "v": 14,
+    "t": "Darum knie ich nieder vor Gott, dem Vater, und bete ihn an,",
+    "h": "Fürbitte und Anbetung",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "49003015",
+    "b": 49,
+    "c": 3,
+    "v": 15,
+    "t": "ihn, dem alle Geschöpfe im Himmel und auf der Erde ihr Leben verdanken und den sie als Vater zum Vorbild haben.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "49003016",
+    "b": 49,
+    "c": 3,
+    "v": 16,
+    "t": "Ich bitte Gott, euch aus seinem unerschöpflichen Reichtum Kraft zu schenken, damit ihr durch seinen Geist innerlich stark werdet.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "49003017",
+    "b": 49,
+    "c": 3,
+    "v": 17,
+    "t": "Mein Gebet ist, dass Christus durch den Glauben in euch lebt. In seiner Liebe sollt ihr fest verwurzelt sein; auf sie sollt ihr bauen.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "49003018",
+    "b": 49,
+    "c": 3,
+    "v": 18,
+    "t": "Denn nur so könnt ihr mit allen anderen Christen das ganze Ausmaß seiner Liebe erfahren.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "49003019",
+    "b": 49,
+    "c": 3,
+    "v": 19,
+    "t": "Ja, ich bete, dass ihr diese Liebe immer tiefer versteht, die wir doch mit unserem Verstand niemals ganz fassen können. Dann werdet ihr auch immer mehr mit dem ganzen Reichtum des Lebens erfüllt sein, der bei Gott zu finden ist.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "49003020",
+    "b": 49,
+    "c": 3,
+    "v": 20,
+    "t": "Gott aber kann viel mehr tun, als wir jemals von ihm erbitten oder uns auch nur vorstellen können. So groß ist seine Kraft, die in uns wirkt.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "49003021",
+    "b": 49,
+    "c": 3,
+    "v": 21,
+    "t": "Deshalb wollen wir ihn mit der ganzen Gemeinde durch Jesus Christus ewig und für alle Zeiten loben und preisen. Amen.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "49004001",
+    "b": 49,
+    "c": 4,
+    "v": 1,
+    "t": "Ihr wisst, dass ich für den Herrn im Gefängnis bin. Als sein Gefangener bitte ich euch nun: Lebt so, dass Gott dadurch geehrt wird; er hat euch ja berufen, seine Kinder zu sein.",
+    "h": "Die Einheit der Gemeinde und die Vielfalt der Aufgaben",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "49004002",
+    "b": 49,
+    "c": 4,
+    "v": 2,
+    "t": "Überhebt euch nicht über andere, seid freundlich und geduldig! Geht in Liebe aufeinander ein!",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "49004003",
+    "b": 49,
+    "c": 4,
+    "v": 3,
+    "t": "Setzt alles daran, dass die Einheit, wie sie der Geist Gottes schenkt, bestehen bleibt. Sein Friede verbindet euch miteinander.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "49004004",
+    "b": 49,
+    "c": 4,
+    "v": 4,
+    "t": "Gott hat uns in seine Gemeinde berufen. Darum sind wir ein Leib, und es ist ein Geist, der in uns wirkt. Uns erfüllt ein und dieselbe Hoffnung.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "49004005",
+    "b": 49,
+    "c": 4,
+    "v": 5,
+    "t": "Wir haben einen Herrn, einen Glauben und eine Taufe.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "49004006",
+    "b": 49,
+    "c": 4,
+    "v": 6,
+    "t": "Und wir haben einen Gott. Er ist unser Vater, der über allen steht, der durch alle und in allen wirkt.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "49004007",
+    "b": 49,
+    "c": 4,
+    "v": 7,
+    "t": "Jedem Einzelnen von uns aber hat Christus besondere Gaben geschenkt, so wie er sie in seiner Gnade jedem zugedacht hat.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "49004008",
+    "b": 49,
+    "c": 4,
+    "v": 8,
+    "t": "Nicht ohne Grund heißt es von Christus: »Er ist in den Himmel hinaufgestiegen, er hat Gefangene im Triumphzug mitgeführt und den Menschen Gaben geschenkt.«",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "49004009",
+    "b": 49,
+    "c": 4,
+    "v": 9,
+    "t": "Wenn es aber heißt: »Er ist in den Himmel hinaufgestiegen«, so bedeutet dies doch, dass er vorher zu uns auf die Erde gekommen ist.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "49004010",
+    "b": 49,
+    "c": 4,
+    "v": 10,
+    "t": "Der zu uns herabkam, ist derselbe, der auch wieder hinaufgestiegen ist. Jetzt ist er Herr über den Himmel und erfüllt das ganze Weltall mit seiner Gegenwart und Macht.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "49004011",
+    "b": 49,
+    "c": 4,
+    "v": 11,
+    "t": "Und so hat Christus denn auch seine Gemeinde beschenkt: Er hat ihr die Apostel gegeben, die Propheten und Verkündiger der rettenden Botschaft, genauso wie die Hirten und Lehrer, welche die Gemeinde leiten und im Glauben unterweisen.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "49004012",
+    "b": 49,
+    "c": 4,
+    "v": 12,
+    "t": "Sie alle sollen die Christen für ihren Dienst ausrüsten, damit die Gemeinde, der Leib von Christus, aufgebaut und vollendet wird.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "49004013",
+    "b": 49,
+    "c": 4,
+    "v": 13,
+    "t": "Dadurch werden wir im Glauben immer mehr eins werden und miteinander den Sohn Gottes immer besser kennen lernen. Wir sollen zu mündigen Christen heranreifen, zu einer Gemeinde, die ihn in seiner ganzen Fülle widerspiegelt.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "49004014",
+    "b": 49,
+    "c": 4,
+    "v": 14,
+    "t": "Dann sind wir nicht länger wie unmündige Kinder, die sich von jeder beliebigen Lehrmeinung aus der Bahn werfen lassen und die leicht auf geschickte Täuschungsmanöver hinterlistiger Menschen hereinfallen.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "49004015",
+    "b": 49,
+    "c": 4,
+    "v": 15,
+    "t": "Stattdessen wollen wir die Wahrheit in Liebe leben und in allem zu Christus hinwachsen, dem Haupt der Gemeinde.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "49004016",
+    "b": 49,
+    "c": 4,
+    "v": 16,
+    "t": "Durch ihn ist der Leib fest zusammengefügt, denn er verbindet die Körperteile durch die verschiedenen Gelenke miteinander. Jeder einzelne Teil leistet seinen Beitrag. So wächst der Leib und wird aufgebaut durch die Liebe.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "49004017",
+    "b": 49,
+    "c": 4,
+    "v": 17,
+    "t": "Darum fordere ich euch im Namen des Herrn eindringlich auf: Lebt nicht länger wie Menschen, die Gott nicht kennen! Ihr Denken ist verkehrt und führt ins Leere,",
+    "h": "Wie Christen leben sollen",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "49004018",
+    "b": 49,
+    "c": 4,
+    "v": 18,
+    "t": "ihr Verstand ist verdunkelt. Sie wissen nicht, was es bedeutet, mit Gott zu leben, und ihre Herzen sind hart und gleichgültig.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "49004019",
+    "b": 49,
+    "c": 4,
+    "v": 19,
+    "t": "Ihr Gewissen ist abgestumpft, deshalb leben sie ihre Leidenschaften aus. Sie sind zügellos und in ihrer Habgier unersättlich.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "49004020",
+    "b": 49,
+    "c": 4,
+    "v": 20,
+    "t": "Aber ihr habt gelernt, dass ein solches Leben mit Christus nichts zu tun hat.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "49004021",
+    "b": 49,
+    "c": 4,
+    "v": 21,
+    "t": "Was Jesus wirklich von uns erwartet, habt ihr gehört – ihr seid es ja gelehrt worden:",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "49004022",
+    "b": 49,
+    "c": 4,
+    "v": 22,
+    "t": "Ihr sollt euer altes Leben wie alte Kleider ablegen. Folgt nicht mehr euren Leidenschaften, die euch in die Irre führen und euch zerstören.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "49004023",
+    "b": 49,
+    "c": 4,
+    "v": 23,
+    "t": "Lasst euch in eurem Denken verändern und euch innerlich ganz neu ausrichten.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "49004024",
+    "b": 49,
+    "c": 4,
+    "v": 24,
+    "t": "Zieht das neue Leben an, wie ihr neue Kleider anzieht. Ihr seid nun zu neuen Menschen geworden, die Gott selbst nach seinem Bild geschaffen hat. Jeder soll erkennen, dass ihr jetzt zu Gott gehört und so lebt, wie es ihm gefällt.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "49004025",
+    "b": 49,
+    "c": 4,
+    "v": 25,
+    "t": "Belügt einander also nicht länger, sondern sagt die Wahrheit. Wir sind doch als Christen die Glieder eines Leibes, der Gemeinde von Jesus.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "49004026",
+    "b": 49,
+    "c": 4,
+    "v": 26,
+    "t": "Wenn ihr zornig seid, dann ladet nicht Schuld auf euch, indem ihr unversöhnlich bleibt. Lasst die Sonne nicht untergehen, ohne dass ihr einander vergeben habt.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "49004027",
+    "b": 49,
+    "c": 4,
+    "v": 27,
+    "t": "Gebt dem Teufel keine Gelegenheit, Unfrieden zu stiften.",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "49004028",
+    "b": 49,
+    "c": 4,
+    "v": 28,
+    "t": "Wer bisher von Diebstahl lebte, der soll sich jetzt eine ehrliche Arbeit suchen, damit er auch noch Notleidenden helfen kann.",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "49004029",
+    "b": 49,
+    "c": 4,
+    "v": 29,
+    "t": "Redet nicht schlecht voneinander, sondern habt ein gutes Wort für jeden, der es braucht. Was ihr sagt, soll hilfreich und ermutigend sein, eine Wohltat für alle.",
+    "h": "",
+    "o": 29,
+    "l": "29"
+  },
+  {
+    "id": "49004030",
+    "b": 49,
+    "c": 4,
+    "v": 30,
+    "t": "Tut nichts, was den Heiligen Geist traurig macht. Als Gott ihn euch schenkte, hat er euch sein Siegel aufgedrückt. Er ist doch euer Bürge dafür, dass der Tag der Erlösung kommt.",
+    "h": "",
+    "o": 30,
+    "l": "30"
+  },
+  {
+    "id": "49004031",
+    "b": 49,
+    "c": 4,
+    "v": 31,
+    "t": "Mit Bitterkeit, Wutausbrüchen und Zorn sollt ihr nichts mehr zu tun haben. Schreit einander nicht an, redet nicht schlecht über andere und vermeidet jede Feindseligkeit.",
+    "h": "",
+    "o": 31,
+    "l": "31"
+  },
+  {
+    "id": "49004032",
+    "b": 49,
+    "c": 4,
+    "v": 32,
+    "t": "Seid vielmehr freundlich und barmherzig und vergebt einander, so wie Gott euch durch Jesus Christus vergeben hat.",
+    "h": "",
+    "o": 32,
+    "l": "32"
+  },
+  {
+    "id": "49005001",
+    "b": 49,
+    "c": 5,
+    "v": 1,
+    "t": "Ihr seid Gottes geliebte Kinder, daher sollt ihr in allem seinem Vorbild folgen.",
+    "h": "Das Zusammenleben in Gemeinde, Ehe und Familie\n(Kapitel 5–6)\nLeben im Licht",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "49005002",
+    "b": 49,
+    "c": 5,
+    "v": 2,
+    "t": "Geht liebevoll miteinander um, so wie auch Christus euch seine Liebe erwiesen hat. Aus Liebe hat er sein Leben für uns gegeben, und dies war für Gott wie ein wohlriechendes Opfer, an dem er Freude hat.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "49005003",
+    "b": 49,
+    "c": 5,
+    "v": 3,
+    "t": "Ihr gehört nun zu Gott. Da passt es selbstverständlich nicht mehr, sich sexuell unmoralisch zu verhalten, ausschweifend zu leben oder alles haben zu wollen. Über so etwas sollt ihr nicht einmal reden!",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "49005004",
+    "b": 49,
+    "c": 5,
+    "v": 4,
+    "t": "Genauso wenig ist Platz für Beleidigungen, Sticheleien oder zweideutiges Gerede. Vielmehr sollt ihr Gott danken und ihn loben.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "49005005",
+    "b": 49,
+    "c": 5,
+    "v": 5,
+    "t": "Denn eins ist klar: Wer ein sexuell unmoralisches, schamloses Leben führt, für den ist kein Platz in dem Reich, in dem Gott und Christus herrschen. Das gilt auch für alle, die habgierig sind; denn Habgier ist nichts anderes als Götzendienst.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "49005006",
+    "b": 49,
+    "c": 5,
+    "v": 6,
+    "t": "Lasst euch von niemandem verführen, der euch durch sein leeres Geschwätz einreden will, dass dies alles harmlos sei. Gerade mit einem solchen Verhalten ziehen die Menschen, die Gott nicht gehorchen wollen, seinen Zorn auf sich.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "49005007",
+    "b": 49,
+    "c": 5,
+    "v": 7,
+    "t": "Darum macht mit solchen Leuten nicht gemeinsame Sache!",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "49005008",
+    "b": 49,
+    "c": 5,
+    "v": 8,
+    "t": "Früher habt auch ihr in Dunkelheit gelebt; aber heute ist das anders: Weil ihr mit dem Herrn verbunden seid, seid ihr im Licht. Darum lebt nun auch wie Menschen, die zum Licht gehören!",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "49005009",
+    "b": 49,
+    "c": 5,
+    "v": 9,
+    "t": "Ein solches Leben führt zu aufrichtiger Güte, Gerechtigkeit und Wahrheit.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "49005010",
+    "b": 49,
+    "c": 5,
+    "v": 10,
+    "t": "Prüft in allem, was ihr tut, ob es Gott gefällt.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "49005011",
+    "b": 49,
+    "c": 5,
+    "v": 11,
+    "t": "Lasst euch auf keine finsteren Machenschaften ein, die keine gute Frucht hervorbringen, im Gegenteil: Helft, sie aufzudecken.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "49005012",
+    "b": 49,
+    "c": 5,
+    "v": 12,
+    "t": "Denn was manche im Verborgenen treiben, ist so abscheulich, dass man nicht einmal davon reden soll.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "49005013",
+    "b": 49,
+    "c": 5,
+    "v": 13,
+    "t": "Doch wenn durch euch das Licht Gottes auf diese Dinge fällt, werden sie erst richtig sichtbar.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "49005014",
+    "b": 49,
+    "c": 5,
+    "v": 14,
+    "t": "Was Gott ans Licht bringt, wird hell. Deshalb heißt es auch: »Erwache aus deinem Schlaf! Erhebe dich von den Toten! Und Christus wird dein Licht sein.«",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "49005015",
+    "b": 49,
+    "c": 5,
+    "v": 15,
+    "t": "Achtet also genau darauf, wie ihr lebt: nicht wie unwissende, sondern wie weise Menschen.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "49005016",
+    "b": 49,
+    "c": 5,
+    "v": 16,
+    "t": "Nutzt die Zeit, so gut ihr könnt, denn wir leben in einer schlimmen Zeit.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "49005017",
+    "b": 49,
+    "c": 5,
+    "v": 17,
+    "t": "Seid nicht verbohrt; sondern begreift, was der Herr von euch will!",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "49005018",
+    "b": 49,
+    "c": 5,
+    "v": 18,
+    "t": "Betrinkt euch nicht; das führt nur zu einem ausschweifenden Leben. Lasst euch vielmehr von Gottes Geist erfüllen.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "49005019",
+    "b": 49,
+    "c": 5,
+    "v": 19,
+    "t": "Ermutigt einander durch Psalmen, Lobgesänge und Lieder, wie sie euch Gottes Geist schenkt. Singt für den Herrn und jubelt aus vollem Herzen!",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "49005020",
+    "b": 49,
+    "c": 5,
+    "v": 20,
+    "t": "Im Namen unseres Herrn Jesus Christus dankt Gott, dem Vater, zu jeder Zeit und für alles!",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "49005021",
+    "b": 49,
+    "c": 5,
+    "v": 21,
+    "t": "Ordnet euch einander unter; tut es aus Ehrfurcht vor Christus.",
+    "h": "Die christliche Ehe",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "49005022",
+    "b": 49,
+    "c": 5,
+    "v": 22,
+    "t": "Ihr Frauen, ordnet euch euren Männern unter, so wie ihr euch dem Herrn unterordnet.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "49005023",
+    "b": 49,
+    "c": 5,
+    "v": 23,
+    "t": "Denn wie Christus als Haupt für seine Gemeinde verantwortlich ist, die er erlöst und zu seinem Leib gemacht hat, so ist auch der Mann für seine Frau verantwortlich.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "49005024",
+    "b": 49,
+    "c": 5,
+    "v": 24,
+    "t": "Und wie sich die Gemeinde Christus unterordnet, so sollen sich auch die Frauen in allem ihren Männern unterordnen.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "49005025",
+    "b": 49,
+    "c": 5,
+    "v": 25,
+    "t": "Ihr Männer, liebt eure Frauen so, wie Christus seine Gemeinde liebt: Er hat sein Leben für sie gegeben,",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "49005026",
+    "b": 49,
+    "c": 5,
+    "v": 26,
+    "t": "damit sie ihm ganz gehört. Durch sein Wort hat er alle Schuld von ihr abgewaschen wie in einem reinigenden Bad.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "49005027",
+    "b": 49,
+    "c": 5,
+    "v": 27,
+    "t": "So sorgt er selbst dafür, dass sie zu einer schönen und makellosen Braut für ihn wird, ohne Flecken, Falten oder einen anderen Fehler, weil sie allein Christus gehören soll.",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "49005028",
+    "b": 49,
+    "c": 5,
+    "v": 28,
+    "t": "Darum sollen auch die Männer ihre Frauen lieben wie ihren eigenen Körper. Wer nun seine Frau liebt, der liebt sich selbst.",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "49005029",
+    "b": 49,
+    "c": 5,
+    "v": 29,
+    "t": "Niemand hasst doch seinen eigenen Körper. Vielmehr ernährt und pflegt er ihn. So sorgt auch Christus für seine Gemeinde;",
+    "h": "",
+    "o": 29,
+    "l": "29"
+  },
+  {
+    "id": "49005030",
+    "b": 49,
+    "c": 5,
+    "v": 30,
+    "t": "denn wir sind schließlich die Glieder seines Leibes.",
+    "h": "",
+    "o": 30,
+    "l": "30"
+  },
+  {
+    "id": "49005031",
+    "b": 49,
+    "c": 5,
+    "v": 31,
+    "t": "Erinnert euch an das Wort: »Ein Mann verlässt seine Eltern und verbindet sich so eng mit seiner Frau, dass die beiden eins sind mit Leib und Seele.«",
+    "h": "",
+    "o": 31,
+    "l": "31"
+  },
+  {
+    "id": "49005032",
+    "b": 49,
+    "c": 5,
+    "v": 32,
+    "t": "Das ist ein großes Geheimnis. Ich deute dieses Wort auf die Verbindung zwischen Christus und seiner Gemeinde.",
+    "h": "",
+    "o": 32,
+    "l": "32"
+  },
+  {
+    "id": "49005033",
+    "b": 49,
+    "c": 5,
+    "v": 33,
+    "t": "Es gilt aber auch für euch: Ein Mann soll seine Frau so lieben wie sich selbst. Und die Frau soll ihren Mann achten.",
+    "h": "",
+    "o": 33,
+    "l": "33"
+  },
+  {
+    "id": "49006001",
+    "b": 49,
+    "c": 6,
+    "v": 1,
+    "t": "Ihr Kinder, gehorcht euren Eltern! So erwartet es der Herr von euch, mit dem ihr verbunden seid.",
+    "h": "Eltern und Kinder",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "49006002",
+    "b": 49,
+    "c": 6,
+    "v": 2,
+    "t": "»Ehre deinen Vater und deine Mutter!« Dies ist das erste Gebot, das Gott mit einer Zusage verbunden hat:",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "49006003",
+    "b": 49,
+    "c": 6,
+    "v": 3,
+    "t": "»damit es dir gut geht und du lange auf dieser Erde lebst.«",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "49006004",
+    "b": 49,
+    "c": 6,
+    "v": 4,
+    "t": "Ihr Väter, behandelt eure Kinder nicht ungerecht! Sonst fordert ihr nur ihren Zorn heraus. Eure Erziehung soll sie vielmehr in Wort und Tat zu Gott, dem Herrn, hinführen.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "49006005",
+    "b": 49,
+    "c": 6,
+    "v": 5,
+    "t": "Ihr Sklaven, gehorcht euren irdischen Herren, ehrt und achtet sie! Dient ihnen so aufrichtig, als würdet ihr Christus selbst dienen.",
+    "h": "Sklaven und Herren",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "49006006",
+    "b": 49,
+    "c": 6,
+    "v": 6,
+    "t": "Tut dies nicht nur vor ihren Augen, um von ihnen anerkannt zu werden. Ihr sollt vielmehr als Diener von Christus bereitwillig und gern den Willen Gottes erfüllen.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "49006007",
+    "b": 49,
+    "c": 6,
+    "v": 7,
+    "t": "Arbeitet mit Freude als Christen, die nicht den Menschen dienen, sondern dem Herrn.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "49006008",
+    "b": 49,
+    "c": 6,
+    "v": 8,
+    "t": "Denn ihr wisst ja: Der Herr wird jedem für seine guten Taten den verdienten Lohn geben, ganz gleich ob jemand Sklave ist oder frei.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "49006009",
+    "b": 49,
+    "c": 6,
+    "v": 9,
+    "t": "Auch ihr Herren sollt eure Sklaven behandeln, wie es Gott gefällt. Schüchtert sie nicht mit Drohungen ein. Denkt immer daran, dass ihr denselben Herrn im Himmel habt wie sie. Vor ihm sind alle Menschen gleich.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "49006010",
+    "b": 49,
+    "c": 6,
+    "v": 10,
+    "t": "Zum Schluss noch ein Wort an euch alle: Werdet stark, weil ihr mit dem Herrn verbunden seid! Lasst euch mit seiner Macht und Stärke erfüllen!",
+    "h": "Ausgerüstet zum Kampf",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "49006011",
+    "b": 49,
+    "c": 6,
+    "v": 11,
+    "t": "Greift zu all den Waffen, die Gott für euch bereithält, zieht seine Rüstung an! Dann könnt ihr alle heimtückischen Anschläge des Teufels abwehren.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "49006012",
+    "b": 49,
+    "c": 6,
+    "v": 12,
+    "t": "Denn wir kämpfen nicht gegen Menschen, sondern gegen Mächte und Gewalten des Bösen, die über diese gottlose Welt herrschen und im Unsichtbaren ihr unheilvolles Wesen treiben.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "49006013",
+    "b": 49,
+    "c": 6,
+    "v": 13,
+    "t": "Darum nehmt all die Waffen, die Gott euch gibt! Nur gut gerüstet könnt ihr den Mächten des Bösen widerstehen, wenn es zum Kampf kommt. Nur so könnt ihr das Feld behaupten und den Sieg erringen.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "49006014",
+    "b": 49,
+    "c": 6,
+    "v": 14,
+    "t": "Bleibt standhaft! Die Wahrheit ist euer Gürtel und Gerechtigkeit euer Brustpanzer.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "49006015",
+    "b": 49,
+    "c": 6,
+    "v": 15,
+    "t": "Macht euch bereit, die rettende Botschaft zu verkünden, dass Gott Frieden mit uns geschlossen hat.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "49006016",
+    "b": 49,
+    "c": 6,
+    "v": 16,
+    "t": "Verteidigt euch mit dem Schild des Glaubens, an dem die Brandpfeile des Teufels wirkungslos abprallen.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "49006017",
+    "b": 49,
+    "c": 6,
+    "v": 17,
+    "t": "Die Gewissheit, dass euch Jesus Christus gerettet hat, ist euer Helm, der euch schützt. Und nehmt das Wort Gottes. Es ist das Schwert, das euch sein Geist gibt.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "49006018",
+    "b": 49,
+    "c": 6,
+    "v": 18,
+    "t": "Hört nie auf zu beten und zu bitten! Lasst euch dabei vom Heiligen Geist leiten. Bleibt wach und bereit. Bittet Gott inständig für alle Christen.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "49006019",
+    "b": 49,
+    "c": 6,
+    "v": 19,
+    "t": "Betet auch für mich, damit Gott mir zur rechten Zeit das rechte Wort gibt und ich überall das Geheimnis der rettenden Botschaft frei und offen verkünden kann.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "49006020",
+    "b": 49,
+    "c": 6,
+    "v": 20,
+    "t": "Auch hier im Gefängnis will ich das tun. Betet darum, dass ich auch in Zukunft diese Aufgabe mutig erfülle, so wie Gott sie mir aufgetragen hat.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "49006021",
+    "b": 49,
+    "c": 6,
+    "v": 21,
+    "t": "Ich möchte gern, dass ihr auch erfahrt, wie es um mich steht. Tychikus, mein lieber Bruder und treuer Mitarbeiter im Dienst für den Herrn, wird euch von mir berichten.",
+    "h": "Grüße und Segenswünsche",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "49006022",
+    "b": 49,
+    "c": 6,
+    "v": 22,
+    "t": "Ich schicke ihn eben deshalb zu euch, damit ihr erfahrt, wie es um uns steht. Er soll euch ermutigen.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "49006023",
+    "b": 49,
+    "c": 6,
+    "v": 23,
+    "t": "Euch, meinen lieben Brüdern und Schwestern, wünsche ich Frieden, Liebe und immer stärkeren Glauben. Das schenke euch Gott, unser Vater, und Jesus Christus, unser Herr.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "49006024",
+    "b": 49,
+    "c": 6,
+    "v": 24,
+    "t": "Gottes Gnade sei mit allen, die unseren Herrn Jesus Christus lieben, und schenke ihnen unvergängliches Leben!",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  }
+]

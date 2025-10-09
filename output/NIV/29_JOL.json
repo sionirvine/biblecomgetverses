@@ -1,0 +1,732 @@
+[
+  {
+    "id": "29001001",
+    "b": 29,
+    "c": 1,
+    "v": 1,
+    "t": "The word of the LORD that came to Joel son of Pethuel.",
+    "h": "",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "29001002",
+    "b": 29,
+    "c": 1,
+    "v": 2,
+    "t": "Hear this, you elders; listen, all who live in the land. Has anything like this ever happened in your days or in the days of your ancestors?",
+    "h": "An Invasion of Locusts",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "29001003",
+    "b": 29,
+    "c": 1,
+    "v": 3,
+    "t": "Tell it to your children, and let your children tell it to their children, and their children to the next generation.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "29001004",
+    "b": 29,
+    "c": 1,
+    "v": 4,
+    "t": "What the locust swarm has left the great locusts have eaten; what the great locusts have left the young locusts have eaten; what the young locusts have left other locusts have eaten.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "29001005",
+    "b": 29,
+    "c": 1,
+    "v": 5,
+    "t": "Wake up, you drunkards, and weep! Wail, all you drinkers of wine; wail because of the new wine, for it has been snatched from your lips.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "29001006",
+    "b": 29,
+    "c": 1,
+    "v": 6,
+    "t": "A nation has invaded my land, a mighty army without number; it has the teeth of a lion, the fangs of a lioness.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "29001007",
+    "b": 29,
+    "c": 1,
+    "v": 7,
+    "t": "It has laid waste my vines and ruined my fig trees. It has stripped off their bark and thrown it away, leaving their branches white.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "29001008",
+    "b": 29,
+    "c": 1,
+    "v": 8,
+    "t": "Mourn like a virgin in sackcloth grieving for the betrothed of her youth.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "29001009",
+    "b": 29,
+    "c": 1,
+    "v": 9,
+    "t": "Grain offerings and drink offerings are cut off from the house of the LORD. The priests are in mourning, those who minister before the LORD.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "29001010",
+    "b": 29,
+    "c": 1,
+    "v": 10,
+    "t": "The fields are ruined, the ground is dried up; the grain is destroyed, the new wine is dried up, the olive oil fails.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "29001011",
+    "b": 29,
+    "c": 1,
+    "v": 11,
+    "t": "Despair, you farmers, wail, you vine growers; grieve for the wheat and the barley, because the harvest of the field is destroyed.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "29001012",
+    "b": 29,
+    "c": 1,
+    "v": 12,
+    "t": "The vine is dried up and the fig tree is withered; the pomegranate, the palm and the apple tree— all the trees of the field—are dried up. Surely the people’s joy is withered away.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "29001013",
+    "b": 29,
+    "c": 1,
+    "v": 13,
+    "t": "Put on sackcloth, you priests, and mourn; wail, you who minister before the altar. Come, spend the night in sackcloth, you who minister before my God; for the grain offerings and drink offerings are withheld from the house of your God.",
+    "h": "A Call to Lamentation",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "29001014",
+    "b": 29,
+    "c": 1,
+    "v": 14,
+    "t": "Declare a holy fast; call a sacred assembly. Summon the elders and all who live in the land to the house of the LORD your God, and cry out to the LORD.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "29001015",
+    "b": 29,
+    "c": 1,
+    "v": 15,
+    "t": "Alas for that day! For the day of the LORD is near; it will come like destruction from the Almighty.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "29001016",
+    "b": 29,
+    "c": 1,
+    "v": 16,
+    "t": "Has not the food been cut off before our very eyes— joy and gladness from the house of our God?",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "29001017",
+    "b": 29,
+    "c": 1,
+    "v": 17,
+    "t": "The seeds are shriveled beneath the clods. The storehouses are in ruins, the granaries have been broken down, for the grain has dried up.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "29001018",
+    "b": 29,
+    "c": 1,
+    "v": 18,
+    "t": "How the cattle moan! The herds mill about because they have no pasture; even the flocks of sheep are suffering.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "29001019",
+    "b": 29,
+    "c": 1,
+    "v": 19,
+    "t": "To you, LORD, I call, for fire has devoured the pastures in the wilderness and flames have burned up all the trees of the field.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "29001020",
+    "b": 29,
+    "c": 1,
+    "v": 20,
+    "t": "Even the wild animals pant for you; the streams of water have dried up and fire has devoured the pastures in the wilderness.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "29002001",
+    "b": 29,
+    "c": 2,
+    "v": 1,
+    "t": "Blow the trumpet in Zion; sound the alarm on my holy hill. Let all who live in the land tremble, for the day of the LORD is coming. It is close at hand—",
+    "h": "An Army of Locusts",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "29002002",
+    "b": 29,
+    "c": 2,
+    "v": 2,
+    "t": "a day of darkness and gloom, a day of clouds and blackness. Like dawn spreading across the mountains a large and mighty army comes, such as never was in ancient times nor ever will be in ages to come.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "29002003",
+    "b": 29,
+    "c": 2,
+    "v": 3,
+    "t": "Before them fire devours, behind them a flame blazes. Before them the land is like the garden of Eden, behind them, a desert waste— nothing escapes them.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "29002004",
+    "b": 29,
+    "c": 2,
+    "v": 4,
+    "t": "They have the appearance of horses; they gallop along like cavalry.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "29002005",
+    "b": 29,
+    "c": 2,
+    "v": 5,
+    "t": "With a noise like that of chariots they leap over the mountaintops, like a crackling fire consuming stubble, like a mighty army drawn up for battle.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "29002006",
+    "b": 29,
+    "c": 2,
+    "v": 6,
+    "t": "At the sight of them, nations are in anguish; every face turns pale.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "29002007",
+    "b": 29,
+    "c": 2,
+    "v": 7,
+    "t": "They charge like warriors; they scale walls like soldiers. They all march in line, not swerving from their course.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "29002008",
+    "b": 29,
+    "c": 2,
+    "v": 8,
+    "t": "They do not jostle each other; each marches straight ahead. They plunge through defenses without breaking ranks.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "29002009",
+    "b": 29,
+    "c": 2,
+    "v": 9,
+    "t": "They rush upon the city; they run along the wall. They climb into the houses; like thieves they enter through the windows.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "29002010",
+    "b": 29,
+    "c": 2,
+    "v": 10,
+    "t": "Before them the earth shakes, the heavens tremble, the sun and moon are darkened, and the stars no longer shine.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "29002011",
+    "b": 29,
+    "c": 2,
+    "v": 11,
+    "t": "The LORD thunders at the head of his army; his forces are beyond number, and mighty is the army that obeys his command. The day of the LORD is great; it is dreadful. Who can endure it?",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "29002012",
+    "b": 29,
+    "c": 2,
+    "v": 12,
+    "t": "“Even now,” declares the LORD, “return to me with all your heart, with fasting and weeping and mourning.”",
+    "h": "Rend Your Heart",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "29002013",
+    "b": 29,
+    "c": 2,
+    "v": 13,
+    "t": "Rend your heart and not your garments. Return to the LORD your God, for he is gracious and compassionate, slow to anger and abounding in love, and he relents from sending calamity.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "29002014",
+    "b": 29,
+    "c": 2,
+    "v": 14,
+    "t": "Who knows? He may turn and relent and leave behind a blessing— grain offerings and drink offerings for the LORD your God.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "29002015",
+    "b": 29,
+    "c": 2,
+    "v": 15,
+    "t": "Blow the trumpet in Zion, declare a holy fast, call a sacred assembly.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "29002016",
+    "b": 29,
+    "c": 2,
+    "v": 16,
+    "t": "Gather the people, consecrate the assembly; bring together the elders, gather the children, those nursing at the breast. Let the bridegroom leave his room and the bride her chamber.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "29002017",
+    "b": 29,
+    "c": 2,
+    "v": 17,
+    "t": "Let the priests, who minister before the LORD, weep between the portico and the altar. Let them say, “Spare your people, LORD. Do not make your inheritance an object of scorn, a byword among the nations. Why should they say among the peoples, ‘Where is their God?’ ”",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "29002018",
+    "b": 29,
+    "c": 2,
+    "v": 18,
+    "t": "Then the LORD was jealous for his land and took pity on his people.",
+    "h": "The LORD’s Answer",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "29002019",
+    "b": 29,
+    "c": 2,
+    "v": 19,
+    "t": "The LORD replied to them: “I am sending you grain, new wine and olive oil, enough to satisfy you fully; never again will I make you an object of scorn to the nations.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "29002020",
+    "b": 29,
+    "c": 2,
+    "v": 20,
+    "t": "“I will drive the northern horde far from you, pushing it into a parched and barren land; its eastern ranks will drown in the Dead Sea and its western ranks in the Mediterranean Sea. And its stench will go up; its smell will rise.” Surely he has done great things!",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "29002021",
+    "b": 29,
+    "c": 2,
+    "v": 21,
+    "t": "Do not be afraid, land of Judah; be glad and rejoice. Surely the LORD has done great things!",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "29002022",
+    "b": 29,
+    "c": 2,
+    "v": 22,
+    "t": "Do not be afraid, you wild animals, for the pastures in the wilderness are becoming green. The trees are bearing their fruit; the fig tree and the vine yield their riches.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "29002023",
+    "b": 29,
+    "c": 2,
+    "v": 23,
+    "t": "Be glad, people of Zion, rejoice in the LORD your God, for he has given you the autumn rains because he is faithful. He sends you abundant showers, both autumn and spring rains, as before.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "29002024",
+    "b": 29,
+    "c": 2,
+    "v": 24,
+    "t": "The threshing floors will be filled with grain; the vats will overflow with new wine and oil.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "29002025",
+    "b": 29,
+    "c": 2,
+    "v": 25,
+    "t": "“I will repay you for the years the locusts have eaten— the great locust and the young locust, the other locusts and the locust swarm — my great army that I sent among you.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "29002026",
+    "b": 29,
+    "c": 2,
+    "v": 26,
+    "t": "You will have plenty to eat, until you are full, and you will praise the name of the LORD your God, who has worked wonders for you; never again will my people be shamed.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "29002027",
+    "b": 29,
+    "c": 2,
+    "v": 27,
+    "t": "Then you will know that I am in Israel, that I am the LORD your God, and that there is no other; never again will my people be shamed.",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "29002028",
+    "b": 29,
+    "c": 2,
+    "v": 28,
+    "t": "“And afterward, I will pour out my Spirit on all people. Your sons and daughters will prophesy, your old men will dream dreams, your young men will see visions.",
+    "h": "The Day of the LORD",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "29002029",
+    "b": 29,
+    "c": 2,
+    "v": 29,
+    "t": "Even on my servants, both men and women, I will pour out my Spirit in those days.",
+    "h": "",
+    "o": 29,
+    "l": "29"
+  },
+  {
+    "id": "29002030",
+    "b": 29,
+    "c": 2,
+    "v": 30,
+    "t": "I will show wonders in the heavens and on the earth, blood and fire and billows of smoke.",
+    "h": "",
+    "o": 30,
+    "l": "30"
+  },
+  {
+    "id": "29002031",
+    "b": 29,
+    "c": 2,
+    "v": 31,
+    "t": "The sun will be turned to darkness and the moon to blood before the coming of the great and dreadful day of the LORD.",
+    "h": "",
+    "o": 31,
+    "l": "31"
+  },
+  {
+    "id": "29002032",
+    "b": 29,
+    "c": 2,
+    "v": 32,
+    "t": "And everyone who calls on the name of the LORD will be saved; for on Mount Zion and in Jerusalem there will be deliverance, as the LORD has said, even among the survivors whom the LORD calls.",
+    "h": "",
+    "o": 32,
+    "l": "32"
+  },
+  {
+    "id": "29003001",
+    "b": 29,
+    "c": 3,
+    "v": 1,
+    "t": "“In those days and at that time, when I restore the fortunes of Judah and Jerusalem,",
+    "h": "The Nations Judged",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "29003002",
+    "b": 29,
+    "c": 3,
+    "v": 2,
+    "t": "I will gather all nations and bring them down to the Valley of Jehoshaphat. There I will put them on trial for what they did to my inheritance, my people Israel, because they scattered my people among the nations and divided up my land.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "29003003",
+    "b": 29,
+    "c": 3,
+    "v": 3,
+    "t": "They cast lots for my people and traded boys for prostitutes; they sold girls for wine to drink.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "29003004",
+    "b": 29,
+    "c": 3,
+    "v": 4,
+    "t": "“Now what have you against me, Tyre and Sidon and all you regions of Philistia? Are you repaying me for something I have done? If you are paying me back, I will swiftly and speedily return on your own heads what you have done.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "29003005",
+    "b": 29,
+    "c": 3,
+    "v": 5,
+    "t": "For you took my silver and my gold and carried off my finest treasures to your temples.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "29003006",
+    "b": 29,
+    "c": 3,
+    "v": 6,
+    "t": "You sold the people of Judah and Jerusalem to the Greeks, that you might send them far from their homeland.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "29003007",
+    "b": 29,
+    "c": 3,
+    "v": 7,
+    "t": "“See, I am going to rouse them out of the places to which you sold them, and I will return on your own heads what you have done.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "29003008",
+    "b": 29,
+    "c": 3,
+    "v": 8,
+    "t": "I will sell your sons and daughters to the people of Judah, and they will sell them to the Sabeans, a nation far away.” The LORD has spoken.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "29003009",
+    "b": 29,
+    "c": 3,
+    "v": 9,
+    "t": "Proclaim this among the nations: Prepare for war! Rouse the warriors! Let all the fighting men draw near and attack.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "29003010",
+    "b": 29,
+    "c": 3,
+    "v": 10,
+    "t": "Beat your plowshares into swords and your pruning hooks into spears. Let the weakling say, “I am strong!”",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "29003011",
+    "b": 29,
+    "c": 3,
+    "v": 11,
+    "t": "Come quickly, all you nations from every side, and assemble there. Bring down your warriors, LORD !",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "29003012",
+    "b": 29,
+    "c": 3,
+    "v": 12,
+    "t": "“Let the nations be roused; let them advance into the Valley of Jehoshaphat, for there I will sit to judge all the nations on every side.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "29003013",
+    "b": 29,
+    "c": 3,
+    "v": 13,
+    "t": "Swing the sickle, for the harvest is ripe. Come, trample the grapes, for the winepress is full and the vats overflow— so great is their wickedness!”",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "29003014",
+    "b": 29,
+    "c": 3,
+    "v": 14,
+    "t": "Multitudes, multitudes in the valley of decision! For the day of the LORD is near in the valley of decision.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "29003015",
+    "b": 29,
+    "c": 3,
+    "v": 15,
+    "t": "The sun and moon will be darkened, and the stars no longer shine.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "29003016",
+    "b": 29,
+    "c": 3,
+    "v": 16,
+    "t": "The LORD will roar from Zion and thunder from Jerusalem; the earth and the heavens will tremble. But the LORD will be a refuge for his people, a stronghold for the people of Israel.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "29003017",
+    "b": 29,
+    "c": 3,
+    "v": 17,
+    "t": "“Then you will know that I, the LORD your God, dwell in Zion, my holy hill. Jerusalem will be holy; never again will foreigners invade her.",
+    "h": "Blessings for God’s People",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "29003018",
+    "b": 29,
+    "c": 3,
+    "v": 18,
+    "t": "“In that day the mountains will drip new wine, and the hills will flow with milk; all the ravines of Judah will run with water. A fountain will flow out of the LORD ’s house and will water the valley of acacias.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "29003019",
+    "b": 29,
+    "c": 3,
+    "v": 19,
+    "t": "But Egypt will be desolate, Edom a desert waste, because of violence done to the people of Judah, in whose land they shed innocent blood.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "29003020",
+    "b": 29,
+    "c": 3,
+    "v": 20,
+    "t": "Judah will be inhabited forever and Jerusalem through all generations.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "29003021",
+    "b": 29,
+    "c": 3,
+    "v": 21,
+    "t": "Shall I leave their innocent blood unavenged? No, I will not.” The LORD dwells in Zion!",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  }
+]

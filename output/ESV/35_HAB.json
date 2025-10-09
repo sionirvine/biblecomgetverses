@@ -1,0 +1,562 @@
+[
+  {
+    "id": "35001001",
+    "b": 35,
+    "c": 1,
+    "v": 1,
+    "t": "The oracle that Habakkuk the prophet saw.",
+    "h": "",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "35001002",
+    "b": 35,
+    "c": 1,
+    "v": 2,
+    "t": "O LORD, how long shall I cry for help, and you will not hear? Or cry to you “Violence!” and you will not save?",
+    "h": "Habakkuk’s Complaint",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "35001003",
+    "b": 35,
+    "c": 1,
+    "v": 3,
+    "t": "Why do you make me see iniquity, and why do you idly look at wrong? Destruction and violence are before me; strife and contention arise.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "35001004",
+    "b": 35,
+    "c": 1,
+    "v": 4,
+    "t": "So the law is paralyzed, and justice never goes forth. For the wicked surround the righteous; so justice goes forth perverted.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "35001005",
+    "b": 35,
+    "c": 1,
+    "v": 5,
+    "t": "“Look among the nations, and see; wonder and be astounded. For I am doing a work in your days that you would not believe if told.",
+    "h": "The LORD’s Answer",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "35001006",
+    "b": 35,
+    "c": 1,
+    "v": 6,
+    "t": "For behold, I am raising up the Chaldeans, that bitter and hasty nation, who march through the breadth of the earth, to seize dwellings not their own.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "35001007",
+    "b": 35,
+    "c": 1,
+    "v": 7,
+    "t": "They are dreaded and fearsome; their justice and dignity go forth from themselves.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "35001008",
+    "b": 35,
+    "c": 1,
+    "v": 8,
+    "t": "Their horses are swifter than leopards, more fierce than the evening wolves; their horsemen press proudly on. Their horsemen come from afar; they fly like an eagle swift to devour.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "35001009",
+    "b": 35,
+    "c": 1,
+    "v": 9,
+    "t": "They all come for violence, all their faces forward. They gather captives like sand.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "35001010",
+    "b": 35,
+    "c": 1,
+    "v": 10,
+    "t": "At kings they scoff, and at rulers they laugh. They laugh at every fortress, for they pile up earth and take it.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "35001011",
+    "b": 35,
+    "c": 1,
+    "v": 11,
+    "t": "Then they sweep by like the wind and go on, guilty men, whose own might is their god!”",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "35001012",
+    "b": 35,
+    "c": 1,
+    "v": 12,
+    "t": "Are you not from everlasting, O LORD my God, my Holy One? We shall not die. O LORD, you have ordained them as a judgment, and you, O Rock, have established them for reproof.",
+    "h": "Habakkuk’s Second Complaint",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "35001013",
+    "b": 35,
+    "c": 1,
+    "v": 13,
+    "t": "You who are of purer eyes than to see evil and cannot look at wrong, why do you idly look at traitors and remain silent when the wicked swallows up the man more righteous than he?",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "35001014",
+    "b": 35,
+    "c": 1,
+    "v": 14,
+    "t": "You make mankind like the fish of the sea, like crawling things that have no ruler.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "35001015",
+    "b": 35,
+    "c": 1,
+    "v": 15,
+    "t": "He brings all of them up with a hook; he drags them out with his net; he gathers them in his dragnet; so he rejoices and is glad.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "35001016",
+    "b": 35,
+    "c": 1,
+    "v": 16,
+    "t": "Therefore he sacrifices to his net and makes offerings to his dragnet; for by them he lives in luxury, and his food is rich.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "35001017",
+    "b": 35,
+    "c": 1,
+    "v": 17,
+    "t": "Is he then to keep on emptying his net and mercilessly killing nations forever?",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "35002001",
+    "b": 35,
+    "c": 2,
+    "v": 1,
+    "t": "I will take my stand at my watchpost and station myself on the tower, and look out to see what he will say to me, and what I will answer concerning my complaint.",
+    "h": "",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "35002002",
+    "b": 35,
+    "c": 2,
+    "v": 2,
+    "t": "And the LORD answered me: “Write the vision; make it plain on tablets, so he may run who reads it.",
+    "h": "The Righteous Shall Live by His Faith",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "35002003",
+    "b": 35,
+    "c": 2,
+    "v": 3,
+    "t": "For still the vision awaits its appointed time; it hastens to the end—it will not lie. If it seems slow, wait for it; it will surely come; it will not delay.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "35002004",
+    "b": 35,
+    "c": 2,
+    "v": 4,
+    "t": "“Behold, his soul is puffed up; it is not upright within him, but the righteous shall live by his faith.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "35002005",
+    "b": 35,
+    "c": 2,
+    "v": 5,
+    "t": "“Moreover, wine is a traitor, an arrogant man who is never at rest. His greed is as wide as Sheol; like death he has never enough. He gathers for himself all nations and collects as his own all peoples.”",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "35002006",
+    "b": 35,
+    "c": 2,
+    "v": 6,
+    "t": "Shall not all these take up their taunt against him, with scoffing and riddles for him, and say, “Woe to him who heaps up what is not his own— for how long?— and loads himself with pledges!”",
+    "h": "Woe to the Chaldeans",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "35002007",
+    "b": 35,
+    "c": 2,
+    "v": 7,
+    "t": "Will not your debtors suddenly arise, and those awake who will make you tremble? Then you will be spoil for them.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "35002008",
+    "b": 35,
+    "c": 2,
+    "v": 8,
+    "t": "Because you have plundered many nations, all the remnant of the peoples shall plunder you, for the blood of man and violence to the earth, to cities and all who dwell in them.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "35002009",
+    "b": 35,
+    "c": 2,
+    "v": 9,
+    "t": "“Woe to him who gets evil gain for his house, to set his nest on high, to be safe from the reach of harm!",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "35002010",
+    "b": 35,
+    "c": 2,
+    "v": 10,
+    "t": "You have devised shame for your house by cutting off many peoples; you have forfeited your life.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "35002011",
+    "b": 35,
+    "c": 2,
+    "v": 11,
+    "t": "For the stone will cry out from the wall, and the beam from the woodwork respond.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "35002012",
+    "b": 35,
+    "c": 2,
+    "v": 12,
+    "t": "“Woe to him who builds a town with blood and founds a city on iniquity!",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "35002013",
+    "b": 35,
+    "c": 2,
+    "v": 13,
+    "t": "Behold, is it not from the LORD of hosts that peoples labor merely for fire, and nations weary themselves for nothing?",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "35002014",
+    "b": 35,
+    "c": 2,
+    "v": 14,
+    "t": "For the earth will be filled with the knowledge of the glory of the LORD as the waters cover the sea.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "35002015",
+    "b": 35,
+    "c": 2,
+    "v": 15,
+    "t": "“Woe to him who makes his neighbors drink— you pour out your wrath and make them drunk, in order to gaze at their nakedness!",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "35002016",
+    "b": 35,
+    "c": 2,
+    "v": 16,
+    "t": "You will have your fill of shame instead of glory. Drink, yourself, and show your uncircumcision! The cup in the LORD ’s right hand will come around to you, and utter shame will come upon your glory!",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "35002017",
+    "b": 35,
+    "c": 2,
+    "v": 17,
+    "t": "The violence done to Lebanon will overwhelm you, as will the destruction of the beasts that terrified them, for the blood of man and violence to the earth, to cities and all who dwell in them.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "35002018",
+    "b": 35,
+    "c": 2,
+    "v": 18,
+    "t": "“What profit is an idol when its maker has shaped it, a metal image, a teacher of lies? For its maker trusts in his own creation when he makes speechless idols!",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "35002019",
+    "b": 35,
+    "c": 2,
+    "v": 19,
+    "t": "Woe to him who says to a wooden thing, Awake; to a silent stone, Arise! Can this teach? Behold, it is overlaid with gold and silver, and there is no breath at all in it.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "35002020",
+    "b": 35,
+    "c": 2,
+    "v": 20,
+    "t": "But the LORD is in his holy temple; let all the earth keep silence before him.”",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "35003001",
+    "b": 35,
+    "c": 3,
+    "v": 1,
+    "t": "A prayer of Habakkuk the prophet, according to Shigionoth.",
+    "h": "Habakkuk’s Prayer",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "35003002",
+    "b": 35,
+    "c": 3,
+    "v": 2,
+    "t": "O LORD, I have heard the report of you, and your work, O LORD, do I fear. In the midst of the years revive it; in the midst of the years make it known; in wrath remember mercy.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "35003003",
+    "b": 35,
+    "c": 3,
+    "v": 3,
+    "t": "God came from Teman, and the Holy One from Mount Paran. Selah His splendor covered the heavens, and the earth was full of his praise.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "35003004",
+    "b": 35,
+    "c": 3,
+    "v": 4,
+    "t": "His brightness was like the light; rays flashed from his hand; and there he veiled his power.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "35003005",
+    "b": 35,
+    "c": 3,
+    "v": 5,
+    "t": "Before him went pestilence, and plague followed at his heels.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "35003006",
+    "b": 35,
+    "c": 3,
+    "v": 6,
+    "t": "He stood and measured the earth; he looked and shook the nations; then the eternal mountains were scattered; the everlasting hills sank low. His were the everlasting ways.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "35003007",
+    "b": 35,
+    "c": 3,
+    "v": 7,
+    "t": "I saw the tents of Cushan in affliction; the curtains of the land of Midian did tremble.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "35003008",
+    "b": 35,
+    "c": 3,
+    "v": 8,
+    "t": "Was your wrath against the rivers, O LORD ? Was your anger against the rivers, or your indignation against the sea, when you rode on your horses, on your chariot of salvation?",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "35003009",
+    "b": 35,
+    "c": 3,
+    "v": 9,
+    "t": "You stripped the sheath from your bow, calling for many arrows. Selah You split the earth with rivers.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "35003010",
+    "b": 35,
+    "c": 3,
+    "v": 10,
+    "t": "The mountains saw you and writhed; the raging waters swept on; the deep gave forth its voice; it lifted its hands on high.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "35003011",
+    "b": 35,
+    "c": 3,
+    "v": 11,
+    "t": "The sun and moon stood still in their place at the light of your arrows as they sped, at the flash of your glittering spear.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "35003012",
+    "b": 35,
+    "c": 3,
+    "v": 12,
+    "t": "You marched through the earth in fury; you threshed the nations in anger.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "35003013",
+    "b": 35,
+    "c": 3,
+    "v": 13,
+    "t": "You went out for the salvation of your people, for the salvation of your anointed. You crushed the head of the house of the wicked, laying him bare from thigh to neck. Selah",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "35003014",
+    "b": 35,
+    "c": 3,
+    "v": 14,
+    "t": "You pierced with his own arrows the heads of his warriors, who came like a whirlwind to scatter me, rejoicing as if to devour the poor in secret.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "35003015",
+    "b": 35,
+    "c": 3,
+    "v": 15,
+    "t": "You trampled the sea with your horses, the surging of mighty waters.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "35003016",
+    "b": 35,
+    "c": 3,
+    "v": 16,
+    "t": "I hear, and my body trembles; my lips quiver at the sound; rottenness enters into my bones; my legs tremble beneath me. Yet I will quietly wait for the day of trouble to come upon people who invade us.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "35003017",
+    "b": 35,
+    "c": 3,
+    "v": 17,
+    "t": "Though the fig tree should not blossom, nor fruit be on the vines, the produce of the olive fail and the fields yield no food, the flock be cut off from the fold and there be no herd in the stalls,",
+    "h": "Habakkuk Rejoices in the LORD",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "35003018",
+    "b": 35,
+    "c": 3,
+    "v": 18,
+    "t": "yet I will rejoice in the LORD ; I will take joy in the God of my salvation.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "35003019",
+    "b": 35,
+    "c": 3,
+    "v": 19,
+    "t": "GOD, the Lord, is my strength; he makes my feet like the deer’s; he makes me tread on my high places. To the choirmaster: with stringed instruments.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  }
+]

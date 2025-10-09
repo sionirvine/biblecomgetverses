@@ -1,0 +1,4332 @@
+[
+  {
+    "id": "45001001",
+    "b": 45,
+    "c": 1,
+    "v": 1,
+    "t": "Paul, a servant of Christ Jesus, called to be an apostle and set apart for the gospel of God—",
+    "h": "",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "45001002",
+    "b": 45,
+    "c": 1,
+    "v": 2,
+    "t": "the gospel he promised beforehand through his prophets in the Holy Scriptures",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "45001003",
+    "b": 45,
+    "c": 1,
+    "v": 3,
+    "t": "regarding his Son, who as to his earthly life was a descendant of David,",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "45001004",
+    "b": 45,
+    "c": 1,
+    "v": 4,
+    "t": "and who through the Spirit of holiness was appointed the Son of God in power by his resurrection from the dead: Jesus Christ our Lord.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "45001005",
+    "b": 45,
+    "c": 1,
+    "v": 5,
+    "t": "Through him we received grace and apostleship to call all the Gentiles to the obedience that comes from faith for his name’s sake.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "45001006",
+    "b": 45,
+    "c": 1,
+    "v": 6,
+    "t": "And you also are among those Gentiles who are called to belong to Jesus Christ.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "45001007",
+    "b": 45,
+    "c": 1,
+    "v": 7,
+    "t": "To all in Rome who are loved by God and called to be his holy people: Grace and peace to you from God our Father and from the Lord Jesus Christ.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "45001008",
+    "b": 45,
+    "c": 1,
+    "v": 8,
+    "t": "First, I thank my God through Jesus Christ for all of you, because your faith is being reported all over the world.",
+    "h": "Paul’s Longing to Visit Rome",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "45001009",
+    "b": 45,
+    "c": 1,
+    "v": 9,
+    "t": "God, whom I serve in my spirit in preaching the gospel of his Son, is my witness how constantly I remember you",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "45001010",
+    "b": 45,
+    "c": 1,
+    "v": 10,
+    "t": "in my prayers at all times; and I pray that now at last by God’s will the way may be opened for me to come to you.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "45001011",
+    "b": 45,
+    "c": 1,
+    "v": 11,
+    "t": "I long to see you so that I may impart to you some spiritual gift to make you strong—",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "45001012",
+    "b": 45,
+    "c": 1,
+    "v": 12,
+    "t": "that is, that you and I may be mutually encouraged by each other’s faith.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "45001013",
+    "b": 45,
+    "c": 1,
+    "v": 13,
+    "t": "I do not want you to be unaware, brothers and sisters, that I planned many times to come to you (but have been prevented from doing so until now) in order that I might have a harvest among you, just as I have had among the other Gentiles.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "45001014",
+    "b": 45,
+    "c": 1,
+    "v": 14,
+    "t": "I am obligated both to Greeks and non-Greeks, both to the wise and the foolish.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "45001015",
+    "b": 45,
+    "c": 1,
+    "v": 15,
+    "t": "That is why I am so eager to preach the gospel also to you who are in Rome.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "45001016",
+    "b": 45,
+    "c": 1,
+    "v": 16,
+    "t": "For I am not ashamed of the gospel, because it is the power of God that brings salvation to everyone who believes: first to the Jew, then to the Gentile.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "45001017",
+    "b": 45,
+    "c": 1,
+    "v": 17,
+    "t": "For in the gospel the righteousness of God is revealed—a righteousness that is by faith from first to last, just as it is written: “The righteous will live by faith.”",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "45001018",
+    "b": 45,
+    "c": 1,
+    "v": 18,
+    "t": "The wrath of God is being revealed from heaven against all the godlessness and wickedness of people, who suppress the truth by their wickedness,",
+    "h": "God’s Wrath Against Sinful Humanity",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "45001019",
+    "b": 45,
+    "c": 1,
+    "v": 19,
+    "t": "since what may be known about God is plain to them, because God has made it plain to them.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "45001020",
+    "b": 45,
+    "c": 1,
+    "v": 20,
+    "t": "For since the creation of the world God’s invisible qualities—his eternal power and divine nature—have been clearly seen, being understood from what has been made, so that people are without excuse.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "45001021",
+    "b": 45,
+    "c": 1,
+    "v": 21,
+    "t": "For although they knew God, they neither glorified him as God nor gave thanks to him, but their thinking became futile and their foolish hearts were darkened.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "45001022",
+    "b": 45,
+    "c": 1,
+    "v": 22,
+    "t": "Although they claimed to be wise, they became fools",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "45001023",
+    "b": 45,
+    "c": 1,
+    "v": 23,
+    "t": "and exchanged the glory of the immortal God for images made to look like a mortal human being and birds and animals and reptiles.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "45001024",
+    "b": 45,
+    "c": 1,
+    "v": 24,
+    "t": "Therefore God gave them over in the sinful desires of their hearts to sexual impurity for the degrading of their bodies with one another.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "45001025",
+    "b": 45,
+    "c": 1,
+    "v": 25,
+    "t": "They exchanged the truth about God for a lie, and worshiped and served created things rather than the Creator—who is forever praised. Amen.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "45001026",
+    "b": 45,
+    "c": 1,
+    "v": 26,
+    "t": "Because of this, God gave them over to shameful lusts. Even their women exchanged natural sexual relations for unnatural ones.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "45001027",
+    "b": 45,
+    "c": 1,
+    "v": 27,
+    "t": "In the same way the men also abandoned natural relations with women and were inflamed with lust for one another. Men committed shameful acts with other men, and received in themselves the due penalty for their error.",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "45001028",
+    "b": 45,
+    "c": 1,
+    "v": 28,
+    "t": "Furthermore, just as they did not think it worthwhile to retain the knowledge of God, so God gave them over to a depraved mind, so that they do what ought not to be done.",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "45001029",
+    "b": 45,
+    "c": 1,
+    "v": 29,
+    "t": "They have become filled with every kind of wickedness, evil, greed and depravity. They are full of envy, murder, strife, deceit and malice. They are gossips,",
+    "h": "",
+    "o": 29,
+    "l": "29"
+  },
+  {
+    "id": "45001030",
+    "b": 45,
+    "c": 1,
+    "v": 30,
+    "t": "slanderers, God-haters, insolent, arrogant and boastful; they invent ways of doing evil; they disobey their parents;",
+    "h": "",
+    "o": 30,
+    "l": "30"
+  },
+  {
+    "id": "45001031",
+    "b": 45,
+    "c": 1,
+    "v": 31,
+    "t": "they have no understanding, no fidelity, no love, no mercy.",
+    "h": "",
+    "o": 31,
+    "l": "31"
+  },
+  {
+    "id": "45001032",
+    "b": 45,
+    "c": 1,
+    "v": 32,
+    "t": "Although they know God’s righteous decree that those who do such things deserve death, they not only continue to do these very things but also approve of those who practice them.",
+    "h": "",
+    "o": 32,
+    "l": "32"
+  },
+  {
+    "id": "45002001",
+    "b": 45,
+    "c": 2,
+    "v": 1,
+    "t": "You, therefore, have no excuse, you who pass judgment on someone else, for at whatever point you judge another, you are condemning yourself, because you who pass judgment do the same things.",
+    "h": "God’s Righteous Judgment",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "45002002",
+    "b": 45,
+    "c": 2,
+    "v": 2,
+    "t": "Now we know that God’s judgment against those who do such things is based on truth.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "45002003",
+    "b": 45,
+    "c": 2,
+    "v": 3,
+    "t": "So when you, a mere human being, pass judgment on them and yet do the same things, do you think you will escape God’s judgment?",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "45002004",
+    "b": 45,
+    "c": 2,
+    "v": 4,
+    "t": "Or do you show contempt for the riches of his kindness, forbearance and patience, not realizing that God’s kindness is intended to lead you to repentance?",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "45002005",
+    "b": 45,
+    "c": 2,
+    "v": 5,
+    "t": "But because of your stubbornness and your unrepentant heart, you are storing up wrath against yourself for the day of God’s wrath, when his righteous judgment will be revealed.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "45002006",
+    "b": 45,
+    "c": 2,
+    "v": 6,
+    "t": "God “will repay each person according to what they have done.”",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "45002007",
+    "b": 45,
+    "c": 2,
+    "v": 7,
+    "t": "To those who by persistence in doing good seek glory, honor and immortality, he will give eternal life.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "45002008",
+    "b": 45,
+    "c": 2,
+    "v": 8,
+    "t": "But for those who are self-seeking and who reject the truth and follow evil, there will be wrath and anger.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "45002009",
+    "b": 45,
+    "c": 2,
+    "v": 9,
+    "t": "There will be trouble and distress for every human being who does evil: first for the Jew, then for the Gentile;",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "45002010",
+    "b": 45,
+    "c": 2,
+    "v": 10,
+    "t": "but glory, honor and peace for everyone who does good: first for the Jew, then for the Gentile.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "45002011",
+    "b": 45,
+    "c": 2,
+    "v": 11,
+    "t": "For God does not show favoritism.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "45002012",
+    "b": 45,
+    "c": 2,
+    "v": 12,
+    "t": "All who sin apart from the law will also perish apart from the law, and all who sin under the law will be judged by the law.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "45002013",
+    "b": 45,
+    "c": 2,
+    "v": 13,
+    "t": "For it is not those who hear the law who are righteous in God’s sight, but it is those who obey the law who will be declared righteous.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "45002014",
+    "b": 45,
+    "c": 2,
+    "v": 14,
+    "t": "(Indeed, when Gentiles, who do not have the law, do by nature things required by the law, they are a law for themselves, even though they do not have the law.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "45002015",
+    "b": 45,
+    "c": 2,
+    "v": 15,
+    "t": "They show that the requirements of the law are written on their hearts, their consciences also bearing witness, and their thoughts sometimes accusing them and at other times even defending them.)",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "45002016",
+    "b": 45,
+    "c": 2,
+    "v": 16,
+    "t": "This will take place on the day when God judges people’s secrets through Jesus Christ, as my gospel declares.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "45002017",
+    "b": 45,
+    "c": 2,
+    "v": 17,
+    "t": "Now you, if you call yourself a Jew; if you rely on the law and boast in God;",
+    "h": "The Jews and the Law",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "45002018",
+    "b": 45,
+    "c": 2,
+    "v": 18,
+    "t": "if you know his will and approve of what is superior because you are instructed by the law;",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "45002019",
+    "b": 45,
+    "c": 2,
+    "v": 19,
+    "t": "if you are convinced that you are a guide for the blind, a light for those who are in the dark,",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "45002020",
+    "b": 45,
+    "c": 2,
+    "v": 20,
+    "t": "an instructor of the foolish, a teacher of little children, because you have in the law the embodiment of knowledge and truth—",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "45002021",
+    "b": 45,
+    "c": 2,
+    "v": 21,
+    "t": "you, then, who teach others, do you not teach yourself? You who preach against stealing, do you steal?",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "45002022",
+    "b": 45,
+    "c": 2,
+    "v": 22,
+    "t": "You who say that people should not commit adultery, do you commit adultery? You who abhor idols, do you rob temples?",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "45002023",
+    "b": 45,
+    "c": 2,
+    "v": 23,
+    "t": "You who boast in the law, do you dishonor God by breaking the law?",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "45002024",
+    "b": 45,
+    "c": 2,
+    "v": 24,
+    "t": "As it is written: “God’s name is blasphemed among the Gentiles because of you.”",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "45002025",
+    "b": 45,
+    "c": 2,
+    "v": 25,
+    "t": "Circumcision has value if you observe the law, but if you break the law, you have become as though you had not been circumcised.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "45002026",
+    "b": 45,
+    "c": 2,
+    "v": 26,
+    "t": "So then, if those who are not circumcised keep the law’s requirements, will they not be regarded as though they were circumcised?",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "45002027",
+    "b": 45,
+    "c": 2,
+    "v": 27,
+    "t": "The one who is not circumcised physically and yet obeys the law will condemn you who, even though you have the written code and circumcision, are a lawbreaker.",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "45002028",
+    "b": 45,
+    "c": 2,
+    "v": 28,
+    "t": "A person is not a Jew who is one only outwardly, nor is circumcision merely outward and physical.",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "45002029",
+    "b": 45,
+    "c": 2,
+    "v": 29,
+    "t": "No, a person is a Jew who is one inwardly; and circumcision is circumcision of the heart, by the Spirit, not by the written code. Such a person’s praise is not from other people, but from God.",
+    "h": "",
+    "o": 29,
+    "l": "29"
+  },
+  {
+    "id": "45003001",
+    "b": 45,
+    "c": 3,
+    "v": 1,
+    "t": "What advantage, then, is there in being a Jew, or what value is there in circumcision?",
+    "h": "God’s Faithfulness",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "45003002",
+    "b": 45,
+    "c": 3,
+    "v": 2,
+    "t": "Much in every way! First of all, the Jews have been entrusted with the very words of God.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "45003003",
+    "b": 45,
+    "c": 3,
+    "v": 3,
+    "t": "What if some were unfaithful? Will their unfaithfulness nullify God’s faithfulness?",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "45003004",
+    "b": 45,
+    "c": 3,
+    "v": 4,
+    "t": "Not at all! Let God be true, and every human being a liar. As it is written: “So that you may be proved right when you speak and prevail when you judge.”",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "45003005",
+    "b": 45,
+    "c": 3,
+    "v": 5,
+    "t": "But if our unrighteousness brings out God’s righteousness more clearly, what shall we say? That God is unjust in bringing his wrath on us? (I am using a human argument.)",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "45003006",
+    "b": 45,
+    "c": 3,
+    "v": 6,
+    "t": "Certainly not! If that were so, how could God judge the world?",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "45003007",
+    "b": 45,
+    "c": 3,
+    "v": 7,
+    "t": "Someone might argue, “If my falsehood enhances God’s truthfulness and so increases his glory, why am I still condemned as a sinner?”",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "45003008",
+    "b": 45,
+    "c": 3,
+    "v": 8,
+    "t": "Why not say—as some slanderously claim that we say—“Let us do evil that good may result”? Their condemnation is just!",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "45003009",
+    "b": 45,
+    "c": 3,
+    "v": 9,
+    "t": "What shall we conclude then? Do we have any advantage? Not at all! For we have already made the charge that Jews and Gentiles alike are all under the power of sin.",
+    "h": "No One Is Righteous",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "45003010",
+    "b": 45,
+    "c": 3,
+    "v": 10,
+    "t": "As it is written: “There is no one righteous, not even one;",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "45003011",
+    "b": 45,
+    "c": 3,
+    "v": 11,
+    "t": "there is no one who understands; there is no one who seeks God.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "45003012",
+    "b": 45,
+    "c": 3,
+    "v": 12,
+    "t": "All have turned away, they have together become worthless; there is no one who does good, not even one.”",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "45003013",
+    "b": 45,
+    "c": 3,
+    "v": 13,
+    "t": "“Their throats are open graves; their tongues practice deceit.” “The poison of vipers is on their lips.”",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "45003014",
+    "b": 45,
+    "c": 3,
+    "v": 14,
+    "t": "“Their mouths are full of cursing and bitterness.”",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "45003015",
+    "b": 45,
+    "c": 3,
+    "v": 15,
+    "t": "“Their feet are swift to shed blood;",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "45003016",
+    "b": 45,
+    "c": 3,
+    "v": 16,
+    "t": "ruin and misery mark their ways,",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "45003017",
+    "b": 45,
+    "c": 3,
+    "v": 17,
+    "t": "and the way of peace they do not know.”",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "45003018",
+    "b": 45,
+    "c": 3,
+    "v": 18,
+    "t": "“There is no fear of God before their eyes.”",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "45003019",
+    "b": 45,
+    "c": 3,
+    "v": 19,
+    "t": "Now we know that whatever the law says, it says to those who are under the law, so that every mouth may be silenced and the whole world held accountable to God.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "45003020",
+    "b": 45,
+    "c": 3,
+    "v": 20,
+    "t": "Therefore no one will be declared righteous in God’s sight by the works of the law; rather, through the law we become conscious of our sin.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "45003021",
+    "b": 45,
+    "c": 3,
+    "v": 21,
+    "t": "But now apart from the law the righteousness of God has been made known, to which the Law and the Prophets testify.",
+    "h": "Righteousness Through Faith",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "45003022",
+    "b": 45,
+    "c": 3,
+    "v": 22,
+    "t": "This righteousness is given through faith in Jesus Christ to all who believe. There is no difference between Jew and Gentile,",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "45003023",
+    "b": 45,
+    "c": 3,
+    "v": 23,
+    "t": "for all have sinned and fall short of the glory of God,",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "45003024",
+    "b": 45,
+    "c": 3,
+    "v": 24,
+    "t": "and all are justified freely by his grace through the redemption that came by Christ Jesus.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "45003025",
+    "b": 45,
+    "c": 3,
+    "v": 25,
+    "t": "God presented Christ as a sacrifice of atonement, through the shedding of his blood—to be received by faith. He did this to demonstrate his righteousness, because in his forbearance he had left the sins committed beforehand unpunished—",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "45003026",
+    "b": 45,
+    "c": 3,
+    "v": 26,
+    "t": "he did it to demonstrate his righteousness at the present time, so as to be just and the one who justifies those who have faith in Jesus.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "45003027",
+    "b": 45,
+    "c": 3,
+    "v": 27,
+    "t": "Where, then, is boasting? It is excluded. Because of what law? The law that requires works? No, because of the law that requires faith.",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "45003028",
+    "b": 45,
+    "c": 3,
+    "v": 28,
+    "t": "For we maintain that a person is justified by faith apart from the works of the law.",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "45003029",
+    "b": 45,
+    "c": 3,
+    "v": 29,
+    "t": "Or is God the God of Jews only? Is he not the God of Gentiles too? Yes, of Gentiles too,",
+    "h": "",
+    "o": 29,
+    "l": "29"
+  },
+  {
+    "id": "45003030",
+    "b": 45,
+    "c": 3,
+    "v": 30,
+    "t": "since there is only one God, who will justify the circumcised by faith and the uncircumcised through that same faith.",
+    "h": "",
+    "o": 30,
+    "l": "30"
+  },
+  {
+    "id": "45003031",
+    "b": 45,
+    "c": 3,
+    "v": 31,
+    "t": "Do we, then, nullify the law by this faith? Not at all! Rather, we uphold the law.",
+    "h": "",
+    "o": 31,
+    "l": "31"
+  },
+  {
+    "id": "45004001",
+    "b": 45,
+    "c": 4,
+    "v": 1,
+    "t": "What then shall we say that Abraham, our forefather according to the flesh, discovered in this matter?",
+    "h": "Abraham Justified by Faith",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "45004002",
+    "b": 45,
+    "c": 4,
+    "v": 2,
+    "t": "If, in fact, Abraham was justified by works, he had something to boast about—but not before God.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "45004003",
+    "b": 45,
+    "c": 4,
+    "v": 3,
+    "t": "What does Scripture say? “Abraham believed God, and it was credited to him as righteousness.”",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "45004004",
+    "b": 45,
+    "c": 4,
+    "v": 4,
+    "t": "Now to the one who works, wages are not credited as a gift but as an obligation.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "45004005",
+    "b": 45,
+    "c": 4,
+    "v": 5,
+    "t": "However, to the one who does not work but trusts God who justifies the ungodly, their faith is credited as righteousness.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "45004006",
+    "b": 45,
+    "c": 4,
+    "v": 6,
+    "t": "David says the same thing when he speaks of the blessedness of the one to whom God credits righteousness apart from works:",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "45004007",
+    "b": 45,
+    "c": 4,
+    "v": 7,
+    "t": "“Blessed are those whose transgressions are forgiven, whose sins are covered.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "45004008",
+    "b": 45,
+    "c": 4,
+    "v": 8,
+    "t": "Blessed is the one whose sin the Lord will never count against them.”",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "45004009",
+    "b": 45,
+    "c": 4,
+    "v": 9,
+    "t": "Is this blessedness only for the circumcised, or also for the uncircumcised? We have been saying that Abraham’s faith was credited to him as righteousness.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "45004010",
+    "b": 45,
+    "c": 4,
+    "v": 10,
+    "t": "Under what circumstances was it credited? Was it after he was circumcised, or before? It was not after, but before!",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "45004011",
+    "b": 45,
+    "c": 4,
+    "v": 11,
+    "t": "And he received circumcision as a sign, a seal of the righteousness that he had by faith while he was still uncircumcised. So then, he is the father of all who believe but have not been circumcised, in order that righteousness might be credited to them.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "45004012",
+    "b": 45,
+    "c": 4,
+    "v": 12,
+    "t": "And he is then also the father of the circumcised who not only are circumcised but who also follow in the footsteps of the faith that our father Abraham had before he was circumcised.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "45004013",
+    "b": 45,
+    "c": 4,
+    "v": 13,
+    "t": "It was not through the law that Abraham and his offspring received the promise that he would be heir of the world, but through the righteousness that comes by faith.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "45004014",
+    "b": 45,
+    "c": 4,
+    "v": 14,
+    "t": "For if those who depend on the law are heirs, faith means nothing and the promise is worthless,",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "45004015",
+    "b": 45,
+    "c": 4,
+    "v": 15,
+    "t": "because the law brings wrath. And where there is no law there is no transgression.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "45004016",
+    "b": 45,
+    "c": 4,
+    "v": 16,
+    "t": "Therefore, the promise comes by faith, so that it may be by grace and may be guaranteed to all Abraham’s offspring—not only to those who are of the law but also to those who have the faith of Abraham. He is the father of us all.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "45004017",
+    "b": 45,
+    "c": 4,
+    "v": 17,
+    "t": "As it is written: “I have made you a father of many nations.” He is our father in the sight of God, in whom he believed—the God who gives life to the dead and calls into being things that were not.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "45004018",
+    "b": 45,
+    "c": 4,
+    "v": 18,
+    "t": "Against all hope, Abraham in hope believed and so became the father of many nations, just as it had been said to him, “So shall your offspring be.”",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "45004019",
+    "b": 45,
+    "c": 4,
+    "v": 19,
+    "t": "Without weakening in his faith, he faced the fact that his body was as good as dead—since he was about a hundred years old—and that Sarah’s womb was also dead.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "45004020",
+    "b": 45,
+    "c": 4,
+    "v": 20,
+    "t": "Yet he did not waver through unbelief regarding the promise of God, but was strengthened in his faith and gave glory to God,",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "45004021",
+    "b": 45,
+    "c": 4,
+    "v": 21,
+    "t": "being fully persuaded that God had power to do what he had promised.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "45004022",
+    "b": 45,
+    "c": 4,
+    "v": 22,
+    "t": "This is why “it was credited to him as righteousness.”",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "45004023",
+    "b": 45,
+    "c": 4,
+    "v": 23,
+    "t": "The words “it was credited to him” were written not for him alone,",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "45004024",
+    "b": 45,
+    "c": 4,
+    "v": 24,
+    "t": "but also for us, to whom God will credit righteousness—for us who believe in him who raised Jesus our Lord from the dead.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "45004025",
+    "b": 45,
+    "c": 4,
+    "v": 25,
+    "t": "He was delivered over to death for our sins and was raised to life for our justification.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "45005001",
+    "b": 45,
+    "c": 5,
+    "v": 1,
+    "t": "Therefore, since we have been justified through faith, we have peace with God through our Lord Jesus Christ,",
+    "h": "Peace and Hope",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "45005002",
+    "b": 45,
+    "c": 5,
+    "v": 2,
+    "t": "through whom we have gained access by faith into this grace in which we now stand. And we boast in the hope of the glory of God.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "45005003",
+    "b": 45,
+    "c": 5,
+    "v": 3,
+    "t": "Not only so, but we also glory in our sufferings, because we know that suffering produces perseverance;",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "45005004",
+    "b": 45,
+    "c": 5,
+    "v": 4,
+    "t": "perseverance, character; and character, hope.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "45005005",
+    "b": 45,
+    "c": 5,
+    "v": 5,
+    "t": "And hope does not put us to shame, because God’s love has been poured out into our hearts through the Holy Spirit, who has been given to us.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "45005006",
+    "b": 45,
+    "c": 5,
+    "v": 6,
+    "t": "You see, at just the right time, when we were still powerless, Christ died for the ungodly.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "45005007",
+    "b": 45,
+    "c": 5,
+    "v": 7,
+    "t": "Very rarely will anyone die for a righteous person, though for a good person someone might possibly dare to die.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "45005008",
+    "b": 45,
+    "c": 5,
+    "v": 8,
+    "t": "But God demonstrates his own love for us in this: While we were still sinners, Christ died for us.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "45005009",
+    "b": 45,
+    "c": 5,
+    "v": 9,
+    "t": "Since we have now been justified by his blood, how much more shall we be saved from God’s wrath through him!",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "45005010",
+    "b": 45,
+    "c": 5,
+    "v": 10,
+    "t": "For if, while we were God’s enemies, we were reconciled to him through the death of his Son, how much more, having been reconciled, shall we be saved through his life!",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "45005011",
+    "b": 45,
+    "c": 5,
+    "v": 11,
+    "t": "Not only is this so, but we also boast in God through our Lord Jesus Christ, through whom we have now received reconciliation.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "45005012",
+    "b": 45,
+    "c": 5,
+    "v": 12,
+    "t": "Therefore, just as sin entered the world through one man, and death through sin, and in this way death came to all people, because all sinned—",
+    "h": "Death Through Adam, Life Through Christ",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "45005013",
+    "b": 45,
+    "c": 5,
+    "v": 13,
+    "t": "To be sure, sin was in the world before the law was given, but sin is not charged against anyone’s account where there is no law.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "45005014",
+    "b": 45,
+    "c": 5,
+    "v": 14,
+    "t": "Nevertheless, death reigned from the time of Adam to the time of Moses, even over those who did not sin by breaking a command, as did Adam, who is a pattern of the one to come.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "45005015",
+    "b": 45,
+    "c": 5,
+    "v": 15,
+    "t": "But the gift is not like the trespass. For if the many died by the trespass of the one man, how much more did God’s grace and the gift that came by the grace of the one man, Jesus Christ, overflow to the many!",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "45005016",
+    "b": 45,
+    "c": 5,
+    "v": 16,
+    "t": "Nor can the gift of God be compared with the result of one man’s sin: The judgment followed one sin and brought condemnation, but the gift followed many trespasses and brought justification.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "45005017",
+    "b": 45,
+    "c": 5,
+    "v": 17,
+    "t": "For if, by the trespass of the one man, death reigned through that one man, how much more will those who receive God’s abundant provision of grace and of the gift of righteousness reign in life through the one man, Jesus Christ!",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "45005018",
+    "b": 45,
+    "c": 5,
+    "v": 18,
+    "t": "Consequently, just as one trespass resulted in condemnation for all people, so also one righteous act resulted in justification and life for all people.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "45005019",
+    "b": 45,
+    "c": 5,
+    "v": 19,
+    "t": "For just as through the disobedience of the one man the many were made sinners, so also through the obedience of the one man the many will be made righteous.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "45005020",
+    "b": 45,
+    "c": 5,
+    "v": 20,
+    "t": "The law was brought in so that the trespass might increase. But where sin increased, grace increased all the more,",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "45005021",
+    "b": 45,
+    "c": 5,
+    "v": 21,
+    "t": "so that, just as sin reigned in death, so also grace might reign through righteousness to bring eternal life through Jesus Christ our Lord.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "45006001",
+    "b": 45,
+    "c": 6,
+    "v": 1,
+    "t": "What shall we say, then? Shall we go on sinning so that grace may increase?",
+    "h": "Dead to Sin, Alive in Christ",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "45006002",
+    "b": 45,
+    "c": 6,
+    "v": 2,
+    "t": "By no means! We are those who have died to sin; how can we live in it any longer?",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "45006003",
+    "b": 45,
+    "c": 6,
+    "v": 3,
+    "t": "Or don’t you know that all of us who were baptized into Christ Jesus were baptized into his death?",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "45006004",
+    "b": 45,
+    "c": 6,
+    "v": 4,
+    "t": "We were therefore buried with him through baptism into death in order that, just as Christ was raised from the dead through the glory of the Father, we too may live a new life.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "45006005",
+    "b": 45,
+    "c": 6,
+    "v": 5,
+    "t": "For if we have been united with him in a death like his, we will certainly also be united with him in a resurrection like his.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "45006006",
+    "b": 45,
+    "c": 6,
+    "v": 6,
+    "t": "For we know that our old self was crucified with him so that the body ruled by sin might be done away with, that we should no longer be slaves to sin—",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "45006007",
+    "b": 45,
+    "c": 6,
+    "v": 7,
+    "t": "because anyone who has died has been set free from sin.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "45006008",
+    "b": 45,
+    "c": 6,
+    "v": 8,
+    "t": "Now if we died with Christ, we believe that we will also live with him.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "45006009",
+    "b": 45,
+    "c": 6,
+    "v": 9,
+    "t": "For we know that since Christ was raised from the dead, he cannot die again; death no longer has mastery over him.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "45006010",
+    "b": 45,
+    "c": 6,
+    "v": 10,
+    "t": "The death he died, he died to sin once for all; but the life he lives, he lives to God.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "45006011",
+    "b": 45,
+    "c": 6,
+    "v": 11,
+    "t": "In the same way, count yourselves dead to sin but alive to God in Christ Jesus.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "45006012",
+    "b": 45,
+    "c": 6,
+    "v": 12,
+    "t": "Therefore do not let sin reign in your mortal body so that you obey its evil desires.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "45006013",
+    "b": 45,
+    "c": 6,
+    "v": 13,
+    "t": "Do not offer any part of yourself to sin as an instrument of wickedness, but rather offer yourselves to God as those who have been brought from death to life; and offer every part of yourself to him as an instrument of righteousness.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "45006014",
+    "b": 45,
+    "c": 6,
+    "v": 14,
+    "t": "For sin shall no longer be your master, because you are not under the law, but under grace.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "45006015",
+    "b": 45,
+    "c": 6,
+    "v": 15,
+    "t": "What then? Shall we sin because we are not under the law but under grace? By no means!",
+    "h": "Slaves to Righteousness",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "45006016",
+    "b": 45,
+    "c": 6,
+    "v": 16,
+    "t": "Don’t you know that when you offer yourselves to someone as obedient slaves, you are slaves of the one you obey—whether you are slaves to sin, which leads to death, or to obedience, which leads to righteousness?",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "45006017",
+    "b": 45,
+    "c": 6,
+    "v": 17,
+    "t": "But thanks be to God that, though you used to be slaves to sin, you have come to obey from your heart the pattern of teaching that has now claimed your allegiance.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "45006018",
+    "b": 45,
+    "c": 6,
+    "v": 18,
+    "t": "You have been set free from sin and have become slaves to righteousness.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "45006019",
+    "b": 45,
+    "c": 6,
+    "v": 19,
+    "t": "I am using an example from everyday life because of your human limitations. Just as you used to offer yourselves as slaves to impurity and to ever-increasing wickedness, so now offer yourselves as slaves to righteousness leading to holiness.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "45006020",
+    "b": 45,
+    "c": 6,
+    "v": 20,
+    "t": "When you were slaves to sin, you were free from the control of righteousness.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "45006021",
+    "b": 45,
+    "c": 6,
+    "v": 21,
+    "t": "What benefit did you reap at that time from the things you are now ashamed of? Those things result in death!",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "45006022",
+    "b": 45,
+    "c": 6,
+    "v": 22,
+    "t": "But now that you have been set free from sin and have become slaves of God, the benefit you reap leads to holiness, and the result is eternal life.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "45006023",
+    "b": 45,
+    "c": 6,
+    "v": 23,
+    "t": "For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "45007001",
+    "b": 45,
+    "c": 7,
+    "v": 1,
+    "t": "Do you not know, brothers and sisters—for I am speaking to those who know the law—that the law has authority over someone only as long as that person lives?",
+    "h": "Released From the Law, Bound to Christ",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "45007002",
+    "b": 45,
+    "c": 7,
+    "v": 2,
+    "t": "For example, by law a married woman is bound to her husband as long as he is alive, but if her husband dies, she is released from the law that binds her to him.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "45007003",
+    "b": 45,
+    "c": 7,
+    "v": 3,
+    "t": "So then, if she has sexual relations with another man while her husband is still alive, she is called an adulteress. But if her husband dies, she is released from that law and is not an adulteress if she marries another man.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "45007004",
+    "b": 45,
+    "c": 7,
+    "v": 4,
+    "t": "So, my brothers and sisters, you also died to the law through the body of Christ, that you might belong to another, to him who was raised from the dead, in order that we might bear fruit for God.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "45007005",
+    "b": 45,
+    "c": 7,
+    "v": 5,
+    "t": "For when we were in the realm of the flesh, the sinful passions aroused by the law were at work in us, so that we bore fruit for death.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "45007006",
+    "b": 45,
+    "c": 7,
+    "v": 6,
+    "t": "But now, by dying to what once bound us, we have been released from the law so that we serve in the new way of the Spirit, and not in the old way of the written code.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "45007007",
+    "b": 45,
+    "c": 7,
+    "v": 7,
+    "t": "What shall we say, then? Is the law sinful? Certainly not! Nevertheless, I would not have known what sin was had it not been for the law. For I would not have known what coveting really was if the law had not said, “You shall not covet.”",
+    "h": "The Law and Sin",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "45007008",
+    "b": 45,
+    "c": 7,
+    "v": 8,
+    "t": "But sin, seizing the opportunity afforded by the commandment, produced in me every kind of coveting. For apart from the law, sin was dead.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "45007009",
+    "b": 45,
+    "c": 7,
+    "v": 9,
+    "t": "Once I was alive apart from the law; but when the commandment came, sin sprang to life and I died.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "45007010",
+    "b": 45,
+    "c": 7,
+    "v": 10,
+    "t": "I found that the very commandment that was intended to bring life actually brought death.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "45007011",
+    "b": 45,
+    "c": 7,
+    "v": 11,
+    "t": "For sin, seizing the opportunity afforded by the commandment, deceived me, and through the commandment put me to death.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "45007012",
+    "b": 45,
+    "c": 7,
+    "v": 12,
+    "t": "So then, the law is holy, and the commandment is holy, righteous and good.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "45007013",
+    "b": 45,
+    "c": 7,
+    "v": 13,
+    "t": "Did that which is good, then, become death to me? By no means! Nevertheless, in order that sin might be recognized as sin, it used what is good to bring about my death, so that through the commandment sin might become utterly sinful.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "45007014",
+    "b": 45,
+    "c": 7,
+    "v": 14,
+    "t": "We know that the law is spiritual; but I am unspiritual, sold as a slave to sin.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "45007015",
+    "b": 45,
+    "c": 7,
+    "v": 15,
+    "t": "I do not understand what I do. For what I want to do I do not do, but what I hate I do.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "45007016",
+    "b": 45,
+    "c": 7,
+    "v": 16,
+    "t": "And if I do what I do not want to do, I agree that the law is good.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "45007017",
+    "b": 45,
+    "c": 7,
+    "v": 17,
+    "t": "As it is, it is no longer I myself who do it, but it is sin living in me.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "45007018",
+    "b": 45,
+    "c": 7,
+    "v": 18,
+    "t": "For I know that good itself does not dwell in me, that is, in my sinful nature. For I have the desire to do what is good, but I cannot carry it out.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "45007019",
+    "b": 45,
+    "c": 7,
+    "v": 19,
+    "t": "For I do not do the good I want to do, but the evil I do not want to do—this I keep on doing.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "45007020",
+    "b": 45,
+    "c": 7,
+    "v": 20,
+    "t": "Now if I do what I do not want to do, it is no longer I who do it, but it is sin living in me that does it.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "45007021",
+    "b": 45,
+    "c": 7,
+    "v": 21,
+    "t": "So I find this law at work: Although I want to do good, evil is right there with me.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "45007022",
+    "b": 45,
+    "c": 7,
+    "v": 22,
+    "t": "For in my inner being I delight in God’s law;",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "45007023",
+    "b": 45,
+    "c": 7,
+    "v": 23,
+    "t": "but I see another law at work in me, waging war against the law of my mind and making me a prisoner of the law of sin at work within me.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "45007024",
+    "b": 45,
+    "c": 7,
+    "v": 24,
+    "t": "What a wretched man I am! Who will rescue me from this body that is subject to death?",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "45007025",
+    "b": 45,
+    "c": 7,
+    "v": 25,
+    "t": "Thanks be to God, who delivers me through Jesus Christ our Lord! So then, I myself in my mind am a slave to God’s law, but in my sinful nature a slave to the law of sin.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "45008001",
+    "b": 45,
+    "c": 8,
+    "v": 1,
+    "t": "Therefore, there is now no condemnation for those who are in Christ Jesus,",
+    "h": "Life Through the Spirit",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "45008002",
+    "b": 45,
+    "c": 8,
+    "v": 2,
+    "t": "because through Christ Jesus the law of the Spirit who gives life has set you free from the law of sin and death.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "45008003",
+    "b": 45,
+    "c": 8,
+    "v": 3,
+    "t": "For what the law was powerless to do because it was weakened by the flesh, God did by sending his own Son in the likeness of sinful flesh to be a sin offering. And so he condemned sin in the flesh,",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "45008004",
+    "b": 45,
+    "c": 8,
+    "v": 4,
+    "t": "in order that the righteous requirement of the law might be fully met in us, who do not live according to the flesh but according to the Spirit.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "45008005",
+    "b": 45,
+    "c": 8,
+    "v": 5,
+    "t": "Those who live according to the flesh have their minds set on what the flesh desires; but those who live in accordance with the Spirit have their minds set on what the Spirit desires.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "45008006",
+    "b": 45,
+    "c": 8,
+    "v": 6,
+    "t": "The mind governed by the flesh is death, but the mind governed by the Spirit is life and peace.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "45008007",
+    "b": 45,
+    "c": 8,
+    "v": 7,
+    "t": "The mind governed by the flesh is hostile to God; it does not submit to God’s law, nor can it do so.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "45008008",
+    "b": 45,
+    "c": 8,
+    "v": 8,
+    "t": "Those who are in the realm of the flesh cannot please God.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "45008009",
+    "b": 45,
+    "c": 8,
+    "v": 9,
+    "t": "You, however, are not in the realm of the flesh but are in the realm of the Spirit, if indeed the Spirit of God lives in you. And if anyone does not have the Spirit of Christ, they do not belong to Christ.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "45008010",
+    "b": 45,
+    "c": 8,
+    "v": 10,
+    "t": "But if Christ is in you, then even though your body is subject to death because of sin, the Spirit gives life because of righteousness.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "45008011",
+    "b": 45,
+    "c": 8,
+    "v": 11,
+    "t": "And if the Spirit of him who raised Jesus from the dead is living in you, he who raised Christ from the dead will also give life to your mortal bodies because of his Spirit who lives in you.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "45008012",
+    "b": 45,
+    "c": 8,
+    "v": 12,
+    "t": "Therefore, brothers and sisters, we have an obligation—but it is not to the flesh, to live according to it.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "45008013",
+    "b": 45,
+    "c": 8,
+    "v": 13,
+    "t": "For if you live according to the flesh, you will die; but if by the Spirit you put to death the misdeeds of the body, you will live.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "45008014",
+    "b": 45,
+    "c": 8,
+    "v": 14,
+    "t": "For those who are led by the Spirit of God are the children of God.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "45008015",
+    "b": 45,
+    "c": 8,
+    "v": 15,
+    "t": "The Spirit you received does not make you slaves, so that you live in fear again; rather, the Spirit you received brought about your adoption to sonship. And by him we cry, “ Abba, Father.”",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "45008016",
+    "b": 45,
+    "c": 8,
+    "v": 16,
+    "t": "The Spirit himself testifies with our spirit that we are God’s children.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "45008017",
+    "b": 45,
+    "c": 8,
+    "v": 17,
+    "t": "Now if we are children, then we are heirs—heirs of God and co-heirs with Christ, if indeed we share in his sufferings in order that we may also share in his glory.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "45008018",
+    "b": 45,
+    "c": 8,
+    "v": 18,
+    "t": "I consider that our present sufferings are not worth comparing with the glory that will be revealed in us.",
+    "h": "Present Suffering and Future Glory",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "45008019",
+    "b": 45,
+    "c": 8,
+    "v": 19,
+    "t": "For the creation waits in eager expectation for the children of God to be revealed.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "45008020",
+    "b": 45,
+    "c": 8,
+    "v": 20,
+    "t": "For the creation was subjected to frustration, not by its own choice, but by the will of the one who subjected it, in hope",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "45008021",
+    "b": 45,
+    "c": 8,
+    "v": 21,
+    "t": "that the creation itself will be liberated from its bondage to decay and brought into the freedom and glory of the children of God.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "45008022",
+    "b": 45,
+    "c": 8,
+    "v": 22,
+    "t": "We know that the whole creation has been groaning as in the pains of childbirth right up to the present time.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "45008023",
+    "b": 45,
+    "c": 8,
+    "v": 23,
+    "t": "Not only so, but we ourselves, who have the firstfruits of the Spirit, groan inwardly as we wait eagerly for our adoption to sonship, the redemption of our bodies.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "45008024",
+    "b": 45,
+    "c": 8,
+    "v": 24,
+    "t": "For in this hope we were saved. But hope that is seen is no hope at all. Who hopes for what they already have?",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "45008025",
+    "b": 45,
+    "c": 8,
+    "v": 25,
+    "t": "But if we hope for what we do not yet have, we wait for it patiently.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "45008026",
+    "b": 45,
+    "c": 8,
+    "v": 26,
+    "t": "In the same way, the Spirit helps us in our weakness. We do not know what we ought to pray for, but the Spirit himself intercedes for us through wordless groans.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "45008027",
+    "b": 45,
+    "c": 8,
+    "v": 27,
+    "t": "And he who searches our hearts knows the mind of the Spirit, because the Spirit intercedes for God’s people in accordance with the will of God.",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "45008028",
+    "b": 45,
+    "c": 8,
+    "v": 28,
+    "t": "And we know that in all things God works for the good of those who love him, who have been called according to his purpose.",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "45008029",
+    "b": 45,
+    "c": 8,
+    "v": 29,
+    "t": "For those God foreknew he also predestined to be conformed to the image of his Son, that he might be the firstborn among many brothers and sisters.",
+    "h": "",
+    "o": 29,
+    "l": "29"
+  },
+  {
+    "id": "45008030",
+    "b": 45,
+    "c": 8,
+    "v": 30,
+    "t": "And those he predestined, he also called; those he called, he also justified; those he justified, he also glorified.",
+    "h": "",
+    "o": 30,
+    "l": "30"
+  },
+  {
+    "id": "45008031",
+    "b": 45,
+    "c": 8,
+    "v": 31,
+    "t": "What, then, shall we say in response to these things? If God is for us, who can be against us?",
+    "h": "More Than Conquerors",
+    "o": 31,
+    "l": "31"
+  },
+  {
+    "id": "45008032",
+    "b": 45,
+    "c": 8,
+    "v": 32,
+    "t": "He who did not spare his own Son, but gave him up for us all—how will he not also, along with him, graciously give us all things?",
+    "h": "",
+    "o": 32,
+    "l": "32"
+  },
+  {
+    "id": "45008033",
+    "b": 45,
+    "c": 8,
+    "v": 33,
+    "t": "Who will bring any charge against those whom God has chosen? It is God who justifies.",
+    "h": "",
+    "o": 33,
+    "l": "33"
+  },
+  {
+    "id": "45008034",
+    "b": 45,
+    "c": 8,
+    "v": 34,
+    "t": "Who then is the one who condemns? No one. Christ Jesus who died—more than that, who was raised to life—is at the right hand of God and is also interceding for us.",
+    "h": "",
+    "o": 34,
+    "l": "34"
+  },
+  {
+    "id": "45008035",
+    "b": 45,
+    "c": 8,
+    "v": 35,
+    "t": "Who shall separate us from the love of Christ? Shall trouble or hardship or persecution or famine or nakedness or danger or sword?",
+    "h": "",
+    "o": 35,
+    "l": "35"
+  },
+  {
+    "id": "45008036",
+    "b": 45,
+    "c": 8,
+    "v": 36,
+    "t": "As it is written: “For your sake we face death all day long; we are considered as sheep to be slaughtered.”",
+    "h": "",
+    "o": 36,
+    "l": "36"
+  },
+  {
+    "id": "45008037",
+    "b": 45,
+    "c": 8,
+    "v": 37,
+    "t": "No, in all these things we are more than conquerors through him who loved us.",
+    "h": "",
+    "o": 37,
+    "l": "37"
+  },
+  {
+    "id": "45008038",
+    "b": 45,
+    "c": 8,
+    "v": 38,
+    "t": "For I am convinced that neither death nor life, neither angels nor demons, neither the present nor the future, nor any powers,",
+    "h": "",
+    "o": 38,
+    "l": "38"
+  },
+  {
+    "id": "45008039",
+    "b": 45,
+    "c": 8,
+    "v": 39,
+    "t": "neither height nor depth, nor anything else in all creation, will be able to separate us from the love of God that is in Christ Jesus our Lord.",
+    "h": "",
+    "o": 39,
+    "l": "39"
+  },
+  {
+    "id": "45009001",
+    "b": 45,
+    "c": 9,
+    "v": 1,
+    "t": "I speak the truth in Christ—I am not lying, my conscience confirms it through the Holy Spirit—",
+    "h": "Paul’s Anguish Over Israel",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "45009002",
+    "b": 45,
+    "c": 9,
+    "v": 2,
+    "t": "I have great sorrow and unceasing anguish in my heart.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "45009003",
+    "b": 45,
+    "c": 9,
+    "v": 3,
+    "t": "For I could wish that I myself were cursed and cut off from Christ for the sake of my people, those of my own race,",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "45009004",
+    "b": 45,
+    "c": 9,
+    "v": 4,
+    "t": "the people of Israel. Theirs is the adoption to sonship; theirs the divine glory, the covenants, the receiving of the law, the temple worship and the promises.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "45009005",
+    "b": 45,
+    "c": 9,
+    "v": 5,
+    "t": "Theirs are the patriarchs, and from them is traced the human ancestry of the Messiah, who is God over all, forever praised! Amen.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "45009006",
+    "b": 45,
+    "c": 9,
+    "v": 6,
+    "t": "It is not as though God’s word had failed. For not all who are descended from Israel are Israel.",
+    "h": "God’s Sovereign Choice",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "45009007",
+    "b": 45,
+    "c": 9,
+    "v": 7,
+    "t": "Nor because they are his descendants are they all Abraham’s children. On the contrary, “It is through Isaac that your offspring will be reckoned.”",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "45009008",
+    "b": 45,
+    "c": 9,
+    "v": 8,
+    "t": "In other words, it is not the children by physical descent who are God’s children, but it is the children of the promise who are regarded as Abraham’s offspring.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "45009009",
+    "b": 45,
+    "c": 9,
+    "v": 9,
+    "t": "For this was how the promise was stated: “At the appointed time I will return, and Sarah will have a son.”",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "45009010",
+    "b": 45,
+    "c": 9,
+    "v": 10,
+    "t": "Not only that, but Rebekah’s children were conceived at the same time by our father Isaac.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "45009011",
+    "b": 45,
+    "c": 9,
+    "v": 11,
+    "t": "Yet, before the twins were born or had done anything good or bad—in order that God’s purpose in election might stand:",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "45009012",
+    "b": 45,
+    "c": 9,
+    "v": 12,
+    "t": "not by works but by him who calls—she was told, “The older will serve the younger.”",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "45009013",
+    "b": 45,
+    "c": 9,
+    "v": 13,
+    "t": "Just as it is written: “Jacob I loved, but Esau I hated.”",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "45009014",
+    "b": 45,
+    "c": 9,
+    "v": 14,
+    "t": "What then shall we say? Is God unjust? Not at all!",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "45009015",
+    "b": 45,
+    "c": 9,
+    "v": 15,
+    "t": "For he says to Moses, “I will have mercy on whom I have mercy, and I will have compassion on whom I have compassion.”",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "45009016",
+    "b": 45,
+    "c": 9,
+    "v": 16,
+    "t": "It does not, therefore, depend on human desire or effort, but on God’s mercy.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "45009017",
+    "b": 45,
+    "c": 9,
+    "v": 17,
+    "t": "For Scripture says to Pharaoh: “I raised you up for this very purpose, that I might display my power in you and that my name might be proclaimed in all the earth.”",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "45009018",
+    "b": 45,
+    "c": 9,
+    "v": 18,
+    "t": "Therefore God has mercy on whom he wants to have mercy, and he hardens whom he wants to harden.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "45009019",
+    "b": 45,
+    "c": 9,
+    "v": 19,
+    "t": "One of you will say to me: “Then why does God still blame us? For who is able to resist his will?”",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "45009020",
+    "b": 45,
+    "c": 9,
+    "v": 20,
+    "t": "But who are you, a human being, to talk back to God? “Shall what is formed say to the one who formed it, ‘Why did you make me like this?’ ”",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "45009021",
+    "b": 45,
+    "c": 9,
+    "v": 21,
+    "t": "Does not the potter have the right to make out of the same lump of clay some pottery for special purposes and some for common use?",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "45009022",
+    "b": 45,
+    "c": 9,
+    "v": 22,
+    "t": "What if God, although choosing to show his wrath and make his power known, bore with great patience the objects of his wrath—prepared for destruction?",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "45009023",
+    "b": 45,
+    "c": 9,
+    "v": 23,
+    "t": "What if he did this to make the riches of his glory known to the objects of his mercy, whom he prepared in advance for glory—",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "45009024",
+    "b": 45,
+    "c": 9,
+    "v": 24,
+    "t": "even us, whom he also called, not only from the Jews but also from the Gentiles?",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "45009025",
+    "b": 45,
+    "c": 9,
+    "v": 25,
+    "t": "As he says in Hosea: “I will call them ‘my people’ who are not my people; and I will call her ‘my loved one’ who is not my loved one,”",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "45009026",
+    "b": 45,
+    "c": 9,
+    "v": 26,
+    "t": "and, “In the very place where it was said to them, ‘You are not my people,’ there they will be called ‘children of the living God.’ ”",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "45009027",
+    "b": 45,
+    "c": 9,
+    "v": 27,
+    "t": "Isaiah cries out concerning Israel: “Though the number of the Israelites be like the sand by the sea, only the remnant will be saved.",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "45009028",
+    "b": 45,
+    "c": 9,
+    "v": 28,
+    "t": "For the Lord will carry out his sentence on earth with speed and finality.”",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "45009029",
+    "b": 45,
+    "c": 9,
+    "v": 29,
+    "t": "It is just as Isaiah said previously: “Unless the Lord Almighty had left us descendants, we would have become like Sodom, we would have been like Gomorrah.”",
+    "h": "",
+    "o": 29,
+    "l": "29"
+  },
+  {
+    "id": "45009030",
+    "b": 45,
+    "c": 9,
+    "v": 30,
+    "t": "What then shall we say? That the Gentiles, who did not pursue righteousness, have obtained it, a righteousness that is by faith;",
+    "h": "Israel’s Unbelief",
+    "o": 30,
+    "l": "30"
+  },
+  {
+    "id": "45009031",
+    "b": 45,
+    "c": 9,
+    "v": 31,
+    "t": "but the people of Israel, who pursued the law as the way of righteousness, have not attained their goal.",
+    "h": "",
+    "o": 31,
+    "l": "31"
+  },
+  {
+    "id": "45009032",
+    "b": 45,
+    "c": 9,
+    "v": 32,
+    "t": "Why not? Because they pursued it not by faith but as if it were by works. They stumbled over the stumbling stone.",
+    "h": "",
+    "o": 32,
+    "l": "32"
+  },
+  {
+    "id": "45009033",
+    "b": 45,
+    "c": 9,
+    "v": 33,
+    "t": "As it is written: “See, I lay in Zion a stone that causes people to stumble and a rock that makes them fall, and the one who believes in him will never be put to shame.”",
+    "h": "",
+    "o": 33,
+    "l": "33"
+  },
+  {
+    "id": "45010001",
+    "b": 45,
+    "c": 10,
+    "v": 1,
+    "t": "Brothers and sisters, my heart’s desire and prayer to God for the Israelites is that they may be saved.",
+    "h": "",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "45010002",
+    "b": 45,
+    "c": 10,
+    "v": 2,
+    "t": "For I can testify about them that they are zealous for God, but their zeal is not based on knowledge.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "45010003",
+    "b": 45,
+    "c": 10,
+    "v": 3,
+    "t": "Since they did not know the righteousness of God and sought to establish their own, they did not submit to God’s righteousness.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "45010004",
+    "b": 45,
+    "c": 10,
+    "v": 4,
+    "t": "Christ is the culmination of the law so that there may be righteousness for everyone who believes.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "45010005",
+    "b": 45,
+    "c": 10,
+    "v": 5,
+    "t": "Moses writes this about the righteousness that is by the law: “The person who does these things will live by them.”",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "45010006",
+    "b": 45,
+    "c": 10,
+    "v": 6,
+    "t": "But the righteousness that is by faith says: “Do not say in your heart, ‘Who will ascend into heaven?’ ” (that is, to bring Christ down)",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "45010007",
+    "b": 45,
+    "c": 10,
+    "v": 7,
+    "t": "“or ‘Who will descend into the deep?’ ” (that is, to bring Christ up from the dead).",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "45010008",
+    "b": 45,
+    "c": 10,
+    "v": 8,
+    "t": "But what does it say? “The word is near you; it is in your mouth and in your heart,” that is, the message concerning faith that we proclaim:",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "45010009",
+    "b": 45,
+    "c": 10,
+    "v": 9,
+    "t": "If you declare with your mouth, “Jesus is Lord,” and believe in your heart that God raised him from the dead, you will be saved.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "45010010",
+    "b": 45,
+    "c": 10,
+    "v": 10,
+    "t": "For it is with your heart that you believe and are justified, and it is with your mouth that you profess your faith and are saved.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "45010011",
+    "b": 45,
+    "c": 10,
+    "v": 11,
+    "t": "As Scripture says, “Anyone who believes in him will never be put to shame.”",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "45010012",
+    "b": 45,
+    "c": 10,
+    "v": 12,
+    "t": "For there is no difference between Jew and Gentile—the same Lord is Lord of all and richly blesses all who call on him,",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "45010013",
+    "b": 45,
+    "c": 10,
+    "v": 13,
+    "t": "for, “Everyone who calls on the name of the Lord will be saved.”",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "45010014",
+    "b": 45,
+    "c": 10,
+    "v": 14,
+    "t": "How, then, can they call on the one they have not believed in? And how can they believe in the one of whom they have not heard? And how can they hear without someone preaching to them?",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "45010015",
+    "b": 45,
+    "c": 10,
+    "v": 15,
+    "t": "And how can anyone preach unless they are sent? As it is written: “How beautiful are the feet of those who bring good news!”",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "45010016",
+    "b": 45,
+    "c": 10,
+    "v": 16,
+    "t": "But not all the Israelites accepted the good news. For Isaiah says, “Lord, who has believed our message?”",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "45010017",
+    "b": 45,
+    "c": 10,
+    "v": 17,
+    "t": "Consequently, faith comes from hearing the message, and the message is heard through the word about Christ.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "45010018",
+    "b": 45,
+    "c": 10,
+    "v": 18,
+    "t": "But I ask: Did they not hear? Of course they did: “Their voice has gone out into all the earth, their words to the ends of the world.”",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "45010019",
+    "b": 45,
+    "c": 10,
+    "v": 19,
+    "t": "Again I ask: Did Israel not understand? First, Moses says, “I will make you envious by those who are not a nation; I will make you angry by a nation that has no understanding.”",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "45010020",
+    "b": 45,
+    "c": 10,
+    "v": 20,
+    "t": "And Isaiah boldly says, “I was found by those who did not seek me; I revealed myself to those who did not ask for me.”",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "45010021",
+    "b": 45,
+    "c": 10,
+    "v": 21,
+    "t": "But concerning Israel he says, “All day long I have held out my hands to a disobedient and obstinate people.”",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "45011001",
+    "b": 45,
+    "c": 11,
+    "v": 1,
+    "t": "I ask then: Did God reject his people? By no means! I am an Israelite myself, a descendant of Abraham, from the tribe of Benjamin.",
+    "h": "The Remnant of Israel",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "45011002",
+    "b": 45,
+    "c": 11,
+    "v": 2,
+    "t": "God did not reject his people, whom he foreknew. Don’t you know what Scripture says in the passage about Elijah—how he appealed to God against Israel:",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "45011003",
+    "b": 45,
+    "c": 11,
+    "v": 3,
+    "t": "“Lord, they have killed your prophets and torn down your altars; I am the only one left, and they are trying to kill me” ?",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "45011004",
+    "b": 45,
+    "c": 11,
+    "v": 4,
+    "t": "And what was God’s answer to him? “I have reserved for myself seven thousand who have not bowed the knee to Baal.”",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "45011005",
+    "b": 45,
+    "c": 11,
+    "v": 5,
+    "t": "So too, at the present time there is a remnant chosen by grace.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "45011006",
+    "b": 45,
+    "c": 11,
+    "v": 6,
+    "t": "And if by grace, then it cannot be based on works; if it were, grace would no longer be grace.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "45011007",
+    "b": 45,
+    "c": 11,
+    "v": 7,
+    "t": "What then? What the people of Israel sought so earnestly they did not obtain. The elect among them did, but the others were hardened,",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "45011008",
+    "b": 45,
+    "c": 11,
+    "v": 8,
+    "t": "as it is written: “God gave them a spirit of stupor, eyes that could not see and ears that could not hear, to this very day.”",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "45011009",
+    "b": 45,
+    "c": 11,
+    "v": 9,
+    "t": "And David says: “May their table become a snare and a trap, a stumbling block and a retribution for them.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "45011010",
+    "b": 45,
+    "c": 11,
+    "v": 10,
+    "t": "May their eyes be darkened so they cannot see, and their backs be bent forever.”",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "45011011",
+    "b": 45,
+    "c": 11,
+    "v": 11,
+    "t": "Again I ask: Did they stumble so as to fall beyond recovery? Not at all! Rather, because of their transgression, salvation has come to the Gentiles to make Israel envious.",
+    "h": "Ingrafted Branches",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "45011012",
+    "b": 45,
+    "c": 11,
+    "v": 12,
+    "t": "But if their transgression means riches for the world, and their loss means riches for the Gentiles, how much greater riches will their full inclusion bring!",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "45011013",
+    "b": 45,
+    "c": 11,
+    "v": 13,
+    "t": "I am talking to you Gentiles. Inasmuch as I am the apostle to the Gentiles, I take pride in my ministry",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "45011014",
+    "b": 45,
+    "c": 11,
+    "v": 14,
+    "t": "in the hope that I may somehow arouse my own people to envy and save some of them.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "45011015",
+    "b": 45,
+    "c": 11,
+    "v": 15,
+    "t": "For if their rejection brought reconciliation to the world, what will their acceptance be but life from the dead?",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "45011016",
+    "b": 45,
+    "c": 11,
+    "v": 16,
+    "t": "If the part of the dough offered as firstfruits is holy, then the whole batch is holy; if the root is holy, so are the branches.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "45011017",
+    "b": 45,
+    "c": 11,
+    "v": 17,
+    "t": "If some of the branches have been broken off, and you, though a wild olive shoot, have been grafted in among the others and now share in the nourishing sap from the olive root,",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "45011018",
+    "b": 45,
+    "c": 11,
+    "v": 18,
+    "t": "do not consider yourself to be superior to those other branches. If you do, consider this: You do not support the root, but the root supports you.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "45011019",
+    "b": 45,
+    "c": 11,
+    "v": 19,
+    "t": "You will say then, “Branches were broken off so that I could be grafted in.”",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "45011020",
+    "b": 45,
+    "c": 11,
+    "v": 20,
+    "t": "Granted. But they were broken off because of unbelief, and you stand by faith. Do not be arrogant, but tremble.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "45011021",
+    "b": 45,
+    "c": 11,
+    "v": 21,
+    "t": "For if God did not spare the natural branches, he will not spare you either.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "45011022",
+    "b": 45,
+    "c": 11,
+    "v": 22,
+    "t": "Consider therefore the kindness and sternness of God: sternness to those who fell, but kindness to you, provided that you continue in his kindness. Otherwise, you also will be cut off.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "45011023",
+    "b": 45,
+    "c": 11,
+    "v": 23,
+    "t": "And if they do not persist in unbelief, they will be grafted in, for God is able to graft them in again.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "45011024",
+    "b": 45,
+    "c": 11,
+    "v": 24,
+    "t": "After all, if you were cut out of an olive tree that is wild by nature, and contrary to nature were grafted into a cultivated olive tree, how much more readily will these, the natural branches, be grafted into their own olive tree!",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "45011025",
+    "b": 45,
+    "c": 11,
+    "v": 25,
+    "t": "I do not want you to be ignorant of this mystery, brothers and sisters, so that you may not be conceited: Israel has experienced a hardening in part until the full number of the Gentiles has come in,",
+    "h": "All Israel Will Be Saved",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "45011026",
+    "b": 45,
+    "c": 11,
+    "v": 26,
+    "t": "and in this way all Israel will be saved. As it is written: “The deliverer will come from Zion; he will turn godlessness away from Jacob.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "45011027",
+    "b": 45,
+    "c": 11,
+    "v": 27,
+    "t": "And this is my covenant with them when I take away their sins.”",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "45011028",
+    "b": 45,
+    "c": 11,
+    "v": 28,
+    "t": "As far as the gospel is concerned, they are enemies for your sake; but as far as election is concerned, they are loved on account of the patriarchs,",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "45011029",
+    "b": 45,
+    "c": 11,
+    "v": 29,
+    "t": "for God’s gifts and his call are irrevocable.",
+    "h": "",
+    "o": 29,
+    "l": "29"
+  },
+  {
+    "id": "45011030",
+    "b": 45,
+    "c": 11,
+    "v": 30,
+    "t": "Just as you who were at one time disobedient to God have now received mercy as a result of their disobedience,",
+    "h": "",
+    "o": 30,
+    "l": "30"
+  },
+  {
+    "id": "45011031",
+    "b": 45,
+    "c": 11,
+    "v": 31,
+    "t": "so they too have now become disobedient in order that they too may now receive mercy as a result of God’s mercy to you.",
+    "h": "",
+    "o": 31,
+    "l": "31"
+  },
+  {
+    "id": "45011032",
+    "b": 45,
+    "c": 11,
+    "v": 32,
+    "t": "For God has bound everyone over to disobedience so that he may have mercy on them all.",
+    "h": "",
+    "o": 32,
+    "l": "32"
+  },
+  {
+    "id": "45011033",
+    "b": 45,
+    "c": 11,
+    "v": 33,
+    "t": "Oh, the depth of the riches of the wisdom and knowledge of God! How unsearchable his judgments, and his paths beyond tracing out!",
+    "h": "Doxology",
+    "o": 33,
+    "l": "33"
+  },
+  {
+    "id": "45011034",
+    "b": 45,
+    "c": 11,
+    "v": 34,
+    "t": "“Who has known the mind of the Lord? Or who has been his counselor?”",
+    "h": "",
+    "o": 34,
+    "l": "34"
+  },
+  {
+    "id": "45011035",
+    "b": 45,
+    "c": 11,
+    "v": 35,
+    "t": "“Who has ever given to God, that God should repay them?”",
+    "h": "",
+    "o": 35,
+    "l": "35"
+  },
+  {
+    "id": "45011036",
+    "b": 45,
+    "c": 11,
+    "v": 36,
+    "t": "For from him and through him and for him are all things. To him be the glory forever! Amen.",
+    "h": "",
+    "o": 36,
+    "l": "36"
+  },
+  {
+    "id": "45012001",
+    "b": 45,
+    "c": 12,
+    "v": 1,
+    "t": "Therefore, I urge you, brothers and sisters, in view of God’s mercy, to offer your bodies as a living sacrifice, holy and pleasing to God—this is your true and proper worship.",
+    "h": "A Living Sacrifice",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "45012002",
+    "b": 45,
+    "c": 12,
+    "v": 2,
+    "t": "Do not conform to the pattern of this world, but be transformed by the renewing of your mind. Then you will be able to test and approve what God’s will is—his good, pleasing and perfect will.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "45012003",
+    "b": 45,
+    "c": 12,
+    "v": 3,
+    "t": "For by the grace given me I say to every one of you: Do not think of yourself more highly than you ought, but rather think of yourself with sober judgment, in accordance with the faith God has distributed to each of you.",
+    "h": "Humble Service in the Body of Christ",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "45012004",
+    "b": 45,
+    "c": 12,
+    "v": 4,
+    "t": "For just as each of us has one body with many members, and these members do not all have the same function,",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "45012005",
+    "b": 45,
+    "c": 12,
+    "v": 5,
+    "t": "so in Christ we, though many, form one body, and each member belongs to all the others.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "45012006",
+    "b": 45,
+    "c": 12,
+    "v": 6,
+    "t": "We have different gifts, according to the grace given to each of us. If your gift is prophesying, then prophesy in accordance with your faith;",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "45012007",
+    "b": 45,
+    "c": 12,
+    "v": 7,
+    "t": "if it is serving, then serve; if it is teaching, then teach;",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "45012008",
+    "b": 45,
+    "c": 12,
+    "v": 8,
+    "t": "if it is to encourage, then give encouragement; if it is giving, then give generously; if it is to lead, do it diligently; if it is to show mercy, do it cheerfully.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "45012009",
+    "b": 45,
+    "c": 12,
+    "v": 9,
+    "t": "Love must be sincere. Hate what is evil; cling to what is good.",
+    "h": "Love in Action",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "45012010",
+    "b": 45,
+    "c": 12,
+    "v": 10,
+    "t": "Be devoted to one another in love. Honor one another above yourselves.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "45012011",
+    "b": 45,
+    "c": 12,
+    "v": 11,
+    "t": "Never be lacking in zeal, but keep your spiritual fervor, serving the Lord.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "45012012",
+    "b": 45,
+    "c": 12,
+    "v": 12,
+    "t": "Be joyful in hope, patient in affliction, faithful in prayer.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "45012013",
+    "b": 45,
+    "c": 12,
+    "v": 13,
+    "t": "Share with the Lord’s people who are in need. Practice hospitality.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "45012014",
+    "b": 45,
+    "c": 12,
+    "v": 14,
+    "t": "Bless those who persecute you; bless and do not curse.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "45012015",
+    "b": 45,
+    "c": 12,
+    "v": 15,
+    "t": "Rejoice with those who rejoice; mourn with those who mourn.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "45012016",
+    "b": 45,
+    "c": 12,
+    "v": 16,
+    "t": "Live in harmony with one another. Do not be proud, but be willing to associate with people of low position. Do not be conceited.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "45012017",
+    "b": 45,
+    "c": 12,
+    "v": 17,
+    "t": "Do not repay anyone evil for evil. Be careful to do what is right in the eyes of everyone.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "45012018",
+    "b": 45,
+    "c": 12,
+    "v": 18,
+    "t": "If it is possible, as far as it depends on you, live at peace with everyone.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "45012019",
+    "b": 45,
+    "c": 12,
+    "v": 19,
+    "t": "Do not take revenge, my dear friends, but leave room for God’s wrath, for it is written: “It is mine to avenge; I will repay,” says the Lord.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "45012020",
+    "b": 45,
+    "c": 12,
+    "v": 20,
+    "t": "On the contrary: “If your enemy is hungry, feed him; if he is thirsty, give him something to drink. In doing this, you will heap burning coals on his head.”",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "45012021",
+    "b": 45,
+    "c": 12,
+    "v": 21,
+    "t": "Do not be overcome by evil, but overcome evil with good.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "45013001",
+    "b": 45,
+    "c": 13,
+    "v": 1,
+    "t": "Let everyone be subject to the governing authorities, for there is no authority except that which God has established. The authorities that exist have been established by God.",
+    "h": "Submission to Governing Authorities",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "45013002",
+    "b": 45,
+    "c": 13,
+    "v": 2,
+    "t": "Consequently, whoever rebels against the authority is rebelling against what God has instituted, and those who do so will bring judgment on themselves.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "45013003",
+    "b": 45,
+    "c": 13,
+    "v": 3,
+    "t": "For rulers hold no terror for those who do right, but for those who do wrong. Do you want to be free from fear of the one in authority? Then do what is right and you will be commended.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "45013004",
+    "b": 45,
+    "c": 13,
+    "v": 4,
+    "t": "For the one in authority is God’s servant for your good. But if you do wrong, be afraid, for rulers do not bear the sword for no reason. They are God’s servants, agents of wrath to bring punishment on the wrongdoer.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "45013005",
+    "b": 45,
+    "c": 13,
+    "v": 5,
+    "t": "Therefore, it is necessary to submit to the authorities, not only because of possible punishment but also as a matter of conscience.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "45013006",
+    "b": 45,
+    "c": 13,
+    "v": 6,
+    "t": "This is also why you pay taxes, for the authorities are God’s servants, who give their full time to governing.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "45013007",
+    "b": 45,
+    "c": 13,
+    "v": 7,
+    "t": "Give to everyone what you owe them: If you owe taxes, pay taxes; if revenue, then revenue; if respect, then respect; if honor, then honor.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "45013008",
+    "b": 45,
+    "c": 13,
+    "v": 8,
+    "t": "Let no debt remain outstanding, except the continuing debt to love one another, for whoever loves others has fulfilled the law.",
+    "h": "Love Fulfills the Law",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "45013009",
+    "b": 45,
+    "c": 13,
+    "v": 9,
+    "t": "The commandments, “You shall not commit adultery,” “You shall not murder,” “You shall not steal,” “You shall not covet,” and whatever other command there may be, are summed up in this one command: “Love your neighbor as yourself.”",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "45013010",
+    "b": 45,
+    "c": 13,
+    "v": 10,
+    "t": "Love does no harm to a neighbor. Therefore love is the fulfillment of the law.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "45013011",
+    "b": 45,
+    "c": 13,
+    "v": 11,
+    "t": "And do this, understanding the present time: The hour has already come for you to wake up from your slumber, because our salvation is nearer now than when we first believed.",
+    "h": "The Day Is Near",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "45013012",
+    "b": 45,
+    "c": 13,
+    "v": 12,
+    "t": "The night is nearly over; the day is almost here. So let us put aside the deeds of darkness and put on the armor of light.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "45013013",
+    "b": 45,
+    "c": 13,
+    "v": 13,
+    "t": "Let us behave decently, as in the daytime, not in carousing and drunkenness, not in sexual immorality and debauchery, not in dissension and jealousy.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "45013014",
+    "b": 45,
+    "c": 13,
+    "v": 14,
+    "t": "Rather, clothe yourselves with the Lord Jesus Christ, and do not think about how to gratify the desires of the flesh.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "45014001",
+    "b": 45,
+    "c": 14,
+    "v": 1,
+    "t": "Accept the one whose faith is weak, without quarreling over disputable matters.",
+    "h": "The Weak and the Strong",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "45014002",
+    "b": 45,
+    "c": 14,
+    "v": 2,
+    "t": "One person’s faith allows them to eat anything, but another, whose faith is weak, eats only vegetables.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "45014003",
+    "b": 45,
+    "c": 14,
+    "v": 3,
+    "t": "The one who eats everything must not treat with contempt the one who does not, and the one who does not eat everything must not judge the one who does, for God has accepted them.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "45014004",
+    "b": 45,
+    "c": 14,
+    "v": 4,
+    "t": "Who are you to judge someone else’s servant? To their own master, servants stand or fall. And they will stand, for the Lord is able to make them stand.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "45014005",
+    "b": 45,
+    "c": 14,
+    "v": 5,
+    "t": "One person considers one day more sacred than another; another considers every day alike. Each of them should be fully convinced in their own mind.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "45014006",
+    "b": 45,
+    "c": 14,
+    "v": 6,
+    "t": "Whoever regards one day as special does so to the Lord. Whoever eats meat does so to the Lord, for they give thanks to God; and whoever abstains does so to the Lord and gives thanks to God.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "45014007",
+    "b": 45,
+    "c": 14,
+    "v": 7,
+    "t": "For none of us lives for ourselves alone, and none of us dies for ourselves alone.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "45014008",
+    "b": 45,
+    "c": 14,
+    "v": 8,
+    "t": "If we live, we live for the Lord; and if we die, we die for the Lord. So, whether we live or die, we belong to the Lord.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "45014009",
+    "b": 45,
+    "c": 14,
+    "v": 9,
+    "t": "For this very reason, Christ died and returned to life so that he might be the Lord of both the dead and the living.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "45014010",
+    "b": 45,
+    "c": 14,
+    "v": 10,
+    "t": "You, then, why do you judge your brother or sister ? Or why do you treat them with contempt? For we will all stand before God’s judgment seat.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "45014011",
+    "b": 45,
+    "c": 14,
+    "v": 11,
+    "t": "It is written: “ ‘As surely as I live,’ says the Lord, ‘every knee will bow before me; every tongue will acknowledge God.’ ”",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "45014012",
+    "b": 45,
+    "c": 14,
+    "v": 12,
+    "t": "So then, each of us will give an account of ourselves to God.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "45014013",
+    "b": 45,
+    "c": 14,
+    "v": 13,
+    "t": "Therefore let us stop passing judgment on one another. Instead, make up your mind not to put any stumbling block or obstacle in the way of a brother or sister.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "45014014",
+    "b": 45,
+    "c": 14,
+    "v": 14,
+    "t": "I am convinced, being fully persuaded in the Lord Jesus, that nothing is unclean in itself. But if anyone regards something as unclean, then for that person it is unclean.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "45014015",
+    "b": 45,
+    "c": 14,
+    "v": 15,
+    "t": "If your brother or sister is distressed because of what you eat, you are no longer acting in love. Do not by your eating destroy someone for whom Christ died.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "45014016",
+    "b": 45,
+    "c": 14,
+    "v": 16,
+    "t": "Therefore do not let what you know is good be spoken of as evil.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "45014017",
+    "b": 45,
+    "c": 14,
+    "v": 17,
+    "t": "For the kingdom of God is not a matter of eating and drinking, but of righteousness, peace and joy in the Holy Spirit,",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "45014018",
+    "b": 45,
+    "c": 14,
+    "v": 18,
+    "t": "because anyone who serves Christ in this way is pleasing to God and receives human approval.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "45014019",
+    "b": 45,
+    "c": 14,
+    "v": 19,
+    "t": "Let us therefore make every effort to do what leads to peace and to mutual edification.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "45014020",
+    "b": 45,
+    "c": 14,
+    "v": 20,
+    "t": "Do not destroy the work of God for the sake of food. All food is clean, but it is wrong for a person to eat anything that causes someone else to stumble.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "45014021",
+    "b": 45,
+    "c": 14,
+    "v": 21,
+    "t": "It is better not to eat meat or drink wine or to do anything else that will cause your brother or sister to fall.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "45014022",
+    "b": 45,
+    "c": 14,
+    "v": 22,
+    "t": "So whatever you believe about these things keep between yourself and God. Blessed is the one who does not condemn himself by what he approves.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "45014023",
+    "b": 45,
+    "c": 14,
+    "v": 23,
+    "t": "But whoever has doubts is condemned if they eat, because their eating is not from faith; and everything that does not come from faith is sin.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "45015001",
+    "b": 45,
+    "c": 15,
+    "v": 1,
+    "t": "We who are strong ought to bear with the failings of the weak and not to please ourselves.",
+    "h": "",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "45015002",
+    "b": 45,
+    "c": 15,
+    "v": 2,
+    "t": "Each of us should please our neighbors for their good, to build them up.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "45015003",
+    "b": 45,
+    "c": 15,
+    "v": 3,
+    "t": "For even Christ did not please himself but, as it is written: “The insults of those who insult you have fallen on me.”",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "45015004",
+    "b": 45,
+    "c": 15,
+    "v": 4,
+    "t": "For everything that was written in the past was written to teach us, so that through the endurance taught in the Scriptures and the encouragement they provide we might have hope.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "45015005",
+    "b": 45,
+    "c": 15,
+    "v": 5,
+    "t": "May the God who gives endurance and encouragement give you the same attitude of mind toward each other that Christ Jesus had,",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "45015006",
+    "b": 45,
+    "c": 15,
+    "v": 6,
+    "t": "so that with one mind and one voice you may glorify the God and Father of our Lord Jesus Christ.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "45015007",
+    "b": 45,
+    "c": 15,
+    "v": 7,
+    "t": "Accept one another, then, just as Christ accepted you, in order to bring praise to God.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "45015008",
+    "b": 45,
+    "c": 15,
+    "v": 8,
+    "t": "For I tell you that Christ has become a servant of the Jews on behalf of God’s truth, so that the promises made to the patriarchs might be confirmed",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "45015009",
+    "b": 45,
+    "c": 15,
+    "v": 9,
+    "t": "and, moreover, that the Gentiles might glorify God for his mercy. As it is written: “Therefore I will praise you among the Gentiles; I will sing the praises of your name.”",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "45015010",
+    "b": 45,
+    "c": 15,
+    "v": 10,
+    "t": "Again, it says, “Rejoice, you Gentiles, with his people.”",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "45015011",
+    "b": 45,
+    "c": 15,
+    "v": 11,
+    "t": "And again, “Praise the Lord, all you Gentiles; let all the peoples extol him.”",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "45015012",
+    "b": 45,
+    "c": 15,
+    "v": 12,
+    "t": "And again, Isaiah says, “The Root of Jesse will spring up, one who will arise to rule over the nations; in him the Gentiles will hope.”",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "45015013",
+    "b": 45,
+    "c": 15,
+    "v": 13,
+    "t": "May the God of hope fill you with all joy and peace as you trust in him, so that you may overflow with hope by the power of the Holy Spirit.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "45015014",
+    "b": 45,
+    "c": 15,
+    "v": 14,
+    "t": "I myself am convinced, my brothers and sisters, that you yourselves are full of goodness, filled with knowledge and competent to instruct one another.",
+    "h": "Paul the Minister to the Gentiles",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "45015015",
+    "b": 45,
+    "c": 15,
+    "v": 15,
+    "t": "Yet I have written you quite boldly on some points to remind you of them again, because of the grace God gave me",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "45015016",
+    "b": 45,
+    "c": 15,
+    "v": 16,
+    "t": "to be a minister of Christ Jesus to the Gentiles. He gave me the priestly duty of proclaiming the gospel of God, so that the Gentiles might become an offering acceptable to God, sanctified by the Holy Spirit.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "45015017",
+    "b": 45,
+    "c": 15,
+    "v": 17,
+    "t": "Therefore I glory in Christ Jesus in my service to God.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "45015018",
+    "b": 45,
+    "c": 15,
+    "v": 18,
+    "t": "I will not venture to speak of anything except what Christ has accomplished through me in leading the Gentiles to obey God by what I have said and done—",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "45015019",
+    "b": 45,
+    "c": 15,
+    "v": 19,
+    "t": "by the power of signs and wonders, through the power of the Spirit of God. So from Jerusalem all the way around to Illyricum, I have fully proclaimed the gospel of Christ.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "45015020",
+    "b": 45,
+    "c": 15,
+    "v": 20,
+    "t": "It has always been my ambition to preach the gospel where Christ was not known, so that I would not be building on someone else’s foundation.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "45015021",
+    "b": 45,
+    "c": 15,
+    "v": 21,
+    "t": "Rather, as it is written: “Those who were not told about him will see, and those who have not heard will understand.”",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "45015022",
+    "b": 45,
+    "c": 15,
+    "v": 22,
+    "t": "This is why I have often been hindered from coming to you.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "45015023",
+    "b": 45,
+    "c": 15,
+    "v": 23,
+    "t": "But now that there is no more place for me to work in these regions, and since I have been longing for many years to visit you,",
+    "h": "Paul’s Plan to Visit Rome",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "45015024",
+    "b": 45,
+    "c": 15,
+    "v": 24,
+    "t": "I plan to do so when I go to Spain. I hope to see you while passing through and to have you assist me on my journey there, after I have enjoyed your company for a while.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "45015025",
+    "b": 45,
+    "c": 15,
+    "v": 25,
+    "t": "Now, however, I am on my way to Jerusalem in the service of the Lord’s people there.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "45015026",
+    "b": 45,
+    "c": 15,
+    "v": 26,
+    "t": "For Macedonia and Achaia were pleased to make a contribution for the poor among the Lord’s people in Jerusalem.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "45015027",
+    "b": 45,
+    "c": 15,
+    "v": 27,
+    "t": "They were pleased to do it, and indeed they owe it to them. For if the Gentiles have shared in the Jews’ spiritual blessings, they owe it to the Jews to share with them their material blessings.",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "45015028",
+    "b": 45,
+    "c": 15,
+    "v": 28,
+    "t": "So after I have completed this task and have made sure that they have received this contribution, I will go to Spain and visit you on the way.",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "45015029",
+    "b": 45,
+    "c": 15,
+    "v": 29,
+    "t": "I know that when I come to you, I will come in the full measure of the blessing of Christ.",
+    "h": "",
+    "o": 29,
+    "l": "29"
+  },
+  {
+    "id": "45015030",
+    "b": 45,
+    "c": 15,
+    "v": 30,
+    "t": "I urge you, brothers and sisters, by our Lord Jesus Christ and by the love of the Spirit, to join me in my struggle by praying to God for me.",
+    "h": "",
+    "o": 30,
+    "l": "30"
+  },
+  {
+    "id": "45015031",
+    "b": 45,
+    "c": 15,
+    "v": 31,
+    "t": "Pray that I may be kept safe from the unbelievers in Judea and that the contribution I take to Jerusalem may be favorably received by the Lord’s people there,",
+    "h": "",
+    "o": 31,
+    "l": "31"
+  },
+  {
+    "id": "45015032",
+    "b": 45,
+    "c": 15,
+    "v": 32,
+    "t": "so that I may come to you with joy, by God’s will, and in your company be refreshed.",
+    "h": "",
+    "o": 32,
+    "l": "32"
+  },
+  {
+    "id": "45015033",
+    "b": 45,
+    "c": 15,
+    "v": 33,
+    "t": "The God of peace be with you all. Amen.",
+    "h": "",
+    "o": 33,
+    "l": "33"
+  },
+  {
+    "id": "45016001",
+    "b": 45,
+    "c": 16,
+    "v": 1,
+    "t": "I commend to you our sister Phoebe, a deacon of the church in Cenchreae.",
+    "h": "Personal Greetings",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "45016002",
+    "b": 45,
+    "c": 16,
+    "v": 2,
+    "t": "I ask you to receive her in the Lord in a way worthy of his people and to give her any help she may need from you, for she has been the benefactor of many people, including me.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "45016003",
+    "b": 45,
+    "c": 16,
+    "v": 3,
+    "t": "Greet Priscilla and Aquila, my co-workers in Christ Jesus.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "45016004",
+    "b": 45,
+    "c": 16,
+    "v": 4,
+    "t": "They risked their lives for me. Not only I but all the churches of the Gentiles are grateful to them.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "45016005",
+    "b": 45,
+    "c": 16,
+    "v": 5,
+    "t": "Greet also the church that meets at their house. Greet my dear friend Epenetus, who was the first convert to Christ in the province of Asia.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "45016006",
+    "b": 45,
+    "c": 16,
+    "v": 6,
+    "t": "Greet Mary, who worked very hard for you.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "45016007",
+    "b": 45,
+    "c": 16,
+    "v": 7,
+    "t": "Greet Andronicus and Junia, my fellow Jews who have been in prison with me. They are outstanding among the apostles, and they were in Christ before I was.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "45016008",
+    "b": 45,
+    "c": 16,
+    "v": 8,
+    "t": "Greet Ampliatus, my dear friend in the Lord.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "45016009",
+    "b": 45,
+    "c": 16,
+    "v": 9,
+    "t": "Greet Urbanus, our co-worker in Christ, and my dear friend Stachys.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "45016010",
+    "b": 45,
+    "c": 16,
+    "v": 10,
+    "t": "Greet Apelles, whose fidelity to Christ has stood the test. Greet those who belong to the household of Aristobulus.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "45016011",
+    "b": 45,
+    "c": 16,
+    "v": 11,
+    "t": "Greet Herodion, my fellow Jew. Greet those in the household of Narcissus who are in the Lord.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "45016012",
+    "b": 45,
+    "c": 16,
+    "v": 12,
+    "t": "Greet Tryphena and Tryphosa, those women who work hard in the Lord. Greet my dear friend Persis, another woman who has worked very hard in the Lord.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "45016013",
+    "b": 45,
+    "c": 16,
+    "v": 13,
+    "t": "Greet Rufus, chosen in the Lord, and his mother, who has been a mother to me, too.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "45016014",
+    "b": 45,
+    "c": 16,
+    "v": 14,
+    "t": "Greet Asyncritus, Phlegon, Hermes, Patrobas, Hermas and the other brothers and sisters with them.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "45016015",
+    "b": 45,
+    "c": 16,
+    "v": 15,
+    "t": "Greet Philologus, Julia, Nereus and his sister, and Olympas and all the Lord’s people who are with them.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "45016016",
+    "b": 45,
+    "c": 16,
+    "v": 16,
+    "t": "Greet one another with a holy kiss. All the churches of Christ send greetings.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "45016017",
+    "b": 45,
+    "c": 16,
+    "v": 17,
+    "t": "I urge you, brothers and sisters, to watch out for those who cause divisions and put obstacles in your way that are contrary to the teaching you have learned. Keep away from them.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "45016018",
+    "b": 45,
+    "c": 16,
+    "v": 18,
+    "t": "For such people are not serving our Lord Christ, but their own appetites. By smooth talk and flattery they deceive the minds of naive people.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "45016019",
+    "b": 45,
+    "c": 16,
+    "v": 19,
+    "t": "Everyone has heard about your obedience, so I rejoice because of you; but I want you to be wise about what is good, and innocent about what is evil.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "45016020",
+    "b": 45,
+    "c": 16,
+    "v": 20,
+    "t": "The God of peace will soon crush Satan under your feet. The grace of our Lord Jesus be with you.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "45016021",
+    "b": 45,
+    "c": 16,
+    "v": 21,
+    "t": "Timothy, my co-worker, sends his greetings to you, as do Lucius, Jason and Sosipater, my fellow Jews.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "45016022",
+    "b": 45,
+    "c": 16,
+    "v": 22,
+    "t": "I, Tertius, who wrote down this letter, greet you in the Lord.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "45016023",
+    "b": 45,
+    "c": 16,
+    "v": 23,
+    "t": "Gaius, whose hospitality I and the whole church here enjoy, sends you his greetings. Erastus, who is the city’s director of public works, and our brother Quartus send you their greetings.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "45016024",
+    "b": 45,
+    "c": 16,
+    "v": 24,
+    "t": "",
+    "h": "",
+    "o": 24,
+    "l": "[24]"
+  },
+  {
+    "id": "45016025",
+    "b": 45,
+    "c": 16,
+    "v": 25,
+    "t": "Now to him who is able to establish you in accordance with my gospel, the message I proclaim about Jesus Christ, in keeping with the revelation of the mystery hidden for long ages past,",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "45016026",
+    "b": 45,
+    "c": 16,
+    "v": 26,
+    "t": "but now revealed and made known through the prophetic writings by the command of the eternal God, so that all the Gentiles might come to the obedience that comes from faith—",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "45016027",
+    "b": 45,
+    "c": 16,
+    "v": 27,
+    "t": "to the only wise God be glory forever through Jesus Christ! Amen.",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  }
+]

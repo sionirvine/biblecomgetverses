@@ -1,0 +1,11 @@
+{
+  "maxConcurrentTabs": 1,
+  "pageTimeout": 20000,
+  "navigationTimeout": 8000,
+  "retryAttempts": 2,
+  "delayBetweenOperations": 500,
+  "headless": true,
+  "outputFormat": "json",
+  "outputDirectory": "./output_test",
+  "enableMetrics": true
+}

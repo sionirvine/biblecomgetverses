@@ -1,0 +1,1542 @@
+[
+  {
+    "id": "25001001",
+    "b": 25,
+    "c": 1,
+    "v": 1,
+    "t": "Ach, wie einsam und verlassen liegt Jerusalem da, die Stadt, in der sich einst die Menschen drängten! Sie war berühmt bei allen Völkern, jetzt gleicht sie einer Witwe ohne Schutz. Sie, die über andere Länder herrschte, wird nun zum Sklavendienst gezwungen.",
+    "h": "Der Prophet Jeremia betrauert den Untergang von Jerusalem\n(Kapitel 1–5)\nDie Stadt Jerusalem ist zerstört!",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "25001002",
+    "b": 25,
+    "c": 1,
+    "v": 2,
+    "t": "Sie weint und weint die ganze Nacht, die Tränen laufen ihr übers Gesicht. Unter all ihren Liebhabern ist niemand, der sie in ihrem Schmerz tröstet. Alle Freunde haben sie betrogen und sind zu ihren Feinden geworden!",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "25001003",
+    "b": 25,
+    "c": 1,
+    "v": 3,
+    "t": "Juda musste viel Elend und Zwangsarbeit erdulden, bis sie gefangen fortgeschleppt wurde. Jetzt wohnt sie unter fremden Völkern und findet auch dort keine Ruhe; ihre Verfolger haben sie überfallen, als sie sich nicht wehren konnte.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "25001004",
+    "b": 25,
+    "c": 1,
+    "v": 4,
+    "t": "Die Wege, die nach Zion führen, sind verödet, weil niemand mehr zu den Festen hinaufzieht. Alle Tore Jerusalems sind menschenleer. Die Priester hört man nur noch seufzen, die jungen Mädchen weinen und trauern. Die ganze Stadt leidet bitteren Schmerz.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "25001005",
+    "b": 25,
+    "c": 1,
+    "v": 5,
+    "t": "Die sie hassen, haben die Macht über sie, ihre Feinde können sich in Sicherheit wiegen. Der HERR hat Leid über Jerusalem gebracht, um sie für ihre vielen Sünden zu strafen. Die Feinde nahmen ihre Kinder gefangen und trieben sie vor sich her aus dem Land.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "25001006",
+    "b": 25,
+    "c": 1,
+    "v": 6,
+    "t": "Zion hat all ihre Pracht verloren. Ihre Führer sind wie Hirsche, die keine Weide mehr finden; ausgehungert, wie sie sind, fehlt ihnen nun die Kraft, den Jägern zu entfliehen.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "25001007",
+    "b": 25,
+    "c": 1,
+    "v": 7,
+    "t": "Mitten im Elend, weit weg von der Heimat, erinnert sich Jerusalem an ihren alten Glanz. Sehnsüchtig denkt sie zurück an die Schätze, die sie seit grauer Vorzeit besaß. Als sie dem Feind in die Hände fiel, war weit und breit niemand da, der ihr half. Stattdessen sahen ihre Gegner schadenfroh zu und weideten sich an ihrem Unglück.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "25001008",
+    "b": 25,
+    "c": 1,
+    "v": 8,
+    "t": "Jerusalem hat große Schuld auf sich geladen, nun schüttelt man den Kopf über sie. Die sie früher verehrten, verachten sie jetzt, weil sie nackt und hilflos vor ihnen liegt. Sie aber stöhnt vor lauter Scham und vergräbt ihr Gesicht in den Händen.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "25001009",
+    "b": 25,
+    "c": 1,
+    "v": 9,
+    "t": "Sie hat ihre Kleider mit Sünde beschmutzt und die Folgen ihres Tuns nicht bedacht. Nun ist sie furchtbar tief gefallen – und keiner ist da, der sie tröstet. »Ach, HERR «, fleht sie, »sieh mein Elend an und hör doch, wie die Feinde prahlen!«",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "25001010",
+    "b": 25,
+    "c": 1,
+    "v": 10,
+    "t": "Doch diese machten sich über sie her und raubten all ihre kostbaren Schätze. Ja, Jerusalem musste sogar mit ansehen, wie Fremde in den heiligen Tempel eindrangen. Dabei hatte Gott ihnen verboten, den Ort zu betreten, wo sich seine Gemeinde versammelt.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "25001011",
+    "b": 25,
+    "c": 1,
+    "v": 11,
+    "t": "Das Volk läuft seufzend umher auf der Suche nach einem Stück Brot. Sie geben all ihr Hab und Gut, nur um am Leben zu bleiben. Jerusalem fleht: »HERR, sieh mich an! Ich werde von allen verachtet!",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "25001012",
+    "b": 25,
+    "c": 1,
+    "v": 12,
+    "t": "Ihr Fremden, geht nicht einfach an mir vorbei! Bleibt doch stehen und schaut mich an! Lässt euch dieser Anblick etwa kalt? Gibt es denn ein größeres Leid als meines? Ich weiß: Der HERR hat es mir zugefügt, sein glühender Zorn hat mich getroffen.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "25001013",
+    "b": 25,
+    "c": 1,
+    "v": 13,
+    "t": "Er ließ Feuer vom Himmel auf mich fallen, das in meinem Inneren wütete. Er hat mir eine Falle gestellt und mich zu Boden geworfen. Er hat mich völlig zugrunde gerichtet, endlos sieche ich nun dahin.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "25001014",
+    "b": 25,
+    "c": 1,
+    "v": 14,
+    "t": "Schwer lasten meine Sünden auf mir wie ein Joch, das der Herr mir aufgebürdet hat. Er legte es auf meinen Nacken, und ich brach darunter zusammen. Dann übergab er mich an die Feinde, gegen die ich nichts ausrichten konnte.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "25001015",
+    "b": 25,
+    "c": 1,
+    "v": 15,
+    "t": "Vernichtet hat er meine besten Soldaten, die ich bei mir hatte, um mich zu schützen. Er hat die Feinde zu einem Schlachtfest geladen, um unsere jungen Männer niederzumetzeln. Der Herr hat das Volk von Juda zertreten, so wie man Trauben in der Kelter zerstampft.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "25001016",
+    "b": 25,
+    "c": 1,
+    "v": 16,
+    "t": "Darüber muss ich bitterlich weinen, die Tränen verschleiern mir die Augen. Denn ich habe keinen bei mir, der mich tröstet, niemanden, der mir wieder Mut zuspricht. Meine Kinder sind ihrem Schicksal ausgeliefert, der Feind hat uns alle in seiner Gewalt.«",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "25001017",
+    "b": 25,
+    "c": 1,
+    "v": 17,
+    "t": "Verzweifelt streckt Zion ihre Hände aus, doch keiner ist da, der sie tröstet! Der HERR hat Israels Feinde von allen Seiten herbeigerufen, sie stürmen gegen die Nachkommen von Jakob heran. Voller Abscheu blicken sie auf Jerusalem, die Stadt ist für sie zum Schandfleck geworden.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "25001018",
+    "b": 25,
+    "c": 1,
+    "v": 18,
+    "t": "»Zu Recht hat der HERR mich bestraft, denn ich habe mich seinen Geboten widersetzt! All ihr anderen Völker, hört her! Seht doch, wie groß mein Schmerz ist! Die Mädchen und die jungen Männer, sie wurden als Gefangene verschleppt.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "25001019",
+    "b": 25,
+    "c": 1,
+    "v": 19,
+    "t": "Ich rief nach meinen einstigen Liebhabern, aber sie haben mich alle im Stich gelassen. Meine Priester und die führenden Männer sind mitten in der Stadt zusammengebrochen. Mit letzter Kraft suchten sie nach Nahrung, um sich am Leben zu erhalten.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "25001020",
+    "b": 25,
+    "c": 1,
+    "v": 20,
+    "t": "Ach, HERR, sieh doch, wie verzweifelt ich bin! In mir wühlt der Schmerz; mir bricht das Herz, wenn ich daran denke, wie ich mich gegen dich aufgelehnt habe. Draußen raubte das Schwert mir meine Kinder, und drinnen raffte die Seuche sie dahin.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "25001021",
+    "b": 25,
+    "c": 1,
+    "v": 21,
+    "t": "Man hört mich seufzen, doch keiner tröstet mich. Stattdessen jubeln meine Feinde, wenn sie erfahren, welches Unglück du über mich gebracht hast. Doch wenn dein Gerichtstag kommt, den du seit langem angekündigt hast, dann wird es ihnen ergehen wie mir.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "25001022",
+    "b": 25,
+    "c": 1,
+    "v": 22,
+    "t": "Zieh sie zur Rechenschaft für all ihre Bosheit! Vergelte ihnen ihre grausamen Taten, so wie du es auch mit mir getan hast, als du mich für meine Schuld bestraftest! Denn ich seufze ohne Ende, der Kummer macht mich krank.«",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "25002001",
+    "b": 25,
+    "c": 2,
+    "v": 1,
+    "t": "Ach, der Zorn des Herrn liegt über Zion wie eine große, dunkle Wolke. Wie ein Stern vom Himmel auf die Erde stürzt, so verging Israels ganze Pracht. Im Zorn hat Gott selbst seinen Tempel verworfen, den Schemel, auf dem seine Füße einst ruhten.",
+    "h": "Der Zorn des Herrn hat Jerusalem getroffen",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "25002002",
+    "b": 25,
+    "c": 2,
+    "v": 2,
+    "t": "Erbarmungslos hat er die Häuser und Dörfer zerstört, in denen die Nachkommen von Jakob wohnten. Die befestigten Städte Judas hat er niedergerissen und seinem Zorn freien Lauf gelassen. Über das Königreich hat er Schande gebracht und die Mächtigen zu Boden gestürzt.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "25002003",
+    "b": 25,
+    "c": 2,
+    "v": 3,
+    "t": "Der Herr hat Israel aller Macht beraubt. Als der Feind zum Angriff blies, zog er seine schützende Hand zurück. Er hat das Land in Brand gesteckt wie ein loderndes Feuer, das alles ringsum verzehrt.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "25002004",
+    "b": 25,
+    "c": 2,
+    "v": 4,
+    "t": "Er spannte seinen Bogen und stellte sich auf, die rechte Hand bereit zum Schuss. Wie ein Feind hat er alle getötet, die uns so lieb und teuer waren. Zion bekam seinen glühenden Zorn zu spüren, er goss ihn über die Häuser wie Feuer.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "25002005",
+    "b": 25,
+    "c": 2,
+    "v": 5,
+    "t": "Der Herr ist Israels Feind geworden: Er hat das Land in Schutt und Asche gelegt, alle prächtigen Paläste hat er zertrümmert, und die Städte machte er dem Erdboden gleich. So stürzte er die Bewohner Judas in immer tiefere Trauer und Leid.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "25002006",
+    "b": 25,
+    "c": 2,
+    "v": 6,
+    "t": "Der HERR hat seinen Tempel niedergerissen, als wäre er eine einfache Gartenhütte; den Ort, an dem wir uns vor ihm versammelten, hat er in seinem furchtbaren Zorn zerstört. Den Festtagen und Sabbatfeiern hat er ein Ende bereitet und selbst den König und die Priester verstoßen.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "25002007",
+    "b": 25,
+    "c": 2,
+    "v": 7,
+    "t": "Nun will er von seinem Tempel nichts mehr wissen, seinem heiligen Altar hat er den Rücken gekehrt. Die Feinde ließ er bis in die Paläste eindringen, die starken Mauern waren kein Hindernis mehr. Überall hört man ihren Lärm und Geschrei, selbst im Tempel klingt es laut wie an einem Fest.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "25002008",
+    "b": 25,
+    "c": 2,
+    "v": 8,
+    "t": "Der HERR hat den Untergang Zions beschlossen, kein Stein sollte auf dem anderen bleiben. Und so spannte er die Messschnur über sie, um sein vernichtendes Werk auszuführen. Er riss Mauern und Schutzwälle nieder, nun liegen sie allesamt in Trümmern da.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "25002009",
+    "b": 25,
+    "c": 2,
+    "v": 9,
+    "t": "Die Stadttore machte er dem Erdboden gleich, er brach die Riegel auf und zerschlug sie. Unseren König und seine Beamten schleppte man fort, sie müssen unter fremden Völkern ihr Leben fristen. Es ist niemand mehr da, der uns die Weisungen Gottes verkündigt, selbst die Propheten empfangen keine Visionen mehr vom HERRN.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "25002010",
+    "b": 25,
+    "c": 2,
+    "v": 10,
+    "t": "Die erfahrenen Männer sitzen stumm am Boden, das unsägliche Leid hat sie zum Schweigen gebracht. Sie haben sich Staub auf den Kopf gestreut und ihre Gewänder gegen Trauerkleider getauscht. Auch die Mädchen von Jerusalem sind verzweifelt, sie gehen mit gesenkten Köpfen umher.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "25002011",
+    "b": 25,
+    "c": 2,
+    "v": 11,
+    "t": "Ich weine mir fast die Augen aus, der Schmerz überwältigt mich, und es bricht mir das Herz, den Untergang meines Volkes mitzuerleben. Ich musste zusehen, wie Säuglinge und kleine Kinder auf den Plätzen der Stadt verhungerten.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "25002012",
+    "b": 25,
+    "c": 2,
+    "v": 12,
+    "t": "»Ich habe Hunger! Ich habe Durst!«, sagten sie flehend zu ihrer Mutter. Dann brachen sie mitten auf der Straße zusammen und blieben wie tödlich Verwundete liegen. Ihre Mutter hielt sie in den Armen, während ihr junges Leben erlosch.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "25002013",
+    "b": 25,
+    "c": 2,
+    "v": 13,
+    "t": "Ach, Jerusalem, was soll ich dir sagen? Hat es jemals ein solches Elend gegeben? Wie kann ich dich nur trösten, du geliebte Stadt meines Volkes? So tief wie das Meer sind deine Wunden. Wer könnte dich je wieder heilen?",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "25002014",
+    "b": 25,
+    "c": 2,
+    "v": 14,
+    "t": "Zwar haben deine Propheten dir geweissagt, aber es war doch nichts als Lug und Trug; sie deckten deine Schuld nicht auf und wendeten das Unheil so nicht von dir ab. Mit ihren Botschaften haben sie dich betrogen und ein ums andere Mal in die Irre geführt.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "25002015",
+    "b": 25,
+    "c": 2,
+    "v": 15,
+    "t": "Jerusalem, wer nun an dir vorübergeht, hat nur noch Spott für dich übrig und schüttelt bei deinem Anblick den Kopf. Verächtlich lachend fragt einer den anderen: »Ist das die Stadt, die als vollendete Schönheit galt, eine Augenweide für die ganze Welt?«",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "25002016",
+    "b": 25,
+    "c": 2,
+    "v": 16,
+    "t": "Deine Feinde ziehen über dich her und weiden sich an deinem Untergang: »Wir haben sie vernichtet!«, höhnen sie. »Auf diesen Tag haben wir lange gewartet, und nun ist er endlich da, wir haben unser Ziel erreicht!«",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "25002017",
+    "b": 25,
+    "c": 2,
+    "v": 17,
+    "t": "Der HERR hat seine Pläne ausgeführt und hat die Drohung wahr gemacht, die er seit langer Zeit verkünden ließ. Erbarmungslos hat er dich zerstört, er schenkte deinen Feinden den Triumph und stärkte immer mehr ihre Macht.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "25002018",
+    "b": 25,
+    "c": 2,
+    "v": 18,
+    "t": "Zion, schrei laut zum Herrn, von jeder Mauer soll man es hören! Lass Tag und Nacht die Tränen fließen wie ein Bach, der niemals versiegt. Hör nicht auf zu weinen, ja, gönn dir keine Ruhe!",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "25002019",
+    "b": 25,
+    "c": 2,
+    "v": 19,
+    "t": "Steh mitten in der Nacht auf, wenn alles außer dem Wächter noch schläft, und flehe unermüdlich zu Gott um Hilfe. Heb deine Hände zu ihm empor und schütte dein Herz bei ihm aus! Bestürme ihn mit deinen Bitten, damit er das Leben deiner Kinder verschont, die an allen Straßenecken verhungern.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "25002020",
+    "b": 25,
+    "c": 2,
+    "v": 20,
+    "t": "HERR, sieh doch die Menschen, über die du solches Leid gebracht hast! Wie konnte es nur so weit kommen, dass Frauen ihre geliebten Kinder essen? Bis in deinen heiligen Tempel drang die Gewalt, Priester und Propheten wurden dort totgeschlagen.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "25002021",
+    "b": 25,
+    "c": 2,
+    "v": 21,
+    "t": "Kinder und Greise liegen auf den Straßen, Mädchen und junge Männer aus meinem Volk – sie alle durchbohrt vom Schwert der Feinde. An dem Tag, als dein Zorn losbrach, hattest du kein Mitleid mit ihnen, sondern hast sie allesamt abgeschlachtet.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "25002022",
+    "b": 25,
+    "c": 2,
+    "v": 22,
+    "t": "Meine Feinde hast du zusammengerufen, sie eilten herbei wie zu einem Fest und verbreiteten überall Angst und Schrecken. Vor deinem Zorn, HERR, gab es kein Entrinnen! Meine Kinder, die ich mit viel Liebe großzog, sind nun dem Feind zum Opfer gefallen.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "25003001",
+    "b": 25,
+    "c": 3,
+    "v": 1,
+    "t": "Seht mich an – wie viel Elend muss ich ertragen! Ich bin der Mann, den Gott mit seiner Rute schlägt.",
+    "h": "Hoffnung in der größten Not",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "25003002",
+    "b": 25,
+    "c": 3,
+    "v": 2,
+    "t": "Voller Zorn hat er mich fortgejagt und immer tiefer in die Finsternis getrieben.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "25003003",
+    "b": 25,
+    "c": 3,
+    "v": 3,
+    "t": "Gegen mich sind seine Hiebe gerichtet, den ganzen Tag trifft mich seine strafende Hand.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "25003004",
+    "b": 25,
+    "c": 3,
+    "v": 4,
+    "t": "Davon bin ich abgemagert und krank geworden; all meine Knochen hat er mir zerschlagen.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "25003005",
+    "b": 25,
+    "c": 3,
+    "v": 5,
+    "t": "Bitteres Leid und Trauer haben mich überwältigt, Gott selbst hat mich darin eingeschlossen.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "25003006",
+    "b": 25,
+    "c": 3,
+    "v": 6,
+    "t": "In völliger Dunkelheit lässt er mich zurück, als wäre ich schon lange tot.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "25003007",
+    "b": 25,
+    "c": 3,
+    "v": 7,
+    "t": "Mit schweren Ketten hat er mich gefesselt und mein Gefängnis mit hohen Mauern umgeben.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "25003008",
+    "b": 25,
+    "c": 3,
+    "v": 8,
+    "t": "Wenn ich schreie und um Hilfe rufe, so verschließt er sich meinem Gebet.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "25003009",
+    "b": 25,
+    "c": 3,
+    "v": 9,
+    "t": "Wohin ich mich wende, jeder Weg ist versperrt – Gott lässt mich nicht entkommen!",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "25003010",
+    "b": 25,
+    "c": 3,
+    "v": 10,
+    "t": "Er hat mir aufgelauert wie ein Bär, wie ein Löwe in seinem Versteck.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "25003011",
+    "b": 25,
+    "c": 3,
+    "v": 11,
+    "t": "Er hat mich vom Weg abgedrängt, mich zerfleischt und hilflos liegen lassen.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "25003012",
+    "b": 25,
+    "c": 3,
+    "v": 12,
+    "t": "Er spannte seinen Bogen und zielte mit seinen Pfeilen auf mich.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "25003013",
+    "b": 25,
+    "c": 3,
+    "v": 13,
+    "t": "Immer wieder griff er in seinen Köcher und schoss mir mitten durchs Herz.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "25003014",
+    "b": 25,
+    "c": 3,
+    "v": 14,
+    "t": "Mein Volk verlacht mich Tag für Tag, sie singen Spottlieder auf mich.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "25003015",
+    "b": 25,
+    "c": 3,
+    "v": 15,
+    "t": "Gott reicht mir bittere Kräuter zu essen und füllt mir den Becher mit Wermut.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "25003016",
+    "b": 25,
+    "c": 3,
+    "v": 16,
+    "t": "Er gibt mir Steine statt Brot, er tritt mich tief in den Staub.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "25003017",
+    "b": 25,
+    "c": 3,
+    "v": 17,
+    "t": "Was Frieden und Glück ist, weiß ich nicht mehr. Du, Herr, hast mir alles genommen.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "25003018",
+    "b": 25,
+    "c": 3,
+    "v": 18,
+    "t": "Darum sagte ich: »Meine Kraft ist geschwunden, und meine Hoffnung auf den HERRN ist dahin.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "25003019",
+    "b": 25,
+    "c": 3,
+    "v": 19,
+    "t": "Meine Not ist groß, ich habe keine Heimat mehr. Schon der Gedanke daran macht mich bitter und krank.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "25003020",
+    "b": 25,
+    "c": 3,
+    "v": 20,
+    "t": "Und doch muss ich ständig daran denken und bin vor lauter Grübeln am Boden zerstört.«",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "25003021",
+    "b": 25,
+    "c": 3,
+    "v": 21,
+    "t": "Aber eine Hoffnung bleibt mir noch, an ihr halte ich trotz allem fest:",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "25003022",
+    "b": 25,
+    "c": 3,
+    "v": 22,
+    "t": "Die Güte des HERRN hat kein Ende, sein Erbarmen hört niemals auf,",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "25003023",
+    "b": 25,
+    "c": 3,
+    "v": 23,
+    "t": "es ist jeden Morgen neu! Groß ist deine Treue, o Herr!",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "25003024",
+    "b": 25,
+    "c": 3,
+    "v": 24,
+    "t": "Darum setze ich meine Hoffnung auf ihn, der HERR ist alles, was ich brauche.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "25003025",
+    "b": 25,
+    "c": 3,
+    "v": 25,
+    "t": "Denn der HERR ist gut zu dem, der ihm vertraut und ihn von ganzem Herzen sucht.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "25003026",
+    "b": 25,
+    "c": 3,
+    "v": 26,
+    "t": "Darum ist es das Beste, geduldig zu sein und auf die Hilfe des HERRN zu warten.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "25003027",
+    "b": 25,
+    "c": 3,
+    "v": 27,
+    "t": "Und es ist gut für einen Menschen, wenn er schon früh lernt, Schweres zu tragen.",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "25003028",
+    "b": 25,
+    "c": 3,
+    "v": 28,
+    "t": "Wenn Gott ihm die Last auferlegt, soll er es annehmen und nicht aufbegehren.",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "25003029",
+    "b": 25,
+    "c": 3,
+    "v": 29,
+    "t": "Demütig beuge er sich tief in den Staub, vielleicht gibt es ja noch Hoffnung für ihn.",
+    "h": "",
+    "o": 29,
+    "l": "29"
+  },
+  {
+    "id": "25003030",
+    "b": 25,
+    "c": 3,
+    "v": 30,
+    "t": "Wenn man ihn schlägt, soll er die Wange hinhalten und die Demütigung still ertragen.",
+    "h": "",
+    "o": 30,
+    "l": "30"
+  },
+  {
+    "id": "25003031",
+    "b": 25,
+    "c": 3,
+    "v": 31,
+    "t": "Denn wenn der Herr einen Menschen verstößt, dann tut er es nicht für immer und ewig.",
+    "h": "",
+    "o": 31,
+    "l": "31"
+  },
+  {
+    "id": "25003032",
+    "b": 25,
+    "c": 3,
+    "v": 32,
+    "t": "Er lässt ihn zwar leiden, aber erbarmt sich auch wieder, denn seine Gnade und Liebe ist groß.",
+    "h": "",
+    "o": 32,
+    "l": "32"
+  },
+  {
+    "id": "25003033",
+    "b": 25,
+    "c": 3,
+    "v": 33,
+    "t": "Wenn er strafen muss, hat er keine Freude daran, sondern das Leid seiner Kinder schmerzt ihn auch selbst.",
+    "h": "",
+    "o": 33,
+    "l": "33"
+  },
+  {
+    "id": "25003034",
+    "b": 25,
+    "c": 3,
+    "v": 34,
+    "t": "Es gibt so viel Unrecht in diesem Land: Die Gefangenen werden mit Füßen getreten,",
+    "h": "",
+    "o": 34,
+    "l": "34"
+  },
+  {
+    "id": "25003035",
+    "b": 25,
+    "c": 3,
+    "v": 35,
+    "t": "vor den Augen des höchsten Gottes bringt man Unschuldige um ihr Recht.",
+    "h": "",
+    "o": 35,
+    "l": "35"
+  },
+  {
+    "id": "25003036",
+    "b": 25,
+    "c": 3,
+    "v": 36,
+    "t": "Vor Gericht wird gelogen und betrogen – meint ihr etwa, der Herr sieht das nicht?",
+    "h": "",
+    "o": 36,
+    "l": "36"
+  },
+  {
+    "id": "25003037",
+    "b": 25,
+    "c": 3,
+    "v": 37,
+    "t": "Wer kann etwas geschehen lassen, wenn der Herr es nicht befiehlt?",
+    "h": "",
+    "o": 37,
+    "l": "37"
+  },
+  {
+    "id": "25003038",
+    "b": 25,
+    "c": 3,
+    "v": 38,
+    "t": "Alles Glück haben wir ihm zu verdanken, und genauso kommt das Unglück aus seiner Hand.",
+    "h": "",
+    "o": 38,
+    "l": "38"
+  },
+  {
+    "id": "25003039",
+    "b": 25,
+    "c": 3,
+    "v": 39,
+    "t": "Solange wir leben, brauchen wir uns nicht zu beklagen. Sind es nicht unsere Sünden, für die Gott uns bestraft?",
+    "h": "",
+    "o": 39,
+    "l": "39"
+  },
+  {
+    "id": "25003040",
+    "b": 25,
+    "c": 3,
+    "v": 40,
+    "t": "Kommt, wir wollen unser Leben sorgfältig prüfen und wieder zurückkehren zum HERRN !",
+    "h": "",
+    "o": 40,
+    "l": "40"
+  },
+  {
+    "id": "25003041",
+    "b": 25,
+    "c": 3,
+    "v": 41,
+    "t": "Ihm wollen wir unsere Herzen öffnen, zu unserem Gott im Himmel die Hände erheben:",
+    "h": "",
+    "o": 41,
+    "l": "41"
+  },
+  {
+    "id": "25003042",
+    "b": 25,
+    "c": 3,
+    "v": 42,
+    "t": "»Herr, wir haben gesündigt und dir die Treue gebrochen – und das hast du uns nicht vergeben!",
+    "h": "",
+    "o": 42,
+    "l": "42"
+  },
+  {
+    "id": "25003043",
+    "b": 25,
+    "c": 3,
+    "v": 43,
+    "t": "Stattdessen hast du dich in Zorn gehüllt, du hast uns verfolgt und erbarmungslos getötet!",
+    "h": "",
+    "o": 43,
+    "l": "43"
+  },
+  {
+    "id": "25003044",
+    "b": 25,
+    "c": 3,
+    "v": 44,
+    "t": "In einer dichten Wolke hast du dich verborgen, kein Gebet konnte mehr zu dir durchdringen.",
+    "h": "",
+    "o": 44,
+    "l": "44"
+  },
+  {
+    "id": "25003045",
+    "b": 25,
+    "c": 3,
+    "v": 45,
+    "t": "Du hast dafür gesorgt, dass die Völker uns wie Dreck behandeln, zum Abschaum der Menschheit sind wir geworden.",
+    "h": "",
+    "o": 45,
+    "l": "45"
+  },
+  {
+    "id": "25003046",
+    "b": 25,
+    "c": 3,
+    "v": 46,
+    "t": "Unsere Feinde stecken die Köpfe zusammen und zerreißen sich das Maul über uns.",
+    "h": "",
+    "o": 46,
+    "l": "46"
+  },
+  {
+    "id": "25003047",
+    "b": 25,
+    "c": 3,
+    "v": 47,
+    "t": "Angst und Schrecken haben uns gepackt, überall erlebten wir Zerstörung und Tod.«",
+    "h": "",
+    "o": 47,
+    "l": "47"
+  },
+  {
+    "id": "25003048",
+    "b": 25,
+    "c": 3,
+    "v": 48,
+    "t": "Mein geliebtes Volk ist dem Untergang nahe, darum muss ich hemmungslos weinen.",
+    "h": "",
+    "o": 48,
+    "l": "48"
+  },
+  {
+    "id": "25003049",
+    "b": 25,
+    "c": 3,
+    "v": 49,
+    "t": "Unaufhörlich fließen meine Tränen. Ich werde so lange keine Ruhe finden,",
+    "h": "",
+    "o": 49,
+    "l": "49"
+  },
+  {
+    "id": "25003050",
+    "b": 25,
+    "c": 3,
+    "v": 50,
+    "t": "bis der HERR vom Himmel herabschaut und unser Schicksal endlich beachtet.",
+    "h": "",
+    "o": 50,
+    "l": "50"
+  },
+  {
+    "id": "25003051",
+    "b": 25,
+    "c": 3,
+    "v": 51,
+    "t": "Mir bricht das Herz, wenn ich sehe, wie es den Frauen in der Stadt ergeht.",
+    "h": "",
+    "o": 51,
+    "l": "51"
+  },
+  {
+    "id": "25003052",
+    "b": 25,
+    "c": 3,
+    "v": 52,
+    "t": "Ich habe meinen Feinden nichts getan, doch sie haben mich gefangen wie einen Vogel.",
+    "h": "",
+    "o": 52,
+    "l": "52"
+  },
+  {
+    "id": "25003053",
+    "b": 25,
+    "c": 3,
+    "v": 53,
+    "t": "Sie stürzten mich lebend in einen Brunnen und warfen Steine auf mich herab.",
+    "h": "",
+    "o": 53,
+    "l": "53"
+  },
+  {
+    "id": "25003054",
+    "b": 25,
+    "c": 3,
+    "v": 54,
+    "t": "Das Wasser schlug über mir zusammen, und ich dachte schon: »Das ist das Ende!«",
+    "h": "",
+    "o": 54,
+    "l": "54"
+  },
+  {
+    "id": "25003055",
+    "b": 25,
+    "c": 3,
+    "v": 55,
+    "t": "Da schrie ich zu dir um Hilfe, o HERR, tief unten aus der Grube flehte ich dich an,",
+    "h": "",
+    "o": 55,
+    "l": "55"
+  },
+  {
+    "id": "25003056",
+    "b": 25,
+    "c": 3,
+    "v": 56,
+    "t": "deine Ohren nicht vor mir zu verschließen. Und wirklich: Du hast mich erhört!",
+    "h": "",
+    "o": 56,
+    "l": "56"
+  },
+  {
+    "id": "25003057",
+    "b": 25,
+    "c": 3,
+    "v": 57,
+    "t": "Als ich rief, kamst du mir ganz nahe und sprachst: »Fürchte dich nicht!«",
+    "h": "",
+    "o": 57,
+    "l": "57"
+  },
+  {
+    "id": "25003058",
+    "b": 25,
+    "c": 3,
+    "v": 58,
+    "t": "Herr, du bist für mich eingetreten und hast mein Leben gerettet.",
+    "h": "",
+    "o": 58,
+    "l": "58"
+  },
+  {
+    "id": "25003059",
+    "b": 25,
+    "c": 3,
+    "v": 59,
+    "t": "Du weißt, wie viel Unrecht ich erleiden musste. HERR, schaffe du mir nun Recht!",
+    "h": "",
+    "o": 59,
+    "l": "59"
+  },
+  {
+    "id": "25003060",
+    "b": 25,
+    "c": 3,
+    "v": 60,
+    "t": "Du kennst die Rachsucht meiner Feinde und die Pläne, die sie gegen mich schmieden.",
+    "h": "",
+    "o": 60,
+    "l": "60"
+  },
+  {
+    "id": "25003061",
+    "b": 25,
+    "c": 3,
+    "v": 61,
+    "t": "HERR, du hast gehört, wie sie mich schmähen, ihre finsteren Intrigen sind dir nicht verborgen.",
+    "h": "",
+    "o": 61,
+    "l": "61"
+  },
+  {
+    "id": "25003062",
+    "b": 25,
+    "c": 3,
+    "v": 62,
+    "t": "Tagein, tagaus verhöhnen sie mich, immer ziehen sie über mich her.",
+    "h": "",
+    "o": 62,
+    "l": "62"
+  },
+  {
+    "id": "25003063",
+    "b": 25,
+    "c": 3,
+    "v": 63,
+    "t": "Sieh sie dir an und hör doch die Spottlieder, die sie von früh bis spät über mich singen!",
+    "h": "",
+    "o": 63,
+    "l": "63"
+  },
+  {
+    "id": "25003064",
+    "b": 25,
+    "c": 3,
+    "v": 64,
+    "t": "Ich bitte dich: Vergelte es ihnen, o HERR ! Gib ihnen den gerechten Lohn für ihre Taten!",
+    "h": "",
+    "o": 64,
+    "l": "64"
+  },
+  {
+    "id": "25003065",
+    "b": 25,
+    "c": 3,
+    "v": 65,
+    "t": "Lass ihre Herzen hart und verblendet sein, ja, möge dein Fluch über sie kommen!",
+    "h": "",
+    "o": 65,
+    "l": "65"
+  },
+  {
+    "id": "25003066",
+    "b": 25,
+    "c": 3,
+    "v": 66,
+    "t": "Verfolge sie, bis dein Zorn sie trifft, und lass sie von deiner Erde verschwinden!",
+    "h": "",
+    "o": 66,
+    "l": "66"
+  },
+  {
+    "id": "25004001",
+    "b": 25,
+    "c": 4,
+    "v": 1,
+    "t": "Ach, das Gold hat seinen Glanz verloren, stumpf und matt ist es geworden. Die kostbaren Steine des Tempels liegen verstreut an allen Straßenecken.",
+    "h": "Jerusalems Elend",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "25004002",
+    "b": 25,
+    "c": 4,
+    "v": 2,
+    "t": "Die jungen Männer Zions, für uns so wertvoll wie reines Gold, werden nun verächtlich behandelt wie gewöhnliches Tongeschirr.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "25004003",
+    "b": 25,
+    "c": 4,
+    "v": 3,
+    "t": "Selbst Schakale säugen ihre Jungen, aber die Mütter meines Volkes sind grausam zu ihren Kindern wie ein Strauß in der Wüste.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "25004004",
+    "b": 25,
+    "c": 4,
+    "v": 4,
+    "t": "Der Säugling schreit vor Durst, die Zunge klebt ihm am Gaumen. Kleine Kinder betteln um Brot, doch niemand gibt ihnen ein Stück.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "25004005",
+    "b": 25,
+    "c": 4,
+    "v": 5,
+    "t": "Wer früher nur das Feinste aß, bricht nun vor Hunger auf der Straße zusammen. Wer früher auf purpurfarbenen Kissen schlief, liegt jetzt mitten im stinkenden Dreck.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "25004006",
+    "b": 25,
+    "c": 4,
+    "v": 6,
+    "t": "Mein Volk hat schwer gesündigt – schlimmer noch als die Leute von Sodom, die plötzlich und ohne menschliches Zutun ein schreckliches Ende fanden.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "25004007",
+    "b": 25,
+    "c": 4,
+    "v": 7,
+    "t": "Einst waren unsere Fürsten gesund und schön: Ihre Zähne blitzten so weiß wie Schnee, und ihre Wangen schimmerten rot wie Korallen, ihre ganze Erscheinung glich einem funkelnden Juwel.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "25004008",
+    "b": 25,
+    "c": 4,
+    "v": 8,
+    "t": "Jetzt aber ist ihr Gesicht dunkel wie Ruß, sie sind bis auf die Knochen abgemagert, und ihr Körper ist so spindeldürr geworden, dass man sie auf der Straße nicht wiedererkennt.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "25004009",
+    "b": 25,
+    "c": 4,
+    "v": 9,
+    "t": "Wer vom Schwert der Feinde durchbohrt wurde, hatte es sogar noch besser als jene, die überlebten. Sie verhungerten und starben einen qualvollen Tod, weil keine Ernte mehr eingebracht werden konnte.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "25004010",
+    "b": 25,
+    "c": 4,
+    "v": 10,
+    "t": "Am Ende war die Not so groß geworden, dass mein Volk weder aus noch ein wusste. Liebevolle Mütter haben dann aus lauter Verzweiflung ihre eigenen Kinder gekocht und gegessen!",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "25004011",
+    "b": 25,
+    "c": 4,
+    "v": 11,
+    "t": "Der HERR hat seinem Zorn freien Lauf gelassen und die sengende Glut über uns ausgegossen. Er hat in der Stadt Zion ein Feuer gelegt, das sie bis auf die Grundmauern niederbrannte.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "25004012",
+    "b": 25,
+    "c": 4,
+    "v": 12,
+    "t": "Was niemand für möglich gehalten hätte, ist nun vor den Augen der Völker geschehen: Die Feinde sind in Jerusalem eingezogen, im Triumph schritten sie durch seine Tore.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "25004013",
+    "b": 25,
+    "c": 4,
+    "v": 13,
+    "t": "Es musste so kommen wegen der Schuld der Propheten und wegen der Sünden, die die Priester begingen: Unschuldige Menschen haben sie umgebracht – und das inmitten der Stadt!",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "25004014",
+    "b": 25,
+    "c": 4,
+    "v": 14,
+    "t": "Jetzt taumeln sie selbst durch die Straßen wie Blinde, die ihren Weg nicht finden. Ihre Kleider sind so mit Blut besudelt, dass niemand sie zu berühren wagt.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "25004015",
+    "b": 25,
+    "c": 4,
+    "v": 15,
+    "t": "»Aus dem Weg!«, ruft man ihnen zu. »Ihr seid unrein! Aus dem Weg! Rührt uns nicht an!« So müssen sie fliehen und irren umher. Sogar in anderen Ländern sagt man: »Bei uns können sie nicht bleiben!«",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "25004016",
+    "b": 25,
+    "c": 4,
+    "v": 16,
+    "t": "Der HERR hat sich von ihnen abgewandt und sie eigenhändig aus dem Land vertrieben. Niemand mehr erweist den Priestern Respekt oder erbarmt sich über die alten Männer.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "25004017",
+    "b": 25,
+    "c": 4,
+    "v": 17,
+    "t": "Wir warteten unentwegt auf Hilfe, doch alles Hoffen war vergeblich! Das Volk, nach dem wir Ausschau hielten, konnte uns auch nicht retten.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "25004018",
+    "b": 25,
+    "c": 4,
+    "v": 18,
+    "t": "Die Feinde verfolgten uns auf Schritt und Tritt, niemand wagte sich mehr auf die Straße. Unsere Tage waren gezählt, wir waren verloren, jetzt war unser Ende gekommen!",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "25004019",
+    "b": 25,
+    "c": 4,
+    "v": 19,
+    "t": "Die Verfolger stürzten sich so schnell auf uns wie ein Adler, der auf seine Beute herabstößt. Auf der Flucht ins Bergland holten sie uns ein, und in der Wüste lauerten sie uns auf.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "25004020",
+    "b": 25,
+    "c": 4,
+    "v": 20,
+    "t": "Unseren König, den der HERR auserwählt hat, haben sie uns genommen, und mit ihm unser Leben! Dabei dachten wir, er würde uns vor den Völkern schützen wie ein Schatten vor der glühenden Sonne.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "25004021",
+    "b": 25,
+    "c": 4,
+    "v": 21,
+    "t": "Lacht nur schadenfroh, ihr Edomiter im Land Uz! Der Kelch mit Gottes Zorn kommt auch zu euch! Ob ihr wollt oder nicht, ihr müsst daraus trinken, dann werdet ihr taumeln und nackt am Boden liegen.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "25004022",
+    "b": 25,
+    "c": 4,
+    "v": 22,
+    "t": "Freue dich, Zion, deine Schuld ist gesühnt! Gott wird dich nie mehr in die Gefangenschaft führen. Aber eure Schuld, ihr Edomiter, bringt er ans Licht! Ja, er wird euch zur Rechenschaft ziehen.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "25005001",
+    "b": 25,
+    "c": 5,
+    "v": 1,
+    "t": "HERR, vergiss nicht, was man uns angetan hat! Sieh doch, wie wir gedemütigt werden!",
+    "h": "Herr, führe uns zurück zu dir!",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "25005002",
+    "b": 25,
+    "c": 5,
+    "v": 2,
+    "t": "Unser Grund und Boden gehört einem anderen Volk, und in unseren Häusern wohnen jetzt Fremde!",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "25005003",
+    "b": 25,
+    "c": 5,
+    "v": 3,
+    "t": "Wir sind verlassen wie Waisenkinder, unsere Mütter schutzlos wie Witwen!",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "25005004",
+    "b": 25,
+    "c": 5,
+    "v": 4,
+    "t": "Unser eigenes Trinkwasser müssen wir bezahlen, und auch Brennholz bekommen wir nur gegen Geld.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "25005005",
+    "b": 25,
+    "c": 5,
+    "v": 5,
+    "t": "Der Feind sitzt uns unbarmherzig im Nacken; wir sind erschöpft, doch man gönnt uns keine Ruhe.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "25005006",
+    "b": 25,
+    "c": 5,
+    "v": 6,
+    "t": "Wir unterwarfen uns den Ägyptern und Assyrern, um genug Brot zu essen zu haben.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "25005007",
+    "b": 25,
+    "c": 5,
+    "v": 7,
+    "t": "Unsere Vorfahren leben schon lange nicht mehr, wir aber müssen nun für ihre Schuld bezahlen.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "25005008",
+    "b": 25,
+    "c": 5,
+    "v": 8,
+    "t": "Sklaven sind zu Herrschern über uns geworden, und keiner schützt uns vor ihrer Willkür.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "25005009",
+    "b": 25,
+    "c": 5,
+    "v": 9,
+    "t": "Unter Lebensgefahr müssen wir nach Nahrung suchen, denn Räuberbanden machen das ganze Land unsicher.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "25005010",
+    "b": 25,
+    "c": 5,
+    "v": 10,
+    "t": "Wir sind vom Hunger ausgezehrt, unsere Körper glühen vor Fieber.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "25005011",
+    "b": 25,
+    "c": 5,
+    "v": 11,
+    "t": "In Zion haben sie unsere Frauen vergewaltigt, in den Städten Judas vergingen sie sich an den Mädchen.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "25005012",
+    "b": 25,
+    "c": 5,
+    "v": 12,
+    "t": "Sie haben die führenden Männer aufgehängt und die Obersten all ihrer Ehre beraubt.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "25005013",
+    "b": 25,
+    "c": 5,
+    "v": 13,
+    "t": "Unsere Männer müssen Korn mahlen wie Sklaven, die Jungen brechen beim Holzschleppen zusammen.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "25005014",
+    "b": 25,
+    "c": 5,
+    "v": 14,
+    "t": "Die Alten sitzen nicht mehr am Stadttor beieinander, und die Jungen spielen keine Instrumente mehr.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "25005015",
+    "b": 25,
+    "c": 5,
+    "v": 15,
+    "t": "Aus unserem Leben ist alle Freude verflogen, das Singen und Tanzen ist zum Trauerlied geworden.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "25005016",
+    "b": 25,
+    "c": 5,
+    "v": 16,
+    "t": "Wir haben unseren Ruhm und Glanz verloren; es ist aus mit uns, weil wir gegen Gott gesündigt haben.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "25005017",
+    "b": 25,
+    "c": 5,
+    "v": 17,
+    "t": "Darum ist unser Herz traurig und krank, und unsere Augen sind müde vom Weinen.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "25005018",
+    "b": 25,
+    "c": 5,
+    "v": 18,
+    "t": "Denn der heilige Berg Zion ist verwüstet, wilde Füchse streunen nun dort umher.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "25005019",
+    "b": 25,
+    "c": 5,
+    "v": 19,
+    "t": "Aber du, HERR, regierst für immer und ewig, ja, du bist König für alle Zeiten.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "25005020",
+    "b": 25,
+    "c": 5,
+    "v": 20,
+    "t": "Warum hast du uns all die Jahre vergessen? Willst du uns etwa für immer verlassen?",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "25005021",
+    "b": 25,
+    "c": 5,
+    "v": 21,
+    "t": "HERR, führe uns doch zurück zu dir, damit wir zu dir umkehren können! Lass unser Leben wieder so sein wie früher!",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "25005022",
+    "b": 25,
+    "c": 5,
+    "v": 22,
+    "t": "Oder hast du uns für immer verstoßen? Hat dein Zorn über uns denn kein Ende?",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  }
+]

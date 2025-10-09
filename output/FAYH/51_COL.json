@@ -1,0 +1,942 @@
+[
+    {
+        "id": "51001001",
+        "b": 51,
+        "c": 1,
+        "v": 1,
+        "t": "DARI: Paulus, yang dipilih oleh Allah menjadi utusan Yesus Kristus dan dari saudara kita, Timotius.",
+        "h": "",
+        "o": 1,
+        "l": "1"
+    },
+    {
+        "id": "51001002",
+        "b": 51,
+        "c": 1,
+        "v": 2,
+        "t": "Kepada: Saudara-saudara Kristen yang setia, umat Allah di Kota Kolose. Semoga Allah, Bapa kita, melimpahkan berkat-berkat-Nya kepada Saudara serta memenuhi Saudara dengan damai sejahtera-Nya.",
+        "h": "",
+        "o": 2,
+        "l": "2"
+    },
+    {
+        "id": "51001003",
+        "b": 51,
+        "c": 1,
+        "v": 3,
+        "t": "Bilamana kami berdoa bagi Saudara, kami selalu mulai dengan mengucap syukur kepada Allah, Bapa Tuhan kita, Yesus Kristus,",
+        "h": "",
+        "o": 3,
+        "l": "3"
+    },
+    {
+        "id": "51001004",
+        "b": 51,
+        "c": 1,
+        "v": 4,
+        "t": "sebab kami telah mendengar betapa Saudara beriman kepada Tuhan dan betapa Saudara mengasihi umat-Nya.",
+        "h": "",
+        "o": 4,
+        "l": "4"
+    },
+    {
+        "id": "51001005",
+        "b": 51,
+        "c": 1,
+        "v": 5,
+        "t": "Saudara berharap akan kebahagiaan surgawi sejak Injil pertama kali diberitakan kepada Saudara.",
+        "h": "",
+        "o": 5,
+        "l": "5"
+    },
+    {
+        "id": "51001006",
+        "b": 51,
+        "c": 1,
+        "v": 6,
+        "t": "Berita Kesukaan yang telah Saudara dengar itu sedang menyebar ke seluruh dunia. Di mana-mana berita itu mengubah kehidupan orang, seperti yang terjadi pada Saudara ketika Saudara mendengar berita itu untuk pertama kali serta mendapat pengertian betapa besar kebaikan Allah kepada orang-orang berdosa.",
+        "h": "",
+        "o": 6,
+        "l": "6"
+    },
+    {
+        "id": "51001007",
+        "b": 51,
+        "c": 1,
+        "v": 7,
+        "t": "Yang membawa Berita Kesukaan ini kepada Saudara ialah Epafras, rekan sekerja yang sangat kami kasihi. Ia adalah hamba Yesus Kristus. Ia berada di sini mewakili Saudara sekalian untuk menolong kami dalam pelayanan.",
+        "h": "",
+        "o": 7,
+        "l": "7"
+    },
+    {
+        "id": "51001008",
+        "b": 51,
+        "c": 1,
+        "v": 8,
+        "t": "Dan dia jugalah yang menceritakan kepada kami betapa besar kasih Saudara kepada orang lain, yaitu kasih pemberian Roh Kudus.",
+        "h": "",
+        "o": 8,
+        "l": "8"
+    },
+    {
+        "id": "51001009",
+        "b": 51,
+        "c": 1,
+        "v": 9,
+        "t": "Sejak pertama kali kami mendengar tentang Saudara, kami terus-menerus berdoa dan mohon kepada Allah supaya menolong Saudara mengerti kehendak-Nya, supaya menjadikan Saudara bijaksana dalam hal-hal rohani,",
+        "h": "",
+        "o": 9,
+        "l": "9"
+    },
+    {
+        "id": "51001010",
+        "b": 51,
+        "c": 1,
+        "v": 10,
+        "t": "dan supaya cara hidup Saudara selalu menyukakan hati Tuhan serta memuliakan Dia, sehingga Saudara selalu berlaku baik dan ramah kepada orang lain, sementara Saudara terus belajar mengenal Allah lebih baik lagi.",
+        "h": "",
+        "o": 10,
+        "l": "10"
+    },
+    {
+        "id": "51001011",
+        "b": 51,
+        "c": 1,
+        "v": 11,
+        "t": "Kami juga berdoa supaya Saudara dipenuhi dengan kuasa-Nya yang mulia, sehingga dapat terus maju apa pun yang terjadi, selalu dipenuhi sukacita dari Tuhan,",
+        "h": "",
+        "o": 11,
+        "l": "11"
+    },
+    {
+        "id": "51001012",
+        "b": 51,
+        "c": 1,
+        "v": 12,
+        "t": "dan selalu bersyukur kepada Bapa, yang telah menjadikan kita layak mendapat bagian dari segala hal indah yang dimiliki oleh mereka yang hidup dalam kerajaan terang.",
+        "h": "",
+        "o": 12,
+        "l": "12"
+    },
+    {
+        "id": "51001013",
+        "b": 51,
+        "c": 1,
+        "v": 13,
+        "t": "Ia telah membebaskan kita dari kegelapan kerajaan Iblis serta membawa kita ke dalam Kerajaan Anak-Nya yang dikasihi-Nya,",
+        "h": "",
+        "o": 13,
+        "l": "13"
+    },
+    {
+        "id": "51001014",
+        "b": 51,
+        "c": 1,
+        "v": 14,
+        "t": "yang telah menebus kita dengan darah-Nya dan mengampunkan segala dosa kita.",
+        "h": "",
+        "o": 14,
+        "l": "14"
+    },
+    {
+        "id": "51001015",
+        "b": 51,
+        "c": 1,
+        "v": 15,
+        "t": "Kristus adalah gambaran yang tepat dari Allah yang tidak kelihatan. Ia sudah ada sebelum Allah menciptakan suatu apa pun. Sesungguhnya",
+        "h": "Kristus harapan kita",
+        "o": 15,
+        "l": "15"
+    },
+    {
+        "id": "51001016",
+        "b": 51,
+        "c": 1,
+        "v": 16,
+        "t": "Kristus sendiri adalah Pencipta, yang menjadikan segala sesuatu di langit dan di bumi, segala yang kelihatan dan yang tidak kelihatan; dunia roh dengan raja-raja dan kerajaannya, dengan penguasa-penguasa dan pemerintah-pemerintahnya. Semuanya dijadikan oleh Kristus bagi diri-Nya dan bagi kemuliaan-Nya.",
+        "h": "",
+        "o": 16,
+        "l": "16"
+    },
+    {
+        "id": "51001017",
+        "b": 51,
+        "c": 1,
+        "v": 17,
+        "t": "Ia sudah ada sebelum segala sesuatu diciptakan dan kuasa-Nya mengatur segala sesuatu.",
+        "h": "",
+        "o": 17,
+        "l": "17"
+    },
+    {
+        "id": "51001018",
+        "b": 51,
+        "c": 1,
+        "v": 18,
+        "t": "Ia adalah Kepala, sedangkan tubuh-Nya ialah umat-Nya, yaitu jemaat yang dibangun-Nya. Dan Dialah Pemimpin semua orang yang bangkit dari antara orang mati. Jadi, dalam segala hal Dialah yang pertama,",
+        "h": "",
+        "o": 18,
+        "l": "18"
+    },
+    {
+        "id": "51001019",
+        "b": 51,
+        "c": 1,
+        "v": 19,
+        "t": "karena Allah ingin agar seluruh diri-Nya ada di dalam Anak-Nya.",
+        "h": "",
+        "o": 19,
+        "l": "19"
+    },
+    {
+        "id": "51001020",
+        "b": 51,
+        "c": 1,
+        "v": 20,
+        "t": "Karena apa yang dilakukan Anak-Nya, Allah telah menyediakan jalan agar segala sesuatu dapat datang kepada-Nya, segala sesuatu yang di surga dan yang di bumi, karena darah Kristus yang mati di atas salib telah mendamaikan segala sesuatu dengan Allah.",
+        "h": "",
+        "o": 20,
+        "l": "20"
+    },
+    {
+        "id": "51001021",
+        "b": 51,
+        "c": 1,
+        "v": 21,
+        "t": "Saudara juga termasuk, sebab dahulu Saudara jauh dari Allah. Dahulu Saudara musuh-Nya, membenci Dia serta terpisah dari Dia oleh pikiran dan perbuatan jahat, tetapi sekarang Ia telah memulihkan Saudara sebagai sahabat-Nya.",
+        "h": "",
+        "o": 21,
+        "l": "21"
+    },
+    {
+        "id": "51001022",
+        "b": 51,
+        "c": 1,
+        "v": 22,
+        "t": "Semua ini dikerjakan-Nya melalui kematian jasmani Kristus sendiri di atas salib dengan tujuan membawa Saudara ke hadirat Allah, dan memungkinkan Saudara berdiri di hadapan-Nya tanpa cela, tanpa sesuatu yang dapat menyebabkan Saudara ditegor Allah.",
+        "h": "",
+        "o": 22,
+        "l": "22"
+    },
+    {
+        "id": "51001023",
+        "b": 51,
+        "c": 1,
+        "v": 23,
+        "t": "Satu-satunya syarat ialah bahwa Saudara harus mempercayai Kebenaran serta memegangnya dengan teguh, kuat di dalam Tuhan, yakin akan Berita Kesukaan bahwa Yesus mati untuk Saudara, dan tidak pernah ragu-ragu bahwa Ia menyelamatkan Saudara. Inilah Berita Kesukaan yang datang kepada Saudara masing-masing dan yang sekarang tersebar luas ke seluruh dunia. Dan saya, Paulus, sangat bersukacita dapat mengabarkannya kepada orang lain.",
+        "h": "",
+        "o": 23,
+        "l": "23"
+    },
+    {
+        "id": "51001024",
+        "b": 51,
+        "c": 1,
+        "v": 24,
+        "t": "Sebagian pekerjaan saya ialah menderita demi Saudara sekalian; tetapi saya senang, karena saya membantu menyelesaikan penderitaan Kristus bagi tubuh-Nya, yaitu jemaat.",
+        "h": "",
+        "o": 24,
+        "l": "24"
+    },
+    {
+        "id": "51001025",
+        "b": 51,
+        "c": 1,
+        "v": 25,
+        "t": "Allah telah mengutus saya untuk membantu jemaat-Nya dan untuk menyampaikan rencana-Nya kepada Saudara-saudara yang bukan bangsa Yahudi.",
+        "h": "",
+        "o": 25,
+        "l": "25"
+    },
+    {
+        "id": "51001026",
+        "b": 51,
+        "c": 1,
+        "v": 26,
+        "t": "Rencana itu telah dirahasiakan-Nya selama abad-abad dan generasi-generasi yang lampau, tetapi akhirnya Ia dengan senang hati mengungkapkannya kepada mereka yang mengasihi Dia dan yang hidup bagi Dia. Dan segala kekayaan serta kemuliaan rencana-Nya itu juga untuk Saudara-saudara, yang bukan bangsa Yahudi. Inilah rahasianya: bahwa Kristus di dalam hati Saudara adalah harapan Saudara satu-satunya akan kemuliaan.",
+        "h": "",
+        "o": 26,
+        "l": "26-27"
+    },
+    {
+        "id": "51001027",
+        "b": 51,
+        "c": 1,
+        "v": 28,
+        "t": "Ke mana pun kami pergi, kami memberitakan Yesus Kristus kepada siapa saja yang mau mendengar, dan kami berusaha sedapat-dapatnya menasihati serta mengajar mereka. Kami ingin membawa tiap-tiap orang kepada Allah dalam keadaan sempurna, karena apa yang telah dilakukan oleh Kristus bagi mereka masing-masing.",
+        "h": "",
+        "o": 27,
+        "l": "28"
+    },
+    {
+        "id": "51001028",
+        "b": 51,
+        "c": 1,
+        "v": 29,
+        "t": "Inilah tugas saya dan saya dapat melakukannya, semata-mata karena kuasa Kristus bekerja di dalam diri saya.",
+        "h": "",
+        "o": 28,
+        "l": "29"
+    },
+    {
+        "id": "51002001",
+        "b": 51,
+        "c": 2,
+        "v": 1,
+        "t": "SAYA ingin Saudara mengetahui betapa saya bergumul dalam doa untuk Saudara sekalian dan untuk jemaat di Laodikia, dan untuk banyak sahabat lain yang belum pernah mengenal saya secara pribadi.",
+        "h": "Memiliki Kristus -- memiliki segala-galanya",
+        "o": 1,
+        "l": "1"
+    },
+    {
+        "id": "51002002",
+        "b": 51,
+        "c": 2,
+        "v": 2,
+        "t": "Inilah yang telah saya minta kepada Allah untuk Saudara: supaya Saudara diteguhkan dan dijalin bersama oleh tali kasih yang kuat, dan mendapat pengalaman yang indah dalam pengenalan akan Kristus dengan keyakinan serta pengertian yang sungguh. Karena rencana Allah yang dirahasiakan, yang baru sekarang dimaklumkan itu, adalah Kristus sendiri.",
+        "h": "",
+        "o": 2,
+        "l": "2"
+    },
+    {
+        "id": "51002003",
+        "b": 51,
+        "c": 2,
+        "v": 3,
+        "t": "Di dalam Dia tersimpan segala kebijaksanaan dan pengetahuan yang belum tergali.",
+        "h": "",
+        "o": 3,
+        "l": "3"
+    },
+    {
+        "id": "51002004",
+        "b": 51,
+        "c": 2,
+        "v": 4,
+        "t": "Ini saya katakan karena takut kalau-kalau Saudara ditipu orang dengan kata-kata manis.",
+        "h": "",
+        "o": 4,
+        "l": "4"
+    },
+    {
+        "id": "51002005",
+        "b": 51,
+        "c": 2,
+        "v": 5,
+        "t": "Karena, walaupun Saudara jauh di mata, tetapi dekat di hati. Saya senang atas perkembangan rohani Saudara dan atas iman Saudara yang kuat di dalam Kristus.",
+        "h": "",
+        "o": 5,
+        "l": "5"
+    },
+    {
+        "id": "51002006",
+        "b": 51,
+        "c": 2,
+        "v": 6,
+        "t": "Sebagaimana Saudara percaya bahwa Kristus menyelamatkan Saudara, demikian juga percayakanlah setiap persoalan Saudara sehari-hari kepada-Nya. Hiduplah dalam persekutuan dengan Dia.",
+        "h": "",
+        "o": 6,
+        "l": "6"
+    },
+    {
+        "id": "51002007",
+        "b": 51,
+        "c": 2,
+        "v": 7,
+        "t": "Hendaklah Saudara berakar di dalam Dia dan memperoleh kekuatan dari Dia. Berusahalah agar terus-menerus tumbuh di dalam Tuhan, dan menjadi kuat serta bersemangat dalam kebenaran yang telah diajarkan kepada Saudara. Semoga hidup Saudara berlimpah-limpah dengan sukacita dan rasa syukur atas segala yang telah dilakukan-Nya.",
+        "h": "",
+        "o": 7,
+        "l": "7"
+    },
+    {
+        "id": "51002008",
+        "b": 51,
+        "c": 2,
+        "v": 8,
+        "t": "Jangan biarkan orang lain merusak iman dan sukacita Saudara dengan filsafat dan ajaran salah dan dangkal yang berdasarkan pikiran dan gagasan manusia, yang bukan berdasarkan pengajaran Kristus.",
+        "h": "",
+        "o": 8,
+        "l": "8"
+    },
+    {
+        "id": "51002009",
+        "b": 51,
+        "c": 2,
+        "v": 9,
+        "t": "Karena di dalam Kristus terdapat segala kesempurnaan Allah di dalam tubuh manusia.",
+        "h": "",
+        "o": 9,
+        "l": "9"
+    },
+    {
+        "id": "51002010",
+        "b": 51,
+        "c": 2,
+        "v": 10,
+        "t": "Jadi, Saudara memiliki segala-galanya apabila Saudara memiliki Kristus. Saudara dipenuhi Allah melalui persatuan dengan Kristus. Dialah Penguasa Tertinggi yang mengatasi segala penguasa lain.",
+        "h": "",
+        "o": 10,
+        "l": "10"
+    },
+    {
+        "id": "51002011",
+        "b": 51,
+        "c": 2,
+        "v": 11,
+        "t": "Ketika Saudara datang kepada Kristus, Ia membebaskan Saudara dari keinginan-keinginan jahat, bukan oleh khitan badani, melainkan oleh khitan rohani, yaitu baptisan jiwa.",
+        "h": "",
+        "o": 11,
+        "l": "11"
+    },
+    {
+        "id": "51002012",
+        "b": 51,
+        "c": 2,
+        "v": 12,
+        "t": "Karena dalam baptisan, sifat lama Saudara yang jahat itu mati dan dikubur bersama dengan Dia. Kemudian Saudara bangkit dari kematian ke dalam hidup baru, karena Saudara percaya akan kuasa Firman Allah yang telah membangkitkan Kristus dari antara orang mati.",
+        "h": "",
+        "o": 12,
+        "l": "12"
+    },
+    {
+        "id": "51002013",
+        "b": 51,
+        "c": 2,
+        "v": 13,
+        "t": "Dahulu Saudara mati dalam dosa, dan keinginan-keinginan jahat masih melekat pada Saudara. Kemudian Saudara dihidupkan kembali dalam Kristus, sebab Allah mengampunkan segala dosa Saudara.",
+        "h": "",
+        "o": 13,
+        "l": "13"
+    },
+    {
+        "id": "51002014",
+        "b": 51,
+        "c": 2,
+        "v": 14,
+        "t": "Ia mencoret semua bukti pelanggaran Saudara, yaitu daftar perintah-perintah-Nya yang tidak Saudara taati. Ia mengambil daftar dosa itu dan memusnahkannya dengan memakukannya pada salib Kristus.",
+        "h": "",
+        "o": 14,
+        "l": "14"
+    },
+    {
+        "id": "51002015",
+        "b": 51,
+        "c": 2,
+        "v": 15,
+        "t": "Dengan demikian kuasa Iblis untuk mendakwa Saudara atas dosa telah ditiadakan, dan secara terbuka Allah memperlihatkan kepada seluruh dunia kemenangan Kristus di salib, di mana semua dosa Saudara dihapuskan.",
+        "h": "",
+        "o": 15,
+        "l": "15"
+    },
+    {
+        "id": "51002016",
+        "b": 51,
+        "c": 2,
+        "v": 16,
+        "t": "Oleh karena itu, jangan hiraukan orang yang mencela Saudara karena apa yang Saudara makan atau minum, atau karena Saudara tidak merayakan hari-hari raya Yahudi, upacara-upacara bulan baru atau hari Sabat.",
+        "h": "",
+        "o": 16,
+        "l": "16"
+    },
+    {
+        "id": "51002017",
+        "b": 51,
+        "c": 2,
+        "v": 17,
+        "t": "Semua itu bersifat sementara serta akan hapus pada waktu Kristus datang, dan hanyalah merupakan bayangan dari yang sesungguhnya, yaitu Kristus sendiri.",
+        "h": "",
+        "o": 17,
+        "l": "17"
+    },
+    {
+        "id": "51002018",
+        "b": 51,
+        "c": 2,
+        "v": 18,
+        "t": "Jangan membiarkan diri dinyatakan sesat apabila Saudara menolak untuk menyembah malaikat-malaikat, seperti yang mereka haruskan. Mereka mengaku telah mendapat penglihatan dan mengatakan bahwa Saudara juga harus mendapat penglihatan. Orang-orang yang angkuh ini (sekalipun mereka mengaku rendah hati) pandai sekali mengkhayal.",
+        "h": "",
+        "o": 18,
+        "l": "18"
+    },
+    {
+        "id": "51002019",
+        "b": 51,
+        "c": 2,
+        "v": 19,
+        "t": "Tetapi mereka tidak dihubungkan dengan Kristus, yaitu Kepala bagi kita yang menjadi tubuh-Nya. Kita disatukan oleh otot-otot-Nya yang kuat dan kita dapat tumbuh, hanya apabila mendapat makanan serta kekuatan dari Allah.",
+        "h": "",
+        "o": 19,
+        "l": "19"
+    },
+    {
+        "id": "51002020",
+        "b": 51,
+        "c": 2,
+        "v": 20,
+        "t": "Sebenarnya Saudara seolah-olah sudah mati bersama dengan Kristus, dan telah dibebaskan dari paham duniawi yang beranggapan bahwa keselamatan dapat diperoleh dengan berkelakuan baik atau dengan mematuhi berbagai peraturan. Tetapi, mengapa Saudara masih tetap menaatinya, masih terikat oleh peraturan, seperti",
+        "h": "",
+        "o": 20,
+        "l": "20"
+    },
+    {
+        "id": "51002021",
+        "b": 51,
+        "c": 2,
+        "v": 21,
+        "t": "misalnya tidak boleh memakan, mencicipi ataupun menyentuh makanan tertentu?",
+        "h": "",
+        "o": 21,
+        "l": "21"
+    },
+    {
+        "id": "51002022",
+        "b": 51,
+        "c": 2,
+        "v": 22,
+        "t": "Peraturan seperti itu hanyalah ajaran manusia, sebab makanan dimaksudkan untuk dimakan dan dihabiskan.",
+        "h": "",
+        "o": 22,
+        "l": "22"
+    },
+    {
+        "id": "51002023",
+        "b": 51,
+        "c": 2,
+        "v": 23,
+        "t": "Peraturan semacam itu mungkin kelihatannya baik, karena memerlukan keteguhan, kemauan serta disiplin tubuh, tetapi sama sekali tidak dapat menaklukkan pikiran dan keinginan jahat dalam diri seseorang, melainkan hanya menimbulkan kesombongan.",
+        "h": "",
+        "o": 23,
+        "l": "23"
+    },
+    {
+        "id": "51003001",
+        "b": 51,
+        "c": 3,
+        "v": 1,
+        "t": "KARENA dapat dikatakan bahwa Saudara hidup kembali ketika Kristus bangkit dari antara orang mati, maka sekarang arahkanlah pandangan Saudara kepada harta kekayaan dan sukacita di surga, di mana Kristus duduk di sebelah kanan Allah di tempat kemuliaan dan kekuasaan.",
+        "h": "Menempuh hidup baru",
+        "o": 1,
+        "l": "1"
+    },
+    {
+        "id": "51003002",
+        "b": 51,
+        "c": 3,
+        "v": 2,
+        "t": "Biarlah surga memenuhi pikiran Saudara; jangan selalu memikirkan hal-hal dunia.",
+        "h": "",
+        "o": 2,
+        "l": "2"
+    },
+    {
+        "id": "51003003",
+        "b": 51,
+        "c": 3,
+        "v": 3,
+        "t": "Keinginan Saudara akan hal-hal dunia seharusnya sudah padam seperti halnya orang yang sudah mati. Hidup Saudara yang sebenarnya ialah di surga bersama-sama dengan Kristus dan Allah.",
+        "h": "",
+        "o": 3,
+        "l": "3"
+    },
+    {
+        "id": "51003004",
+        "b": 51,
+        "c": 3,
+        "v": 4,
+        "t": "Dan bilamana Kristus, yaitu hidup kita yang sesungguhnya, datang lagi, maka Saudara akan bersinar bersama dengan Dia serta mengambil bagian dalam segala kemuliaan-Nya.",
+        "h": "",
+        "o": 4,
+        "l": "4"
+    },
+    {
+        "id": "51003005",
+        "b": 51,
+        "c": 3,
+        "v": 5,
+        "t": "Karena itu, buanglah segala hal yang duniawi dan penuh dosa. Matikanlah segala keinginan jahat yang tersembunyi di dalam diri Saudara. Janganlah melakukan dosa percabulan, kecemaran, hawa nafsu, dan keinginan-keinginan yang memalukan. Janganlah memuja barang-barang yang mewah dalam hidup ini, karena itu berarti penyembahan berhala.",
+        "h": "",
+        "o": 5,
+        "l": "5"
+    },
+    {
+        "id": "51003006",
+        "b": 51,
+        "c": 3,
+        "v": 6,
+        "t": "Murka Allah menimpa mereka yang melakukan hal-hal seperti itu.",
+        "h": "",
+        "o": 6,
+        "l": "6"
+    },
+    {
+        "id": "51003007",
+        "b": 51,
+        "c": 3,
+        "v": 7,
+        "t": "Dahulu Saudara melakukan hal-hal tersebut pada waktu hidup Saudara masih merupakan bagian dunia ini.",
+        "h": "",
+        "o": 7,
+        "l": "7"
+    },
+    {
+        "id": "51003008",
+        "b": 51,
+        "c": 3,
+        "v": 8,
+        "t": "Tetapi sekarang sudah waktunya Saudara menanggalkan dan membuang jauh-jauh segala kemarahan, kebencian, sumpah serapah, dan kata-kata kotor.",
+        "h": "",
+        "o": 8,
+        "l": "8"
+    },
+    {
+        "id": "51003009",
+        "b": 51,
+        "c": 3,
+        "v": 9,
+        "t": "Janganlah saling mendustai. Hidup Saudara yang lama dengan segala kejahatannya melakukan hal-hal semacam itu, tetapi sekarang hidup yang lama itu sudah mati dan lenyap.",
+        "h": "",
+        "o": 9,
+        "l": "9"
+    },
+    {
+        "id": "51003010",
+        "b": 51,
+        "c": 3,
+        "v": 10,
+        "t": "Saudara menjalani hidup yang sama sekali baru; Saudara makin banyak belajar tentang kebenaran, serta terus berusaha supaya makin seperti Kristus, yang menciptakan hidup baru ini dalam diri Saudara.",
+        "h": "",
+        "o": 10,
+        "l": "10"
+    },
+    {
+        "id": "51003011",
+        "b": 51,
+        "c": 3,
+        "v": 11,
+        "t": "Dalam hidup baru ini kebangsaan, kesukuan, taraf pendidikan, atau martabat seseorang tidak penting. Hal-hal semacam itu tidak berarti apa-apa; yang penting ialah apakah orang itu memiliki Kristus atau tidak, sebab Kristus dapat dimiliki oleh setiap orang.",
+        "h": "",
+        "o": 11,
+        "l": "11"
+    },
+    {
+        "id": "51003012",
+        "b": 51,
+        "c": 3,
+        "v": 12,
+        "t": "Karena Saudara telah dipilih Allah, yang memberi hidup baru itu, dan karena kasih dan perhatian-Nya yang mendalam pada Saudara, maka Saudara harus bersikap ramah, kasih, dan lemah lembut kepada orang lain. Jangan hanya ingin memberi kesan yang baik kepada mereka, tetapi bersedialah menanggung penderitaan dengan tenang dan sabar.",
+        "h": "",
+        "o": 12,
+        "l": "12"
+    },
+    {
+        "id": "51003013",
+        "b": 51,
+        "c": 3,
+        "v": 13,
+        "t": "Hendaklah Saudara lemah lembut dan bersedia memaafkan; janganlah menaruh dendam. Ingatlah, Tuhan telah mengampuni Saudara, maka hendaklah Saudara mengampuni orang lain.",
+        "h": "",
+        "o": 13,
+        "l": "13"
+    },
+    {
+        "id": "51003014",
+        "b": 51,
+        "c": 3,
+        "v": 14,
+        "t": "Terutama sekali, jadikanlah kasih sebagai penuntun hidup Saudara, sebab dengan demikian seluruh jemaat akan bersatu dalam keselarasan yang sempurna.",
+        "h": "",
+        "o": 14,
+        "l": "14"
+    },
+    {
+        "id": "51003015",
+        "b": 51,
+        "c": 3,
+        "v": 15,
+        "t": "Usahakanlah agar kedamaian hati yang berasal dari Kristus selalu ada dalam hidup dan hati Saudara, karena inilah tanggung jawab dan hak Saudara sebagai anggota tubuh-Nya. Dan bersyukurlah senantiasa.",
+        "h": "",
+        "o": 15,
+        "l": "15"
+    },
+    {
+        "id": "51003016",
+        "b": 51,
+        "c": 3,
+        "v": 16,
+        "t": "Ingatlah akan apa yang diajarkan oleh Kristus dan biarlah perkataan-Nya memperkaya hidup Saudara serta menjadikan Saudara bijaksana. Ajarkanlah hal-hal itu kepada orang lain dan nyanyikanlah dalam mazmur, puji-pujian, dan nyanyian-nyanyian rohani; nyanyikanlah bagi Tuhan dengan hati yang penuh syukur.",
+        "h": "",
+        "o": 16,
+        "l": "16"
+    },
+    {
+        "id": "51003017",
+        "b": 51,
+        "c": 3,
+        "v": 17,
+        "t": "Hendaklah segala ucapan dan perbuatan Saudara layak mewakili Tuhan Yesus, dan datanglah bersama Dia ke hadirat Allah Bapa untuk bersyukur kepada-Nya.",
+        "h": "",
+        "o": 17,
+        "l": "17"
+    },
+    {
+        "id": "51003018",
+        "b": 51,
+        "c": 3,
+        "v": 18,
+        "t": "Para istri, hendaklah Saudara menaklukkan diri kepada suami masing-masing, karena itulah yang telah direncanakan Allah bagi Saudara.",
+        "h": "Hubungan baik dalam rumah tangga",
+        "o": 18,
+        "l": "18"
+    },
+    {
+        "id": "51003019",
+        "b": 51,
+        "c": 3,
+        "v": 19,
+        "t": "Dan para suami, hendaklah Saudara mengasihi istri dan bersikap baik kepadanya serta janganlah berlaku kasar terhadap dia.",
+        "h": "",
+        "o": 19,
+        "l": "19"
+    },
+    {
+        "id": "51003020",
+        "b": 51,
+        "c": 3,
+        "v": 20,
+        "t": "Anak-Anak, hendaklah kalian selalu patuh kepada orang tuamu, karena hal itu menyukakan hati Tuhan.",
+        "h": "",
+        "o": 20,
+        "l": "20"
+    },
+    {
+        "id": "51003021",
+        "b": 51,
+        "c": 3,
+        "v": 21,
+        "t": "Para bapa, janganlah menegor anak-anak Saudara terlampau keras, sehingga mereka menjadi tawar hati dan patah semangat.",
+        "h": "",
+        "o": 21,
+        "l": "21"
+    },
+    {
+        "id": "51003022",
+        "b": 51,
+        "c": 3,
+        "v": 22,
+        "t": "Para hamba, hendaklah Saudara selalu patuh kepada tuan Saudara. Jangan hanya berusaha menyenangkan mereka bila mereka sedang mengawasi, melainkan setiap saat. Patuhilah mereka dengan senang hati karena kasih Saudara kepada Tuhan dan karena Saudara ingin menyenangkan hati-Nya.",
+        "h": "",
+        "o": 22,
+        "l": "22"
+    },
+    {
+        "id": "51003023",
+        "b": 51,
+        "c": 3,
+        "v": 23,
+        "t": "Kerjakanlah segala tugas Saudara dengan sungguh-sungguh dan dengan senang hati, seakan-akan Saudara sedang bekerja untuk Tuhan dan bukan hanya untuk tuan Saudara.",
+        "h": "",
+        "o": 23,
+        "l": "23"
+    },
+    {
+        "id": "51003024",
+        "b": 51,
+        "c": 3,
+        "v": 24,
+        "t": "Ingat bahwa yang akan mengupahi Saudara ialah Tuhan Yesus Kristus, yang akan memberi bagian Saudara sepenuhnya dari segala yang dimiliki-Nya. Bagi Dialah sesungguhnya Saudara bekerja.",
+        "h": "",
+        "o": 24,
+        "l": "24"
+    },
+    {
+        "id": "51003025",
+        "b": 51,
+        "c": 3,
+        "v": 25,
+        "t": "Jadi, jika Saudara tidak berusaha dengan sebaik-baiknya bagi Dia, Ia akan membayar Saudara dengan cara yang tidak Saudara sukai, sebab tidak ada orang yang diistimewakan-Nya, sehingga tidak seorang pun boleh berlalai-lalai dalam melaksanakan tanggung jawabnya.",
+        "h": "",
+        "o": 25,
+        "l": "25"
+    },
+    {
+        "id": "51004001",
+        "b": 51,
+        "c": 4,
+        "v": 1,
+        "t": "SAUDARA-SAUDARA yang mempunyai hamba, hendaklah berlaku jujur dan adil terhadap mereka. Ingatlah selalu bahwa Saudara juga mempunyai seorang Tuan surgawi, yang mengawasi Saudara dengan cermat.",
+        "h": "",
+        "o": 1,
+        "l": "1"
+    },
+    {
+        "id": "51004002",
+        "b": 51,
+        "c": 4,
+        "v": 2,
+        "t": "Jangan bosan berdoa; nantikanlah jawaban Allah dan jangan lupa mengucap syukur bila sudah menerima jawaban.",
+        "h": "",
+        "o": 2,
+        "l": "2"
+    },
+    {
+        "id": "51004003",
+        "b": 51,
+        "c": 4,
+        "v": 3,
+        "t": "Juga jangan lupa mendoakan kami, supaya Allah memberi kami banyak kesempatan mengabarkan Berita Kesukaan mengenai Kristus. Karena mengabarkan Berita Kesukaan itulah saya dipenjarakan di sini.",
+        "h": "",
+        "o": 3,
+        "l": "3"
+    },
+    {
+        "id": "51004004",
+        "b": 51,
+        "c": 4,
+        "v": 4,
+        "t": "Doakan supaya saya berani mengabarkan berita itu secara terbuka dan lengkap, dan menerangkannya sebagaimana mestinya.",
+        "h": "",
+        "o": 4,
+        "l": "4"
+    },
+    {
+        "id": "51004005",
+        "b": 51,
+        "c": 4,
+        "v": 5,
+        "t": "Pergunakanlah sebaik-baiknya setiap kesempatan mengabarkan Berita Kesukaan kepada orang lain. Berlakulah bijaksana dalam hubungan Saudara dengan mereka.",
+        "h": "",
+        "o": 5,
+        "l": "5"
+    },
+    {
+        "id": "51004006",
+        "b": 51,
+        "c": 4,
+        "v": 6,
+        "t": "Hendaklah percakapan Saudara sopan dan masuk akal, sebab dengan demikian Saudara akan dapat memberikan jawaban yang tepat kepada setiap orang.",
+        "h": "",
+        "o": 6,
+        "l": "6"
+    },
+    {
+        "id": "51004007",
+        "b": 51,
+        "c": 4,
+        "v": 7,
+        "t": "Tikhikus, saudara yang kita kasihi, akan memberitahukan keadaan saya kepada Saudara. Ia seorang pekerja yang tekun dan melayani Tuhan bersama dengan saya.",
+        "h": "Penutup",
+        "o": 7,
+        "l": "7"
+    },
+    {
+        "id": "51004008",
+        "b": 51,
+        "c": 4,
+        "v": 8,
+        "t": "Saya mengutusnya secara khusus dengan maksud supaya ia menjenguk, memberi semangat serta menghibur Saudara.",
+        "h": "",
+        "o": 8,
+        "l": "8"
+    },
+    {
+        "id": "51004009",
+        "b": 51,
+        "c": 4,
+        "v": 9,
+        "t": "Saya juga mengutus Onesimus, seorang saudara kita yang setia dan yang sangat dikasihi, seorang bangsa Saudara sendiri. Dia dan Tikhikus akan memberitahukan hal ihwal kami kepada Saudara.",
+        "h": "",
+        "o": 9,
+        "l": "9"
+    },
+    {
+        "id": "51004010",
+        "b": 51,
+        "c": 4,
+        "v": 10,
+        "t": "Aristarkhus, teman saya sepenjara, mengirimkan salam, begitu pula Markus, kemenakan Barnabas. Seperti sudah saya katakan sebelumnya, sambutlah dia dengan hangat bila ia datang.",
+        "h": "",
+        "o": 10,
+        "l": "10"
+    },
+    {
+        "id": "51004011",
+        "b": 51,
+        "c": 4,
+        "v": 11,
+        "t": "Yesus Yustus juga mengirimkan salam. Mereka sajalah orang-orang Kristen Yahudi yang bekerja sama dengan saya di sini, dan betapa terhiburnya hati saya karena mereka!",
+        "h": "",
+        "o": 11,
+        "l": "11"
+    },
+    {
+        "id": "51004012",
+        "b": 51,
+        "c": 4,
+        "v": 12,
+        "t": "Epafras, seorang warga kota Saudara, seorang hamba Kristus Yesus, juga mengirimkan salam. Dengan sungguh-sungguh ia selalu berdoa agar Allah menjadikan Saudara kuat serta sempurna dan menolong Saudara mengetahui kehendak-Nya dalam segala sesuatu yang Saudara lakukan.",
+        "h": "",
+        "o": 12,
+        "l": "12"
+    },
+    {
+        "id": "51004013",
+        "b": 51,
+        "c": 4,
+        "v": 13,
+        "t": "Dapat saya pastikan bahwa ia telah banyak berdoa bagi Saudara dan juga bagi orang Kristen di Laodikia dan Hierapolis.",
+        "h": "",
+        "o": 13,
+        "l": "13"
+    },
+    {
+        "id": "51004014",
+        "b": 51,
+        "c": 4,
+        "v": 14,
+        "t": "Dokter Lukas yang kita kasihi mengirimkan salam, begitu pula Demas.",
+        "h": "",
+        "o": 14,
+        "l": "14"
+    },
+    {
+        "id": "51004015",
+        "b": 51,
+        "c": 4,
+        "v": 15,
+        "t": "Sampaikanlah salam saya kepada saudara-saudara seiman di Laodikia dan kepada Nimfa, juga kepada mereka yang berkumpul di rumahnya.",
+        "h": "",
+        "o": 15,
+        "l": "15"
+    },
+    {
+        "id": "51004016",
+        "b": 51,
+        "c": 4,
+        "v": 16,
+        "t": "Sesudah Saudara membaca surat ini, tolong teruskan kepada jemaat di Laodikia. Dan bacalah surat yang saya tulis kepada mereka.",
+        "h": "",
+        "o": 16,
+        "l": "16"
+    },
+    {
+        "id": "51004017",
+        "b": 51,
+        "c": 4,
+        "v": 17,
+        "t": "Katakanlah kepada Arkhipus, \"Bersungguh-sungguhlah melakukan segala sesuatu yang telah diperintahkan Tuhan kepada Saudara.\"",
+        "h": "",
+        "o": 17,
+        "l": "17"
+    },
+    {
+        "id": "51004018",
+        "b": 51,
+        "c": 4,
+        "v": 18,
+        "t": "Inilah salam saya yang saya tulis dengan tangan sendiri: Ingatlah saya di penjara ini. Semoga berkat Allah menyertai Saudara sekalian.",
+        "h": "",
+        "o": 18,
+        "l": "18"
+    }
+]

@@ -1,0 +1,892 @@
+[
+  {
+    "id": "59001001",
+    "b": 59,
+    "c": 1,
+    "v": 1,
+    "t": "Paul and Silvanus and Timothy, to the church of the Thessalonians, which is in God the Father and the Lord Jesus Christ: Grace and peace be to you from God our Father and the Lord Jesus Christ.",
+    "h": "CHAPTER ONE",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "59001002",
+    "b": 59,
+    "c": 1,
+    "v": 2,
+    "t": "We give thanks to God always concerning all of you, making mention of you in our prayers.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "59001003",
+    "b": 59,
+    "c": 1,
+    "v": 3,
+    "t": "Without fail, we remember your work of faith, and your labor of love, and your endurance in the hope of our Lord Jesus Christ, before our God and Father;",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "59001004",
+    "b": 59,
+    "c": 1,
+    "v": 4,
+    "t": "Knowing your election, brethren, as you are beloved by God.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "59001005",
+    "b": 59,
+    "c": 1,
+    "v": 5,
+    "t": "For our gospel did not come to you in word only, but also in power and in the Holy Spirit, and with great conviction; even as you know what sort of men we were among you for your sake.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "59001006",
+    "b": 59,
+    "c": 1,
+    "v": 6,
+    "t": "And you became imitators of us and of the Lord, having accepted the Word in much persecution with the joy of the Holy Spirit,",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "59001007",
+    "b": 59,
+    "c": 1,
+    "v": 7,
+    "t": "So that you became examples to all those in Macedonia and Achaia who are believers.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "59001008",
+    "b": 59,
+    "c": 1,
+    "v": 8,
+    "t": "For the Word of the Lord has sounded forth from you not only in Macedonia and Achaia, but in every other place also your faith toward God has spread abroad, so that there is no need for us to say anything;",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "59001009",
+    "b": 59,
+    "c": 1,
+    "v": 9,
+    "t": "Because they themselves are relating how readily you received us when we first visited you, and how you turned from idols to God, to serve the living and true God,",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "59001010",
+    "b": 59,
+    "c": 1,
+    "v": 10,
+    "t": "And to await His Son from the heavens, Whom He raised from the dead—Jesus, Who is delivering us from the coming wrath.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "59002001",
+    "b": 59,
+    "c": 2,
+    "v": 1,
+    "t": "For you yourselves, brethren, know that the visit we had with you was not without effect.",
+    "h": "CHAPTER TWO",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "59002002",
+    "b": 59,
+    "c": 2,
+    "v": 2,
+    "t": "But before we came, we had suffered and had been insulted at Philippi, even as you know; but we were bold in our God to speak the gospel to you, even in much conflict.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "59002003",
+    "b": 59,
+    "c": 2,
+    "v": 3,
+    "t": "For our exhortation was not out of error, nor from uncleanness, nor with guile;",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "59002004",
+    "b": 59,
+    "c": 2,
+    "v": 4,
+    "t": "But even as we were approved by God to be entrusted with the gospel, we speak in this manner: as those who please not men, but God, Who proves our hearts.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "59002005",
+    "b": 59,
+    "c": 2,
+    "v": 5,
+    "t": "For neither at any time did we use flattering words with you, even as you know, nor a cover for covetousness—God is our witness;",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "59002006",
+    "b": 59,
+    "c": 2,
+    "v": 6,
+    "t": "Nor were we seeking glory from men, neither from you nor from others, though as Christ’s apostles we had the power to be burdensome;",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "59002007",
+    "b": 59,
+    "c": 2,
+    "v": 7,
+    "t": "But we were gentle among you, as a nursing mother cherishes her own children.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "59002008",
+    "b": 59,
+    "c": 2,
+    "v": 8,
+    "t": "Yearning over you in the same way, we were willing to impart to you not only the gospel of God, but also our own lives, because you were beloved to us.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "59002009",
+    "b": 59,
+    "c": 2,
+    "v": 9,
+    "t": "For you remember, brethren, our labor and our toil; for we were working night and day so as not to be a burden to anyone among you, while we proclaimed the gospel of God.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "59002010",
+    "b": 59,
+    "c": 2,
+    "v": 10,
+    "t": "You are witnesses, and also God, how holily and righteously and blamelessly we conducted ourselves with you who believe;",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "59002011",
+    "b": 59,
+    "c": 2,
+    "v": 11,
+    "t": "Even as you know how we were exhorting and consoling each one of you, as a father does his own children,",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "59002012",
+    "b": 59,
+    "c": 2,
+    "v": 12,
+    "t": "And earnestly testifying, that you may walk worthily of God, Who is calling you to His own kingdom and glory.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "59002013",
+    "b": 59,
+    "c": 2,
+    "v": 13,
+    "t": "Because of this, we give thanks to God without ceasing: that when you received the Word of God, which you heard from us, you did not accept it as the word of men, but even as it is in truth— the Word of God, which is also working in you who believe.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "59002014",
+    "b": 59,
+    "c": 2,
+    "v": 14,
+    "t": "For, brethren, you became imitators of the churches of God in Judea which are in Christ Jesus; because you also suffered the same things from your own countrymen as they also suffered from the Jews;",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "59002015",
+    "b": 59,
+    "c": 2,
+    "v": 15,
+    "t": "Who killed both the Lord Jesus and their own prophets, and drove you out, and do not please God, and are contrary to all men,",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "59002016",
+    "b": 59,
+    "c": 2,
+    "v": 16,
+    "t": "Forbidding us to speak to the Gentiles so that they might be saved in order to fill up their sins always. But the wrath has come upon them to the uttermost.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "59002017",
+    "b": 59,
+    "c": 2,
+    "v": 17,
+    "t": "Now we, brethren, having been separated from you for a short time, but not in heart, are making every effort to see you again, with much desire.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "59002018",
+    "b": 59,
+    "c": 2,
+    "v": 18,
+    "t": "For this reason we sought to come to you, even I, Paul, both once and twice; but Satan hindered us.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "59002019",
+    "b": 59,
+    "c": 2,
+    "v": 19,
+    "t": "For what is our hope, or joy, or crown of rejoicing? Is it not even you in the presence of our Lord Jesus Christ at His coming?",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "59002020",
+    "b": 59,
+    "c": 2,
+    "v": 20,
+    "t": "For you are our glory and our joy.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "59003001",
+    "b": 59,
+    "c": 3,
+    "v": 1,
+    "t": "Accordingly, when we could not bear to wait any longer, we thought it best for us to be left in Athens alone;",
+    "h": "CHAPTER THREE",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "59003002",
+    "b": 59,
+    "c": 3,
+    "v": 2,
+    "t": "And we sent our brother Timothy, a servant of God and our fellow worker in the gospel of Christ, in order to establish you and to encourage you concerning your faith,",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "59003003",
+    "b": 59,
+    "c": 3,
+    "v": 3,
+    "t": "So that no one might be unduly shaken by these persecutions. (For you yourselves know that we are appointed to this very thing;",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "59003004",
+    "b": 59,
+    "c": 3,
+    "v": 4,
+    "t": "And also, when we were with you, we told you beforehand that we would suffer persecutions, exactly as it also came to pass; and you are aware of this. )",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "59003005",
+    "b": 59,
+    "c": 3,
+    "v": 5,
+    "t": "For this reason, when I could not wait any longer, I sent Timothy, in order to know your faith, lest perhaps the tempter had tempted you, and our labor might be in vain.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "59003006",
+    "b": 59,
+    "c": 3,
+    "v": 6,
+    "t": "But now, after Timothy came to us from you and told us the good news of your faith and your love, and that you always keep us in mind, and are longing to see us, even as we also long to see you;",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "59003007",
+    "b": 59,
+    "c": 3,
+    "v": 7,
+    "t": "Through this report about you we were encouraged, brethren, in all our persecution and trouble—because of your faith;",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "59003008",
+    "b": 59,
+    "c": 3,
+    "v": 8,
+    "t": "For now we live, if you stand firm in the Lord.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "59003009",
+    "b": 59,
+    "c": 3,
+    "v": 9,
+    "t": "For what thanksgiving are we able to offer to God concerning you, for all the joy with which we rejoice before God because of you,",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "59003010",
+    "b": 59,
+    "c": 3,
+    "v": 10,
+    "t": "Praying day and night fervently that we might see you again, and might perfect the things that are lacking in your faith?",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "59003011",
+    "b": 59,
+    "c": 3,
+    "v": 11,
+    "t": "But may our God and Father Himself, and our Lord Jesus Christ, direct our way to you.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "59003012",
+    "b": 59,
+    "c": 3,
+    "v": 12,
+    "t": "Now may the Lord make you to exceed and to abound in love toward one another and toward all, even as we also abound in love toward you,",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "59003013",
+    "b": 59,
+    "c": 3,
+    "v": 13,
+    "t": "That your hearts may be established blameless in holiness before our God and Father, at the coming of our Lord Jesus Christ with all His saints.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "59004001",
+    "b": 59,
+    "c": 4,
+    "v": 1,
+    "t": "Now then, as for the rest, brethren, we are beseeching and exhorting you in the Lord Jesus, even as you received from us how you are duty-bound to walk and to please God, that you would abound still more.",
+    "h": "CHAPTER FOUR",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "59004002",
+    "b": 59,
+    "c": 4,
+    "v": 2,
+    "t": "For you know what commandments we gave you through the Lord Jesus;",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "59004003",
+    "b": 59,
+    "c": 4,
+    "v": 3,
+    "t": "Because this is the will of God— even your sanctification—that you abstain from fornication,",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "59004004",
+    "b": 59,
+    "c": 4,
+    "v": 4,
+    "t": "And that each of you understand how to possess his own vessel in sanctification and honor,",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "59004005",
+    "b": 59,
+    "c": 4,
+    "v": 5,
+    "t": "(Not in the passion of lust, even as the Gentiles who do not know God)",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "59004006",
+    "b": 59,
+    "c": 4,
+    "v": 6,
+    "t": "And not to trespass and defraud his brother in this matter because the Lord is the avenger in all these matters, exactly as we also told you and fully testified before.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "59004007",
+    "b": 59,
+    "c": 4,
+    "v": 7,
+    "t": "For God has not called us to uncleanness, but to sanctification.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "59004008",
+    "b": 59,
+    "c": 4,
+    "v": 8,
+    "t": "Accordingly, the one who rejects these commands is not rejecting man, but God, Who also gave His Holy Spirit to us.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "59004009",
+    "b": 59,
+    "c": 4,
+    "v": 9,
+    "t": "Now concerning brotherly love, you have no need for me to write to you, for you yourselves are taught by God to love one another.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "59004010",
+    "b": 59,
+    "c": 4,
+    "v": 10,
+    "t": "And you also practice this toward all the brethren who are in all of Macedonia; but we exhort you, brethren, to abound even more in love;",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "59004011",
+    "b": 59,
+    "c": 4,
+    "v": 11,
+    "t": "And to aspire to live a quiet life, and to tend to your own business, and to work with your own hands, exactly as we have instructed you;",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "59004012",
+    "b": 59,
+    "c": 4,
+    "v": 12,
+    "t": "So that you may walk honestly toward those who are without, and may not need anything from anyone.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "59004013",
+    "b": 59,
+    "c": 4,
+    "v": 13,
+    "t": "But I do not wish you to be ignorant, brethren, concerning those who have fallen asleep, that you be not grieved, even as others, who have no hope.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "59004014",
+    "b": 59,
+    "c": 4,
+    "v": 14,
+    "t": "For if we believe that Jesus died and rose again, in exactly the same way also, those who have fallen asleep in Jesus will God bring with Him.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "59004015",
+    "b": 59,
+    "c": 4,
+    "v": 15,
+    "t": "For this we say to you by the Word of the Lord, that we who are alive and remain unto the coming of the Lord shall in no wise precede those who have fallen asleep",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "59004016",
+    "b": 59,
+    "c": 4,
+    "v": 16,
+    "t": "Because the Lord Himself shall descend from heaven with a shout of command, with the voice of an archangel and with the trumpet of God; and the dead in Christ shall rise first;",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "59004017",
+    "b": 59,
+    "c": 4,
+    "v": 17,
+    "t": "Then we who are alive and remain shall be caught up together with them in the clouds for the meeting with the Lord in the air; and so shall we always be with the Lord.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "59004018",
+    "b": 59,
+    "c": 4,
+    "v": 18,
+    "t": "Therefore, encourage one another with these words.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "59005001",
+    "b": 59,
+    "c": 5,
+    "v": 1,
+    "t": "Now then, concerning the times and the seasons, brethren, there is no need that I write to you;",
+    "h": "CHAPTER FIVE",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "59005002",
+    "b": 59,
+    "c": 5,
+    "v": 2,
+    "t": "For you yourselves understand perfectly that the day of the Lord will come exactly as a thief comes by night.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "59005003",
+    "b": 59,
+    "c": 5,
+    "v": 3,
+    "t": "For when they say, “Peace and security,” then sudden destruction will come upon them, as travail comes upon a woman who is with child; and they shall by no means escape.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "59005004",
+    "b": 59,
+    "c": 5,
+    "v": 4,
+    "t": "But you, brethren, are not in darkness that the day of the Lord should overtake you as a thief.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "59005005",
+    "b": 59,
+    "c": 5,
+    "v": 5,
+    "t": "For you are all children of the light and children of the day; we are not of the night, nor of the darkness.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "59005006",
+    "b": 59,
+    "c": 5,
+    "v": 6,
+    "t": "So then, we should not sleep, as others do ; but we should watch, and we should be sober.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "59005007",
+    "b": 59,
+    "c": 5,
+    "v": 7,
+    "t": "For those who are sleeping sleep in the night, and those who are drunken get drunk in the night.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "59005008",
+    "b": 59,
+    "c": 5,
+    "v": 8,
+    "t": "But we who are of the day should be sober, having put on the breastplate of faith and love, and for a helmet the hope of salvation,",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "59005009",
+    "b": 59,
+    "c": 5,
+    "v": 9,
+    "t": "Because God has not appointed us to wrath, but to obtain salvation through our Lord Jesus Christ,",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "59005010",
+    "b": 59,
+    "c": 5,
+    "v": 10,
+    "t": "Who died for us, so that whether we remain alive until He comes or we fall asleep before that day, together we may live forever with Him.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "59005011",
+    "b": 59,
+    "c": 5,
+    "v": 11,
+    "t": "Therefore, encourage one another, and edify one another, even as you are already doing.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "59005012",
+    "b": 59,
+    "c": 5,
+    "v": 12,
+    "t": "Now we beseech you, brethren, to acknowledge those who are laboring among you, and are overseeing you, and are instructing you in the Lord,",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "59005013",
+    "b": 59,
+    "c": 5,
+    "v": 13,
+    "t": "And to greatly respect them in love for the sake of their work. Be at peace among yourselves.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "59005014",
+    "b": 59,
+    "c": 5,
+    "v": 14,
+    "t": "Now we encourage you, brethren, to admonish those who are irresponsible, console the fainthearted, support the weak, be patient toward everyone.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "59005015",
+    "b": 59,
+    "c": 5,
+    "v": 15,
+    "t": "See that no one renders evil for evil to anyone; but always be pursuing what is good, both toward one another and toward all men.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "59005016",
+    "b": 59,
+    "c": 5,
+    "v": 16,
+    "t": "Rejoice always!",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "59005017",
+    "b": 59,
+    "c": 5,
+    "v": 17,
+    "t": "Pray unceasingly.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "59005018",
+    "b": 59,
+    "c": 5,
+    "v": 18,
+    "t": "Give thanks in everything, for this is the will of God in Christ Jesus concerning you.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "59005019",
+    "b": 59,
+    "c": 5,
+    "v": 19,
+    "t": "Quench not the Spirit.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "59005020",
+    "b": 59,
+    "c": 5,
+    "v": 20,
+    "t": "Despise not prophecies.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "59005021",
+    "b": 59,
+    "c": 5,
+    "v": 21,
+    "t": "Prove all things. Hold fast to that which is good.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "59005022",
+    "b": 59,
+    "c": 5,
+    "v": 22,
+    "t": "Abstain from every form of wickedness.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "59005023",
+    "b": 59,
+    "c": 5,
+    "v": 23,
+    "t": "Now may the God of peace Himself sanctify you wholly; and may your entire spirit and soul and body be preserved blameless unto the coming of our Lord Jesus Christ.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "59005024",
+    "b": 59,
+    "c": 5,
+    "v": 24,
+    "t": "Faithful is He Who calls you, Who will also perform it.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "59005025",
+    "b": 59,
+    "c": 5,
+    "v": 25,
+    "t": "Brethren, pray for us.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "59005026",
+    "b": 59,
+    "c": 5,
+    "v": 26,
+    "t": "Greet all the brethren with a holy kiss.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "59005027",
+    "b": 59,
+    "c": 5,
+    "v": 27,
+    "t": "I adjure you by the Lord that this epistle be read to all the holy brethren.",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "59005028",
+    "b": 59,
+    "c": 5,
+    "v": 28,
+    "t": "The grace of our Lord Jesus Christ be with you. Amen. The first epistle to the Thessalonians, written from Athens",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  }
+]

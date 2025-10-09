@@ -1,0 +1,892 @@
+[
+  {
+    "id": "25001001",
+    "b": 25,
+    "c": 1,
+    "v": 1,
+    "t": "Oh, oh, oh... How empty the city, once teeming with people. A widow, this city, once in the front rank of nations, once queen of the ball, she’s now a drudge in the kitchen.",
+    "h": "Worthless, Cheap, Abject!",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "25001002",
+    "b": 25,
+    "c": 1,
+    "v": 2,
+    "t": "She cries herself to sleep each night, tears soaking her pillow. No one’s left among her lovers to sit and hold her hand. Her friends have all dumped her.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "25001003",
+    "b": 25,
+    "c": 1,
+    "v": 3,
+    "t": "After years of pain and hard labor, Judah has gone into exile. She camps out among the nations, never feels at home. Hunted by all, she’s stuck between a rock and a hard place.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "25001004",
+    "b": 25,
+    "c": 1,
+    "v": 4,
+    "t": "Zion’s roads weep, empty of pilgrims headed to the feasts. All her city gates are deserted, her priests in despair. Her virgins are sad. How bitter her fate.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "25001005",
+    "b": 25,
+    "c": 1,
+    "v": 5,
+    "t": "Her enemies have become her masters. Her foes are living it up because GOD laid her low, punishing her repeated rebellions. Her children, prisoners of the enemy, trudge into exile.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "25001006",
+    "b": 25,
+    "c": 1,
+    "v": 6,
+    "t": "All beauty has drained from Daughter Zion’s face. Her princes are like deer famished for food, chased to exhaustion by hunters.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "25001007",
+    "b": 25,
+    "c": 1,
+    "v": 7,
+    "t": "Jerusalem remembers the day she lost everything, when her people fell into enemy hands, and not a soul there to help. Enemies looked on and laughed, laughed at her helpless silence.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "25001008",
+    "b": 25,
+    "c": 1,
+    "v": 8,
+    "t": "Jerusalem, who outsinned the whole world, is an outcast. All who admired her despise her now that they see beneath the surface. Miserable, she groans and turns away in shame.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "25001009",
+    "b": 25,
+    "c": 1,
+    "v": 9,
+    "t": "She played fast and loose with life, she never considered tomorrow, and now she’s crashed royally, with no one to hold her hand: “Look at my pain, O GOD ! And how the enemy cruelly struts.”",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "25001010",
+    "b": 25,
+    "c": 1,
+    "v": 10,
+    "t": "The enemy reached out to take all her favorite things. She watched as pagans barged into her Sanctuary, those very people for whom you posted orders: KEEP OUT: THIS ASSEMBLY OFF-LIMITS.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "25001011",
+    "b": 25,
+    "c": 1,
+    "v": 11,
+    "t": "All the people groaned, so desperate for food, so desperate to stay alive that they bartered their favorite things for a bit of breakfast: “O GOD, look at me! Worthless, cheap, abject!",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "25001012",
+    "b": 25,
+    "c": 1,
+    "v": 12,
+    "t": "“And you passersby, look at me! Have you ever seen anything like this? Ever seen pain like my pain, seen what he did to me, what GOD did to me in his rage?",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "25001013",
+    "b": 25,
+    "c": 1,
+    "v": 13,
+    "t": "“He struck me with lightning, skewered me from head to foot, then he set traps all around so I could hardly move. He left me with nothing—left me sick, and sick of living.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "25001014",
+    "b": 25,
+    "c": 1,
+    "v": 14,
+    "t": "“He wove my sins into a rope and harnessed me to captivity’s yoke. I’m goaded by cruel taskmasters.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "25001015",
+    "b": 25,
+    "c": 1,
+    "v": 15,
+    "t": "“The Master piled up my best soldiers in a heap, then called in thugs to break their fine young necks. The Master crushed the life out of fair virgin Judah.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "25001016",
+    "b": 25,
+    "c": 1,
+    "v": 16,
+    "t": "“For all this I weep, weep buckets of tears, and not a soul within miles around cares for my soul. My children are wasted, my enemy got his way.”",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "25001017",
+    "b": 25,
+    "c": 1,
+    "v": 17,
+    "t": "Zion reached out for help, but no one helped. GOD ordered Jacob’s enemies to surround him, and now no one wants anything to do with Jerusalem.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "25001018",
+    "b": 25,
+    "c": 1,
+    "v": 18,
+    "t": "“GOD has right on his side. I’m the one who did wrong. Listen everybody! Look at what I’m going through! My fair young women, my fine young men, all herded into exile!",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "25001019",
+    "b": 25,
+    "c": 1,
+    "v": 19,
+    "t": "“I called to my friends; they betrayed me. My priests and my leaders only looked after themselves, trying but failing to save their own skins.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "25001020",
+    "b": 25,
+    "c": 1,
+    "v": 20,
+    "t": "“O GOD, look at the trouble I’m in! My stomach in knots, my heart wrecked by a life of rebellion. Massacres in the streets, starvation in the houses.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "25001021",
+    "b": 25,
+    "c": 1,
+    "v": 21,
+    "t": "“Oh, listen to my groans. No one listens, no one cares. When my enemies heard of the trouble you gave me, they cheered. Bring on Judgment Day! Let them get what I got!",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "25001022",
+    "b": 25,
+    "c": 1,
+    "v": 22,
+    "t": "“Take a good look at their evil ways and give it to them! Give them what you gave me for my sins. Groaning in pain, body and soul, I’ve had all I can take.”",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "25002001",
+    "b": 25,
+    "c": 2,
+    "v": 1,
+    "t": "Oh, oh, oh... How the Master has cut down Daughter Zion from the skies, dashed Israel’s glorious city to earth, in his anger treated his favorite as throwaway junk.",
+    "h": "GOD Walked Away from His Holy Temple",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "25002002",
+    "b": 25,
+    "c": 2,
+    "v": 2,
+    "t": "The Master, without a second thought, took Israel in one gulp. Raging, he smashed Judah’s defenses, ground her king and princes to a pulp.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "25002003",
+    "b": 25,
+    "c": 2,
+    "v": 3,
+    "t": "His anger blazing, he knocked Israel flat, broke Israel’s arm and turned his back just as the enemy approached, came on Jacob like a wildfire from every direction.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "25002004",
+    "b": 25,
+    "c": 2,
+    "v": 4,
+    "t": "Like an enemy, he aimed his bow, bared his sword, and killed our young men, our pride and joy. His anger, like fire, burned down the homes in Zion.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "25002005",
+    "b": 25,
+    "c": 2,
+    "v": 5,
+    "t": "The Master became the enemy. He had Israel for supper. He chewed up and spit out all the defenses. He left Daughter Judah moaning and groaning.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "25002006",
+    "b": 25,
+    "c": 2,
+    "v": 6,
+    "t": "He plowed up his old trysting place, trashed his favorite rendezvous. GOD wiped out Zion’s memories of feast days and Sabbaths, angrily sacked king and priest alike.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "25002007",
+    "b": 25,
+    "c": 2,
+    "v": 7,
+    "t": "GOD abandoned his altar, walked away from his holy Temple and turned the fortifications over to the enemy. As they cheered in GOD ’s Temple, you’d have thought it was a feast day!",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "25002008",
+    "b": 25,
+    "c": 2,
+    "v": 8,
+    "t": "GOD drew up plans to tear down the walls of Daughter Zion. He assembled his crew, set to work and went at it. Total demolition! The stones wept!",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "25002009",
+    "b": 25,
+    "c": 2,
+    "v": 9,
+    "t": "Her city gates, iron bars and all, disappeared in the rubble: her kings and princes off to exile—no one left to instruct or lead; her prophets useless—they neither saw nor heard anything from GOD.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "25002010",
+    "b": 25,
+    "c": 2,
+    "v": 10,
+    "t": "The elders of Daughter Zion sit silent on the ground. They throw dust on their heads, dress in rough penitential burlap— the young virgins of Jerusalem, their faces creased with the dirt.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "25002011",
+    "b": 25,
+    "c": 2,
+    "v": 11,
+    "t": "My eyes are blind with tears, my stomach in a knot. My insides have turned to jelly over my people’s fate. Babies and children are fainting all over the place,",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "25002012",
+    "b": 25,
+    "c": 2,
+    "v": 12,
+    "t": "Calling to their mothers, “I’m hungry! I’m thirsty!” then fainting like dying soldiers in the streets, breathing their last in their mothers’ laps.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "25002013",
+    "b": 25,
+    "c": 2,
+    "v": 13,
+    "t": "How can I understand your plight, dear Jerusalem? What can I say to give you comfort, dear Zion? Who can put you together again? This bust-up is past understanding.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "25002014",
+    "b": 25,
+    "c": 2,
+    "v": 14,
+    "t": "Your prophets courted you with sweet talk. They didn’t face you with your sin so that you could repent. Their sermons were all wishful thinking, deceptive illusions.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "25002015",
+    "b": 25,
+    "c": 2,
+    "v": 15,
+    "t": "Astonished, passersby can’t believe what they see. They rub their eyes, they shake their heads over Jerusalem. Is this the city voted “Most Beautiful” and “Best Place to Live”?",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "25002016",
+    "b": 25,
+    "c": 2,
+    "v": 16,
+    "t": "But now your enemies gape, slack-jawed. Then they rub their hands in glee: “We’ve got them! We’ve been waiting for this! Here it is!”",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "25002017",
+    "b": 25,
+    "c": 2,
+    "v": 17,
+    "t": "GOD did carry out, item by item, exactly what he said he’d do. He always said he’d do this. Now he’s done it—torn the place down. He’s let your enemies walk all over you, declared them world champions!",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "25002018",
+    "b": 25,
+    "c": 2,
+    "v": 18,
+    "t": "Give out heart-cries to the Master, dear repentant Zion. Let the tears roll like a river, day and night, and keep at it—no time-outs. Keep those tears flowing!",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "25002019",
+    "b": 25,
+    "c": 2,
+    "v": 19,
+    "t": "As each night watch begins, get up and cry out in prayer. Pour your heart out face-to-face with the Master. Lift high your hands. Beg for the lives of your children who are starving to death out on the streets.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "25002020",
+    "b": 25,
+    "c": 2,
+    "v": 20,
+    "t": "“Look at us, GOD. Think it over. Have you ever treated anyone like this? Should women eat their own babies, the very children they raised? Should priests and prophets be murdered in the Master’s own Sanctuary?",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "25002021",
+    "b": 25,
+    "c": 2,
+    "v": 21,
+    "t": "“Boys and old men lie in the gutters of the streets, my young men and women killed in their prime. Angry, you killed them in cold blood, cut them down without mercy.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "25002022",
+    "b": 25,
+    "c": 2,
+    "v": 22,
+    "t": "“You invited, like friends to a party, men to swoop down in attack so that on the big day of GOD ’s wrath no one would get away. The children I loved and reared—gone, gone, gone.”",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "25003001",
+    "b": 25,
+    "c": 3,
+    "v": 1,
+    "t": "I’m the man who has seen trouble, trouble coming from the lash of GOD ’s anger. He took me by the hand and walked me into pitch-black darkness. Yes, he’s given me the back of his hand over and over and over again.",
+    "h": "GOD Locked Me Up in Deep Darkness",
+    "o": 1,
+    "l": "1-3"
+  },
+  {
+    "id": "25003002",
+    "b": 25,
+    "c": 3,
+    "v": 4,
+    "t": "He turned me into a skeleton of skin and bones, then broke the bones. He hemmed me in, ganged up on me, poured on the trouble and hard times. He locked me up in deep darkness, like a corpse nailed inside a coffin.",
+    "h": "",
+    "o": 2,
+    "l": "4-6"
+  },
+  {
+    "id": "25003003",
+    "b": 25,
+    "c": 3,
+    "v": 7,
+    "t": "He shuts me in so I’ll never get out, handcuffs my wrists, shackles my feet. Even when I cry out and plead for help, he locks up my prayers and throws away the key. He sets up blockades with quarried limestone. He’s got me cornered.",
+    "h": "",
+    "o": 3,
+    "l": "7-9"
+  },
+  {
+    "id": "25003004",
+    "b": 25,
+    "c": 3,
+    "v": 10,
+    "t": "He’s a prowling bear tracking me down, a lion in hiding ready to pounce. He knocked me from the path and ripped me to pieces. When he finished, there was nothing left of me. He took out his bow and arrows and used me for target practice.",
+    "h": "",
+    "o": 4,
+    "l": "10-12"
+  },
+  {
+    "id": "25003005",
+    "b": 25,
+    "c": 3,
+    "v": 13,
+    "t": "He shot me in the stomach with arrows from his quiver. Everyone took me for a joke, made me the butt of their mocking ballads. He forced rotten, stinking food down my throat, bloated me with vile drinks.",
+    "h": "",
+    "o": 5,
+    "l": "13-15"
+  },
+  {
+    "id": "25003006",
+    "b": 25,
+    "c": 3,
+    "v": 16,
+    "t": "He ground my face into the gravel. He pounded me into the mud. I gave up on life altogether. I’ve forgotten what the good life is like. I said to myself, “This is it. I’m finished. GOD is a lost cause.”",
+    "h": "",
+    "o": 6,
+    "l": "16-18"
+  },
+  {
+    "id": "25003007",
+    "b": 25,
+    "c": 3,
+    "v": 19,
+    "t": "I’ll never forget the trouble, the utter lostness, the taste of ashes, the poison I’ve swallowed. I remember it all—oh, how well I remember— the feeling of hitting the bottom. But there’s one other thing I remember, and remembering, I keep a grip on hope:",
+    "h": "It’s a Good Thing to Hope for Help from GOD",
+    "o": 7,
+    "l": "19-21"
+  },
+  {
+    "id": "25003008",
+    "b": 25,
+    "c": 3,
+    "v": 22,
+    "t": "GOD ’s loyal love couldn’t have run out, his merciful love couldn’t have dried up. They’re created new every morning. How great your faithfulness! I’m sticking with GOD (I say it over and over). He’s all I’ve got left.",
+    "h": "",
+    "o": 8,
+    "l": "22-24"
+  },
+  {
+    "id": "25003009",
+    "b": 25,
+    "c": 3,
+    "v": 25,
+    "t": "GOD proves to be good to the man who passionately waits, to the woman who diligently seeks. It’s a good thing to quietly hope, quietly hope for help from GOD. It’s a good thing when you’re young to stick it out through the hard times.",
+    "h": "",
+    "o": 9,
+    "l": "25-27"
+  },
+  {
+    "id": "25003010",
+    "b": 25,
+    "c": 3,
+    "v": 28,
+    "t": "When life is heavy and hard to take, go off by yourself. Enter the silence. Bow in prayer. Don’t ask questions: Wait for hope to appear. Don’t run from trouble. Take it full-face. The “worst” is never the worst.",
+    "h": "",
+    "o": 10,
+    "l": "28-30"
+  },
+  {
+    "id": "25003011",
+    "b": 25,
+    "c": 3,
+    "v": 31,
+    "t": "Why? Because the Master won’t ever walk out and fail to return. If he works severely, he also works tenderly. His stockpiles of loyal love are immense. He takes no pleasure in making life hard, in throwing roadblocks in the way:",
+    "h": "",
+    "o": 11,
+    "l": "31-33"
+  },
+  {
+    "id": "25003012",
+    "b": 25,
+    "c": 3,
+    "v": 34,
+    "t": "Stomping down hard on luckless prisoners, Refusing justice to victims in the court of High God, Tampering with evidence— the Master does not approve of such things.",
+    "h": "",
+    "o": 12,
+    "l": "34-36"
+  },
+  {
+    "id": "25003013",
+    "b": 25,
+    "c": 3,
+    "v": 37,
+    "t": "Who do you think “spoke and it happened”? It’s the Master who gives such orders. Doesn’t the High God speak everything, good things and hard things alike, into being? And why would anyone gifted with life complain when punished for sin?",
+    "h": "God Speaks Both Good Things and Hard Things into Being",
+    "o": 13,
+    "l": "37-39"
+  },
+  {
+    "id": "25003014",
+    "b": 25,
+    "c": 3,
+    "v": 40,
+    "t": "Let’s take a good look at the way we’re living and reorder our lives under GOD. Let’s lift our hearts and hands at one and the same time, praying to God in heaven: “We’ve been contrary and willful, and you haven’t forgiven.",
+    "h": "",
+    "o": 14,
+    "l": "40-42"
+  },
+  {
+    "id": "25003015",
+    "b": 25,
+    "c": 3,
+    "v": 43,
+    "t": "“You lost your temper with us, holding nothing back. You chased us and cut us down without mercy. You wrapped yourself in thick blankets of clouds so no prayers could get through. You treated us like dirty dishwater, threw us out in the backyard of the nations.",
+    "h": "",
+    "o": 15,
+    "l": "43-45"
+  },
+  {
+    "id": "25003016",
+    "b": 25,
+    "c": 3,
+    "v": 46,
+    "t": "“Our enemies shout abuse, their mouths full of derision, spitting invective. We’ve been to hell and back. We’ve nowhere to turn, nowhere to go. Rivers of tears pour from my eyes at the smashup of my dear people.",
+    "h": "",
+    "o": 16,
+    "l": "46-48"
+  },
+  {
+    "id": "25003017",
+    "b": 25,
+    "c": 3,
+    "v": 49,
+    "t": "“The tears stream from my eyes, an artesian well of tears, Until you, GOD, look down from on high, look and see my tears. When I see what’s happened to the young women in the city, the pain breaks my heart.",
+    "h": "",
+    "o": 17,
+    "l": "49-51"
+  },
+  {
+    "id": "25003018",
+    "b": 25,
+    "c": 3,
+    "v": 52,
+    "t": "“Enemies with no reason to be enemies hunted me down like a bird. They threw me into a pit, then pelted me with stones. Then the rains came and filled the pit. The water rose over my head. I said, ‘It’s all over.’",
+    "h": "",
+    "o": 18,
+    "l": "52-54"
+  },
+  {
+    "id": "25003019",
+    "b": 25,
+    "c": 3,
+    "v": 55,
+    "t": "“I called out your name, O GOD, called from the bottom of the pit. You listened when I called out, ‘Don’t shut your ears! Get me out of here! Save me!’ You came close when I called out. You said, ‘It’s going to be all right.’",
+    "h": "",
+    "o": 19,
+    "l": "55-57"
+  },
+  {
+    "id": "25003020",
+    "b": 25,
+    "c": 3,
+    "v": 58,
+    "t": "“You took my side, Master; you brought me back alive! GOD, you saw the wrongs heaped on me. Give me my day in court! Yes, you saw their mean-minded schemes, their plots to destroy me.",
+    "h": "",
+    "o": 20,
+    "l": "58-60"
+  },
+  {
+    "id": "25003021",
+    "b": 25,
+    "c": 3,
+    "v": 61,
+    "t": "“You heard, GOD, their vicious gossip, their behind-my-back plots to ruin me. They never quit, these enemies of mine, dreaming up mischief, hatching malice, day after day after day. Sitting down or standing up—just look at them!— they mock me with vulgar doggerel.",
+    "h": "",
+    "o": 21,
+    "l": "61-63"
+  },
+  {
+    "id": "25003022",
+    "b": 25,
+    "c": 3,
+    "v": 64,
+    "t": "“Make them pay for what they’ve done, GOD. Give them their just deserts. Break their miserable hearts! Damn their eyes! Get good and angry. Hunt them down. Make a total demolition here under your heaven!”",
+    "h": "",
+    "o": 22,
+    "l": "64-66"
+  },
+  {
+    "id": "25004001",
+    "b": 25,
+    "c": 4,
+    "v": 1,
+    "t": "Oh, oh, oh... How gold is treated like dirt, the finest gold thrown out with the garbage, Priceless jewels scattered all over, jewels loose in the gutters.",
+    "h": "Waking Up with Nothing",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "25004002",
+    "b": 25,
+    "c": 4,
+    "v": 2,
+    "t": "And the people of Zion, once prized, far surpassing their weight in gold, Are now treated like cheap pottery, like everyday pots and bowls mass-produced by a potter.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "25004003",
+    "b": 25,
+    "c": 4,
+    "v": 3,
+    "t": "Even wild jackals nurture their babies, give them their breasts to suckle. But my people have turned cruel to their babies, like an ostrich in the wilderness.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "25004004",
+    "b": 25,
+    "c": 4,
+    "v": 4,
+    "t": "Babies have nothing to drink. Their tongues stick to the roofs of their mouths. Little children ask for bread but no one gives them so much as a crust.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "25004005",
+    "b": 25,
+    "c": 4,
+    "v": 5,
+    "t": "People used to the finest cuisine forage for food in the streets. People used to the latest in fashions pick through the trash for something to wear.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "25004006",
+    "b": 25,
+    "c": 4,
+    "v": 6,
+    "t": "The evil guilt of my dear people was worse than the sin of Sodom— The city was destroyed in a flash, and no one around to help.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "25004007",
+    "b": 25,
+    "c": 4,
+    "v": 7,
+    "t": "The splendid and sacred nobles once glowed with health. Their bodies were robust and ruddy, their beards like carved stone.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "25004008",
+    "b": 25,
+    "c": 4,
+    "v": 8,
+    "t": "But now they are smeared with soot, unrecognizable in the street, Their bones sticking out, their skin dried out like old leather.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "25004009",
+    "b": 25,
+    "c": 4,
+    "v": 9,
+    "t": "Better to have been killed in battle than killed by starvation. Better to have died of battle wounds than to slowly starve to death.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "25004010",
+    "b": 25,
+    "c": 4,
+    "v": 10,
+    "t": "Nice and kindly women boiled their own children for supper. This was the only food in town when my dear people were broken.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "25004011",
+    "b": 25,
+    "c": 4,
+    "v": 11,
+    "t": "GOD let all his anger loose, held nothing back. He poured out his raging wrath. He set a fire in Zion that burned it to the ground.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "25004012",
+    "b": 25,
+    "c": 4,
+    "v": 12,
+    "t": "The kings of the earth couldn’t believe it. World rulers were in shock, Watching old enemies march in big as you please, right through Jerusalem’s gates.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "25004013",
+    "b": 25,
+    "c": 4,
+    "v": 13,
+    "t": "Because of the sins of her prophets and the evil of her priests, Who exploited good and trusting people, robbing them of their lives,",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "25004014",
+    "b": 25,
+    "c": 4,
+    "v": 14,
+    "t": "These prophets and priests blindly grope their way through the streets, grimy and stained from their dirty lives, Wasted by their wasted lives, shuffling from fatigue, dressed in rags.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "25004015",
+    "b": 25,
+    "c": 4,
+    "v": 15,
+    "t": "People yell at them, “Get out of here, dirty old men! Get lost, don’t touch us, don’t infect us!” They have to leave town. They wander off. Nobody wants them to stay here. Everyone knows, wherever they wander, that they’ve been kicked out of their own hometown.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "25004016",
+    "b": 25,
+    "c": 4,
+    "v": 16,
+    "t": "GOD himself scattered them. No longer does he look out for them. He has nothing to do with the priests; he cares nothing for the elders.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "25004017",
+    "b": 25,
+    "c": 4,
+    "v": 17,
+    "t": "We watched and watched, wore our eyes out looking for help. And nothing. We mounted our lookouts and looked for the help that never showed up.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "25004018",
+    "b": 25,
+    "c": 4,
+    "v": 18,
+    "t": "They tracked us down, those hunters. It wasn’t safe to go out in the street. Our end was near, our days numbered. We were doomed.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "25004019",
+    "b": 25,
+    "c": 4,
+    "v": 19,
+    "t": "They came after us faster than eagles in flight, pressed us hard in the mountains, ambushed us in the desert.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "25004020",
+    "b": 25,
+    "c": 4,
+    "v": 20,
+    "t": "Our king, our life’s breath, the anointed of GOD, was caught in their traps— Our king under whose protection we always said we’d live.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "25004021",
+    "b": 25,
+    "c": 4,
+    "v": 21,
+    "t": "Celebrate while you can, O Edom! Live it up in Uz! For it won’t be long before you drink this cup, too. You’ll find out what it’s like to drink God’s wrath, Get drunk on God’s wrath and wake up with nothing, stripped naked.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "25004022",
+    "b": 25,
+    "c": 4,
+    "v": 22,
+    "t": "And that’s it for you, Zion. The punishment’s complete. You won’t have to go through this exile again. But Edom, your time is coming: He’ll punish your evil life, put all your sins on display.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "25005001",
+    "b": 25,
+    "c": 5,
+    "v": 1,
+    "t": "“Remember, GOD, all we’ve been through. Study our plight, the black mark we’ve made in history. Our precious land has been given to outsiders, our homes to strangers. Orphans we are, not a father in sight, and our mothers no better than widows. We have to pay to drink our own water. Even our firewood comes at a price. We’re nothing but slaves, bullied and bowed, worn out and without any rest. We sold ourselves to Assyria and Egypt just to get something to eat. Our parents sinned and are no more, and now we’re paying for the wrongs they did. Slaves rule over us; there’s no escape from their grip. We risk our lives to gather food in the bandit-infested desert. Our skin has turned black as an oven, dried out like old leather from the famine. Our wives were raped in the streets in Zion, and our virgins in the cities of Judah. They hanged our princes by their hands, dishonored our elders. Strapping young men were put to women’s work, mere boys forced to do men’s work. The city gate is empty of wise elders. Music from the young is heard no more. All the joy is gone from our hearts. Our dances have turned into dirges. The crown of glory has toppled from our head. Woe! Woe! Would that we’d never sinned! Because of all this we’re heartsick; we can’t see through the tears. On Mount Zion, wrecked and ruined, jackals pace and prowl. And yet, GOD, you’re sovereign still, your throne intact and eternal. So why do you keep forgetting us? Why dump us and leave us like this? Bring us back to you, GOD —we’re ready to come back. Give us a fresh start. As it is, you’ve cruelly disowned us. You’ve been so very angry with us.”",
+    "h": "Give Us a Fresh Start",
+    "o": 1,
+    "l": "1-22"
+  }
+]

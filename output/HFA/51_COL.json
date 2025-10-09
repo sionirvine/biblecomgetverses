@@ -1,0 +1,942 @@
+[
+  {
+    "id": "51001001",
+    "b": 51,
+    "c": 1,
+    "v": 1,
+    "t": "Paulus, ein Apostel von Jesus Christus, durch Gott berufen, und sein Mitarbeiter Timotheus",
+    "h": "Jesus – das Ebenbild Gottes und der Ursprung allen Lebens\n(Kapitel 1,1‒23)\nAnschrift und Gruß",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "51001002",
+    "b": 51,
+    "c": 1,
+    "v": 2,
+    "t": "schreiben diesen Brief an die Brüder und Schwestern in Kolossä, die durch den Glauben mit Jesus Christus verbunden sind und ganz zu Gott gehören. Wir wünschen euch Gnade und Frieden von Gott, unserem Vater.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "51001003",
+    "b": 51,
+    "c": 1,
+    "v": 3,
+    "t": "Jedes Mal wenn wir für euch beten, danken wir Gott, dem Vater unseres Herrn Jesus Christus.",
+    "h": "Wir beten für euch",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "51001004",
+    "b": 51,
+    "c": 1,
+    "v": 4,
+    "t": "Wir haben von eurem Glauben an Jesus Christus gehört und davon, wie ihr allen Christen in Liebe verbunden seid.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "51001005",
+    "b": 51,
+    "c": 1,
+    "v": 5,
+    "t": "Beides ist so reich bei euch vorhanden, weil ihr wisst, dass sich eure Hoffnung im Himmel erfüllen wird. Von dieser Hoffnung habt ihr gehört, als man euch das Wort der Wahrheit, die rettende Botschaft von Jesus Christus, verkündete.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "51001006",
+    "b": 51,
+    "c": 1,
+    "v": 6,
+    "t": "Diese Botschaft wird nicht nur bei euch, sondern auch in der ganzen Welt verbreitet. Immer mehr Menschen hören sie, nehmen sie an, und so trägt sie reiche Frucht. Auch bei euch ist es vom ersten Tag an so gewesen, als ihr erfahren habt, wie gnädig Gott ist.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "51001007",
+    "b": 51,
+    "c": 1,
+    "v": 7,
+    "t": "Euch brachte unser lieber Mitarbeiter Epaphras diese rettende Botschaft. Wir wissen, dass er Christus dient und dass er euch ein treuer und guter Lehrer war.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "51001008",
+    "b": 51,
+    "c": 1,
+    "v": 8,
+    "t": "Er hat uns auch davon berichtet, welche Liebe der Geist Gottes in euch geweckt hat.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "51001009",
+    "b": 51,
+    "c": 1,
+    "v": 9,
+    "t": "Deshalb haben wir seitdem nicht aufgehört, für euch zu beten. Wir bitten Gott, dass sein Geist euch mit Weisheit und Einsicht erfüllt und ihr auf diese Weise seinen Willen immer besser erkennt.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "51001010",
+    "b": 51,
+    "c": 1,
+    "v": 10,
+    "t": "Dann nämlich könnt ihr so leben, dass der Herr dadurch geehrt wird und er sich in jeder Hinsicht über euch freut. Euer Leben wird für Gott Frucht bringen, indem ihr in vielerlei Weise Gutes tut. Ihr werdet ihn immer besser kennen lernen",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "51001011",
+    "b": 51,
+    "c": 1,
+    "v": 11,
+    "t": "und das ganze Ausmaß seiner herrlichen Kraft und Stärke erfahren, damit ihr geduldig und ausdauernd euren Weg gehen könnt. Ihr habt wirklich allen Grund, Gott, dem Vater, voll Freude dafür zu danken. Denn er hat euch zu seinen rechtmäßigen Erben gemacht. Zusammen mit allen, die zu ihm gehören, dürft ihr einmal bei ihm sein, in seinem Reich des Lichts.",
+    "h": "",
+    "o": 11,
+    "l": "11-12"
+  },
+  {
+    "id": "51001012",
+    "b": 51,
+    "c": 1,
+    "v": 13,
+    "t": "Er hat uns aus der Gewalt der Finsternis befreit, und nun leben wir unter der Herrschaft seines geliebten Sohnes Jesus Christus.",
+    "h": "",
+    "o": 12,
+    "l": "13"
+  },
+  {
+    "id": "51001013",
+    "b": 51,
+    "c": 1,
+    "v": 14,
+    "t": "Durch ihn sind wir erlöst, unsere Sünden sind vergeben.",
+    "h": "",
+    "o": 13,
+    "l": "14"
+  },
+  {
+    "id": "51001014",
+    "b": 51,
+    "c": 1,
+    "v": 15,
+    "t": "Christus ist das Ebenbild des unsichtbaren Gottes. Als sein Sohn steht er über der ganzen Schöpfung und war selbst schon längst vor ihr da.",
+    "h": "Christus steht über der ganzen Schöpfung",
+    "o": 14,
+    "l": "15"
+  },
+  {
+    "id": "51001015",
+    "b": 51,
+    "c": 1,
+    "v": 16,
+    "t": "Durch ihn ist alles erschaffen, was im Himmel und auf der Erde ist: Sichtbares und Unsichtbares, Königreiche und Mächte, Herrscher und Gewalten. Ja, alles ist durch ihn geschaffen und vollendet sich schließlich in ihm.",
+    "h": "",
+    "o": 15,
+    "l": "16"
+  },
+  {
+    "id": "51001016",
+    "b": 51,
+    "c": 1,
+    "v": 17,
+    "t": "Denn Christus war vor allem anderen; und alles hat nur durch ihn Bestand.",
+    "h": "",
+    "o": 16,
+    "l": "17"
+  },
+  {
+    "id": "51001017",
+    "b": 51,
+    "c": 1,
+    "v": 18,
+    "t": "Er ist das Haupt der Gemeinde, die sein Leib ist. Er ist der Ursprung allen Lebens und zugleich der Erste, der vom Tod zu einem unvergänglichen Leben auferstand. So sollte er in jeder Hinsicht an erster Stelle stehen.",
+    "h": "",
+    "o": 17,
+    "l": "18"
+  },
+  {
+    "id": "51001018",
+    "b": 51,
+    "c": 1,
+    "v": 19,
+    "t": "Denn Gott hat beschlossen, mit seiner ganzen Fülle in ihm zu wohnen",
+    "h": "",
+    "o": 18,
+    "l": "19"
+  },
+  {
+    "id": "51001019",
+    "b": 51,
+    "c": 1,
+    "v": 20,
+    "t": "und alles im Himmel und auf der Erde durch ihn mit sich zu versöhnen. Ja, Gott hat Frieden gestiftet, als Jesus am Kreuz sein Blut vergoss.",
+    "h": "",
+    "o": 19,
+    "l": "20"
+  },
+  {
+    "id": "51001020",
+    "b": 51,
+    "c": 1,
+    "v": 21,
+    "t": "Auch ihr wusstet früher nicht, was es bedeutet, mit Gott zu leben; ihr wart seine Feinde durch alles Böse, das ihr gedacht und getan habt.",
+    "h": "",
+    "o": 20,
+    "l": "21"
+  },
+  {
+    "id": "51001021",
+    "b": 51,
+    "c": 1,
+    "v": 22,
+    "t": "Doch indem Christus Mensch wurde und am Kreuz starb, hat Gott euch mit sich selbst versöhnt. Jetzt gehören wir zu Gott und stehen befreit von aller Sünde und Schuld vor ihm da.",
+    "h": "",
+    "o": 21,
+    "l": "22"
+  },
+  {
+    "id": "51001022",
+    "b": 51,
+    "c": 1,
+    "v": 23,
+    "t": "Wichtig ist aber, dass ihr auch weiterhin fest und unerschütterlich in eurem Glauben bleibt. Lasst euch durch nichts davon abbringen! Keine Macht der Erde soll euch die Hoffnung rauben, die Gott euch durch seine rettende Botschaft geschenkt hat. Ihr habt sie gehört, und sie ist überall in der Welt verkündet worden. Mein ganzes Leben steht im Dienst dieser Botschaft. Sie will ich weitersagen.",
+    "h": "",
+    "o": 22,
+    "l": "23"
+  },
+  {
+    "id": "51001023",
+    "b": 51,
+    "c": 1,
+    "v": 24,
+    "t": "Was ich auch immer für euch erleiden muss, nehme ich gern auf mich; ich freue mich sogar darüber. Das Maß der Leiden, die ich für Christus auf mich nehmen muss, ist noch nicht voll. Und ich leide für seinen Leib, für seine Gemeinde.",
+    "h": "Warnung vor falschen Lehren\n(Kapitel 1,24–2,23)\nPaulus verkündet die Botschaft im Auftrag Gottes",
+    "o": 23,
+    "l": "24"
+  },
+  {
+    "id": "51001024",
+    "b": 51,
+    "c": 1,
+    "v": 25,
+    "t": "Gott hat mir aufgetragen, seiner Gemeinde zu dienen und euch seine Botschaft ohne Abstriche zu verkünden.",
+    "h": "",
+    "o": 24,
+    "l": "25"
+  },
+  {
+    "id": "51001025",
+    "b": 51,
+    "c": 1,
+    "v": 26,
+    "t": "Ihr habt erfahren, was von Anfang der Welt, ja, was der gesamten Menschheit vor euch verborgen war: ein Geheimnis, das jetzt allen Christen enthüllt worden ist.",
+    "h": "",
+    "o": 25,
+    "l": "26"
+  },
+  {
+    "id": "51001026",
+    "b": 51,
+    "c": 1,
+    "v": 27,
+    "t": "Dabei geht es um ein unbegreifliches Wunder, das Gott für alle Menschen auf dieser Erde bereithält. Ihr, die ihr zu Gott gehört, dürft dieses Geheimnis verstehen. Es lautet: Christus lebt in euch! Und damit habt ihr die feste Hoffnung, dass Gott euch Anteil an seiner Herrlichkeit gibt.",
+    "h": "",
+    "o": 26,
+    "l": "27"
+  },
+  {
+    "id": "51001027",
+    "b": 51,
+    "c": 1,
+    "v": 28,
+    "t": "Diesen Christus verkünden wir. Mit aller Weisheit, die Gott mir gegeben hat, ermahne ich die Menschen und unterweise sie im Glauben, damit jeder Einzelne durch die Verbindung mit Christus reif und mündig wird.",
+    "h": "",
+    "o": 27,
+    "l": "28"
+  },
+  {
+    "id": "51001028",
+    "b": 51,
+    "c": 1,
+    "v": 29,
+    "t": "Das ist das Ziel meiner Arbeit, dafür kämpfe ich, und dafür mühe ich mich ab. Christus, der mit seiner Macht in mir wirkt, schenkt mir die Kraft dazu.",
+    "h": "",
+    "o": 28,
+    "l": "29"
+  },
+  {
+    "id": "51002001",
+    "b": 51,
+    "c": 2,
+    "v": 1,
+    "t": "Ihr sollt wissen, wie sehr ich um euch kämpfe, auch um die Gemeinde in Laodizea und um all die anderen, die mich persönlich noch gar nicht kennen.",
+    "h": "",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "51002002",
+    "b": 51,
+    "c": 2,
+    "v": 2,
+    "t": "Ja, ich setze mich dafür ein, dass Gott euch allen Mut und Kraft gibt und euch in seiner Liebe zusammenhält. Er schenke euch tiefes Verstehen, damit ihr die ganze Größe seines Geheimnisses erkennt. Dieses Geheimnis ist Christus.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "51002003",
+    "b": 51,
+    "c": 2,
+    "v": 3,
+    "t": "In ihm sind alle Schätze der Weisheit und Erkenntnis verborgen.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "51002004",
+    "b": 51,
+    "c": 2,
+    "v": 4,
+    "t": "Ich sage das, damit ihr euch von niemandem durch wohlklingende Worte auf einen falschen Weg bringen lasst.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "51002005",
+    "b": 51,
+    "c": 2,
+    "v": 5,
+    "t": "Zwar bin ich weit von euch entfernt, aber im Geist bin ich mit euch allen verbunden. Ich bin glücklich, wenn ich sehe, wie fest ihr zusammensteht und wie unerschütterlich ihr an Christus glaubt.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "51002006",
+    "b": 51,
+    "c": 2,
+    "v": 6,
+    "t": "Ihr habt Jesus Christus als euren Herrn angenommen; nun lebt auch in der Gemeinschaft mit ihm.",
+    "h": "Bleibt mit Christus verbunden",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "51002007",
+    "b": 51,
+    "c": 2,
+    "v": 7,
+    "t": "Wie ein Baum in der Erde, so sollt ihr in Christus fest verwurzelt bleiben, und nur er soll das Fundament eures Lebens sein. Haltet fest an dem Glauben, den man euch lehrte. Für das, was Gott euch geschenkt hat, könnt ihr ihm gar nicht genug danken.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "51002008",
+    "b": 51,
+    "c": 2,
+    "v": 8,
+    "t": "Passt auf, dass ihr nicht auf Weltanschauungen und Hirngespinste hereinfallt. All das haben sich Menschen ausgedacht; aber hinter ihren Gedanken stehen dunkle Mächte und nicht Christus.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "51002009",
+    "b": 51,
+    "c": 2,
+    "v": 9,
+    "t": "Nur in Christus ist Gott wirklich zu finden, denn in ihm lebt er in seiner ganzen Fülle.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "51002010",
+    "b": 51,
+    "c": 2,
+    "v": 10,
+    "t": "Deshalb lebt Gott auch in euch, wenn ihr mit Christus verbunden seid. Er ist der Herr über alle Mächte und Gewalten.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "51002011",
+    "b": 51,
+    "c": 2,
+    "v": 11,
+    "t": "Durch euren Glauben an Christus habt ihr euer altes, sündiges Leben aufgegeben. Nun seid auch ihr Beschnittene – nicht durch eine äußerliche Beschneidung, wie Menschen sie vornehmen, sondern durch die Beschneidung, wie ihr sie durch Christus erfahren habt.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "51002012",
+    "b": 51,
+    "c": 2,
+    "v": 12,
+    "t": "Damit meine ich die Taufe, die euer altes Leben beendet hat; durch sie wurdet ihr mit Christus begraben. Ebenso seid ihr auch mit Christus zu einem neuen Leben auferweckt worden durch den Glauben an die Kraft Gottes, der ihn von den Toten auferstehen ließ.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "51002013",
+    "b": 51,
+    "c": 2,
+    "v": 13,
+    "t": "Früher wart ihr gewissermaßen unbeschnitten, denn ihr habt euch von eurer sündigen Natur bestimmen lassen und wart durch eure Schuld von Gott getrennt. In seinen Augen wart ihr tot, aber er hat euch mit Christus lebendig gemacht und alle Schuld vergeben.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "51002014",
+    "b": 51,
+    "c": 2,
+    "v": 14,
+    "t": "Gott hat den Schuldschein, der uns mit seinen Forderungen so schwer belastete, für ungültig erklärt. Ja, er hat ihn zusammen mit Jesus ans Kreuz genagelt und somit auf ewig vernichtet.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "51002015",
+    "b": 51,
+    "c": 2,
+    "v": 15,
+    "t": "Auf diese Weise wurden die Mächte und Gewalten entwaffnet und in ihrer Ohnmacht bloßgestellt, als Christus über sie am Kreuz triumphierte.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "51002016",
+    "b": 51,
+    "c": 2,
+    "v": 16,
+    "t": "Darum lasst euch keine Vorschriften machen über eure Ess- und Trinkgewohnheiten oder bestimmte Feiertage, über den Neumondtag und über das, was man am Sabbat tun darf oder nicht.",
+    "h": "Freiheit durch Christus",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "51002017",
+    "b": 51,
+    "c": 2,
+    "v": 17,
+    "t": "Das alles sind nur schwache Abbilder, ein Schatten von dem, was in Christus Wirklichkeit geworden ist.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "51002018",
+    "b": 51,
+    "c": 2,
+    "v": 18,
+    "t": "Lasst eure Rettung deshalb von niemandem in Frage stellen. Schon gar nicht von solchen Leuten, die sich in falsch verstandener Demut gefallen, Engel zu verehren, und sich dabei stolz auf ihre Visionen berufen! Diese Menschen haben nicht den geringsten Grund, sich derart aufzuspielen. Sie drehen sich ja doch nur um sich selbst",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "51002019",
+    "b": 51,
+    "c": 2,
+    "v": 19,
+    "t": "und halten sich nicht mehr an Christus, der doch das Haupt der Gemeinde ist. Denn nur von ihm her kann die Gemeinde als sein Leib zusammengehalten werden und – gestützt durch die verschiedenen Gelenke und Bänder – so wachsen, wie Gott es will.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "51002020",
+    "b": 51,
+    "c": 2,
+    "v": 20,
+    "t": "Wenn ihr nun mit Christus gestorben seid, dann seid ihr auch von den Mächten und Zwängen dieser Welt befreit. Weshalb unterwerft ihr euch dann von neuem ihren Forderungen und lebt so, als wäre diese Welt für euch maßgebend?",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "51002021",
+    "b": 51,
+    "c": 2,
+    "v": 21,
+    "t": "Weshalb lasst ihr euch vorschreiben: »Du darfst dieses nicht anfassen, jenes nicht essen und musst dich von ganz bestimmten Dingen fernhalten«?",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "51002022",
+    "b": 51,
+    "c": 2,
+    "v": 22,
+    "t": "Sie alle sind doch dazu da, dass man sie für sich nutzt und verzehrt. Warum also lasst ihr euch noch Vorschriften von Menschen machen?",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "51002023",
+    "b": 51,
+    "c": 2,
+    "v": 23,
+    "t": "Möglich, dass manche, die danach leben, den Anschein von Weisheit erwecken. Schließlich glänzen sie mit ihrer selbst erdachten Frömmigkeit, geben sich dabei auch noch bescheiden und schonen bei asketischen Übungen ihren Körper nicht. Doch das alles bringt uns Gott nicht näher, sondern es dient ausschließlich menschlichem Ehrgeiz und menschlicher Eitelkeit.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "51003001",
+    "b": 51,
+    "c": 3,
+    "v": 1,
+    "t": "Wenn ihr nun mit Christus zu einem neuen Leben auferweckt worden seid, dann richtet euch ganz auf Gottes himmlische Welt aus. Seht dahin, wo Christus ist, auf dem Ehrenplatz an Gottes rechter Seite.",
+    "h": "Anweisungen für ein Leben unter Gottes Herrschaft\n(Kapitel 3–4)",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "51003002",
+    "b": 51,
+    "c": 3,
+    "v": 2,
+    "t": "Ja, richtet eure Gedanken auf Gottes himmlische Welt und nicht auf das, was diese irdische Welt ausmacht.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "51003003",
+    "b": 51,
+    "c": 3,
+    "v": 3,
+    "t": "Denn für sie seid ihr gestorben, aber Gott hat euch mit Christus zu neuem Leben auferweckt, auch wenn das jetzt noch verborgen ist.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "51003004",
+    "b": 51,
+    "c": 3,
+    "v": 4,
+    "t": "Doch wenn Christus, euer Leben, erscheinen wird, dann wird jeder sehen, dass ihr an seiner Herrlichkeit Anteil habt.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "51003005",
+    "b": 51,
+    "c": 3,
+    "v": 5,
+    "t": "Also trennt euch ganz entschieden von einem Lebensstil, wie er für diese Welt kennzeichnend ist! Trennt euch von sexueller Unmoral und Ausschweifungen, von Leidenschaften und Lastern, aber auch von der Habgier, die den Besitz für das Wichtigste hält und ihn zu ihrem Gott macht!",
+    "h": "Wie Christen leben sollen",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "51003006",
+    "b": 51,
+    "c": 3,
+    "v": 6,
+    "t": "Gerade mit einem solchen Verhalten ziehen die Menschen, die Gott nicht gehorchen wollen, seinen Zorn auf sich.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "51003007",
+    "b": 51,
+    "c": 3,
+    "v": 7,
+    "t": "Auch ihr habt früher so gelebt und habt euch von diesen Dingen beherrschen lassen.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "51003008",
+    "b": 51,
+    "c": 3,
+    "v": 8,
+    "t": "Aber jetzt ist es Zeit, das alles abzulegen. Lasst euch nicht mehr zum Zorn und zu Wutausbrüchen hinreißen. Schluss mit aller Bosheit! Redet nicht schlecht übereinander und beleidigt niemanden!",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "51003009",
+    "b": 51,
+    "c": 3,
+    "v": 9,
+    "t": "Hört auf, euch gegenseitig zu belügen. Ihr habt doch euer altes Leben mit allem, was dazugehörte, wie alte Kleider abgelegt.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "51003010",
+    "b": 51,
+    "c": 3,
+    "v": 10,
+    "t": "Jetzt habt ihr neue Kleider an, denn ihr seid neue Menschen geworden. Gott ist beständig in euch am Werk, damit ihr immer mehr seinem Ebenbild entsprecht, nach dem er euch geschaffen hat. So habt ihr Gemeinschaft mit Gott und versteht immer besser, was ihm gefällt.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "51003011",
+    "b": 51,
+    "c": 3,
+    "v": 11,
+    "t": "Dann ist unwichtig, ob einer Grieche oder Jude ist, beschnitten oder unbeschnitten, ob er aus einem anderen Kulturkreis oder aus einem Nomadenvolk stammt, ob er ein Sklave oder Herr ist. Wichtig ist einzig und allein Christus, der in allen lebt.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "51003012",
+    "b": 51,
+    "c": 3,
+    "v": 12,
+    "t": "Ihr seid von Gott auserwählt und seine geliebten Kinder, die zu ihm gehören. Darum soll jetzt herzliches Mitgefühl euer Leben bestimmen, ebenso wie Güte, Bescheidenheit, Nachsicht und Geduld.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "51003013",
+    "b": 51,
+    "c": 3,
+    "v": 13,
+    "t": "Ertragt einander und vergebt euch gegenseitig, wenn jemand euch Unrecht getan hat. Denn auch Christus hat euch vergeben.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "51003014",
+    "b": 51,
+    "c": 3,
+    "v": 14,
+    "t": "Wichtiger als alles andere ist die Liebe. Wenn ihr sie habt, wird euch nichts fehlen. Sie ist das Band, das euch verbindet.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "51003015",
+    "b": 51,
+    "c": 3,
+    "v": 15,
+    "t": "Und der Friede, den Christus schenkt, soll euer ganzes Leben bestimmen. Gott hat euch dazu berufen, in Frieden miteinander zu leben; ihr gehört ja alle zu dem einen Leib von Christus. Dankt Gott dafür!",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "51003016",
+    "b": 51,
+    "c": 3,
+    "v": 16,
+    "t": "Lasst die Botschaft von Christus ihren ganzen Reichtum bei euch entfalten. Unterweist und ermahnt euch gegenseitig mit aller Weisheit und dankt Gott von ganzem Herzen mit Psalmen, Lobgesängen und Liedern, die euch Gottes Geist schenkt. Ihr habt doch Gottes Gnade erfahren!",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "51003017",
+    "b": 51,
+    "c": 3,
+    "v": 17,
+    "t": "All euer Tun – euer Reden wie euer Handeln – soll zeigen, dass Jesus euer Herr ist. Weil ihr mit ihm verbunden seid, könnt ihr Gott, dem Vater, für alles danken.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "51003018",
+    "b": 51,
+    "c": 3,
+    "v": 18,
+    "t": "Ihr Frauen, ordnet euch euren Männern unter. So erwartet es Christus, der Herr, von euch, mit dem ihr verbunden seid.",
+    "h": "Das Zusammenleben in Ehe und Familie",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "51003019",
+    "b": 51,
+    "c": 3,
+    "v": 19,
+    "t": "Ihr Männer, liebt eure Frauen und kränkt sie nicht.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "51003020",
+    "b": 51,
+    "c": 3,
+    "v": 20,
+    "t": "Ihr Kinder, seid euren Eltern in allen Dingen gehorsam; denn so ist es richtig, da ihr ja zum Herrn gehört.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "51003021",
+    "b": 51,
+    "c": 3,
+    "v": 21,
+    "t": "Ihr Väter, behandelt eure Kinder nicht zu streng, damit sie nicht ängstlich und mutlos werden.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "51003022",
+    "b": 51,
+    "c": 3,
+    "v": 22,
+    "t": "Ihr Sklaven, gehorcht in allem euren irdischen Herren! Tut dies nicht nur, wenn sie euch dabei beobachten und ihr von ihnen anerkannt werden wollt. Verrichtet eure Arbeit aufrichtig und in Ehrfurcht vor Christus, dem Herrn im Himmel.",
+    "h": "Der Umgang zwischen Sklaven und ihren Herren",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "51003023",
+    "b": 51,
+    "c": 3,
+    "v": 23,
+    "t": "Denkt bei allem daran, dass ihr letztlich für ihn und nicht für die Menschen arbeitet.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "51003024",
+    "b": 51,
+    "c": 3,
+    "v": 24,
+    "t": "Als Lohn dafür wird er euch das Erbe geben, das er versprochen hat. Das wisst ihr ja. Denn Jesus Christus ist euer wahrer Herr!",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "51003025",
+    "b": 51,
+    "c": 3,
+    "v": 25,
+    "t": "Wer allerdings Unrecht tut, wird auch dafür den entsprechenden Lohn bekommen. Gott beurteilt alle Menschen gleich, egal welches Ansehen sie genießen.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "51004001",
+    "b": 51,
+    "c": 4,
+    "v": 1,
+    "t": "Ihr Herren, behandelt eure Sklaven gerecht und anständig. Denkt immer daran, dass auch ihr einen Herrn im Himmel habt, dem ihr untersteht.",
+    "h": "",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "51004002",
+    "b": 51,
+    "c": 4,
+    "v": 2,
+    "t": "Lasst euch durch nichts vom Gebet abbringen und vergesst dabei nicht, Gott zu danken.",
+    "h": "Für andere leben",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "51004003",
+    "b": 51,
+    "c": 4,
+    "v": 3,
+    "t": "Betet auch für uns, damit Gott uns eine Möglichkeit gibt, sein Geheimnis zu verkünden: die Botschaft von Christus, für die ich hier im Gefängnis sitze.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "51004004",
+    "b": 51,
+    "c": 4,
+    "v": 4,
+    "t": "Und betet, dass ich darüber frei und offen reden kann, wie Gott es mir aufgetragen hat.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "51004005",
+    "b": 51,
+    "c": 4,
+    "v": 5,
+    "t": "Verhaltet euch weise und besonnen denen gegenüber, die keine Christen sind. Macht das Beste aus der Zeit, die euch geschenkt ist!",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "51004006",
+    "b": 51,
+    "c": 4,
+    "v": 6,
+    "t": "Redet mit jedem Menschen freundlich; alles, was ihr sagt, soll gut und hilfreich sein. Bemüht euch darum, für jeden die richtigen Worte zu finden.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "51004007",
+    "b": 51,
+    "c": 4,
+    "v": 7,
+    "t": "Unser lieber Bruder Tychikus wird euch ausführlich berichten, wie es mir geht. Er ist mein treuer Mitarbeiter und dient dem Herrn.",
+    "h": "Persönliche Grüße und Wünsche",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "51004008",
+    "b": 51,
+    "c": 4,
+    "v": 8,
+    "t": "Ich schicke ihn eben deshalb zu euch, damit ihr erfahrt, wie es um uns steht. Er soll euch ermutigen.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "51004009",
+    "b": 51,
+    "c": 4,
+    "v": 9,
+    "t": "Mit ihm zusammen schicke ich Onesimus, der ja zu euch gehört. Auch ihn schätze ich als treuen und lieben Bruder. Beide werden euch alles erzählen, was hier geschehen ist.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "51004010",
+    "b": 51,
+    "c": 4,
+    "v": 10,
+    "t": "Aristarch, der zusammen mit mir im Gefängnis ist, lässt euch grüßen, ebenso Markus, der Vetter von Barnabas. Seinetwegen hatte ich euch ja schon geschrieben. Ich bitte euch noch einmal, ihn freundlich aufzunehmen, wenn er zu euch kommt.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "51004011",
+    "b": 51,
+    "c": 4,
+    "v": 11,
+    "t": "Auch Jesus Justus schickt euch seine Grüße. Diese drei Männer sind die einzigen Christen jüdischer Herkunft, die sich mit mir für Gottes Reich einsetzen. Sie sind mir Trost und Hilfe zugleich.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "51004012",
+    "b": 51,
+    "c": 4,
+    "v": 12,
+    "t": "Epaphras, der zu euch gehört, grüßt euch ebenfalls sehr herzlich. Er dient Jesus Christus und lässt nicht nach, im Gebet für euch zu kämpfen. Inständig bittet er Gott darum, dass ihr reife Christen werdet und bereit, in allen Dingen Gottes Willen zu erfüllen.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "51004013",
+    "b": 51,
+    "c": 4,
+    "v": 13,
+    "t": "Ich kann bezeugen, wie viel Mühe er auf sich nimmt für euch, für die Christen in Laodizea und die in Hierapolis.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "51004014",
+    "b": 51,
+    "c": 4,
+    "v": 14,
+    "t": "Freundliche Grüße auch von dem Arzt Lukas, den wir alle sehr schätzen, und von Demas.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "51004015",
+    "b": 51,
+    "c": 4,
+    "v": 15,
+    "t": "Grüßt alle Christen in Laodizea von mir, vor allem Nympha und die Gemeinde, die sich in ihrem Haus versammelt.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "51004016",
+    "b": 51,
+    "c": 4,
+    "v": 16,
+    "t": "Wenn ihr diesen Brief bei euch vorgelesen habt, dann gebt ihn an die Gemeinde in Laodizea weiter. Lest auch den Brief, den ich dorthin geschrieben habe.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "51004017",
+    "b": 51,
+    "c": 4,
+    "v": 17,
+    "t": "Und sagt Archippus: Erfüll den Dienst, den dir der Herr gegeben hat, treu und gewissenhaft!",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "51004018",
+    "b": 51,
+    "c": 4,
+    "v": 18,
+    "t": "Und hier noch mein persönlicher Gruß an euch; ich, Paulus, schreibe ihn mit eigener Hand. Denkt in euren Gebeten daran, dass ich im Gefängnis bin! Gottes Gnade sei mit euch!",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  }
+]

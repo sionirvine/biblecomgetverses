@@ -1,0 +1,832 @@
+[
+  {
+    "id": "63001001",
+    "b": 63,
+    "c": 1,
+    "v": 1,
+    "t": "Paul, an apostle of Jesus Christ by the will of God, according to the promise of life which is in Christ Jesus,",
+    "h": "CHAPTER ONE",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "63001002",
+    "b": 63,
+    "c": 1,
+    "v": 2,
+    "t": "To Timothy, my beloved son: Grace, mercy and peace from God the Father and Christ Jesus our Lord.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "63001003",
+    "b": 63,
+    "c": 1,
+    "v": 3,
+    "t": "I am grateful to God—Whom I have been serving from the days of my forefathers with a pure conscience—because I never fail to remember you in my supplications night and day.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "63001004",
+    "b": 63,
+    "c": 1,
+    "v": 4,
+    "t": "As I recall your tears, I am longing to see you, so that I may be filled with joy;",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "63001005",
+    "b": 63,
+    "c": 1,
+    "v": 5,
+    "t": "When I remember the unfeigned faith that is in you, which first dwelt in your grandmother Lois and in your mother Eunice—and I am convinced that it dwells in you also.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "63001006",
+    "b": 63,
+    "c": 1,
+    "v": 6,
+    "t": "For this reason, I admonish you to stir up the gift of God that is in you by the laying on of my hands.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "63001007",
+    "b": 63,
+    "c": 1,
+    "v": 7,
+    "t": "For God has not given us a spirit of fear, but of power, and of love, and of sound-mindedness.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "63001008",
+    "b": 63,
+    "c": 1,
+    "v": 8,
+    "t": "Therefore, you should not be ashamed of the testimony of our Lord, nor of me His prisoner; but jointly suffer with me for the sake of the gospel, according to the power of God,",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "63001009",
+    "b": 63,
+    "c": 1,
+    "v": 9,
+    "t": "Who has saved us and called us with a holy calling—not according to our works, but according to His own purpose and grace, which was given us in Christ Jesus before the ages of time;",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "63001010",
+    "b": 63,
+    "c": 1,
+    "v": 10,
+    "t": "But has now been revealed by the appearing of our Savior Jesus Christ, Who has annulled death, and has brought to light eternal life and incorruptibility through the gospel",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "63001011",
+    "b": 63,
+    "c": 1,
+    "v": 11,
+    "t": "Unto which I was ordained a preacher, and an apostle, and a teacher of the Gentiles;",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "63001012",
+    "b": 63,
+    "c": 1,
+    "v": 12,
+    "t": "For which cause I am also suffering these things; nevertheless, I am not ashamed. For I know Whom I have believed, and am persuaded that He has the power to keep what I have committed to Him for that day.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "63001013",
+    "b": 63,
+    "c": 1,
+    "v": 13,
+    "t": "Hold as the standard for doctrine the sound words that you heard from me, in the faith and love that are in Christ Jesus.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "63001014",
+    "b": 63,
+    "c": 1,
+    "v": 14,
+    "t": "Guard the good thing that was committed to you by the Holy Spirit that is dwelling in us.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "63001015",
+    "b": 63,
+    "c": 1,
+    "v": 15,
+    "t": "You know this, that all those who are in Asia have rejected me, of whom are Phygellus and Hermogenes.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "63001016",
+    "b": 63,
+    "c": 1,
+    "v": 16,
+    "t": "May the Lord grant mercy to the household of Onesiphorus because he frequently refreshed me and was not ashamed of my chains.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "63001017",
+    "b": 63,
+    "c": 1,
+    "v": 17,
+    "t": "For when he was in Rome, he searched for me very diligently and found me.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "63001018",
+    "b": 63,
+    "c": 1,
+    "v": 18,
+    "t": "May the Lord grant to him that he may find mercy from the Lord in that day and how much he served me in Ephesus, you know very well.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "63002001",
+    "b": 63,
+    "c": 2,
+    "v": 1,
+    "t": "Therefore, my son, be strong in the grace that is in Christ Jesus.",
+    "h": "CHAPTER TWO",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "63002002",
+    "b": 63,
+    "c": 2,
+    "v": 2,
+    "t": "And the things that you have heard from me among many witnesses, these things commit to faithful men, such as will be competent to teach others also.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "63002003",
+    "b": 63,
+    "c": 2,
+    "v": 3,
+    "t": "You, therefore, endure hardship as a good soldier of Jesus Christ.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "63002004",
+    "b": 63,
+    "c": 2,
+    "v": 4,
+    "t": "No one who is serving as a soldier becomes involved in civilian pursuits, so that he may please him who enlisted him as a soldier.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "63002005",
+    "b": 63,
+    "c": 2,
+    "v": 5,
+    "t": "Also, if anyone strives to win in the athletic games, he is not crowned unless he has competed lawfully.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "63002006",
+    "b": 63,
+    "c": 2,
+    "v": 6,
+    "t": "Moreover, it is necessary for the husbandman to labor before partaking of the fruits.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "63002007",
+    "b": 63,
+    "c": 2,
+    "v": 7,
+    "t": "Give careful consideration to the things that I am telling you, and may the Lord give you understanding in all things.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "63002008",
+    "b": 63,
+    "c": 2,
+    "v": 8,
+    "t": "Remember that Jesus Christ, of the seed of David, was raised from among the dead according to my gospel;",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "63002009",
+    "b": 63,
+    "c": 2,
+    "v": 9,
+    "t": "For which I am suffering hardship, even to the point of being imprisoned like a criminal; but the Word of God has not been chained.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "63002010",
+    "b": 63,
+    "c": 2,
+    "v": 10,
+    "t": "Because of this, I endure all things for the sake of the elect in order that they may obtain the salvation that is in Christ Jesus with eternal glory.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "63002011",
+    "b": 63,
+    "c": 2,
+    "v": 11,
+    "t": "This is a faithful saying: If we have died together with Him, we shall also live together with Him ;",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "63002012",
+    "b": 63,
+    "c": 2,
+    "v": 12,
+    "t": "If we endure, we shall also reign together with Him ; if we deny Him, He will also deny us;",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "63002013",
+    "b": 63,
+    "c": 2,
+    "v": 13,
+    "t": "If we are unfaithful, He remains faithful—He cannot deny Himself.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "63002014",
+    "b": 63,
+    "c": 2,
+    "v": 14,
+    "t": "See that they remain mindful of these things, earnestly charging them in the sight of the Lord not to argue over words that are not profitable in any way, but which lead to the subverting of those who hear.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "63002015",
+    "b": 63,
+    "c": 2,
+    "v": 15,
+    "t": "Diligently study to show yourself approved unto God, a workman who does not need to be ashamed, rightly dividing the Word of the truth;",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "63002016",
+    "b": 63,
+    "c": 2,
+    "v": 16,
+    "t": "But avoid profane and vain babblings because they will only give rise to more ungodliness,",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "63002017",
+    "b": 63,
+    "c": 2,
+    "v": 17,
+    "t": "And their words will eat away at the body like gangrene; of whom are Hymeneus and Philetus,",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "63002018",
+    "b": 63,
+    "c": 2,
+    "v": 18,
+    "t": "Who have gone astray from the truth, claiming that the resurrection has already taken place, and are destroying the faith of some.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "63002019",
+    "b": 63,
+    "c": 2,
+    "v": 19,
+    "t": "Nevertheless, the foundation of God stands firm, having this seal: “ The Lord knows those who are His,” and, “Let everyone who calls upon the name of Christ depart from unrighteousness.”",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "63002020",
+    "b": 63,
+    "c": 2,
+    "v": 20,
+    "t": "But in a great house there are not only vessels of gold and silver, but also of wood and clay; and some are for honor; and some are for dishonor.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "63002021",
+    "b": 63,
+    "c": 2,
+    "v": 21,
+    "t": "Therefore, if anyone has purged himself from these, he will be a vessel for honor, having been sanctified and made serviceable to the Master, and having been prepared for every good work.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "63002022",
+    "b": 63,
+    "c": 2,
+    "v": 22,
+    "t": "But flee youthful lusts; and pursue righteousness, faith, love and peace with those who are calling on the Lord out of a pure heart.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "63002023",
+    "b": 63,
+    "c": 2,
+    "v": 23,
+    "t": "But foolish and ignorant speculations reject, knowing that they engender arguments.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "63002024",
+    "b": 63,
+    "c": 2,
+    "v": 24,
+    "t": "Now it is obligatory that a servant of the Lord not be argumentative, but gentle toward all, competent to teach, forbearing,",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "63002025",
+    "b": 63,
+    "c": 2,
+    "v": 25,
+    "t": "In meekness correcting those who set themselves in opposition; if perhaps God may grant them repentance unto acknowledging of the truth,",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "63002026",
+    "b": 63,
+    "c": 2,
+    "v": 26,
+    "t": "And that they may wake up and escape from the devil’s snare, who have been taken captive by him to do his will.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "63003001",
+    "b": 63,
+    "c": 3,
+    "v": 1,
+    "t": "Know this also, that in the last days perilous times shall come;",
+    "h": "CHAPTER THREE",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "63003002",
+    "b": 63,
+    "c": 3,
+    "v": 2,
+    "t": "For men will be lovers of self, lovers of money, braggarts, proud, blasphemers, disobedient to parents, unthankful, unholy,",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "63003003",
+    "b": 63,
+    "c": 3,
+    "v": 3,
+    "t": "Without natural affection, implacable, slanderers, without self-control, savage, despisers of those who are good,",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "63003004",
+    "b": 63,
+    "c": 3,
+    "v": 4,
+    "t": "Betrayers, reckless, egotistical, lovers of pleasure rather than lovers of God;",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "63003005",
+    "b": 63,
+    "c": 3,
+    "v": 5,
+    "t": "Having an outward appearance of godliness, but denying the power of true godliness. But as for you, turn away from all these.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "63003006",
+    "b": 63,
+    "c": 3,
+    "v": 6,
+    "t": "For from men such as these come those who are worming their way into houses, and are gaining control over empty-headed gullible women given over to various sins, being driven by all kinds of lust.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "63003007",
+    "b": 63,
+    "c": 3,
+    "v": 7,
+    "t": "They are always learning but are never able to come to the knowledge of the truth.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "63003008",
+    "b": 63,
+    "c": 3,
+    "v": 8,
+    "t": "Now just as Jannes and Jambres stood against Moses, in the same manner also these are brazenly standing against the truth; they are men of depraved minds, reprobate in respect to the faith.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "63003009",
+    "b": 63,
+    "c": 3,
+    "v": 9,
+    "t": "But they will proceed no further, because their folly will become clearly evident to everyone, just as theirs also was.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "63003010",
+    "b": 63,
+    "c": 3,
+    "v": 10,
+    "t": "But you have closely followed my doctrine, conduct, purpose, faith, patience, love, endurance,",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "63003011",
+    "b": 63,
+    "c": 3,
+    "v": 11,
+    "t": "Persecutions and sufferings—such as happened to me in Antioch, in Iconium, and in Lystra. You know what sort of persecutions I endured; and the Lord delivered me out of them all.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "63003012",
+    "b": 63,
+    "c": 3,
+    "v": 12,
+    "t": "And indeed, everyone who desires to live godly in Christ Jesus shall be persecuted.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "63003013",
+    "b": 63,
+    "c": 3,
+    "v": 13,
+    "t": "But wicked men and imposters shall become worse and worse, deceiving others and being deceived themselves.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "63003014",
+    "b": 63,
+    "c": 3,
+    "v": 14,
+    "t": "But as for you, continue in the things that you did learn and were assured of, knowing from whom you have learned them ;",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "63003015",
+    "b": 63,
+    "c": 3,
+    "v": 15,
+    "t": "And that from a child you have known the Holy Writings, which are able to make you wise unto salvation through faith, which is in Christ Jesus.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "63003016",
+    "b": 63,
+    "c": 3,
+    "v": 16,
+    "t": "All Scripture is God-breathed and is profitable for doctrine, for conviction, for correction, for instruction in righteousness;",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "63003017",
+    "b": 63,
+    "c": 3,
+    "v": 17,
+    "t": "So that the man of God may be complete, fully equipped for every good work.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "63004001",
+    "b": 63,
+    "c": 4,
+    "v": 1,
+    "t": "I charge you, therefore, in the sight of God, even the Lord Jesus Christ, Who is ready to judge the living and the dead at His appearing and His kingdom:",
+    "h": "CHAPTER FOUR",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "63004002",
+    "b": 63,
+    "c": 4,
+    "v": 2,
+    "t": "Preach the Word! Be urgent in season and out of season; convict, rebuke, encourage, with all patience and doctrine.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "63004003",
+    "b": 63,
+    "c": 4,
+    "v": 3,
+    "t": "For there shall come a time when they will not tolerate sound doctrine; but according to their own lusts they shall accumulate to themselves a great number of teachers, having ears itching to hear what satisfies their cravings ;",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "63004004",
+    "b": 63,
+    "c": 4,
+    "v": 4,
+    "t": "And they shall turn away their own ears from the truth; and they shall be turned aside unto myths.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "63004005",
+    "b": 63,
+    "c": 4,
+    "v": 5,
+    "t": "But as for you, be vigilant in all things, endure hardships, do the work of an evangelist; fully carry out your ministry.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "63004006",
+    "b": 63,
+    "c": 4,
+    "v": 6,
+    "t": "For I am now ready to be offered, and the time of my departure is at hand.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "63004007",
+    "b": 63,
+    "c": 4,
+    "v": 7,
+    "t": "I have fought a good fight; I have finished the course; I have kept the faith.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "63004008",
+    "b": 63,
+    "c": 4,
+    "v": 8,
+    "t": "From this time forward, a crown of righteousness is laid up for me, which the Lord, the righteous Judge, shall give me in that day—and not to me only, but also to all who love His appearing.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "63004009",
+    "b": 63,
+    "c": 4,
+    "v": 9,
+    "t": "Be diligent to come to me quickly;",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "63004010",
+    "b": 63,
+    "c": 4,
+    "v": 10,
+    "t": "For Demas has forsaken me, having loved this present age, and has gone to Thessalonica; Crescens, to Galatia; Titus, to Dalmatia.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "63004011",
+    "b": 63,
+    "c": 4,
+    "v": 11,
+    "t": "Only Luke is with me. Get Mark and bring him with you, because he is profitable to me for the ministry of the Word.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "63004012",
+    "b": 63,
+    "c": 4,
+    "v": 12,
+    "t": "But I have sent Tychicus to Ephesus.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "63004013",
+    "b": 63,
+    "c": 4,
+    "v": 13,
+    "t": "When you come, bring the chest that I left in Troas with Carpus, and the books—especially the parchments.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "63004014",
+    "b": 63,
+    "c": 4,
+    "v": 14,
+    "t": "Alexander the coppersmith did many evil things against me. May the Lord reward him according to his works.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "63004015",
+    "b": 63,
+    "c": 4,
+    "v": 15,
+    "t": "You also be on guard against him because he vehemently opposed our words.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "63004016",
+    "b": 63,
+    "c": 4,
+    "v": 16,
+    "t": "During my first defense, no one stood with me; instead, everyone deserted me. ( I pray that God will not lay it to their charge.)",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "63004017",
+    "b": 63,
+    "c": 4,
+    "v": 17,
+    "t": "But the Lord stood by me and strengthened me, so that through me the proclamation might be fully made, and all the Gentiles might hear the gospel ; and I was delivered out of the lion’s mouth.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "63004018",
+    "b": 63,
+    "c": 4,
+    "v": 18,
+    "t": "And the Lord will deliver me from every wicked deed and will preserve me for His heavenly kingdom; to Whom be the glory into the ages of eternity. Amen.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "63004019",
+    "b": 63,
+    "c": 4,
+    "v": 19,
+    "t": "Salute Prisca and Aquila, and the household of Onesiphorus.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "63004020",
+    "b": 63,
+    "c": 4,
+    "v": 20,
+    "t": "Erastus remained in Corinth, but Trophimus I left in Miletus because he was sick.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "63004021",
+    "b": 63,
+    "c": 4,
+    "v": 21,
+    "t": "Make every effort to come before winter. Eubulus salutes you, and Pudens, and Linus, and Claudia; and all the brethren salute you.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "63004022",
+    "b": 63,
+    "c": 4,
+    "v": 22,
+    "t": "The Lord Jesus Christ be with your spirit. Grace be with you. Amen. The second epistle to Timothy, who was chosen first overseer of the church of the Ephesians, written from Rome when Paul was brought a second time before Caesar Nero",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  }
+]

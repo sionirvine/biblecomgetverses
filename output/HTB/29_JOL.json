@@ -1,0 +1,732 @@
+[
+  {
+    "id": "29001001",
+    "b": 29,
+    "c": 1,
+    "v": 1,
+    "t": "Joël, de zoon van Pethuël, ontving deze boodschap van de HERE :",
+    "h": "Sprinkhanen over het land",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "29001002",
+    "b": 29,
+    "c": 1,
+    "v": 2,
+    "t": "Luister, leiders van mijn volk! Ja, laat iedereen luisteren! Hebt u ooit in uw leven of voor zover u zich uit de geschiedenis kunt herinneren, gehoord van wat Ik u nu ga vertellen?",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "29001003",
+    "b": 29,
+    "c": 1,
+    "v": 3,
+    "t": "Vertel het in de toekomst aan uw kinderen. Geef dit vreselijke verhaal door van generatie op generatie.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "29001004",
+    "b": 29,
+    "c": 1,
+    "v": 4,
+    "t": "Nadat de knaagsprinkhanen uw gewassen hebben opgegeten, zullen de gewone sprinkhanen komen om de rest kaal te vreten. En na hen zullen de roofsprinkhanen komen! En daarna ook nog de veldsprinkhanen!",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "29001005",
+    "b": 29,
+    "c": 1,
+    "v": 5,
+    "t": "Word wakker, dronkaards, want alle druiven zijn opgevreten en uw wijn is van u weggenomen.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "29001006",
+    "b": 29,
+    "c": 1,
+    "v": 6,
+    "t": "Een reusachtige zwerm sprinkhanen is neergestreken op het land. Het is een machtig, ontelbaar leger, met tanden zo scherp als die van een leeuw.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "29001007",
+    "b": 29,
+    "c": 1,
+    "v": 7,
+    "t": "Het heeft mijn wijnstok vernield en de schors van mijn vijgenboom afgestroopt. Alleen de stam en zijn naakte, witte ranken zijn nog over.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "29001008",
+    "b": 29,
+    "c": 1,
+    "v": 8,
+    "t": "Huil bittere tranen en trek rouwkleren aan als een bruid bij de dood van haar bruidegom.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "29001009",
+    "b": 29,
+    "c": 1,
+    "v": 9,
+    "t": "Wég zijn alle graanoffers en sprenkeloffers die voor de tempel van de HERE waren bestemd. De priesters komen om van de honger. Luister maar naar het hulpgeroep van deze dienaren van de HERE.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "29001010",
+    "b": 29,
+    "c": 1,
+    "v": 10,
+    "t": "De velden zijn verwoest. De aarde treurt, want al het koren is verdwenen, de jonge wijn opgedroogd en de voorraad olijfolie sterk geslonken.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "29001011",
+    "b": 29,
+    "c": 1,
+    "v": 11,
+    "t": "Die het land bewerken, mogen zich inderdaad verslagen voelen. Want de tarwe en de gerst, ja, de hele oogst is verloren gegaan. De wijnbouwers mogen gerust hun tranen laten vloeien.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "29001012",
+    "b": 29,
+    "c": 1,
+    "v": 12,
+    "t": "De wijnstokken zijn verdord, de vijgebomen stervend. De granaatappelbomen en palmen verdrogen en de appels verschrompelen aan de boom. Alle vreugde is met hen verdord.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "29001013",
+    "b": 29,
+    "c": 1,
+    "v": 13,
+    "t": "Priesters, trek uw rouwkleding aan. Dienaren van mijn God, ga de hele nacht huilend voor het altaar op de grond liggen. Want er zijn geen graanoffers en geen sprenkeloffers meer voor u overgebleven.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "29001014",
+    "b": 29,
+    "c": 1,
+    "v": 14,
+    "t": "Roep een heilige vastentijd uit. Houd een plechtige bijeenkomst. Verzamel de leiders en de hele bevolking in de tempel van de HERE, uw God, en roep Hem aan.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "29001015",
+    "b": 29,
+    "c": 1,
+    "v": 15,
+    "t": "Pas op, die vreselijke dag van de HERE komt dichterbij. De Almachtige stuurt bijna zijn verwoesting.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "29001016",
+    "b": 29,
+    "c": 1,
+    "v": 16,
+    "t": "Ons voedsel zal voor onze ogen verdwijnen. Alle vertoon van blijdschap en vreugde in de tempel van God zal tot het verleden behoren.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "29001017",
+    "b": 29,
+    "c": 1,
+    "v": 17,
+    "t": "Het zaad ligt in de grond te verschrompelen, de voorraadschuren en graanopslagplaatsen zijn leeg en het koren op het veld is verdroogd.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "29001018",
+    "b": 29,
+    "c": 1,
+    "v": 18,
+    "t": "Hoor het vee eens jammeren van de honger! Kudden runderen dwalen rond, maar vinden nergens een weide. Zelfs de schapen hebben zwaar te lijden.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "29001019",
+    "b": 29,
+    "c": 1,
+    "v": 19,
+    "t": "HERE, help ons! Door de verzengende hitte zijn alle weiden vergeeld en alle bomen verschroeid.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "29001020",
+    "b": 29,
+    "c": 1,
+    "v": 20,
+    "t": "Zelfs de wilde dieren roepen tot U om hulp, want de beken liggen droog en alle weiden zijn verbrand.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "29002001",
+    "b": 29,
+    "c": 2,
+    "v": 1,
+    "t": "Blaas op de trompet in Jeruzalem! Sla alarm op mijn heilige berg! Laat iedereen beven van angst, want de dag van de HERE komt dichterbij. Hij breekt bijna aan!",
+    "h": "Oproep tot berouw",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "29002002",
+    "b": 29,
+    "c": 2,
+    "v": 2,
+    "t": "Het is een dag van dikke duisternis, donkerheid en zwarte wolken. En wat een reusachtig leger! Het overdekt de bergen alsof het morgenrood zich erover verspreidt. Nog nooit heeft men zoiets gezien en zoiets zál ook nooit meer worden gezien in alle komende generaties op deze aarde!",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "29002003",
+    "b": 29,
+    "c": 2,
+    "v": 3,
+    "t": "Vuur gaat voor hen uit en laait ook achter hen op. Vóór hen is het land zo mooi als de hof van Eden, maar wanneer ze voorbij zijn, ligt er niets dan een woestenij. Het is onmogelijk aan hen te ontsnappen.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "29002004",
+    "b": 29,
+    "c": 2,
+    "v": 4,
+    "t": "Zij zien eruit als paarden en rennen razendsnel.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "29002005",
+    "b": 29,
+    "c": 2,
+    "v": 5,
+    "t": "Zij maken een herrie als ratelende wagens die over de toppen van de bergen jakkeren. Zij bulderen als vuur dat een stoppelveld verteert. Zij lijken op een machtig leger dat in slagorde staat opgesteld, klaar voor de strijd.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "29002006",
+    "b": 29,
+    "c": 2,
+    "v": 6,
+    "t": "Bij hun naderen breekt alle volken het koude zweet uit en alle gezichten verbleken van angst.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "29002007",
+    "b": 29,
+    "c": 2,
+    "v": 7,
+    "t": "Als soldaten van de infanterie voeren ze charges uit. Zij beklimmen de muur als ervaren strijders. Zij gaan recht vooruit, zonder elkaar voor de voeten te lopen of te verdringen.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "29002008",
+    "b": 29,
+    "c": 2,
+    "v": 8,
+    "t": "Elk gaat zijn eigen weg. Geen wapen kan hen tegenhouden en in hun gelederen ontstaan geen openingen.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "29002009",
+    "b": 29,
+    "c": 2,
+    "v": 9,
+    "t": "Zij stormen op de stad aan, klimmen tegen de muren op en dringen door de vensters als een dief de huizen binnen.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "29002010",
+    "b": 29,
+    "c": 2,
+    "v": 10,
+    "t": "De aarde beeft voor hun komst en de hemel trilt van angst. De zon en de maan worden verduisterd en de sterren verbleken.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "29002011",
+    "b": 29,
+    "c": 2,
+    "v": 11,
+    "t": "De HERE laat zijn stem horen. Hij trekt op aan de spits van zijn leger. Het is een enorme troepenmacht en deze gehoorzaamt zijn bevelen. De dag van de HERE zal een verschrikkelijke, huiveringwekkende dag zijn. Wie kan hem verdragen?",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "29002012",
+    "b": 29,
+    "c": 2,
+    "v": 12,
+    "t": "Daarom zegt de HERE : ‘Kom nu bij Mij terug, nu kan het nog. Geef Mij heel uw hart. Kom met vasten, tranen en in rouw.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "29002013",
+    "b": 29,
+    "c": 2,
+    "v": 13,
+    "t": "Scheur van verdriet uw hart, niet uw kleren!’ Ga terug naar de HERE, uw God, want Hij is genadig en heeft medelijden. Hij is geduldig, vol liefde en goedheid en heeft berouw over de toegezegde straf.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "29002014",
+    "b": 29,
+    "c": 2,
+    "v": 14,
+    "t": "Wie weet of Hij niet op zijn schreden terugkeert en berouw heeft en u zal zegenen. Misschien zal Hij u zo rijk zegenen dat er voldoende voedsel overblijft om de HERE, uw God, net als vroeger koren en wijn te offeren!",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "29002015",
+    "b": 29,
+    "c": 2,
+    "v": 15,
+    "t": "Blaas op de trompet in Sion! Roep een heilige vastentijd uit. Laat een plechtige bijeenkomst houden.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "29002016",
+    "b": 29,
+    "c": 2,
+    "v": 16,
+    "t": "Verzamel iedereen, ouderen en jongeren, kinderen en zuigelingen. Laat de bruidegom uit zijn kamer komen en de bruid het bruidsvertrek verlaten. Het moet een heilige bijeenkomst zijn.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "29002017",
+    "b": 29,
+    "c": 2,
+    "v": 17,
+    "t": "Laat de priesters, de dienaren van de HERE, die tussen het volk en het altaar staan, onder tranen bidden: ‘O HERE, red uw volk. Geef het niet prijs aan de heidenen, want uw volk is van U. Laat het niet het mikpunt van spot van de heidenen worden. Want zij zouden ons belachelijk maken door te zeggen: “Waar is nu hun God?” ’",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "29002018",
+    "b": 29,
+    "c": 2,
+    "v": 18,
+    "t": "Dan zal de HERE het opnemen voor zijn land en medelijden hebben met zijn volk.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "29002019",
+    "b": 29,
+    "c": 2,
+    "v": 19,
+    "t": "Hij zal u antwoorden: ‘Luister, Ik zal u koren, jonge wijn en olijfolie geven, u zult meer dan voldoende hebben. Ik zal u niet meer overgeven aan andere volken en laten bespotten.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "29002020",
+    "b": 29,
+    "c": 2,
+    "v": 20,
+    "t": "Ik zal die legers uit het noorden verdrijven en hen wegjagen naar een dorre wildernis waar zij zullen sterven. De ene helft zal in de Dode Zee worden gedreven en de andere helft in de Middellandse Zee. Daar zal hun rottingslucht opstijgen. God heeft voor u een groot wonder gedaan.’",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "29002021",
+    "b": 29,
+    "c": 2,
+    "v": 21,
+    "t": "Wees niet bang, mijn volk, juich van vreugde. Want de HERE heeft grote dingen voor u gedaan.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "29002022",
+    "b": 29,
+    "c": 2,
+    "v": 22,
+    "t": "Laten de wilde dieren hun honger vergeten, want de weiden zullen weer groen worden en de bomen zullen weer uitbotten. De vijgenboom en de wijnstok zullen vrucht dragen, net als vroeger.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "29002023",
+    "b": 29,
+    "c": 2,
+    "v": 23,
+    "t": "Wees blij, inwoners van Jeruzalem, en verheug u in de HERE, uw God. Hij geeft u weer de heilzame regen als teken van zijn vergeving. Net als vroeger zal Hij zowel de voorjaarsregens als de najaarsregens laten vallen.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "29002024",
+    "b": 29,
+    "c": 2,
+    "v": 24,
+    "t": "Het koren zal hoog liggen opgestapeld op de dorsvloeren en de perskuipen zullen overstromen van jonge wijn en olijfolie.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "29002025",
+    "b": 29,
+    "c": 2,
+    "v": 25,
+    "t": "‘Ik zal u de oogsten vergoeden die de sprinkhanen al die jaren hebben opgegeten. U krijgt terug wat verloren ging door die grote legermacht die Ik op u had losgelaten.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "29002026",
+    "b": 29,
+    "c": 2,
+    "v": 26,
+    "t": "U zult weer ruimschoots voldoende voedsel hebben. Dan zult u de HERE, uw God, loven om de wonderen die Hij voor u heeft gedaan.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "29002027",
+    "b": 29,
+    "c": 2,
+    "v": 27,
+    "t": "En u zult weten dat Ik hier bij mijn volk Israël ben en dat Ik alleen de HERE, uw God, ben. Mijn volk zal nooit meer zoʼn ramp als deze te verwerken krijgen.",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "29002028",
+    "b": 29,
+    "c": 2,
+    "v": 28,
+    "t": "En daarna zal Ik mijn Geest over alle mensen uitstorten. Uw zonen en dochters zullen Gods woorden spreken. Oudere mannen zullen betekenisvolle dromen hebben en uw jonge mannen zullen visioenen zien.",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "29002029",
+    "b": 29,
+    "c": 2,
+    "v": 29,
+    "t": "Ik zal mijn Geest óók uitstorten op uw slaven, mannen zowel als vrouwen,",
+    "h": "",
+    "o": 29,
+    "l": "29"
+  },
+  {
+    "id": "29002030",
+    "b": 29,
+    "c": 2,
+    "v": 30,
+    "t": "en Ik zal wonderlijke dingen laten gebeuren in de hemel en op de aarde: bloed, vuur en rookwolken.",
+    "h": "",
+    "o": 30,
+    "l": "30"
+  },
+  {
+    "id": "29002031",
+    "b": 29,
+    "c": 2,
+    "v": 31,
+    "t": "De zon zal veranderen in duisternis en de maan in bloed, voordat die grote en ontzagwekkende dag van de HERE aanbreekt.",
+    "h": "",
+    "o": 31,
+    "l": "31"
+  },
+  {
+    "id": "29002032",
+    "b": 29,
+    "c": 2,
+    "v": 32,
+    "t": "Ieder die dan de naam van de HERE aanroept, zal gered worden, want de berg Sion en Jeruzalem zullen een toevluchtsoord zijn, zoals de HERE heeft beloofd. Want ieder die Hij, de HERE, roept, zal worden gered.’",
+    "h": "",
+    "o": 32,
+    "l": "32"
+  },
+  {
+    "id": "29003001",
+    "b": 29,
+    "c": 3,
+    "v": 1,
+    "t": "‘In die tijd, wanneer Ik het lot van Juda en Jeruzalem verander,’ zegt de HERE,",
+    "h": "Het proces tegen de volken",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "29003002",
+    "b": 29,
+    "c": 3,
+    "v": 2,
+    "t": "‘zal Ik alle volken van de wereld verzamelen in het “Dal waar de HERE oordeelt”. Ik zal daar een proces tegen hen aanspannen, omdat zij mijn volk kwaad hebben gedaan en mijn erfenis, Israël, over de hele wereld hebben verstrooid en mijn land onder elkaar hebben verdeeld.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "29003003",
+    "b": 29,
+    "c": 3,
+    "v": 3,
+    "t": "Zij hebben een deel van mijn volk tot slaaf gemaakt en verhandelden een jongen voor een prostituee en een meisje voor genoeg wijn om dronken van te worden.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "29003004",
+    "b": 29,
+    "c": 3,
+    "v": 4,
+    "t": "Probeer niet tussenbeide te komen, Tyrus en Sidon! Willen jullie wraak op Mij nemen, steden van de Filistijnen? Pas op of Ik zal snel terugslaan en de wraak op jullie eigen hoofden laten neerkomen!",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "29003005",
+    "b": 29,
+    "c": 3,
+    "v": 5,
+    "t": "Mijn zilver en goud en andere kostbare schatten hebben jullie weggenomen en naar de afgodentempels gebracht.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "29003006",
+    "b": 29,
+    "c": 3,
+    "v": 6,
+    "t": "Jullie hebben de inwoners van Juda en Jeruzalem verkocht aan de Grieken die hen meenamen, ver weg naar hun eigen land.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "29003007",
+    "b": 29,
+    "c": 3,
+    "v": 7,
+    "t": "Maar Ik zal hen weer terugbrengen uit al die plaatsen waarheen jullie hen hebben verkocht en Ik zal jullie je verdiende loon geven voor wat jullie hebben gedaan.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "29003008",
+    "b": 29,
+    "c": 3,
+    "v": 8,
+    "t": "Ik zal jullie zonen en dochters verkopen aan de mensen in Juda en zij zullen hen doorverkopen aan de Sabeeërs die ver weg wonen,’ zegt de HERE.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "29003009",
+    "b": 29,
+    "c": 3,
+    "v": 9,
+    "t": "Kondig dit wijd en zijd aan: maak u klaar voor de oorlog! Laten de beste soldaten aantreden en mobiliseer het leger!",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "29003010",
+    "b": 29,
+    "c": 3,
+    "v": 10,
+    "t": "Smelt uw ploegen en maak er zwaarden van. Van uw snoeimessen kunt u speren maken. Laten de zwakken dapper en sterk zijn.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "29003011",
+    "b": 29,
+    "c": 3,
+    "v": 11,
+    "t": "Maak u klaar en verzamel u, alle omringende volken. Ja, HERE, laat nú uw dappere strijders daarheen afdalen.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "29003012",
+    "b": 29,
+    "c": 3,
+    "v": 12,
+    "t": "‘Laten alle volken zich verzamelen in het “Dal waar de HERE oordeelt,” want daar zal Ik zitten om hen allemaal te vonnissen.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "29003013",
+    "b": 29,
+    "c": 3,
+    "v": 13,
+    "t": "Sla de sikkel er nu in, want het is tijd om te oogsten. Vooruit, trap de druiven plat in de perskuip, want hij is boordevol en stroomt zelfs over van de goddeloosheid van die mensen.’",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "29003014",
+    "b": 29,
+    "c": 3,
+    "v": 14,
+    "t": "Massaʼs mensen wachten in het dal op hun vonnis. Want de dag van de HERE komt eraan in het ‘Dal van het Oordeel.’",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "29003015",
+    "b": 29,
+    "c": 3,
+    "v": 15,
+    "t": "De zon en de maan zullen worden verduisterd en de sterren zullen verbleken.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "29003016",
+    "b": 29,
+    "c": 3,
+    "v": 16,
+    "t": "De HERE brult uit Sion en laat zijn stem in Jeruzalem weerklinken zodat de hemel en de aarde beven. Maar voor zijn volk Israël zal de HERE een toevluchtsoord zijn, een veilige vesting.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "29003017",
+    "b": 29,
+    "c": 3,
+    "v": 17,
+    "t": "‘Dan zult u eindelijk weten dat Ik, de HERE, uw God ben en mijn woonplaats is gevestigd op Sion, mijn heilige berg. Jeruzalem zal heilige grond zijn waarover geen vreemde legers meer zullen trekken.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "29003018",
+    "b": 29,
+    "c": 3,
+    "v": 18,
+    "t": "Dan zal jonge wijn van de bergen druipen en melk van de heuvels vloeien. De droge beekbeddingen van Juda zullen weer boordevol water staan en er zal een bron ontspringen in de tempel van de HERE om het dal van Sittim van water te voorzien.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "29003019",
+    "b": 29,
+    "c": 3,
+    "v": 19,
+    "t": "Egypte zal veranderen in een woestenij en Edom in een dorre wildernis vanwege het geweld dat zij de Judeeërs hebben aangedaan. Want in deze landen zijn onschuldige mensen vermoord.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "29003020",
+    "b": 29,
+    "c": 3,
+    "v": 20,
+    "t": "Maar Juda zal welvarend zijn tot in eeuwigheid en Jeruzalem zal een bloeiende stad zijn voor altijd.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "29003021",
+    "b": 29,
+    "c": 3,
+    "v": 21,
+    "t": "Ik zal de moorden op mijn volk wreken. Ik zal de onderdrukkers niet ongestraft laten gaan. Want mijn woonplaats is in Jeruzalem, bij mijn volk.’",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  }
+]

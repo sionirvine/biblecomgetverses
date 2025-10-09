@@ -1,0 +1,4992 @@
+[
+  {
+    "id": "6001001",
+    "b": 6,
+    "c": 1,
+    "v": 1,
+    "t": "Na de dood van zijn dienaar Mozes sprak de HERE tot Jozua, de zoon van Nun, die de rechterhand van Mozes was geweest. Hij zei tegen hem:",
+    "h": "Gods opdracht aan Jozua",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "6001002",
+    "b": 6,
+    "c": 1,
+    "v": 2,
+    "t": "‘Nu mijn dienaar Mozes is gestorven, bent u de nieuwe leider van Israël. Leid mijn volk over de Jordaan het beloofde land binnen.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "6001003",
+    "b": 6,
+    "c": 1,
+    "v": 3,
+    "t": "Wat Ik tegen Mozes heb gezegd, zeg Ik ook tegen u: “Elk stuk grond dat u betreedt, zal deel gaan uitmaken van het land Israël.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "6001004",
+    "b": 6,
+    "c": 1,
+    "v": 4,
+    "t": "Dit gebied zal zich uitstrekken van de Negev-woestijn in het zuiden tot het gebergte van de Libanon in het noorden en van de Middellandse Zee in het westen tot aan de rivier de Eufraat in het oosten. Ook het land van de Hethieten valt daaronder.”",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "6001005",
+    "b": 6,
+    "c": 1,
+    "v": 5,
+    "t": "Niemand zal u kunnen tegenhouden zolang u leeft, want Ik zal u helpen, zoals Ik Mozes heb geholpen. Ik laat u nooit in de steek, Ik zal altijd bij u blijven.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "6001006",
+    "b": 6,
+    "c": 1,
+    "v": 6,
+    "t": "Wees sterk en moedig, want u zult de leider van mijn volk zijn en u zult het helpen al het land te veroveren dat Ik aan zijn voorouders beloofde.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "6001007",
+    "b": 6,
+    "c": 1,
+    "v": 7,
+    "t": "U hoeft alleen sterk en moedig te zijn en heel de wet die Mozes u gaf, letterlijk te gehoorzamen. Als u dat doet, zal alles wat u onderneemt, gelukken.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "6001008",
+    "b": 6,
+    "c": 1,
+    "v": 8,
+    "t": "Houd het volk deze wetten steeds voor en denk er zelf dag en nacht over na, zodat u zeker weet dat u ze volledig naleeft. Want alleen dan zult u slagen.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "6001009",
+    "b": 6,
+    "c": 1,
+    "v": 9,
+    "t": "Ja, wees moedig en sterk! Ban angst en twijfel uit uw hart. Onthoud dat de HERE, uw God, u overal zal helpen.’",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "6001010",
+    "b": 6,
+    "c": 1,
+    "v": 10,
+    "t": "Toen gaf Jozua de leiders van Israël opdracht het volk te zeggen dat het zich moest klaarmaken voor de overtocht over de Jordaan. ‘Binnen drie dagen zullen wij oversteken en het land dat God ons heeft gegeven, veroveren en er gaan wonen!’ vertelde hij hun.",
+    "h": "",
+    "o": 10,
+    "l": "10-11"
+  },
+  {
+    "id": "6001011",
+    "b": 6,
+    "c": 1,
+    "v": 12,
+    "t": "Toen riep hij de leiders van de stammen Ruben, Gad en Manasse bij zich en herinnerde hen aan de opdracht die Mozes had gegeven: ‘De HERE, uw God, geeft u rust in uw eigen land aan deze zijde van de Jordaan.",
+    "h": "",
+    "o": 11,
+    "l": "12-13"
+  },
+  {
+    "id": "6001012",
+    "b": 6,
+    "c": 1,
+    "v": 14,
+    "t": "Daarom mogen uw vrouwen, kinderen en het vee hier blijven, maar uw troepen moeten volledig bewapend de andere stammen over de Jordaan leiden en hen helpen het land aan de overzijde van de rivier te veroveren,",
+    "h": "",
+    "o": 12,
+    "l": "14"
+  },
+  {
+    "id": "6001013",
+    "b": 6,
+    "c": 1,
+    "v": 15,
+    "t": "blijf bij hen tot de verovering is voltooid en uw broeders zich ook in alle rust kunnen vestigen. Pas dan mag u zich hier aan de oostzijde van de Jordaan vestigen.’",
+    "h": "",
+    "o": 13,
+    "l": "15"
+  },
+  {
+    "id": "6001014",
+    "b": 6,
+    "c": 1,
+    "v": 16,
+    "t": "Zij stemden daarmee in en beloofden Jozua als hun legeraanvoerder te gehoorzamen.",
+    "h": "",
+    "o": 14,
+    "l": "16"
+  },
+  {
+    "id": "6001015",
+    "b": 6,
+    "c": 1,
+    "v": 17,
+    "t": "‘Net zoals wij Mozes hebben gehoorzaamd, zullen wij u gehoorzamen,’ verzekerden zij hem, ‘en moge de HERE, uw God, u net zo helpen als Hij Mozes deed. Als ook maar iemand tegen uw bevelen in opstand komt, zal hij sterven. Ga ons voor en wees sterk en moedig!’",
+    "h": "",
+    "o": 15,
+    "l": "17-18"
+  },
+  {
+    "id": "6002001",
+    "b": 6,
+    "c": 2,
+    "v": 1,
+    "t": "Daarop stuurde Jozua twee spionnen vanuit het kamp bij Sittim de rivier over om het gebied aan de overkant van de rivier te verkennen, in het bijzonder Jericho. De spionnen vertrokken en gingen het huis binnen van Rachab, een prostituee. Zij wilden daar de nacht doorbrengen.",
+    "h": "Rachab biedt de spionnen onderdak",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "6002002",
+    "b": 6,
+    "c": 2,
+    "v": 2,
+    "t": "Maar iemand lichtte de koning van Jericho in dat twee Israëlieten, vermoedelijk spionnen, die avond waren aangekomen.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "6002003",
+    "b": 6,
+    "c": 2,
+    "v": 3,
+    "t": "De koning stuurde de mannen naar het huis van Rachab met de eis hen uit te leveren. ‘Het zijn spionnen,’ legden zij uit. ‘Zij zijn er door hun leiders op uitgestuurd om te ontdekken hoe zij ons het beste kunnen aanvallen.’",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "6002004",
+    "b": 6,
+    "c": 2,
+    "v": 4,
+    "t": "Zij had de mannen echter verborgen en zei tegen de aanvoerder van de groep: ‘Die mannen zijn hier inderdaad geweest, maar ik wist niet waar ze vandaan kwamen.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "6002005",
+    "b": 6,
+    "c": 2,
+    "v": 5,
+    "t": "Toen het donker werd, vlak voordat de stadspoorten werden gesloten, hebben zij de stad verlaten en ik weet niet waar ze naartoe gingen. Als u zich haast, kunt u hen waarschijnlijk nog wel inhalen!’",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "6002006",
+    "b": 6,
+    "c": 2,
+    "v": 6,
+    "t": "In werkelijkheid had zij de mannen naar het dak gebracht en verborgen onder vlasstengels die daar lagen te drogen.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "6002007",
+    "b": 6,
+    "c": 2,
+    "v": 7,
+    "t": "De mannen gingen de vermeende vluchtelingen achterna tot aan de Jordaan. De stadspoorten gingen achter hen dicht.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "6002008",
+    "b": 6,
+    "c": 2,
+    "v": 8,
+    "t": "Rachab ging intussen naar het dak om te praten met de mannen, voordat zij gingen slapen.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "6002009",
+    "b": 6,
+    "c": 2,
+    "v": 9,
+    "t": "Zij zei: ‘Ik weet heel goed dat uw God mijn land aan u gaat geven. Wij leven in grote angst voor u. Alle inwoners van dit land zijn verlamd door angst en radeloos.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "6002010",
+    "b": 6,
+    "c": 2,
+    "v": 10,
+    "t": "Wij hebben namelijk gehoord hoe de HERE voor u een pad door de Rietzee maakte na uw vertrek uit Egypte! En wij weten ook wat u deed met Sichon en Og, de twee Amoritische koningen ten oosten van de Jordaan, hoe u hun land onder de voet liep en hun hele volk uitroeide.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "6002011",
+    "b": 6,
+    "c": 2,
+    "v": 11,
+    "t": "Geen wonder dat wij bang zijn! Niemand heeft nog de moed te vechten als hij dat allemaal heeft gehoord. Want uw God regeert als God boven in de hemelen en beneden op de aarde.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "6002012",
+    "b": 6,
+    "c": 2,
+    "v": 12,
+    "t": "Ik wil u om één ding smeken: zweer mij bij de naam van uw God dat u bij de verovering van Jericho mij, mijn ouders en mijn broers en zusters met hun gezinnen in leven laat, omdat ik u heb geholpen.’",
+    "h": "",
+    "o": 12,
+    "l": "12-13"
+  },
+  {
+    "id": "6002013",
+    "b": 6,
+    "c": 2,
+    "v": 14,
+    "t": "De mannen antwoordden: ‘Als u ons niet verraadt, zullen wij ervoor zorgen dat u en uw familieleden niets overkomt. Wij zullen u dankbaarheid en trouw bewijzen en u met ons eigen leven beschermen.’",
+    "h": "",
+    "o": 13,
+    "l": "14"
+  },
+  {
+    "id": "6002014",
+    "b": 6,
+    "c": 2,
+    "v": 15,
+    "t": "Toen liet zij de mannen aan een touw langs de stadsmuur naar beneden zakken. Haar huis stond namelijk bovenop de muur.",
+    "h": "",
+    "o": 14,
+    "l": "15"
+  },
+  {
+    "id": "6002015",
+    "b": 6,
+    "c": 2,
+    "v": 16,
+    "t": "‘Vlucht naar de heuvels,’ raadde zij hun aan. ‘Verberg u daar drie dagen tot de mannen die u zoeken, zijn teruggekeerd. Daarna kunt u zonder gevaar teruggaan.’",
+    "h": "",
+    "o": 15,
+    "l": "16"
+  },
+  {
+    "id": "6002016",
+    "b": 6,
+    "c": 2,
+    "v": 17,
+    "t": "Voordat zij gingen, zeiden de mannen tegen haar: ‘Wij kunnen er niet voor instaan dat u niets overkomt als u niet bij de verovering dit rode koord uit het raam laat hangen. Zorg er ook voor dat al uw familieleden bij u in huis zijn.",
+    "h": "",
+    "o": 16,
+    "l": "17-18"
+  },
+  {
+    "id": "6002017",
+    "b": 6,
+    "c": 2,
+    "v": 19,
+    "t": "Als zij op straat komen, zijn wij niet verantwoordelijk voor de gevolgen. Maar wij zweren u dat niemand in dit huis zal worden gedood of verwond.",
+    "h": "",
+    "o": 17,
+    "l": "19"
+  },
+  {
+    "id": "6002018",
+    "b": 6,
+    "c": 2,
+    "v": 20,
+    "t": "Als u ons echter verraadt, zullen wij niet langer aan deze eed gebonden zijn.’",
+    "h": "",
+    "o": 18,
+    "l": "20"
+  },
+  {
+    "id": "6002019",
+    "b": 6,
+    "c": 2,
+    "v": 21,
+    "t": "‘Dat beloof ik,’ antwoordde zij. En zij hing het rode koord uit het raam.",
+    "h": "",
+    "o": 19,
+    "l": "21"
+  },
+  {
+    "id": "6002020",
+    "b": 6,
+    "c": 2,
+    "v": 22,
+    "t": "De spionnen trokken de heuvels in en bleven daar drie dagen, totdat de achtervolgers na een vruchteloze speuractie naar de stad waren teruggekeerd.",
+    "h": "",
+    "o": 20,
+    "l": "22"
+  },
+  {
+    "id": "6002021",
+    "b": 6,
+    "c": 2,
+    "v": 23,
+    "t": "Toen kwamen de twee spionnen uit de heuvels, staken de rivier over en brachten Jozua verslag uit over wat er was gebeurd.",
+    "h": "",
+    "o": 21,
+    "l": "23"
+  },
+  {
+    "id": "6002022",
+    "b": 6,
+    "c": 2,
+    "v": 24,
+    "t": "‘De HERE zal ons vast en zeker het hele land in handen geven,’ zeiden zij, ‘want alle inwoners zijn nu al vreselijk bang voor ons.’",
+    "h": "",
+    "o": 22,
+    "l": "24"
+  },
+  {
+    "id": "6003001",
+    "b": 6,
+    "c": 3,
+    "v": 1,
+    "t": "De volgende morgen in alle vroegte, verlieten Jozua en het hele volk Sittim. Diezelfde avond bereikten zij de oever van de Jordaan, waar zij enige dagen hun kamp opsloegen alvorens over te steken.",
+    "h": "De overtocht door de Jordaan",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "6003002",
+    "b": 6,
+    "c": 3,
+    "v": 2,
+    "t": "Op de derde dag gingen enkele aanvoerders het kamp door en gaven de volgende instructies: ‘Wanneer u de Levitische priesters de ark van het verbond met de HERE, uw God, ziet dragen, volg hen dan. Waar wij heengaan, bent u nog nooit geweest, daarom zullen zij u de weg wijzen. Blijf echter ongeveer een kilometer achter hen, met een duidelijke ruimte tussen de ark en u, zorg ervoor dat u niet dichterbij komt.’",
+    "h": "",
+    "o": 2,
+    "l": "2-4"
+  },
+  {
+    "id": "6003003",
+    "b": 6,
+    "c": 3,
+    "v": 5,
+    "t": "Toen droeg Jozua iedereen op zich te heiligen. ‘Morgen,’ zei hij, ‘zal de HERE een groot wonder verrichten.’",
+    "h": "",
+    "o": 3,
+    "l": "5"
+  },
+  {
+    "id": "6003004",
+    "b": 6,
+    "c": 3,
+    "v": 6,
+    "t": "De volgende ochtend gaf Jozua de priesters de opdracht: ‘Neem de ark op en leid ons over de rivier!’ En zo gingen zij vóór het volk uit.",
+    "h": "",
+    "o": 4,
+    "l": "6"
+  },
+  {
+    "id": "6003005",
+    "b": 6,
+    "c": 3,
+    "v": 7,
+    "t": "‘Vandaag,’ zei de HERE tegen Jozua, ‘zal Ik u grote eer geven, zodat heel Israël weet dat Ik net zo met u ben als Ik met Mozes was.",
+    "h": "",
+    "o": 5,
+    "l": "7"
+  },
+  {
+    "id": "6003006",
+    "b": 6,
+    "c": 3,
+    "v": 8,
+    "t": "Geef de priesters die de ark dragen, opdracht dat zij in het water gaan staan zodra ze bij de oever van de Jordaan zijn aangekomen.’",
+    "h": "",
+    "o": 6,
+    "l": "8"
+  },
+  {
+    "id": "6003007",
+    "b": 6,
+    "c": 3,
+    "v": 9,
+    "t": "Jozua riep het volk bijeen en zei: ‘Kom hier en luister naar wat de HERE, uw God, heeft gezegd.",
+    "h": "",
+    "o": 7,
+    "l": "9"
+  },
+  {
+    "id": "6003008",
+    "b": 6,
+    "c": 3,
+    "v": 10,
+    "t": "Vandaag zal het u duidelijk worden dat de levende God in uw midden is en dat Hij vast en zeker de Kanaänieten, Hethieten, Chiwwieten, Perizzieten, Girgasieten, Amorieten en Jebusieten zal verdrijven.",
+    "h": "",
+    "o": 8,
+    "l": "10"
+  },
+  {
+    "id": "6003009",
+    "b": 6,
+    "c": 3,
+    "v": 11,
+    "t": "Want de ark van het verbond van God, die de HERE van de hele aarde is, zal u over de rivier leiden!",
+    "h": "",
+    "o": 9,
+    "l": "11"
+  },
+  {
+    "id": "6003010",
+    "b": 6,
+    "c": 3,
+    "v": 12,
+    "t": "Kies nu twaalf mannen, één uit elke stam, voor een speciale opdracht.",
+    "h": "",
+    "o": 10,
+    "l": "12"
+  },
+  {
+    "id": "6003011",
+    "b": 6,
+    "c": 3,
+    "v": 13,
+    "t": "Wanneer de priesters die de ark van de HERE dragen met hun voeten het water aanraken, zal de rivier ophouden met stromen. Het water dat van bovenaf komt, zal als een dam blijven staan!’ Dit gebeurde in het oogstseizoen en de Jordaan was al buiten zijn oevers getreden. Toen het volk zich in beweging zette en de voeten van de priesters die de ark van het verbond droegen het water raakten,",
+    "h": "",
+    "o": 11,
+    "l": "13-14"
+  },
+  {
+    "id": "6003012",
+    "b": 6,
+    "c": 3,
+    "v": 15,
+    "t": "begon het rivierwater zich plotseling ver stroomopwaarts bij de stad Adam, dichtbij Zarethan, op te hopen alsof het een dam was! Het water beneden dat punt stroomde verder naar de Zoutzee, tot de rivierbedding droog stond. Toen stak het hele volk de rivier over ter hoogte van Jericho.",
+    "h": "",
+    "o": 12,
+    "l": "15-16"
+  },
+  {
+    "id": "6003013",
+    "b": 6,
+    "c": 3,
+    "v": 17,
+    "t": "De priesters die de ark droegen, stonden op het droge midden in de Jordaan en bleven daar, terwijl het hele volk aan hen voorbij trok.",
+    "h": "",
+    "o": 13,
+    "l": "17"
+  },
+  {
+    "id": "6004001",
+    "b": 6,
+    "c": 4,
+    "v": 1,
+    "t": "Nadat het hele volk aan de overkant van de Jordaan was aangekomen, zei de HERE tegen Jozua:",
+    "h": "Het gedenkteken",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "6004002",
+    "b": 6,
+    "c": 4,
+    "v": 2,
+    "t": "‘Laten de twaalf mannen die werden gekozen voor een speciale opdracht—uit elke stam één—ieder een steen opnemen van de plaats waar de priesters in het midden van de Jordaan staan. Zij moeten die stenen op de oever brengen en opstapelen als een gedenkteken op de plaats waar u vannacht uw kamp opslaat.’",
+    "h": "",
+    "o": 2,
+    "l": "2-3"
+  },
+  {
+    "id": "6004003",
+    "b": 6,
+    "c": 4,
+    "v": 4,
+    "t": "Jozua riep de twaalf mannen bij zich",
+    "h": "",
+    "o": 3,
+    "l": "4"
+  },
+  {
+    "id": "6004004",
+    "b": 6,
+    "c": 4,
+    "v": 5,
+    "t": "en zei: ‘Ga naar het midden van de Jordaan waar de ark van de HERE is. Ieder van u moet daar een steen op zijn schouder nemen en op de oever brengen, twaalf stenen in totaal, één voor elk van de twaalf stammen.",
+    "h": "",
+    "o": 4,
+    "l": "5"
+  },
+  {
+    "id": "6004005",
+    "b": 6,
+    "c": 4,
+    "v": 6,
+    "t": "Wij zullen die gebruiken om een gedenkteken op te richten. En als onze kinderen later vragen: “Waarvoor dient dat gedenkteken?”",
+    "h": "",
+    "o": 5,
+    "l": "6"
+  },
+  {
+    "id": "6004006",
+    "b": 6,
+    "c": 4,
+    "v": 7,
+    "t": "kunt u hun vertellen: “Dat is om ons eraan te herinneren dat de Jordaan ophield met stromen toen de ark van het verbond de rivier overstak!” Het gedenkteken zal een voortdurende herinnering zijn aan dit verbazingwekkende wonder.’",
+    "h": "",
+    "o": 6,
+    "l": "7"
+  },
+  {
+    "id": "6004007",
+    "b": 6,
+    "c": 4,
+    "v": 8,
+    "t": "De mannen deden wat Jozua hun had opgedragen. Zij haalden twaalf stenen uit het midden van de Jordaan, voor elke stam één, zoals de HERE Jozua had bevolen. Zij brachten de stenen naar de plaats waar het kamp voor die nacht was opgeslagen en maakten er een gedenkteken van.",
+    "h": "",
+    "o": 7,
+    "l": "8"
+  },
+  {
+    "id": "6004008",
+    "b": 6,
+    "c": 4,
+    "v": 9,
+    "t": "Jozua bouwde nóg een gedenkteken van twaalf stenen midden in de rivier, op de plaats waar de priesters stonden. En dat staat er vandaag nog.",
+    "h": "",
+    "o": 8,
+    "l": "9"
+  },
+  {
+    "id": "6004009",
+    "b": 6,
+    "c": 4,
+    "v": 10,
+    "t": "De priesters die de ark droegen, bleven in het midden van de Jordaan staan tot al deze aanwijzingen die de HERE aan Jozua had gegeven, waren uitgevoerd. Ondertussen waren de andere Israëlieten snel door de rivierbedding getrokken.",
+    "h": "",
+    "o": 9,
+    "l": "10"
+  },
+  {
+    "id": "6004010",
+    "b": 6,
+    "c": 4,
+    "v": 11,
+    "t": "Toen iedereen de overkant had bereikt, keken de mensen toe hoe de priesters de ark van de HERE de oever opdroegen.",
+    "h": "",
+    "o": 10,
+    "l": "11"
+  },
+  {
+    "id": "6004011",
+    "b": 6,
+    "c": 4,
+    "v": 12,
+    "t": "Daarop trokken de troepen van Ruben, Gad en Manasse, in totaal veertigduizend gewapende mannen, aan het hoofd van het leger van de HERE de rivier over en leidden het volk naar de vlakte van Jericho.",
+    "h": "",
+    "o": 11,
+    "l": "12-13"
+  },
+  {
+    "id": "6004012",
+    "b": 6,
+    "c": 4,
+    "v": 14,
+    "t": "Voor Jozua was het een geweldige dag, want de HERE had hem voor de ogen van het hele volk als leider bevestigd en zij kregen voor de rest van zijn leven net zoveel ontzag voor hem als zij voor Mozes hadden.",
+    "h": "",
+    "o": 12,
+    "l": "14"
+  },
+  {
+    "id": "6004013",
+    "b": 6,
+    "c": 4,
+    "v": 15,
+    "t": "Jozua had immers op bevel van de HERE de priesters die de ark van het getuigenis droegen, de opdracht gegeven: ‘Kom uit de Jordaanbedding naar boven.’",
+    "h": "",
+    "o": 13,
+    "l": "15-17"
+  },
+  {
+    "id": "6004014",
+    "b": 6,
+    "c": 4,
+    "v": 18,
+    "t": "Zodra de priesters die de ark van het verbond droegen, op het droge waren aangekomen, kwam het water weer opzetten en stroomde het langs de oevers van de rivier als voorheen!",
+    "h": "",
+    "o": 14,
+    "l": "18"
+  },
+  {
+    "id": "6004015",
+    "b": 6,
+    "c": 4,
+    "v": 19,
+    "t": "Dit wonder gebeurde op de tiende dag van de eerste maand. Die dag stak het hele volk de Jordaan over en sloeg het kamp op bij Gilgal, aan de oostgrens van de stad Jericho.",
+    "h": "",
+    "o": 15,
+    "l": "19"
+  },
+  {
+    "id": "6004016",
+    "b": 6,
+    "c": 4,
+    "v": 20,
+    "t": "Daar werden de twaalf stenen uit de Jordaan opgestapeld als een gedenkteken.",
+    "h": "",
+    "o": 16,
+    "l": "20"
+  },
+  {
+    "id": "6004017",
+    "b": 6,
+    "c": 4,
+    "v": 21,
+    "t": "Jozua legde opnieuw de betekenis van de stenen uit: ‘Later,’ zei hij, ‘als uw kinderen u vragen waarom deze stenen hier liggen en wat zij te betekenen hebben,",
+    "h": "",
+    "o": 17,
+    "l": "21"
+  },
+  {
+    "id": "6004018",
+    "b": 6,
+    "c": 4,
+    "v": 22,
+    "t": "moet u hun vertellen dat deze stenen een herinnering zijn aan dit verbazingwekkende wonder, hoe het volk Israël over de drooggevallen grond de Jordaan overstak!",
+    "h": "",
+    "o": 18,
+    "l": "22"
+  },
+  {
+    "id": "6004019",
+    "b": 6,
+    "c": 4,
+    "v": 23,
+    "t": "Vertel hun hoe de HERE, onze God, de rivier voor onze ogen liet opdrogen en deze droog hield tot wij allemaal waren overgestoken! Het is hetzelfde wonder dat de HERE veertig jaar geleden bij de Rietzee deed.",
+    "h": "",
+    "o": 19,
+    "l": "23"
+  },
+  {
+    "id": "6004020",
+    "b": 6,
+    "c": 4,
+    "v": 24,
+    "t": "Hij deed dit opdat alle volken op aarde zullen beseffen, dat de HERE de Almachtige God is en zij allen Hem zullen vereren.’",
+    "h": "",
+    "o": 20,
+    "l": "24"
+  },
+  {
+    "id": "6005001",
+    "b": 6,
+    "c": 5,
+    "v": 1,
+    "t": "De volken ten westen van de Jordaan—de Amorieten en Kanaänieten, die langs de kust van de Middellandse Zee woonden—hoorden dat de HERE de Jordaan had laten opdrogen zodat het volk Israël kon oversteken. De moed zakte hen in de schoenen en zij werden verlamd door angst.",
+    "h": "De besnijdenis",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "6005002",
+    "b": 6,
+    "c": 5,
+    "v": 2,
+    "t": "De HERE droeg Jozua in die tijd op alle mannelijke Israëlieten te besnijden. De HERE beval dat voor dit doel stenen messen moesten worden gemaakt. Daarop maakte Jozua scherpe messen en besneed de Israëlieten op de plaats, die ‘de heuvel van de voorhuiden’ werd genoemd.",
+    "h": "",
+    "o": 2,
+    "l": "2-3"
+  },
+  {
+    "id": "6005003",
+    "b": 6,
+    "c": 5,
+    "v": 4,
+    "t": "Deze besnijdenis was nodig, omdat alle mannen die bij het vertrek uit Egypte oud genoeg waren om wapens te dragen, waren besneden en tegelijk met de hele generatie die gedurende die jaren in de woestijn was, waren gestorven. Maar alle jongens die in de woestijn werden geboren, waren niet besneden.",
+    "h": "",
+    "o": 3,
+    "l": "4-5"
+  },
+  {
+    "id": "6005004",
+    "b": 6,
+    "c": 5,
+    "v": 6,
+    "t": "Want veertig jaar lang had het volk van Israël rondgetrokken in de woestijn. Net zolang tot alle mannen die bij het vertrek uit Egypte oud genoeg waren om een wapen te dragen, waren gestorven. Zij waren immers ongehoorzaam geweest aan de HERE en Hij had gezworen dat zij geen voet zouden zetten in het land dat Hij Israël had beloofd, een land dat overvloeide van melk en honing.",
+    "h": "",
+    "o": 4,
+    "l": "6"
+  },
+  {
+    "id": "6005005",
+    "b": 6,
+    "c": 5,
+    "v": 7,
+    "t": "Daarom liet Jozua nu hun zonen besnijden die God in de plaats van hun vaders had gesteld.",
+    "h": "",
+    "o": 5,
+    "l": "7"
+  },
+  {
+    "id": "6005006",
+    "b": 6,
+    "c": 5,
+    "v": 8,
+    "t": "De HERE zei tegen Jozua: ‘Vandaag heb Ik de schande van uw onbesnedenheid weggenomen.’ Daarom werd de plaats waar dit gebeurde Gilgal genoemd (wat ‘wegnemen’ betekent) en zo heet het nu nog. Na deze ceremonie bleef het hele volk rusten in het kamp tot de wonden waren geheeld.",
+    "h": "",
+    "o": 6,
+    "l": "8-9"
+  },
+  {
+    "id": "6005007",
+    "b": 6,
+    "c": 5,
+    "v": 10,
+    "t": "Tijdens hun verblijf bij Gilgal op de vlakte van Jericho vierden zij Pesach op de avond van de veertiende dag van die maand.",
+    "h": "",
+    "o": 7,
+    "l": "10"
+  },
+  {
+    "id": "6005008",
+    "b": 6,
+    "c": 5,
+    "v": 11,
+    "t": "De dag na Pesach aten zij van de opbrengst van het land: ongezuurd brood en geroosterd koren. De volgende dag viel er geen manna meer. De tijd van het manna was voor de Israëlieten voorbij. Vanaf dat ogenblik leefden zij van de opbrengst van het land Kanaän.",
+    "h": "",
+    "o": 8,
+    "l": "11-12"
+  },
+  {
+    "id": "6005009",
+    "b": 6,
+    "c": 5,
+    "v": 13,
+    "t": "Terwijl Jozua erover nadacht hoe hij de stad Jericho zou innemen, zag hij een Man met een getrokken zwaard. Jozua liep naar Hem toe en vroeg: ‘Bent u een vriend of een vijand?’",
+    "h": "",
+    "o": 9,
+    "l": "13"
+  },
+  {
+    "id": "6005010",
+    "b": 6,
+    "c": 5,
+    "v": 14,
+    "t": "‘Geen van beide,’ antwoordde de Man, ‘Ik kom als de Aanvoerder van het hemelse leger van de HERE.’ Jozua viel in aanbidding voor Hem op de grond en zei: ‘Welke opdracht heeft de Here voor mij?’",
+    "h": "",
+    "o": 10,
+    "l": "14"
+  },
+  {
+    "id": "6005011",
+    "b": 6,
+    "c": 5,
+    "v": 15,
+    "t": "‘Trek uw sandalen uit,’ droeg de Aanvoerder hem op, ‘want dit is heilige grond.’ Jozua deed dat.",
+    "h": "",
+    "o": 11,
+    "l": "15"
+  },
+  {
+    "id": "6006001",
+    "b": 6,
+    "c": 6,
+    "v": 1,
+    "t": "De poorten van Jericho werden zorgvuldig gesloten gehouden, omdat de inwoners bang waren voor de Israëlieten, niemand mocht naar binnen of naar buiten.",
+    "h": "De verovering van Jericho",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "6006002",
+    "b": 6,
+    "c": 6,
+    "v": 2,
+    "t": "Maar de HERE zei tegen Jozua: ‘Jericho, zijn koning en al zijn machtige strijders zijn al verslagen, want Ik heb hen in uw macht gegeven!",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "6006003",
+    "b": 6,
+    "c": 6,
+    "v": 3,
+    "t": "Uw hele leger moet zes dagen lang één keer per dag om de stad heen trekken, gevolgd door zeven priesters die voor de ark uit lopen en ieder een ramshoorn dragen. Op de zevende dag moet u zevenmaal rond de stad trekken, terwijl de priesters op hun ramshoornen blazen.",
+    "h": "",
+    "o": 3,
+    "l": "3-4"
+  },
+  {
+    "id": "6006004",
+    "b": 6,
+    "c": 6,
+    "v": 5,
+    "t": "Wanneer zij dan een lang, hard hoorngeschal laten horen, moet het hele volk hard juichen, waarna de muren van de stad zullen instorten. Daarna moet u van alle kanten de stad binnenvallen.’",
+    "h": "",
+    "o": 4,
+    "l": "5"
+  },
+  {
+    "id": "6006005",
+    "b": 6,
+    "c": 6,
+    "v": 6,
+    "t": "Jozua riep daarop de priesters bijeen en gaf hun de nodige bevelen. De gewapende mannen moesten de stoet aanvoeren, gevolgd door de zeven priesters die de ramshoornen bliezen. Achter hen moesten dan de priesters lopen die de ark droegen, gevolgd door de achterhoede.",
+    "h": "",
+    "o": 5,
+    "l": "6-9"
+  },
+  {
+    "id": "6006006",
+    "b": 6,
+    "c": 6,
+    "v": 10,
+    "t": "Jozua beval het volk: ‘Er moet volledige stilte in acht worden genomen. Laat niemand zijn mond opendoen tot ik u zeg dat u moet juichen, juich dan!’",
+    "h": "",
+    "o": 6,
+    "l": "10"
+  },
+  {
+    "id": "6006007",
+    "b": 6,
+    "c": 6,
+    "v": 11,
+    "t": "De ark werd die dag rond de stad gedragen, waarna iedereen terugkeerde naar het kamp om er de nacht door te brengen.",
+    "h": "",
+    "o": 7,
+    "l": "11"
+  },
+  {
+    "id": "6006008",
+    "b": 6,
+    "c": 6,
+    "v": 12,
+    "t": "Toen het de volgende morgen licht werd, maakten zij weer een rondgang. Daarna keerde iedereen terug naar het kamp. Dit deden zij zes dagen lang.",
+    "h": "",
+    "o": 8,
+    "l": "12-14"
+  },
+  {
+    "id": "6006009",
+    "b": 6,
+    "c": 6,
+    "v": 15,
+    "t": "Bij het aanbreken van de zevende dag gingen zij weer naar de stad, maar nu liepen zij er zevenmaal omheen in plaats van eenmaal.",
+    "h": "",
+    "o": 9,
+    "l": "15"
+  },
+  {
+    "id": "6006010",
+    "b": 6,
+    "c": 6,
+    "v": 16,
+    "t": "Bij de zevende keer lieten de priesters de ramshoorns klinken en Jozua riep tot het volk: ‘Juich, de HERE heeft ons de stad gegeven!’",
+    "h": "",
+    "o": 10,
+    "l": "16"
+  },
+  {
+    "id": "6006011",
+    "b": 6,
+    "c": 6,
+    "v": 17,
+    "t": "Vóór die tijd had Jozua zijn mensen gezegd: ‘De stad en alles wat daarin is, moet voor de HERE worden vernietigd, maar alleen de prostituee Rachab en allen die in haar huis zijn, mogen in leven blijven omdat zij de spionnen heeft beschermd.",
+    "h": "",
+    "o": 11,
+    "l": "17"
+  },
+  {
+    "id": "6006012",
+    "b": 6,
+    "c": 6,
+    "v": 18,
+    "t": "Vergrijp u niet aan al wat voor de HERE vernietigd wordt. Als u zich iets als buit toeëigent, zal dit rampzalige gevolgen hebben voor Israël.’",
+    "h": "",
+    "o": 12,
+    "l": "18"
+  },
+  {
+    "id": "6006013",
+    "b": 6,
+    "c": 6,
+    "v": 19,
+    "t": "Alle zilveren, gouden, koperen en ijzeren voorwerpen moeten aan de HERE worden gegeven en naar zijn schatkamer worden gebracht, al het overige moet worden vernietigd.",
+    "h": "",
+    "o": 13,
+    "l": "19"
+  },
+  {
+    "id": "6006014",
+    "b": 6,
+    "c": 6,
+    "v": 20,
+    "t": "Toen de ramshoornen schalden, juichte het volk en daarop stortte de stadsmuur in. De Israëlieten stroomden van alle kanten de stad binnen en namen haar in.",
+    "h": "",
+    "o": 14,
+    "l": "20"
+  },
+  {
+    "id": "6006015",
+    "b": 6,
+    "c": 6,
+    "v": 21,
+    "t": "Zij vernietigden alles: mannen en vrouwen, jong en oud, ossen, schapen, ezels, letterlijk alles.",
+    "h": "",
+    "o": 15,
+    "l": "21"
+  },
+  {
+    "id": "6006016",
+    "b": 6,
+    "c": 6,
+    "v": 22,
+    "t": "Toen zei Jozua tegen de twee spionnen: ‘Kom uw belofte na. Zorg dat de prostituee en haar familieleden in veiligheid worden gebracht.’",
+    "h": "",
+    "o": 16,
+    "l": "22"
+  },
+  {
+    "id": "6006017",
+    "b": 6,
+    "c": 6,
+    "v": 23,
+    "t": "De jongemannen gingen naar het huis en brachten Rachab, haar ouders, broers en andere familieleden in veiligheid. Er werd een regeling voor hen getroffen dat zij buiten het kamp van de Israëlieten mochten verblijven.",
+    "h": "",
+    "o": 17,
+    "l": "23"
+  },
+  {
+    "id": "6006018",
+    "b": 6,
+    "c": 6,
+    "v": 24,
+    "t": "Daarna legden de Israëlieten de hele stad in de as. Alleen het goud, het zilver en de koperen en ijzeren voorwerpen werden bewaard in de schatkamer van de HERE.",
+    "h": "",
+    "o": 18,
+    "l": "24"
+  },
+  {
+    "id": "6006019",
+    "b": 6,
+    "c": 6,
+    "v": 25,
+    "t": "Zo spaarde Jozua de prostituee Rachab en al haar familieleden die bij haar in huis waren. Zij wonen nog steeds bij de Israëlieten omdat zij de spionnen die Jozua naar Jericho had gestuurd, had verborgen.",
+    "h": "",
+    "o": 19,
+    "l": "25"
+  },
+  {
+    "id": "6006020",
+    "b": 6,
+    "c": 6,
+    "v": 26,
+    "t": "Jozua sprak daarna een vreselijke vervloeking uit over iedereen die Jericho zou proberen te herbouwen. Het leggen van het fundament zou het leven van zijn oudste zoon kosten en als hij de poorten overeind zou zetten, zou dat gaan ten koste van zijn jongste zoon.",
+    "h": "",
+    "o": 20,
+    "l": "26"
+  },
+  {
+    "id": "6006021",
+    "b": 6,
+    "c": 6,
+    "v": 27,
+    "t": "Zo hielp de HERE Jozua en hij werd overal beroemd.",
+    "h": "",
+    "o": 21,
+    "l": "27"
+  },
+  {
+    "id": "6007001",
+    "b": 6,
+    "c": 7,
+    "v": 1,
+    "t": "Maar er was zonde onder de Israëlieten. Gods bevel dat alles moest worden vernietigd, was niet door iedereen opgevolgd. Achan, de zoon van Karmi, de zoon van Zabdi, de zoon van Zerach, uit de stam van Juda, had namelijk een deel van de buit voor zichzelf gehouden. Daarom werd de HERE woedend op het volk Israël.",
+    "h": "De ongehoorzaamheid van Achan",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "6007002",
+    "b": 6,
+    "c": 7,
+    "v": 2,
+    "t": "Het kwam uit toen kort na de verovering van Jericho Jozua enkele mannen op een verkenningstocht naar de stad Ai stuurde.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "6007003",
+    "b": 6,
+    "c": 7,
+    "v": 3,
+    "t": "Na hun terugkeer zeiden zij tegen Jozua: ‘Het is maar een kleine stad. Twee- tot drieduizend man zijn voldoende om haar te vernietigen, wij hoeven dus niet met het hele leger te gaan.’",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "6007004",
+    "b": 6,
+    "c": 7,
+    "v": 4,
+    "t": "Ongeveer drieduizend soldaten trokken eropuit, maar zij werden door de mannen van Ai op de vlucht gejaagd.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "6007005",
+    "b": 6,
+    "c": 7,
+    "v": 5,
+    "t": "Hierbij vielen zesendertig doden! Deze sneuvelden tijdens de achtervolging op de helling bij de steengroeven. Deze onverwachte nederlaag verlamde de Israëlieten en de moed zonk hen in de schoenen.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "6007006",
+    "b": 6,
+    "c": 7,
+    "v": 6,
+    "t": "Jozua scheurde zijn kleren en bleef samen met de leiders van Israël tot de avond op de grond liggen voor de ark van de HERE. Zij gooiden stof op hun hoofd.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "6007007",
+    "b": 6,
+    "c": 7,
+    "v": 7,
+    "t": "Jozua riep tot de HERE : ‘HERE God, waarom hebt U ons de Jordaan laten oversteken als U ons wilt laten doden door de Amorieten? Hadden we er maar genoegen mee genomen aan de andere kant van de Jordaan te blijven.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "6007008",
+    "b": 6,
+    "c": 7,
+    "v": 8,
+    "t": "Here, wat moet ik doen nu Israël op de vlucht is geslagen voor zijn vijanden?",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "6007009",
+    "b": 6,
+    "c": 7,
+    "v": 9,
+    "t": "Als de Kanaänieten en de andere volken in de omgeving dit horen, zullen zij ons aanvallen en vermoorden. En wat zult U dan doen voor de eer van uw grote naam?’",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "6007010",
+    "b": 6,
+    "c": 7,
+    "v": 10,
+    "t": "Maar de HERE zei tegen Jozua: ‘Ga staan! Waarom ligt u languit op de grond? De Israëlieten hebben gezondigd door niet te gehoorzamen aan mijn bevel. Zij hebben buit genomen, hoewel Ik dat had verboden. Zij hebben er ook om gelogen en het stiekem tussen hun spullen verstopt.",
+    "h": "",
+    "o": 10,
+    "l": "10-11"
+  },
+  {
+    "id": "6007011",
+    "b": 6,
+    "c": 7,
+    "v": 12,
+    "t": "Daarom is het volk van Israël verslagen. Daarom vluchtten uw mannen voor hun vijanden, want er rust een vloek op hen. Ik zal u niet langer terzijde staan, tenzij u zich volledig van deze zonde ontdoet.",
+    "h": "",
+    "o": 11,
+    "l": "12"
+  },
+  {
+    "id": "6007012",
+    "b": 6,
+    "c": 7,
+    "v": 13,
+    "t": "Sta op! Zeg tegen het volk: “Ieder van u moet zich heiligen als voorbereiding op de dag van morgen, want de HERE, de God van Israël, zegt dat iemand van Hem heeft gestolen en dat u uw vijanden niet eerder kunt verslaan, voordat u met deze zonde hebt afgerekend.",
+    "h": "",
+    "o": 12,
+    "l": "13"
+  },
+  {
+    "id": "6007013",
+    "b": 6,
+    "c": 7,
+    "v": 14,
+    "t": "Morgenochtend moet u stam voor stam aantreden. Dan zal de HERE de stam aanwijzen waartoe de schuldige man behoort. Die stam moet daarna per familie verschijnen, waarna de HERE de schuldige familie zal aanduiden, daarna moet elk gezin verschijnen, gevolgd door ieder gezinslid afzonderlijk.",
+    "h": "",
+    "o": 13,
+    "l": "14"
+  },
+  {
+    "id": "6007014",
+    "b": 6,
+    "c": 7,
+    "v": 15,
+    "t": "Degene die heeft gestolen wat aan de HERE toebehoort, zal samen met zijn familieleden worden verbrand. Hij heeft het verbond van de HERE geschonden en een vloek over alle Israëlieten gebracht.” ’",
+    "h": "",
+    "o": 14,
+    "l": "15"
+  },
+  {
+    "id": "6007015",
+    "b": 6,
+    "c": 7,
+    "v": 16,
+    "t": "De volgende dag liet Jozua al heel vroeg alle stammen van Israël aantreden en de stam van Juda werd aangewezen.",
+    "h": "",
+    "o": 15,
+    "l": "16"
+  },
+  {
+    "id": "6007016",
+    "b": 6,
+    "c": 7,
+    "v": 17,
+    "t": "Toen traden de families van de stam van Juda naar voren, waarbij die van Zerach werd aangewezen. Toen de gezinnen van deze familie aantraden, werd het gezin van Zabdi aangewezen.",
+    "h": "",
+    "o": 16,
+    "l": "17"
+  },
+  {
+    "id": "6007017",
+    "b": 6,
+    "c": 7,
+    "v": 18,
+    "t": "Eén voor één werden daarna de gezinsleden van Zabdi voorgeleid en zijn kleinzoon Achan werd aangewezen als de schuldige.",
+    "h": "",
+    "o": 17,
+    "l": "18"
+  },
+  {
+    "id": "6007018",
+    "b": 6,
+    "c": 7,
+    "v": 19,
+    "t": "Jozua zei tegen Achan: ‘Mijn zoon, geef eer aan de God van Israël en belijd Hem uw zonden. Vertel mij wat u hebt gedaan.’",
+    "h": "",
+    "o": 18,
+    "l": "19"
+  },
+  {
+    "id": "6007019",
+    "b": 6,
+    "c": 7,
+    "v": 20,
+    "t": "‘Ik heb gezondigd tegen de HERE, de God van Israël,’ bekende Achan.",
+    "h": "",
+    "o": 19,
+    "l": "20"
+  },
+  {
+    "id": "6007020",
+    "b": 6,
+    "c": 7,
+    "v": 21,
+    "t": "‘Ik zag een prachtige Babylonische mantel, ruim twee kilo zilver en een staaf goud, die zoʼn vijfhonderdvijftig gram woog. Ik kon ze niet laten liggen en heb ze meegenomen en begraven onder mijn tent. Het zilver ligt onderaan.’",
+    "h": "",
+    "o": 20,
+    "l": "21"
+  },
+  {
+    "id": "6007021",
+    "b": 6,
+    "c": 7,
+    "v": 22,
+    "t": "Jozua stuurde enkele mannen om de buit te halen. Zij gingen naar de tent en vonden de gestolen waar, precies op de plaats die Achan had genoemd. Het zilver lag inderdaad onderaan.",
+    "h": "",
+    "o": 21,
+    "l": "22"
+  },
+  {
+    "id": "6007022",
+    "b": 6,
+    "c": 7,
+    "v": 23,
+    "t": "Zij brachten alles naar Jozua en de Israëlieten en legden het voor het oog van de HERE op de grond.",
+    "h": "",
+    "o": 22,
+    "l": "23"
+  },
+  {
+    "id": "6007023",
+    "b": 6,
+    "c": 7,
+    "v": 24,
+    "t": "Daarna namen Jozua en de andere Israëlieten Achan, het zilver, de mantel, de staaf goud, zijn zonen, dochters, ossen, ezels, schapen, zijn tent en alles wat hij bezat mee naar het dal van Achor.",
+    "h": "",
+    "o": 23,
+    "l": "24"
+  },
+  {
+    "id": "6007024",
+    "b": 6,
+    "c": 7,
+    "v": 25,
+    "t": "Toen zei Jozua tegen Achan: ‘Waarom hebt u deze vloek over ons gebracht? Nu zal de HERE een ramp over u brengen.’ Daarop stenigden de mannen van Israël hen, verbrandden de lijken",
+    "h": "",
+    "o": 24,
+    "l": "25"
+  },
+  {
+    "id": "6007025",
+    "b": 6,
+    "c": 7,
+    "v": 26,
+    "t": "en stapelden er een grote hoop stenen overheen. Die stenen liggen daar nu nog en die plaats wordt nog steeds het Rampdal genoemd. Zo werd de toorn van de HERE gestild.",
+    "h": "",
+    "o": 25,
+    "l": "26"
+  },
+  {
+    "id": "6008001",
+    "b": 6,
+    "c": 8,
+    "v": 1,
+    "t": "De HERE zei tegen Jozua: ‘Wees niet bang en laat de moed niet varen, laat het hele leger aantreden en trek op naar Ai. Nu zult u overwinnen. Ik heb de koning van Ai en al zijn onderdanen in uw macht gegeven.",
+    "h": "De overwinning op Ai",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "6008002",
+    "b": 6,
+    "c": 8,
+    "v": 2,
+    "t": "Met hen moet u hetzelfde doen als met Jericho en zijn koning, behalve dan dat u de buit en het vee voor uzelf mag houden. Achter de stad moet u een deel van het leger in hinderlaag leggen.’",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "6008003",
+    "b": 6,
+    "c": 8,
+    "v": 3,
+    "t": "Voordat het leger naar Ai trok, stuurde Jozua ʼs nachts dertigduizend van zijn dapperste mannen naar de andere kant van Ai, waar zij in een hinderlaag moesten gaan liggen, niet te ver van de stad en klaar om toe te slaan.",
+    "h": "",
+    "o": 3,
+    "l": "3-4"
+  },
+  {
+    "id": "6008004",
+    "b": 6,
+    "c": 8,
+    "v": 5,
+    "t": "‘We gaan het volgende doen,’ legde hij hun uit. ‘Als ik met de rest van het leger aanval, zullen de mannen van Ai een uitval doen om ons net als de vorige keer op de vlucht te jagen. Wij doen dan ook net alsof wij vluchten.",
+    "h": "",
+    "o": 4,
+    "l": "5"
+  },
+  {
+    "id": "6008005",
+    "b": 6,
+    "c": 8,
+    "v": 6,
+    "t": "Zo zullen wij hen achter ons aan laten komen totdat zij allemaal de stad uit zijn. Zij zullen dan denken dat wij net als de eerste keer op de vlucht slaan.",
+    "h": "",
+    "o": 5,
+    "l": "6"
+  },
+  {
+    "id": "6008006",
+    "b": 6,
+    "c": 8,
+    "v": 7,
+    "t": "Wanneer het eenmaal zover is, moeten jullie uit de hinderlaag komen en de stad binnentrekken, want de HERE zal die in onze macht geven.",
+    "h": "",
+    "o": 6,
+    "l": "7"
+  },
+  {
+    "id": "6008007",
+    "b": 6,
+    "c": 8,
+    "v": 8,
+    "t": "Wanneer jullie de stad hebben ingenomen, steek haar dan in brand, zoals de HERE heeft bevolen. Dat zijn uw orders.’",
+    "h": "",
+    "o": 7,
+    "l": "8"
+  },
+  {
+    "id": "6008008",
+    "b": 6,
+    "c": 8,
+    "v": 9,
+    "t": "Die nacht gingen zij op weg en legden zich in een hinderlaag tussen Betel en de westkant van Ai. Jozua en de rest van het leger bleven echter nog in het kamp.",
+    "h": "",
+    "o": 8,
+    "l": "9"
+  },
+  {
+    "id": "6008009",
+    "b": 6,
+    "c": 8,
+    "v": 10,
+    "t": "De volgende morgen bracht Jozua in alle vroegte zijn mannen op de been en ging op weg naar Ai, vergezeld door de leiders van Israël.",
+    "h": "",
+    "o": 9,
+    "l": "10"
+  },
+  {
+    "id": "6008010",
+    "b": 6,
+    "c": 8,
+    "v": 11,
+    "t": "Hij liet halt houden aan de rand van een dal ten noorden van de stad. De volgende nacht zond Jozua nog eens vijfduizend man als versterking naar de troepen die in hinderlaag lagen ten westen van de stad. Zelf bleef hij die nacht in het dal.",
+    "h": "",
+    "o": 10,
+    "l": "11-13"
+  },
+  {
+    "id": "6008011",
+    "b": 6,
+    "c": 8,
+    "v": 14,
+    "t": "Toen de koning van Ai de volgende morgen de Israëlieten aan de overzijde van het dal ontdekte, viel hij hen aan in de vlakte van Arabah. Hij was zich er natuurlijk niet van bewust dat aan de andere kant van de stad nóg een Israëlitische troepenmacht lag.",
+    "h": "",
+    "o": 11,
+    "l": "14"
+  },
+  {
+    "id": "6008012",
+    "b": 6,
+    "c": 8,
+    "v": 15,
+    "t": "Jozua en zijn leger vluchtten door de wildernis, alsof zij waren verslagen.",
+    "h": "",
+    "o": 12,
+    "l": "15"
+  },
+  {
+    "id": "6008013",
+    "b": 6,
+    "c": 8,
+    "v": 16,
+    "t": "Alle soldaten van de stad werden op de been gebracht voor de achtervolging, waardoor de stad onbeschermd achterbleef.",
+    "h": "",
+    "o": 13,
+    "l": "16"
+  },
+  {
+    "id": "6008014",
+    "b": 6,
+    "c": 8,
+    "v": 17,
+    "t": "In heel Ai en Betel was geen soldaat meer te bekennen en de poorten stonden wijd open.",
+    "h": "",
+    "o": 14,
+    "l": "17"
+  },
+  {
+    "id": "6008015",
+    "b": 6,
+    "c": 8,
+    "v": 18,
+    "t": "Toen zei de HERE tegen Jozua: ‘Wijs met uw speer in de richting van Ai, want Ik zal u de stad in handen geven.’ Jozua deed dat.",
+    "h": "",
+    "o": 15,
+    "l": "18"
+  },
+  {
+    "id": "6008016",
+    "b": 6,
+    "c": 8,
+    "v": 19,
+    "t": "Dit signaal werd gezien door de mannen die in hinderlaag zaten en zij sprongen overeind. Snel trokken zij de stad binnen en staken haar in brand.",
+    "h": "",
+    "o": 16,
+    "l": "19"
+  },
+  {
+    "id": "6008017",
+    "b": 6,
+    "c": 8,
+    "v": 20,
+    "t": "Toen de mannen van Ai omkeken, zagen zij grote rookwolken uit de stad opstijgen. Ook Jozua en zijn troepen zagen de rookwolken, wat voor hen het teken was dat hun medestrijders de stad in handen hadden. Zij keerden zich om en vielen de mannen van Ai aan.",
+    "h": "",
+    "o": 17,
+    "l": "20-21"
+  },
+  {
+    "id": "6008018",
+    "b": 6,
+    "c": 8,
+    "v": 22,
+    "t": "Tegelijkertijd kwamen de Israëlitische troepen de stad uit en vielen de vijand in de rug aan. Zo kwamen de mannen van Ai in een val terecht waaruit geen ontsnapping mogelijk was. Zij kwamen allemaal om.",
+    "h": "",
+    "o": 18,
+    "l": "22"
+  },
+  {
+    "id": "6008019",
+    "b": 6,
+    "c": 8,
+    "v": 23,
+    "t": "Alleen de koning van Ai overleefde het. Hij werd gevangengenomen en voor Jozua geleid.",
+    "h": "",
+    "o": 19,
+    "l": "23"
+  },
+  {
+    "id": "6008020",
+    "b": 6,
+    "c": 8,
+    "v": 24,
+    "t": "Nadat het Israëlitische leger alle mannen buiten de stad had gedood, trokken de strijders de stad binnen en doodden alle overige inwoners.",
+    "h": "",
+    "o": 20,
+    "l": "24"
+  },
+  {
+    "id": "6008021",
+    "b": 6,
+    "c": 8,
+    "v": 25,
+    "t": "Zo vielen op die dag alle inwoners van Ai, twaalfduizend mensen in totaal,",
+    "h": "",
+    "o": 21,
+    "l": "25"
+  },
+  {
+    "id": "6008022",
+    "b": 6,
+    "c": 8,
+    "v": 26,
+    "t": "want Jozua hield zijn speer op Ai gericht tot ook de laatste overlevende dood was.",
+    "h": "",
+    "o": 22,
+    "l": "26"
+  },
+  {
+    "id": "6008023",
+    "b": 6,
+    "c": 8,
+    "v": 27,
+    "t": "Alleen het vee en de buit werden niet vernietigd, want de troepen van Israël hielden die voor zichzelf zoals de HERE tegen Jozua had gezegd.",
+    "h": "",
+    "o": 23,
+    "l": "27"
+  },
+  {
+    "id": "6008024",
+    "b": 6,
+    "c": 8,
+    "v": 28,
+    "t": "Zo werd Ai in één grote puinhoop veranderd. Dat is het nu nog steeds.",
+    "h": "",
+    "o": 24,
+    "l": "28"
+  },
+  {
+    "id": "6008025",
+    "b": 6,
+    "c": 8,
+    "v": 29,
+    "t": "Jozua liet de koning van Ai aan een boom ophangen. Bij zonsondergang liet hij het lijk naar beneden halen en wierp het voor de stadspoort op de grond. Hij stapelde er grote stenen overheen, het staat er nu nog precies zo.",
+    "h": "",
+    "o": 25,
+    "l": "29"
+  },
+  {
+    "id": "6008026",
+    "b": 6,
+    "c": 8,
+    "v": 30,
+    "t": "Toen bouwde Jozua op de berg Ebal een altaar voor de HERE, de God van Israël,",
+    "h": "",
+    "o": 26,
+    "l": "30"
+  },
+  {
+    "id": "6008027",
+    "b": 6,
+    "c": 8,
+    "v": 31,
+    "t": "zoals Mozes in zijn wetboek had bevolen: ‘Maak voor Mij een altaar van stenen die niet gebroken of uitgehouwen zijn.’ Op dit altaar brachten de priesters de HERE brandoffers en vredeoffers.",
+    "h": "",
+    "o": 27,
+    "l": "31"
+  },
+  {
+    "id": "6008028",
+    "b": 6,
+    "c": 8,
+    "v": 32,
+    "t": "Zichtbaar voor het oog van de Israëlieten, graveerde Jozua de wetten van Mozes in de stenen van het altaar.",
+    "h": "",
+    "o": 28,
+    "l": "32"
+  },
+  {
+    "id": "6008029",
+    "b": 6,
+    "c": 8,
+    "v": 33,
+    "t": "Het hele volk van Israël, inclusief de leiders, legeraanvoerders, rechters en de buitenlanders die bij hen waren, verdeelde zich daarop in twee groepen. De ene groep aan de voet van de berg Gerizim, de andere aan de voet van de berg Ebal. Daar tussenin stonden de priesters met de ark, klaar om hun zegen uit te spreken. Dit alles werd precies gedaan volgens de aanwijzingen die Mozes vroeger had gegeven.",
+    "h": "",
+    "o": 29,
+    "l": "33"
+  },
+  {
+    "id": "6008030",
+    "b": 6,
+    "c": 8,
+    "v": 34,
+    "t": "Jozua las daarna het volk alle zegeningen en vervloekingen voor die in het wetboek staan opgetekend.",
+    "h": "",
+    "o": 30,
+    "l": "34"
+  },
+  {
+    "id": "6008031",
+    "b": 6,
+    "c": 8,
+    "v": 35,
+    "t": "Elk gebod dat Mozes had gegeven, werd aan de gehele gemeente voorgelezen, ook aan de vrouwen, kinderen en buitenlanders die bij de Israëlieten woonden.",
+    "h": "",
+    "o": 31,
+    "l": "35"
+  },
+  {
+    "id": "6009001",
+    "b": 6,
+    "c": 9,
+    "v": 1,
+    "t": "De koningen uit die buurt hoorden wat met Jericho was gebeurd en brachten snel hun legers op de been om gezamenlijk oorlog te voeren tegen Jozua en de Israëlieten. Hiertoe behoorden de koningen van de volken die tussen de Jordaan en de Middellandse Zee woonden. Dit gebied strekt zich naar het noorden uit tot aan de Libanon, daar woonden de Hethieten, Amorieten, Kanaänieten, Perizzieten, Chiwwieten en Jebusieten.",
+    "h": "Jozua misleid door de Gibeonieten",
+    "o": 1,
+    "l": "1-2"
+  },
+  {
+    "id": "6009002",
+    "b": 6,
+    "c": 9,
+    "v": 3,
+    "t": "Maar toen de inwoners van de stad Gibeon hoorden wat met Jericho en Ai was gebeurd, gingen zij met list te werk en stuurden afgevaardigden naar Jozua die versleten en afgedragen kleren droegen en op opgelapte sandalen liepen om de indruk te wekken dat ze een lange reis hadden gemaakt. De zadeltassen op hun ezels en hun wijnzakken zagen er al niet veel beter uit. Hun brood was uitgedroogd en beschimmeld.",
+    "h": "",
+    "o": 2,
+    "l": "3-5"
+  },
+  {
+    "id": "6009003",
+    "b": 6,
+    "c": 9,
+    "v": 6,
+    "t": "Aangekomen bij het kamp van Israël in de buurt van Gilgal, zeiden zij tegen Jozua en de mannen van Israël: ‘Wij komen uit een ver land om u te vragen een vredesverdrag met ons te sluiten.’",
+    "h": "",
+    "o": 3,
+    "l": "6"
+  },
+  {
+    "id": "6009004",
+    "b": 6,
+    "c": 9,
+    "v": 7,
+    "t": "De Israëlieten antwoordden deze Chiwwieten met: ‘Hoe weten wij of u niet dichtbij woont? Want als dat zo is, kunnen wij geen verdrag met u sluiten.’",
+    "h": "",
+    "o": 4,
+    "l": "7"
+  },
+  {
+    "id": "6009005",
+    "b": 6,
+    "c": 9,
+    "v": 8,
+    "t": "Daarop antwoordden zij: ‘Wij zullen uw bedienden zijn.’ ‘Maar wie bent u?’ wilde Jozua weten. ‘Waar komt u vandaan?’",
+    "h": "",
+    "o": 5,
+    "l": "8"
+  },
+  {
+    "id": "6009006",
+    "b": 6,
+    "c": 9,
+    "v": 9,
+    "t": "En zij logen: ‘Wij komen uit een land dat hier erg ver vandaan ligt. Wij hebben gehoord over de macht van de HERE, uw God. Over alles wat Hij in Egypte heeft gedaan",
+    "h": "",
+    "o": 6,
+    "l": "9"
+  },
+  {
+    "id": "6009007",
+    "b": 6,
+    "c": 9,
+    "v": 10,
+    "t": "en wat u hebt gedaan met de twee Amoritische koningen, Sichon van Chesbon en Og van Basan, die in Astarot woonde.",
+    "h": "",
+    "o": 7,
+    "l": "10"
+  },
+  {
+    "id": "6009008",
+    "b": 6,
+    "c": 9,
+    "v": 11,
+    "t": "Daarom gaven onze leiders en ons volk ons de opdracht: “Maak u klaar voor een verre reis, ga naar de Israëlieten en verklaar dat ons volk hun dienaar wil zijn. Vraag hun om vrede.”",
+    "h": "",
+    "o": 8,
+    "l": "11"
+  },
+  {
+    "id": "6009009",
+    "b": 6,
+    "c": 9,
+    "v": 12,
+    "t": "Dit brood kwam vers uit de oven toen wij vertrokken, maar zoals u ziet, is het nu droog en beschimmeld.",
+    "h": "",
+    "o": 9,
+    "l": "12"
+  },
+  {
+    "id": "6009010",
+    "b": 6,
+    "c": 9,
+    "v": 13,
+    "t": "Deze wijnzakken waren nieuw, maar nu zijn ze gescheurd en oud, onze kleren en sandalen zijn versleten door de lange en moeilijke tocht.’",
+    "h": "",
+    "o": 10,
+    "l": "13"
+  },
+  {
+    "id": "6009011",
+    "b": 6,
+    "c": 9,
+    "v": 14,
+    "t": "Jozua en zijn mannen proefden van hun brood. Zij namen niet de moeite het aan de HERE te vragen, maar gingen hun eigen gang en sloten een vredesverdrag met hen. De leiders van Israël bezegelden de overeenkomst met een eed.",
+    "h": "",
+    "o": 11,
+    "l": "14-15"
+  },
+  {
+    "id": "6009012",
+    "b": 6,
+    "c": 9,
+    "v": 16,
+    "t": "Drie dagen later kwam echter de waarheid aan het licht, deze mannen waren hun naaste buren.",
+    "h": "",
+    "o": 12,
+    "l": "16"
+  },
+  {
+    "id": "6009013",
+    "b": 6,
+    "c": 9,
+    "v": 17,
+    "t": "Het Israëlitische leger ging onmiddellijk op onderzoek uit en bereikte na drie dagen hun steden. De namen van de steden waren Gibeon, Kefira, Beëroth en Kirjat-Jearim.",
+    "h": "",
+    "o": 13,
+    "l": "17"
+  },
+  {
+    "id": "6009014",
+    "b": 6,
+    "c": 9,
+    "v": 18,
+    "t": "De steden werden echter niet aangevallen wegens de eed die de Israëlitische leiders voor de HERE, de God van Israël, hadden afgelegd. De Israëlieten namen het hun leiders erg kwalijk dat zij een dergelijk verdrag hadden getekend.",
+    "h": "",
+    "o": 14,
+    "l": "18"
+  },
+  {
+    "id": "6009015",
+    "b": 6,
+    "c": 9,
+    "v": 19,
+    "t": "De leiders verdedigden zich echter door te zeggen: ‘Wij hebben voor de HERE, de God van Israël, gezworen dat wij hen met geen vinger zullen aanraken en die eed zullen wij gestand doen.",
+    "h": "",
+    "o": 15,
+    "l": "19"
+  },
+  {
+    "id": "6009016",
+    "b": 6,
+    "c": 9,
+    "v": 20,
+    "t": "Wij moeten hen in leven laten, want als wij onze eed breken zal de toorn van de HERE over ons komen.’",
+    "h": "",
+    "o": 16,
+    "l": "20"
+  },
+  {
+    "id": "6009017",
+    "b": 6,
+    "c": 9,
+    "v": 21,
+    "t": "En zij vervolgden: ‘Wij zullen hen in leven laten, maar zij moeten onze gehele gemeenschap dienen als houthakkers en waterputters.’ Zo werd de gedane belofte gehouden.",
+    "h": "",
+    "o": 17,
+    "l": "21"
+  },
+  {
+    "id": "6009018",
+    "b": 6,
+    "c": 9,
+    "v": 22,
+    "t": "Jozua riep de afgevaardigden bij zich en vroeg: ‘Waarom hebt u tegen ons gelogen door te beweren dat u uit een ver land afkomstig was, terwijl u hier te midden van ons woont?",
+    "h": "",
+    "o": 18,
+    "l": "22"
+  },
+  {
+    "id": "6009019",
+    "b": 6,
+    "c": 9,
+    "v": 23,
+    "t": "Nu zal een vloek op u komen te rusten! Vanaf dit moment moet u ons voortaan voorzien van mensen die houthakken en water dragen voor de dienst van onze God in de tabernakel.’",
+    "h": "",
+    "o": 19,
+    "l": "23"
+  },
+  {
+    "id": "6009020",
+    "b": 6,
+    "c": 9,
+    "v": 24,
+    "t": "Zij antwoordden: ‘Wij hebben dit gedaan, omdat ons werd verteld dat de HERE zijn dienaar Mozes opdracht had gegeven dit hele land te veroveren en alle inwoners te doden. Wij vreesden voor ons leven toen u verscheen, dat is de reden.",
+    "h": "",
+    "o": 20,
+    "l": "24"
+  },
+  {
+    "id": "6009021",
+    "b": 6,
+    "c": 9,
+    "v": 25,
+    "t": "Maar nu hebt u ons lot in uw hand, u mag met ons doen wat u wilt.’",
+    "h": "",
+    "o": 21,
+    "l": "25"
+  },
+  {
+    "id": "6009022",
+    "b": 6,
+    "c": 9,
+    "v": 26,
+    "t": "Daarom stond Jozua het volk van Israël niet toe hen te doden.",
+    "h": "",
+    "o": 22,
+    "l": "26"
+  },
+  {
+    "id": "6009023",
+    "b": 6,
+    "c": 9,
+    "v": 27,
+    "t": "Wel werden zij houthakkers en waterdragers voor de Israëlieten en voor het altaar van de HERE, op de plaats die de HERE daarvoor zou kiezen. Dat doen zij nu nog steeds.",
+    "h": "",
+    "o": 23,
+    "l": "27"
+  },
+  {
+    "id": "6010001",
+    "b": 6,
+    "c": 10,
+    "v": 1,
+    "t": "Koning Adoni-Zedek van Jeruzalem hoorde hoe Jozua de stad Ai had ingenomen en verwoest. De koning van Ai was, net als die van Jericho, omgebracht. Ook vernam hij dat de inwoners van Gibeon vrede hadden gesloten met Israël en nu hun bondgenoten waren.",
+    "h": "En de zon stond stil…",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "6010002",
+    "b": 6,
+    "c": 10,
+    "v": 2,
+    "t": "De angst sloeg hem om het hart, want Gibeon was een belangrijke stad, net zo groot als de koninklijke steden en veel groter dan Ai. En haar mannen stonden bekend als dappere soldaten.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "6010003",
+    "b": 6,
+    "c": 10,
+    "v": 3,
+    "t": "Daarom stuurde koning Adoni-Zedek boodschappers naar enkele andere koningen: Hoham van de stad Hebron, Piream van Jarmuth, Jafia van Lachis en Debir van Eglon.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "6010004",
+    "b": 6,
+    "c": 10,
+    "v": 4,
+    "t": "‘Kom mij helpen om Gibeon te vernietigen,’ vroeg hij hun dringend, ‘want zij hebben vrede gesloten met Jozua en het volk van Israël.’",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "6010005",
+    "b": 6,
+    "c": 10,
+    "v": 5,
+    "t": "Zo brachten deze vijf koningen hun legers samen. Ze namen met al hun troepen stellingen in tegen Gibeon en openden de aanval.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "6010006",
+    "b": 6,
+    "c": 10,
+    "v": 6,
+    "t": "Snel zonden de Gibeonieten toen boodschappers naar Jozua bij Gilgal. ‘Laat uw dienaars niet in de steek,’ smeekten zij. ‘Kom snel en red ons! Alle koningen van de Amorieten die in de heuvels wonen, hebben hun legers tegen ons samengevoegd.’",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "6010007",
+    "b": 6,
+    "c": 10,
+    "v": 7,
+    "t": "Jozua aarzelde niet. Korte tijd later verliet hij met het Israëlitische leger Gilgal om Gibeon te hulp te komen.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "6010008",
+    "b": 6,
+    "c": 10,
+    "v": 8,
+    "t": "‘Wees niet bang voor hen,’ zei de HERE tegen Jozua, ‘want Ik heb hen al aan u overgegeven om hen te vernietigen. Niet één van hen zal het tegen u kunnen opnemen.’",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "6010009",
+    "b": 6,
+    "c": 10,
+    "v": 9,
+    "t": "Jozua trok gedurende de nacht verder en verraste de vijandelijke legers volkomen.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "6010010",
+    "b": 6,
+    "c": 10,
+    "v": 10,
+    "t": "De HERE zaaide paniek onder hen, waardoor het Israëlitische leger hun een enorme nederlaag kon toebrengen. De overigen werden achtervolgd in de richting van Bet-Horon en werden verslagen tot helemaal bij Azeka en Makkeda.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "6010011",
+    "b": 6,
+    "c": 10,
+    "v": 11,
+    "t": "Toen de vijandelijke troepen vluchtend voor Israël de heuvel van Bet-Horon afdaalden naar Azeka, liet de HERE zware hagelstenen vanuit de hemel op hen neerregenen en er stierven er meer door de hagelstenen dan door het zwaard van de Israëlieten.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "6010012",
+    "b": 6,
+    "c": 10,
+    "v": 12,
+    "t": "Terwijl de mannen van Israël de vijand achtervolgden en doodden, bad Jozua hardop: ‘Laat de zon boven Gibeon stilstaan en laat de maan blijven staan boven het dal van Ajalon!’",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "6010013",
+    "b": 6,
+    "c": 10,
+    "v": 13,
+    "t": "En de zon stond stil en de maan bleef staan, totdat het Israëlitische leger de vijand had vernietigd! Deze gebeurtenis staat uitgebreider beschreven in het Boek van de Oprechten. Zo bleef de zon een hele dag stilstaan aan de hemel!",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "6010014",
+    "b": 6,
+    "c": 10,
+    "v": 14,
+    "t": "Zoʼn dag was er nog nooit geweest en is sindsdien ook nooit meer voorgekomen, de HERE liet zon en maan stilstaan door het gebed van slechts één man. Hij streed immers aan de kant van de Israëlieten.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "6010015",
+    "b": 6,
+    "c": 10,
+    "v": 15,
+    "t": "Daarna gingen Jozua en het Israëlitische leger terug naar Gilgal.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "6010016",
+    "b": 6,
+    "c": 10,
+    "v": 16,
+    "t": "De vijf koningen waren gevlucht en hielden zich schuil in een grot bij Makkeda.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "6010017",
+    "b": 6,
+    "c": 10,
+    "v": 17,
+    "t": "Toen aan Jozua werd gemeld dat zij waren gevonden,",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "6010018",
+    "b": 6,
+    "c": 10,
+    "v": 18,
+    "t": "beval hij die grot met grote stenen af te sluiten en er een gewapende wacht bij te zetten.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "6010019",
+    "b": 6,
+    "c": 10,
+    "v": 19,
+    "t": "De rest van het leger kreeg van Jozua het bevel de vijand te achtervolgen en hen van achteren aan te vallen en neer te slaan. ‘Zorg ervoor dat zij niet naar hun steden kunnen terugkeren, want de HERE zal u helpen hen volledig te vernietigen,’ zei hij.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "6010020",
+    "b": 6,
+    "c": 10,
+    "v": 20,
+    "t": "Jozua en het Israëlitische leger hervatten de veldslag en vernietigden de vijf legers. Slechts een klein aantal vijanden wist zich in veiligheid te brengen binnen de versterkte steden.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "6010021",
+    "b": 6,
+    "c": 10,
+    "v": 21,
+    "t": "Zonder ook maar één man te hebben verloren, keerden de Israëlieten daarna terug naar hun kamp bij Makkeda. Vanaf dat moment dacht niemand er meer over het volk Israël te bedreigen.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "6010022",
+    "b": 6,
+    "c": 10,
+    "v": 22,
+    "t": "Jozua gaf zijn mannen hierna opdracht de steen voor de ingang van de grot weg te halen en de vijf koningen van Jeruzalem, Hebron, Jarmuth, Lachis en Eglon eruit te laten.",
+    "h": "",
+    "o": 22,
+    "l": "22-23"
+  },
+  {
+    "id": "6010023",
+    "b": 6,
+    "c": 10,
+    "v": 24,
+    "t": "Hij zei tegen zijn legeraanvoerders dat zij hun voet op de nek van de koningen moesten zetten.",
+    "h": "",
+    "o": 23,
+    "l": "24"
+  },
+  {
+    "id": "6010024",
+    "b": 6,
+    "c": 10,
+    "v": 25,
+    "t": "‘Wees nooit bang en laat de moed nooit varen,’ zei Jozua tegen zijn mannen. ‘Wees sterk en moedig, want de HERE gaat ditzelfde met al uw vijanden doen.’",
+    "h": "",
+    "o": 24,
+    "l": "25"
+  },
+  {
+    "id": "6010025",
+    "b": 6,
+    "c": 10,
+    "v": 26,
+    "t": "Daarna doodde Jozua de vijf koningen en liet hen aan vijf bomen ophangen, waar ze tot het vallen van de avond bleven hangen.",
+    "h": "",
+    "o": 25,
+    "l": "26"
+  },
+  {
+    "id": "6010026",
+    "b": 6,
+    "c": 10,
+    "v": 27,
+    "t": "Tegen zonsondergang gaf Jozua opdracht hun lijken eraf te halen en in de grot te gooien, waar zij zich eerder hadden verborgen. Voor de ingang van de grot werd een grote hoop stenen opgestapeld. Die steenhoop staat er nu nog.",
+    "h": "",
+    "o": 26,
+    "l": "27"
+  },
+  {
+    "id": "6010027",
+    "b": 6,
+    "c": 10,
+    "v": 28,
+    "t": "Nog diezelfde dag nam Jozua de stad Makkeda in, maakte die met de grond gelijk en doodde haar koning en inwoners. Er bleef niemand uit die stad in leven.",
+    "h": "",
+    "o": 27,
+    "l": "28"
+  },
+  {
+    "id": "6010028",
+    "b": 6,
+    "c": 10,
+    "v": 29,
+    "t": "Daarna trokken de Israëlieten naar Libna.",
+    "h": "",
+    "o": 28,
+    "l": "29"
+  },
+  {
+    "id": "6010029",
+    "b": 6,
+    "c": 10,
+    "v": 30,
+    "t": "Ook daar gaf de HERE hun de stad en haar koning in handen. De bevolking werd tot de laatste man gedood net als in Jericho.",
+    "h": "",
+    "o": 29,
+    "l": "30"
+  },
+  {
+    "id": "6010030",
+    "b": 6,
+    "c": 10,
+    "v": 31,
+    "t": "Van Libna ging Jozua naar Lachis om ook die stad aan te vallen.",
+    "h": "",
+    "o": 30,
+    "l": "31"
+  },
+  {
+    "id": "6010031",
+    "b": 6,
+    "c": 10,
+    "v": 32,
+    "t": "Op de tweede dag schonk de HERE hun de overwinning over Lachis en ook hier werd de hele bevolking gedood, net als in Libna.",
+    "h": "",
+    "o": 31,
+    "l": "32"
+  },
+  {
+    "id": "6010032",
+    "b": 6,
+    "c": 10,
+    "v": 33,
+    "t": "Tijdens de aanval op Lachis kwam koning Horam van Gezer met zijn leger om de stad te helpen. Jozuaʼs mannen maakten echter korte metten met hem en zijn leger en doodden iedereen.",
+    "h": "",
+    "o": 32,
+    "l": "33"
+  },
+  {
+    "id": "6010033",
+    "b": 6,
+    "c": 10,
+    "v": 34,
+    "t": "Daarna nam het Israëlitische leger in één dag de stad Eglon in en doodde de hele bevolking, net zoals in Lachis was gebeurd.",
+    "h": "",
+    "o": 33,
+    "l": "34-35"
+  },
+  {
+    "id": "6010034",
+    "b": 6,
+    "c": 10,
+    "v": 36,
+    "t": "Na met Eglon te hebben afgerekend, trokken zij naar Hebron,",
+    "h": "",
+    "o": 34,
+    "l": "36"
+  },
+  {
+    "id": "6010035",
+    "b": 6,
+    "c": 10,
+    "v": 37,
+    "t": "namen de stad en de haar omringende dorpen in en doodden ook daar de hele bevolking. Niemand werd in leven gelaten.",
+    "h": "",
+    "o": 35,
+    "l": "37"
+  },
+  {
+    "id": "6010036",
+    "b": 6,
+    "c": 10,
+    "v": 38,
+    "t": "Vervolgens keerden zij om naar Debir.",
+    "h": "",
+    "o": 36,
+    "l": "38"
+  },
+  {
+    "id": "6010037",
+    "b": 6,
+    "c": 10,
+    "v": 39,
+    "t": "Deze stad veroverden zij snel, evenals de dorpen in de omgeving. Ook hier werd iedereen gedood.",
+    "h": "",
+    "o": 37,
+    "l": "39"
+  },
+  {
+    "id": "6010038",
+    "b": 6,
+    "c": 10,
+    "v": 40,
+    "t": "Zo onderwierp Jozua met zijn leger het hele land, het bergland, de Negev, de laagvlakte en de uitlopers van het gebergte, met al hun vorsten. Zij doodden iedereen in het land, precies zoals de HERE, de God van Israël, had opgedragen.",
+    "h": "",
+    "o": 38,
+    "l": "40"
+  },
+  {
+    "id": "6010039",
+    "b": 6,
+    "c": 10,
+    "v": 41,
+    "t": "Jozua behaalde overwinningen van Kades-Barnea tot Gaza en van Gosen tot Gibeon.",
+    "h": "",
+    "o": 39,
+    "l": "41"
+  },
+  {
+    "id": "6010040",
+    "b": 6,
+    "c": 10,
+    "v": 42,
+    "t": "Alles werd in één veldtocht veroverd, omdat de HERE, de God van Israël, voor zijn volk streed.",
+    "h": "",
+    "o": 40,
+    "l": "42"
+  },
+  {
+    "id": "6010041",
+    "b": 6,
+    "c": 10,
+    "v": 43,
+    "t": "Na afloop keerden Jozua en zijn leger terug naar hun kamp bij Gilgal.",
+    "h": "",
+    "o": 41,
+    "l": "43"
+  },
+  {
+    "id": "6011001",
+    "b": 6,
+    "c": 11,
+    "v": 1,
+    "t": "Toen koning Jabin van Hazor hoorde wat er allemaal was gebeurd, stuurde hij een dringende boodschap naar koning Jobab van Madon, de koning van Simron, de koning van Achsaf,",
+    "h": "Israël overwint vele volken",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "6011002",
+    "b": 6,
+    "c": 11,
+    "v": 2,
+    "t": "alle koningen van het noordelijke bergland, de koningen van de Vlakte, ten zuiden van Kinneroth, de koningen van de laaggelegen gebieden, de koningen van het bergachtige gebied van Dor in het westen,",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "6011003",
+    "b": 6,
+    "c": 11,
+    "v": 3,
+    "t": "de koningen van Kanaän, zowel uit het oosten als uit het westen, de koningen van de Amorieten, Hethieten en Perizzieten, de koningen van het Jebusitische bergland en de koningen van de Chiwwitische steden op de hellingen van de berg Hermon in het land Mispa.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "6011004",
+    "b": 6,
+    "c": 11,
+    "v": 4,
+    "t": "Al deze koningen reageerden op de boodschap door hun legers te mobiliseren en zich te verenigen om Israël te vernietigen. Hun gezamenlijke legers, met heel veel paarden en strijdwagens, kwamen bijeen en sloegen hun kamp op bij de bronnen van Merom.",
+    "h": "",
+    "o": 4,
+    "l": "4-5"
+  },
+  {
+    "id": "6011005",
+    "b": 6,
+    "c": 11,
+    "v": 6,
+    "t": "Maar de HERE zei tegen Jozua: ‘Wees niet bang voor hen, want morgen om deze tijd zal Ik hen allen in de macht van Israël overgeven. Dan moet u de pezen van hun paarden doorsnijden en hun strijdwagens verbranden.’",
+    "h": "",
+    "o": 5,
+    "l": "6"
+  },
+  {
+    "id": "6011006",
+    "b": 6,
+    "c": 11,
+    "v": 7,
+    "t": "Jozua en zijn troepen verrasten het vijandelijke leger bij de bronnen van Merom en vielen aan.",
+    "h": "",
+    "o": 6,
+    "l": "7"
+  },
+  {
+    "id": "6011007",
+    "b": 6,
+    "c": 11,
+    "v": 8,
+    "t": "De HERE gaf dat enorme leger in de macht van de Israëlieten, die het achtervolgden tot aan Groot-Sidon en een plaats die Brandend Water werd genoemd en in oostelijke richting tot aan het dal van Mispa. Geen enkele vijand overleefde deze veldslag.",
+    "h": "",
+    "o": 7,
+    "l": "8"
+  },
+  {
+    "id": "6011008",
+    "b": 6,
+    "c": 11,
+    "v": 9,
+    "t": "Jozua en zijn mannen volgden de aanwijzingen van de HERE op. Zij sneden de pezen van de paarden door en verbrandden alle strijdwagens.",
+    "h": "",
+    "o": 8,
+    "l": "9"
+  },
+  {
+    "id": "6011009",
+    "b": 6,
+    "c": 11,
+    "v": 10,
+    "t": "Op de terugweg veroverde Jozua de stad Hazor en doodde haar koning. Hazor was eens de hoofdstad geweest van een verbond van al die koninkrijken.",
+    "h": "",
+    "o": 9,
+    "l": "10"
+  },
+  {
+    "id": "6011010",
+    "b": 6,
+    "c": 11,
+    "v": 11,
+    "t": "Alle inwoners werden gedood, waarna de stad werd verbrand.",
+    "h": "",
+    "o": 10,
+    "l": "11"
+  },
+  {
+    "id": "6011011",
+    "b": 6,
+    "c": 11,
+    "v": 12,
+    "t": "Daarna bond hij de strijd aan met de andere steden van de verslagen koningen en maakte ze met de grond gelijk. Alle inwoners werden gedood, zoals Mozes had bevolen.",
+    "h": "",
+    "o": 11,
+    "l": "12"
+  },
+  {
+    "id": "6011012",
+    "b": 6,
+    "c": 11,
+    "v": 13,
+    "t": "Behalve Hazor stak Jozua echter verder geen enkele hooggelegen stad in brand.",
+    "h": "",
+    "o": 12,
+    "l": "13"
+  },
+  {
+    "id": "6011013",
+    "b": 6,
+    "c": 11,
+    "v": 14,
+    "t": "Alle buit en het vee van de verwoeste steden hielden de Israëlieten voor zichzelf, maar de inwoners doodden zij.",
+    "h": "",
+    "o": 13,
+    "l": "14"
+  },
+  {
+    "id": "6011014",
+    "b": 6,
+    "c": 11,
+    "v": 15,
+    "t": "Want dat had de HERE zijn dienaar Mozes opgedragen. Mozes had die opdracht op zijn beurt aan Jozua doorgegeven, die deze dan ook uitvoerde. Alle aanwijzingen die de HERE Mozes had gegeven, voerde Jozua nauwgezet uit.",
+    "h": "",
+    "o": 14,
+    "l": "15"
+  },
+  {
+    "id": "6011015",
+    "b": 6,
+    "c": 11,
+    "v": 16,
+    "t": "Zo veroverde Jozua het hele land: het bergland, de Negev, het land Gosen, de laaggelegen gebieden, de vlakte van de Jordaan en de heuvels en laagvlakten van Israël.",
+    "h": "",
+    "o": 15,
+    "l": "16"
+  },
+  {
+    "id": "6011016",
+    "b": 6,
+    "c": 11,
+    "v": 17,
+    "t": "Het gebied van de Israëlieten strekte zich nu uit van de Kale Berg dicht bij Seïr, tot Baäl-Gad in het dal van de Libanon, aan de voet van de Hermon. Jozua doodde alle koningen die in dat gebied heersten.",
+    "h": "",
+    "o": 16,
+    "l": "17"
+  },
+  {
+    "id": "6011017",
+    "b": 6,
+    "c": 11,
+    "v": 18,
+    "t": "Er was een lange oorlog voor nodig om dit resultaat te bereiken.",
+    "h": "",
+    "o": 17,
+    "l": "18"
+  },
+  {
+    "id": "6011018",
+    "b": 6,
+    "c": 11,
+    "v": 19,
+    "t": "Geen enkele stad kreeg de kans met Israël vrede te sluiten, uitgezonderd de Chiwwieten uit Gibeon, alle anderen werden met geweld veroverd.",
+    "h": "",
+    "o": 18,
+    "l": "19"
+  },
+  {
+    "id": "6011019",
+    "b": 6,
+    "c": 11,
+    "v": 20,
+    "t": "Want de HERE zorgde ervoor dat de vijandelijke koningen de strijd aanbonden met de Israëlieten in plaats van om vrede te vragen, zo werden zij genadeloos gedood, zoals de HERE Mozes had opgedragen.",
+    "h": "",
+    "o": 19,
+    "l": "20"
+  },
+  {
+    "id": "6011020",
+    "b": 6,
+    "c": 11,
+    "v": 21,
+    "t": "Gedurende deze periode roeide Jozua ook alle reuzen uit. Dit waren afstammelingen van Enak en zij woonden in het bergland in Hebron, Debir, Anab, Juda en Israël. Hij doodde hen tot de laatste man en maakte hun steden met de grond gelijk.",
+    "h": "",
+    "o": 20,
+    "l": "21"
+  },
+  {
+    "id": "6011021",
+    "b": 6,
+    "c": 11,
+    "v": 22,
+    "t": "In het land Israël werd er niet één in leven gelaten, maar in Gaza, Gath en Asdod zijn enkelen overgebleven.",
+    "h": "",
+    "o": 21,
+    "l": "22"
+  },
+  {
+    "id": "6011022",
+    "b": 6,
+    "c": 11,
+    "v": 23,
+    "t": "Jozua nam het hele land in bezit, precies zoals de HERE Mozes had opgedragen. Hij gaf het aan de Israëlieten als hun erfdeel en verdeelde het onder de stammen. Toen kon het land zich eindelijk van het oorlogsgeweld herstellen.",
+    "h": "",
+    "o": 22,
+    "l": "23"
+  },
+  {
+    "id": "6012001",
+    "b": 6,
+    "c": 12,
+    "v": 1,
+    "t": "De Israëlieten hebben eerst het gebied ten oosten van de Jordaan in bezit genomen dat zich uitstrekt van het dal van de rivier de Arnon tot aan de berg Hermon, met de steden in de oostelijk gelegen woestijn. Zij versloegen daar twee koningen:",
+    "h": "Door Israël overwonnen",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "6012002",
+    "b": 6,
+    "c": 12,
+    "v": 2,
+    "t": "koning Sichon van de Amorieten, die in Chesbon woonde. Zijn koninkrijk strekte zich uit over Aroër aan de rivier de Arnon halverwege het dal van de Arnon tot aan de rivier de Jabbok, die ook de grens met de Ammonieten vormt. Hierbij hoort tevens de helft van Gilead ten noorden van de Jabbok.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "6012003",
+    "b": 6,
+    "c": 12,
+    "v": 3,
+    "t": "Sichons macht strekte zich ook uit over het dal van de Jordaan, met in het noorden als grens de westelijke oever van het Meer van Galilea en in het zuiden begrensd door de Zoutzee en de hellingen van de berg Pisga.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "6012004",
+    "b": 6,
+    "c": 12,
+    "v": 4,
+    "t": "De ander was koning Og van Basan, een van de laatste reuzen, woonde in Astarot en Edreï:",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "6012005",
+    "b": 6,
+    "c": 12,
+    "v": 5,
+    "t": "hij heerste over een gebied dat zich uitstrekte van de berg Hermon in het noorden tot Salcha op de berg Basan in het oosten en de grenzen van de koninkrijken Gesur en Maächa in het westen. In het zuiden strekte zijn koninkrijk zich uit tot en met de noordelijke helft van Gilead, waar zijn gebied aan het koninkrijk van koning Sichon van Chesbon grensde.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "6012006",
+    "b": 6,
+    "c": 12,
+    "v": 6,
+    "t": "Mozes en de Israëlieten hadden deze volken indertijd vernietigd en Mozes gaf hun land aan de stammen van Ruben, Gad en de halve stam Manasse.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "6012007",
+    "b": 6,
+    "c": 12,
+    "v": 7,
+    "t": "Dit zijn de koningen die ten westen van de Jordaan regeerden en gedood werden door Jozua en de legers van Israël. Dit gebied tussen Baäl-Gad in het dal van de Libanon en de Kale Berg ten westen van de berg Seïr, wees Jozua aan de andere stammen van Israël toe.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "6012008",
+    "b": 6,
+    "c": 12,
+    "v": 8,
+    "t": "De streek omvatte het bergland, de laaggelegen gebieden, de vlakte, de berghellingen, de woestijn van Juda en de Negev. De volken die daar leefden, waren de Hethieten, Amorieten, Kanaänieten, Perizzieten, Chiwwieten en Jebusieten. Hier volgen dan de koningen: de koning van Jericho, de koning van Ai vlak bij Betel, de koning van Jeruzalem, de koning van Hebron, de koning van Jarmuth, de koning van Lachis, de koning van Eglon, de koning van Geser, de koning van Debir, de koning van Geder, de koning van Chorma, de koning van Harad, de koning van Libna, de koning van Adullam, de koning van Makkeda, de koning van Betel, de koning van Tappuah, de koning van Chefer, de koning van Afek, de koning van Lassaron, de koning van Madon, de koning van Hazor, de koning van Simron-Meron, de koning van Achsaf, de koning van Taänach, de koning van Megiddo, de koning van Kedes, de koning van Jokneam bij de Karmel, de koning van Dor in het heuvelgebied van Dor, de koning van Goïm bij Gilgal en de koning van Tirza. In totaal werden dus eenendertig koningen met hun steden vernietigd.",
+    "h": "",
+    "o": 8,
+    "l": "8-24"
+  },
+  {
+    "id": "6013001",
+    "b": 6,
+    "c": 13,
+    "v": 1,
+    "t": "Toen Jozua oud was geworden, sprak God hem daarover aan en Hij wees hem erop dat nog heel veel gebieden in bezit moesten worden genomen:",
+    "h": "De verdeling van het land",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "6013002",
+    "b": 6,
+    "c": 13,
+    "v": 2,
+    "t": "het hele land van de Filistijnen; het land van de Gesurieten; het gebied van de Kanaänieten, dat zich uitstrekte van de Beek van Egypte tot de zuidelijke grens van Ekron; de vijf Filistijnse steden Gaza, Asdod, Askelon, Gath en Ekron.",
+    "h": "",
+    "o": 2,
+    "l": "2-3"
+  },
+  {
+    "id": "6013003",
+    "b": 6,
+    "c": 13,
+    "v": 4,
+    "t": "Daarbij komt nog het land van de Awwieten in het zuiden; in het noorden al het land van de Kanaänieten; Meara (dat aan de Sidoniërs behoort), dat zich noordwaarts uitstrekt tot Afek aan de grens van de Amorieten;",
+    "h": "",
+    "o": 3,
+    "l": "4"
+  },
+  {
+    "id": "6013004",
+    "b": 6,
+    "c": 13,
+    "v": 5,
+    "t": "het land van de Giblieten en het hele gebied van de Libanon in het oosten, van Baäl-Gad aan de voet van de berg Hermon tot aan de toegangsweg naar Hamath;",
+    "h": "",
+    "o": 4,
+    "l": "5"
+  },
+  {
+    "id": "6013005",
+    "b": 6,
+    "c": 13,
+    "v": 6,
+    "t": "het gehele heuvelgebied van de Libanon tot aan de plaats Brandend Water, inclusief het hele gebied van de Sidoniërs. ‘Ik zal de inwoners van deze gebieden voor het volk Israël het land uitjagen,",
+    "h": "",
+    "o": 5,
+    "l": "6"
+  },
+  {
+    "id": "6013006",
+    "b": 6,
+    "c": 13,
+    "v": 7,
+    "t": "dus reken dit hele gebied mee wanneer u het land gaat verdelen onder de negen stammen en de halve stam van Manasse, zoals Ik u heb bevolen,’ zei de HERE.",
+    "h": "",
+    "o": 6,
+    "l": "7"
+  },
+  {
+    "id": "6013007",
+    "b": 6,
+    "c": 13,
+    "v": 8,
+    "t": "De andere helft van de stam van Manasse en de stammen van Ruben en Gad hadden hun gebied al ontvangen ten oosten van de Jordaan, want Mozes had dit gebied vóór die tijd al aan hen toegewezen.",
+    "h": "",
+    "o": 7,
+    "l": "8"
+  },
+  {
+    "id": "6013008",
+    "b": 6,
+    "c": 13,
+    "v": 9,
+    "t": "Hun gebied omvatte Aroër, dat aan de rivier de Arnon ligt, halverwege het dal en de hele hoogvlakte van Medeba tot Dibon.",
+    "h": "",
+    "o": 8,
+    "l": "9"
+  },
+  {
+    "id": "6013009",
+    "b": 6,
+    "c": 13,
+    "v": 10,
+    "t": "Ook alle steden van koning Sichon van de Amorieten, die vanuit Chesbon regeerde, tot aan de grenzen van Ammon hoorden daarbij.",
+    "h": "",
+    "o": 9,
+    "l": "10"
+  },
+  {
+    "id": "6013010",
+    "b": 6,
+    "c": 13,
+    "v": 11,
+    "t": "Ook Gilead, het gebied van de Gesurieten en de Maächatieten, de hele berg Hermon, Basan tot de stad Salcha",
+    "h": "",
+    "o": 10,
+    "l": "11"
+  },
+  {
+    "id": "6013011",
+    "b": 6,
+    "c": 13,
+    "v": 12,
+    "t": "en het hele gebied van koning Og van Basan, die had geregeerd vanuit Astarot en Edreï, hoorden erbij. Koning Og was een van de laatste overlevenden van de Refaïeten, het volk van de reuzen die Mozes had aangevallen en verslagen.",
+    "h": "",
+    "o": 11,
+    "l": "12"
+  },
+  {
+    "id": "6013012",
+    "b": 6,
+    "c": 13,
+    "v": 13,
+    "t": "Het volk Israël had de Gesurieten en de Maächatieten niet verdreven, zodat zij tot op de dag van vandaag te midden van de Israëlieten wonen.",
+    "h": "",
+    "o": 12,
+    "l": "13"
+  },
+  {
+    "id": "6013013",
+    "b": 6,
+    "c": 13,
+    "v": 14,
+    "t": "De stam van Levi kreeg van Mozes geen land toegewezen. In plaats daarvan kregen zij de offers die aan de HERE werden gebracht, zoals Hij Mozes had beloofd.",
+    "h": "",
+    "o": 13,
+    "l": "14"
+  },
+  {
+    "id": "6013014",
+    "b": 6,
+    "c": 13,
+    "v": 15,
+    "t": "Rekening houdend met het aantal gezinnen had Mozes de stam van Ruben het gebied toegewezen van Aroër, aan de rivier de Arnon, midden in het dal en de hele hoogvlakte van Medeba.",
+    "h": "",
+    "o": 14,
+    "l": "15-16"
+  },
+  {
+    "id": "6013015",
+    "b": 6,
+    "c": 13,
+    "v": 17,
+    "t": "Het omvatte Chesbon en de andere steden op de vlakte: Dibon, Bamot-Baäl, Bet-Baäl-Meon,",
+    "h": "",
+    "o": 15,
+    "l": "17"
+  },
+  {
+    "id": "6013016",
+    "b": 6,
+    "c": 13,
+    "v": 18,
+    "t": "Jahza, Kedemoth, Mefaäth,",
+    "h": "",
+    "o": 16,
+    "l": "18"
+  },
+  {
+    "id": "6013017",
+    "b": 6,
+    "c": 13,
+    "v": 19,
+    "t": "Kirjataïm, Sibma, Zereth-Hassahar op de berg boven het dal,",
+    "h": "",
+    "o": 17,
+    "l": "19"
+  },
+  {
+    "id": "6013018",
+    "b": 6,
+    "c": 13,
+    "v": 20,
+    "t": "Bet-Peor, de hellingen van de berg Pisga en Bet-Jesimoth.",
+    "h": "",
+    "o": 18,
+    "l": "20"
+  },
+  {
+    "id": "6013019",
+    "b": 6,
+    "c": 13,
+    "v": 21,
+    "t": "Het stamgebied van Ruben omvatte ook de steden op de hoogvlakte en het koninkrijk van Sichon. Koning Sichon had in Chesbon geregeerd en was samen met de andere machtige leiders van Midjan—Evi, Rekem, Zur, Hur en Reba—door Mozes gedood.",
+    "h": "",
+    "o": 19,
+    "l": "21"
+  },
+  {
+    "id": "6013020",
+    "b": 6,
+    "c": 13,
+    "v": 22,
+    "t": "Het volk Israël doodde ook de waarzegger Bileam, de zoon van Beor.",
+    "h": "",
+    "o": 20,
+    "l": "22"
+  },
+  {
+    "id": "6013021",
+    "b": 6,
+    "c": 13,
+    "v": 23,
+    "t": "De Jordaan vormde de westgrens van de stam van Ruben.",
+    "h": "",
+    "o": 21,
+    "l": "23"
+  },
+  {
+    "id": "6013022",
+    "b": 6,
+    "c": 13,
+    "v": 24,
+    "t": "Mozes had ook aan de stam van Gad land toegewezen, in verhouding tot de grootte van die stam.",
+    "h": "",
+    "o": 22,
+    "l": "24"
+  },
+  {
+    "id": "6013023",
+    "b": 6,
+    "c": 13,
+    "v": 25,
+    "t": "Dit gebied omvatte Jazer, alle steden van Gilead en de helft van het land van Ammon tot aan Aroër bij Rabba.",
+    "h": "",
+    "o": 23,
+    "l": "25"
+  },
+  {
+    "id": "6013024",
+    "b": 6,
+    "c": 13,
+    "v": 26,
+    "t": "Verder strekte het zich uit van Chesbon tot Ramath-Mispa en Bet-Onim en van Machanaïm tot Lidber.",
+    "h": "",
+    "o": 24,
+    "l": "26"
+  },
+  {
+    "id": "6013025",
+    "b": 6,
+    "c": 13,
+    "v": 27,
+    "t": "In de vallei lagen Bet-Haram, Bet-Nimra, Sukkot, Zafon en de rest van het rijk van koning Sichon van Chesbon. De Jordaan vormde de westelijke grens, lopend tot het Meer van Galilea, vandaar boog de grens in oostelijke richting van de Jordaan af.",
+    "h": "",
+    "o": 25,
+    "l": "27-28"
+  },
+  {
+    "id": "6013026",
+    "b": 6,
+    "c": 13,
+    "v": 29,
+    "t": "Mozes had het volgende gebied toegewezen aan de helft van de stam van Manasse, ook weer in verhouding tot het aantal stamleden.",
+    "h": "",
+    "o": 26,
+    "l": "29"
+  },
+  {
+    "id": "6013027",
+    "b": 6,
+    "c": 13,
+    "v": 30,
+    "t": "Hun gebied strekte zich vanaf Machanaïm in noordelijke richting uit, omvatte heel Basan, het vroegere rijk van koning Og en de zestig dorpen van Jaïr in Basan.",
+    "h": "",
+    "o": 27,
+    "l": "30"
+  },
+  {
+    "id": "6013028",
+    "b": 6,
+    "c": 13,
+    "v": 31,
+    "t": "De helft van Gilead en de koninklijke steden Astarot en Edreï, die aan koning Og hadden toebehoord, werden gegeven aan de helft van de familie van Machir, een zoon van Manasse.",
+    "h": "",
+    "o": 28,
+    "l": "31"
+  },
+  {
+    "id": "6013029",
+    "b": 6,
+    "c": 13,
+    "v": 32,
+    "t": "Zo had Mozes het land ten oosten van de Jordaan verdeeld, waar het volk in die tijd het kamp tegenover Jericho had opgeslagen.",
+    "h": "",
+    "o": 29,
+    "l": "32"
+  },
+  {
+    "id": "6013030",
+    "b": 6,
+    "c": 13,
+    "v": 33,
+    "t": "Maar Mozes had de stam van Levi geen land gegeven omdat, zo had hij hun verteld, de HERE, de God van Israël, Zelf hun erfdeel was.",
+    "h": "",
+    "o": 30,
+    "l": "33"
+  },
+  {
+    "id": "6014001",
+    "b": 6,
+    "c": 14,
+    "v": 1,
+    "t": "De veroverde gebieden van Kanaän werden door loting onder de andere negen en een halve stam van Israël verdeeld. Welk gebied aan welke stam werd gegeven, werd bepaald door het lot te werpen voor de HERE. En de HERE zorgde ervoor dat het lot viel zoals Hij wilde. De priester Eleazar, Jozua en de stamleiders hadden de leiding bij deze loting.",
+    "h": "Kanaän verdeeld onder de stammen",
+    "o": 1,
+    "l": "1-2"
+  },
+  {
+    "id": "6014002",
+    "b": 6,
+    "c": 14,
+    "v": 3,
+    "t": "Mozes had al land toegewezen aan de twee en een halve stam op de oostelijke oever van de Jordaan. De stam van Jozef was gesplitst in twee afzonderlijke stammen, Manasse en Efraïm en de Levieten kregen helemaal geen land behalve enkele steden om in te wonen en wat weidegrond rond die steden om hun vee te laten grazen.",
+    "h": "",
+    "o": 2,
+    "l": "3-4"
+  },
+  {
+    "id": "6014003",
+    "b": 6,
+    "c": 14,
+    "v": 5,
+    "t": "De verdeling van het land werd dus geregeld volgens de aanwijzingen die de HERE Mozes had gegeven.",
+    "h": "",
+    "o": 3,
+    "l": "5"
+  },
+  {
+    "id": "6014004",
+    "b": 6,
+    "c": 14,
+    "v": 6,
+    "t": "Een aantal leden van de stam Juda kwam onder leiding van Kaleb (de zoon van Jefunne) naar Jozua, die in Gilgal was. ‘Herinnert u zich nog wat de HERE in Kades-Barnea tegen Mozes zei over ons beiden?’ vroeg Kaleb aan Jozua.",
+    "h": "",
+    "o": 4,
+    "l": "6"
+  },
+  {
+    "id": "6014005",
+    "b": 6,
+    "c": 14,
+    "v": 7,
+    "t": "‘Ik was veertig jaar toen Mozes ons er vanuit Kades-Barnea op uitstuurde om het land Kanaän te verkennen. Ik bracht een nauwkeurig verslag uit.",
+    "h": "",
+    "o": 5,
+    "l": "7"
+  },
+  {
+    "id": "6014006",
+    "b": 6,
+    "c": 14,
+    "v": 8,
+    "t": "Onze broeders die ons hadden vergezeld, maakten het volk echter bang en ontmoedigden iedereen om het beloofde land binnen te trekken. Maar omdat ik de HERE, mijn God, trouw was gebleven,",
+    "h": "",
+    "o": 6,
+    "l": "8"
+  },
+  {
+    "id": "6014007",
+    "b": 6,
+    "c": 14,
+    "v": 9,
+    "t": "zei Mozes tegen mij: “Het deel van Kanaän waaruit u zojuist bent teruggekeerd, zal voor altijd voor u en uw nageslacht zijn.”",
+    "h": "",
+    "o": 7,
+    "l": "9"
+  },
+  {
+    "id": "6014008",
+    "b": 6,
+    "c": 14,
+    "v": 10,
+    "t": "Zoals u zelf wel kunt zien, heeft de HERE mij al die vijfenveertig jaar van onze omzwervingen door de woestijn in leven gehouden en op dit moment ben ik vijfentachtig jaar oud.",
+    "h": "",
+    "o": 8,
+    "l": "10"
+  },
+  {
+    "id": "6014009",
+    "b": 6,
+    "c": 14,
+    "v": 11,
+    "t": "Ik heb nog net zoveel kracht als toen Mozes ons op verkenning uitzond en ik kan nog steeds reizen en vechten als toen!",
+    "h": "",
+    "o": 9,
+    "l": "11"
+  },
+  {
+    "id": "6014010",
+    "b": 6,
+    "c": 14,
+    "v": 12,
+    "t": "Daarom vraag ik u mij het heuvelgebied te geven dat de HERE mij heeft beloofd. U zult zich herinneren dat wij toen als verkenners zagen hoe daar de Enakieten, een volk van reuzen, in grote, ommuurde steden woonden. Maar als de HERE mij helpt, zal ik hen uit het land verdrijven.’",
+    "h": "",
+    "o": 10,
+    "l": "12"
+  },
+  {
+    "id": "6014011",
+    "b": 6,
+    "c": 14,
+    "v": 13,
+    "t": "Jozua zegende hem toen en gaf hem Hebron als een eeuwig erfdeel, omdat hij de HERE, de God van Israël, volkomen trouw was gebleven.",
+    "h": "",
+    "o": 11,
+    "l": "13-14"
+  },
+  {
+    "id": "6014012",
+    "b": 6,
+    "c": 14,
+    "v": 15,
+    "t": "Vóór die tijd werd Hebron Kirjat-Arba genoemd, naar een beroemde held van de Enakieten. Toen was de strijd voorbij en kwam er rust in het land.",
+    "h": "",
+    "o": 12,
+    "l": "15"
+  },
+  {
+    "id": "6015001",
+    "b": 6,
+    "c": 15,
+    "v": 1,
+    "t": "Het land dat door de heilige loting aan de stam Juda werd toegewezen, liep van het gebied van Edom tot de woestijn Sin helemaal in het zuiden.",
+    "h": "Het land van de stam van Juda",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "6015002",
+    "b": 6,
+    "c": 15,
+    "v": 2,
+    "t": "De zuidgrens begon bij de zuidkust van de Zoutzee,",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "6015003",
+    "b": 6,
+    "c": 15,
+    "v": 3,
+    "t": "liep ten zuiden van de Schorpioenpas in de richting van Zin en ging verder voorbij Hezron ten zuiden van Kades-Barnea, waarna hij via Karka en",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "6015004",
+    "b": 6,
+    "c": 15,
+    "v": 4,
+    "t": "Asmon weer naar boven liep om uit te komen bij de Beek van Egypte en die te volgen tot de Middellandse Zee.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "6015005",
+    "b": 6,
+    "c": 15,
+    "v": 5,
+    "t": "De oostgrens liep van de Zoutzee tot de monding van de Jordaan. De noordgrens begon bij het punt waar de Jordaan in de Zoutzee uitmondt,",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "6015006",
+    "b": 6,
+    "c": 15,
+    "v": 6,
+    "t": "liep verder naar Bet-Hogla en strekte zich noordelijk van Bet-Araba uit tot de steen van Bohan, de zoon van Ruben.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "6015007",
+    "b": 6,
+    "c": 15,
+    "v": 7,
+    "t": "Vanaf dat punt liep hij door het dal van Achor naar Debir, waar hij naar het noordwesten boog, richting Gilgal, tegenover de hellingen van de Adummim aan de zuidzijde van de vallei. Van daaruit liep de grenslijn naar de bronnen van En-Semes en kwam uit bij En-Rogel.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "6015008",
+    "b": 6,
+    "c": 15,
+    "v": 8,
+    "t": "De grenslijn volgde daarna het dal Hinnom, langs de zuidelijke helling van Jeruzalem, liep in westelijke richting naar de bergtop boven het dal Hinnom en verder omhoog naar het noordelijke einde van het dal van de Refaïeten, de reuzen.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "6015009",
+    "b": 6,
+    "c": 15,
+    "v": 9,
+    "t": "Van deze bergtop strekte de grens zich uit naar de bron van Mé-Nefthoah, verder naar de steden in het gebergte van Efron om daarna noordwaarts af te buigen en Baäla (een andere naam voor Kirjat-Jearim) te omcirkelen.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "6015010",
+    "b": 6,
+    "c": 15,
+    "v": 10,
+    "t": "De grenslijn boog ten westen van Baäla naar de berg Seïr, liep langs de stad Chesalon op de noordhelling van de berg Jearim om bij Bet-Semes uit te komen. Daar liep hij weer in noordwestelijke richting, passeerde Timna in het zuiden en vervolgde zijn weg naar de heuvel ten noorden van Ekron, waar hij naar links draaide en Sichron en de berg Baäla noordelijk liet liggen. Opnieuw naar het noorden draaiend, passeerde hij Jabneël om ten slotte bij de Middellandse Zee te eindigen.",
+    "h": "",
+    "o": 10,
+    "l": "10-11"
+  },
+  {
+    "id": "6015011",
+    "b": 6,
+    "c": 15,
+    "v": 12,
+    "t": "De westgrens werd gevormd door de kust van de Middellandse Zee.",
+    "h": "",
+    "o": 11,
+    "l": "12"
+  },
+  {
+    "id": "6015012",
+    "b": 6,
+    "c": 15,
+    "v": 13,
+    "t": "De HERE droeg Jozua op een gedeelte van het land van Juda aan Kaleb, de zoon van Jefunne, toe te wijzen. Deze kreeg de stad Kirjat-Arba, die ook wel Hebron werd genoemd. De stad ontleende haar naam aan Arba, de vader van Enak.",
+    "h": "",
+    "o": 12,
+    "l": "13"
+  },
+  {
+    "id": "6015013",
+    "b": 6,
+    "c": 15,
+    "v": 14,
+    "t": "Kaleb verdreef de drie zonen van Enak en hun volken: Sesai, Achiman en Talmai.",
+    "h": "",
+    "o": 13,
+    "l": "14"
+  },
+  {
+    "id": "6015014",
+    "b": 6,
+    "c": 15,
+    "v": 15,
+    "t": "Daarna bond hij de strijd aan met de inwoners van de stad Debir, die vroeger Kirjat-Sefer werd genoemd.",
+    "h": "",
+    "o": 14,
+    "l": "15"
+  },
+  {
+    "id": "6015015",
+    "b": 6,
+    "c": 15,
+    "v": 16,
+    "t": "Kaleb ging zelfs zo ver dat hij zijn dochter Achsa als vrouw wilde geven aan degene die Kirjat-Sefer veroverde.",
+    "h": "",
+    "o": 15,
+    "l": "16"
+  },
+  {
+    "id": "6015016",
+    "b": 6,
+    "c": 15,
+    "v": 17,
+    "t": "Othniël, de zoon van Kalebs broer Kenaz, was degene die de stad innam en zo werd Achsa Othniëls vrouw.",
+    "h": "",
+    "o": 16,
+    "l": "17"
+  },
+  {
+    "id": "6015017",
+    "b": 6,
+    "c": 15,
+    "v": 18,
+    "t": "Toen zij na het huwelijk met hem wegging, drong zij er bij hem op aan dat hij haar vader een stuk grond moest vragen, bij wijze van huwelijksgeschenk. Zij stapte van haar ezel om dit met Kaleb te bespreken. ‘Wat is er?’ vroeg hij. En zij antwoordde: ‘Geef mij nog een geschenk! Het land dat u mij nu hebt gegeven, is ontzettend droog. Geef mij op zijn minst enkele bronnen!’ Toen gaf hij haar de laaggelegen en hooggelegen bronnen.",
+    "h": "",
+    "o": 17,
+    "l": "18-19"
+  },
+  {
+    "id": "6015018",
+    "b": 6,
+    "c": 15,
+    "v": 20,
+    "t": "Dit was dus het land dat aan de stam van Juda werd toegewezen.",
+    "h": "",
+    "o": 18,
+    "l": "20"
+  },
+  {
+    "id": "6015019",
+    "b": 6,
+    "c": 15,
+    "v": 21,
+    "t": "De steden van Juda, die langs de grens van Edom in de Negev lagen, waren de volgende: Kabzeël, Eder, Jagur, Kina, Dimona, Adada, Kedes, Hazor, Ithnan, Zif, Telem, Bealoth, Hazor-Hadatta, Kerioth-Hezron (of Hazor), Amam, Sema, Molada, Hazar-Gadda, Hesmon, Bet-Pelet, Hazar-Sual, Berseba en Baäla, Ijim, Ezem, Eltholad, Chesil, Chorma, Ziklag, Madmanna, Sansanna, Lebaoth, Silhim, Ain en Rimmon. In totaal waren dit negenentwintig steden met de daarbij behorende dorpen.",
+    "h": "",
+    "o": 19,
+    "l": "21-32"
+  },
+  {
+    "id": "6015020",
+    "b": 6,
+    "c": 15,
+    "v": 33,
+    "t": "Ook de volgende steden die in het laagland lagen, werden aan Juda gegeven: Esthaol, Zora, Asna, Zanoah, En-Gannim, Tappuah, Enam, Jarmuth, Adullam, Socho, Azeka, Saäraïm, Adithaïm, Gedera en Gederothaïm. In totaal waren dit veertien steden met de bijbehorende dorpen.",
+    "h": "",
+    "o": 20,
+    "l": "33-36"
+  },
+  {
+    "id": "6015021",
+    "b": 6,
+    "c": 15,
+    "v": 37,
+    "t": "De stam van Juda kreeg nog vijfentwintig andere steden met de dorpen er omheen. Dat waren: Zenan, Hadasa, Migdal-Gad, Dilan, Mispa, Jokteël, Lachis, Bozkath, Eglon, Chabbon, Lahmas, Chitlis, Gederoth, Bet-Dagon, Naäma, Makkeda, Libna, Ether, Asan, Jeftah, Asna, Nezib, Kehila, Achzib en Maresa.",
+    "h": "",
+    "o": 21,
+    "l": "37-44"
+  },
+  {
+    "id": "6015022",
+    "b": 6,
+    "c": 15,
+    "v": 45,
+    "t": "Het gebied van Juda omvatte tevens alle steden en dorpen van Ekron.",
+    "h": "",
+    "o": 22,
+    "l": "45"
+  },
+  {
+    "id": "6015023",
+    "b": 6,
+    "c": 15,
+    "v": 46,
+    "t": "Vanaf Ekron liep de grens naar de Middellandse Zee, omvatte de steden langs de grenzen van Asdod met de nabijgelegen dorpen,",
+    "h": "",
+    "o": 23,
+    "l": "46"
+  },
+  {
+    "id": "6015024",
+    "b": 6,
+    "c": 15,
+    "v": 47,
+    "t": "de stad Asdod met zijn dorpen en Gaza met de dorpen er omheen tot aan de Beek van Egypte. Tevens behoorde de hele kust van de Middellandse Zee ertoe, vanaf de monding van de Beek van Egypte in het zuiden tot Tyrus in het noorden.",
+    "h": "",
+    "o": 24,
+    "l": "47"
+  },
+  {
+    "id": "6015025",
+    "b": 6,
+    "c": 15,
+    "v": 48,
+    "t": "Juda kreeg ook de volgende vierenveertig steden met de omringende dorpen, die allen in het bergland lagen: Samir, Jatthir, Socho, Danna, Kirjat-Sanna (of Debir), Anab, Estemo, Anim, Gosen, Holon, Gilo, Arab, Duma, Esan, Janum, Bet-Tappuah, Afeka, Humta, Kirjat-Arba (of Hebron), Zior, Maon, Karmel, Zif, Juta, Jizreël, Jokdeam, Zanoah, Kaïn, Gibea, Timna, Halhul, Bet-Zur, Gedor, Maärath, Bet-Anoth, Eltekon, Kirjat-Baäl (ook bekend als Kirjat-Jearim), Rabba, Bet-Araba, Middin, Sechacha, Nibsan, Ir-Hammelach en Engedi.",
+    "h": "",
+    "o": 25,
+    "l": "48-62"
+  },
+  {
+    "id": "6015026",
+    "b": 6,
+    "c": 15,
+    "v": 63,
+    "t": "Maar de stam van Juda slaagde er niet in de Jebusieten die in Jeruzalem woonden, te verdrijven. Daarom wonen de Jebusieten tot op de dag van vandaag te midden van de Judeeërs.",
+    "h": "",
+    "o": 26,
+    "l": "63"
+  },
+  {
+    "id": "6016001",
+    "b": 6,
+    "c": 16,
+    "v": 1,
+    "t": "De zuidgrens van de stammen van Jozef (dat zijn Efraïm en de halve stam van Manasse) liep van de Jordaan bij Jericho door de woestijn en het heuvelgebied naar Betel. Van Betel liep hij naar Atarot, in het gebied van de Arkieten, en in westelijke richting naar de grens van de Jaflethieten tot aan Laag-Bet-Horon. Vanaf die plaats ging hij verder naar Gezer en eindigde bij de Middellandse Zee.",
+    "h": "Het land van de stammen van Jozef",
+    "o": 1,
+    "l": "1-4"
+  },
+  {
+    "id": "6016002",
+    "b": 6,
+    "c": 16,
+    "v": 5,
+    "t": "De oostelijke grens van de stam van Efraïm begon bij Athroth-Addar. Vanaf dat punt liep hij naar Hoog-Bet-Horon en verder naar de Middellandse Zee. De noordgrens begon aan zee, liep in oostelijke richting langs Michmetath en verder langs Taänath-Silo en Janoah.",
+    "h": "",
+    "o": 2,
+    "l": "5-6"
+  },
+  {
+    "id": "6016003",
+    "b": 6,
+    "c": 16,
+    "v": 7,
+    "t": "Vanaf Janoah liep hij in zuidelijke richting naar Atarot en Naharath, langs Jericho om bij de Jordaan uit te komen.",
+    "h": "",
+    "o": 3,
+    "l": "7"
+  },
+  {
+    "id": "6016004",
+    "b": 6,
+    "c": 16,
+    "v": 8,
+    "t": "De westelijke helft van de noordgrens begon bij Tappuah en volgde daarna de beek Kana tot aan de Middellandse Zee.",
+    "h": "",
+    "o": 4,
+    "l": "8"
+  },
+  {
+    "id": "6016005",
+    "b": 6,
+    "c": 16,
+    "v": 9,
+    "t": "Efraïm kreeg tevens enkele steden in het gebied van Manasse.",
+    "h": "",
+    "o": 5,
+    "l": "9"
+  },
+  {
+    "id": "6016006",
+    "b": 6,
+    "c": 16,
+    "v": 10,
+    "t": "De Kanaänieten die in Gezer woonden, werden nooit verdreven en wonen daarom nog steeds als slaven onder het volk van Efraïm.",
+    "h": "",
+    "o": 6,
+    "l": "10"
+  },
+  {
+    "id": "6017001",
+    "b": 6,
+    "c": 17,
+    "v": 1,
+    "t": "De stam van Manasse kreeg ook land toegewezen door loting, want Manasse was Jozefs oudste zoon. De familie van Machir, de oudste zoon van Manasse en heer van Gilead, kreeg het land van Gilead en Basan ten oosten van de Jordaan, want zij waren een familie van heldhaftige strijders.",
+    "h": "Het land van de halve stam van Manasse",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "6017002",
+    "b": 6,
+    "c": 17,
+    "v": 2,
+    "t": "Nu werd dus land ten westen van de Jordaan toegewezen aan de families van Abiëzer, Helek, Asriël, Sechem, Chefer en Semida.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "6017003",
+    "b": 6,
+    "c": 17,
+    "v": 3,
+    "t": "Chefers zoon Selofchad, een kleinzoon van Gilead, achterkleinzoon van Machir en achter-achter-kleinzoon van Manasse, had echter geen zonen. Hij had wel vijf dochters die Machla, Noa, Hogla, Milka en Tirza heetten.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "6017004",
+    "b": 6,
+    "c": 17,
+    "v": 4,
+    "t": "Deze vrouwen gingen naar de priester Eleazar, Jozua en de Israëlitische leiders en brachten hun in herinnering: ‘De HERE heeft Mozes gezegd dat wij net zoveel eigendom moesten krijgen als de mannen van onze stam.’ Zo kregen deze vrouwen, precies zoals de HERE door Mozes had bevolen, net zoʼn groot erfdeel als hun vijf ooms.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "6017005",
+    "b": 6,
+    "c": 17,
+    "v": 5,
+    "t": "Het totale erfdeel kwam daarmee op tien stukken land, nog afgezien van het land van Gilead en Basan aan de andere kant van de Jordaan.",
+    "h": "",
+    "o": 5,
+    "l": "5-6"
+  },
+  {
+    "id": "6017006",
+    "b": 6,
+    "c": 17,
+    "v": 7,
+    "t": "De noordgrens van de stam van Manasse liep in zuidelijke richting van Aser naar Michmethath dat ten oosten van Sichem ligt. Verder naar het zuiden bereikte de grens de bron van Tappuah.",
+    "h": "",
+    "o": 6,
+    "l": "7"
+  },
+  {
+    "id": "6017007",
+    "b": 6,
+    "c": 17,
+    "v": 8,
+    "t": "Het land van Tappuah behoorde toe aan Manasse, maar de stad Tappuah, op de grens van Manasses land, maakte deel uit van het gebied van Efraïm.",
+    "h": "",
+    "o": 7,
+    "l": "8"
+  },
+  {
+    "id": "6017008",
+    "b": 6,
+    "c": 17,
+    "v": 9,
+    "t": "Vanaf de bron van Tappuah volgde de grens van Manasse de noordelijke oever van de rivier Kana naar de Middellandse Zee. Verscheidene steden ten zuiden van de rivier behoorden aan Efraïm toe, ook al lagen zij in het gebied van Manasse.",
+    "h": "",
+    "o": 8,
+    "l": "9"
+  },
+  {
+    "id": "6017009",
+    "b": 6,
+    "c": 17,
+    "v": 10,
+    "t": "Het land ten zuiden van de Kana, dat zich naar het westen uitstrekte tot aan de Middellandse Zeekust, was aan Efraïm toegewezen en het land ten noorden van de rivier en ten oosten van de kust ging naar Manasse. Manasses noordgrens was het gebied van Aser en de oostgrens was het gebied van Issachar.",
+    "h": "",
+    "o": 9,
+    "l": "10"
+  },
+  {
+    "id": "6017010",
+    "b": 6,
+    "c": 17,
+    "v": 11,
+    "t": "De halve stam van Manasse kreeg ook nog enkele steden in de gebieden die aan Issachar en Aser waren toegewezen. Dat waren: Bet-Sean, Jibleam, Dor, Endor, Taänach, Megiddo met zijn drie heuvels en de dorpen die bij deze steden behoorden.",
+    "h": "",
+    "o": 10,
+    "l": "11"
+  },
+  {
+    "id": "6017011",
+    "b": 6,
+    "c": 17,
+    "v": 12,
+    "t": "Maar omdat de nakomelingen van Manasse er niet in slaagden de inwoners van deze steden te verdrijven, bleven de Kanaänieten er wonen.",
+    "h": "",
+    "o": 11,
+    "l": "12"
+  },
+  {
+    "id": "6017012",
+    "b": 6,
+    "c": 17,
+    "v": 13,
+    "t": "Toen de Israëlieten later echter sterk genoeg waren geworden, dwongen zij de Kanaänieten tot slavenarbeid.",
+    "h": "",
+    "o": 12,
+    "l": "13"
+  },
+  {
+    "id": "6017013",
+    "b": 6,
+    "c": 17,
+    "v": 14,
+    "t": "De twee stammen van Jozef gingen naar Jozua en vroegen: ‘Waarom hebt u ons slechts één stuk land toegewezen, terwijl de HERE ons zoʼn grote bevolking heeft gegeven?’",
+    "h": "",
+    "o": 13,
+    "l": "14"
+  },
+  {
+    "id": "6017014",
+    "b": 6,
+    "c": 17,
+    "v": 15,
+    "t": "‘Als het heuvelgebied van Efraïm niet groot genoeg voor u is,’ antwoordde Jozua, ‘kap dan open plekken in het bos waar de Perizzieten en Refaïeten wonen.’",
+    "h": "",
+    "o": 14,
+    "l": "15"
+  },
+  {
+    "id": "6017015",
+    "b": 6,
+    "c": 17,
+    "v": 16,
+    "t": "‘Dat is goed,’ vonden de stammen van Jozef, ‘want de Kanaänieten in de laagvlakten rond Bet-Sean en de vallei van Jizreël hebben ijzeren strijdwagens en zijn te sterk voor ons.’ ‘Dan krijgen jullie de bossen in het gebergte,’ besloot Jozua, ‘en omdat jullie zoʼn grote en sterke stam vormen, zullen jullie er zeker in slagen daar ruimte te maken om te kunnen leven. Jullie krijgen dan een dubbel deel, want de Kanaänieten zullen zeker uit de dalen worden verdreven, ook al zijn zij sterk en hebben zij ijzeren strijdwagens.’",
+    "h": "",
+    "o": 15,
+    "l": "16-18"
+  },
+  {
+    "id": "6018001",
+    "b": 6,
+    "c": 18,
+    "v": 1,
+    "t": "Alle Israëlieten kwamen bijeen in Silo en richtten daar de tabernakel op. Het land was nu aan hen onderworpen,",
+    "h": "Zeven andere stammen",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "6018002",
+    "b": 6,
+    "c": 18,
+    "v": 2,
+    "t": "maar er waren nog zeven stammen waaraan nog geen land was toegewezen.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "6018003",
+    "b": 6,
+    "c": 18,
+    "v": 3,
+    "t": "Daarom vroeg Jozua: ‘Waarom verdrijven jullie niet de mensen die nog in jullie gebied wonen? De HERE, onze God, heeft het land immers aan jullie gegeven?",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "6018004",
+    "b": 6,
+    "c": 18,
+    "v": 4,
+    "t": "Kies uit elke stam drie mannen, dan zal ik hen eropuit sturen om het land te verkennen dat nog niet is veroverd. Aan de hand van hun verslag over de grootte en de aard van het gebied, zal ik het dan verdelen.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "6018005",
+    "b": 6,
+    "c": 18,
+    "v": 5,
+    "t": "De verkenners zullen het gebied in zeven stukken verdelen, waarna ik voor Gods aangezicht zal loten om voor elke stam het gebied te bepalen.",
+    "h": "",
+    "o": 5,
+    "l": "5-6"
+  },
+  {
+    "id": "6018006",
+    "b": 6,
+    "c": 18,
+    "v": 7,
+    "t": "U weet echter dat de Levieten geen eigen land mogen hebben: zij zijn priesters van de HERE. Dat is hun erfdeel. Uiteraard krijgen de stammen van Gad, Ruben en Manasse ook niets meer, want zij hebben al land ten oosten van de Jordaan, waarvan Mozes beloofde dat zij zich daar mochten vestigen.’",
+    "h": "",
+    "o": 6,
+    "l": "7"
+  },
+  {
+    "id": "6018007",
+    "b": 6,
+    "c": 18,
+    "v": 8,
+    "t": "Zo gingen de verkenners er dus op uit om het gebied in kaart te brengen en daarover te rapporteren aan Jozua. Daarna kon de HERE de gebiedsdelen door loting aan de stammen toewijzen.",
+    "h": "",
+    "o": 7,
+    "l": "8"
+  },
+  {
+    "id": "6018008",
+    "b": 6,
+    "c": 18,
+    "v": 9,
+    "t": "De mannen deden wat hun was opgedragen, verdeelden het hele gebied in zeven stukken en maakten een lijst van de steden in elk deel. Daarna gingen zij terug naar Jozua in het kamp bij Silo.",
+    "h": "",
+    "o": 8,
+    "l": "9"
+  },
+  {
+    "id": "6018009",
+    "b": 6,
+    "c": 18,
+    "v": 10,
+    "t": "Bij de tabernakel in Silo liet de HERE Jozua toen door loting elk van de stammen het hun toekomende deel toewijzen.",
+    "h": "",
+    "o": 9,
+    "l": "10"
+  },
+  {
+    "id": "6018010",
+    "b": 6,
+    "c": 18,
+    "v": 11,
+    "t": "Het gebied dat aan de gezinnen van de stam Benjamin werd toegewezen, lag tussen de gebieden van de stammen van Juda en Jozef.",
+    "h": "",
+    "o": 10,
+    "l": "11"
+  },
+  {
+    "id": "6018011",
+    "b": 6,
+    "c": 18,
+    "v": 12,
+    "t": "De noordgrens begon bij de Jordaan, liep in noordelijke richting naar Jericho en boog daarna in westelijke richting door het gebergte en de woestijn van Bet-Aven.",
+    "h": "",
+    "o": 11,
+    "l": "12"
+  },
+  {
+    "id": "6018012",
+    "b": 6,
+    "c": 18,
+    "v": 13,
+    "t": "Vandaar liep de grens in zuidelijke richting naar Luz (ook wel Betel genoemd) en ging door naar Atroth-Addar in het bergland ten zuiden van Laag-Bet-Horon.",
+    "h": "",
+    "o": 12,
+    "l": "13"
+  },
+  {
+    "id": "6018013",
+    "b": 6,
+    "c": 18,
+    "v": 14,
+    "t": "Daar liep hij weer verder naar het zuiden, passeerde de berg bij Bet-Horon en eindigde bij het dorp Kirjat-Baäl (of Kirjat-Jearim), een van de steden van de stam van Juda. Dit was de westgrens.",
+    "h": "",
+    "o": 13,
+    "l": "14"
+  },
+  {
+    "id": "6018014",
+    "b": 6,
+    "c": 18,
+    "v": 15,
+    "t": "De zuidgrens liep van de rand van Kirjat-Baäl, over de berg Efron naar de bron van Mé-Neftoah.",
+    "h": "",
+    "o": 14,
+    "l": "15"
+  },
+  {
+    "id": "6018015",
+    "b": 6,
+    "c": 18,
+    "v": 16,
+    "t": "Vandaar verder naar de voet van de berg bij het dal Ben-Hinnom, ten noorden van de Refaïetenvallei. Vanaf dat punt liep hij door het dal Hinnom, zuidelijk langs de stad Jeruzalem waar de Jebusieten woonden en vervolgens naar de bron bij Rogel.",
+    "h": "",
+    "o": 15,
+    "l": "16"
+  },
+  {
+    "id": "6018016",
+    "b": 6,
+    "c": 18,
+    "v": 17,
+    "t": "Vanaf de bron ging het in noordoostelijke richting verder naar En-Semes en vandaar naar de steenkringen tegenover de hellingen van de Adummim. Vandaar liep hij verder naar de steen van Bohan, de zoon van Ruben,",
+    "h": "",
+    "o": 16,
+    "l": "17"
+  },
+  {
+    "id": "6018017",
+    "b": 6,
+    "c": 18,
+    "v": 18,
+    "t": "waar hij de noordrand van de Jordaanvlakte passeerde. De grens ging daarna de vlakte in,",
+    "h": "",
+    "o": 17,
+    "l": "18"
+  },
+  {
+    "id": "6018018",
+    "b": 6,
+    "c": 18,
+    "v": 19,
+    "t": "liep in zuidelijke richting langs Bet-Hogla en eindigde bij de monding van de Jordaan in het zuiden.",
+    "h": "",
+    "o": 18,
+    "l": "19"
+  },
+  {
+    "id": "6018019",
+    "b": 6,
+    "c": 18,
+    "v": 20,
+    "t": "De oostgrens werd gevormd door de Jordaan. Dit was het gebied dat aan de stam van Benjamin werd toegewezen.",
+    "h": "",
+    "o": 19,
+    "l": "20"
+  },
+  {
+    "id": "6018020",
+    "b": 6,
+    "c": 18,
+    "v": 21,
+    "t": "De volgende zesentwintig steden hoorden bij dat gebied: Jericho, Bet-Hogla, Emek-Keziz, Bet-Araba, Zemaraïm, Betel, Havvim, Para, Ofra, Kefar-Haämonaï, Ofni, Geba, Gibeon, Rama, Beëroth, Mispa, Kefira, Moza, Rekem, Jirpeël, Tharala, Zela, Elef, Jebus (of Jeruzalem), Gibath en Kirjat. Al deze steden en de omringende dorpen werden aan de stam van Benjamin gegeven.",
+    "h": "",
+    "o": 20,
+    "l": "21-28"
+  },
+  {
+    "id": "6019001",
+    "b": 6,
+    "c": 19,
+    "v": 1,
+    "t": "De stam van Simeon kreeg als volgende een stuk land toegewezen dat midden in het eerder aan Juda toegewezen gebied lag.",
+    "h": "Land voor de overige stammen",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "6019002",
+    "b": 6,
+    "c": 19,
+    "v": 2,
+    "t": "Hun erfdeel omvatte de volgende zeventien steden met de daarbij behorende dorpen: Berseba, Seba, Molada, Hazar-Sual, Bala, Ezem, Eltholad, Bethul, Chorma, Ziklag, Bet-Hammarchaboth, Hazar-Susa, Bet-Lebaoth, Saruhen, Aïn, Rimmon, Ether en Asan.",
+    "h": "",
+    "o": 2,
+    "l": "2-7"
+  },
+  {
+    "id": "6019003",
+    "b": 6,
+    "c": 19,
+    "v": 8,
+    "t": "De steden die zich naar het zuiden uitstrekten tot aan Baälath-Beër (ook wel Rama in de Negev genoemd), werden aan de stam van Simeon gegeven.",
+    "h": "",
+    "o": 3,
+    "l": "8"
+  },
+  {
+    "id": "6019004",
+    "b": 6,
+    "c": 19,
+    "v": 9,
+    "t": "Zo kwam het erfdeel van Simeons stam uit het vroegere gebied van Juda, want dat gebied bleek te groot te zijn voor Juda.",
+    "h": "",
+    "o": 4,
+    "l": "9"
+  },
+  {
+    "id": "6019005",
+    "b": 6,
+    "c": 19,
+    "v": 10,
+    "t": "De derde stam die land kreeg toegewezen, was die van Zebulon. De grens daarvan begon aan de zuidzijde van Sarid.",
+    "h": "",
+    "o": 5,
+    "l": "10"
+  },
+  {
+    "id": "6019006",
+    "b": 6,
+    "c": 19,
+    "v": 11,
+    "t": "Vandaar ging hij in westelijke richting naar Marala en Dabbeseth, tot hij de rivier ten oosten van Jokneam bereikte.",
+    "h": "",
+    "o": 6,
+    "l": "11"
+  },
+  {
+    "id": "6019007",
+    "b": 6,
+    "c": 19,
+    "v": 12,
+    "t": "In de tegenovergestelde richting liep de grens naar het oosten, naar de grens van Chisloth-Thabor en vandaar naar Dobrath en Jafia.",
+    "h": "",
+    "o": 7,
+    "l": "12"
+  },
+  {
+    "id": "6019008",
+    "b": 6,
+    "c": 19,
+    "v": 13,
+    "t": "Verder naar het oosten raakte de grenslijn Gath-Chefer, Eth-Kazin en Rimmon en draaide in de richting van Nea.",
+    "h": "",
+    "o": 8,
+    "l": "13"
+  },
+  {
+    "id": "6019009",
+    "b": 6,
+    "c": 19,
+    "v": 14,
+    "t": "De noordgrens van Zebulon liep langs Hannathon en eindigde bij de vallei van Jiftah-El.",
+    "h": "",
+    "o": 9,
+    "l": "14"
+  },
+  {
+    "id": "6019010",
+    "b": 6,
+    "c": 19,
+    "v": 15,
+    "t": "De steden in deze gebieden, zonder de bovengenoemde, omvatten Kattath, Nahalal, Simron, Idala, Bethlehem en alle omliggende dorpen. Samen waren er twaalf van zulke steden.",
+    "h": "",
+    "o": 10,
+    "l": "15-16"
+  },
+  {
+    "id": "6019011",
+    "b": 6,
+    "c": 19,
+    "v": 17,
+    "t": "De vierde stam waaraan land werd toegewezen, was die van Issachar. Zijn grenzen omvatten de volgende steden: Jizreël, Chesulloth, Sunem, Hafaraïm, Sion, Anacharath, Rabbith, Kisjon, Ebez, Remeth, En-Gannim, En-Hadda, Bet-Pazez, Thabor, Sahazima en Bet-Semes, in totaal zestien steden, elk met de haar omringende dorpen. De grens van Issachar eindigde aan de Jordaan.",
+    "h": "",
+    "o": 11,
+    "l": "17-23"
+  },
+  {
+    "id": "6019012",
+    "b": 6,
+    "c": 19,
+    "v": 24,
+    "t": "De stam van Aser was de vijfde die land kreeg toegewezen. De grenslijnen omvatten de volgende steden: Helkath, Hali, Beten, Achsaf, Allammelech, Amad en Misal. De westelijke grens liep van de Karmel naar de rivier Libnath,",
+    "h": "",
+    "o": 12,
+    "l": "24-26"
+  },
+  {
+    "id": "6019013",
+    "b": 6,
+    "c": 19,
+    "v": 27,
+    "t": "ging daar in oostelijke richting verder naar Bet-Dagon en liep tot aan Zebulon in de vallei van Jiftah-El, noordelijk voorbij de steden Bet-Emek en Nehiël. Daarna liep hij verder oostelijk naar Chabul,",
+    "h": "",
+    "o": 13,
+    "l": "27"
+  },
+  {
+    "id": "6019014",
+    "b": 6,
+    "c": 19,
+    "v": 28,
+    "t": "Ebron, Rechob, Hammon, Kana en Groot-Sidon.",
+    "h": "",
+    "o": 14,
+    "l": "28"
+  },
+  {
+    "id": "6019015",
+    "b": 6,
+    "c": 19,
+    "v": 29,
+    "t": "Vanaf dat punt liep de grens in de richting van Rama en de versterkte stad Tyrus en bereikte de Middellandse Zee bij Hosa. Het gebied omvatte ook Chebel, Achzib,",
+    "h": "",
+    "o": 15,
+    "l": "29"
+  },
+  {
+    "id": "6019016",
+    "b": 6,
+    "c": 19,
+    "v": 30,
+    "t": "Umma, Afek en Rechob, in totaal tweeëntwintig steden met de omringende dorpen.",
+    "h": "",
+    "o": 16,
+    "l": "30-31"
+  },
+  {
+    "id": "6019017",
+    "b": 6,
+    "c": 19,
+    "v": 32,
+    "t": "De zesde stam die gebied kreeg toegewezen, was die van Naftali.",
+    "h": "",
+    "o": 17,
+    "l": "32"
+  },
+  {
+    "id": "6019018",
+    "b": 6,
+    "c": 19,
+    "v": 33,
+    "t": "Zijn grens begon bij Juda bij Zaänannim en strekte zich via Adami-Nekeb, Jabneël en Lakkum uit tot de Jordaan.",
+    "h": "",
+    "o": 18,
+    "l": "33"
+  },
+  {
+    "id": "6019019",
+    "b": 6,
+    "c": 19,
+    "v": 34,
+    "t": "De westgrens liep naar Aznoth-Thabor en via Hukkok naar de grens van Zebulon in het zuiden, met de grens van Aser in het westen en de Jordaan in het oosten.",
+    "h": "",
+    "o": 19,
+    "l": "34"
+  },
+  {
+    "id": "6019020",
+    "b": 6,
+    "c": 19,
+    "v": 35,
+    "t": "De versterkte steden die in dit gebied lagen, waren: Ziddim, Zer, Hammath, Rakkath, Chinnereth, Adama, Rama, Hazor, Kedes, Edreï, En-Hazor, Jiron, Migdal-El, Horem, Bet-Anath en Bet-Semes. Het gebied omvatte dus negentien steden met de omringende dorpen.",
+    "h": "",
+    "o": 20,
+    "l": "35-39"
+  },
+  {
+    "id": "6019021",
+    "b": 6,
+    "c": 19,
+    "v": 40,
+    "t": "De laatste stam die zijn gebied kreeg toegewezen, was die van Dan.",
+    "h": "",
+    "o": 21,
+    "l": "40"
+  },
+  {
+    "id": "6019022",
+    "b": 6,
+    "c": 19,
+    "v": 41,
+    "t": "De steden in zijn gebied waren: Zora, Estaol, Ir-Semes, Saälabbin, Ajalon, Jithla, Elon, Timnata, Ekron, Elteké, Gibbethon, Baälath, Jehud, Bené-Barak, Gath-Rimmon, Mé-Jarkon, Rakkon en het gebied tegenover Jafo.",
+    "h": "",
+    "o": 22,
+    "l": "41-46"
+  },
+  {
+    "id": "6019023",
+    "b": 6,
+    "c": 19,
+    "v": 47,
+    "t": "De Dannieten lieten zich terugdringen in het gebergte, waardoor hun gebied te klein werd. Daarom namen de Dannieten de stad Lesem in, doodden de inwoners en vestigden zich daar. Zij noemden die stad Dan, naar hun stamvader.",
+    "h": "",
+    "o": 23,
+    "l": "47-48"
+  },
+  {
+    "id": "6019024",
+    "b": 6,
+    "c": 19,
+    "v": 49,
+    "t": "Zo werd al het land onder de stammen verdeeld en werden de grenslijnen getrokken. Het volk gaf een speciaal stuk land aan Jozua,",
+    "h": "",
+    "o": 24,
+    "l": "49"
+  },
+  {
+    "id": "6019025",
+    "b": 6,
+    "c": 19,
+    "v": 50,
+    "t": "want de HERE had gezegd dat hij elke stad mocht hebben die hij maar wilde. Jozua koos Timnath-Serach in het heuvelgebied van Efraïm, hij herbouwde de stad en woonde er voortaan.",
+    "h": "",
+    "o": 25,
+    "l": "50"
+  },
+  {
+    "id": "6019026",
+    "b": 6,
+    "c": 19,
+    "v": 51,
+    "t": "De priester Eleazar, Jozua en de stamleiders van Israël hadden de leiding van de heilige loting waarmee het land onder de stammen werd verdeeld. Dit had plaats onder het oog van de HERE bij de ingang van de tabernakel in Silo.",
+    "h": "",
+    "o": 26,
+    "l": "51"
+  },
+  {
+    "id": "6020001",
+    "b": 6,
+    "c": 20,
+    "v": 1,
+    "t": "De HERE zei tegen Jozua: ‘Zeg het volk Israël dat nu de vrijsteden moeten worden aangewezen, zoals Ik Mozes heb opgedragen.",
+    "h": "De vrijsteden",
+    "o": 1,
+    "l": "1-2"
+  },
+  {
+    "id": "6020002",
+    "b": 6,
+    "c": 20,
+    "v": 3,
+    "t": "Als een man iemand zonder opzet heeft gedood, kan hij naar een van deze steden vluchten en worden beschermd tegen de wraak van de familieleden.",
+    "h": "",
+    "o": 2,
+    "l": "3"
+  },
+  {
+    "id": "6020003",
+    "b": 6,
+    "c": 20,
+    "v": 4,
+    "t": "Als de onschuldige dader een van deze steden weet te bereiken, moet hij naar het stadsbestuur gaan en uitleggen wat er is gebeurd. De bestuurders moeten hem binnenlaten en een verblijfplaats geven in hun stad.",
+    "h": "",
+    "o": 3,
+    "l": "4"
+  },
+  {
+    "id": "6020004",
+    "b": 6,
+    "c": 20,
+    "v": 5,
+    "t": "Als een familielid van de dode komt om wraak te nemen, mogen zij de onschuldige dader niet aan hem uitleveren, omdat geen opzet in het spel was.",
+    "h": "",
+    "o": 4,
+    "l": "5"
+  },
+  {
+    "id": "6020005",
+    "b": 6,
+    "c": 20,
+    "v": 6,
+    "t": "De man die per ongeluk de dood veroorzaakte, moet in de stad blijven tot de rechters een uitspraak over hem hebben gedaan of tot de dood van de hogepriester die in functie was toen het ongeluk gebeurde. Daarna is hij vrij om naar huis terug te gaan.’",
+    "h": "",
+    "o": 5,
+    "l": "6"
+  },
+  {
+    "id": "6020006",
+    "b": 6,
+    "c": 20,
+    "v": 7,
+    "t": "De steden die als vrijstad werden aangewezen, waren: Kedes in Galilea in de bergen van Naftali, Sichem in het bergland van Efraïm, Kirjat-Arba (ook wel Hebron genoemd) in het bergland van Juda.",
+    "h": "",
+    "o": 6,
+    "l": "7"
+  },
+  {
+    "id": "6020007",
+    "b": 6,
+    "c": 20,
+    "v": 8,
+    "t": "De HERE gaf tevens de opdracht dat drie steden ten oosten van de Jordaan, tegenover Jericho, als vrijstad moesten worden aangewezen. Dat waren: Beser, in de hooggelegen woestijn van het gebied van Ruben, Ramot in Gilead in het gebied van Gad en Golan in Basan, in het gebied dat hoorde bij de stam van Manasse.",
+    "h": "",
+    "o": 7,
+    "l": "8"
+  },
+  {
+    "id": "6020008",
+    "b": 6,
+    "c": 20,
+    "v": 9,
+    "t": "Deze vrijsteden waren zowel toegankelijk voor vreemdelingen die in Israël woonden, als voor de Israëlieten zelf. Zo kon iemand die per ongeluk een ander had gedood, naar die plaats vluchten om te worden berecht in plaats van het slachtoffer te worden van wraak.",
+    "h": "",
+    "o": 8,
+    "l": "9"
+  },
+  {
+    "id": "6021001",
+    "b": 6,
+    "c": 21,
+    "v": 1,
+    "t": "De leiders van de stam van Levi kwamen naar Silo voor overleg met de priester Eleazar, Jozua en de leiders van de andere stammen.",
+    "h": "Steden voor de priesters en Levieten",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "6021002",
+    "b": 6,
+    "c": 21,
+    "v": 2,
+    "t": "‘De HERE gaf Mozes opdracht de Levieten weidegrond te geven voor hun vee en steden om in te wonen,’ zeiden zij.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "6021003",
+    "b": 6,
+    "c": 21,
+    "v": 3,
+    "t": "Daarom kregen zij enkele steden met de weidegrond daar omheen.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "6021004",
+    "b": 6,
+    "c": 21,
+    "v": 4,
+    "t": "Dertien van deze steden waren oorspronkelijk toegewezen aan de stammen van Juda, Simeon en Benjamin. Zij werden gegeven aan priesters van de Kehatieten. Die maakten deel uit van de stam van Levi en waren nakomelingen van Aäron.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "6021005",
+    "b": 6,
+    "c": 21,
+    "v": 5,
+    "t": "De andere gezinnen van de Kehatieten kregen tien steden in de gebieden van Efraïm, Dan en Manasse.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "6021006",
+    "b": 6,
+    "c": 21,
+    "v": 6,
+    "t": "De Gersonieten ontvingen dertien steden in het gebied Basan die door loting werden aangewezen. Deze steden waren afkomstig van de stammen Issachar, Aser, Naftali en Manasse.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "6021007",
+    "b": 6,
+    "c": 21,
+    "v": 7,
+    "t": "De Merarieten kregen twaalf steden van de stammen Ruben, Gad en Zebulon.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "6021008",
+    "b": 6,
+    "c": 21,
+    "v": 8,
+    "t": "Zo werd gehoorzaamd aan de opdracht van de HERE aan Mozes en werden de steden en weiden door het lot aangewezen.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "6021009",
+    "b": 6,
+    "c": 21,
+    "v": 9,
+    "t": "De eersten die hun toewijzing kregen, waren de priesters, de nakomelingen van Aäron die deel uitmaakten van de Kehatieten. De stammen van Juda en Simeon gaven hun de volgende negen steden met de omringende weidegrond: de vrijstad Hebron in het bergland van Juda—ook wel Kirjat-Arba genoemd—maar het akkerland rond de stad en de omringende dorpen werden aan Kaleb gegeven, en verder Libna, Jatthir, Esthemoa, Holon, Debir, Aïn, Jutta en Bet-Semes. Bij elke stad kregen zij tevens de weidegronden.",
+    "h": "",
+    "o": 9,
+    "l": "9-16"
+  },
+  {
+    "id": "6021010",
+    "b": 6,
+    "c": 21,
+    "v": 17,
+    "t": "De stam van Benjamin gaf hun de volgende vier steden met de bijbehorende weidegrond: Gibeon, Geba, Anathoth en Almon.",
+    "h": "",
+    "o": 10,
+    "l": "17-18"
+  },
+  {
+    "id": "6021011",
+    "b": 6,
+    "c": 21,
+    "v": 19,
+    "t": "Zo werden in totaal dertien steden aan de priesters, de nakomelingen van Aäron, overgedragen.",
+    "h": "",
+    "o": 11,
+    "l": "19"
+  },
+  {
+    "id": "6021012",
+    "b": 6,
+    "c": 21,
+    "v": 20,
+    "t": "De andere families van de Kehatieten ontvingen vier steden met bijbehorende weidegrond van de stam van Efraïm: de vrijstad Sichem, Gezer, Kibzaïm en Bet-Horon.",
+    "h": "",
+    "o": 12,
+    "l": "20-22"
+  },
+  {
+    "id": "6021013",
+    "b": 6,
+    "c": 21,
+    "v": 23,
+    "t": "De volgende vier steden met weidegronden werden gegeven door de stam van Dan: Elteké, Gibbethon, Ajalon en Gath-Rimmon.",
+    "h": "",
+    "o": 13,
+    "l": "23-24"
+  },
+  {
+    "id": "6021014",
+    "b": 6,
+    "c": 21,
+    "v": 25,
+    "t": "De halve stam van Manasse gaf de steden Taänach en Gath-Rimmon met de omringende weidegronden.",
+    "h": "",
+    "o": 14,
+    "l": "25"
+  },
+  {
+    "id": "6021015",
+    "b": 6,
+    "c": 21,
+    "v": 26,
+    "t": "Zo kreeg de rest van de Kehatieten in totaal tien steden toegewezen.",
+    "h": "",
+    "o": 15,
+    "l": "26"
+  },
+  {
+    "id": "6021016",
+    "b": 6,
+    "c": 21,
+    "v": 27,
+    "t": "De nakomelingen van Gerson, een andere groep Levieten, ontvingen twee steden met weidegrond van de stam van Manasse: de vrijstad Golan in Basan en Beësthera.",
+    "h": "",
+    "o": 16,
+    "l": "27"
+  },
+  {
+    "id": "6021017",
+    "b": 6,
+    "c": 21,
+    "v": 28,
+    "t": "De stam van Issachar gaf vier steden: Kisjon, Dobrath, Jarmuth en En-Gannim, elk met de weidegronden.",
+    "h": "",
+    "o": 17,
+    "l": "28-29"
+  },
+  {
+    "id": "6021018",
+    "b": 6,
+    "c": 21,
+    "v": 30,
+    "t": "De stam van Aser gaf vier steden met weidegrond: Misal, Abdon, Helkath en Rechob.",
+    "h": "",
+    "o": 18,
+    "l": "30-31"
+  },
+  {
+    "id": "6021019",
+    "b": 6,
+    "c": 21,
+    "v": 32,
+    "t": "De stam van Naftali gaf de vrijstad Kedes in Galilea, Hammoth-Dor en Kartan.",
+    "h": "",
+    "o": 19,
+    "l": "32"
+  },
+  {
+    "id": "6021020",
+    "b": 6,
+    "c": 21,
+    "v": 33,
+    "t": "Zo werden er dertien steden met de bijbehorende grond toegewezen aan de Gersonieten.",
+    "h": "",
+    "o": 20,
+    "l": "33"
+  },
+  {
+    "id": "6021021",
+    "b": 6,
+    "c": 21,
+    "v": 34,
+    "t": "De overblijvende Levieten—de Merarieten—kregen van de stam van Zebulon de volgende vier steden met weidegrond: Jokneam, Karta, Dimna en Nahalal.",
+    "h": "",
+    "o": 21,
+    "l": "34-35"
+  },
+  {
+    "id": "6021022",
+    "b": 6,
+    "c": 21,
+    "v": 36,
+    "t": "De stam van Ruben gaf hun Beser, Jahza, Kedemoth en Mefaäth, ook elk met weidegrond.",
+    "h": "",
+    "o": 22,
+    "l": "36-37"
+  },
+  {
+    "id": "6021023",
+    "b": 6,
+    "c": 21,
+    "v": 38,
+    "t": "Van de stam van Gad kregen zij de volgende vier steden met de omliggende weidegrond: de vrijstad Ramot in Gilead, Machanaïm, Chesbon en Jazer.",
+    "h": "",
+    "o": 23,
+    "l": "38-39"
+  },
+  {
+    "id": "6021024",
+    "b": 6,
+    "c": 21,
+    "v": 40,
+    "t": "Zo kregen de Merarieten in totaal twaalf steden in bezit.",
+    "h": "",
+    "o": 24,
+    "l": "40"
+  },
+  {
+    "id": "6021025",
+    "b": 6,
+    "c": 21,
+    "v": 41,
+    "t": "Het totaal aantal steden dat aan de Levieten werd gegeven, bedroeg achtenveertig.",
+    "h": "",
+    "o": 25,
+    "l": "41-42"
+  },
+  {
+    "id": "6021026",
+    "b": 6,
+    "c": 21,
+    "v": 43,
+    "t": "De HERE gaf de Israëlieten al het land, dat Hij hun voorouders had beloofd. Zij kwamen het land binnen, veroverden het en gingen er wonen.",
+    "h": "",
+    "o": 26,
+    "l": "43"
+  },
+  {
+    "id": "6021027",
+    "b": 6,
+    "c": 21,
+    "v": 44,
+    "t": "De HERE gaf hun vrede, zoals Hij had beloofd. Niemand kon het tegen hen opnemen, de HERE hielp hen al hun vijanden te verslaan.",
+    "h": "",
+    "o": 27,
+    "l": "44"
+  },
+  {
+    "id": "6021028",
+    "b": 6,
+    "c": 21,
+    "v": 45,
+    "t": "Alle beloften die de HERE aan het volk Israël had gedaan, werden vervuld.",
+    "h": "",
+    "o": 28,
+    "l": "45"
+  },
+  {
+    "id": "6022001",
+    "b": 6,
+    "c": 22,
+    "v": 1,
+    "t": "Jozua riep nu de legertroepen van de stammen van Ruben, Gad en de halve stam Manasse bijeen en zei:",
+    "h": "Het getuigenisaltaar",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "6022002",
+    "b": 6,
+    "c": 22,
+    "v": 2,
+    "t": "‘U hebt gedaan wat Mozes, de dienaar van de HERE, u had bevolen en u hebt elk bevel dat ik u gaf, gehoorzaamd.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "6022003",
+    "b": 6,
+    "c": 22,
+    "v": 3,
+    "t": "Elke opdracht die u van de HERE, uw God, kreeg, hebt u vervuld. U hebt uw broederstammen niet in de steek gelaten.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "6022004",
+    "b": 6,
+    "c": 22,
+    "v": 4,
+    "t": "De HERE, onze God, heeft de andere stammen nu rust gegeven volgens zijn belofte. Daarom kunt u nu teruggaan naar het land dat Mozes u gaf aan de overkant van de Jordaan.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "6022005",
+    "b": 6,
+    "c": 22,
+    "v": 5,
+    "t": "Zorg ervoor dat u alle geboden die Mozes u gaf, gehoorzaamt. Heb de HERE lief en houd u aan zijn geboden en leefregels. Laat Hem nooit in de steek en dien Hem met hart en ziel.’",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "6022006",
+    "b": 6,
+    "c": 22,
+    "v": 6,
+    "t": "Toen zegende Jozua hen en liet hen naar huis gaan.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "6022007",
+    "b": 6,
+    "c": 22,
+    "v": 7,
+    "t": "Mozes had het land van Basan aan de halve stam van Manasse toegewezen, terwijl de andere helft van de stam land ten westen van de Jordaan had gekregen. Toen Jozua de troepen liet gaan, zegende hij hen en zei dat zij hun grote rijkdommen moesten delen met hun familieleden thuis. Zij hadden namelijk erg veel vee, zilver, goud, koper, ijzer en kleding buitgemaakt.",
+    "h": "",
+    "o": 7,
+    "l": "7-8"
+  },
+  {
+    "id": "6022008",
+    "b": 6,
+    "c": 22,
+    "v": 9,
+    "t": "Zo verlieten de troepen van Ruben, Gad en Manasse het leger van Israël bij Silo in Kanaän. Zij staken de Jordaan over naar hun eigen woongebied in Gilead.",
+    "h": "",
+    "o": 8,
+    "l": "9"
+  },
+  {
+    "id": "6022009",
+    "b": 6,
+    "c": 22,
+    "v": 10,
+    "t": "Voordat zij overstaken en terwijl zij nog in het land Kanaän stonden, bouwden zij een groot altaar dat al van veraf te zien was.",
+    "h": "",
+    "o": 9,
+    "l": "10"
+  },
+  {
+    "id": "6022010",
+    "b": 6,
+    "c": 22,
+    "v": 11,
+    "t": "Maar toen de overige Israëlieten hoorden wat zij hadden gedaan,",
+    "h": "",
+    "o": 10,
+    "l": "11"
+  },
+  {
+    "id": "6022011",
+    "b": 6,
+    "c": 22,
+    "v": 12,
+    "t": "brachten zij bij Silo een leger op de been en maakten zich klaar voor een strijd tegen hun broederstammen.",
+    "h": "",
+    "o": 11,
+    "l": "12"
+  },
+  {
+    "id": "6022012",
+    "b": 6,
+    "c": 22,
+    "v": 13,
+    "t": "Eerst stuurden zij echter een delegatie onder leiding van Pinechas, de zoon van de priester Eleazar.",
+    "h": "",
+    "o": 12,
+    "l": "13"
+  },
+  {
+    "id": "6022013",
+    "b": 6,
+    "c": 22,
+    "v": 14,
+    "t": "De afgevaardigden waren tien hooggeplaatste leiders van Israël, één uit elk van de tien stammen. Ieder van hen was hoofd van een stamfamilie.",
+    "h": "",
+    "o": 13,
+    "l": "14"
+  },
+  {
+    "id": "6022014",
+    "b": 6,
+    "c": 22,
+    "v": 15,
+    "t": "Toen zij in het land Gilead aankwamen, zeiden zij tegen de stammen van Ruben, Gad en Manasse:",
+    "h": "",
+    "o": 14,
+    "l": "15"
+  },
+  {
+    "id": "6022015",
+    "b": 6,
+    "c": 22,
+    "v": 16,
+    "t": "‘De hele gemeente van de HERE wil weten waarom u zondigt tegen de God van Israël door Hem ontrouw te worden en een altaar te bouwen dat getuigt van opstand tegen Hem.",
+    "h": "",
+    "o": 15,
+    "l": "16"
+  },
+  {
+    "id": "6022016",
+    "b": 6,
+    "c": 22,
+    "v": 17,
+    "t": "Was onze schuld bij Peor—waarvan wij ondanks de straf nog niet eens zijn gereinigd—nog niet groot genoeg dat u weer in opstand moet komen? U weet toch dat als u vandaag opstandig bent, de HERE morgen toornig op ons allemaal zal zijn?",
+    "h": "",
+    "o": 16,
+    "l": "17-18"
+  },
+  {
+    "id": "6022017",
+    "b": 6,
+    "c": 22,
+    "v": 19,
+    "t": "Als u het altaar denkt nodig te hebben omdat uw land onrein is, kom dan bij ons aan de andere kant van de rivier waar de HERE onder ons woont in zijn tabernakel. Dan zullen wij ons land met u delen. Maar kom niet in opstand tegen de HERE door een ander altaar te bouwen naast het enig ware altaar van onze God.",
+    "h": "",
+    "o": 17,
+    "l": "19"
+  },
+  {
+    "id": "6022018",
+    "b": 6,
+    "c": 22,
+    "v": 20,
+    "t": "Herinnert u zich niet meer hoe het hele volk werd gestraft toen alleen Achan, de zoon van Zerach, had gezondigd?’",
+    "h": "",
+    "o": 18,
+    "l": "20"
+  },
+  {
+    "id": "6022019",
+    "b": 6,
+    "c": 22,
+    "v": 21,
+    "t": "De mannen van Ruben, Gad en Manasse antwoordden de hooggeplaatste leiders:",
+    "h": "",
+    "o": 19,
+    "l": "21"
+  },
+  {
+    "id": "6022020",
+    "b": 6,
+    "c": 22,
+    "v": 22,
+    "t": "‘Wij zweren bij de HERE, de God boven alle goden, dat wij dat altaar niet uit opstandigheid tegen de HERE hebben gebouwd. Hij weet (en laat ook heel Israël dat goed weten) dat wij dat altaar niet hebben gebouwd om er brandoffers, spijsoffers of vredeoffers op te brengen. De vloek van God mag ons treffen als wij dat zouden doen.",
+    "h": "",
+    "o": 20,
+    "l": "22-23"
+  },
+  {
+    "id": "6022021",
+    "b": 6,
+    "c": 22,
+    "v": 24,
+    "t": "Wij hebben het gedaan omdat wij vrezen dat uw kinderen later tegen onze kinderen zullen zeggen: “Welk recht hebt u de HERE, de God van Israël, te vereren? De HERE heeft immers de Jordaan als een grens tussen ons en uw volk geplaatst! U hebt helemaal geen deel aan Hem.” Zo zouden uw kinderen onze kinderen ertoe kunnen brengen dat zij ophouden de HERE te vereren.",
+    "h": "",
+    "o": 21,
+    "l": "24-25"
+  },
+  {
+    "id": "6022022",
+    "b": 6,
+    "c": 22,
+    "v": 26,
+    "t": "Daarom besloten wij het altaar te bouwen als een teken dat ook wij de HERE mogen vereren met onze brandoffers en vredeoffers en geschenken. Dan zullen uw kinderen niet tegen de onze kunnen zeggen: “U hoort niet bij de HERE, onze God.”",
+    "h": "",
+    "o": 22,
+    "l": "26-27"
+  },
+  {
+    "id": "6022023",
+    "b": 6,
+    "c": 22,
+    "v": 28,
+    "t": "Als zij dat dan toch zouden zeggen, kunnen onze kinderen antwoorden: “Kijk dan eens naar het altaar dat onze vaders hebben gemaakt naar het voorbeeld van het altaar van de HERE. Het is niet bedoeld voor brandoffers of geschenken, maar als teken van de relatie, die wij beiden met dezelfde God hebben.”",
+    "h": "",
+    "o": 23,
+    "l": "28"
+  },
+  {
+    "id": "6022024",
+    "b": 6,
+    "c": 22,
+    "v": 29,
+    "t": "Het komt niet bij ons op de HERE de rug toe te keren of tegen Hem in opstand te komen door een eigen altaar te bouwen voor brandoffers, spijsoffers en vredeoffers. Daarvoor mag alleen het altaar dat vóór de tabernakel staat, worden gebruikt.’",
+    "h": "",
+    "o": 24,
+    "l": "29"
+  },
+  {
+    "id": "6022025",
+    "b": 6,
+    "c": 22,
+    "v": 30,
+    "t": "Toen de priester Pinechas en de andere afgevaardigden dit van de mannen van Ruben, Gad en Manasse hoorden, waren zij gerustgesteld.",
+    "h": "",
+    "o": 25,
+    "l": "30"
+  },
+  {
+    "id": "6022026",
+    "b": 6,
+    "c": 22,
+    "v": 31,
+    "t": "Pinechas zei: ‘Vandaag hebben wij gemerkt dat de HERE onder ons is, omdat u niet tegen de HERE hebt gezondigd zoals wij dachten. Integendeel, u hebt ons gered van de vernietiging!’",
+    "h": "",
+    "o": 26,
+    "l": "31"
+  },
+  {
+    "id": "6022027",
+    "b": 6,
+    "c": 22,
+    "v": 32,
+    "t": "Daarop gingen Pinechas en de tien afgevaardigden terug naar het volk van Israël en vertelden wat er was gebeurd.",
+    "h": "",
+    "o": 27,
+    "l": "32"
+  },
+  {
+    "id": "6022028",
+    "b": 6,
+    "c": 22,
+    "v": 33,
+    "t": "Heel Israël was blij en prees God. Van oorlog tegen Ruben en Gad was geen sprake meer.",
+    "h": "",
+    "o": 28,
+    "l": "33"
+  },
+  {
+    "id": "6022029",
+    "b": 6,
+    "c": 22,
+    "v": 34,
+    "t": "De mannen van Ruben en Gad noemden het altaar ‘het getuigenisaltaar.’ Zij zeiden: ‘Het is een getuige tussen ons en hen dat de HERE ook onze God is.’",
+    "h": "",
+    "o": 29,
+    "l": "34"
+  },
+  {
+    "id": "6023001",
+    "b": 6,
+    "c": 23,
+    "v": 1,
+    "t": "Nadat de HERE Israël vele jaren vrede had gegeven en Jozua erg oud was geworden,",
+    "h": "Jozuaʼs opdracht aan de leiders van Israël",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "6023002",
+    "b": 6,
+    "c": 23,
+    "v": 2,
+    "t": "riep deze de leiders van Israël—de oudsten, rechters en legeraanvoerders—bij zich en zei tegen hen: ‘Ik ben nu een oude man,",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "6023003",
+    "b": 6,
+    "c": 23,
+    "v": 3,
+    "t": "u hebt gezien wat de HERE, uw God, voor u heeft gedaan. Hij heeft voor u tegen uw vijanden gestreden en u hun land gegeven.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "6023004",
+    "b": 6,
+    "c": 23,
+    "v": 4,
+    "t": "Ik heb het nog onveroverde land net zo onder u verdeeld als het land dat wij wel in bezit hebben genomen. Het hele land tussen de Jordaan en de Middellandse Zee zal van u worden, want de HERE, uw God, zal alle inwoners eruit verdrijven, zodat u er in hun plaats kunt wonen. Dat heeft Hij u beloofd.",
+    "h": "",
+    "o": 4,
+    "l": "4-5"
+  },
+  {
+    "id": "6023005",
+    "b": 6,
+    "c": 23,
+    "v": 6,
+    "t": "Wees moedig en zorg ervoor dat u alle geboden die in de wetten van Mozes staan, gehoorzaamt, blijf op het rechte pad.",
+    "h": "",
+    "o": 5,
+    "l": "6"
+  },
+  {
+    "id": "6023006",
+    "b": 6,
+    "c": 23,
+    "v": 7,
+    "t": "Vermeng u niet met de heidenen die nog in het land wonen, noem zelfs de namen van hun goden niet. En wacht u er helemaal voor bij hen te zweren of hen te vereren.",
+    "h": "",
+    "o": 6,
+    "l": "7"
+  },
+  {
+    "id": "6023007",
+    "b": 6,
+    "c": 23,
+    "v": 8,
+    "t": "Blijf de HERE, uw God, trouw zoals u tot nu toe hebt gedaan.",
+    "h": "",
+    "o": 7,
+    "l": "8"
+  },
+  {
+    "id": "6023008",
+    "b": 6,
+    "c": 23,
+    "v": 9,
+    "t": "Hij heeft grote en sterke volken voor u verdreven en niemand is in staat gebleken u te verslaan.",
+    "h": "",
+    "o": 8,
+    "l": "9"
+  },
+  {
+    "id": "6023009",
+    "b": 6,
+    "c": 23,
+    "v": 10,
+    "t": "Eén man zal duizend vijanden op de vlucht jagen, want de HERE, uw God, vecht voor u, zoals Hij beloofde.",
+    "h": "",
+    "o": 9,
+    "l": "10"
+  },
+  {
+    "id": "6023010",
+    "b": 6,
+    "c": 23,
+    "v": 11,
+    "t": "Zorg er daarom voor dat u Hem blijft liefhebben.",
+    "h": "",
+    "o": 10,
+    "l": "11"
+  },
+  {
+    "id": "6023011",
+    "b": 6,
+    "c": 23,
+    "v": 12,
+    "t": "Als u dat niet doet en huwelijken gaat sluiten met de volken om u heen,",
+    "h": "",
+    "o": 11,
+    "l": "12"
+  },
+  {
+    "id": "6023012",
+    "b": 6,
+    "c": 23,
+    "v": 13,
+    "t": "kunt u er zeker van zijn dat de HERE, uw God, deze volken niet langer uit uw land zal jagen. In plaats daarvan zullen zij een strik en een val voor u worden, een pijn in uw zij en een doorn in uw oog. U zult omkomen in dit goede land dat de HERE, uw God, u heeft gegeven.",
+    "h": "",
+    "o": 12,
+    "l": "13"
+  },
+  {
+    "id": "6023013",
+    "b": 6,
+    "c": 23,
+    "v": 14,
+    "t": "Ik zal spoedig sterven. U weet heel goed dat Gods beloften aan u allemaal werkelijkheid zijn geworden. Erken dit van ganser harte.",
+    "h": "",
+    "o": 13,
+    "l": "14"
+  },
+  {
+    "id": "6023014",
+    "b": 6,
+    "c": 23,
+    "v": 15,
+    "t": "Maar even zeker als de HERE u deze goede dingen heeft gegeven die Hij had beloofd, zal Hij ook het onheil over u brengen als u Hem niet gehoorzaamt. Want als u andere goden gaat vereren, zal de HERE u uit dit goede land dat Hij u heeft gegeven, wegvagen. Zijn toorn zal tot een uitbarsting komen en het zal in dit land snel met u gedaan zijn.’",
+    "h": "",
+    "o": 14,
+    "l": "15-16"
+  },
+  {
+    "id": "6024001",
+    "b": 6,
+    "c": 24,
+    "v": 1,
+    "t": "Jozua liet alle Israëlieten in Sichem bij zich komen met hun leiders, legeraanvoerders en rechters. Zij gaven gehoor aan zijn oproep en kwamen bijeen voor God.",
+    "h": "Afscheid van Jozua",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "6024002",
+    "b": 6,
+    "c": 24,
+    "v": 2,
+    "t": "Jozua sprak hen toe: ‘De HERE, de God van Israël, zegt: “Uw voorouders hebben lang geleden ten oosten van de Eufraat gewoond. Zij vereerden andere goden, ook Terach, de vader van Abraham en Nachor.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "6024003",
+    "b": 6,
+    "c": 24,
+    "v": 3,
+    "t": "Ik haalde uw voorvader Abraham weg uit dat land aan de overkant van de rivier, leidde hem naar het land Kanaän en gaf hem door zijn zoon Isaak vele nakomelingen.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "6024004",
+    "b": 6,
+    "c": 24,
+    "v": 4,
+    "t": "De kinderen die Ik Isaak gaf, waren Jakob en Esau. Esau kreeg van Mij het gebied rond de berg Seïr en Jakob en zijn kinderen gingen naar Egypte.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "6024005",
+    "b": 6,
+    "c": 24,
+    "v": 5,
+    "t": "Toen stuurde Ik Mozes en Aäron om vreselijke plagen over Egypte te brengen en bevrijdde Ik mijn volk uit dat land.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "6024006",
+    "b": 6,
+    "c": 24,
+    "v": 6,
+    "t": "Maar toen u bij de Rietzee kwam, achtervolgd door de Egyptenaren met hun strijdwagens en ruiters, riep u Mij te hulp.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "6024007",
+    "b": 6,
+    "c": 24,
+    "v": 7,
+    "t": "Ik legde duisternis tussen u en de Egyptenaren. De zee liet Ik op die Egyptenaren los, zodat zij verdronken. U zag wat Ik deed. De Israëlieten brachten daarna vele jaren door in de woestijn.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "6024008",
+    "b": 6,
+    "c": 24,
+    "v": 8,
+    "t": "Ten slotte bracht Ik u naar het land van de Amorieten aan de overzijde van de Jordaan. Zij vielen u aan, maar Ik vernietigde hen en gaf hun land aan u.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "6024009",
+    "b": 6,
+    "c": 24,
+    "v": 9,
+    "t": "Toen verklaarde koning Balak van Moab u de oorlog en hij vroeg Bileam, de zoon van Beor, of hij u wilde vervloeken.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "6024010",
+    "b": 6,
+    "c": 24,
+    "v": 10,
+    "t": "Maar Ik weigerde naar hem te luisteren. In plaats daarvan zorgde Ik ervoor dat hij u zegende, zo redde Ik Israël uit zijn macht.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "6024011",
+    "b": 6,
+    "c": 24,
+    "v": 11,
+    "t": "Daarna stak u de Jordaan over en bereikte Jericho. De mannen van Jericho streden tegen u, evenals vele anderen, de Perizzieten, de Kanaänieten, de Hethieten, de Girgasieten, de Chiwwieten en de Jebusieten. Eén voor één bonden zij de strijd met u aan, maar Ik vernietigde hen allemaal.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "6024012",
+    "b": 6,
+    "c": 24,
+    "v": 12,
+    "t": "Ik stuurde horzels voor u uit die de twee Amoritische koningen en hun onderdanen verdreven. Het waren niet uw eigen wapens die u de overwinning bezorgden!",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "6024013",
+    "b": 6,
+    "c": 24,
+    "v": 13,
+    "t": "Ik gaf u land, waarvoor u niet had gewerkt en steden die u niet zelf had gebouwd, dezelfde steden waarin u nu woont. Ik gaf u wijngaarden en tuinen met olijfbomen om u van voedsel te voorzien, ook al plantte u ze niet.”",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "6024014",
+    "b": 6,
+    "c": 24,
+    "v": 14,
+    "t": "Heb daarom diep ontzag voor de HERE en dien Hem oprecht en trouw. Doe de afgodsbeelden die uw voorouders aan de Eufraat en in Egypte vereerden, voor altijd weg. Aanbid alleen de HERE.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "6024015",
+    "b": 6,
+    "c": 24,
+    "v": 15,
+    "t": "Maar als u de HERE niet wilt gehoorzamen, besluit dan vandaag nog wie u wel wilt gehoorzamen. Zullen dat de goden van uw voorouders aan de overzijde van de Eufraat zijn of de goden van de Amorieten in dit land? Maar ik en mijn gezin, wij zullen de HERE dienen.’",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "6024016",
+    "b": 6,
+    "c": 24,
+    "v": 16,
+    "t": "Het hele volk antwoordde: ‘Wij zullen de HERE nooit verlaten om andere goden te gaan vereren!",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "6024017",
+    "b": 6,
+    "c": 24,
+    "v": 17,
+    "t": "Want de HERE is onze God. Hij heeft onze voorouders uit de slavernij in Egypte bevrijd. Hij is de God die machtige wonderen heeft gedaan voor de ogen van Israël, toen wij door de woestijn trokken. Hij heeft ons ook beschermd tegen onze vijanden, toen wij door hun land reisden.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "6024018",
+    "b": 6,
+    "c": 24,
+    "v": 18,
+    "t": "De HERE verdreef de Amorieten en de andere volken uit dit land. Ja, wij kiezen voor de HERE, want alleen Hij is onze God.’",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "6024019",
+    "b": 6,
+    "c": 24,
+    "v": 19,
+    "t": "Maar Jozua antwoordde daarop: ‘U kunt de HERE niet dienen, want Hij is heilig en wil u geheel en al, Hij zal uw opstandigheid en zonden niet vergeven.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "6024020",
+    "b": 6,
+    "c": 24,
+    "v": 20,
+    "t": "Als u Hem de rug toekeert en andere goden gaat vereren, zal Hij Zich tegen u keren en u vernietigen, ook al heeft Hij al die tijd nog zo goed voor u gezorgd.’",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "6024021",
+    "b": 6,
+    "c": 24,
+    "v": 21,
+    "t": "Maar het volk verklaarde opnieuw: ‘Wij kiezen voor de HERE !’",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "6024022",
+    "b": 6,
+    "c": 24,
+    "v": 22,
+    "t": "‘U hebt het uzelf horen zeggen,’ zei Jozua, ‘u hebt ervoor gekozen de HERE te dienen.’ ‘Ja,’ antwoordden zij, ‘wij zijn er getuigen van.’",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "6024023",
+    "b": 6,
+    "c": 24,
+    "v": 23,
+    "t": "‘Goed,’ zei hij, ‘dan moet u alle afgodsbeelden die u bezit, vernietigen en voortaan de HERE, de God van Israël, gehoorzamen.’",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "6024024",
+    "b": 6,
+    "c": 24,
+    "v": 24,
+    "t": "Het volk herhaalde opnieuw: ‘Ja, wij zullen alleen de HERE dienen en gehoorzamen.’",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "6024025",
+    "b": 6,
+    "c": 24,
+    "v": 25,
+    "t": "Daarom sloot Jozua die dag bij Sichem een overeenkomst met hen, waarbij zij zich verbonden tot het houden van de wetten en rechten die Jozua vaststelde.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "6024026",
+    "b": 6,
+    "c": 24,
+    "v": 26,
+    "t": "Jozua schreef het antwoord van het volk in het wetboek van God, nam een grote steen als gedenkteken en plaatste die onder de eik die naast de tabernakel stond. Dit was een heilige plaats voor de HERE.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "6024027",
+    "b": 6,
+    "c": 24,
+    "v": 27,
+    "t": "Toen zei Jozua tegen het hele volk: ‘Deze steen heeft alles gehoord wat de HERE zei, daarom zal hij tegen u getuigen als u uw woord niet houdt.’",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "6024028",
+    "b": 6,
+    "c": 24,
+    "v": 28,
+    "t": "Daarna stuurde Jozua de mensen terug naar hun eigen woonplaats.",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "6024029",
+    "b": 6,
+    "c": 24,
+    "v": 29,
+    "t": "Korte tijd later overleed Jozua op de leeftijd van honderdtien jaar.",
+    "h": "",
+    "o": 29,
+    "l": "29"
+  },
+  {
+    "id": "6024030",
+    "b": 6,
+    "c": 24,
+    "v": 30,
+    "t": "Hij werd begraven in zijn eigen gebied bij Timnath-Serach, in het bergland van Efraïm, aan de noordkant van de berg Gaäs.",
+    "h": "",
+    "o": 30,
+    "l": "30"
+  },
+  {
+    "id": "6024031",
+    "b": 6,
+    "c": 24,
+    "v": 31,
+    "t": "Israël gehoorzaamde de HERE gedurende het hele leven van Jozua en van de leiders die hem overleefden, die persoonlijk getuige waren geweest van de machtige dingen die de HERE voor Israël had gedaan.",
+    "h": "",
+    "o": 31,
+    "l": "31"
+  },
+  {
+    "id": "6024032",
+    "b": 6,
+    "c": 24,
+    "v": 32,
+    "t": "De beenderen van Jozef, die het volk Israël uit Egypte had meegenomen, werden begraven in Sichem, in het stuk grond dat Jakob voor honderd zilverstukken had gekocht van de zonen van Chamor. Dat stuk grond lag in het gebied dat was toegewezen aan de stam van Jozef.",
+    "h": "",
+    "o": 32,
+    "l": "32"
+  },
+  {
+    "id": "6024033",
+    "b": 6,
+    "c": 24,
+    "v": 33,
+    "t": "Ook Aärons zoon Eleazar stierf, hij werd begraven in het bergland van Efraïm op de berg die aan zijn zoon Pinechas was gegeven.",
+    "h": "",
+    "o": 33,
+    "l": "33"
+  }
+]

@@ -1,0 +1,1482 @@
+[
+  {
+    "id": "48001001",
+    "b": 48,
+    "c": 1,
+    "v": 1,
+    "t": "Diesen Brief schreibt Paulus, der Apostel. Nicht Menschen haben mich dazu berufen oder beauftragt, sondern ich bin von Jesus Christus selbst zum Apostel bestimmt worden und von Gott, dem Vater, der Jesus von den Toten auferweckte.",
+    "h": "Paulus – von Gott berufen und von Menschen bestätigt\n(Kapitel 1–2)\nBotschaft und Gruß",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "48001002",
+    "b": 48,
+    "c": 1,
+    "v": 2,
+    "t": "Ich schreibe im Namen aller Brüder und Schwestern, die hier bei mir sind, und grüße die Gemeinden in Galatien.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "48001003",
+    "b": 48,
+    "c": 1,
+    "v": 3,
+    "t": "Euch allen wünschen wir Gnade und Frieden von Gott, unserem Vater, und von Jesus Christus, unserem Herrn.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "48001004",
+    "b": 48,
+    "c": 1,
+    "v": 4,
+    "t": "Er hat sein Leben für unsere Sünden hingegeben und uns davon befreit, so leben zu müssen, wie es in dieser vergänglichen, vom Bösen beherrschten Welt üblich ist. Damit erfüllte er den Willen Gottes, unseres Vaters.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "48001005",
+    "b": 48,
+    "c": 1,
+    "v": 5,
+    "t": "Ihm gebühren Lob und Ehre in alle Ewigkeit. Amen.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "48001006",
+    "b": 48,
+    "c": 1,
+    "v": 6,
+    "t": "Ich wundere mich sehr über euch. Gott hat euch doch in seiner Gnade das neue Leben durch Jesus Christus geschenkt, und ihr kehrt ihm so schnell wieder den Rücken. Ihr meint, einen anderen Weg zur Rettung gefunden zu haben?",
+    "h": "Es gibt nur einen Weg zu Gott",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "48001007",
+    "b": 48,
+    "c": 1,
+    "v": 7,
+    "t": "Doch es gibt keinen anderen! Es gibt nur gewisse Leute, die unter euch Verwirrung stiften, indem sie die Botschaft von Christus ins Gegenteil verkehren wollen.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "48001008",
+    "b": 48,
+    "c": 1,
+    "v": 8,
+    "t": "Wer euch aber einen anderen Weg zum Heil zeigen will als die rettende Botschaft, die wir euch verkündet haben, den wird Gottes Urteil treffen – auch wenn wir selbst das tun würden oder gar ein Engel vom Himmel.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "48001009",
+    "b": 48,
+    "c": 1,
+    "v": 9,
+    "t": "Ich sage es noch einmal: Wer euch eine andere Botschaft verkündet, als ihr angenommen habt, den soll Gottes Urteil treffen!",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "48001010",
+    "b": 48,
+    "c": 1,
+    "v": 10,
+    "t": "Rede ich den Menschen nach dem Munde, oder geht es mir darum, Gott zu gefallen? Erwarte ich, dass die Menschen mir Beifall klatschen? Dann würde ich nicht länger Christus dienen.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "48001011",
+    "b": 48,
+    "c": 1,
+    "v": 11,
+    "t": "Ihr könnt sicher sein, liebe Brüder und Schwestern: Die rettende Botschaft, die ich euch gelehrt habe, ist keine menschliche Erfindung.",
+    "h": "Paulus – von Gott selbst berufen",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "48001012",
+    "b": 48,
+    "c": 1,
+    "v": 12,
+    "t": "Ich habe sie ja auch von keinem Menschen übernommen, und kein Mensch hat sie mich gelehrt. Jesus Christus selbst ist mir erschienen und hat mir seine Botschaft offenbart.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "48001013",
+    "b": 48,
+    "c": 1,
+    "v": 13,
+    "t": "Ihr wisst sicherlich, wie ich als strenggläubiger Jude gelebt habe: Ich verfolgte die Christen überall mit glühendem Hass und wollte so die Gemeinde Gottes zerstören.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "48001014",
+    "b": 48,
+    "c": 1,
+    "v": 14,
+    "t": "Ich hatte mich ganz dem jüdischen Glauben verschrieben und übertraf in meinem Eifer die meisten meiner Altersgenossen in unserem Volk. Mit aller Kraft trat ich dafür ein, dass die überlieferten Vorschriften unserer Vorfahren buchstabengetreu erfüllt würden.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "48001015",
+    "b": 48,
+    "c": 1,
+    "v": 15,
+    "t": "Aber Gott hatte mich in seiner Gnade schon vor meiner Geburt dazu bestimmt, ihm einmal zu dienen. Als die Zeit dafür gekommen war,",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "48001016",
+    "b": 48,
+    "c": 1,
+    "v": 16,
+    "t": "ließ er mich seinen Sohn erkennen. Die anderen Völker sollten durch mich von ihm erfahren. Ohne Zögern habe ich diesen Auftrag angenommen und mich mit keinem Menschen beraten.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "48001017",
+    "b": 48,
+    "c": 1,
+    "v": 17,
+    "t": "Ich bin nicht einmal nach Jerusalem gereist, um die nach ihrer Meinung zu fragen, die schon vor mir Apostel waren. Nein, ich bin nach Arabien gezogen und von dort wieder nach Damaskus zurückgekehrt.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "48001018",
+    "b": 48,
+    "c": 1,
+    "v": 18,
+    "t": "Erst drei Jahre später kam ich nach Jerusalem, weil ich Petrus kennen lernen und mich mit ihm austauschen wollte. Fünfzehn Tage bin ich damals bei ihm geblieben.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "48001019",
+    "b": 48,
+    "c": 1,
+    "v": 19,
+    "t": "Von den anderen Aposteln habe ich bei diesem Aufenthalt keinen gesehen außer Jakobus, den Bruder unseres Herrn.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "48001020",
+    "b": 48,
+    "c": 1,
+    "v": 20,
+    "t": "Gott weiß, dass alles wahr ist, was ich euch schreibe.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "48001021",
+    "b": 48,
+    "c": 1,
+    "v": 21,
+    "t": "Danach bin ich in Syrien und Zilizien gewesen.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "48001022",
+    "b": 48,
+    "c": 1,
+    "v": 22,
+    "t": "Die christlichen Gemeinden in Judäa haben mich damals noch nicht persönlich gekannt.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "48001023",
+    "b": 48,
+    "c": 1,
+    "v": 23,
+    "t": "Immer wieder war ihnen zu Ohren gekommen: »Der Mann, der uns früher verfolgt hat, verkündigt jetzt selbst die rettende Botschaft und ruft zu dem Glauben auf, den er einst so erbittert bekämpfte!«",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "48001024",
+    "b": 48,
+    "c": 1,
+    "v": 24,
+    "t": "Und sie dankten Gott für alles, was er an mir getan hat.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "48002001",
+    "b": 48,
+    "c": 2,
+    "v": 1,
+    "t": "Erst vierzehn Jahre später bin ich wieder nach Jerusalem gekommen, diesmal zusammen mit Barnabas. Auch Titus nahm ich mit.",
+    "h": "Paulus – von den anderen Aposteln anerkannt",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "48002002",
+    "b": 48,
+    "c": 2,
+    "v": 2,
+    "t": "Gott selbst hatte sich mir offenbart und mir den Auftrag zu dieser Reise gegeben. In Jerusalem habe ich erklärt, welche Botschaft ich den Menschen aus anderen Völkern verkünde. Ich trug dies der versammelten Gemeinde vor und in einem weiteren Gespräch ihren führenden Männern. Denn ich wollte vermeiden, dass meine Arbeit abgelehnt wird und alle meine Mühe vergeblich ist.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "48002003",
+    "b": 48,
+    "c": 2,
+    "v": 3,
+    "t": "Alle Verantwortlichen stimmten mir zu. Nicht einmal von Titus, meinem griechischen Reisebegleiter, verlangte man, sich beschneiden zu lassen.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "48002004",
+    "b": 48,
+    "c": 2,
+    "v": 4,
+    "t": "Die Frage der Beschneidung wäre überhaupt nicht zum Problem geworden, hätten sich da nicht einige angebliche Christen hinter meinem Rücken in die Gemeinde eingeschlichen. Sie hegten ein tiefes Misstrauen gegenüber der Freiheit, die uns Jesus Christus schenkt, und wollten uns wieder dem jüdischen Gesetz unterwerfen.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "48002005",
+    "b": 48,
+    "c": 2,
+    "v": 5,
+    "t": "Aber wir haben ihnen keinen Augenblick nachgegeben. Denn für uns ist wichtig, dass euch die Wahrheit der rettenden Botschaft erhalten bleibt.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "48002006",
+    "b": 48,
+    "c": 2,
+    "v": 6,
+    "t": "Die verantwortlichen Männer in der Gemeinde haben mir jedenfalls keine Vorschriften gemacht – im Übrigen ist es mir ganz unwichtig, was sie früher einmal waren. Denn Gott schaut nicht auf Rang und Namen.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "48002007",
+    "b": 48,
+    "c": 2,
+    "v": 7,
+    "t": "Diesen Leitern der Gemeinde ist klar geworden, dass Gott mir den Auftrag gegeben hat, den nichtjüdischen Völkern die Botschaft von Christus zu verkünden, so wie er Petrus aufgetragen hat, sie den Juden zu bringen.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "48002008",
+    "b": 48,
+    "c": 2,
+    "v": 8,
+    "t": "Denn alle konnten sehen, dass meine Arbeit als Apostel ebenso von Gott bestätigt wurde wie die von Petrus.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "48002009",
+    "b": 48,
+    "c": 2,
+    "v": 9,
+    "t": "Jakobus, Petrus und Johannes, die als die Säulen der Gemeinde gelten, hatten erkannt, dass Gott mir diesen besonderen Auftrag gegeben hat. Da reichten sie mir und Barnabas die Hand zum Zeichen unserer Gemeinschaft. Wir einigten uns, dass sie die rettende Botschaft weiter unter den Juden verkünden sollten und wir unter den anderen Völkern.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "48002010",
+    "b": 48,
+    "c": 2,
+    "v": 10,
+    "t": "Nur um eins haben sie uns gebeten: Wir sollten die Armen in der Gemeinde von Jerusalem nicht vergessen. Und dafür habe ich mich auch immer eingesetzt.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "48002011",
+    "b": 48,
+    "c": 2,
+    "v": 11,
+    "t": "Als aber Petrus später nach Antiochia kam, musste ich ihm vor allen widersprechen, denn er hatte sich eindeutig falsch verhalten.",
+    "h": "Auseinandersetzung zwischen Paulus und Petrus",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "48002012",
+    "b": 48,
+    "c": 2,
+    "v": 12,
+    "t": "Zunächst hatte er ohne Bedenken mit den Christen, die keine Juden waren, an den gemeinsamen Mahlzeiten teilgenommen. Als aber einige jüdische Christen aus dem Kreis um Jakobus dazukamen, zog er sich zurück und wollte nicht mehr wie bisher mit allen zusammen essen. Er fürchtete nämlich die Vorwürfe der jüdischen Christen.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "48002013",
+    "b": 48,
+    "c": 2,
+    "v": 13,
+    "t": "Auch die anderen Juden in der Gemeinde handelten daraufhin gegen ihre Überzeugung, und schließlich verleiteten sie sogar Barnabas dazu, den gemeinsamen Mahlzeiten fernzubleiben.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "48002014",
+    "b": 48,
+    "c": 2,
+    "v": 14,
+    "t": "Als ich merkte, dass sie nicht ehrlich waren und von der Wahrheit der rettenden Botschaft abwichen, stellte ich Petrus vor der ganzen Gemeinde zur Rede: »Obwohl du als Jude geboren wurdest, lebst du nicht mehr streng nach den jüdischen Vorschriften, weil du Christ geworden bist. Weshalb verlangst du dann von den Christen, die aus den nichtjüdischen Völkern stammen, dass sie sich an die jüdischen Regeln und Gesetze halten sollen?«",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "48002015",
+    "b": 48,
+    "c": 2,
+    "v": 15,
+    "t": "Zwar sind wir durch unsere Geburt Juden und keine Sünder wie die Menschen anderer Völker.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "48002016",
+    "b": 48,
+    "c": 2,
+    "v": 16,
+    "t": "Trotzdem wissen wir inzwischen sehr genau, dass wir nicht durch Taten, wie das Gesetz sie von uns fordert, vor Gott bestehen können, sondern allein durch den Glauben an Jesus Christus. Wir sind doch deshalb Christen geworden, weil wir davon überzeugt sind, dass wir nur durch den Glauben an Christus von unserer Schuld freigesprochen werden; nicht aber, weil wir die Forderungen des Gesetzes erfüllen. Denn kein Mensch findet durch gute Werke Gottes Anerkennung.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "48002017",
+    "b": 48,
+    "c": 2,
+    "v": 17,
+    "t": "Wenn aber auch wir Juden allein durch den Glauben an Christus Anerkennung bei Gott finden wollen, dann geben wir damit zu, dass auch wir Sünder sind – ebenso wie die Menschen aus anderen Völkern. Bedeutet dies nun, dass Christus zum Komplizen der Sünde wird, wenn wir durch den Glauben an ihn nicht mehr dem Gesetz unterstellt sind ? Auf gar keinen Fall!",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "48002018",
+    "b": 48,
+    "c": 2,
+    "v": 18,
+    "t": "Nicht Christus, sondern ich selbst bin ein Komplize der Sünde, wenn ich dem Gesetz wieder Geltung verschaffen will, das ich vorher als nutzlos erkannt habe.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "48002019",
+    "b": 48,
+    "c": 2,
+    "v": 19,
+    "t": "Durch das Gesetz nämlich war ich zum Tode verurteilt. So bin ich nun für das Gesetz tot, damit ich für Gott leben kann. Mein altes Leben ist mit Christus am Kreuz gestorben.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "48002020",
+    "b": 48,
+    "c": 2,
+    "v": 20,
+    "t": "Darum lebe nicht mehr ich, sondern Christus lebt in mir! Mein vergängliches Leben auf dieser Erde lebe ich im Glauben an Jesus Christus, den Sohn Gottes, der mich geliebt und sein Leben für mich gegeben hat.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "48002021",
+    "b": 48,
+    "c": 2,
+    "v": 21,
+    "t": "Ich lehne dieses unverdiente Geschenk Gottes nicht ab – ganz im Gegensatz zu den Christen, die sich noch an die Forderungen des Gesetzes halten wollen. Könnten wir nämlich durch das Befolgen des Gesetzes von Gott angenommen werden, dann hätte Christus nicht zu sterben brauchen.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "48003001",
+    "b": 48,
+    "c": 3,
+    "v": 1,
+    "t": "Warum wollt ihr Christen in Galatien das denn nicht endlich begreifen! Wer konnte euch bloß so verblenden? Habe ich euch das Sterben von Jesus Christus am Kreuz nicht deutlich vor Augen gestellt?",
+    "h": "Der Glaube befreit, das Gesetz versklavt\n(Kapitel 3–4)\nGesetz oder Glaube?",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "48003002",
+    "b": 48,
+    "c": 3,
+    "v": 2,
+    "t": "Beantwortet mir nur diese eine Frage: Wodurch habt ihr den Geist Gottes empfangen? Indem ihr die Forderungen des Gesetzes erfüllt habt oder weil ihr die Botschaft des Glaubens gehört und angenommen habt?",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "48003003",
+    "b": 48,
+    "c": 3,
+    "v": 3,
+    "t": "Wie könnt ihr nur so blind sein! Wollt ihr jetzt etwa aus eigener Kraft zu Ende führen, was Gottes Geist in euch begonnen hat?",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "48003004",
+    "b": 48,
+    "c": 3,
+    "v": 4,
+    "t": "Ihr habt doch so Großes mit Gott erfahren. Soll das wirklich alles vergeblich gewesen sein? Das kann ich einfach nicht glauben!",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "48003005",
+    "b": 48,
+    "c": 3,
+    "v": 5,
+    "t": "Ich frage euch darum noch einmal: Warum schenkt Gott euch seinen Geist und lässt Wunder bei euch geschehen? Weil ihr das Gesetz erfüllt oder weil ihr von Christus gehört habt und an ihn glaubt?",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "48003006",
+    "b": 48,
+    "c": 3,
+    "v": 6,
+    "t": "Erinnert euch einmal daran, was von Abraham gesagt wird: »Abraham glaubte Gott, und so fand er bei ihm Anerkennung.«",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "48003007",
+    "b": 48,
+    "c": 3,
+    "v": 7,
+    "t": "Das bedeutet doch: Die wirklichen Nachkommen von Abraham sind alle, die glauben.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "48003008",
+    "b": 48,
+    "c": 3,
+    "v": 8,
+    "t": "Die Heilige Schrift selbst hat schon längst darauf hingewiesen, dass Gott auch die anderen Völker durch den Glauben retten wird. Gott verkündete schon Abraham die gute Botschaft: »Durch dich sollen alle Völker gesegnet werden.«",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "48003009",
+    "b": 48,
+    "c": 3,
+    "v": 9,
+    "t": "Mit Abraham, der unerschütterlich Gott vertraute, werden also alle gesegnet, die ebenso glauben wie er.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "48003010",
+    "b": 48,
+    "c": 3,
+    "v": 10,
+    "t": "Wer dagegen darauf vertraut, von Gott angenommen zu werden, weil er das Gesetz erfüllt, der steht unter einem Fluch. Die Heilige Schrift sagt: »Verflucht ist, wer sich nicht an dieses ganze Gesetz hält und danach lebt!«",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "48003011",
+    "b": 48,
+    "c": 3,
+    "v": 11,
+    "t": "Dass aber niemand durch das Gesetz Anerkennung bei Gott finden kann, ist ebenfalls klar. Denn in der Schrift heißt es an einer anderen Stelle: »Nur der wird Gottes Anerkennung finden und leben, der ihm vertraut.«",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "48003012",
+    "b": 48,
+    "c": 3,
+    "v": 12,
+    "t": "Das Gesetz aber fragt nicht nach dem Glauben. Hier gilt: »Nur wer seine Forderungen erfüllt, wird leben.«",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "48003013",
+    "b": 48,
+    "c": 3,
+    "v": 13,
+    "t": "Von diesem Fluch des Gesetzes hat uns Christus erlöst. Als er am Kreuz starb, hat er diesen Fluch auf sich genommen. In der Heiligen Schrift lesen wir ja: »Wer so aufgehängt wird, ist von Gott verflucht.«",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "48003014",
+    "b": 48,
+    "c": 3,
+    "v": 14,
+    "t": "Der Segen, den Gott Abraham zugesagt hatte, sollte durch Jesus Christus allen Völkern geschenkt werden. Und durch den Glauben an Christus empfangen wir alle den Geist Gottes, wie Gott es versprochen hat.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "48003015",
+    "b": 48,
+    "c": 3,
+    "v": 15,
+    "t": "Liebe Brüder und Schwestern! Ich möchte einmal ein ganz alltägliches Beispiel gebrauchen. Ist ein Testament einmal ausgefertigt und rechtsgültig, dann kann niemand etwas hinzufügen oder gar das Testament selbst für ungültig erklären.",
+    "h": "Das Gesetz und die Zusagen Gottes",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "48003016",
+    "b": 48,
+    "c": 3,
+    "v": 16,
+    "t": "So ist es auch mit Gottes Zusagen an Abraham. Betrachten wir sie genauer, dann stellen wir fest: Gott gab sein Versprechen Abraham und seinem Nachkommen. Es heißt nicht: »Abraham und seinen Nachkommen«, als ob viele gemeint wären. Gott sagt ausdrücklich: »deinem Nachkommen«, also einem Einzigen. Dieser Eine ist Christus.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "48003017",
+    "b": 48,
+    "c": 3,
+    "v": 17,
+    "t": "Ich will damit Folgendes sagen: Gottes Versprechen an Abraham ist rechtsgültig wie ein Testament, und das Gesetz von Mose, das erst 430 Jahre später gegeben wurde, ändert daran nichts. Gottes Versprechen wird deshalb nicht ungültig.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "48003018",
+    "b": 48,
+    "c": 3,
+    "v": 18,
+    "t": "Würde Gott jetzt aber den Empfang des Erbes von der Erfüllung des Gesetzes abhängig machen, so wäre sein früheres Versprechen aufgehoben. Aber Gott hat Abraham das Erbe ausdrücklich ohne jede Bedingung zugesagt.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "48003019",
+    "b": 48,
+    "c": 3,
+    "v": 19,
+    "t": "Was aber soll dann überhaupt das Gesetz? Gott hat es zusätzlich gegeben, damit wir das Ausmaß unserer Sünden erkennen. Dieses Gesetz – von den Engeln durch den Vermittler Mose zu uns gebracht – sollte auch nur so lange gelten, bis der Nachkomme von Abraham da wäre, an dem Gott sein Versprechen erfüllen wollte.",
+    "h": "Welche Aufgabe hat das Gesetz?",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "48003020",
+    "b": 48,
+    "c": 3,
+    "v": 20,
+    "t": "Bei dieser Zusage war kein Vermittler notwendig, sondern Gott, der Eine, hat selbst zu Abraham gesprochen.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "48003021",
+    "b": 48,
+    "c": 3,
+    "v": 21,
+    "t": "Soll man nun daraus schließen, dass Gottes Zusagen und das Gesetz einander widersprechen? Auf keinen Fall! Das Gesetz, das Gott uns gegeben hat, kann uns ja schließlich kein neues Leben schenken. Nur dann käme unsere Anerkennung vor Gott tatsächlich durch die Erfüllung des Gesetzes.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "48003022",
+    "b": 48,
+    "c": 3,
+    "v": 22,
+    "t": "Aber in der Heiligen Schrift heißt es eindeutig, dass wir alle Gefangene der Sünde sind. Gott wollte uns das, was er versprochen hatte, durch den Glauben an Jesus Christus schenken. Nur wer an ihn glaubt, sollte erleben, wie sich Gottes Zusage erfüllt.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "48003023",
+    "b": 48,
+    "c": 3,
+    "v": 23,
+    "t": "Bevor aber der Glaube kam, waren wir Gefangene der Sünde, vom Gesetz scharf bewacht. Das dauerte so lange, bis die Zeit da war, in der der Glaube an Christus uns befreien sollte.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "48003024",
+    "b": 48,
+    "c": 3,
+    "v": 24,
+    "t": "Bis dahin hatte das Gesetz für uns die Aufgabe eines strengen Erziehers. Seit Christus aber finden wir durch den Glauben Gottes Anerkennung und sind dem Gesetz, diesem strengen Erzieher, nicht mehr unterstellt.",
+    "h": "",
+    "o": 24,
+    "l": "24-25"
+  },
+  {
+    "id": "48003025",
+    "b": 48,
+    "c": 3,
+    "v": 26,
+    "t": "Nun seid ihr alle zu Kindern Gottes geworden, weil ihr durch den Glauben mit Jesus Christus verbunden seid.",
+    "h": "Befreit durch den Glauben an Christus",
+    "o": 25,
+    "l": "26"
+  },
+  {
+    "id": "48003026",
+    "b": 48,
+    "c": 3,
+    "v": 27,
+    "t": "Ihr gehört zu Christus, denn ihr seid auf seinen Namen getauft.",
+    "h": "",
+    "o": 26,
+    "l": "27"
+  },
+  {
+    "id": "48003027",
+    "b": 48,
+    "c": 3,
+    "v": 28,
+    "t": "Jetzt ist es nicht mehr wichtig, ob ihr Juden oder Griechen, Sklaven oder Freie, Männer oder Frauen seid: In Jesus Christus seid ihr alle eins.",
+    "h": "",
+    "o": 27,
+    "l": "28"
+  },
+  {
+    "id": "48003028",
+    "b": 48,
+    "c": 3,
+    "v": 29,
+    "t": "Gehört ihr aber zu Christus, dann seid auch ihr Nachkommen von Abraham. Als seine Erben bekommt ihr alles, was Gott ihm zugesagt hat.",
+    "h": "",
+    "o": 28,
+    "l": "29"
+  },
+  {
+    "id": "48004001",
+    "b": 48,
+    "c": 4,
+    "v": 1,
+    "t": "Überlegt einmal: Solange der Erbe noch nicht volljährig ist, besteht zwischen ihm und einem Sklaven kein Unterschied, obwohl ihm als Erben schon alles gehört.",
+    "h": "Nicht mehr Gefangene des Gesetzes, sondern Kinder Gottes",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "48004002",
+    "b": 48,
+    "c": 4,
+    "v": 2,
+    "t": "Bis zu dem vom Vater festgesetzten Zeitpunkt untersteht er einem Vormund, und Vermögensverwalter bestimmen über den Besitz.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "48004003",
+    "b": 48,
+    "c": 4,
+    "v": 3,
+    "t": "Genauso ging es auch uns. Wie Unmündige waren wir allen Mächten und Zwängen dieser Welt ausgeliefert.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "48004004",
+    "b": 48,
+    "c": 4,
+    "v": 4,
+    "t": "Als aber die von Gott festgesetzte Zeit kam, sandte er seinen Sohn zu uns. Christus wurde wie wir als Mensch geboren und den Forderungen des Gesetzes unterstellt.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "48004005",
+    "b": 48,
+    "c": 4,
+    "v": 5,
+    "t": "Er sollte uns befreien, die wir Gefangene des Gesetzes waren, damit wir zu Kindern Gottes werden und alle damit verbundenen Rechte empfangen konnten.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "48004006",
+    "b": 48,
+    "c": 4,
+    "v": 6,
+    "t": "Weil ihr nun seine Kinder seid, schenkte euch Gott seinen Geist, denselben Geist, den auch der Sohn hat. Jetzt können wir zu Gott kommen und zu ihm sagen: »Abba, lieber Vater!«",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "48004007",
+    "b": 48,
+    "c": 4,
+    "v": 7,
+    "t": "Ihr seid also nicht länger Gefangene des Gesetzes, sondern Söhne und Töchter Gottes. Und als Kinder Gottes seid ihr auch seine Erben, euch gehört alles, was Gott versprochen hat.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "48004008",
+    "b": 48,
+    "c": 4,
+    "v": 8,
+    "t": "Als ihr von Gott noch nichts wusstet, habt ihr sogenannten Göttern gedient, die in Wirklichkeit gar keine sind.",
+    "h": "Paulus sorgt sich um seine Gemeinden",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "48004009",
+    "b": 48,
+    "c": 4,
+    "v": 9,
+    "t": "Nachdem ihr nun aber Gott kennt und liebt – genauer gesagt, nachdem Gott euch kennt und liebt –, wie ist es da möglich, dass ihr euch diesen armseligen und kümmerlichen Zwängen wieder beugt und unterwerft?",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "48004010",
+    "b": 48,
+    "c": 4,
+    "v": 10,
+    "t": "Oder warum sonst legt ihr so großen Wert auf die Einhaltung bestimmter Tage, Monate, Feste und Jahre?",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "48004011",
+    "b": 48,
+    "c": 4,
+    "v": 11,
+    "t": "Ich mache mir Sorgen um euch! Ist denn meine ganze Arbeit bei euch vergeblich gewesen?",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "48004012",
+    "b": 48,
+    "c": 4,
+    "v": 12,
+    "t": "Liebe Brüder und Schwestern, ich bitte euch: Folgt meinem Beispiel und lasst euch nicht unter das Gesetz zwingen. Denn auch ich habe mich nach euch gerichtet, und ihr habt mich bisher noch nie gekränkt.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "48004013",
+    "b": 48,
+    "c": 4,
+    "v": 13,
+    "t": "Ihr erinnert euch sicherlich daran, als ich das erste Mal bei euch war und euch die rettende Botschaft verkündete. Damals war ich krank,",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "48004014",
+    "b": 48,
+    "c": 4,
+    "v": 14,
+    "t": "und obwohl meine Krankheit eine Bewährungsprobe für euren Glauben war, habt ihr mich weder verachtet noch abgewiesen. Im Gegenteil, ihr habt mich wie einen Engel Gottes aufgenommen, ja, wie Jesus Christus selbst.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "48004015",
+    "b": 48,
+    "c": 4,
+    "v": 15,
+    "t": "Wie glücklich und dankbar wart ihr doch damals! Und heute? Ich bin sicher, zu der Zeit hättet ihr sogar eure Augen für mich hergegeben.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "48004016",
+    "b": 48,
+    "c": 4,
+    "v": 16,
+    "t": "Bin ich jetzt euer Feind geworden, weil ich euch die volle Wahrheit sage?",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "48004017",
+    "b": 48,
+    "c": 4,
+    "v": 17,
+    "t": "Diese Leute, die euch zurzeit so umschmeicheln, meinen es nicht ehrlich mit euch. Sie wollen nur erreichen, dass ihr euch von mir abwendet und ihnen nacheifert.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "48004018",
+    "b": 48,
+    "c": 4,
+    "v": 18,
+    "t": "Nun hätte ich gar nichts dagegen, wenn es auch andere gäbe, die sich für euch einsetzen. Es soll aber in guter Absicht geschehen – und zwar immer, und nicht nur, wenn ich bei euch bin.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "48004019",
+    "b": 48,
+    "c": 4,
+    "v": 19,
+    "t": "Euretwegen, meine lieben Kinder, leide ich noch einmal alle Schmerzen und Ängste, wie sie eine Mutter bei der Geburt ihres Kindes auszustehen hat – so lange, bis Christus in eurem Leben Gestalt gewonnen hat.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "48004020",
+    "b": 48,
+    "c": 4,
+    "v": 20,
+    "t": "Könnte ich doch nur bei euch sein und mit meinen Worten euer Herz erreichen! Ich weiß wirklich nicht, was ich noch mit euch machen soll!",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "48004021",
+    "b": 48,
+    "c": 4,
+    "v": 21,
+    "t": "Ihr wollt euch also dem Gesetz unterwerfen. Wisst ihr denn eigentlich, was im Gesetz steht?",
+    "h": "Das Beispiel von Hagar und Sara",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "48004022",
+    "b": 48,
+    "c": 4,
+    "v": 22,
+    "t": "Dort heißt es, dass Abraham zwei Söhne hatte: einen von der Sklavin Hagar und einen von seiner Frau Sara, die als Freie geboren war.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "48004023",
+    "b": 48,
+    "c": 4,
+    "v": 23,
+    "t": "Der Sohn der Sklavin wurde geboren, weil Abraham endlich einen Sohn haben wollte, der Sohn der Freien dagegen, weil Gott ihn versprochen hatte.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "48004024",
+    "b": 48,
+    "c": 4,
+    "v": 24,
+    "t": "Am Beispiel dieser beiden Frauen will uns Gott zeigen, wie verschieden seine beiden Bündnisse mit den Menschen sind. Den einen Bund, für den Hagar steht, schloss Gott auf dem Berg Sinai mit dem Volk Israel, als er ihm das Gesetz gab. Dieses Gesetz aber versklavt uns.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "48004025",
+    "b": 48,
+    "c": 4,
+    "v": 25,
+    "t": "Hagar weist auf den Berg Sinai in Arabien hin. Er entspricht dem Jerusalem unserer Zeit, denen, die am Gesetz festhalten und deshalb nie frei werden.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "48004026",
+    "b": 48,
+    "c": 4,
+    "v": 26,
+    "t": "Die andere Frau aber, von der wir abstammen, ist frei. Sie weist auf das neue Jerusalem im Himmel hin.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "48004027",
+    "b": 48,
+    "c": 4,
+    "v": 27,
+    "t": "Von ihr heißt es in der Heiligen Schrift: »Sei fröhlich, du Unfruchtbare, auch wenn du nie ein Kind geboren hast. Juble und jauchze, du Kinderlose! Denn du, die du allein bist, wirst mehr Kinder haben als die Frau, die einen Mann hat.«",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "48004028",
+    "b": 48,
+    "c": 4,
+    "v": 28,
+    "t": "Liebe Brüder und Schwestern, ihr verdankt euer Leben wie Isaak der Zusage Gottes.",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "48004029",
+    "b": 48,
+    "c": 4,
+    "v": 29,
+    "t": "Allerdings verfolgte schon damals der Sohn der Sklavin – der geboren wurde, weil Menschen es so wollten – den Sohn der Freien, der geboren wurde, weil Gott es wollte. Genauso ist es auch noch heute.",
+    "h": "",
+    "o": 29,
+    "l": "29"
+  },
+  {
+    "id": "48004030",
+    "b": 48,
+    "c": 4,
+    "v": 30,
+    "t": "Aber was sagt die Heilige Schrift dazu? »Jage die Sklavin und ihren Sohn fort! Denn der Sohn der Freien soll nicht mit ihm das Erbe teilen müssen!«",
+    "h": "",
+    "o": 30,
+    "l": "30"
+  },
+  {
+    "id": "48004031",
+    "b": 48,
+    "c": 4,
+    "v": 31,
+    "t": "Wir aber, meine lieben Brüder und Schwestern, sind nicht die Kinder der Sklavin, sondern der Freien!",
+    "h": "",
+    "o": 31,
+    "l": "31"
+  },
+  {
+    "id": "48005001",
+    "b": 48,
+    "c": 5,
+    "v": 1,
+    "t": "Durch Christus sind wir frei geworden, damit wir als Befreite leben. Jetzt kommt es darauf an, dass ihr euch nicht wieder vom Gesetz versklaven lasst.",
+    "h": "Leben in der Freiheit durch die Kraft des Geistes\n(Kapitel 5–6)\nBewahrt die Freiheit, die Christus euch schenkt!",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "48005002",
+    "b": 48,
+    "c": 5,
+    "v": 2,
+    "t": "Ich, Paulus, sage euch deshalb in aller Deutlichkeit: Wenn ihr euch beschneiden lasst, wird alles nutzlos sein, was Christus für euch getan hat.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "48005003",
+    "b": 48,
+    "c": 5,
+    "v": 3,
+    "t": "Und noch einmal erkläre ich jedem Einzelnen von euch: Wer sich beschneiden lässt, der muss das ganze Gesetz mit allen seinen Forderungen befolgen.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "48005004",
+    "b": 48,
+    "c": 5,
+    "v": 4,
+    "t": "Wenn ihr aber durch das Gesetz vor Gott bestehen wollt, dann habt ihr euch von Christus losgesagt und Gottes Gnade verspielt.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "48005005",
+    "b": 48,
+    "c": 5,
+    "v": 5,
+    "t": "Wir aber vertrauen darauf, dass wir durch den Glauben an Jesus Christus von Gott angenommen werden. Er hat uns ja durch seinen Geist diese Hoffnung geschenkt.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "48005006",
+    "b": 48,
+    "c": 5,
+    "v": 6,
+    "t": "Wenn wir mit Jesus Christus verbunden sind, ist es völlig gleich, ob wir beschnitten oder unbeschnitten sind. Bei ihm gilt allein der Glaube, der sich in Taten der Liebe zeigt.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "48005007",
+    "b": 48,
+    "c": 5,
+    "v": 7,
+    "t": "Ihr wart doch auf einem so guten Weg! Wer hat euch nur davon abgebracht, so dass ihr der Wahrheit nicht mehr folgen wollt?",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "48005008",
+    "b": 48,
+    "c": 5,
+    "v": 8,
+    "t": "Gott bestimmt nicht! Er ist es ja, der euch berufen hat!",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "48005009",
+    "b": 48,
+    "c": 5,
+    "v": 9,
+    "t": "Wie ihr wisst, genügt schon ein wenig Sauerteig, um den ganzen Teig zu durchsäuern.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "48005010",
+    "b": 48,
+    "c": 5,
+    "v": 10,
+    "t": "Weil ich dem Herrn vertraue, bin ich zuversichtlich, dass ihr in dieser Frage mit mir übereinstimmen werdet. Wer euch aber im Glauben durcheinanderbringt, wird seiner Strafe nicht entgehen, wer er auch sein mag.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "48005011",
+    "b": 48,
+    "c": 5,
+    "v": 11,
+    "t": "Liebe Brüder und Schwestern! Manche Leute behaupten, ich selbst würde alle Christen dazu drängen, sich beschneiden zu lassen. Würden mich die Juden dann aber noch verfolgen? Dann brauchte auch niemand mehr Anstoß daran zu nehmen, dass unsere Rettung allein durch Jesus und seinen Tod am Kreuz kommt.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "48005012",
+    "b": 48,
+    "c": 5,
+    "v": 12,
+    "t": "Wenn diesen Unruhestiftern die Beschneidung so wichtig ist, dann sollen sie sich doch gleich kastrieren lassen!",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "48005013",
+    "b": 48,
+    "c": 5,
+    "v": 13,
+    "t": "Durch Christus seid ihr dazu berufen, frei zu sein, liebe Brüder und Schwestern! Aber benutzt diese Freiheit nicht als Deckmantel, um eurem alten selbstsüchtigen Wesen nachzugeben. Dient vielmehr einander in Liebe.",
+    "h": "Leben unter der Führung des Heiligen Geistes",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "48005014",
+    "b": 48,
+    "c": 5,
+    "v": 14,
+    "t": "Denn wer dieses eine Gebot befolgt: »Liebe deinen Mitmenschen wie dich selbst!«, der hat das ganze Gesetz erfüllt.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "48005015",
+    "b": 48,
+    "c": 5,
+    "v": 15,
+    "t": "Wenn ihr aber wie wilde Tiere übereinander herfallt, dann passt nur auf, dass ihr euch dabei nicht gegenseitig fresst!",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "48005016",
+    "b": 48,
+    "c": 5,
+    "v": 16,
+    "t": "Darum sage ich euch: Lasst euer Leben von Gottes Geist bestimmen. Wenn er euch führt, werdet ihr allen selbstsüchtigen Wünschen widerstehen können.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "48005017",
+    "b": 48,
+    "c": 5,
+    "v": 17,
+    "t": "Denn eigensüchtig wie unsere menschliche Natur ist, will sie immer das Gegenteil von dem, was Gottes Geist will. Doch der Geist Gottes duldet unsere Selbstsucht nicht. Beide kämpfen gegeneinander, so dass ihr das Gute, das ihr doch eigentlich wollt, nicht ungehindert tun könnt.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "48005018",
+    "b": 48,
+    "c": 5,
+    "v": 18,
+    "t": "Wenn ihr euch aber von Gottes Geist regieren lasst, seid ihr den Forderungen des Gesetzes nicht länger unterworfen.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "48005019",
+    "b": 48,
+    "c": 5,
+    "v": 19,
+    "t": "Gebt ihr dagegen eurer alten menschlichen Natur nach, ist offensichtlich, wohin das führt: zu sexueller Unmoral, einem sittenlosen und ausschweifenden Leben,",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "48005020",
+    "b": 48,
+    "c": 5,
+    "v": 20,
+    "t": "zur Götzenanbetung und zu abergläubischem Vertrauen auf übersinnliche Kräfte. Feindseligkeit, Streit, Eifersucht, Wutausbrüche, hässliche Auseinandersetzungen, Uneinigkeit und Spaltungen bestimmen dann das Leben",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "48005021",
+    "b": 48,
+    "c": 5,
+    "v": 21,
+    "t": "ebenso wie Neid, Trunksucht, Fressgelage und ähnliche Dinge. Ich habe es schon oft gesagt und warne euch hier noch einmal: Wer so lebt, wird niemals in Gottes Reich kommen.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "48005022",
+    "b": 48,
+    "c": 5,
+    "v": 22,
+    "t": "Dagegen bringt der Geist Gottes in unserem Leben nur Gutes hervor: Liebe, Freude und Frieden; Geduld, Freundlichkeit und Güte; Treue,",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "48005023",
+    "b": 48,
+    "c": 5,
+    "v": 23,
+    "t": "Nachsicht und Selbstbeherrschung. Ist das bei euch so? Dann kann kein Gesetz mehr etwas von euch fordern!",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "48005024",
+    "b": 48,
+    "c": 5,
+    "v": 24,
+    "t": "Es ist wahr: Wer zu Jesus Christus gehört, der hat sein selbstsüchtiges Wesen mit allen Leidenschaften und Begierden ans Kreuz geschlagen.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "48005025",
+    "b": 48,
+    "c": 5,
+    "v": 25,
+    "t": "Durch Gottes Geist haben wir neues Leben, darum wollen wir uns jetzt ganz von ihm bestimmen lassen!",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "48005026",
+    "b": 48,
+    "c": 5,
+    "v": 26,
+    "t": "Prahlen wir also nicht mit unseren vermeintlichen Vorzügen, denn dadurch rufen wir nur Kränkungen und Neid hervor.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "48006001",
+    "b": 48,
+    "c": 6,
+    "v": 1,
+    "t": "Brüder und Schwestern, wenn sich einer von euch zu einer Verfehlung hinreißen lässt, sollt ihr, die ihr von Gottes Geist geleitet werdet, ihn liebevoll wieder zurechtbringen. Seht aber zu, dass ihr dabei nicht selbst zu Fall kommt.",
+    "h": "Tragt die Lasten gemeinsam!",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "48006002",
+    "b": 48,
+    "c": 6,
+    "v": 2,
+    "t": "Jeder soll dem anderen helfen, seine Last zu tragen. Auf diese Weise erfüllt ihr das Gesetz, das Christus uns gegeben hat.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "48006003",
+    "b": 48,
+    "c": 6,
+    "v": 3,
+    "t": "Wer sich jedoch einbildet, besser zu sein als die anderen, der betrügt sich selbst.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "48006004",
+    "b": 48,
+    "c": 6,
+    "v": 4,
+    "t": "Darum soll jeder sein Leben genau prüfen. Dann wird er sich über seine guten Taten freuen können, aber keinen Grund zur Überheblichkeit haben.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "48006005",
+    "b": 48,
+    "c": 6,
+    "v": 5,
+    "t": "Denn jeder ist für sein eigenes Tun vor Gott verantwortlich. Das ist schon schwer genug!",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "48006006",
+    "b": 48,
+    "c": 6,
+    "v": 6,
+    "t": "Wer im Glauben unterwiesen wird, soll auch zum Lebensunterhalt seines Lehrers beitragen, so gut er kann.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "48006007",
+    "b": 48,
+    "c": 6,
+    "v": 7,
+    "t": "Meint nur nicht, ihr könntet euch über Gott lustig machen! Denn was der Mensch sät, das wird er auch ernten:",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "48006008",
+    "b": 48,
+    "c": 6,
+    "v": 8,
+    "t": "Wer sich nur auf sich selbst verlässt, den erwartet der ewige Tod. Wer sich aber durch den Geist Gottes führen lässt, der wird durch ihn ewiges Leben empfangen.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "48006009",
+    "b": 48,
+    "c": 6,
+    "v": 9,
+    "t": "Lasst uns also nicht müde werden, Gutes zu tun. Es wird eine Zeit kommen, in der wir eine reiche Ernte einbringen. Wir dürfen nur nicht vorher aufgeben!",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "48006010",
+    "b": 48,
+    "c": 6,
+    "v": 10,
+    "t": "Solange uns noch Zeit bleibt, wollen wir allen Menschen Gutes tun, vor allem aber denen, die mit uns an Jesus Christus glauben.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "48006011",
+    "b": 48,
+    "c": 6,
+    "v": 11,
+    "t": "Wie ihr an den großen Buchstaben sehen könnt, schreibe ich diesen Brief jetzt eigenhändig zu Ende.",
+    "h": "Alles durch Christus!",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "48006012",
+    "b": 48,
+    "c": 6,
+    "v": 12,
+    "t": "Leute, denen es nur um ihr Ansehen und ihre Geltung vor Menschen geht, bedrängen euch, ihr müsstet euch noch beschneiden lassen. Dabei haben sie nur Angst, verfolgt zu werden, wenn sie sich einzig und allein zum gekreuzigten Jesus Christus bekennen.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "48006013",
+    "b": 48,
+    "c": 6,
+    "v": 13,
+    "t": "Doch obwohl sie selbst beschnitten sind, erfüllen sie die Forderungen des Gesetzes nicht. Sie wollen nur damit prahlen, dass sie euch zur Beschneidung überredet haben.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "48006014",
+    "b": 48,
+    "c": 6,
+    "v": 14,
+    "t": "Ich aber kenne nur einen Grund zum Rühmen: das Kreuz unseres Herrn Jesus Christus. Weil er starb, starb auch diese Welt für mich, und ich bin tot für ihre Ansprüche und Forderungen.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "48006015",
+    "b": 48,
+    "c": 6,
+    "v": 15,
+    "t": "Vor Gott ist es vollkommen gleichgültig, ob wir beschnitten oder unbeschnitten sind. Wichtig ist allein, dass wir durch Christus zu neuen Menschen geworden sind.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "48006016",
+    "b": 48,
+    "c": 6,
+    "v": 16,
+    "t": "Wer sich an diesen Grundsatz hält, dem möge Gott seinen Frieden und seine Barmherzigkeit schenken – ihm und allen, die zu Gottes auserwähltem Volk gehören.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "48006017",
+    "b": 48,
+    "c": 6,
+    "v": 17,
+    "t": "Bitte belastet mich nicht noch mehr! Im Dienst für Jesus habe ich genug gelitten, wie die Narben an meinem Körper zeigen.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "48006018",
+    "b": 48,
+    "c": 6,
+    "v": 18,
+    "t": "Die Gnade unseres Herrn Jesus Christus sei mit euch, liebe Brüder und Schwestern. Amen!",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  }
+]

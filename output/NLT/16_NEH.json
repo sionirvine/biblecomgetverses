@@ -1,0 +1,4062 @@
+[
+  {
+    "id": "16001001",
+    "b": 16,
+    "c": 1,
+    "v": 1,
+    "t": "These are the memoirs of Nehemiah son of Hacaliah. In late autumn, in the month of Kislev, in the twentieth year of King Artaxerxes’ reign, I was at the fortress of Susa.",
+    "h": "",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "16001002",
+    "b": 16,
+    "c": 1,
+    "v": 2,
+    "t": "Hanani, one of my brothers, came to visit me with some other men who had just arrived from Judah. I asked them about the Jews who had returned there from captivity and about how things were going in Jerusalem.",
+    "h": "Nehemiah’s Concern for Jerusalem",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "16001003",
+    "b": 16,
+    "c": 1,
+    "v": 3,
+    "t": "They said to me, “Things are not going well for those who returned to the province of Judah. They are in great trouble and disgrace. The wall of Jerusalem has been torn down, and the gates have been destroyed by fire.”",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "16001004",
+    "b": 16,
+    "c": 1,
+    "v": 4,
+    "t": "When I heard this, I sat down and wept. In fact, for days I mourned, fasted, and prayed to the God of heaven.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "16001005",
+    "b": 16,
+    "c": 1,
+    "v": 5,
+    "t": "Then I said, “O LORD, God of heaven, the great and awesome God who keeps his covenant of unfailing love with those who love him and obey his commands,",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "16001006",
+    "b": 16,
+    "c": 1,
+    "v": 6,
+    "t": "listen to my prayer! Look down and see me praying night and day for your people Israel. I confess that we have sinned against you. Yes, even my own family and I have sinned!",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "16001007",
+    "b": 16,
+    "c": 1,
+    "v": 7,
+    "t": "We have sinned terribly by not obeying the commands, decrees, and regulations that you gave us through your servant Moses.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "16001008",
+    "b": 16,
+    "c": 1,
+    "v": 8,
+    "t": "“Please remember what you told your servant Moses: ‘If you are unfaithful to me, I will scatter you among the nations.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "16001009",
+    "b": 16,
+    "c": 1,
+    "v": 9,
+    "t": "But if you return to me and obey my commands and live by them, then even if you are exiled to the ends of the earth, I will bring you back to the place I have chosen for my name to be honored.’",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "16001010",
+    "b": 16,
+    "c": 1,
+    "v": 10,
+    "t": "“The people you rescued by your great power and strong hand are your servants.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "16001011",
+    "b": 16,
+    "c": 1,
+    "v": 11,
+    "t": "O Lord, please hear my prayer! Listen to the prayers of those of us who delight in honoring you. Please grant me success today by making the king favorable to me. Put it into his heart to be kind to me.” In those days I was the king’s cup-bearer.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "16002001",
+    "b": 16,
+    "c": 2,
+    "v": 1,
+    "t": "Early the following spring, in the month of Nisan, during the twentieth year of King Artaxerxes’ reign, I was serving the king his wine. I had never before appeared sad in his presence.",
+    "h": "Nehemiah Goes to Jerusalem",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "16002002",
+    "b": 16,
+    "c": 2,
+    "v": 2,
+    "t": "So the king asked me, “Why are you looking so sad? You don’t look sick to me. You must be deeply troubled.” Then I was terrified,",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "16002003",
+    "b": 16,
+    "c": 2,
+    "v": 3,
+    "t": "but I replied, “Long live the king! How can I not be sad? For the city where my ancestors are buried is in ruins, and the gates have been destroyed by fire.”",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "16002004",
+    "b": 16,
+    "c": 2,
+    "v": 4,
+    "t": "The king asked, “Well, how can I help you?” With a prayer to the God of heaven,",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "16002005",
+    "b": 16,
+    "c": 2,
+    "v": 5,
+    "t": "I replied, “If it please the king, and if you are pleased with me, your servant, send me to Judah to rebuild the city where my ancestors are buried.”",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "16002006",
+    "b": 16,
+    "c": 2,
+    "v": 6,
+    "t": "The king, with the queen sitting beside him, asked, “How long will you be gone? When will you return?” After I told him how long I would be gone, the king agreed to my request.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "16002007",
+    "b": 16,
+    "c": 2,
+    "v": 7,
+    "t": "I also said to the king, “If it please the king, let me have letters addressed to the governors of the province west of the Euphrates River, instructing them to let me travel safely through their territories on my way to Judah.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "16002008",
+    "b": 16,
+    "c": 2,
+    "v": 8,
+    "t": "And please give me a letter addressed to Asaph, the manager of the king’s forest, instructing him to give me timber. I will need it to make beams for the gates of the Temple fortress, for the city walls, and for a house for myself.” And the king granted these requests, because the gracious hand of God was on me.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "16002009",
+    "b": 16,
+    "c": 2,
+    "v": 9,
+    "t": "When I came to the governors of the province west of the Euphrates River, I delivered the king’s letters to them. The king, I should add, had sent along army officers and horsemen to protect me.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "16002010",
+    "b": 16,
+    "c": 2,
+    "v": 10,
+    "t": "But when Sanballat the Horonite and Tobiah the Ammonite official heard of my arrival, they were very displeased that someone had come to help the people of Israel.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "16002011",
+    "b": 16,
+    "c": 2,
+    "v": 11,
+    "t": "So I arrived in Jerusalem. Three days later,",
+    "h": "Nehemiah Inspects Jerusalem’s Wall",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "16002012",
+    "b": 16,
+    "c": 2,
+    "v": 12,
+    "t": "I slipped out during the night, taking only a few others with me. I had not told anyone about the plans God had put in my heart for Jerusalem. We took no pack animals with us except the donkey I was riding.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "16002013",
+    "b": 16,
+    "c": 2,
+    "v": 13,
+    "t": "After dark I went out through the Valley Gate, past the Jackal’s Well, and over to the Dung Gate to inspect the broken walls and burned gates.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "16002014",
+    "b": 16,
+    "c": 2,
+    "v": 14,
+    "t": "Then I went to the Fountain Gate and to the King’s Pool, but my donkey couldn’t get through the rubble.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "16002015",
+    "b": 16,
+    "c": 2,
+    "v": 15,
+    "t": "So, though it was still dark, I went up the Kidron Valley instead, inspecting the wall before I turned back and entered again at the Valley Gate.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "16002016",
+    "b": 16,
+    "c": 2,
+    "v": 16,
+    "t": "The city officials did not know I had been out there or what I was doing, for I had not yet said anything to anyone about my plans. I had not yet spoken to the Jewish leaders—the priests, the nobles, the officials, or anyone else in the administration.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "16002017",
+    "b": 16,
+    "c": 2,
+    "v": 17,
+    "t": "But now I said to them, “You know very well what trouble we are in. Jerusalem lies in ruins, and its gates have been destroyed by fire. Let us rebuild the wall of Jerusalem and end this disgrace!”",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "16002018",
+    "b": 16,
+    "c": 2,
+    "v": 18,
+    "t": "Then I told them about how the gracious hand of God had been on me, and about my conversation with the king. They replied at once, “Yes, let’s rebuild the wall!” So they began the good work.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "16002019",
+    "b": 16,
+    "c": 2,
+    "v": 19,
+    "t": "But when Sanballat, Tobiah, and Geshem the Arab heard of our plan, they scoffed contemptuously. “What are you doing? Are you rebelling against the king?” they asked.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "16002020",
+    "b": 16,
+    "c": 2,
+    "v": 20,
+    "t": "I replied, “The God of heaven will help us succeed. We, his servants, will start rebuilding this wall. But you have no share, legal right, or historic claim in Jerusalem.”",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "16003001",
+    "b": 16,
+    "c": 3,
+    "v": 1,
+    "t": "Then Eliashib the high priest and the other priests started to rebuild at the Sheep Gate. They dedicated it and set up its doors, building the wall as far as the Tower of the Hundred, which they dedicated, and the Tower of Hananel.",
+    "h": "Rebuilding the Wall of Jerusalem",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "16003002",
+    "b": 16,
+    "c": 3,
+    "v": 2,
+    "t": "People from the town of Jericho worked next to them, and beyond them was Zaccur son of Imri.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "16003003",
+    "b": 16,
+    "c": 3,
+    "v": 3,
+    "t": "The Fish Gate was built by the sons of Hassenaah. They laid the beams, set up its doors, and installed its bolts and bars.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "16003004",
+    "b": 16,
+    "c": 3,
+    "v": 4,
+    "t": "Meremoth son of Uriah and grandson of Hakkoz repaired the next section of wall. Beside him were Meshullam son of Berekiah and grandson of Meshezabel, and then Zadok son of Baana.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "16003005",
+    "b": 16,
+    "c": 3,
+    "v": 5,
+    "t": "Next were the people from Tekoa, though their leaders refused to work with the construction supervisors.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "16003006",
+    "b": 16,
+    "c": 3,
+    "v": 6,
+    "t": "The Old City Gate was repaired by Joiada son of Paseah and Meshullam son of Besodeiah. They laid the beams, set up its doors, and installed its bolts and bars.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "16003007",
+    "b": 16,
+    "c": 3,
+    "v": 7,
+    "t": "Next to them were Melatiah from Gibeon, Jadon from Meronoth, people from Gibeon, and people from Mizpah, the headquarters of the governor of the province west of the Euphrates River.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "16003008",
+    "b": 16,
+    "c": 3,
+    "v": 8,
+    "t": "Next was Uzziel son of Harhaiah, a goldsmith by trade, who also worked on the wall. Beyond him was Hananiah, a manufacturer of perfumes. They left out a section of Jerusalem as they built the Broad Wall.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "16003009",
+    "b": 16,
+    "c": 3,
+    "v": 9,
+    "t": "Rephaiah son of Hur, the leader of half the district of Jerusalem, was next to them on the wall.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "16003010",
+    "b": 16,
+    "c": 3,
+    "v": 10,
+    "t": "Next Jedaiah son of Harumaph repaired the wall across from his own house, and next to him was Hattush son of Hashabneiah.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "16003011",
+    "b": 16,
+    "c": 3,
+    "v": 11,
+    "t": "Then came Malkijah son of Harim and Hasshub son of Pahath-moab, who repaired another section of the wall and the Tower of the Ovens.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "16003012",
+    "b": 16,
+    "c": 3,
+    "v": 12,
+    "t": "Shallum son of Hallohesh and his daughters repaired the next section. He was the leader of the other half of the district of Jerusalem.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "16003013",
+    "b": 16,
+    "c": 3,
+    "v": 13,
+    "t": "The Valley Gate was repaired by the people from Zanoah, led by Hanun. They set up its doors and installed its bolts and bars. They also repaired the 1,500 feet of wall to the Dung Gate.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "16003014",
+    "b": 16,
+    "c": 3,
+    "v": 14,
+    "t": "The Dung Gate was repaired by Malkijah son of Recab, the leader of the Beth-hakkerem district. He rebuilt it, set up its doors, and installed its bolts and bars.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "16003015",
+    "b": 16,
+    "c": 3,
+    "v": 15,
+    "t": "The Fountain Gate was repaired by Shallum son of Col-hozeh, the leader of the Mizpah district. He rebuilt it, roofed it, set up its doors, and installed its bolts and bars. Then he repaired the wall of the pool of Siloam near the king’s garden, and he rebuilt the wall as far as the stairs that descend from the City of David.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "16003016",
+    "b": 16,
+    "c": 3,
+    "v": 16,
+    "t": "Next to him was Nehemiah son of Azbuk, the leader of half the district of Beth-zur. He rebuilt the wall from a place across from the tombs of David’s family as far as the water reservoir and the House of the Warriors.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "16003017",
+    "b": 16,
+    "c": 3,
+    "v": 17,
+    "t": "Next to him, repairs were made by a group of Levites working under the supervision of Rehum son of Bani. Then came Hashabiah, the leader of half the district of Keilah, who supervised the building of the wall on behalf of his own district.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "16003018",
+    "b": 16,
+    "c": 3,
+    "v": 18,
+    "t": "Next down the line were his countrymen led by Binnui son of Henadad, the leader of the other half of the district of Keilah.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "16003019",
+    "b": 16,
+    "c": 3,
+    "v": 19,
+    "t": "Next to them, Ezer son of Jeshua, the leader of Mizpah, repaired another section of wall across from the ascent to the armory near the angle in the wall.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "16003020",
+    "b": 16,
+    "c": 3,
+    "v": 20,
+    "t": "Next to him was Baruch son of Zabbai, who zealously repaired an additional section from the angle to the door of the house of Eliashib the high priest.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "16003021",
+    "b": 16,
+    "c": 3,
+    "v": 21,
+    "t": "Meremoth son of Uriah and grandson of Hakkoz rebuilt another section of the wall extending from the door of Eliashib’s house to the end of the house.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "16003022",
+    "b": 16,
+    "c": 3,
+    "v": 22,
+    "t": "The next repairs were made by the priests from the surrounding region.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "16003023",
+    "b": 16,
+    "c": 3,
+    "v": 23,
+    "t": "After them, Benjamin and Hasshub repaired the section across from their house, and Azariah son of Maaseiah and grandson of Ananiah repaired the section across from his house.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "16003024",
+    "b": 16,
+    "c": 3,
+    "v": 24,
+    "t": "Next was Binnui son of Henadad, who rebuilt another section of the wall from Azariah’s house to the angle and the corner.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "16003025",
+    "b": 16,
+    "c": 3,
+    "v": 25,
+    "t": "Palal son of Uzai carried on the work from a point opposite the angle and the tower that projects up from the king’s upper house beside the court of the guard. Next to him were Pedaiah son of Parosh,",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "16003026",
+    "b": 16,
+    "c": 3,
+    "v": 26,
+    "t": "with the Temple servants living on the hill of Ophel, who repaired the wall as far as a point across from the Water Gate to the east and the projecting tower.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "16003027",
+    "b": 16,
+    "c": 3,
+    "v": 27,
+    "t": "Then came the people of Tekoa, who repaired another section across from the great projecting tower and over to the wall of Ophel.",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "16003028",
+    "b": 16,
+    "c": 3,
+    "v": 28,
+    "t": "Above the Horse Gate, the priests repaired the wall. Each one repaired the section immediately across from his own house.",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "16003029",
+    "b": 16,
+    "c": 3,
+    "v": 29,
+    "t": "Next Zadok son of Immer also rebuilt the wall across from his own house, and beyond him was Shemaiah son of Shecaniah, the gatekeeper of the East Gate.",
+    "h": "",
+    "o": 29,
+    "l": "29"
+  },
+  {
+    "id": "16003030",
+    "b": 16,
+    "c": 3,
+    "v": 30,
+    "t": "Next Hananiah son of Shelemiah and Hanun, the sixth son of Zalaph, repaired another section, while Meshullam son of Berekiah rebuilt the wall across from where he lived.",
+    "h": "",
+    "o": 30,
+    "l": "30"
+  },
+  {
+    "id": "16003031",
+    "b": 16,
+    "c": 3,
+    "v": 31,
+    "t": "Malkijah, one of the goldsmiths, repaired the wall as far as the housing for the Temple servants and merchants, across from the Inspection Gate. Then he continued as far as the upper room at the corner.",
+    "h": "",
+    "o": 31,
+    "l": "31"
+  },
+  {
+    "id": "16003032",
+    "b": 16,
+    "c": 3,
+    "v": 32,
+    "t": "The other goldsmiths and merchants repaired the wall from that corner to the Sheep Gate.",
+    "h": "",
+    "o": 32,
+    "l": "32"
+  },
+  {
+    "id": "16004001",
+    "b": 16,
+    "c": 4,
+    "v": 1,
+    "t": "Sanballat was very angry when he learned that we were rebuilding the wall. He flew into a rage and mocked the Jews,",
+    "h": "Enemies Oppose the Rebuilding",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "16004002",
+    "b": 16,
+    "c": 4,
+    "v": 2,
+    "t": "saying in front of his friends and the Samarian army officers, “What does this bunch of poor, feeble Jews think they’re doing? Do they think they can build the wall in a single day by just offering a few sacrifices? Do they actually think they can make something of stones from a rubbish heap—and charred ones at that?”",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "16004003",
+    "b": 16,
+    "c": 4,
+    "v": 3,
+    "t": "Tobiah the Ammonite, who was standing beside him, remarked, “That stone wall would collapse if even a fox walked along the top of it!”",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "16004004",
+    "b": 16,
+    "c": 4,
+    "v": 4,
+    "t": "Then I prayed, “Hear us, our God, for we are being mocked. May their scoffing fall back on their own heads, and may they themselves become captives in a foreign land!",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "16004005",
+    "b": 16,
+    "c": 4,
+    "v": 5,
+    "t": "Do not ignore their guilt. Do not blot out their sins, for they have provoked you to anger here in front of the builders.”",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "16004006",
+    "b": 16,
+    "c": 4,
+    "v": 6,
+    "t": "At last the wall was completed to half its height around the entire city, for the people had worked with enthusiasm.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "16004007",
+    "b": 16,
+    "c": 4,
+    "v": 7,
+    "t": "But when Sanballat and Tobiah and the Arabs, Ammonites, and Ashdodites heard that the work was going ahead and that the gaps in the wall of Jerusalem were being repaired, they were furious.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "16004008",
+    "b": 16,
+    "c": 4,
+    "v": 8,
+    "t": "They all made plans to come and fight against Jerusalem and throw us into confusion.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "16004009",
+    "b": 16,
+    "c": 4,
+    "v": 9,
+    "t": "But we prayed to our God and guarded the city day and night to protect ourselves.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "16004010",
+    "b": 16,
+    "c": 4,
+    "v": 10,
+    "t": "Then the people of Judah began to complain, “The workers are getting tired, and there is so much rubble to be moved. We will never be able to build the wall by ourselves.”",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "16004011",
+    "b": 16,
+    "c": 4,
+    "v": 11,
+    "t": "Meanwhile, our enemies were saying, “Before they know what’s happening, we will swoop down on them and kill them and end their work.”",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "16004012",
+    "b": 16,
+    "c": 4,
+    "v": 12,
+    "t": "The Jews who lived near the enemy came and told us again and again, “They will come from all directions and attack us!”",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "16004013",
+    "b": 16,
+    "c": 4,
+    "v": 13,
+    "t": "So I placed armed guards behind the lowest parts of the wall in the exposed areas. I stationed the people to stand guard by families, armed with swords, spears, and bows.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "16004014",
+    "b": 16,
+    "c": 4,
+    "v": 14,
+    "t": "Then as I looked over the situation, I called together the nobles and the rest of the people and said to them, “Don’t be afraid of the enemy! Remember the Lord, who is great and glorious, and fight for your brothers, your sons, your daughters, your wives, and your homes!”",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "16004015",
+    "b": 16,
+    "c": 4,
+    "v": 15,
+    "t": "When our enemies heard that we knew of their plans and that God had frustrated them, we all returned to our work on the wall.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "16004016",
+    "b": 16,
+    "c": 4,
+    "v": 16,
+    "t": "But from then on, only half my men worked while the other half stood guard with spears, shields, bows, and coats of mail. The leaders stationed themselves behind the people of Judah",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "16004017",
+    "b": 16,
+    "c": 4,
+    "v": 17,
+    "t": "who were building the wall. The laborers carried on their work with one hand supporting their load and one hand holding a weapon.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "16004018",
+    "b": 16,
+    "c": 4,
+    "v": 18,
+    "t": "All the builders had a sword belted to their side. The trumpeter stayed with me to sound the alarm.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "16004019",
+    "b": 16,
+    "c": 4,
+    "v": 19,
+    "t": "Then I explained to the nobles and officials and all the people, “The work is very spread out, and we are widely separated from each other along the wall.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "16004020",
+    "b": 16,
+    "c": 4,
+    "v": 20,
+    "t": "When you hear the blast of the trumpet, rush to wherever it is sounding. Then our God will fight for us!”",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "16004021",
+    "b": 16,
+    "c": 4,
+    "v": 21,
+    "t": "We worked early and late, from sunrise to sunset. And half the men were always on guard.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "16004022",
+    "b": 16,
+    "c": 4,
+    "v": 22,
+    "t": "I also told everyone living outside the walls to stay in Jerusalem. That way they and their servants could help with guard duty at night and work during the day.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "16004023",
+    "b": 16,
+    "c": 4,
+    "v": 23,
+    "t": "During this time, none of us—not I, nor my relatives, nor my servants, nor the guards who were with me—ever took off our clothes. We carried our weapons with us at all times, even when we went for water.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "16005001",
+    "b": 16,
+    "c": 5,
+    "v": 1,
+    "t": "About this time some of the men and their wives raised a cry of protest against their fellow Jews.",
+    "h": "Nehemiah Defends the Oppressed",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "16005002",
+    "b": 16,
+    "c": 5,
+    "v": 2,
+    "t": "They were saying, “We have such large families. We need more food to survive.”",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "16005003",
+    "b": 16,
+    "c": 5,
+    "v": 3,
+    "t": "Others said, “We have mortgaged our fields, vineyards, and homes to get food during the famine.”",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "16005004",
+    "b": 16,
+    "c": 5,
+    "v": 4,
+    "t": "And others said, “We have had to borrow money on our fields and vineyards to pay our taxes.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "16005005",
+    "b": 16,
+    "c": 5,
+    "v": 5,
+    "t": "We belong to the same family as those who are wealthy, and our children are just like theirs. Yet we must sell our children into slavery just to get enough money to live. We have already sold some of our daughters, and we are helpless to do anything about it, for our fields and vineyards are already mortgaged to others.”",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "16005006",
+    "b": 16,
+    "c": 5,
+    "v": 6,
+    "t": "When I heard their complaints, I was very angry.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "16005007",
+    "b": 16,
+    "c": 5,
+    "v": 7,
+    "t": "After thinking it over, I spoke out against these nobles and officials. I told them, “You are hurting your own relatives by charging interest when they borrow money!” Then I called a public meeting to deal with the problem.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "16005008",
+    "b": 16,
+    "c": 5,
+    "v": 8,
+    "t": "At the meeting I said to them, “We are doing all we can to redeem our Jewish relatives who have had to sell themselves to pagan foreigners, but you are selling them back into slavery again. How often must we redeem them?” And they had nothing to say in their defense.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "16005009",
+    "b": 16,
+    "c": 5,
+    "v": 9,
+    "t": "Then I pressed further, “What you are doing is not right! Should you not walk in the fear of our God in order to avoid being mocked by enemy nations?",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "16005010",
+    "b": 16,
+    "c": 5,
+    "v": 10,
+    "t": "I myself, as well as my brothers and my workers, have been lending the people money and grain, but now let us stop this business of charging interest.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "16005011",
+    "b": 16,
+    "c": 5,
+    "v": 11,
+    "t": "You must restore their fields, vineyards, olive groves, and homes to them this very day. And repay the interest you charged when you lent them money, grain, new wine, and olive oil.”",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "16005012",
+    "b": 16,
+    "c": 5,
+    "v": 12,
+    "t": "They replied, “We will give back everything and demand nothing more from the people. We will do as you say.” Then I called the priests and made the nobles and officials swear to do what they had promised.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "16005013",
+    "b": 16,
+    "c": 5,
+    "v": 13,
+    "t": "I shook out the folds of my robe and said, “If you fail to keep your promise, may God shake you like this from your homes and from your property!” The whole assembly responded, “Amen,” and they praised the LORD. And the people did as they had promised.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "16005014",
+    "b": 16,
+    "c": 5,
+    "v": 14,
+    "t": "For the entire twelve years that I was governor of Judah—from the twentieth year to the thirty-second year of the reign of King Artaxerxes —neither I nor my officials drew on our official food allowance.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "16005015",
+    "b": 16,
+    "c": 5,
+    "v": 15,
+    "t": "The former governors, in contrast, had laid heavy burdens on the people, demanding a daily ration of food and wine, besides forty pieces of silver. Even their assistants took advantage of the people. But because I feared God, I did not act that way.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "16005016",
+    "b": 16,
+    "c": 5,
+    "v": 16,
+    "t": "I also devoted myself to working on the wall and refused to acquire any land. And I required all my servants to spend time working on the wall.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "16005017",
+    "b": 16,
+    "c": 5,
+    "v": 17,
+    "t": "I asked for nothing, even though I regularly fed 150 Jewish officials at my table, besides all the visitors from other lands!",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "16005018",
+    "b": 16,
+    "c": 5,
+    "v": 18,
+    "t": "The provisions I paid for each day included one ox, six choice sheep or goats, and a large number of poultry. And every ten days we needed a large supply of all kinds of wine. Yet I refused to claim the governor’s food allowance because the people already carried a heavy burden.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "16005019",
+    "b": 16,
+    "c": 5,
+    "v": 19,
+    "t": "Remember, O my God, all that I have done for these people, and bless me for it.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "16006001",
+    "b": 16,
+    "c": 6,
+    "v": 1,
+    "t": "Sanballat, Tobiah, Geshem the Arab, and the rest of our enemies found out that I had finished rebuilding the wall and that no gaps remained—though we had not yet set up the doors in the gates.",
+    "h": "Continued Opposition to Rebuilding",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "16006002",
+    "b": 16,
+    "c": 6,
+    "v": 2,
+    "t": "So Sanballat and Geshem sent a message asking me to meet them at one of the villages in the plain of Ono. But I realized they were plotting to harm me,",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "16006003",
+    "b": 16,
+    "c": 6,
+    "v": 3,
+    "t": "so I replied by sending this message to them: “I am engaged in a great work, so I can’t come. Why should I stop working to come and meet with you?”",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "16006004",
+    "b": 16,
+    "c": 6,
+    "v": 4,
+    "t": "Four times they sent the same message, and each time I gave the same reply.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "16006005",
+    "b": 16,
+    "c": 6,
+    "v": 5,
+    "t": "The fifth time, Sanballat’s servant came with an open letter in his hand,",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "16006006",
+    "b": 16,
+    "c": 6,
+    "v": 6,
+    "t": "and this is what it said: “There is a rumor among the surrounding nations, and Geshem tells me it is true, that you and the Jews are planning to rebel and that is why you are building the wall. According to his reports, you plan to be their king.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "16006007",
+    "b": 16,
+    "c": 6,
+    "v": 7,
+    "t": "He also reports that you have appointed prophets in Jerusalem to proclaim about you, ‘Look! There is a king in Judah!’ “You can be very sure that this report will get back to the king, so I suggest that you come and talk it over with me.”",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "16006008",
+    "b": 16,
+    "c": 6,
+    "v": 8,
+    "t": "I replied, “There is no truth in any part of your story. You are making up the whole thing.”",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "16006009",
+    "b": 16,
+    "c": 6,
+    "v": 9,
+    "t": "They were just trying to intimidate us, imagining that they could discourage us and stop the work. So I continued the work with even greater determination.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "16006010",
+    "b": 16,
+    "c": 6,
+    "v": 10,
+    "t": "Later I went to visit Shemaiah son of Delaiah and grandson of Mehetabel, who was confined to his home. He said, “Let us meet together inside the Temple of God and bolt the doors shut. Your enemies are coming to kill you tonight.”",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "16006011",
+    "b": 16,
+    "c": 6,
+    "v": 11,
+    "t": "But I replied, “Should someone in my position run from danger? Should someone in my position enter the Temple to save his life? No, I won’t do it!”",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "16006012",
+    "b": 16,
+    "c": 6,
+    "v": 12,
+    "t": "I realized that God had not spoken to him, but that he had uttered this prophecy against me because Tobiah and Sanballat had hired him.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "16006013",
+    "b": 16,
+    "c": 6,
+    "v": 13,
+    "t": "They were hoping to intimidate me and make me sin. Then they would be able to accuse and discredit me.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "16006014",
+    "b": 16,
+    "c": 6,
+    "v": 14,
+    "t": "Remember, O my God, all the evil things that Tobiah and Sanballat have done. And remember Noadiah the prophet and all the prophets like her who have tried to intimidate me.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "16006015",
+    "b": 16,
+    "c": 6,
+    "v": 15,
+    "t": "So on October 2 the wall was finished—just fifty-two days after we had begun.",
+    "h": "The Builders Complete the Wall",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "16006016",
+    "b": 16,
+    "c": 6,
+    "v": 16,
+    "t": "When our enemies and the surrounding nations heard about it, they were frightened and humiliated. They realized this work had been done with the help of our God.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "16006017",
+    "b": 16,
+    "c": 6,
+    "v": 17,
+    "t": "During those fifty-two days, many letters went back and forth between Tobiah and the nobles of Judah.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "16006018",
+    "b": 16,
+    "c": 6,
+    "v": 18,
+    "t": "For many in Judah had sworn allegiance to him because his father-in-law was Shecaniah son of Arah, and his son Jehohanan was married to the daughter of Meshullam son of Berekiah.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "16006019",
+    "b": 16,
+    "c": 6,
+    "v": 19,
+    "t": "They kept telling me about Tobiah’s good deeds, and then they told him everything I said. And Tobiah kept sending threatening letters to intimidate me.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "16007001",
+    "b": 16,
+    "c": 7,
+    "v": 1,
+    "t": "After the wall was finished and I had set up the doors in the gates, the gatekeepers, singers, and Levites were appointed.",
+    "h": "",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "16007002",
+    "b": 16,
+    "c": 7,
+    "v": 2,
+    "t": "I gave the responsibility of governing Jerusalem to my brother Hanani, along with Hananiah, the commander of the fortress, for he was a faithful man who feared God more than most.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "16007003",
+    "b": 16,
+    "c": 7,
+    "v": 3,
+    "t": "I said to them, “Do not leave the gates open during the hottest part of the day. And even while the gatekeepers are on duty, have them shut and bar the doors. Appoint the residents of Jerusalem to act as guards, everyone on a regular watch. Some will serve at sentry posts and some in front of their own homes.”",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "16007004",
+    "b": 16,
+    "c": 7,
+    "v": 4,
+    "t": "At that time the city was large and spacious, but the population was small, and none of the houses had been rebuilt.",
+    "h": "Nehemiah Registers the People",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "16007005",
+    "b": 16,
+    "c": 7,
+    "v": 5,
+    "t": "So my God gave me the idea to call together all the nobles and leaders of the city, along with the ordinary citizens, for registration. I had found the genealogical record of those who had first returned to Judah. This is what was written there:",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "16007006",
+    "b": 16,
+    "c": 7,
+    "v": 6,
+    "t": "Here is the list of the Jewish exiles of the provinces who returned from their captivity. King Nebuchadnezzar had deported them to Babylon, but now they returned to Jerusalem and the other towns in Judah where they originally lived.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "16007007",
+    "b": 16,
+    "c": 7,
+    "v": 7,
+    "t": "Their leaders were Zerubbabel, Jeshua, Nehemiah, Seraiah, Reelaiah, Nahamani, Mordecai, Bilshan, Mispar, Bigvai, Rehum, and Baanah. This is the number of the men of Israel who returned from exile:",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "16007008",
+    "b": 16,
+    "c": 7,
+    "v": 8,
+    "t": "The family of Parosh 2,172",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "16007009",
+    "b": 16,
+    "c": 7,
+    "v": 9,
+    "t": "The family of Shephatiah 372",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "16007010",
+    "b": 16,
+    "c": 7,
+    "v": 10,
+    "t": "The family of Arah 652",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "16007011",
+    "b": 16,
+    "c": 7,
+    "v": 11,
+    "t": "The family of Pahath-moab (descendants of Jeshua and Joab) 2,818",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "16007012",
+    "b": 16,
+    "c": 7,
+    "v": 12,
+    "t": "The family of Elam 1,254",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "16007013",
+    "b": 16,
+    "c": 7,
+    "v": 13,
+    "t": "The family of Zattu 845",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "16007014",
+    "b": 16,
+    "c": 7,
+    "v": 14,
+    "t": "The family of Zaccai 760",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "16007015",
+    "b": 16,
+    "c": 7,
+    "v": 15,
+    "t": "The family of Bani 648",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "16007016",
+    "b": 16,
+    "c": 7,
+    "v": 16,
+    "t": "The family of Bebai 628",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "16007017",
+    "b": 16,
+    "c": 7,
+    "v": 17,
+    "t": "The family of Azgad 2,322",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "16007018",
+    "b": 16,
+    "c": 7,
+    "v": 18,
+    "t": "The family of Adonikam 667",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "16007019",
+    "b": 16,
+    "c": 7,
+    "v": 19,
+    "t": "The family of Bigvai 2,067",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "16007020",
+    "b": 16,
+    "c": 7,
+    "v": 20,
+    "t": "The family of Adin 655",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "16007021",
+    "b": 16,
+    "c": 7,
+    "v": 21,
+    "t": "The family of Ater (descendants of Hezekiah) 98",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "16007022",
+    "b": 16,
+    "c": 7,
+    "v": 22,
+    "t": "The family of Hashum 328",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "16007023",
+    "b": 16,
+    "c": 7,
+    "v": 23,
+    "t": "The family of Bezai 324",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "16007024",
+    "b": 16,
+    "c": 7,
+    "v": 24,
+    "t": "The family of Jorah 112",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "16007025",
+    "b": 16,
+    "c": 7,
+    "v": 25,
+    "t": "The family of Gibbar 95",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "16007026",
+    "b": 16,
+    "c": 7,
+    "v": 26,
+    "t": "The people of Bethlehem and Netophah 188",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "16007027",
+    "b": 16,
+    "c": 7,
+    "v": 27,
+    "t": "The people of Anathoth 128",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "16007028",
+    "b": 16,
+    "c": 7,
+    "v": 28,
+    "t": "The people of Beth-azmaveth 42",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "16007029",
+    "b": 16,
+    "c": 7,
+    "v": 29,
+    "t": "The people of Kiriath-jearim, Kephirah, and Beeroth 743",
+    "h": "",
+    "o": 29,
+    "l": "29"
+  },
+  {
+    "id": "16007030",
+    "b": 16,
+    "c": 7,
+    "v": 30,
+    "t": "The people of Ramah and Geba 621",
+    "h": "",
+    "o": 30,
+    "l": "30"
+  },
+  {
+    "id": "16007031",
+    "b": 16,
+    "c": 7,
+    "v": 31,
+    "t": "The people of Micmash 122",
+    "h": "",
+    "o": 31,
+    "l": "31"
+  },
+  {
+    "id": "16007032",
+    "b": 16,
+    "c": 7,
+    "v": 32,
+    "t": "The people of Bethel and Ai 123",
+    "h": "",
+    "o": 32,
+    "l": "32"
+  },
+  {
+    "id": "16007033",
+    "b": 16,
+    "c": 7,
+    "v": 33,
+    "t": "The people of West Nebo 52",
+    "h": "",
+    "o": 33,
+    "l": "33"
+  },
+  {
+    "id": "16007034",
+    "b": 16,
+    "c": 7,
+    "v": 34,
+    "t": "The citizens of West Elam 1,254",
+    "h": "",
+    "o": 34,
+    "l": "34"
+  },
+  {
+    "id": "16007035",
+    "b": 16,
+    "c": 7,
+    "v": 35,
+    "t": "The citizens of Harim 320",
+    "h": "",
+    "o": 35,
+    "l": "35"
+  },
+  {
+    "id": "16007036",
+    "b": 16,
+    "c": 7,
+    "v": 36,
+    "t": "The citizens of Jericho 345",
+    "h": "",
+    "o": 36,
+    "l": "36"
+  },
+  {
+    "id": "16007037",
+    "b": 16,
+    "c": 7,
+    "v": 37,
+    "t": "The citizens of Lod, Hadid, and Ono 721",
+    "h": "",
+    "o": 37,
+    "l": "37"
+  },
+  {
+    "id": "16007038",
+    "b": 16,
+    "c": 7,
+    "v": 38,
+    "t": "The citizens of Senaah 3,930",
+    "h": "",
+    "o": 38,
+    "l": "38"
+  },
+  {
+    "id": "16007039",
+    "b": 16,
+    "c": 7,
+    "v": 39,
+    "t": "These are the priests who returned from exile: The family of Jedaiah (through the line of Jeshua) 973",
+    "h": "",
+    "o": 39,
+    "l": "39"
+  },
+  {
+    "id": "16007040",
+    "b": 16,
+    "c": 7,
+    "v": 40,
+    "t": "The family of Immer 1,052",
+    "h": "",
+    "o": 40,
+    "l": "40"
+  },
+  {
+    "id": "16007041",
+    "b": 16,
+    "c": 7,
+    "v": 41,
+    "t": "The family of Pashhur 1,247",
+    "h": "",
+    "o": 41,
+    "l": "41"
+  },
+  {
+    "id": "16007042",
+    "b": 16,
+    "c": 7,
+    "v": 42,
+    "t": "The family of Harim 1,017",
+    "h": "",
+    "o": 42,
+    "l": "42"
+  },
+  {
+    "id": "16007043",
+    "b": 16,
+    "c": 7,
+    "v": 43,
+    "t": "These are the Levites who returned from exile: The families of Jeshua and Kadmiel (descendants of Hodaviah ) 74",
+    "h": "",
+    "o": 43,
+    "l": "43"
+  },
+  {
+    "id": "16007044",
+    "b": 16,
+    "c": 7,
+    "v": 44,
+    "t": "The singers of the family of Asaph 148",
+    "h": "",
+    "o": 44,
+    "l": "44"
+  },
+  {
+    "id": "16007045",
+    "b": 16,
+    "c": 7,
+    "v": 45,
+    "t": "The gatekeepers of the families of Shallum, Ater, Talmon, Akkub, Hatita, and Shobai 138",
+    "h": "",
+    "o": 45,
+    "l": "45"
+  },
+  {
+    "id": "16007046",
+    "b": 16,
+    "c": 7,
+    "v": 46,
+    "t": "The descendants of the following Temple servants returned from exile: Ziha, Hasupha, Tabbaoth,",
+    "h": "",
+    "o": 46,
+    "l": "46"
+  },
+  {
+    "id": "16007047",
+    "b": 16,
+    "c": 7,
+    "v": 47,
+    "t": "Keros, Siaha, Padon,",
+    "h": "",
+    "o": 47,
+    "l": "47"
+  },
+  {
+    "id": "16007048",
+    "b": 16,
+    "c": 7,
+    "v": 48,
+    "t": "Lebanah, Hagabah, Shalmai,",
+    "h": "",
+    "o": 48,
+    "l": "48"
+  },
+  {
+    "id": "16007049",
+    "b": 16,
+    "c": 7,
+    "v": 49,
+    "t": "Hanan, Giddel, Gahar,",
+    "h": "",
+    "o": 49,
+    "l": "49"
+  },
+  {
+    "id": "16007050",
+    "b": 16,
+    "c": 7,
+    "v": 50,
+    "t": "Reaiah, Rezin, Nekoda,",
+    "h": "",
+    "o": 50,
+    "l": "50"
+  },
+  {
+    "id": "16007051",
+    "b": 16,
+    "c": 7,
+    "v": 51,
+    "t": "Gazzam, Uzza, Paseah,",
+    "h": "",
+    "o": 51,
+    "l": "51"
+  },
+  {
+    "id": "16007052",
+    "b": 16,
+    "c": 7,
+    "v": 52,
+    "t": "Besai, Meunim, Nephusim,",
+    "h": "",
+    "o": 52,
+    "l": "52"
+  },
+  {
+    "id": "16007053",
+    "b": 16,
+    "c": 7,
+    "v": 53,
+    "t": "Bakbuk, Hakupha, Harhur,",
+    "h": "",
+    "o": 53,
+    "l": "53"
+  },
+  {
+    "id": "16007054",
+    "b": 16,
+    "c": 7,
+    "v": 54,
+    "t": "Bazluth, Mehida, Harsha,",
+    "h": "",
+    "o": 54,
+    "l": "54"
+  },
+  {
+    "id": "16007055",
+    "b": 16,
+    "c": 7,
+    "v": 55,
+    "t": "Barkos, Sisera, Temah,",
+    "h": "",
+    "o": 55,
+    "l": "55"
+  },
+  {
+    "id": "16007056",
+    "b": 16,
+    "c": 7,
+    "v": 56,
+    "t": "Neziah, and Hatipha.",
+    "h": "",
+    "o": 56,
+    "l": "56"
+  },
+  {
+    "id": "16007057",
+    "b": 16,
+    "c": 7,
+    "v": 57,
+    "t": "The descendants of these servants of King Solomon returned from exile: Sotai, Hassophereth, Peruda,",
+    "h": "",
+    "o": 57,
+    "l": "57"
+  },
+  {
+    "id": "16007058",
+    "b": 16,
+    "c": 7,
+    "v": 58,
+    "t": "Jaalah, Darkon, Giddel,",
+    "h": "",
+    "o": 58,
+    "l": "58"
+  },
+  {
+    "id": "16007059",
+    "b": 16,
+    "c": 7,
+    "v": 59,
+    "t": "Shephatiah, Hattil, Pokereth-hazzebaim, and Ami.",
+    "h": "",
+    "o": 59,
+    "l": "59"
+  },
+  {
+    "id": "16007060",
+    "b": 16,
+    "c": 7,
+    "v": 60,
+    "t": "In all, the Temple servants and the descendants of Solomon’s servants numbered 392.",
+    "h": "",
+    "o": 60,
+    "l": "60"
+  },
+  {
+    "id": "16007061",
+    "b": 16,
+    "c": 7,
+    "v": 61,
+    "t": "Another group returned at this time from the towns of Tel-melah, Tel-harsha, Kerub, Addan, and Immer. However, they could not prove that they or their families were descendants of Israel.",
+    "h": "",
+    "o": 61,
+    "l": "61"
+  },
+  {
+    "id": "16007062",
+    "b": 16,
+    "c": 7,
+    "v": 62,
+    "t": "This group included the families of Delaiah, Tobiah, and Nekoda—a total of 642 people.",
+    "h": "",
+    "o": 62,
+    "l": "62"
+  },
+  {
+    "id": "16007063",
+    "b": 16,
+    "c": 7,
+    "v": 63,
+    "t": "Three families of priests—Hobaiah, Hakkoz, and Barzillai—also returned. (This Barzillai had married a woman who was a descendant of Barzillai of Gilead, and he had taken her family name.)",
+    "h": "",
+    "o": 63,
+    "l": "63"
+  },
+  {
+    "id": "16007064",
+    "b": 16,
+    "c": 7,
+    "v": 64,
+    "t": "They searched for their names in the genealogical records, but they were not found, so they were disqualified from serving as priests.",
+    "h": "",
+    "o": 64,
+    "l": "64"
+  },
+  {
+    "id": "16007065",
+    "b": 16,
+    "c": 7,
+    "v": 65,
+    "t": "The governor told them not to eat the priests’ share of food from the sacrifices until a priest could consult the LORD about the matter by using the Urim and Thummim—the sacred lots.",
+    "h": "",
+    "o": 65,
+    "l": "65"
+  },
+  {
+    "id": "16007066",
+    "b": 16,
+    "c": 7,
+    "v": 66,
+    "t": "So a total of 42,360 people returned to Judah,",
+    "h": "",
+    "o": 66,
+    "l": "66"
+  },
+  {
+    "id": "16007067",
+    "b": 16,
+    "c": 7,
+    "v": 67,
+    "t": "in addition to 7,337 servants and 245 singers, both men and women.",
+    "h": "",
+    "o": 67,
+    "l": "67"
+  },
+  {
+    "id": "16007068",
+    "b": 16,
+    "c": 7,
+    "v": 68,
+    "t": "They took with them 736 horses, 245 mules,",
+    "h": "",
+    "o": 68,
+    "l": "68"
+  },
+  {
+    "id": "16007069",
+    "b": 16,
+    "c": 7,
+    "v": 69,
+    "t": "435 camels, and 6,720 donkeys.",
+    "h": "",
+    "o": 69,
+    "l": "69"
+  },
+  {
+    "id": "16007070",
+    "b": 16,
+    "c": 7,
+    "v": 70,
+    "t": "Some of the family leaders gave gifts for the work. The governor gave to the treasury 1,000 gold coins, 50 gold basins, and 530 robes for the priests.",
+    "h": "",
+    "o": 70,
+    "l": "70"
+  },
+  {
+    "id": "16007071",
+    "b": 16,
+    "c": 7,
+    "v": 71,
+    "t": "The other leaders gave to the treasury a total of 20,000 gold coins and some 2,750 pounds of silver for the work.",
+    "h": "",
+    "o": 71,
+    "l": "71"
+  },
+  {
+    "id": "16007072",
+    "b": 16,
+    "c": 7,
+    "v": 72,
+    "t": "The rest of the people gave 20,000 gold coins, about 2,500 pounds of silver, and 67 robes for the priests.",
+    "h": "",
+    "o": 72,
+    "l": "72"
+  },
+  {
+    "id": "16007073",
+    "b": 16,
+    "c": 7,
+    "v": 73,
+    "t": "So the priests, the Levites, the gatekeepers, the singers, the Temple servants, and some of the common people settled near Jerusalem. The rest of the people returned to their own towns throughout Israel. In October when the Israelites had settled in their towns,",
+    "h": "Ezra Reads the Law",
+    "o": 73,
+    "l": "73"
+  },
+  {
+    "id": "16008001",
+    "b": 16,
+    "c": 8,
+    "v": 1,
+    "t": "all the people assembled with a unified purpose at the square just inside the Water Gate. They asked Ezra the scribe to bring out the Book of the Law of Moses, which the LORD had given for Israel to obey.",
+    "h": "",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "16008002",
+    "b": 16,
+    "c": 8,
+    "v": 2,
+    "t": "So on October 8 Ezra the priest brought the Book of the Law before the assembly, which included the men and women and all the children old enough to understand.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "16008003",
+    "b": 16,
+    "c": 8,
+    "v": 3,
+    "t": "He faced the square just inside the Water Gate from early morning until noon and read aloud to everyone who could understand. All the people listened closely to the Book of the Law.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "16008004",
+    "b": 16,
+    "c": 8,
+    "v": 4,
+    "t": "Ezra the scribe stood on a high wooden platform that had been made for the occasion. To his right stood Mattithiah, Shema, Anaiah, Uriah, Hilkiah, and Maaseiah. To his left stood Pedaiah, Mishael, Malkijah, Hashum, Hashbaddanah, Zechariah, and Meshullam.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "16008005",
+    "b": 16,
+    "c": 8,
+    "v": 5,
+    "t": "Ezra stood on the platform in full view of all the people. When they saw him open the book, they all rose to their feet.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "16008006",
+    "b": 16,
+    "c": 8,
+    "v": 6,
+    "t": "Then Ezra praised the LORD, the great God, and all the people chanted, “Amen! Amen!” as they lifted their hands. Then they bowed down and worshiped the LORD with their faces to the ground.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "16008007",
+    "b": 16,
+    "c": 8,
+    "v": 7,
+    "t": "The Levites—Jeshua, Bani, Sherebiah, Jamin, Akkub, Shabbethai, Hodiah, Maaseiah, Kelita, Azariah, Jozabad, Hanan, and Pelaiah—then instructed the people in the Law while everyone remained in their places.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "16008008",
+    "b": 16,
+    "c": 8,
+    "v": 8,
+    "t": "They read from the Book of the Law of God and clearly explained the meaning of what was being read, helping the people understand each passage.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "16008009",
+    "b": 16,
+    "c": 8,
+    "v": 9,
+    "t": "Then Nehemiah the governor, Ezra the priest and scribe, and the Levites who were interpreting for the people said to them, “Don’t mourn or weep on such a day as this! For today is a sacred day before the LORD your God.” For the people had all been weeping as they listened to the words of the Law.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "16008010",
+    "b": 16,
+    "c": 8,
+    "v": 10,
+    "t": "And Nehemiah continued, “Go and celebrate with a feast of rich foods and sweet drinks, and share gifts of food with people who have nothing prepared. This is a sacred day before our Lord. Don’t be dejected and sad, for the joy of the LORD is your strength!”",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "16008011",
+    "b": 16,
+    "c": 8,
+    "v": 11,
+    "t": "And the Levites, too, quieted the people, telling them, “Hush! Don’t weep! For this is a sacred day.”",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "16008012",
+    "b": 16,
+    "c": 8,
+    "v": 12,
+    "t": "So the people went away to eat and drink at a festive meal, to share gifts of food, and to celebrate with great joy because they had heard God’s words and understood them.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "16008013",
+    "b": 16,
+    "c": 8,
+    "v": 13,
+    "t": "On October 9 the family leaders of all the people, together with the priests and Levites, met with Ezra the scribe to go over the Law in greater detail.",
+    "h": "The Festival of Shelters",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "16008014",
+    "b": 16,
+    "c": 8,
+    "v": 14,
+    "t": "As they studied the Law, they discovered that the LORD had commanded through Moses that the Israelites should live in shelters during the festival to be held that month.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "16008015",
+    "b": 16,
+    "c": 8,
+    "v": 15,
+    "t": "He had said that a proclamation should be made throughout their towns and in Jerusalem, telling the people to go to the hills to get branches from olive, wild olive, myrtle, palm, and other leafy trees. They were to use these branches to make shelters in which they would live during the festival, as prescribed in the Law.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "16008016",
+    "b": 16,
+    "c": 8,
+    "v": 16,
+    "t": "So the people went out and cut branches and used them to build shelters on the roofs of their houses, in their courtyards, in the courtyards of God’s Temple, or in the squares just inside the Water Gate and the Ephraim Gate.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "16008017",
+    "b": 16,
+    "c": 8,
+    "v": 17,
+    "t": "So everyone who had returned from captivity lived in these shelters during the festival, and they were all filled with great joy! The Israelites had not celebrated like this since the days of Joshua son of Nun.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "16008018",
+    "b": 16,
+    "c": 8,
+    "v": 18,
+    "t": "Ezra read from the Book of the Law of God on each of the seven days of the festival. Then on the eighth day they held a solemn assembly, as was required by law.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "16009001",
+    "b": 16,
+    "c": 9,
+    "v": 1,
+    "t": "On October 31 the people assembled again, and this time they fasted and dressed in burlap and sprinkled dust on their heads.",
+    "h": "The People Confess Their Sins",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "16009002",
+    "b": 16,
+    "c": 9,
+    "v": 2,
+    "t": "Those of Israelite descent separated themselves from all foreigners as they confessed their own sins and the sins of their ancestors.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "16009003",
+    "b": 16,
+    "c": 9,
+    "v": 3,
+    "t": "They remained standing in place for three hours while the Book of the Law of the LORD their God was read aloud to them. Then for three more hours they confessed their sins and worshiped the LORD their God.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "16009004",
+    "b": 16,
+    "c": 9,
+    "v": 4,
+    "t": "The Levites—Jeshua, Bani, Kadmiel, Shebaniah, Bunni, Sherebiah, Bani, and Kenani—stood on the stairway of the Levites and cried out to the LORD their God with loud voices.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "16009005",
+    "b": 16,
+    "c": 9,
+    "v": 5,
+    "t": "Then the leaders of the Levites—Jeshua, Kadmiel, Bani, Hashabneiah, Sherebiah, Hodiah, Shebaniah, and Pethahiah—called out to the people: “Stand up and praise the LORD your God, for he lives from everlasting to everlasting!” Then they prayed: “May your glorious name be praised! May it be exalted above all blessing and praise!",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "16009006",
+    "b": 16,
+    "c": 9,
+    "v": 6,
+    "t": "“You alone are the LORD. You made the skies and the heavens and all the stars. You made the earth and the seas and everything in them. You preserve them all, and the angels of heaven worship you.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "16009007",
+    "b": 16,
+    "c": 9,
+    "v": 7,
+    "t": "“You are the LORD God, who chose Abram and brought him from Ur of the Chaldeans and renamed him Abraham.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "16009008",
+    "b": 16,
+    "c": 9,
+    "v": 8,
+    "t": "When he had proved himself faithful, you made a covenant with him to give him and his descendants the land of the Canaanites, Hittites, Amorites, Perizzites, Jebusites, and Girgashites. And you have done what you promised, for you are always true to your word.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "16009009",
+    "b": 16,
+    "c": 9,
+    "v": 9,
+    "t": "“You saw the misery of our ancestors in Egypt, and you heard their cries from beside the Red Sea.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "16009010",
+    "b": 16,
+    "c": 9,
+    "v": 10,
+    "t": "You displayed miraculous signs and wonders against Pharaoh, his officials, and all his people, for you knew how arrogantly they were treating our ancestors. You have a glorious reputation that has never been forgotten.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "16009011",
+    "b": 16,
+    "c": 9,
+    "v": 11,
+    "t": "You divided the sea for your people so they could walk through on dry land! And then you hurled their enemies into the depths of the sea. They sank like stones beneath the mighty waters.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "16009012",
+    "b": 16,
+    "c": 9,
+    "v": 12,
+    "t": "You led our ancestors by a pillar of cloud during the day and a pillar of fire at night so that they could find their way.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "16009013",
+    "b": 16,
+    "c": 9,
+    "v": 13,
+    "t": "“You came down at Mount Sinai and spoke to them from heaven. You gave them regulations and instructions that were just, and decrees and commands that were good.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "16009014",
+    "b": 16,
+    "c": 9,
+    "v": 14,
+    "t": "You instructed them concerning your holy Sabbath. And you commanded them, through Moses your servant, to obey all your commands, decrees, and instructions.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "16009015",
+    "b": 16,
+    "c": 9,
+    "v": 15,
+    "t": "“You gave them bread from heaven when they were hungry and water from the rock when they were thirsty. You commanded them to go and take possession of the land you had sworn to give them.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "16009016",
+    "b": 16,
+    "c": 9,
+    "v": 16,
+    "t": "“But our ancestors were proud and stubborn, and they paid no attention to your commands.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "16009017",
+    "b": 16,
+    "c": 9,
+    "v": 17,
+    "t": "They refused to obey and did not remember the miracles you had done for them. Instead, they became stubborn and appointed a leader to take them back to their slavery in Egypt. But you are a God of forgiveness, gracious and merciful, slow to become angry, and rich in unfailing love. You did not abandon them,",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "16009018",
+    "b": 16,
+    "c": 9,
+    "v": 18,
+    "t": "even when they made an idol shaped like a calf and said, ‘This is your god who brought you out of Egypt!’ They committed terrible blasphemies.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "16009019",
+    "b": 16,
+    "c": 9,
+    "v": 19,
+    "t": "“But in your great mercy you did not abandon them to die in the wilderness. The pillar of cloud still led them forward by day, and the pillar of fire showed them the way through the night.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "16009020",
+    "b": 16,
+    "c": 9,
+    "v": 20,
+    "t": "You sent your good Spirit to instruct them, and you did not stop giving them manna from heaven or water for their thirst.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "16009021",
+    "b": 16,
+    "c": 9,
+    "v": 21,
+    "t": "For forty years you sustained them in the wilderness, and they lacked nothing. Their clothes did not wear out, and their feet did not swell!",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "16009022",
+    "b": 16,
+    "c": 9,
+    "v": 22,
+    "t": "“Then you helped our ancestors conquer kingdoms and nations, and you placed your people in every corner of the land. They took over the land of King Sihon of Heshbon and the land of King Og of Bashan.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "16009023",
+    "b": 16,
+    "c": 9,
+    "v": 23,
+    "t": "You made their descendants as numerous as the stars in the sky and brought them into the land you had promised to their ancestors.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "16009024",
+    "b": 16,
+    "c": 9,
+    "v": 24,
+    "t": "“They went in and took possession of the land. You subdued whole nations before them. Even the Canaanites, who inhabited the land, were powerless! Your people could deal with these nations and their kings as they pleased.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "16009025",
+    "b": 16,
+    "c": 9,
+    "v": 25,
+    "t": "Our ancestors captured fortified cities and fertile land. They took over houses full of good things, with cisterns already dug and vineyards and olive groves and fruit trees in abundance. So they ate until they were full and grew fat and enjoyed themselves in all your blessings.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "16009026",
+    "b": 16,
+    "c": 9,
+    "v": 26,
+    "t": "“But despite all this, they were disobedient and rebelled against you. They turned their backs on your Law, they killed your prophets who warned them to return to you, and they committed terrible blasphemies.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "16009027",
+    "b": 16,
+    "c": 9,
+    "v": 27,
+    "t": "So you handed them over to their enemies, who made them suffer. But in their time of trouble they cried to you, and you heard them from heaven. In your great mercy, you sent them liberators who rescued them from their enemies.",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "16009028",
+    "b": 16,
+    "c": 9,
+    "v": 28,
+    "t": "“But as soon as they were at peace, your people again committed evil in your sight, and once more you let their enemies conquer them. Yet whenever your people turned and cried to you again for help, you listened once more from heaven. In your wonderful mercy, you rescued them many times!",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "16009029",
+    "b": 16,
+    "c": 9,
+    "v": 29,
+    "t": "“You warned them to return to your Law, but they became proud and obstinate and disobeyed your commands. They did not follow your regulations, by which people will find life if only they obey. They stubbornly turned their backs on you and refused to listen.",
+    "h": "",
+    "o": 29,
+    "l": "29"
+  },
+  {
+    "id": "16009030",
+    "b": 16,
+    "c": 9,
+    "v": 30,
+    "t": "In your love, you were patient with them for many years. You sent your Spirit, who warned them through the prophets. But still they wouldn’t listen! So once again you allowed the peoples of the land to conquer them.",
+    "h": "",
+    "o": 30,
+    "l": "30"
+  },
+  {
+    "id": "16009031",
+    "b": 16,
+    "c": 9,
+    "v": 31,
+    "t": "But in your great mercy, you did not destroy them completely or abandon them forever. What a gracious and merciful God you are!",
+    "h": "",
+    "o": 31,
+    "l": "31"
+  },
+  {
+    "id": "16009032",
+    "b": 16,
+    "c": 9,
+    "v": 32,
+    "t": "“And now, our God, the great and mighty and awesome God, who keeps his covenant of unfailing love, do not let all the hardships we have suffered seem insignificant to you. Great trouble has come upon us and upon our kings and leaders and priests and prophets and ancestors—all of your people—from the days when the kings of Assyria first triumphed over us until now.",
+    "h": "",
+    "o": 32,
+    "l": "32"
+  },
+  {
+    "id": "16009033",
+    "b": 16,
+    "c": 9,
+    "v": 33,
+    "t": "Every time you punished us you were being just. We have sinned greatly, and you gave us only what we deserved.",
+    "h": "",
+    "o": 33,
+    "l": "33"
+  },
+  {
+    "id": "16009034",
+    "b": 16,
+    "c": 9,
+    "v": 34,
+    "t": "Our kings, leaders, priests, and ancestors did not obey your Law or listen to the warnings in your commands and laws.",
+    "h": "",
+    "o": 34,
+    "l": "34"
+  },
+  {
+    "id": "16009035",
+    "b": 16,
+    "c": 9,
+    "v": 35,
+    "t": "Even while they had their own kingdom, they did not serve you, though you showered your goodness on them. You gave them a large, fertile land, but they refused to turn from their wickedness.",
+    "h": "",
+    "o": 35,
+    "l": "35"
+  },
+  {
+    "id": "16009036",
+    "b": 16,
+    "c": 9,
+    "v": 36,
+    "t": "“So now today we are slaves in the land of plenty that you gave our ancestors for their enjoyment! We are slaves here in this good land.",
+    "h": "",
+    "o": 36,
+    "l": "36"
+  },
+  {
+    "id": "16009037",
+    "b": 16,
+    "c": 9,
+    "v": 37,
+    "t": "The lush produce of this land piles up in the hands of the kings whom you have set over us because of our sins. They have power over us and our livestock. We serve them at their pleasure, and we are in great misery.”",
+    "h": "",
+    "o": 37,
+    "l": "37"
+  },
+  {
+    "id": "16009038",
+    "b": 16,
+    "c": 9,
+    "v": 38,
+    "t": "The people responded, “In view of all this, we are making a solemn promise and putting it in writing. On this sealed document are the names of our leaders and Levites and priests.”",
+    "h": "The People Agree to Obey",
+    "o": 38,
+    "l": "38"
+  },
+  {
+    "id": "16010001",
+    "b": 16,
+    "c": 10,
+    "v": 1,
+    "t": "The document was ratified and sealed with the following names: The governor: Nehemiah son of Hacaliah, and also Zedekiah.",
+    "h": "",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "16010002",
+    "b": 16,
+    "c": 10,
+    "v": 2,
+    "t": "The following priests: Seraiah, Azariah, Jeremiah,",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "16010003",
+    "b": 16,
+    "c": 10,
+    "v": 3,
+    "t": "Pashhur, Amariah, Malkijah,",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "16010004",
+    "b": 16,
+    "c": 10,
+    "v": 4,
+    "t": "Hattush, Shebaniah, Malluch,",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "16010005",
+    "b": 16,
+    "c": 10,
+    "v": 5,
+    "t": "Harim, Meremoth, Obadiah,",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "16010006",
+    "b": 16,
+    "c": 10,
+    "v": 6,
+    "t": "Daniel, Ginnethon, Baruch,",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "16010007",
+    "b": 16,
+    "c": 10,
+    "v": 7,
+    "t": "Meshullam, Abijah, Mijamin,",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "16010008",
+    "b": 16,
+    "c": 10,
+    "v": 8,
+    "t": "Maaziah, Bilgai, and Shemaiah. These were the priests.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "16010009",
+    "b": 16,
+    "c": 10,
+    "v": 9,
+    "t": "The following Levites: Jeshua son of Azaniah, Binnui from the family of Henadad, Kadmiel,",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "16010010",
+    "b": 16,
+    "c": 10,
+    "v": 10,
+    "t": "and their fellow Levites: Shebaniah, Hodiah, Kelita, Pelaiah, Hanan,",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "16010011",
+    "b": 16,
+    "c": 10,
+    "v": 11,
+    "t": "Mica, Rehob, Hashabiah,",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "16010012",
+    "b": 16,
+    "c": 10,
+    "v": 12,
+    "t": "Zaccur, Sherebiah, Shebaniah,",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "16010013",
+    "b": 16,
+    "c": 10,
+    "v": 13,
+    "t": "Hodiah, Bani, and Beninu.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "16010014",
+    "b": 16,
+    "c": 10,
+    "v": 14,
+    "t": "The following leaders: Parosh, Pahath-moab, Elam, Zattu, Bani,",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "16010015",
+    "b": 16,
+    "c": 10,
+    "v": 15,
+    "t": "Bunni, Azgad, Bebai,",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "16010016",
+    "b": 16,
+    "c": 10,
+    "v": 16,
+    "t": "Adonijah, Bigvai, Adin,",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "16010017",
+    "b": 16,
+    "c": 10,
+    "v": 17,
+    "t": "Ater, Hezekiah, Azzur,",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "16010018",
+    "b": 16,
+    "c": 10,
+    "v": 18,
+    "t": "Hodiah, Hashum, Bezai,",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "16010019",
+    "b": 16,
+    "c": 10,
+    "v": 19,
+    "t": "Hariph, Anathoth, Nebai,",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "16010020",
+    "b": 16,
+    "c": 10,
+    "v": 20,
+    "t": "Magpiash, Meshullam, Hezir,",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "16010021",
+    "b": 16,
+    "c": 10,
+    "v": 21,
+    "t": "Meshezabel, Zadok, Jaddua,",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "16010022",
+    "b": 16,
+    "c": 10,
+    "v": 22,
+    "t": "Pelatiah, Hanan, Anaiah,",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "16010023",
+    "b": 16,
+    "c": 10,
+    "v": 23,
+    "t": "Hoshea, Hananiah, Hasshub,",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "16010024",
+    "b": 16,
+    "c": 10,
+    "v": 24,
+    "t": "Hallohesh, Pilha, Shobek,",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "16010025",
+    "b": 16,
+    "c": 10,
+    "v": 25,
+    "t": "Rehum, Hashabnah, Maaseiah,",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "16010026",
+    "b": 16,
+    "c": 10,
+    "v": 26,
+    "t": "Ahiah, Hanan, Anan,",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "16010027",
+    "b": 16,
+    "c": 10,
+    "v": 27,
+    "t": "Malluch, Harim, and Baanah.",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "16010028",
+    "b": 16,
+    "c": 10,
+    "v": 28,
+    "t": "Then the rest of the people—the priests, Levites, gatekeepers, singers, Temple servants, and all who had separated themselves from the pagan people of the land in order to obey the Law of God, together with their wives, sons, daughters, and all who were old enough to understand—",
+    "h": "The Vow of the People",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "16010029",
+    "b": 16,
+    "c": 10,
+    "v": 29,
+    "t": "joined their leaders and bound themselves with an oath. They swore a curse on themselves if they failed to obey the Law of God as issued by his servant Moses. They solemnly promised to carefully follow all the commands, regulations, and decrees of the LORD our Lord:",
+    "h": "",
+    "o": 29,
+    "l": "29"
+  },
+  {
+    "id": "16010030",
+    "b": 16,
+    "c": 10,
+    "v": 30,
+    "t": "“We promise not to let our daughters marry the pagan people of the land, and not to let our sons marry their daughters.",
+    "h": "",
+    "o": 30,
+    "l": "30"
+  },
+  {
+    "id": "16010031",
+    "b": 16,
+    "c": 10,
+    "v": 31,
+    "t": "“We also promise that if the people of the land should bring any merchandise or grain to be sold on the Sabbath or on any other holy day, we will refuse to buy it. Every seventh year we will let our land rest, and we will cancel all debts owed to us.",
+    "h": "",
+    "o": 31,
+    "l": "31"
+  },
+  {
+    "id": "16010032",
+    "b": 16,
+    "c": 10,
+    "v": 32,
+    "t": "“In addition, we promise to obey the command to pay the annual Temple tax of one-eighth of an ounce of silver for the care of the Temple of our God.",
+    "h": "",
+    "o": 32,
+    "l": "32"
+  },
+  {
+    "id": "16010033",
+    "b": 16,
+    "c": 10,
+    "v": 33,
+    "t": "This will provide for the Bread of the Presence; for the regular grain offerings and burnt offerings; for the offerings on the Sabbaths, the new moon celebrations, and the annual festivals; for the holy offerings; and for the sin offerings to make atonement for Israel. It will provide for everything necessary for the work of the Temple of our God.",
+    "h": "",
+    "o": 33,
+    "l": "33"
+  },
+  {
+    "id": "16010034",
+    "b": 16,
+    "c": 10,
+    "v": 34,
+    "t": "“We have cast sacred lots to determine when—at regular times each year—the families of the priests, Levites, and the common people should bring wood to God’s Temple to be burned on the altar of the LORD our God, as is written in the Law.",
+    "h": "",
+    "o": 34,
+    "l": "34"
+  },
+  {
+    "id": "16010035",
+    "b": 16,
+    "c": 10,
+    "v": 35,
+    "t": "“We promise to bring the first part of every harvest to the LORD ’s Temple year after year—whether it be a crop from the soil or from our fruit trees.",
+    "h": "",
+    "o": 35,
+    "l": "35"
+  },
+  {
+    "id": "16010036",
+    "b": 16,
+    "c": 10,
+    "v": 36,
+    "t": "We agree to give God our oldest sons and the firstborn of all our herds and flocks, as prescribed in the Law. We will present them to the priests who minister in the Temple of our God.",
+    "h": "",
+    "o": 36,
+    "l": "36"
+  },
+  {
+    "id": "16010037",
+    "b": 16,
+    "c": 10,
+    "v": 37,
+    "t": "We will store the produce in the storerooms of the Temple of our God. We will bring the best of our flour and other grain offerings, the best of our fruit, and the best of our new wine and olive oil. And we promise to bring to the Levites a tenth of everything our land produces, for it is the Levites who collect the tithes in all our rural towns.",
+    "h": "",
+    "o": 37,
+    "l": "37"
+  },
+  {
+    "id": "16010038",
+    "b": 16,
+    "c": 10,
+    "v": 38,
+    "t": "“A priest—a descendant of Aaron—will be with the Levites as they receive these tithes. And a tenth of all that is collected as tithes will be delivered by the Levites to the Temple of our God and placed in the storerooms.",
+    "h": "",
+    "o": 38,
+    "l": "38"
+  },
+  {
+    "id": "16010039",
+    "b": 16,
+    "c": 10,
+    "v": 39,
+    "t": "The people and the Levites must bring these offerings of grain, new wine, and olive oil to the storerooms and place them in the sacred containers near the ministering priests, the gatekeepers, and the singers. “We promise together not to neglect the Temple of our God.”",
+    "h": "",
+    "o": 39,
+    "l": "39"
+  },
+  {
+    "id": "16011001",
+    "b": 16,
+    "c": 11,
+    "v": 1,
+    "t": "The leaders of the people were living in Jerusalem, the holy city. A tenth of the people from the other towns of Judah and Benjamin were chosen by sacred lots to live there, too, while the rest stayed where they were.",
+    "h": "The People Occupy Jerusalem",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "16011002",
+    "b": 16,
+    "c": 11,
+    "v": 2,
+    "t": "And the people commended everyone who volunteered to resettle in Jerusalem.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "16011003",
+    "b": 16,
+    "c": 11,
+    "v": 3,
+    "t": "Here is a list of the names of the provincial officials who came to live in Jerusalem. (Most of the people, priests, Levites, Temple servants, and descendants of Solomon’s servants continued to live in their own homes in the various towns of Judah,",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "16011004",
+    "b": 16,
+    "c": 11,
+    "v": 4,
+    "t": "but some of the people from Judah and Benjamin resettled in Jerusalem.) From the tribe of Judah: Athaiah son of Uzziah, son of Zechariah, son of Amariah, son of Shephatiah, son of Mahalalel, of the family of Perez.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "16011005",
+    "b": 16,
+    "c": 11,
+    "v": 5,
+    "t": "Also Maaseiah son of Baruch, son of Col-hozeh, son of Hazaiah, son of Adaiah, son of Joiarib, son of Zechariah, of the family of Shelah.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "16011006",
+    "b": 16,
+    "c": 11,
+    "v": 6,
+    "t": "There were 468 descendants of Perez who lived in Jerusalem—all outstanding men.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "16011007",
+    "b": 16,
+    "c": 11,
+    "v": 7,
+    "t": "From the tribe of Benjamin: Sallu son of Meshullam, son of Joed, son of Pedaiah, son of Kolaiah, son of Maaseiah, son of Ithiel, son of Jeshaiah.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "16011008",
+    "b": 16,
+    "c": 11,
+    "v": 8,
+    "t": "After him were Gabbai and Sallai and a total of 928 relatives.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "16011009",
+    "b": 16,
+    "c": 11,
+    "v": 9,
+    "t": "Their chief officer was Joel son of Zicri, who was assisted by Judah son of Hassenuah, second-in-command over the city.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "16011010",
+    "b": 16,
+    "c": 11,
+    "v": 10,
+    "t": "From the priests: Jedaiah son of Joiarib; Jakin;",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "16011011",
+    "b": 16,
+    "c": 11,
+    "v": 11,
+    "t": "and Seraiah son of Hilkiah, son of Meshullam, son of Zadok, son of Meraioth, son of Ahitub, the supervisor of the Temple of God.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "16011012",
+    "b": 16,
+    "c": 11,
+    "v": 12,
+    "t": "Also 822 of their associates, who worked at the Temple. Also Adaiah son of Jeroham, son of Pelaliah, son of Amzi, son of Zechariah, son of Pashhur, son of Malkijah,",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "16011013",
+    "b": 16,
+    "c": 11,
+    "v": 13,
+    "t": "along with 242 of his associates, who were heads of their families. Also Amashsai son of Azarel, son of Ahzai, son of Meshillemoth, son of Immer,",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "16011014",
+    "b": 16,
+    "c": 11,
+    "v": 14,
+    "t": "and 128 of his outstanding associates. Their chief officer was Zabdiel son of Haggedolim.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "16011015",
+    "b": 16,
+    "c": 11,
+    "v": 15,
+    "t": "From the Levites: Shemaiah son of Hasshub, son of Azrikam, son of Hashabiah, son of Bunni.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "16011016",
+    "b": 16,
+    "c": 11,
+    "v": 16,
+    "t": "Also Shabbethai and Jozabad, who were in charge of the work outside the Temple of God.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "16011017",
+    "b": 16,
+    "c": 11,
+    "v": 17,
+    "t": "Also Mattaniah son of Mica, son of Zabdi, a descendant of Asaph, who led in thanksgiving and prayer. Also Bakbukiah, who was Mattaniah’s assistant, and Abda son of Shammua, son of Galal, son of Jeduthun.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "16011018",
+    "b": 16,
+    "c": 11,
+    "v": 18,
+    "t": "In all, there were 284 Levites in the holy city.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "16011019",
+    "b": 16,
+    "c": 11,
+    "v": 19,
+    "t": "From the gatekeepers: Akkub, Talmon, and 172 of their associates, who guarded the gates.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "16011020",
+    "b": 16,
+    "c": 11,
+    "v": 20,
+    "t": "The other priests, Levites, and the rest of the Israelites lived wherever their family inheritance was located in any of the towns of Judah.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "16011021",
+    "b": 16,
+    "c": 11,
+    "v": 21,
+    "t": "The Temple servants, however, whose leaders were Ziha and Gishpa, all lived on the hill of Ophel.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "16011022",
+    "b": 16,
+    "c": 11,
+    "v": 22,
+    "t": "The chief officer of the Levites in Jerusalem was Uzzi son of Bani, son of Hashabiah, son of Mattaniah, son of Mica, a descendant of Asaph, whose family served as singers at God’s Temple.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "16011023",
+    "b": 16,
+    "c": 11,
+    "v": 23,
+    "t": "Their daily responsibilities were carried out according to the terms of a royal command.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "16011024",
+    "b": 16,
+    "c": 11,
+    "v": 24,
+    "t": "Pethahiah son of Meshezabel, a descendant of Zerah son of Judah, was the royal adviser in all matters of public administration.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "16011025",
+    "b": 16,
+    "c": 11,
+    "v": 25,
+    "t": "As for the surrounding villages with their open fields, some of the people of Judah lived in Kiriath-arba with its settlements, Dibon with its settlements, and Jekabzeel with its villages.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "16011026",
+    "b": 16,
+    "c": 11,
+    "v": 26,
+    "t": "They also lived in Jeshua, Moladah, Beth-pelet,",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "16011027",
+    "b": 16,
+    "c": 11,
+    "v": 27,
+    "t": "Hazar-shual, Beersheba with its settlements,",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "16011028",
+    "b": 16,
+    "c": 11,
+    "v": 28,
+    "t": "Ziklag, and Meconah with its settlements.",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "16011029",
+    "b": 16,
+    "c": 11,
+    "v": 29,
+    "t": "They also lived in En-rimmon, Zorah, Jarmuth,",
+    "h": "",
+    "o": 29,
+    "l": "29"
+  },
+  {
+    "id": "16011030",
+    "b": 16,
+    "c": 11,
+    "v": 30,
+    "t": "Zanoah, and Adullam with their surrounding villages. They also lived in Lachish with its nearby fields and Azekah with its surrounding villages. So the people of Judah were living all the way from Beersheba in the south to the valley of Hinnom.",
+    "h": "",
+    "o": 30,
+    "l": "30"
+  },
+  {
+    "id": "16011031",
+    "b": 16,
+    "c": 11,
+    "v": 31,
+    "t": "Some of the people of Benjamin lived at Geba, Micmash, Aija, and Bethel with its settlements.",
+    "h": "",
+    "o": 31,
+    "l": "31"
+  },
+  {
+    "id": "16011032",
+    "b": 16,
+    "c": 11,
+    "v": 32,
+    "t": "They also lived in Anathoth, Nob, Ananiah,",
+    "h": "",
+    "o": 32,
+    "l": "32"
+  },
+  {
+    "id": "16011033",
+    "b": 16,
+    "c": 11,
+    "v": 33,
+    "t": "Hazor, Ramah, Gittaim,",
+    "h": "",
+    "o": 33,
+    "l": "33"
+  },
+  {
+    "id": "16011034",
+    "b": 16,
+    "c": 11,
+    "v": 34,
+    "t": "Hadid, Zeboim, Neballat,",
+    "h": "",
+    "o": 34,
+    "l": "34"
+  },
+  {
+    "id": "16011035",
+    "b": 16,
+    "c": 11,
+    "v": 35,
+    "t": "Lod, Ono, and the Valley of Craftsmen.",
+    "h": "",
+    "o": 35,
+    "l": "35"
+  },
+  {
+    "id": "16011036",
+    "b": 16,
+    "c": 11,
+    "v": 36,
+    "t": "Some of the Levites who lived in Judah were sent to live with the tribe of Benjamin.",
+    "h": "",
+    "o": 36,
+    "l": "36"
+  },
+  {
+    "id": "16012001",
+    "b": 16,
+    "c": 12,
+    "v": 1,
+    "t": "Here is the list of the priests and Levites who returned with Zerubbabel son of Shealtiel and Jeshua the high priest: Seraiah, Jeremiah, Ezra,",
+    "h": "A History of the Priests and Levites",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "16012002",
+    "b": 16,
+    "c": 12,
+    "v": 2,
+    "t": "Amariah, Malluch, Hattush,",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "16012003",
+    "b": 16,
+    "c": 12,
+    "v": 3,
+    "t": "Shecaniah, Harim, Meremoth,",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "16012004",
+    "b": 16,
+    "c": 12,
+    "v": 4,
+    "t": "Iddo, Ginnethon, Abijah,",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "16012005",
+    "b": 16,
+    "c": 12,
+    "v": 5,
+    "t": "Miniamin, Moadiah, Bilgah,",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "16012006",
+    "b": 16,
+    "c": 12,
+    "v": 6,
+    "t": "Shemaiah, Joiarib, Jedaiah,",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "16012007",
+    "b": 16,
+    "c": 12,
+    "v": 7,
+    "t": "Sallu, Amok, Hilkiah, and Jedaiah. These were the leaders of the priests and their associates in the days of Jeshua.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "16012008",
+    "b": 16,
+    "c": 12,
+    "v": 8,
+    "t": "The Levites who returned with them were Jeshua, Binnui, Kadmiel, Sherebiah, Judah, and Mattaniah, who with his associates was in charge of the songs of thanksgiving.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "16012009",
+    "b": 16,
+    "c": 12,
+    "v": 9,
+    "t": "Their associates, Bakbukiah and Unni, stood opposite them during the service.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "16012010",
+    "b": 16,
+    "c": 12,
+    "v": 10,
+    "t": "Jeshua the high priest was the father of Joiakim. Joiakim was the father of Eliashib. Eliashib was the father of Joiada.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "16012011",
+    "b": 16,
+    "c": 12,
+    "v": 11,
+    "t": "Joiada was the father of Johanan. Johanan was the father of Jaddua.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "16012012",
+    "b": 16,
+    "c": 12,
+    "v": 12,
+    "t": "Now when Joiakim was high priest, the family leaders of the priests were as follows: Meraiah was leader of the family of Seraiah. Hananiah was leader of the family of Jeremiah.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "16012013",
+    "b": 16,
+    "c": 12,
+    "v": 13,
+    "t": "Meshullam was leader of the family of Ezra. Jehohanan was leader of the family of Amariah.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "16012014",
+    "b": 16,
+    "c": 12,
+    "v": 14,
+    "t": "Jonathan was leader of the family of Malluch. Joseph was leader of the family of Shecaniah.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "16012015",
+    "b": 16,
+    "c": 12,
+    "v": 15,
+    "t": "Adna was leader of the family of Harim. Helkai was leader of the family of Meremoth.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "16012016",
+    "b": 16,
+    "c": 12,
+    "v": 16,
+    "t": "Zechariah was leader of the family of Iddo. Meshullam was leader of the family of Ginnethon.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "16012017",
+    "b": 16,
+    "c": 12,
+    "v": 17,
+    "t": "Zicri was leader of the family of Abijah. There was also a leader of the family of Miniamin. Piltai was leader of the family of Moadiah.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "16012018",
+    "b": 16,
+    "c": 12,
+    "v": 18,
+    "t": "Shammua was leader of the family of Bilgah. Jehonathan was leader of the family of Shemaiah.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "16012019",
+    "b": 16,
+    "c": 12,
+    "v": 19,
+    "t": "Mattenai was leader of the family of Joiarib. Uzzi was leader of the family of Jedaiah.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "16012020",
+    "b": 16,
+    "c": 12,
+    "v": 20,
+    "t": "Kallai was leader of the family of Sallu. Eber was leader of the family of Amok.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "16012021",
+    "b": 16,
+    "c": 12,
+    "v": 21,
+    "t": "Hashabiah was leader of the family of Hilkiah. Nethanel was leader of the family of Jedaiah.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "16012022",
+    "b": 16,
+    "c": 12,
+    "v": 22,
+    "t": "A record of the Levite families was kept during the years when Eliashib, Joiada, Johanan, and Jaddua served as high priest. Another record of the priests was kept during the reign of Darius the Persian.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "16012023",
+    "b": 16,
+    "c": 12,
+    "v": 23,
+    "t": "A record of the heads of the Levite families was kept in The Book of History down to the days of Johanan, the grandson of Eliashib.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "16012024",
+    "b": 16,
+    "c": 12,
+    "v": 24,
+    "t": "These were the family leaders of the Levites: Hashabiah, Sherebiah, Jeshua, Binnui, Kadmiel, and other associates, who stood opposite them during the ceremonies of praise and thanksgiving, one section responding to the other, as commanded by David, the man of God.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "16012025",
+    "b": 16,
+    "c": 12,
+    "v": 25,
+    "t": "This included Mattaniah, Bakbukiah, and Obadiah. Meshullam, Talmon, and Akkub were the gatekeepers in charge of the storerooms at the gates.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "16012026",
+    "b": 16,
+    "c": 12,
+    "v": 26,
+    "t": "These all served in the days of Joiakim son of Jeshua, son of Jehozadak, and in the days of Nehemiah the governor and of Ezra the priest and scribe.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "16012027",
+    "b": 16,
+    "c": 12,
+    "v": 27,
+    "t": "For the dedication of the new wall of Jerusalem, the Levites throughout the land were asked to come to Jerusalem to assist in the ceremonies. They were to take part in the joyous occasion with their songs of thanksgiving and with the music of cymbals, harps, and lyres.",
+    "h": "Dedication of Jerusalem’s Wall",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "16012028",
+    "b": 16,
+    "c": 12,
+    "v": 28,
+    "t": "The singers were brought together from the region around Jerusalem and from the villages of the Netophathites.",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "16012029",
+    "b": 16,
+    "c": 12,
+    "v": 29,
+    "t": "They also came from Beth-gilgal and the rural areas near Geba and Azmaveth, for the singers had built their own settlements around Jerusalem.",
+    "h": "",
+    "o": 29,
+    "l": "29"
+  },
+  {
+    "id": "16012030",
+    "b": 16,
+    "c": 12,
+    "v": 30,
+    "t": "The priests and Levites first purified themselves; then they purified the people, the gates, and the wall.",
+    "h": "",
+    "o": 30,
+    "l": "30"
+  },
+  {
+    "id": "16012031",
+    "b": 16,
+    "c": 12,
+    "v": 31,
+    "t": "I led the leaders of Judah to the top of the wall and organized two large choirs to give thanks. One of the choirs proceeded southward along the top of the wall to the Dung Gate.",
+    "h": "",
+    "o": 31,
+    "l": "31"
+  },
+  {
+    "id": "16012032",
+    "b": 16,
+    "c": 12,
+    "v": 32,
+    "t": "Hoshaiah and half the leaders of Judah followed them,",
+    "h": "",
+    "o": 32,
+    "l": "32"
+  },
+  {
+    "id": "16012033",
+    "b": 16,
+    "c": 12,
+    "v": 33,
+    "t": "along with Azariah, Ezra, Meshullam,",
+    "h": "",
+    "o": 33,
+    "l": "33"
+  },
+  {
+    "id": "16012034",
+    "b": 16,
+    "c": 12,
+    "v": 34,
+    "t": "Judah, Benjamin, Shemaiah, and Jeremiah.",
+    "h": "",
+    "o": 34,
+    "l": "34"
+  },
+  {
+    "id": "16012035",
+    "b": 16,
+    "c": 12,
+    "v": 35,
+    "t": "Then came some priests who played trumpets, including Zechariah son of Jonathan, son of Shemaiah, son of Mattaniah, son of Micaiah, son of Zaccur, a descendant of Asaph.",
+    "h": "",
+    "o": 35,
+    "l": "35"
+  },
+  {
+    "id": "16012036",
+    "b": 16,
+    "c": 12,
+    "v": 36,
+    "t": "And Zechariah’s colleagues were Shemaiah, Azarel, Milalai, Gilalai, Maai, Nethanel, Judah, and Hanani. They used the musical instruments prescribed by David, the man of God. Ezra the scribe led this procession.",
+    "h": "",
+    "o": 36,
+    "l": "36"
+  },
+  {
+    "id": "16012037",
+    "b": 16,
+    "c": 12,
+    "v": 37,
+    "t": "At the Fountain Gate they went straight up the steps on the ascent of the city wall toward the City of David. They passed the house of David and then proceeded to the Water Gate on the east.",
+    "h": "",
+    "o": 37,
+    "l": "37"
+  },
+  {
+    "id": "16012038",
+    "b": 16,
+    "c": 12,
+    "v": 38,
+    "t": "The second choir giving thanks went northward around the other way to meet them. I followed them, together with the other half of the people, along the top of the wall past the Tower of the Ovens to the Broad Wall,",
+    "h": "",
+    "o": 38,
+    "l": "38"
+  },
+  {
+    "id": "16012039",
+    "b": 16,
+    "c": 12,
+    "v": 39,
+    "t": "then past the Ephraim Gate to the Old City Gate, past the Fish Gate and the Tower of Hananel, and on to the Tower of the Hundred. Then we continued on to the Sheep Gate and stopped at the Guard Gate.",
+    "h": "",
+    "o": 39,
+    "l": "39"
+  },
+  {
+    "id": "16012040",
+    "b": 16,
+    "c": 12,
+    "v": 40,
+    "t": "The two choirs that were giving thanks then proceeded to the Temple of God, where they took their places. So did I, together with the group of leaders who were with me.",
+    "h": "",
+    "o": 40,
+    "l": "40"
+  },
+  {
+    "id": "16012041",
+    "b": 16,
+    "c": 12,
+    "v": 41,
+    "t": "We went together with the trumpet-playing priests—Eliakim, Maaseiah, Miniamin, Micaiah, Elioenai, Zechariah, and Hananiah—",
+    "h": "",
+    "o": 41,
+    "l": "41"
+  },
+  {
+    "id": "16012042",
+    "b": 16,
+    "c": 12,
+    "v": 42,
+    "t": "and the singers—Maaseiah, Shemaiah, Eleazar, Uzzi, Jehohanan, Malkijah, Elam, and Ezer. They played and sang loudly under the direction of Jezrahiah the choir director.",
+    "h": "",
+    "o": 42,
+    "l": "42"
+  },
+  {
+    "id": "16012043",
+    "b": 16,
+    "c": 12,
+    "v": 43,
+    "t": "Many sacrifices were offered on that joyous day, for God had given the people cause for great joy. The women and children also participated in the celebration, and the joy of the people of Jerusalem could be heard far away.",
+    "h": "",
+    "o": 43,
+    "l": "43"
+  },
+  {
+    "id": "16012044",
+    "b": 16,
+    "c": 12,
+    "v": 44,
+    "t": "On that day men were appointed to be in charge of the storerooms for the offerings, the first part of the harvest, and the tithes. They were responsible to collect from the fields outside the towns the portions required by the Law for the priests and Levites. For all the people of Judah took joy in the priests and Levites and their work.",
+    "h": "Provisions for Temple Worship",
+    "o": 44,
+    "l": "44"
+  },
+  {
+    "id": "16012045",
+    "b": 16,
+    "c": 12,
+    "v": 45,
+    "t": "They performed the service of their God and the service of purification, as commanded by David and his son Solomon, and so did the singers and the gatekeepers.",
+    "h": "",
+    "o": 45,
+    "l": "45"
+  },
+  {
+    "id": "16012046",
+    "b": 16,
+    "c": 12,
+    "v": 46,
+    "t": "The custom of having choir directors to lead the choirs in hymns of praise and thanksgiving to God began long ago in the days of David and Asaph.",
+    "h": "",
+    "o": 46,
+    "l": "46"
+  },
+  {
+    "id": "16012047",
+    "b": 16,
+    "c": 12,
+    "v": 47,
+    "t": "So now, in the days of Zerubbabel and of Nehemiah, all Israel brought a daily supply of food for the singers, the gatekeepers, and the Levites. The Levites, in turn, gave a portion of what they received to the priests, the descendants of Aaron.",
+    "h": "",
+    "o": 47,
+    "l": "47"
+  },
+  {
+    "id": "16013001",
+    "b": 16,
+    "c": 13,
+    "v": 1,
+    "t": "On that same day, as the Book of Moses was being read to the people, the passage was found that said no Ammonite or Moabite should ever be permitted to enter the assembly of God.",
+    "h": "Nehemiah’s Various Reforms",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "16013002",
+    "b": 16,
+    "c": 13,
+    "v": 2,
+    "t": "For they had not provided the Israelites with food and water in the wilderness. Instead, they hired Balaam to curse them, though our God turned the curse into a blessing.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "16013003",
+    "b": 16,
+    "c": 13,
+    "v": 3,
+    "t": "When this passage of the Law was read, all those of foreign descent were immediately excluded from the assembly.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "16013004",
+    "b": 16,
+    "c": 13,
+    "v": 4,
+    "t": "Before this had happened, Eliashib the priest, who had been appointed as supervisor of the storerooms of the Temple of our God and who was also a relative of Tobiah,",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "16013005",
+    "b": 16,
+    "c": 13,
+    "v": 5,
+    "t": "had converted a large storage room and placed it at Tobiah’s disposal. The room had previously been used for storing the grain offerings, the frankincense, various articles for the Temple, and the tithes of grain, new wine, and olive oil (which were prescribed for the Levites, the singers, and the gatekeepers), as well as the offerings for the priests.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "16013006",
+    "b": 16,
+    "c": 13,
+    "v": 6,
+    "t": "I was not in Jerusalem at that time, for I had returned to King Artaxerxes of Babylon in the thirty-second year of his reign, though I later asked his permission to return.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "16013007",
+    "b": 16,
+    "c": 13,
+    "v": 7,
+    "t": "When I arrived back in Jerusalem, I learned about Eliashib’s evil deed in providing Tobiah with a room in the courtyards of the Temple of God.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "16013008",
+    "b": 16,
+    "c": 13,
+    "v": 8,
+    "t": "I became very upset and threw all of Tobiah’s belongings out of the room.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "16013009",
+    "b": 16,
+    "c": 13,
+    "v": 9,
+    "t": "Then I demanded that the rooms be purified, and I brought back the articles for God’s Temple, the grain offerings, and the frankincense.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "16013010",
+    "b": 16,
+    "c": 13,
+    "v": 10,
+    "t": "I also discovered that the Levites had not been given their prescribed portions of food, so they and the singers who were to conduct the worship services had all returned to work their fields.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "16013011",
+    "b": 16,
+    "c": 13,
+    "v": 11,
+    "t": "I immediately confronted the leaders and demanded, “Why has the Temple of God been neglected?” Then I called all the Levites back again and restored them to their proper duties.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "16013012",
+    "b": 16,
+    "c": 13,
+    "v": 12,
+    "t": "And once more all the people of Judah began bringing their tithes of grain, new wine, and olive oil to the Temple storerooms.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "16013013",
+    "b": 16,
+    "c": 13,
+    "v": 13,
+    "t": "I assigned supervisors for the storerooms: Shelemiah the priest, Zadok the scribe, and Pedaiah, one of the Levites. And I appointed Hanan son of Zaccur and grandson of Mattaniah as their assistant. These men had an excellent reputation, and it was their job to make honest distributions to their fellow Levites.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "16013014",
+    "b": 16,
+    "c": 13,
+    "v": 14,
+    "t": "Remember this good deed, O my God, and do not forget all that I have faithfully done for the Temple of my God and its services.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "16013015",
+    "b": 16,
+    "c": 13,
+    "v": 15,
+    "t": "In those days I saw men of Judah treading out their winepresses on the Sabbath. They were also bringing in grain, loading it on donkeys, and bringing their wine, grapes, figs, and all sorts of produce to Jerusalem to sell on the Sabbath. So I rebuked them for selling their produce on that day.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "16013016",
+    "b": 16,
+    "c": 13,
+    "v": 16,
+    "t": "Some men from Tyre, who lived in Jerusalem, were bringing in fish and all kinds of merchandise. They were selling it on the Sabbath to the people of Judah—and in Jerusalem at that!",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "16013017",
+    "b": 16,
+    "c": 13,
+    "v": 17,
+    "t": "So I confronted the nobles of Judah. “Why are you profaning the Sabbath in this evil way?” I asked.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "16013018",
+    "b": 16,
+    "c": 13,
+    "v": 18,
+    "t": "“Wasn’t it just this sort of thing that your ancestors did that caused our God to bring all this trouble upon us and our city? Now you are bringing even more wrath upon Israel by permitting the Sabbath to be desecrated in this way!”",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "16013019",
+    "b": 16,
+    "c": 13,
+    "v": 19,
+    "t": "Then I commanded that the gates of Jerusalem should be shut as darkness fell every Friday evening, not to be opened until the Sabbath ended. I sent some of my own servants to guard the gates so that no merchandise could be brought in on the Sabbath day.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "16013020",
+    "b": 16,
+    "c": 13,
+    "v": 20,
+    "t": "The merchants and tradesmen with a variety of wares camped outside Jerusalem once or twice.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "16013021",
+    "b": 16,
+    "c": 13,
+    "v": 21,
+    "t": "But I spoke sharply to them and said, “What are you doing out here, camping around the wall? If you do this again, I will arrest you!” And that was the last time they came on the Sabbath.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "16013022",
+    "b": 16,
+    "c": 13,
+    "v": 22,
+    "t": "Then I commanded the Levites to purify themselves and to guard the gates in order to preserve the holiness of the Sabbath. Remember this good deed also, O my God! Have compassion on me according to your great and unfailing love.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "16013023",
+    "b": 16,
+    "c": 13,
+    "v": 23,
+    "t": "About the same time I realized that some of the men of Judah had married women from Ashdod, Ammon, and Moab.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "16013024",
+    "b": 16,
+    "c": 13,
+    "v": 24,
+    "t": "Furthermore, half their children spoke the language of Ashdod or of some other people and could not speak the language of Judah at all.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "16013025",
+    "b": 16,
+    "c": 13,
+    "v": 25,
+    "t": "So I confronted them and called down curses on them. I beat some of them and pulled out their hair. I made them swear in the name of God that they would not let their children intermarry with the pagan people of the land.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "16013026",
+    "b": 16,
+    "c": 13,
+    "v": 26,
+    "t": "“Wasn’t this exactly what led King Solomon of Israel into sin?” I demanded. “There was no king from any nation who could compare to him, and God loved him and made him king over all Israel. But even he was led into sin by his foreign wives.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "16013027",
+    "b": 16,
+    "c": 13,
+    "v": 27,
+    "t": "How could you even think of committing this sinful deed and acting unfaithfully toward God by marrying foreign women?”",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "16013028",
+    "b": 16,
+    "c": 13,
+    "v": 28,
+    "t": "One of the sons of Joiada son of Eliashib the high priest had married a daughter of Sanballat the Horonite, so I banished him from my presence.",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "16013029",
+    "b": 16,
+    "c": 13,
+    "v": 29,
+    "t": "Remember them, O my God, for they have defiled the priesthood and the solemn vows of the priests and Levites.",
+    "h": "",
+    "o": 29,
+    "l": "29"
+  },
+  {
+    "id": "16013030",
+    "b": 16,
+    "c": 13,
+    "v": 30,
+    "t": "So I purged out everything foreign and assigned tasks to the priests and Levites, making certain that each knew his work.",
+    "h": "",
+    "o": 30,
+    "l": "30"
+  },
+  {
+    "id": "16013031",
+    "b": 16,
+    "c": 13,
+    "v": 31,
+    "t": "I also made sure that the supply of wood for the altar and the first portions of the harvest were brought at the proper times. Remember this in my favor, O my God.",
+    "h": "",
+    "o": 31,
+    "l": "31"
+  }
+]

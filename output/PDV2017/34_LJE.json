@@ -1,0 +1,722 @@
+[
+  {
+    "id": "34001001",
+    "b": 34,
+    "c": 1,
+    "v": 1,
+    "t": "Vous avez commis des péchés contre Dieu. Alors Nabucodonosor, roi des Babyloniens, vous emmènera prisonniers à Babylone.",
+    "h": "Attention aux dieux des Babyloniens !",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "34001002",
+    "b": 34,
+    "c": 1,
+    "v": 2,
+    "t": "Vous resterez longtemps là-bas, pendant de nombreuses années, jusqu’à sept générations. Le Seigneur dit : « Ensuite, je vous ferai partir de là en paix. »",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "34001003",
+    "b": 34,
+    "c": 1,
+    "v": 3,
+    "t": "À Babylone, vous verrez des dieux en bois, en argent et en or. On les transporte sur les épaules, et les Babyloniens les respectent beaucoup.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "34001004",
+    "b": 34,
+    "c": 1,
+    "v": 4,
+    "t": "C’est pourquoi, faites attention ! Ne devenez pas comme ces étrangers. N’ayez pas peur de leurs dieux",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "34001005",
+    "b": 34,
+    "c": 1,
+    "v": 5,
+    "t": "quand vous verrez la foule à genoux, le front contre le sol, devant et derrière eux. Mais dites plutôt dans votre cœur : « Maître, c’est toi qu’il faut adorer. »",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "34001006",
+    "b": 34,
+    "c": 1,
+    "v": 6,
+    "t": "En effet, le Seigneur a dit : « Mon ange est avec vous, c’est lui qui prendra soin de vos vies. »",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "34001007",
+    "b": 34,
+    "c": 1,
+    "v": 7,
+    "t": "C’est un ouvrier qui a taillé la langue de ces dieux. L’or et l’argent recouvrent ces statues, mais ces dieux sont faux, et ils ne peuvent pas parler.",
+    "h": "Que sont ces dieux ?",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "34001008",
+    "b": 34,
+    "c": 1,
+    "v": 8,
+    "t": "Pour eux, les gens prennent de l’or comme pour une jeune fille coquette. Ils en font des couronnes qu’ils mettent sur la tête de leurs dieux.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "34001009",
+    "b": 34,
+    "c": 1,
+    "v": 9,
+    "t": "Il arrive même ceci : des prêtres volent cet or et cet argent pour leurs propres dépenses, ou ils en donnent aux prostituées sacrées.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "34001010",
+    "b": 34,
+    "c": 1,
+    "v": 10,
+    "t": "On couvre de vêtements ces dieux en bois, en argent et en or, comme s’ils étaient des hommes. Mais ils ne peuvent se défendre contre la rouille et les vers.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "34001011",
+    "b": 34,
+    "c": 1,
+    "v": 11,
+    "t": "Quand on leur a mis de beaux habits rouges, on doit enlever de leur visage l’épaisse poussière du temple qui les recouvre.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "34001012",
+    "b": 34,
+    "c": 1,
+    "v": 12,
+    "t": "L’un de ces dieux porte un bâton de commandement comme un gouverneur de province. Pourtant, il ne peut pas faire mourir celui qui l’a insulté.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "34001013",
+    "b": 34,
+    "c": 1,
+    "v": 13,
+    "t": "Un autre dieu tient un couteau dans la main droite et une hache. Pourtant, il ne peut pas se protéger des soldats ni des voleurs.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "34001014",
+    "b": 34,
+    "c": 1,
+    "v": 14,
+    "t": "On le voit : ce ne sont pas des dieux. N’ayez donc pas peur d’eux.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "34001015",
+    "b": 34,
+    "c": 1,
+    "v": 15,
+    "t": "Les dieux que les gens placent dans les temples sont aussi inutiles que des plats cassés.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "34001016",
+    "b": 34,
+    "c": 1,
+    "v": 16,
+    "t": "Leurs yeux sont couverts de la poussière soulevée par les pieds des visiteurs.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "34001017",
+    "b": 34,
+    "c": 1,
+    "v": 17,
+    "t": "Quand quelqu’un a insulté le roi, on l’enferme à clé comme un condamné à mort. De la même façon, les prêtres ferment les temples avec des portes très solides, des serrures et des verrous pour empêcher les bandits de voler les dieux.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "34001018",
+    "b": 34,
+    "c": 1,
+    "v": 18,
+    "t": "Ils allument aussi beaucoup de lampes, plus que pour eux-mêmes. Mais leurs dieux ne peuvent en voir aucune.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "34001019",
+    "b": 34,
+    "c": 1,
+    "v": 19,
+    "t": "Ces dieux sont comme une des poutres de leur temple. On dit qu’elle est pourrie à l’intérieur. Les vers qui sortent de terre les mangent, eux et leurs vêtements, mais ils ne s’en rendent pas compte.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "34001020",
+    "b": 34,
+    "c": 1,
+    "v": 20,
+    "t": "La fumée qui se répand dans le temple a noirci leur visage.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "34001021",
+    "b": 34,
+    "c": 1,
+    "v": 21,
+    "t": "Des chauves-souris, des hirondelles et d’autres oiseaux se posent sur leur corps et sur leur tête. Il y a même des chats.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "34001022",
+    "b": 34,
+    "c": 1,
+    "v": 22,
+    "t": "Vous le voyez bien : ce ne sont pas des dieux. N’ayez donc pas peur d’eux.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "34001023",
+    "b": 34,
+    "c": 1,
+    "v": 23,
+    "t": "Si on ne nettoie pas l’or qui les recouvre pour les rendre beaux, eux ne le feront pas briller. Quand on les fait fondre, ils ne le sentent même pas !",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "34001024",
+    "b": 34,
+    "c": 1,
+    "v": 24,
+    "t": "Les gens les ont achetés très cher. Pourtant il n’y a en eux aucun souffle de vie.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "34001025",
+    "b": 34,
+    "c": 1,
+    "v": 25,
+    "t": "Ils ne peuvent pas marcher, on doit les porter sur les épaules. Ils montrent ainsi à tout le monde qu’ils ne valent rien. Ils font même honte à ceux qui s’occupent d’eux.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "34001026",
+    "b": 34,
+    "c": 1,
+    "v": 26,
+    "t": "En effet, si l’un de ces dieux tombe à terre, il faut le relever. Et quand on l’a remis debout, il ne se déplacera pas tout seul. S’il penche, il ne peut pas se redresser. C’est comme si on présentait des offrandes à des morts.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "34001027",
+    "b": 34,
+    "c": 1,
+    "v": 27,
+    "t": "Les prêtres revendent pour eux-mêmes les animaux que les gens offrent en sacrifice aux dieux. Ou bien, leurs femmes en conservent une partie dans du sel, au lieu de les donner aux pauvres ou aux infirmes. Même les femmes qui sont impures, parce qu’elles ont leurs règles ou parce qu’elles viennent d’accoucher, touchent les animaux offerts en sacrifice.",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "34001028",
+    "b": 34,
+    "c": 1,
+    "v": 28,
+    "t": "Par ces exemples, vous le voyez bien : ce ne sont pas des dieux. N’ayez donc pas peur d’eux.",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "34001029",
+    "b": 34,
+    "c": 1,
+    "v": 29,
+    "t": "Comment peut-on les appeler « dieux » ? En effet, ce sont des femmes qui servent ces dieux d’or, d’argent et de bois.",
+    "h": "Les gens ont tort de les appeler des dieux",
+    "o": 29,
+    "l": "29"
+  },
+  {
+    "id": "34001030",
+    "b": 34,
+    "c": 1,
+    "v": 30,
+    "t": "Dans les temples de ces dieux, les prêtres sont assis, couverts de vêtements déchirés. Ils ont les cheveux et la barbe rasés, la tête nue.",
+    "h": "",
+    "o": 30,
+    "l": "30"
+  },
+  {
+    "id": "34001031",
+    "b": 34,
+    "c": 1,
+    "v": 31,
+    "t": "Ils crient comme des bêtes devant leurs dieux, comme s’ils étaient à un repas de deuil.",
+    "h": "",
+    "o": 31,
+    "l": "31"
+  },
+  {
+    "id": "34001032",
+    "b": 34,
+    "c": 1,
+    "v": 32,
+    "t": "De plus, les prêtres volent les vêtements des dieux pour habiller leurs femmes et leurs enfants.",
+    "h": "",
+    "o": 32,
+    "l": "32"
+  },
+  {
+    "id": "34001033",
+    "b": 34,
+    "c": 1,
+    "v": 33,
+    "t": "Si quelqu’un fait du bien ou du mal à ces dieux, ceux-ci ne peuvent pas le rendre. Ils ne peuvent pas non plus installer un roi ou le renverser.",
+    "h": "",
+    "o": 33,
+    "l": "33"
+  },
+  {
+    "id": "34001034",
+    "b": 34,
+    "c": 1,
+    "v": 34,
+    "t": "De même, ils ne peuvent donner ni richesse ni pièce de monnaie. Si quelqu’un leur fait un vœu et s’il ne le respecte pas, ces dieux ne réclament rien.",
+    "h": "",
+    "o": 34,
+    "l": "34"
+  },
+  {
+    "id": "34001035",
+    "b": 34,
+    "c": 1,
+    "v": 35,
+    "t": "Ils ne peuvent pas sauver un homme de la mort ni arracher le plus faible au pouvoir d’un plus fort.",
+    "h": "",
+    "o": 35,
+    "l": "35"
+  },
+  {
+    "id": "34001036",
+    "b": 34,
+    "c": 1,
+    "v": 36,
+    "t": "Ils ne peuvent pas rendre la vue à un aveugle ni délivrer quelqu’un de la misère.",
+    "h": "",
+    "o": 36,
+    "l": "36"
+  },
+  {
+    "id": "34001037",
+    "b": 34,
+    "c": 1,
+    "v": 37,
+    "t": "Ils ne peuvent pas non plus avoir pitié des veuves, ni faire du bien aux orphelins.",
+    "h": "",
+    "o": 37,
+    "l": "37"
+  },
+  {
+    "id": "34001038",
+    "b": 34,
+    "c": 1,
+    "v": 38,
+    "t": "Ces morceaux de bois recouverts d’or et d’argent ressemblent aux pierres tirées des montagnes. Ceux qui s’occupent d’eux seront couverts de honte.",
+    "h": "",
+    "o": 38,
+    "l": "38"
+  },
+  {
+    "id": "34001039",
+    "b": 34,
+    "c": 1,
+    "v": 39,
+    "t": "Alors comment peut-on penser ou dire que ce sont des dieux ?",
+    "h": "",
+    "o": 39,
+    "l": "39"
+  },
+  {
+    "id": "34001040",
+    "b": 34,
+    "c": 1,
+    "v": 40,
+    "t": "De plus, les prêtres babyloniens eux-mêmes les couvrent de honte. En effet, quand ils voient un homme qui ne peut pas parler, ils l’amènent auprès de leur dieu Bel, et ils demandent à Bel de faire parler ce muet, comme si leur dieu était capable de comprendre !",
+    "h": "",
+    "o": 40,
+    "l": "40"
+  },
+  {
+    "id": "34001041",
+    "b": 34,
+    "c": 1,
+    "v": 41,
+    "t": "Ces gens sont incapables de réfléchir à cela et d’abandonner leurs dieux, car ils manquent eux-mêmes d’intelligence !",
+    "h": "",
+    "o": 41,
+    "l": "41"
+  },
+  {
+    "id": "34001042",
+    "b": 34,
+    "c": 1,
+    "v": 42,
+    "t": "Les femmes s’entourent d’une corde, et elles se placent dans les rues pour brûler du son.",
+    "h": "",
+    "o": 42,
+    "l": "42"
+  },
+  {
+    "id": "34001043",
+    "b": 34,
+    "c": 1,
+    "v": 43,
+    "t": "Quand un passant invite l’une d’elles et couche avec elle, elle se moque de sa voisine : celle-ci n’a pas été choisie comme elle, et sa corde n’a pas été coupée.",
+    "h": "",
+    "o": 43,
+    "l": "43"
+  },
+  {
+    "id": "34001044",
+    "b": 34,
+    "c": 1,
+    "v": 44,
+    "t": "Tout ce qui concerne ces dieux trompe les gens. Alors comment peut-on penser ou dire que ce sont des dieux ?",
+    "h": "",
+    "o": 44,
+    "l": "44"
+  },
+  {
+    "id": "34001045",
+    "b": 34,
+    "c": 1,
+    "v": 45,
+    "t": "Ils ont été fabriqués par des sculpteurs et des artisans travaillant les métaux. Ils sont seulement ce que ces artisans ont voulu faire.",
+    "h": "",
+    "o": 45,
+    "l": "45"
+  },
+  {
+    "id": "34001046",
+    "b": 34,
+    "c": 1,
+    "v": 46,
+    "t": "Ceux qui les ont fabriqués ne vivront pas longtemps. Alors comment les objets fabriqués peuvent-ils être des dieux ?",
+    "h": "",
+    "o": 46,
+    "l": "46"
+  },
+  {
+    "id": "34001047",
+    "b": 34,
+    "c": 1,
+    "v": 47,
+    "t": "Ces artisans ne laissent à leurs enfants que mensonge et honte.",
+    "h": "",
+    "o": 47,
+    "l": "47"
+  },
+  {
+    "id": "34001048",
+    "b": 34,
+    "c": 1,
+    "v": 48,
+    "t": "Quand une guerre ou des malheurs tombent sur ces dieux, les prêtres cherchent ensemble où se cacher avec eux.",
+    "h": "",
+    "o": 48,
+    "l": "48"
+  },
+  {
+    "id": "34001049",
+    "b": 34,
+    "c": 1,
+    "v": 49,
+    "t": "Ces statues ne peuvent pas se sauver elles-mêmes de la guerre ou des malheurs. Alors comment ne pas comprendre qu’elles ne sont pas des dieux ?",
+    "h": "",
+    "o": 49,
+    "l": "49"
+  },
+  {
+    "id": "34001050",
+    "b": 34,
+    "c": 1,
+    "v": 50,
+    "t": "Plus tard, on reconnaîtra que ces morceaux de bois recouverts d’or et d’argent trompent les gens. Tous les peuples et leurs rois le verront : ce ne sont pas des dieux, mais des objets fabriqués par des mains humaines. En eux, il n’y a rien qui vienne de Dieu.",
+    "h": "",
+    "o": 50,
+    "l": "50"
+  },
+  {
+    "id": "34001051",
+    "b": 34,
+    "c": 1,
+    "v": 51,
+    "t": "Donc, c’est clair, ce ne sont pas des dieux. Qui peut dire le contraire ?",
+    "h": "",
+    "o": 51,
+    "l": "51"
+  },
+  {
+    "id": "34001052",
+    "b": 34,
+    "c": 1,
+    "v": 52,
+    "t": "Ils ne sont pas capables d’établir un roi sur un pays ni de faire tomber la pluie pour les humains.",
+    "h": "",
+    "o": 52,
+    "l": "52"
+  },
+  {
+    "id": "34001053",
+    "b": 34,
+    "c": 1,
+    "v": 53,
+    "t": "Ils ne peuvent pas juger leurs propres affaires ni aider celui qui subit une injustice. Ils ne sont bons à rien. Ils sont impuissants comme des corbeaux qui volent entre ciel et terre.",
+    "h": "",
+    "o": 53,
+    "l": "53"
+  },
+  {
+    "id": "34001054",
+    "b": 34,
+    "c": 1,
+    "v": 54,
+    "t": "Si le feu tombe sur le temple de ces dieux en bois recouverts d’or ou d’argent, leurs prêtres s’enfuient et sauvent leur vie. Mais ces dieux resteront là à brûler comme des poutres au milieu des flammes.",
+    "h": "",
+    "o": 54,
+    "l": "54"
+  },
+  {
+    "id": "34001055",
+    "b": 34,
+    "c": 1,
+    "v": 55,
+    "t": "Si un roi ou des ennemis les attaquent, ils sont incapables de s’opposer à eux.",
+    "h": "",
+    "o": 55,
+    "l": "55"
+  },
+  {
+    "id": "34001056",
+    "b": 34,
+    "c": 1,
+    "v": 56,
+    "t": "Alors, comment peut-on accepter ou penser que ce sont des dieux ?",
+    "h": "",
+    "o": 56,
+    "l": "56"
+  },
+  {
+    "id": "34001057",
+    "b": 34,
+    "c": 1,
+    "v": 57,
+    "t": "Ces dieux en bois recouverts d’or et d’argent sont incapables de se sauver de la main des voleurs et des bandits. Quand ceux-ci arrachent de force leur or et leur argent, quand ils emportent les vêtements qui les couvrent, ces dieux ne peuvent pas s’aider eux-mêmes.",
+    "h": "Les faux dieux ne servent à rien",
+    "o": 57,
+    "l": "57"
+  },
+  {
+    "id": "34001058",
+    "b": 34,
+    "c": 1,
+    "v": 58,
+    "t": "Un roi courageux à la guerre, ou un plat qui sert à son propriétaire, une porte qui protège ce qu’il y a dans une maison, ou encore un pilier en bois dans le palais d’un roi, tout cela est plus utile que ces faux dieux.",
+    "h": "",
+    "o": 58,
+    "l": "58"
+  },
+  {
+    "id": "34001059",
+    "b": 34,
+    "c": 1,
+    "v": 59,
+    "t": "Le soleil, la lune et les étoiles qui brillent pour nous servir remplissent leur mission.",
+    "h": "",
+    "o": 59,
+    "l": "59"
+  },
+  {
+    "id": "34001060",
+    "b": 34,
+    "c": 1,
+    "v": 60,
+    "t": "Quand l’éclair jaillit, il montre lui aussi qu’il fait quelque chose, de même le vent qui souffle partout.",
+    "h": "",
+    "o": 60,
+    "l": "60"
+  },
+  {
+    "id": "34001061",
+    "b": 34,
+    "c": 1,
+    "v": 61,
+    "t": "Quand Dieu commande aux nuages de recouvrir toute la terre, ils obéissent. La foudre, que Dieu envoie d’en haut pour détruire montagnes et forêts, fait ce qui est commandé.",
+    "h": "",
+    "o": 61,
+    "l": "61"
+  },
+  {
+    "id": "34001062",
+    "b": 34,
+    "c": 1,
+    "v": 62,
+    "t": "Mais les dieux ne ressemblent en rien à ces éléments de la nature. Ils n’ont ni leur beauté ni leur puissance.",
+    "h": "",
+    "o": 62,
+    "l": "62"
+  },
+  {
+    "id": "34001063",
+    "b": 34,
+    "c": 1,
+    "v": 63,
+    "t": "Ils ne sont pas capables de rendre la justice ni de faire du bien aux humains. Alors on ne peut pas penser, ni dire que ce sont des dieux.",
+    "h": "",
+    "o": 63,
+    "l": "63"
+  },
+  {
+    "id": "34001064",
+    "b": 34,
+    "c": 1,
+    "v": 64,
+    "t": "Vous le savez bien : ce ne sont pas des dieux. N’ayez donc pas peur d’eux.",
+    "h": "",
+    "o": 64,
+    "l": "64"
+  },
+  {
+    "id": "34001065",
+    "b": 34,
+    "c": 1,
+    "v": 65,
+    "t": "En effet, ils ne sont pas capables de maudire les rois ni de les bénir.",
+    "h": "",
+    "o": 65,
+    "l": "65"
+  },
+  {
+    "id": "34001066",
+    "b": 34,
+    "c": 1,
+    "v": 66,
+    "t": "Ils ne peuvent pas montrer aux peuples des signes extraordinaires dans le ciel, ni briller comme le soleil, ni éclairer comme la lune.",
+    "h": "",
+    "o": 66,
+    "l": "66"
+  },
+  {
+    "id": "34001067",
+    "b": 34,
+    "c": 1,
+    "v": 67,
+    "t": "Les animaux sauvages sont supérieurs à eux, car ils peuvent fuir dans une cachette et s’aider eux-mêmes.",
+    "h": "",
+    "o": 67,
+    "l": "67"
+  },
+  {
+    "id": "34001068",
+    "b": 34,
+    "c": 1,
+    "v": 68,
+    "t": "Rien de cela ne nous montre qu’ils sont des dieux. N’ayez donc pas peur d’eux.",
+    "h": "",
+    "o": 68,
+    "l": "68"
+  },
+  {
+    "id": "34001069",
+    "b": 34,
+    "c": 1,
+    "v": 69,
+    "t": "Dans un champ de concombres, un épouvantail ne protège rien. C’est pareil avec les dieux de ces gens-là, ces statues en bois recouvertes d’or et d’argent.",
+    "h": "",
+    "o": 69,
+    "l": "69"
+  },
+  {
+    "id": "34001070",
+    "b": 34,
+    "c": 1,
+    "v": 70,
+    "t": "Ils sont encore comme un buisson d’épines dans un jardin où toutes sortes d’oiseaux viennent se poser, ou comme un mort jeté dans l’obscurité d’une tombe.",
+    "h": "",
+    "o": 70,
+    "l": "70"
+  },
+  {
+    "id": "34001071",
+    "b": 34,
+    "c": 1,
+    "v": 71,
+    "t": "Quand vous verrez leurs vêtements magnifiques et leurs habits en lin pourrir sur eux, vous comprendrez alors que ce ne sont pas des dieux. Finalement, les vers les mangeront, et ils seront couverts de honte dans le pays.",
+    "h": "",
+    "o": 71,
+    "l": "71"
+  },
+  {
+    "id": "34001072",
+    "b": 34,
+    "c": 1,
+    "v": 72,
+    "t": "Il vaut mieux être quelqu’un qui obéit à Dieu, et ne possède pas de statues. Une telle personne ne sera pas couverte de honte.",
+    "h": "",
+    "o": 72,
+    "l": "72"
+  }
+]

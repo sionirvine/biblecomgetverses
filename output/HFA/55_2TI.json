@@ -1,0 +1,832 @@
+[
+  {
+    "id": "55001001",
+    "b": 55,
+    "c": 1,
+    "v": 1,
+    "t": "Diesen Brief schreibt Paulus, ein Apostel von Jesus Christus, durch Gott berufen. In Gottes Auftrag verkünde ich das Leben, wie es uns durch Jesus Christus geschenkt wird.",
+    "h": "Ein standhafter Glaube, auch in Leid und Verfolgung\n(Kapitel 1,1–2,13)\nAnschrift und Gruß",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "55001002",
+    "b": 55,
+    "c": 1,
+    "v": 2,
+    "t": "Ich grüße dich, lieber Timotheus. Du bist mir lieb wie ein eigener Sohn, und ich wünsche dir Gnade, Barmherzigkeit und Frieden von Gott, unserem Vater, und von Jesus Christus, unserem Herrn.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "55001003",
+    "b": 55,
+    "c": 1,
+    "v": 3,
+    "t": "Immer wenn ich für dich bete, danke ich Gott. Ihm diene ich mit reinem Gewissen wie schon meine Vorfahren. Tag und Nacht denke ich an dich in meinen Gebeten.",
+    "h": "Gott hat uns viel gegeben",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "55001004",
+    "b": 55,
+    "c": 1,
+    "v": 4,
+    "t": "Wenn ich mich an deine Abschiedstränen erinnere, dann sehne ich mich danach, wieder bei dir zu sein. Darüber würde ich mich von Herzen freuen.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "55001005",
+    "b": 55,
+    "c": 1,
+    "v": 5,
+    "t": "Dankbar erinnere ich mich daran, wie aufrichtig du glaubst; genauso war es schon bei deiner Großmutter Lois und deiner Mutter Eunike. Ich bin überzeugt, dass dieser Glaube auch in dir lebt.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "55001006",
+    "b": 55,
+    "c": 1,
+    "v": 6,
+    "t": "Darum bitte ich dich: Lass Gottes Gabe voll in dir wirksam werden. Du hast sie bekommen, als ich dir segnend die Hände auflegte.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "55001007",
+    "b": 55,
+    "c": 1,
+    "v": 7,
+    "t": "Denn der Geist, den Gott uns gegeben hat, macht uns nicht zaghaft, sondern er erfüllt uns mit Kraft, Liebe und Besonnenheit.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "55001008",
+    "b": 55,
+    "c": 1,
+    "v": 8,
+    "t": "Schäm dich also nicht, dich in aller Öffentlichkeit zu unserem Herrn Jesus Christus zu bekennen. Halte weiter zu mir, obwohl ich jetzt für ihn im Gefängnis bin. Sei auch du bereit, für die rettende Botschaft zu leiden. Gott wird dir die Kraft dazu geben.",
+    "h": "Bekenntnis zu Christus auch im Leiden",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "55001009",
+    "b": 55,
+    "c": 1,
+    "v": 9,
+    "t": "Er hat uns gerettet und uns dazu berufen, ganz zu ihm zu gehören. Nicht etwa, weil wir das verdient hätten, sondern aus Gnade und freiem Entschluss. Denn schon vor allen Zeiten war es Gottes Plan, uns in seinem Sohn Jesus Christus seine erbarmende Liebe zu schenken.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "55001010",
+    "b": 55,
+    "c": 1,
+    "v": 10,
+    "t": "Das ist jetzt Wirklichkeit geworden, denn unser Retter Jesus Christus ist gekommen. Und so lautet die rettende Botschaft: Er hat dem Tod die Macht genommen und das unvergängliche Leben ans Licht gebracht.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "55001011",
+    "b": 55,
+    "c": 1,
+    "v": 11,
+    "t": "Diese Botschaft soll ich als Apostel und Lehrer bekannt machen.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "55001012",
+    "b": 55,
+    "c": 1,
+    "v": 12,
+    "t": "Darum hat man mich auch ins Gefängnis geworfen. Aber ich schäme mich nicht dafür, denn ich weiß genau, an wen ich glaube. Ich bin ganz sicher, dass Christus mich und all das, was er mir anvertraut hat, bis zum Tag seines Kommens bewahren wird.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "55001013",
+    "b": 55,
+    "c": 1,
+    "v": 13,
+    "t": "Halte dich an die unverfälschte Lehre unseres Glaubens, wie du sie von mir gehört hast, und gib sie entsprechend weiter. Lass dich dabei von dem Glauben und der Liebe leiten, die wir in Jesus Christus haben.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "55001014",
+    "b": 55,
+    "c": 1,
+    "v": 14,
+    "t": "Bewahre diese kostbare Gabe, die dir anvertraut ist. Die Kraft dazu wird dir der Heilige Geist geben, der in uns wohnt.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "55001015",
+    "b": 55,
+    "c": 1,
+    "v": 15,
+    "t": "Wie du weißt, haben mich alle Christen aus der Provinz Asia im Stich gelassen, auch Phygelus und Hermogenes.",
+    "h": "Lob für einen treuen Mitarbeiter",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "55001016",
+    "b": 55,
+    "c": 1,
+    "v": 16,
+    "t": "Nur Onesiphorus nicht. Ich bitte den Herrn, dass er mit seiner Familie barmherzig ist. Denn Onesiphorus hat mir immer wieder geholfen. Er hielt treu zu mir, obwohl ich im Gefängnis war.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "55001017",
+    "b": 55,
+    "c": 1,
+    "v": 17,
+    "t": "Sobald er nach Rom kam, ließ er nichts unversucht, bis er mich fand.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "55001018",
+    "b": 55,
+    "c": 1,
+    "v": 18,
+    "t": "Der Herr möge ihm am Tag des Gerichts sein Erbarmen schenken. Gerade du weißt ja, wie viel er auch in Ephesus für mich getan hat.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "55002001",
+    "b": 55,
+    "c": 2,
+    "v": 1,
+    "t": "Mein lieber Timotheus! Werde stark im Glauben durch die Liebe, die dir mit Jesus Christus geschenkt ist.",
+    "h": "Für Christus kämpfen und leiden",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "55002002",
+    "b": 55,
+    "c": 2,
+    "v": 2,
+    "t": "Was du von mir in Gegenwart vieler Zeugen gehört hast, das gib an zuverlässige Christen weiter, die wiederum fähig sind, andere im Glauben zu unterweisen.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "55002003",
+    "b": 55,
+    "c": 2,
+    "v": 3,
+    "t": "Als ein guter Kämpfer im Dienst von Jesus Christus musst du so wie ich bereit sein, auch für ihn zu leiden.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "55002004",
+    "b": 55,
+    "c": 2,
+    "v": 4,
+    "t": "Kein Soldat, der in den Krieg zieht, darf sich von alltäglichen Dingen ablenken lassen, wenn sein Befehlshaber mit ihm zufrieden sein soll.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "55002005",
+    "b": 55,
+    "c": 2,
+    "v": 5,
+    "t": "Ein Sportler kann einen Siegeskranz nur gewinnen, wenn er sich an die Wettkampfregeln hält.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "55002006",
+    "b": 55,
+    "c": 2,
+    "v": 6,
+    "t": "Ein Bauer, der schwer arbeitet, darf als Erster die Früchte seiner Arbeit genießen.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "55002007",
+    "b": 55,
+    "c": 2,
+    "v": 7,
+    "t": "Denk darüber nach, was das heißt. Der Herr wird dir in allen Dingen die richtige Einsicht geben.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "55002008",
+    "b": 55,
+    "c": 2,
+    "v": 8,
+    "t": "Vergiss nie: Jesus Christus, ein Nachkomme von David, wurde durch Gott von den Toten auferweckt. Davon spricht die rettende Botschaft, die ich verkünde.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "55002009",
+    "b": 55,
+    "c": 2,
+    "v": 9,
+    "t": "Dafür leide ich, und deswegen hat man mich sogar wie einen Verbrecher ins Gefängnis geworfen. Aber Gottes Botschaft lässt sich nicht einsperren.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "55002010",
+    "b": 55,
+    "c": 2,
+    "v": 10,
+    "t": "Doch ich nehme diese Leiden gerne auf mich für die Menschen, die Gott auserwählt hat, damit auch sie durch Jesus Christus gerettet werden und für immer in Gottes Herrlichkeit sein dürfen.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "55002011",
+    "b": 55,
+    "c": 2,
+    "v": 11,
+    "t": "Das steht unumstößlich fest: Sind wir mit Christus gestorben, werden wir auch mit ihm leben.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "55002012",
+    "b": 55,
+    "c": 2,
+    "v": 12,
+    "t": "Leiden wir hier mit ihm, werden wir auch mit ihm herrschen. Wenn wir nicht zu ihm stehen, wird auch er nicht zu uns stehen.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "55002013",
+    "b": 55,
+    "c": 2,
+    "v": 13,
+    "t": "Sind wir untreu, bleibt er doch treu, denn er kann sich selbst nicht untreu werden.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "55002014",
+    "b": 55,
+    "c": 2,
+    "v": 14,
+    "t": "An dieses Bekenntnis sollst du alle immer wieder erinnern. Ermahne sie vor Gott eindringlich, dass sie endlich mit diesen sinnlosen Streitereien um Worte aufhören, was keinem nützt, sondern bloß diejenigen durcheinanderbringt, die zuhören.",
+    "h": "Falsche Lehren und Rücksichtslosigkeit als Zeichen der letzten Zeit\n(Kapitel 2,14–3,17)\nWarnung vor Irrlehrern",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "55002015",
+    "b": 55,
+    "c": 2,
+    "v": 15,
+    "t": "Setz alles daran, dass Gott in dir einen zuverlässigen Arbeiter findet und du dich für nichts schämen musst. Erweise dich als jemand, der Gottes Botschaft von der Wahrheit richtig und klar verkündet.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "55002016",
+    "b": 55,
+    "c": 2,
+    "v": 16,
+    "t": "Beteilige dich nicht an dem heillosen, leeren Geschwätz gewisser Leute. Sie entfernen sich dadurch nur immer weiter von Gott.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "55002017",
+    "b": 55,
+    "c": 2,
+    "v": 17,
+    "t": "Wie ein todbringendes Krebsgeschwür breitet sich ihre falsche Lehre aus. Zu ihnen gehören auch Hymenäus und Philetus.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "55002018",
+    "b": 55,
+    "c": 2,
+    "v": 18,
+    "t": "Sie setzen sich über die Wahrheit einfach hinweg und behaupten, unsere Auferstehung sei bereits geschehen. Auf diese Weise haben sie schon manchen vom Glauben abgebracht.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "55002019",
+    "b": 55,
+    "c": 2,
+    "v": 19,
+    "t": "Aber das feste Fundament, das Gott gelegt hat, können sie nicht erschüttern. Es ist mit Gottes Siegel versehen und trägt die Aufschrift: »Der Herr kennt alle, die zu ihm gehören«, und ebenso: »Wer sich zum Herrn bekennt, der darf nicht länger Unrecht tun.«",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "55002020",
+    "b": 55,
+    "c": 2,
+    "v": 20,
+    "t": "Nun gibt es selbst in einem reichen Haushalt nicht nur goldene und silberne Gefäße, sondern auch solche aus Holz oder Ton. Während die einen bei Festen und großen Feiern auf den Tisch kommen, gebraucht man die anderen für den Abfall.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "55002021",
+    "b": 55,
+    "c": 2,
+    "v": 21,
+    "t": "Wer sich von diesen Schwätzern fernhält, der wird wie eins der edlen Gefäße sein: rein und wertvoll, nützlich für den Hausherrn, geeignet für alles, was gut ist.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "55002022",
+    "b": 55,
+    "c": 2,
+    "v": 22,
+    "t": "Widerstehe den Verlockungen und Leidenschaften, die jungen Menschen zu schaffen machen. Bemühe dich nach Kräften um ein Leben, das Gottes Willen entspricht und von Glauben, Liebe und Frieden bestimmt ist. Setze dich gemeinsam mit allen dafür ein, die den Herrn aufrichtig anbeten.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "55002023",
+    "b": 55,
+    "c": 2,
+    "v": 23,
+    "t": "Lass dich nicht auf törichte und nutzlose Auseinandersetzungen ein. Du weißt ja, dass sie nur zu Streit führen.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "55002024",
+    "b": 55,
+    "c": 2,
+    "v": 24,
+    "t": "Wer Gott dienen will, soll sich nicht herumstreiten, sondern allen Menschen freundlich begegnen, andere geduldig im Glauben unterweisen und bereit sein, auch Böses zu ertragen.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "55002025",
+    "b": 55,
+    "c": 2,
+    "v": 25,
+    "t": "Er soll versuchen, alle, die sich der rettenden Botschaft widersetzen, mit Güte auf den richtigen Weg zu bringen. Denn vielleicht führt Gott sie ja zur Einsicht, dass sie umkehren und die Wahrheit erkennen.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "55002026",
+    "b": 55,
+    "c": 2,
+    "v": 26,
+    "t": "Dann können sie wieder aus der Falle des Teufels befreit werden, in der sie gefangen waren, so dass sie sich von ihm für seine Zwecke missbrauchen ließen.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "55003001",
+    "b": 55,
+    "c": 3,
+    "v": 1,
+    "t": "Das eine sollst du noch wissen: In diesen letzten Tagen werden schlimme Zeiten auf uns zukommen.",
+    "h": "Zeichen der letzten Zeit",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "55003002",
+    "b": 55,
+    "c": 3,
+    "v": 2,
+    "t": "Die Menschen werden nur sich selbst und ihr Geld lieben. Sie werden überheblich und anmaßend sein, Gott verlästern und sich weigern, auf ihre Eltern zu hören. Dank und Ehrfurcht kennen sie nicht.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "55003003",
+    "b": 55,
+    "c": 3,
+    "v": 3,
+    "t": "Sie lassen andere im Stich, sind unversöhnlich und verleumden ihre Mitmenschen. Ihr Leben ist ohne Hemmungen, brutal und rücksichtslos. Sie hassen alles Gute,",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "55003004",
+    "b": 55,
+    "c": 3,
+    "v": 4,
+    "t": "Verräter sind sie, die sich nicht beherrschen können und nur sich selbst für wichtig halten. Nichts als ihr Vergnügen haben sie im Kopf, und Gott ist ihnen völlig gleichgültig.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "55003005",
+    "b": 55,
+    "c": 3,
+    "v": 5,
+    "t": "Nach außen tun sie zwar fromm, aber von der Kraft des wirklichen Glaubens wissen sie nichts. Hüte dich vor solchen Menschen!",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "55003006",
+    "b": 55,
+    "c": 3,
+    "v": 6,
+    "t": "Einige von ihnen legen es darauf an, von den Leuten ins Haus gelassen zu werden, und versuchen dort vor allem gewisse Frauen auf ihre Seite zu ziehen. Diese Frauen sind mit Sünden beladen und werden von allen möglichen Leidenschaften getrieben,",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "55003007",
+    "b": 55,
+    "c": 3,
+    "v": 7,
+    "t": "sie wollen jederzeit etwas Neues hören, sind aber unfähig, die Wahrheit zu erkennen.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "55003008",
+    "b": 55,
+    "c": 3,
+    "v": 8,
+    "t": "So wie die ägyptischen Zauberer Jannes und Jambres sich Mose entgegenstellten, so widersetzen sich diese falschen Lehrer der Wahrheit. Ihre Ansichten sind verdreht und wirr, ihr Glaube hält keiner Prüfung stand.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "55003009",
+    "b": 55,
+    "c": 3,
+    "v": 9,
+    "t": "Auf die Dauer werden sie aber ihr Unwesen nicht treiben können. Mit der Zeit wird jeder durchschauen, dass sie ohne Sinn und Verstand sind. Genauso ist es den beiden ägyptischen Zauberern ergangen.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "55003010",
+    "b": 55,
+    "c": 3,
+    "v": 10,
+    "t": "Du aber, Timotheus, bist bei dem geblieben, was ich dich gelehrt habe. Du hast dir mein Leben, mein Ziel, meinen Glauben zum Vorbild genommen, dazu auch meine Geduld, meine Liebe und Ausdauer.",
+    "h": "Wer glaubt, muss mit Widerstand rechnen",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "55003011",
+    "b": 55,
+    "c": 3,
+    "v": 11,
+    "t": "Du weißt, welche Verfolgungen und Leiden ich in Antiochia, in Ikonion und Lystra ertragen musste. Wie unerbittlich ist man dort gegen mich vorgegangen! Aber der Herr hat mich aus allen Gefahren gerettet.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "55003012",
+    "b": 55,
+    "c": 3,
+    "v": 12,
+    "t": "Tatsächlich muss jeder, der zu Jesus Christus gehört und so leben will, wie es Gott gefällt, mit Verfolgung rechnen.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "55003013",
+    "b": 55,
+    "c": 3,
+    "v": 13,
+    "t": "Die Verführer aber und die Betrüger werden sich immer stärker in die Sünde verstricken. Sie verführen andere und werden dabei selbst in die Irre geführt.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "55003014",
+    "b": 55,
+    "c": 3,
+    "v": 14,
+    "t": "Darum bitte ich dich: Halte am Glauben fest, so wie du ihn kennen gelernt hast. Von seiner Wahrheit bist du ja überzeugt. Schließlich weißt du genau, wer deine Lehrer waren.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "55003015",
+    "b": 55,
+    "c": 3,
+    "v": 15,
+    "t": "Außerdem bist du von frühester Kindheit an mit der Heiligen Schrift vertraut. Sie zeigt dir den Weg zur Rettung, den Glauben an Jesus Christus.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "55003016",
+    "b": 55,
+    "c": 3,
+    "v": 16,
+    "t": "Denn die ganze Heilige Schrift ist von Gott eingegeben. Sie soll uns unterweisen; sie hilft uns, unsere Schuld einzusehen, wieder auf den richtigen Weg zu kommen und so zu leben, wie es Gott gefällt.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "55003017",
+    "b": 55,
+    "c": 3,
+    "v": 17,
+    "t": "So werden wir reife Christen und als Diener Gottes fähig, in jeder Beziehung Gutes zu tun.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "55004001",
+    "b": 55,
+    "c": 4,
+    "v": 1,
+    "t": "Vor Gott und vor Jesus Christus, der über die Lebenden und die Toten Gericht halten wird, beschwöre ich dich – ja, angesichts dessen, dass er für alle Welt sichtbar kommen und seine Herrschaft antreten wird, fordere ich dich auf:",
+    "h": "Letzte Anweisungen und Briefschluss\n(Kapitel 4)\nDer Auftrag und das Vermächtnis von Paulus",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "55004002",
+    "b": 55,
+    "c": 4,
+    "v": 2,
+    "t": "Verkünde den Menschen Gottes Botschaft. Setz dich dafür ein, ob es den Leuten passt oder nicht! Rede ihnen ins Gewissen, weise sie zurecht, aber ermutige sie auch. Tu all das geduldig und so, wie es der Lehre unseres Glaubens entspricht.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "55004003",
+    "b": 55,
+    "c": 4,
+    "v": 3,
+    "t": "Denn es wird eine Zeit kommen, in der die Menschen von der gesunden Lehre nichts mehr wissen wollen. Sie werden sich nach ihrem eigenen Geschmack Lehrer aussuchen, die ihnen nur nach dem Munde reden.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "55004004",
+    "b": 55,
+    "c": 4,
+    "v": 4,
+    "t": "Und weil ihnen die Wahrheit nicht gefällt, folgen sie allen möglichen Legenden.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "55004005",
+    "b": 55,
+    "c": 4,
+    "v": 5,
+    "t": "Doch du sollst wachsam und besonnen bleiben, was auch immer geschieht! Sei bereit, für Christus zu leiden. Erfülle deine Aufgabe als Verkündiger der rettenden Botschaft, ja, predige sie unerschrocken. Führ deinen Dienst treu und gewissenhaft aus.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "55004006",
+    "b": 55,
+    "c": 4,
+    "v": 6,
+    "t": "Ich sage dir das, weil ich mit dem Todesurteil rechnen muss und mein Leben nun bald für Gott geopfert wird.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "55004007",
+    "b": 55,
+    "c": 4,
+    "v": 7,
+    "t": "Doch ich habe den guten Kampf des Glaubens gekämpft; jetzt ist das Ziel erreicht, und ich bin Gott treu geblieben.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "55004008",
+    "b": 55,
+    "c": 4,
+    "v": 8,
+    "t": "Nun hält der Herr für mich auch den Siegespreis bereit: Er, der gerechte Richter, wird mir am Tag des Gerichts seine Anerkennung schenken; aber nicht allein mir, sondern allen, die wie ich voller Sehnsucht auf sein Kommen warten.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "55004009",
+    "b": 55,
+    "c": 4,
+    "v": 9,
+    "t": "Nun bitte ich dich: Komm doch so schnell wie möglich zu mir!",
+    "h": "Persönliche Bitten und Anliegen",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "55004010",
+    "b": 55,
+    "c": 4,
+    "v": 10,
+    "t": "Demas hat mich im Stich gelassen und ist nach Thessalonich gereist, weil ihm die Dinge dieser Welt wichtiger waren. Kreszens ist in Galatien und Titus in Dalmatien.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "55004011",
+    "b": 55,
+    "c": 4,
+    "v": 11,
+    "t": "Nur Lukas ist bei mir geblieben. Wenn du kommst, bring Markus mit, denn er könnte mir hier viel helfen.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "55004012",
+    "b": 55,
+    "c": 4,
+    "v": 12,
+    "t": "Tychikus habe ich nach Ephesus geschickt.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "55004013",
+    "b": 55,
+    "c": 4,
+    "v": 13,
+    "t": "Bring mir aus Troas meinen Mantel mit, den ich bei Karpus zurückgelassen habe, ebenso die Bücher, vor allem aber die Pergamentrollen.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "55004014",
+    "b": 55,
+    "c": 4,
+    "v": 14,
+    "t": "Der Schmied Alexander hat mir viel Böses angetan. Er wird dafür vom Herrn die Strafe erhalten, die er verdient hat.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "55004015",
+    "b": 55,
+    "c": 4,
+    "v": 15,
+    "t": "Hüte dich vor ihm, denn er hat unsere Botschaft von Jesus Christus erbittert bekämpft.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "55004016",
+    "b": 55,
+    "c": 4,
+    "v": 16,
+    "t": "Bei meiner ersten Gerichtsverhandlung stand mir niemand bei. Alle ließen mich im Stich. Gott möge ihnen verzeihen.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "55004017",
+    "b": 55,
+    "c": 4,
+    "v": 17,
+    "t": "Der Herr aber half mir. Er hat mir Kraft gegeben, so dass ich selbst an diesem Ort die rettende Botschaft von Jesus verkünden konnte und Menschen aus aller Welt sie hörten. Er hat mich vor dem sicheren Tod bewahrt.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "55004018",
+    "b": 55,
+    "c": 4,
+    "v": 18,
+    "t": "Auch in Zukunft wird mich der Herr vor allen bösen Angriffen schützen, bis er mich in sein himmlisches Reich aufnimmt. Ihm gebühren Lob und Ehre in alle Ewigkeit. Amen.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "55004019",
+    "b": 55,
+    "c": 4,
+    "v": 19,
+    "t": "Grüß bitte Priska und Aquila und alle im Haus von Onesiphorus.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "55004020",
+    "b": 55,
+    "c": 4,
+    "v": 20,
+    "t": "Erastus ist in Korinth geblieben, und Trophimus habe ich krank in Milet zurücklassen müssen.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "55004021",
+    "b": 55,
+    "c": 4,
+    "v": 21,
+    "t": "Beeil dich, dass du noch vor Beginn des Winters hier bist. Eubulus lässt dich herzlich grüßen, ebenso Pudens, Linus, Klaudia und alle anderen Brüder und Schwestern hier.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "55004022",
+    "b": 55,
+    "c": 4,
+    "v": 22,
+    "t": "Unser Herr Jesus Christus sei mit dir und seine Gnade mit euch!",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  }
+]

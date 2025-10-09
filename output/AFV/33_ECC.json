@@ -1,0 +1,2222 @@
+[
+  {
+    "id": "33001001",
+    "b": 33,
+    "c": 1,
+    "v": 1,
+    "t": "The words of the Preacher, the son of David, king in Jerusalem.",
+    "h": "CHAPTER ONE",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "33001002",
+    "b": 33,
+    "c": 1,
+    "v": 2,
+    "t": "“Vanity of vanities,” says the Preacher, “vanity of vanities! All is vanity.”",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "33001003",
+    "b": 33,
+    "c": 1,
+    "v": 3,
+    "t": "What profit does a man have in all his labor which he labors under the sun?",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "33001004",
+    "b": 33,
+    "c": 1,
+    "v": 4,
+    "t": "One generation passes away, and another generation comes; but the earth remains forever.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "33001005",
+    "b": 33,
+    "c": 1,
+    "v": 5,
+    "t": "The sun also arises, and the sun goes down, and hurries to its place where it arose.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "33001006",
+    "b": 33,
+    "c": 1,
+    "v": 6,
+    "t": "The wind goes toward the south, and it turns around to the north; it whirls around continually; and the wind returns on its circuits.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "33001007",
+    "b": 33,
+    "c": 1,
+    "v": 7,
+    "t": "All the rivers run into the sea; yet the sea is not full; to the place from where the rivers come, there they return again.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "33001008",
+    "b": 33,
+    "c": 1,
+    "v": 8,
+    "t": "All things are full of labor; man cannot utter it; the eye is not satisfied with seeing, nor the ear filled with hearing.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "33001009",
+    "b": 33,
+    "c": 1,
+    "v": 9,
+    "t": "That which has been is that which shall be; and that which has been done is that which shall be done; and there is nothing new under the sun.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "33001010",
+    "b": 33,
+    "c": 1,
+    "v": 10,
+    "t": "Is there a thing of which it may be said, “See, this is new”? It has already been in days of old, which were before us.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "33001011",
+    "b": 33,
+    "c": 1,
+    "v": 11,
+    "t": "There is no memory of former things, neither shall there be any remembrance of things that are to come by those who shall come afterwards.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "33001012",
+    "b": 33,
+    "c": 1,
+    "v": 12,
+    "t": "I, the Preacher, was king over Israel in Jerusalem.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "33001013",
+    "b": 33,
+    "c": 1,
+    "v": 13,
+    "t": "And I gave my heart to seek and search out by wisdom concerning all things that are done under the heavens. It is a grievous task God has given to the sons of men to be exercised by it.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "33001014",
+    "b": 33,
+    "c": 1,
+    "v": 14,
+    "t": "I have seen all the works that are done under the sun; and, behold, all is vanity and striving after wind.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "33001015",
+    "b": 33,
+    "c": 1,
+    "v": 15,
+    "t": "What is crooked cannot be made straight; and what is lacking cannot be numbered.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "33001016",
+    "b": 33,
+    "c": 1,
+    "v": 16,
+    "t": "I spoke within my own heart, saying, “Lo, I have become great and have gathered more wisdom than all that have been before me in Jerusalem; yea, my heart has experienced great wisdom and knowledge.”",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "33001017",
+    "b": 33,
+    "c": 1,
+    "v": 17,
+    "t": "And I gave my heart to know wisdom and to know madness and folly; I perceived that this also is striving after wind.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "33001018",
+    "b": 33,
+    "c": 1,
+    "v": 18,
+    "t": "For in much wisdom is much grief; and he who increases knowledge increases sorrow.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "33002001",
+    "b": 33,
+    "c": 2,
+    "v": 1,
+    "t": "I said in my heart, “Come now, I will test you with pleasure to find out what is good.” and, behold, this also is vanity.",
+    "h": "CHAPTER TWO",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "33002002",
+    "b": 33,
+    "c": 2,
+    "v": 2,
+    "t": "I said of laughter, “ It is madness;” and of mirth, “What does it accomplish?”",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "33002003",
+    "b": 33,
+    "c": 2,
+    "v": 3,
+    "t": "I sought in my heart to give myself unto wine, yet conducting my heart with wisdom; and to lay hold on folly, until I might see what was good for the sons of men, what they should do under the heaven the few days of their life.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "33002004",
+    "b": 33,
+    "c": 2,
+    "v": 4,
+    "t": "I made great works for myself; I built houses for myself; I planted vineyards for myself.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "33002005",
+    "b": 33,
+    "c": 2,
+    "v": 5,
+    "t": "I made gardens and orchards for myself, and I planted trees in them, of all fruit.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "33002006",
+    "b": 33,
+    "c": 2,
+    "v": 6,
+    "t": "I made pools of water for myself, to irrigate groves of growing trees.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "33002007",
+    "b": 33,
+    "c": 2,
+    "v": 7,
+    "t": "I bought men slaves and women slaves, and servants were born in my house; also I had great possessions of herds and flocks, above all that were before me in Jerusalem.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "33002008",
+    "b": 33,
+    "c": 2,
+    "v": 8,
+    "t": "I also gathered silver and gold to myself, and the treasure of kings and of the provinces. I got men singers and women singers for myself, even the sensual delights of the sons of men, and many women.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "33002009",
+    "b": 33,
+    "c": 2,
+    "v": 9,
+    "t": "So I was great and increased more than all that were before me in Jerusalem; also my wisdom remained with me.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "33002010",
+    "b": 33,
+    "c": 2,
+    "v": 10,
+    "t": "And whatever my eyes desired I did not keep from them; I did not withhold my heart from any pleasure; for my heart rejoiced in all my labor, and this was my portion of all my labor.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "33002011",
+    "b": 33,
+    "c": 2,
+    "v": 11,
+    "t": "Then I looked on all the works that my hands had done, and on the labor that I had labored to do; and, behold, all is vanity and a striving after the wind; and there is no profit under the sun.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "33002012",
+    "b": 33,
+    "c": 2,
+    "v": 12,
+    "t": "And I turned to behold wisdom, and madness, and folly; for what can the man do who comes after the king? Only that which has already been done.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "33002013",
+    "b": 33,
+    "c": 2,
+    "v": 13,
+    "t": "Then I saw that wisdom excels folly, as far as light excels darkness.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "33002014",
+    "b": 33,
+    "c": 2,
+    "v": 14,
+    "t": "The wise man’s eyes are in his head; but the fool walks in darkness; and I myself also perceived that one event happens to all of them.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "33002015",
+    "b": 33,
+    "c": 2,
+    "v": 15,
+    "t": "Then I said in my heart, “As it happens to the fool, so it happens even to me; and why was I then more wise?” And I said in my heart that this also is vanity.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "33002016",
+    "b": 33,
+    "c": 2,
+    "v": 16,
+    "t": "For there is no memory of the wise more than of the fool forever, since that which is now shall all be forgotten in the days to come. And how does the wise die? Even as the fool!",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "33002017",
+    "b": 33,
+    "c": 2,
+    "v": 17,
+    "t": "Therefore I hated life; because the work that is done under the sun is grievous to me; for all is vanity and a striving after wind.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "33002018",
+    "b": 33,
+    "c": 2,
+    "v": 18,
+    "t": "Yea, I hated all my labor which I had done under the sun, because I must leave it to the man who shall be after me.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "33002019",
+    "b": 33,
+    "c": 2,
+    "v": 19,
+    "t": "And who knows whether he shall be wise or a fool? Yet he shall have rule over all my labor in which I have labored, and have shown myself wise under the sun. This is also vanity.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "33002020",
+    "b": 33,
+    "c": 2,
+    "v": 20,
+    "t": "And I turned to cause my heart to despair of all the labor which I had done under the sun.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "33002021",
+    "b": 33,
+    "c": 2,
+    "v": 21,
+    "t": "For there is a man whose labor is in wisdom, and in knowledge, and with skill; yet to a man who has not labored in it, he shall leave it for his portion. This also is vanity and a great evil.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "33002022",
+    "b": 33,
+    "c": 2,
+    "v": 22,
+    "t": "For what has man from all his labor, and from the striving of his heart, in which he has labored under the sun?",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "33002023",
+    "b": 33,
+    "c": 2,
+    "v": 23,
+    "t": "For all his days are sorrows, and his labor vexation; yea, so his heart does not take rest in the night. This is also vanity.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "33002024",
+    "b": 33,
+    "c": 2,
+    "v": 24,
+    "t": "There is nothing better for a man than that he should eat and drink and make his soul see good in his labor? This I also saw, that it was from the hand of God.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "33002025",
+    "b": 33,
+    "c": 2,
+    "v": 25,
+    "t": "For who can eat, or who can enjoy it, more than I?",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "33002026",
+    "b": 33,
+    "c": 2,
+    "v": 26,
+    "t": "For God gives wisdom, and knowledge, and joy to a man who is good in His sight. But to the sinner He gives labor, to gather and to heap up, that he may give to him who is good before God. This also is vanity and a striving after wind.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "33003001",
+    "b": 33,
+    "c": 3,
+    "v": 1,
+    "t": "To everything there is a season, and a time for every purpose under the heavens:",
+    "h": "CHAPTER THREE",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "33003002",
+    "b": 33,
+    "c": 3,
+    "v": 2,
+    "t": "A time to be born, and a time to die; a time to plant, and a time to pluck up what is planted;",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "33003003",
+    "b": 33,
+    "c": 3,
+    "v": 3,
+    "t": "A time to kill, and a time to heal; a time to break down, and a time to build up;",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "33003004",
+    "b": 33,
+    "c": 3,
+    "v": 4,
+    "t": "A time to weep, and a time to laugh; a time to mourn, and a time to dance;",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "33003005",
+    "b": 33,
+    "c": 3,
+    "v": 5,
+    "t": "A time to throw away stones, and a time to gather stones together; a time to embrace, and a time to refrain from embracing;",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "33003006",
+    "b": 33,
+    "c": 3,
+    "v": 6,
+    "t": "A time to gain, and a time to lose; a time to keep, and a time to throw away;",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "33003007",
+    "b": 33,
+    "c": 3,
+    "v": 7,
+    "t": "A time to tear, and a time to sew; a time to keep silence, and a time to speak;",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "33003008",
+    "b": 33,
+    "c": 3,
+    "v": 8,
+    "t": "A time to love, and a time to hate; a time of war, and a time of peace.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "33003009",
+    "b": 33,
+    "c": 3,
+    "v": 9,
+    "t": "What profit does he have who works in that in which he labors?",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "33003010",
+    "b": 33,
+    "c": 3,
+    "v": 10,
+    "t": "I have seen the task which God has given to the sons of men to be exercised by it.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "33003011",
+    "b": 33,
+    "c": 3,
+    "v": 11,
+    "t": "He has made everything beautiful in its time; He has also set eternity in their heart, so that no man can find out the work that God makes from the beginning to the end.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "33003012",
+    "b": 33,
+    "c": 3,
+    "v": 12,
+    "t": "I know that nothing is better for them than to rejoice and to do good as long as they live.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "33003013",
+    "b": 33,
+    "c": 3,
+    "v": 13,
+    "t": "And also that every man should eat and drink, and enjoy the good of all his labor, it is the gift of God.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "33003014",
+    "b": 33,
+    "c": 3,
+    "v": 14,
+    "t": "I know that whatever God does, it shall be forever; nothing can be added to it, nor anything taken from it; and God does it so that men should fear before Him.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "33003015",
+    "b": 33,
+    "c": 3,
+    "v": 15,
+    "t": "That which has been is now; and that which is to be has already been; and God requires an account of that which is past.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "33003016",
+    "b": 33,
+    "c": 3,
+    "v": 16,
+    "t": "And again I saw under the sun the place of judgment, that wickedness was there; and in the place of righteousness, that wickedness was there.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "33003017",
+    "b": 33,
+    "c": 3,
+    "v": 17,
+    "t": "I said in my heart, “God shall judge the righteous and the wicked; for there is a time there for every purpose and for every work.”",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "33003018",
+    "b": 33,
+    "c": 3,
+    "v": 18,
+    "t": "I said in my heart, “Concerning the matter of the sons of men, may God reveal to them, that they might see, that they themselves are but beasts.”",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "33003019",
+    "b": 33,
+    "c": 3,
+    "v": 19,
+    "t": "For that which happens to the sons of men also happens to beasts—even one thing happens to them. As the one dies, so dies the other; yea, they all have one breath; so that a man has no advantage over a beast; for all is vanity.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "33003020",
+    "b": 33,
+    "c": 3,
+    "v": 20,
+    "t": "All go to one place; all are of the dust, and all return to dust again.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "33003021",
+    "b": 33,
+    "c": 3,
+    "v": 21,
+    "t": "Who knows the spirit of man whether it goes upward, and the spirit of the beast whether it goes downward to the earth?",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "33003022",
+    "b": 33,
+    "c": 3,
+    "v": 22,
+    "t": "Therefore I perceive that there is nothing better that a man should do than to rejoice in his own works; for that is his portion; for who can bring him to see what shall be after him?",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "33004001",
+    "b": 33,
+    "c": 4,
+    "v": 1,
+    "t": "So I returned, and considered all the oppressions that are done under the sun. And behold the tears of the oppressed ones, and they had no comforter! And on the side of those who oppressed them there was power, but they had no comforter.",
+    "h": "CHAPTER FOUR",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "33004002",
+    "b": 33,
+    "c": 4,
+    "v": 2,
+    "t": "Wherefore I praised the dead who already have died, more than the living who are yet alive.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "33004003",
+    "b": 33,
+    "c": 4,
+    "v": 3,
+    "t": "Yea, better than both is he who has not yet been, who has not seen the evil work that is done under the sun.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "33004004",
+    "b": 33,
+    "c": 4,
+    "v": 4,
+    "t": "Again, I considered all labor, and every excellent work, that it is a rivalry between a man and his neighbor. This is also vanity and a striving after wind.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "33004005",
+    "b": 33,
+    "c": 4,
+    "v": 5,
+    "t": "The fool folds his hands together, and devours his own flesh.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "33004006",
+    "b": 33,
+    "c": 4,
+    "v": 6,
+    "t": "Better is a handful with quietness, than both the hands full with travail and striving after wind.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "33004007",
+    "b": 33,
+    "c": 4,
+    "v": 7,
+    "t": "And I returned and saw vanity under the sun:",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "33004008",
+    "b": 33,
+    "c": 4,
+    "v": 8,
+    "t": "There is one alone, and there is not a second; yea, he has neither son nor brother; yet there is no end to all his labor; and his eyes are not satisfied with riches; neither does he say, “For whom do I labor and deprive my soul of pleasure?” This is also vanity. Yea, it is a grievous task.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "33004009",
+    "b": 33,
+    "c": 4,
+    "v": 9,
+    "t": "Two are better than one, because they have a good reward for their labor.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "33004010",
+    "b": 33,
+    "c": 4,
+    "v": 10,
+    "t": "For if they fall, the one will lift up his fellow; but woe to him who is alone when he falls, for he does not have another to help him.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "33004011",
+    "b": 33,
+    "c": 4,
+    "v": 11,
+    "t": "Again, if two lie together, then they have warmth; but how can one be warm alone ?",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "33004012",
+    "b": 33,
+    "c": 4,
+    "v": 12,
+    "t": "And a man may prevail against him who is alone, yet two shall withstand him; and a threefold cord is not quickly broken.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "33004013",
+    "b": 33,
+    "c": 4,
+    "v": 13,
+    "t": "A poor and a wise child is better than an old and foolish king, who knows not how to receive admonition any more.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "33004014",
+    "b": 33,
+    "c": 4,
+    "v": 14,
+    "t": "For out of prison he comes to reign; although in his kingdom he was born poor.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "33004015",
+    "b": 33,
+    "c": 4,
+    "v": 15,
+    "t": "I saw all the living who walk under the sun, that they were with the second child who shall stand up in his place.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "33004016",
+    "b": 33,
+    "c": 4,
+    "v": 16,
+    "t": "There is no end of all the people, of all whom he did lead; they also who come afterward shall not rejoice in him. Surely this also is vanity and a striving after wind.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "33005001",
+    "b": 33,
+    "c": 5,
+    "v": 1,
+    "t": "Guard your steps when you go to the house of God, and be more ready to hear than to give the sacrifice of fools. For they do not know that they are doing evil.",
+    "h": "CHAPTER FIVE",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "33005002",
+    "b": 33,
+    "c": 5,
+    "v": 2,
+    "t": "Do not be rash with your mouth, and do not let your heart be hasty to say a word before God. For God is in heaven, and you are on earth; therefore let your words be few.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "33005003",
+    "b": 33,
+    "c": 5,
+    "v": 3,
+    "t": "For a dream comes through the multitude of business; and a fool’s voice is known by the multitude of words.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "33005004",
+    "b": 33,
+    "c": 5,
+    "v": 4,
+    "t": "When you vow a vow to God, do not delay to pay it. For He has no pleasure in fools. Pay that which you have vowed.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "33005005",
+    "b": 33,
+    "c": 5,
+    "v": 5,
+    "t": "It is better that you should not vow, than that you should vow and not pay.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "33005006",
+    "b": 33,
+    "c": 5,
+    "v": 6,
+    "t": "Do not allow your mouth to cause your flesh to sin; and do not say before the angel that it was an error. For why should God be angry at your voice and destroy the work of your hands?",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "33005007",
+    "b": 33,
+    "c": 5,
+    "v": 7,
+    "t": "For in the multitude of dreams and many words vanities abound; but fear God.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "33005008",
+    "b": 33,
+    "c": 5,
+    "v": 8,
+    "t": "If you see the oppression of the poor, and the violent perverting of justice and righteousness in a province, do not marvel at the matter. For one official watches over another official, and there are higher officials over them.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "33005009",
+    "b": 33,
+    "c": 5,
+    "v": 9,
+    "t": "Moreover, the profit of the land is for all; for even the king himself is served by the field.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "33005010",
+    "b": 33,
+    "c": 5,
+    "v": 10,
+    "t": "He who loves silver shall not be satisfied with silver, and he who loves abundance shall not be satisfied with gain. This is also vanity.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "33005011",
+    "b": 33,
+    "c": 5,
+    "v": 11,
+    "t": "When goods increase, those who eat them increase; then what profit is it to its owners, except to see them with their eyes?",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "33005012",
+    "b": 33,
+    "c": 5,
+    "v": 12,
+    "t": "The sleep of a laboring man is sweet, whether he eats little or much; but the abundance of the rich will not allow him to sleep.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "33005013",
+    "b": 33,
+    "c": 5,
+    "v": 13,
+    "t": "There is a sore evil which I have seen under the sun, namely, riches kept by their owners to their own hurt.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "33005014",
+    "b": 33,
+    "c": 5,
+    "v": 14,
+    "t": "But those riches perish through evil use. And he begets a son, and there is nothing in his hand.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "33005015",
+    "b": 33,
+    "c": 5,
+    "v": 15,
+    "t": "As he came forth from his mother’s womb naked, he shall return to go as he came. And from his labor he may not carry anything away that may go in his hand.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "33005016",
+    "b": 33,
+    "c": 5,
+    "v": 16,
+    "t": "And this also is a sore evil, that in everything, as he came, so shall he go; and what profit does he have who has labored for the wind?",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "33005017",
+    "b": 33,
+    "c": 5,
+    "v": 17,
+    "t": "Also all his days he eats in darkness, and he has much sorrow and wrath with his sickness.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "33005018",
+    "b": 33,
+    "c": 5,
+    "v": 18,
+    "t": "Behold that which I have seen: It is good and right for one to eat and to drink, and to see good in all his labor that he labors under the sun all the days of his life, which God gives him; for it is his portion.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "33005019",
+    "b": 33,
+    "c": 5,
+    "v": 19,
+    "t": "As for every man to whom God has given riches and wealth, and has given him power to eat of it and to take his portion, and to rejoice in his labor—this is the gift of God.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "33005020",
+    "b": 33,
+    "c": 5,
+    "v": 20,
+    "t": "For he does not often consider the days of his life, because God keeps him occupied with gladness of his heart.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "33006001",
+    "b": 33,
+    "c": 6,
+    "v": 1,
+    "t": "There is an evil which I have seen under the sun, and it lies heavy upon men:",
+    "h": "CHAPTER SIX",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "33006002",
+    "b": 33,
+    "c": 6,
+    "v": 2,
+    "t": "A man to whom God has given riches, wealth, and honor, so that he lacks nothing of all that he desires for his life, yet God does not give him power to eat of it, but a stranger eats it. This is vanity, and it is an evil disease.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "33006003",
+    "b": 33,
+    "c": 6,
+    "v": 3,
+    "t": "If a man beget a hundred children, and lives many years, so that the days of his years are many, but his life is not filled with good, and also that he has no burial; I say, a miscarriage is better than he.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "33006004",
+    "b": 33,
+    "c": 6,
+    "v": 4,
+    "t": "For he comes in with vanity and goes out in darkness, and his name shall be covered with darkness.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "33006005",
+    "b": 33,
+    "c": 6,
+    "v": 5,
+    "t": "Moreover he has not seen the sun, nor known anything. This one had more rest than the other.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "33006006",
+    "b": 33,
+    "c": 6,
+    "v": 6,
+    "t": "Yea, even though he live a thousand years twice, yet he has enjoyed no good. Do not all go to one place?",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "33006007",
+    "b": 33,
+    "c": 6,
+    "v": 7,
+    "t": "All the labor of man is for his mouth, and yet the appetite is not filled.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "33006008",
+    "b": 33,
+    "c": 6,
+    "v": 8,
+    "t": "For what has the wise more than the fool? What gain has the poor who knows how to walk before the living?",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "33006009",
+    "b": 33,
+    "c": 6,
+    "v": 9,
+    "t": "Better is the sight of the eyes than the wandering of the desire. This is also vanity and a striving after wind.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "33006010",
+    "b": 33,
+    "c": 6,
+    "v": 10,
+    "t": "That which has been is named already, and it is known that he is man; and he is not able to contend with Him who is mightier than he.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "33006011",
+    "b": 33,
+    "c": 6,
+    "v": 11,
+    "t": "For there are many things that increase vanity, but what advantage is that to man?",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "33006012",
+    "b": 33,
+    "c": 6,
+    "v": 12,
+    "t": "For who knows what is good for man in life, all the days of his vain life which he spends as a shadow? For who can tell a man what shall be after him under the sun?",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "33007001",
+    "b": 33,
+    "c": 7,
+    "v": 1,
+    "t": "A good name is better than precious ointment, and the day of death than the day of one’s birth.",
+    "h": "CHAPTER SEVEN",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "33007002",
+    "b": 33,
+    "c": 7,
+    "v": 2,
+    "t": "It is better to go to the house of mourning than to go to the house of feasting; for that is the end of all men; and the living will lay it to his heart.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "33007003",
+    "b": 33,
+    "c": 7,
+    "v": 3,
+    "t": "Sorrow is better than laughter; for by the sadness of the countenance the heart is made better.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "33007004",
+    "b": 33,
+    "c": 7,
+    "v": 4,
+    "t": "The heart of the wise is in the house of mourning; but the heart of fools is in the house of pleasure.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "33007005",
+    "b": 33,
+    "c": 7,
+    "v": 5,
+    "t": "It is better to hear the rebuke of the wise than for a man to hear the song of fools.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "33007006",
+    "b": 33,
+    "c": 7,
+    "v": 6,
+    "t": "For as is the crackling of thorns under a pot, so is the laughter of the fool; this also is vanity.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "33007007",
+    "b": 33,
+    "c": 7,
+    "v": 7,
+    "t": "Surely extortion deprives a wise man of reason, and a bribe corrupts the mind.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "33007008",
+    "b": 33,
+    "c": 7,
+    "v": 8,
+    "t": "Better is the end of a thing than the beginning of it; the patient in spirit is better than the proud in spirit.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "33007009",
+    "b": 33,
+    "c": 7,
+    "v": 9,
+    "t": "Do not be hasty in your spirit to be angry; for anger rests in the bosom of fools.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "33007010",
+    "b": 33,
+    "c": 7,
+    "v": 10,
+    "t": "Do not say, “Why was it that the former days were better than these?” For you do not ask wisely in regard to this.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "33007011",
+    "b": 33,
+    "c": 7,
+    "v": 11,
+    "t": "Wisdom is good with an inheritance; Yea, a profit to those who see the sun.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "33007012",
+    "b": 33,
+    "c": 7,
+    "v": 12,
+    "t": "For wisdom is a defense, even as money is a defense; but the excellency of knowledge is that wisdom which preserves the life of those who have it.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "33007013",
+    "b": 33,
+    "c": 7,
+    "v": 13,
+    "t": "Consider the work of God; for who can make straight what He has made crooked?",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "33007014",
+    "b": 33,
+    "c": 7,
+    "v": 14,
+    "t": "In the day of prosperity be joyful, but in the day of adversity consider that God has made the one as well as the other, to the end that man should find nothing that will come after him.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "33007015",
+    "b": 33,
+    "c": 7,
+    "v": 15,
+    "t": "All things I have seen in the days of my vanity; there is a just man who perishes in his righteousness, and there is a wicked one who prolongs life in his wickedness.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "33007016",
+    "b": 33,
+    "c": 7,
+    "v": 16,
+    "t": "Do not be righteous over much, neither make yourself overly wise; why should you destroy yourself?",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "33007017",
+    "b": 33,
+    "c": 7,
+    "v": 17,
+    "t": "Do not be overly wicked, and do not be a fool; why should you die before your time?",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "33007018",
+    "b": 33,
+    "c": 7,
+    "v": 18,
+    "t": "It is good that you should take hold of this; yea, also from this do not withdraw your hand; for he who fears God shall come forth from them all.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "33007019",
+    "b": 33,
+    "c": 7,
+    "v": 19,
+    "t": "Wisdom makes the wise stronger than ten mighty men who are in the city.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "33007020",
+    "b": 33,
+    "c": 7,
+    "v": 20,
+    "t": "For there is not a righteous man on earth who does good and does not sin.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "33007021",
+    "b": 33,
+    "c": 7,
+    "v": 21,
+    "t": "Also do not pay attention to every word that is spoken; lest you hear your servant curse you.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "33007022",
+    "b": 33,
+    "c": 7,
+    "v": 22,
+    "t": "For your own heart knows that you yourself have also cursed others many times.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "33007023",
+    "b": 33,
+    "c": 7,
+    "v": 23,
+    "t": "All this I have proved by wisdom; I said, “I will be wise;” but it was far from me.",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "33007024",
+    "b": 33,
+    "c": 7,
+    "v": 24,
+    "t": "That which is far off and exceedingly deep, who can find it out?",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "33007025",
+    "b": 33,
+    "c": 7,
+    "v": 25,
+    "t": "I set my heart to know, and to search, and to seek out wisdom, and the reason of things, and to know the wickedness of folly, even of foolishness and madness;",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "33007026",
+    "b": 33,
+    "c": 7,
+    "v": 26,
+    "t": "And what I find more bitter than death is the woman whose heart is snares and nets, and her hands are like fetters. Whoever pleases God shall escape from her, but the sinner shall be taken by her.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "33007027",
+    "b": 33,
+    "c": 7,
+    "v": 27,
+    "t": "“Behold, this I have found,” says the Preacher, “ counting one by one, to find out the sum,",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "33007028",
+    "b": 33,
+    "c": 7,
+    "v": 28,
+    "t": "Which my soul still sought, but I do not find: one man among a thousand I have found, but a woman among all these I have not found.",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "33007029",
+    "b": 33,
+    "c": 7,
+    "v": 29,
+    "t": "Lo, this only I have found, that God has made man to be upright, but they have sought out many devisings.”",
+    "h": "",
+    "o": 29,
+    "l": "29"
+  },
+  {
+    "id": "33008001",
+    "b": 33,
+    "c": 8,
+    "v": 1,
+    "t": "Who is as the wise? And who knows the interpretation of a matter? A man’s wisdom makes his face to shine, and the boldness of his face shall be changed.",
+    "h": "CHAPTER EIGHT",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "33008002",
+    "b": 33,
+    "c": 8,
+    "v": 2,
+    "t": "I counsel you, “Keep the king’s word, and that in regard of the oath of God.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "33008003",
+    "b": 33,
+    "c": 8,
+    "v": 3,
+    "t": "Do not be hasty to leave his presence. Do not take a stand in an evil thing, for he does whatever pleases him.”",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "33008004",
+    "b": 33,
+    "c": 8,
+    "v": 4,
+    "t": "Because the word of a king is that which has power, who may say to him, “What are you doing?”",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "33008005",
+    "b": 33,
+    "c": 8,
+    "v": 5,
+    "t": "Whoever keeps the commandment shall feel no evil thing; and a wise man’s heart discerns both time and judgment.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "33008006",
+    "b": 33,
+    "c": 8,
+    "v": 6,
+    "t": "Because to every purpose there is time and judgment, therefore the misery of man is great.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "33008007",
+    "b": 33,
+    "c": 8,
+    "v": 7,
+    "t": "For he does not know what shall be; for who can tell him when it shall be?",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "33008008",
+    "b": 33,
+    "c": 8,
+    "v": 8,
+    "t": "There is no man who has power over the wind to restrain the wind; nor power over the day of death; and there is no discharge from war; nor shall wickedness deliver those who are given to it.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "33008009",
+    "b": 33,
+    "c": 8,
+    "v": 9,
+    "t": "All this I have seen, and I gave my heart to every work that is done under the sun. There is a time in which one man rules over another to his own hurt.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "33008010",
+    "b": 33,
+    "c": 8,
+    "v": 10,
+    "t": "And so I saw the wicked buried, who had come and gone from the holy place. And they were forgotten in the city where they had so done. This is also vanity.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "33008011",
+    "b": 33,
+    "c": 8,
+    "v": 11,
+    "t": "Because sentence against an evil work is not executed speedily, therefore the heart of the sons of men is fully set in them to do evil.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "33008012",
+    "b": 33,
+    "c": 8,
+    "v": 12,
+    "t": "Though a sinner does evil a hundred times, and his days are prolonged, yet surely I know that it shall be well with those who fear God, who fear before Him.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "33008013",
+    "b": 33,
+    "c": 8,
+    "v": 13,
+    "t": "But it shall not be well with the wicked, nor shall he prolong his days, which are as a shadow; because he does not fear before God.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "33008014",
+    "b": 33,
+    "c": 8,
+    "v": 14,
+    "t": "There is a vanity which is done upon the earth: There are just men to whom it happens according to the work of the wicked; again, there are wicked ones to whom it happens according to the work of the righteous. I said that this also is vanity.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "33008015",
+    "b": 33,
+    "c": 8,
+    "v": 15,
+    "t": "Then I commended pleasure, because a man has no better thing under the sun than to eat and to drink and to be merry; for that shall go with him in his labor through the days of his life which God gives him under the sun.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "33008016",
+    "b": 33,
+    "c": 8,
+    "v": 16,
+    "t": "When I applied my heart to know wisdom, and to see the business that is done upon the earth, for neither day nor night do men give sleep to their eyes,",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "33008017",
+    "b": 33,
+    "c": 8,
+    "v": 17,
+    "t": "Then I looked at all the work of God, that a man cannot find out the work that is done under the sun; because though a man labors to seek it out, yet he shall not find it. Yea, further, though a wise man thinks to know it, yet he shall not be able to find it.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "33009001",
+    "b": 33,
+    "c": 9,
+    "v": 1,
+    "t": "For all this I took to heart, even to make all this clear, that the righteous and the wise and their works are in the hand of God. No man knows either love or hatred by all that is before them.",
+    "h": "CHAPTER NINE",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "33009002",
+    "b": 33,
+    "c": 9,
+    "v": 2,
+    "t": "All things come alike to all; there is one event that happens to the righteous and to the wicked; to the good and to the clean, and to the unclean; to him who sacrifices, and to him who does not sacrifice. As is the good, so is the sinner. He who swears is as he who fears an oath.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "33009003",
+    "b": 33,
+    "c": 9,
+    "v": 3,
+    "t": "This is an evil among all things that are done under the sun, that there is one event that happens to all. Yea, also the heart of the sons of men is full of evil, and madness is in their heart while they live, and after that they go to the dead.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "33009004",
+    "b": 33,
+    "c": 9,
+    "v": 4,
+    "t": "For whoever is among the living, there is hope; for a living dog is better than a dead lion.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "33009005",
+    "b": 33,
+    "c": 9,
+    "v": 5,
+    "t": "For the living know that they shall die; but the dead do not know anything, nor do they have any more a reward; for their memory is forgotten.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "33009006",
+    "b": 33,
+    "c": 9,
+    "v": 6,
+    "t": "Also their love, and their hatred, and their envy, is long ago perished; nor do they any longer have a portion forever in all that is done under the sun.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "33009007",
+    "b": 33,
+    "c": 9,
+    "v": 7,
+    "t": "Go your way, eat your bread with joy, and drink your wine with a merry heart; for God now accepts your works.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "33009008",
+    "b": 33,
+    "c": 9,
+    "v": 8,
+    "t": "Let your garments be always white; and let your head lack no ointment.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "33009009",
+    "b": 33,
+    "c": 9,
+    "v": 9,
+    "t": "Live joyfully with the wife whom you love all the days of the life of your vanity, which He has given you under the sun, all the days of your vanity. For that is your portion in this life, and in your labor which you labor under the sun.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "33009010",
+    "b": 33,
+    "c": 9,
+    "v": 10,
+    "t": "Whatever your hand finds to do, do it with all your might; for there is no work, nor plan, nor knowledge, nor wisdom, in the grave where you go.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "33009011",
+    "b": 33,
+    "c": 9,
+    "v": 11,
+    "t": "I returned and saw under the sun that the race is not to the swift, nor the battle to the strong, nor yet bread to the wise, nor yet riches to men of understanding, nor yet favor to men of skill; but time and chance happens to them all.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "33009012",
+    "b": 33,
+    "c": 9,
+    "v": 12,
+    "t": "For man also does not know his time; as the fishes that are taken in an evil net, and as the birds that are caught in the snare; so are the sons of men snared in an evil time, when it falls suddenly upon them.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "33009013",
+    "b": 33,
+    "c": 9,
+    "v": 13,
+    "t": "This wisdom I have seen also under the sun, and it seemed great to me:",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "33009014",
+    "b": 33,
+    "c": 9,
+    "v": 14,
+    "t": "There was a little city, and few men in it; and a great king came against it and besieged it, and built huge bulwarks against it.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "33009015",
+    "b": 33,
+    "c": 9,
+    "v": 15,
+    "t": "And a poor wise man was found in it, and he by his wisdom delivered the city; yet no man remembered that poor man.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "33009016",
+    "b": 33,
+    "c": 9,
+    "v": 16,
+    "t": "And I said, “Wisdom is better than strength; but the poor man’s wisdom is despised, and his words are not heard.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "33009017",
+    "b": 33,
+    "c": 9,
+    "v": 17,
+    "t": "The quiet words of the wise are more to be heeded than the shouts of a ruler among fools.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "33009018",
+    "b": 33,
+    "c": 9,
+    "v": 18,
+    "t": "Wisdom is better than weapons of war; but one sinner destroys much good.”",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "33010001",
+    "b": 33,
+    "c": 10,
+    "v": 1,
+    "t": "As dead flies make the perfumer’s ointment to be putrid, and of a foul odor; so does a little folly to him who has a reputation for wisdom and honor.",
+    "h": "CHAPTER TEN",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "33010002",
+    "b": 33,
+    "c": 10,
+    "v": 2,
+    "t": "A man’s heart is at his right hand; but a fool’s heart at his left.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "33010003",
+    "b": 33,
+    "c": 10,
+    "v": 3,
+    "t": "Yea also, when a fool walks along the way his wisdom fails; and he says to all that he is a fool.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "33010004",
+    "b": 33,
+    "c": 10,
+    "v": 4,
+    "t": "If the spirit of the ruler rises up against you, do not leave your place; for yielding pacifies great offenses.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "33010005",
+    "b": 33,
+    "c": 10,
+    "v": 5,
+    "t": "There is an evil I have seen under the sun, like an error which comes from a despot’s presence;",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "33010006",
+    "b": 33,
+    "c": 10,
+    "v": 6,
+    "t": "When foolishness is set in great dignity, and the rich sit in a low place.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "33010007",
+    "b": 33,
+    "c": 10,
+    "v": 7,
+    "t": "I have seen servants on horses and princes walking as servants on the earth.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "33010008",
+    "b": 33,
+    "c": 10,
+    "v": 8,
+    "t": "He who digs a pit shall fall into it; and whoever breaks through a wall, a snake shall bite him.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "33010009",
+    "b": 33,
+    "c": 10,
+    "v": 9,
+    "t": "Whoever removes stones shall be hurt with them. He who splits wood shall be endangered by it.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "33010010",
+    "b": 33,
+    "c": 10,
+    "v": 10,
+    "t": "If the iron is blunt, and he does not whet the edge, then he must put more strength to it. But wisdom is profitable to direct.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "33010011",
+    "b": 33,
+    "c": 10,
+    "v": 11,
+    "t": "If the snake bites before it is charmed, then the charmer has no advantage.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "33010012",
+    "b": 33,
+    "c": 10,
+    "v": 12,
+    "t": "The words of a wise man’s mouth are gracious; but the lips of a fool will swallow up himself.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "33010013",
+    "b": 33,
+    "c": 10,
+    "v": 13,
+    "t": "The beginning of the words of his mouth is foolishness; and the end of his talk is extreme folly.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "33010014",
+    "b": 33,
+    "c": 10,
+    "v": 14,
+    "t": "A fool also makes many words; a man does not know what shall be; and what shall be after him, who can tell him?",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "33010015",
+    "b": 33,
+    "c": 10,
+    "v": 15,
+    "t": "The labor of fools wearies him, because he does not know how to go to the city.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "33010016",
+    "b": 33,
+    "c": 10,
+    "v": 16,
+    "t": "Woe to you, O land, when your king is a child and your princes eat in the morning.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "33010017",
+    "b": 33,
+    "c": 10,
+    "v": 17,
+    "t": "Blessed are you, O land, when your king is the son of nobles, and your leaders eat at the set time, for strength, and not for drunkenness!",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "33010018",
+    "b": 33,
+    "c": 10,
+    "v": 18,
+    "t": "By slothfulness the building decays; and through idleness of the hands the house drops.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "33010019",
+    "b": 33,
+    "c": 10,
+    "v": 19,
+    "t": "A feast is made for laughter, and wine makes merry; but money answers all things.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "33010020",
+    "b": 33,
+    "c": 10,
+    "v": 20,
+    "t": "Do not curse a king, no, not even in your thought; and do not curse the rich in your bedroom; for a bird of the air shall carry the voice, and that which has wings shall tell the matter.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "33011001",
+    "b": 33,
+    "c": 11,
+    "v": 1,
+    "t": "Cast your bread upon the waters; for you shall find it after many days.",
+    "h": "CHAPTER ELEVEN",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "33011002",
+    "b": 33,
+    "c": 11,
+    "v": 2,
+    "t": "Give a share to seven, and also to eight; for you know not what evil shall be upon the earth.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "33011003",
+    "b": 33,
+    "c": 11,
+    "v": 3,
+    "t": "If the clouds are full of rain, they empty themselves upon the earth; and if the tree falls toward the south, or toward the north, in the place where the tree falls, there it shall be.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "33011004",
+    "b": 33,
+    "c": 11,
+    "v": 4,
+    "t": "He who watches the wind shall not sow; and he who regards the clouds shall not reap.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "33011005",
+    "b": 33,
+    "c": 11,
+    "v": 5,
+    "t": "As you do not know what is the way of the spirit, or how the bones grow in the pregnant woman’s womb; even so you do not know the works of God Who makes all.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "33011006",
+    "b": 33,
+    "c": 11,
+    "v": 6,
+    "t": "In the morning sow your seed, and in the evening do not withhold your hand; for you do not know what shall be blessed, either this or that, or whether they both shall be fruitful in the same way.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "33011007",
+    "b": 33,
+    "c": 11,
+    "v": 7,
+    "t": "And the light is sweet, and it is a pleasant thing for the eyes to behold the sun;",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "33011008",
+    "b": 33,
+    "c": 11,
+    "v": 8,
+    "t": "But if a man lives many years, and rejoices in them all; yet let him remember the days of darkness, for they shall be many. All that comes is vanity.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "33011009",
+    "b": 33,
+    "c": 11,
+    "v": 9,
+    "t": "Rejoice, in your youth, O young man; and let your heart cheer you in the days of your youth, and walk in the ways of your heart, and in the sight of your eyes; but know that for all these things God will bring you into judgment.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "33011010",
+    "b": 33,
+    "c": 11,
+    "v": 10,
+    "t": "Therefore remove vexation from your heart, and put away evil from your flesh; for youth and vigor are vanity.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "33012001",
+    "b": 33,
+    "c": 12,
+    "v": 1,
+    "t": "Remember now your Creator in the days of your youth, before the evil days come, and the years of old age draw near, when you shall say, “I have no pleasure in them.”",
+    "h": "CHAPTER TWELVE",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "33012002",
+    "b": 33,
+    "c": 12,
+    "v": 2,
+    "t": "When the sun, or the light, or the moon, or the stars, are darkened, or the clouds return after rain,",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "33012003",
+    "b": 33,
+    "c": 12,
+    "v": 3,
+    "t": "In the day when the keepers of the house shall tremble, and the strong men are stooped over, and the grinders cease because they are few, and the eyes of those who look out of the windows grow dim,",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "33012004",
+    "b": 33,
+    "c": 12,
+    "v": 4,
+    "t": "And the doors shall be shut in the streets, when the sound of the grinding is low, and you shall rise up at the voice of a bird, and all the daughters of music shall be brought low;",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "33012005",
+    "b": 33,
+    "c": 12,
+    "v": 5,
+    "t": "Also when they are afraid of heights, and terrors along the way, and the almond tree shall blossom, and the grasshopper shall be a burden, and desire shall fail; because man goes to his long home, and the mourners go about the streets;",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "33012006",
+    "b": 33,
+    "c": 12,
+    "v": 6,
+    "t": "Before the silver cord is loosed, or the golden bowl is broken, or the pitcher is broken at the fountain, or the wheel broken at the cistern;",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "33012007",
+    "b": 33,
+    "c": 12,
+    "v": 7,
+    "t": "And the dust returns to the earth as it was, and the spirit returns to God who gave it.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "33012008",
+    "b": 33,
+    "c": 12,
+    "v": 8,
+    "t": "“Vanity of vanities,” says the Preacher; “all is vanity.”",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "33012009",
+    "b": 33,
+    "c": 12,
+    "v": 9,
+    "t": "And more than that, the Preacher was wise; he still taught the people knowledge. Yea, he pondered and sought out and set in order many proverbs.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "33012010",
+    "b": 33,
+    "c": 12,
+    "v": 10,
+    "t": "The Preacher sought to find out pleasing words; and words of truth written by the upright.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "33012011",
+    "b": 33,
+    "c": 12,
+    "v": 11,
+    "t": "The words of the wise men are like goads; yea, their collected words are like nails driven home; given by one Shepherd.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "33012012",
+    "b": 33,
+    "c": 12,
+    "v": 12,
+    "t": "And further, by these, my son, be warned. Of the making of many books there is no end, and much study is a weariness of the flesh.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "33012013",
+    "b": 33,
+    "c": 12,
+    "v": 13,
+    "t": "Let us hear the conclusion of the whole matter: Fear God, and keep His commandments. For this is the whole man.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "33012014",
+    "b": 33,
+    "c": 12,
+    "v": 14,
+    "t": "For God shall bring every work into judgment, concerning every secret thing, whether it is good, or whether it is evil.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  }
+]

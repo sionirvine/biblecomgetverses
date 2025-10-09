@@ -1,0 +1,5562 @@
+[
+    {
+        "id": "7001001",
+        "b": 7,
+        "c": 1,
+        "v": 1,
+        "t": "SESUDAH Yosua meninggal dunia, bangsa Israel menghadap TUHAN untuk minta petunjuk-Nya. \"Suku manakah di antara kami yang harus pergi berperang terlebih dahulu melawan orang-orang Kanaan?\" tanya mereka.",
+        "h": "Orang Israel berperang dengan sisa orang Kanaan",
+        "o": 1,
+        "l": "1"
+    },
+    {
+        "id": "7001002",
+        "b": 7,
+        "c": 1,
+        "v": 2,
+        "t": "TUHAN menjawab, \"Suku Yehuda. Aku akan memberi kemenangan yang besar kepada mereka karena negeri itu telah Kuserahkan ke tangan mereka.\"",
+        "h": "",
+        "o": 2,
+        "l": "2"
+    },
+    {
+        "id": "7001003",
+        "b": 7,
+        "c": 1,
+        "v": 3,
+        "t": "Tetapi para pemimpin suku Yehuda minta bantuan suku Simeon. \"Ikutlah dengan kami untuk mengusir orang-orang yang diam di daerah bagian kami,\" kata mereka, \"kelak kami akan menolong kalian menaklukkan orang-orang yang diam di daerah bagian kalian.\" Demikianlah bala tentara Simeon ikut dengan bala tentara Yehuda.",
+        "h": "",
+        "o": 3,
+        "l": "3"
+    },
+    {
+        "id": "7001004",
+        "b": 7,
+        "c": 1,
+        "v": 4,
+        "t": "TUHAN menolong mereka mengalahkan orang Kanaan dan orang Feris sehingga sepuluh ribu orang musuh terbunuh di dekat Bezek. Raja Adoni-Bezek melarikan diri, tetapi bala tentara bangsa Israel dapat segera menangkap dia dan memotong jempol tangan dan jempol kakinya.",
+        "h": "",
+        "o": 4,
+        "l": "4-6"
+    },
+    {
+        "id": "7001005",
+        "b": 7,
+        "c": 1,
+        "v": 7,
+        "t": "\"Aku telah memperlakukan tujuh puluh orang raja dengan cara yang sama seperti ini dan memberi mereka makan remah-remah yang jatuh dari mejaku ke lantai!\" kata Raja Adoni-Bezek. \"Sekarang Allah membalas aku.\" Setelah itu ia dibawa ke Yerusalem dan mati di sana.",
+        "h": "",
+        "o": 5,
+        "l": "7"
+    },
+    {
+        "id": "7001006",
+        "b": 7,
+        "c": 1,
+        "v": 8,
+        "t": "Yehuda telah menaklukkan Yerusalem dan membunuh semua penduduknya, lalu membakar kota itu.",
+        "h": "",
+        "o": 6,
+        "l": "8"
+    },
+    {
+        "id": "7001007",
+        "b": 7,
+        "c": 1,
+        "v": 9,
+        "t": "Sesudah itu bala tentara Yehuda memerangi orang-orang Kanaan di daerah pegunungan dan di Negeb, juga di dataran rendah.",
+        "h": "",
+        "o": 7,
+        "l": "9"
+    },
+    {
+        "id": "7001008",
+        "b": 7,
+        "c": 1,
+        "v": 10,
+        "t": "Lalu suku Yehuda menyerbu orang Kanaan di Hebron yang dulu disebut Kiryat-Arba, dan menghancurkan kota-kota Sesai, Ahiman, dan Talmai.",
+        "h": "",
+        "o": 8,
+        "l": "10"
+    },
+    {
+        "id": "7001009",
+        "b": 7,
+        "c": 1,
+        "v": 11,
+        "t": "Dari situ mereka menyerang Kota Debir yang dulu disebut Kiryat-Sefer.",
+        "h": "",
+        "o": 9,
+        "l": "11"
+    },
+    {
+        "id": "7001010",
+        "b": 7,
+        "c": 1,
+        "v": 12,
+        "t": "\"Siapa saja yang mau memimpin penyerbuan ke Debir dan dapat menaklukkannya akan kuberi putriku, Akhsa, sebagai istrinya!\" kata Kaleb.",
+        "h": "",
+        "o": 10,
+        "l": "12"
+    },
+    {
+        "id": "7001011",
+        "b": 7,
+        "c": 1,
+        "v": 13,
+        "t": "Kemenakan Kaleb, yaitu Otniel, putra Kenas adik Kaleb, mengajukan diri untuk memimpin penyerangan itu. Ia berhasil menaklukkan kota itu dan memperoleh Akhsa sebagai istrinya.",
+        "h": "",
+        "o": 11,
+        "l": "13"
+    },
+    {
+        "id": "7001012",
+        "b": 7,
+        "c": 1,
+        "v": 14,
+        "t": "Pada waktu mereka akan berangkat menuju ke tempat kediaman mereka yang baru, Akhsa mendesak Otniel agar mengizinkan dia minta tambahan tanah kepada ayahnya. Lalu ia turun dari keledainya dan pergi menemui Kaleb. \"Apakah yang kauinginkan?\" tanya Kaleb.",
+        "h": "",
+        "o": 12,
+        "l": "14"
+    },
+    {
+        "id": "7001013",
+        "b": 7,
+        "c": 1,
+        "v": 15,
+        "t": "Akhsa menjawab, \"Ayah telah bersikap cukup baik dengan memberikan tanah yang di Negeb kepadaku, tetapi berilah kami beberapa mata air juga.\" Maka Kaleb memberikan kepadanya mata air yang di hulu dan yang di hilir.",
+        "h": "",
+        "o": 13,
+        "l": "15"
+    },
+    {
+        "id": "7001014",
+        "b": 7,
+        "c": 1,
+        "v": 16,
+        "t": "Ketika suku Yehuda memasuki tanah mereka yang baru di Padang Gurun Negeb di sebelah selatan Arad, keturunan ayah mertua Musa (yaitu keturunan Hobab, ipar Musa), orang Keni, menyertai mereka. Orang-orang itu meninggalkan tempat kediaman mereka di Yerikho, 'Kota Pohon Kurma', dan akhirnya kedua suku itu hidup bersama-sama.",
+        "h": "",
+        "o": 14,
+        "l": "16"
+    },
+    {
+        "id": "7001015",
+        "b": 7,
+        "c": 1,
+        "v": 17,
+        "t": "Kemudian bala tentara Yehuda bergabung dengan bala tentara Simeon untuk memerangi orang Kanaan di Kota Zefat. Mereka menumpas segenap penduduknya. Sekarang kota itu disebut Horma, artinya 'penumpasan secara besar-besaran'.",
+        "h": "",
+        "o": 15,
+        "l": "17"
+    },
+    {
+        "id": "7001016",
+        "b": 7,
+        "c": 1,
+        "v": 18,
+        "t": "Bala tentara Yehuda juga menaklukkan kota-kota Gaza, Askelon, dan Ekron dengan desa-desa di sekitarnya.",
+        "h": "",
+        "o": 16,
+        "l": "18"
+    },
+    {
+        "id": "7001017",
+        "b": 7,
+        "c": 1,
+        "v": 19,
+        "t": "TUHAN menolong suku Yehuda menumpas orang-orang di daerah pegunungan. Tetapi mereka tidak berhasil menaklukkan orang-orang yang di lembah, yang mempunyai kereta-kereta besi.",
+        "h": "",
+        "o": 17,
+        "l": "19"
+    },
+    {
+        "id": "7001018",
+        "b": 7,
+        "c": 1,
+        "v": 20,
+        "t": "Kota Hebron diberikan kepada Kaleb sebagaimana telah dijanjikan TUHAN melalui Musa. Kaleb mengusir penduduknya, yaitu ketiga putra Enak dengan keturunan mereka.",
+        "h": "",
+        "o": 18,
+        "l": "20"
+    },
+    {
+        "id": "7001019",
+        "b": 7,
+        "c": 1,
+        "v": 21,
+        "t": "Suku Benyamin tidak menumpas orang-orang Yebus yang tinggal di Yerusalem. Karena itu mereka masih tinggal di situ sampai sekarang, bercampur dengan orang Israel.",
+        "h": "",
+        "o": 19,
+        "l": "21"
+    },
+    {
+        "id": "7001020",
+        "b": 7,
+        "c": 1,
+        "v": 22,
+        "t": "Suku Yusuf menyerang Kota Betel yang dulu dikenal dengan nama Lus, dan TUHAN menyertai mereka. Mula-mula mereka mengirimkan beberapa pengintai.",
+        "h": "",
+        "o": 20,
+        "l": "22-23"
+    },
+    {
+        "id": "7001021",
+        "b": 7,
+        "c": 1,
+        "v": 24,
+        "t": "Para pengintai itu menangkap seorang pria yang sedang berjalan keluar dari kota. Mereka berjanji akan menyelamatkan nyawanya dan nyawa seluruh keluarganya, apabila ia mau menunjukkan kepada mereka jalan masuk ke kota itu.",
+        "h": "",
+        "o": 21,
+        "l": "24"
+    },
+    {
+        "id": "7001022",
+        "b": 7,
+        "c": 1,
+        "v": 25,
+        "t": "Orang itu menunjukkan bagaimana caranya memasuki kota dan mereka menumpas segenap penduduknya, kecuali orang itu serta kaum keluarganya.",
+        "h": "",
+        "o": 22,
+        "l": "25"
+    },
+    {
+        "id": "7001023",
+        "b": 7,
+        "c": 1,
+        "v": 26,
+        "t": "Kemudian orang itu pindah ke Tanah Het (Siria) dan mendirikan sebuah kota di situ. Kota itu diberi nama Lus juga, sampai sekarang.",
+        "h": "",
+        "o": 23,
+        "l": "26"
+    },
+    {
+        "id": "7001024",
+        "b": 7,
+        "c": 1,
+        "v": 27,
+        "t": "Suku Manasye tidak mengusir orang-orang yang diam di Bet-Sean, Taanakh, Dor, Yibleam, Megido, dengan daerah-daerah sekitarnya; maka orang-orang Kanaan yang tinggal di situ masih tetap ada.",
+        "h": "",
+        "o": 24,
+        "l": "27"
+    },
+    {
+        "id": "7001025",
+        "b": 7,
+        "c": 1,
+        "v": 28,
+        "t": "Pada tahun-tahun berikutnya, orang-orang Israel bertambah kuat dan memperbudak orang-orang Kanaan itu, tetapi tidak pernah memaksa mereka untuk meninggalkan negeri itu.",
+        "h": "",
+        "o": 25,
+        "l": "28"
+    },
+    {
+        "id": "7001026",
+        "b": 7,
+        "c": 1,
+        "v": 29,
+        "t": "Demikian juga suku Efraim tidak mengusir orang-orang Kanaan yang tinggal di Gezer. Orang-orang itu tetap tinggal di antara suku Efraim.",
+        "h": "",
+        "o": 26,
+        "l": "29"
+    },
+    {
+        "id": "7001027",
+        "b": 7,
+        "c": 1,
+        "v": 30,
+        "t": "Suku Zebulon tidak menumpas orang-orang Kitron atau orang Nahalol, tetapi menjadikan orang-orang itu budak-budak mereka.",
+        "h": "",
+        "o": 27,
+        "l": "30"
+    },
+    {
+        "id": "7001028",
+        "b": 7,
+        "c": 1,
+        "v": 31,
+        "t": "Suku Asyer juga tidak mengusir penduduk Ako, Sidon, Ahlab, Akhzib, Helba, Afek, dan Rehob. Jadi, orang-orang Israel hidup di antara orang-orang Kanaan, penduduk asli negeri itu.",
+        "h": "",
+        "o": 28,
+        "l": "31-32"
+    },
+    {
+        "id": "7001029",
+        "b": 7,
+        "c": 1,
+        "v": 33,
+        "t": "Suku Naftali tidak mengusir penduduk Bet-Semes atau Bet-Anat, dan orang-orang itu tetap tinggal di antara mereka sebagai budak.",
+        "h": "",
+        "o": 29,
+        "l": "33"
+    },
+    {
+        "id": "7001030",
+        "b": 7,
+        "c": 1,
+        "v": 34,
+        "t": "Suku Dan telah didesak oleh orang-orang Amori ke daerah pegunungan dan tidak dibiarkan turun ke lembah.",
+        "h": "",
+        "o": 30,
+        "l": "34"
+    },
+    {
+        "id": "7001031",
+        "b": 7,
+        "c": 1,
+        "v": 35,
+        "t": "Tetapi, ketika orang-orang Amori itu kemudian terpencar ke Har-Heres (Gunung Heres), Ayalon, dan Saalbim, suku Yusuf menaklukkan mereka dan menjadikan mereka budak.",
+        "h": "",
+        "o": 31,
+        "l": "35"
+    },
+    {
+        "id": "7001032",
+        "b": 7,
+        "c": 1,
+        "v": 36,
+        "t": "Perbatasan orang-orang Amori mulai dari pendakian Akrabim (Terusan Kala) ke tempat yang disebut Sela (Batu Karang), dan terus ke daerah di atasnya.",
+        "h": "",
+        "o": 32,
+        "l": "36"
+    },
+    {
+        "id": "7002001",
+        "b": 7,
+        "c": 2,
+        "v": 1,
+        "t": "PADA suatu hari Malaikat TUHAN pergi dari Gilgal ke Bokhim dan berkata kepada orang-orang Israel, \"Aku telah membawa kamu keluar dari Mesir ke tanah ini yang Kujanjikan kepada nenek moyangmu. Dan Aku telah berfirman bahwa Aku tidak akan melanggar janji-Ku kepadamu,",
+        "h": "Malaikat TUHAN memberi peringatan di Bokhim",
+        "o": 1,
+        "l": "1"
+    },
+    {
+        "id": "7002002",
+        "b": 7,
+        "c": 2,
+        "v": 2,
+        "t": "kalau kamu tidak mengadakan perjanjian damai dengan orang-orang yang mendiami tanah ini. Bukankah Aku sudah menyuruh kamu menghancurkan mezbah-mezbah berhala mereka? Mengapa kamu tidak menaatinya?",
+        "h": "",
+        "o": 2,
+        "l": "2"
+    },
+    {
+        "id": "7002003",
+        "b": 7,
+        "c": 2,
+        "v": 3,
+        "t": "Sekarang, karena kamu telah melanggar perjanjian itu, maka perjanjian itu tidak berlaku lagi. Aku tidak lagi berjanji untuk menumpas bangsa-bangsa yang tinggal di negerimu, malah mereka akan menjadi duri di dalam dagingmu. Berhala-berhala mereka akan selalu menjadi perangkap bagimu.\"",
+        "h": "",
+        "o": 3,
+        "l": "3"
+    },
+    {
+        "id": "7002004",
+        "b": 7,
+        "c": 2,
+        "v": 4,
+        "t": "Bangsa Israel menangis dengan keras mendengar perkataan Malaikat itu.",
+        "h": "",
+        "o": 4,
+        "l": "4"
+    },
+    {
+        "id": "7002005",
+        "b": 7,
+        "c": 2,
+        "v": 5,
+        "t": "Maka tempat itu diberi nama Bokhim (artinya 'Tempat orang-orang menangis'). Di situ mereka mempersembahkan kurban kepada TUHAN.",
+        "h": "",
+        "o": 5,
+        "l": "5"
+    },
+    {
+        "id": "7002006",
+        "b": 7,
+        "c": 2,
+        "v": 6,
+        "t": "Ketika Yosua akhirnya membubarkan bala tentara Israel, setiap suku pulang ke tanah milik mereka masing-masing yang baru.",
+        "h": "Ketidaktaatan bangsa Israel dan kekalahan mereka",
+        "o": 6,
+        "l": "6"
+    },
+    {
+        "id": "7002007",
+        "b": 7,
+        "c": 2,
+        "v": 7,
+        "t": "Yosua, hamba Allah itu, meninggal dunia pada usia 110 tahun, dan dikuburkan di perbatasan tanah miliknya, di Timnat-Heres di daerah Pegunungan Efraim, di sebelah utara Gunung Gaas. Bangsa Israel setia kepada TUHAN selama Yosua hidup, dan selama orang-orang tua dari generasi Yosua masih hidup -- yaitu orang-orang yang telah melihat mujizat-mujizat besar yang telah dilakukan TUHAN bagi bangsa Israel.",
+        "h": "",
+        "o": 7,
+        "l": "7-9"
+    },
+    {
+        "id": "7002008",
+        "b": 7,
+        "c": 2,
+        "v": 10,
+        "t": "Tetapi generasi itu akhirnya habis. Generasi yang berikutnya tidak menyembah TUHAN, sebagai Allah mereka, dan tidak mempedulikan segala mujizat yang telah dilakukan-Nya bagi bangsa Israel.",
+        "h": "",
+        "o": 8,
+        "l": "10"
+    },
+    {
+        "id": "7002009",
+        "b": 7,
+        "c": 2,
+        "v": 11,
+        "t": "Mereka melakukan banyak perkara yang jahat dalam pandangan TUHAN dan beribadah kepada berhala-berhala yang disembah penduduk sekitarnya.",
+        "h": "",
+        "o": 9,
+        "l": "11"
+    },
+    {
+        "id": "7002010",
+        "b": 7,
+        "c": 2,
+        "v": 12,
+        "t": "Mereka meninggalkan Yahweh, Allah yang dikasihi dan disembah oleh nenek moyang mereka, Allah yang telah membawa mereka keluar dari Mesir. Kemudian mereka menyembah dan sujud di hadapan berhala-berhala bangsa-bangsa tetangga mereka. Sebab itu murka TUHAN menimpa seluruh bangsa Israel. Ia membiarkan mereka jatuh ke tangan musuh-musuh mereka karena mereka telah meninggalkan Yahweh, TUHAN, dan menyembah berhala-berhala, Baal dan Asytoret.",
+        "h": "",
+        "o": 10,
+        "l": "12-14"
+    },
+    {
+        "id": "7002011",
+        "b": 7,
+        "c": 2,
+        "v": 15,
+        "t": "Sejak itu, apabila bangsa Israel pergi berperang melawan musuh-musuh mereka, TUHAN tidak lagi memihak mereka. Hal ini telah diberitahukan sebelumnya kepada mereka, bahkan telah diperingatkan oleh TUHAN kepada mereka dengan sumpah. Namun demikian, ketika bangsa Israel mengalami keadaan yang menyedihkan itu,",
+        "h": "",
+        "o": 11,
+        "l": "15"
+    },
+    {
+        "id": "7002012",
+        "b": 7,
+        "c": 2,
+        "v": 16,
+        "t": "TUHAN mengangkat hakim-hakim untuk menyelamatkan mereka dari musuh.",
+        "h": "",
+        "o": 12,
+        "l": "16"
+    },
+    {
+        "id": "7002013",
+        "b": 7,
+        "c": 2,
+        "v": 17,
+        "t": "Tetapi orang Israel tidak mau mendengarkan hakim-hakim itu, melainkan mengingkari iman mereka kepada TUHAN dengan menyembah berhala-berhala. Betapa cepatnya mereka berbalik dari iman yang benar, yang dianut oleh nenek moyang mereka; mereka tidak lagi menaati perintah-perintah Allah.",
+        "h": "",
+        "o": 13,
+        "l": "17"
+    },
+    {
+        "id": "7002014",
+        "b": 7,
+        "c": 2,
+        "v": 18,
+        "t": "Setiap hakim itu pada masa hidupnya membebaskan orang Israel dari musuh-musuh mereka, karena TUHAN merasa kasihan mendengar keluhan umat-Nya yang sangat tertindas itu. TUHAN menolong mereka selama hakim itu hidup.",
+        "h": "",
+        "o": 14,
+        "l": "18"
+    },
+    {
+        "id": "7002015",
+        "b": 7,
+        "c": 2,
+        "v": 19,
+        "t": "Tetapi, apabila hakim itu meninggal, bangsa Israel tidak lagi melakukan apa yang benar, malah berkelakuan lebih buruk daripada nenek moyang mereka. Mereka kembali menyembah berhala-berhala bangsa yang tidak mengenal Allah, sambil sujud tersungkur di tanah. Dengan keras hati mereka kembali mengikuti adat istiadat bangsa-bangsa di sekitar mereka.",
+        "h": "",
+        "o": 15,
+        "l": "19"
+    },
+    {
+        "id": "7002016",
+        "b": 7,
+        "c": 2,
+        "v": 20,
+        "t": "Lalu murka TUHAN menimpa bangsa Israel lagi. TUHAN berfirman, \"Karena bangsa ini telah melanggar perjanjian yang Kuadakan dengan nenek moyang mereka dan mereka tidak mau mendengar firman-Ku,",
+        "h": "",
+        "o": 16,
+        "l": "20"
+    },
+    {
+        "id": "7002017",
+        "b": 7,
+        "c": 2,
+        "v": 21,
+        "t": "maka Aku tidak akan mengusir bangsa-bangsa yang masih belum ditaklukkan pada waktu Yosua meninggal.",
+        "h": "",
+        "o": 17,
+        "l": "21"
+    },
+    {
+        "id": "7002018",
+        "b": 7,
+        "c": 2,
+        "v": 22,
+        "t": "Malah Aku akan memakai bangsa-bangsa itu untuk menguji umat-Ku, untuk mengetahui apakah umat-Ku mau setia menaati TUHAN seperti nenek moyang mereka, atau tidak.\"",
+        "h": "",
+        "o": 18,
+        "l": "22"
+    },
+    {
+        "id": "7002019",
+        "b": 7,
+        "c": 2,
+        "v": 23,
+        "t": "Demikianlah TUHAN membiarkan bangsa-bangsa lain tinggal di negeri itu. Ia tidak mengusir mereka dan tidak membiarkan orang Israel menumpas mereka.",
+        "h": "",
+        "o": 19,
+        "l": "23"
+    },
+    {
+        "id": "7003001",
+        "b": 7,
+        "c": 3,
+        "v": 1,
+        "t": "INILAH daftar bangsa-bangsa yang dibiarkan TUHAN tinggal di negeri itu untuk menguji generasi bangsa Israel yang baru, yang tidak mengalami peperangan di Kanaan. TUHAN ingin memberi kesempatan kepada generasi muda Israel itu untuk mendapat pengalaman dalam berperang dan menaklukkan musuh-musuh mereka melalui iman dan ketaatan mereka. Bangsa-bangsa lain itu ialah: Orang Filistin (lima buah kota), Orang Kanaan, Orang Sidon, Orang Hewi yang tinggal di Gunung Libanon, dari Baal-Hermon sampai ke jalan masuk ke Hamat.",
+        "h": "Israel di antara bangsa-bangsa penyembah berhala",
+        "o": 1,
+        "l": "1-3"
+    },
+    {
+        "id": "7003002",
+        "b": 7,
+        "c": 3,
+        "v": 4,
+        "t": "Orang-orang itu menjadi batu ujian bagi generasi baru bangsa Israel, untuk melihat apakah mereka mau atau tidak mau menaati perintah-perintah TUHAN yang diberikan Musa kepada mereka.",
+        "h": "",
+        "o": 2,
+        "l": "4"
+    },
+    {
+        "id": "7003003",
+        "b": 7,
+        "c": 3,
+        "v": 5,
+        "t": "Demikianlah bangsa Israel hidup di antara orang Kanaan, orang Het, orang Amori, orang Feris, orang Hewi, dan orang Yebus.",
+        "h": "",
+        "o": 3,
+        "l": "5"
+    },
+    {
+        "id": "7003004",
+        "b": 7,
+        "c": 3,
+        "v": 6,
+        "t": "Bangsa Israel tidak menumpas mereka, malah menikah dengan mereka. Pemuda Israel memperistri gadis bangsa itu, dan gadis Israel menikah dengan pemuda bangsa itu. Tidak lama kemudian orang Israel turut menyembah segala allah orang-orang itu.",
+        "h": "",
+        "o": 4,
+        "l": "6"
+    },
+    {
+        "id": "7003005",
+        "b": 7,
+        "c": 3,
+        "v": 7,
+        "t": "Bangsa Israel sangat jahat dalam pandangan Allah, karena mereka telah berbalik melawan Yahweh, TUHAN, Allah mereka, dan menyembah Baal serta berhala-berhala Asyera.",
+        "h": "Otniel, anak Kenas",
+        "o": 5,
+        "l": "7"
+    },
+    {
+        "id": "7003006",
+        "b": 7,
+        "c": 3,
+        "v": 8,
+        "t": "Lalu murka TUHAN menimpa bangsa Israel, sehingga Ia membiarkan Raja Kusyan-Risyataim dari Aram-Mesopotamia (Siria sebelah timur) menaklukkan mereka. Mereka dijajah olehnya selama delapan tahun.",
+        "h": "",
+        "o": 6,
+        "l": "8"
+    },
+    {
+        "id": "7003007",
+        "b": 7,
+        "c": 3,
+        "v": 9,
+        "t": "Tetapi, ketika bangsa Israel berseru kepada TUHAN, Ia membangkitkan seorang penyelamat untuk menolong mereka, yaitu Otniel, putra Kenas adik Kaleb.",
+        "h": "",
+        "o": 7,
+        "l": "9"
+    },
+    {
+        "id": "7003008",
+        "b": 7,
+        "c": 3,
+        "v": 10,
+        "t": "Roh TUHAN menguasai dia, dan Otniel menjadi hakim bangsa Israel. (Ia memperbaiki serta menyucikan mereka.) Ketika ia memimpin bala tentara Israel untuk melawan bala tentara Raja Kusyan-Risyataim, TUHAN menolong bangsa Israel mengalahkan raja itu.",
+        "h": "",
+        "o": 8,
+        "l": "10"
+    },
+    {
+        "id": "7003009",
+        "b": 7,
+        "c": 3,
+        "v": 11,
+        "t": "Di bawah pimpinan Otniel negeri itu aman dan tentram selama empat puluh tahun. Kemudian Otniel meninggal.",
+        "h": "",
+        "o": 9,
+        "l": "11"
+    },
+    {
+        "id": "7003010",
+        "b": 7,
+        "c": 3,
+        "v": 12,
+        "t": "Lalu bangsa Israel kembali lagi ke jalan mereka yang berdosa. Maka TUHAN membiarkan Eglon raja Moab berkuasa atas Israel.",
+        "h": "Ehud",
+        "o": 10,
+        "l": "12"
+    },
+    {
+        "id": "7003011",
+        "b": 7,
+        "c": 3,
+        "v": 13,
+        "t": "Bala tentara Amon dan Amalek bergabung dengan dia. Mereka berhasil menaklukkan bangsa Israel dan menduduki Yerikho, yang disebut 'Kota Pohon Kurma'.",
+        "h": "",
+        "o": 11,
+        "l": "13"
+    },
+    {
+        "id": "7003012",
+        "b": 7,
+        "c": 3,
+        "v": 14,
+        "t": "Selama delapan belas tahun bangsa Israel diharuskan membayar pajak yang sangat berat kepada Raja Eglon.",
+        "h": "",
+        "o": 12,
+        "l": "14"
+    },
+    {
+        "id": "7003013",
+        "b": 7,
+        "c": 3,
+        "v": 15,
+        "t": "Tetapi, ketika mereka berseru kepada TUHAN, Ia mengutus seorang penyelamat kepada mereka, yaitu Ehud putra Gera orang Benyamin. Ehud seorang yang kidal. Ia terpilih untuk membawa pajak tahunan bangsa Israel ke ibu kota Moab.",
+        "h": "",
+        "o": 13,
+        "l": "15"
+    },
+    {
+        "id": "7003014",
+        "b": 7,
+        "c": 3,
+        "v": 16,
+        "t": "Sebelum berangkat ia membuat belati bermata dua yang panjangnya kira-kira sehasta (45 sentimeter) dan menyembunyikannya di balik pakaiannya, diikat pada paha kanannya.",
+        "h": "",
+        "o": 14,
+        "l": "16"
+    },
+    {
+        "id": "7003015",
+        "b": 7,
+        "c": 3,
+        "v": 17,
+        "t": "Sesudah ia menyerahkan uang itu kepada Raja Eglon yang sangat gemuk, ia mengajak orang-orangnya pulang. Tetapi, ketika mereka sampai di luar kota, di tempat tambang batu di Gilgal, ia menyuruh orang-orangnya meneruskan perjalanan pulang, sedangkan ia sendiri kembali kepada raja itu. \"Aku mempunyai sebuah pesan rahasia untuk Baginda,\" katanya kepada raja itu. Raja Eglon segera menyuruh pergi semua orang yang berada di situ supaya ia dapat berbicara berdua saja dengan Ehud.",
+        "h": "",
+        "o": 15,
+        "l": "17-19"
+    },
+    {
+        "id": "7003016",
+        "b": 7,
+        "c": 3,
+        "v": 20,
+        "t": "Lalu Ehud mendekati raja itu yang sedang duduk di ruang atas yang sejuk, di ruang peranginan, dan berkata kepadanya, \"Pesan itu dari Allah!\" Maka Raja Eglon segera bangkit berdiri untuk menerima pesan itu.",
+        "h": "",
+        "o": 16,
+        "l": "20"
+    },
+    {
+        "id": "7003017",
+        "b": 7,
+        "c": 3,
+        "v": 21,
+        "t": "Ehud memasukkan tangan kirinya yang kuat ke dalam jubahnya untuk mencabut belati bermata dua yang terikat pada paha kanannya itu, lalu menikamkannya ke perut raja.",
+        "h": "",
+        "o": 17,
+        "l": "21"
+    },
+    {
+        "id": "7003018",
+        "b": 7,
+        "c": 3,
+        "v": 22,
+        "t": "Gagang belati itu lenyap di bawah daging raja itu, dan tertutup oleh lemak perutnya sementara isi perutnya terburai. Ehud membiarkan belati itu di situ, lalu ia mengunci pintu dan menyingkir dari serambi loteng.",
+        "h": "",
+        "o": 18,
+        "l": "22-23"
+    },
+    {
+        "id": "7003019",
+        "b": 7,
+        "c": 3,
+        "v": 24,
+        "t": "Ketika hamba-hamba raja itu kembali dan melihat pintu ruang itu terkunci, mereka menunggu di luar, karena mengira bahwa raja mereka sedang ke kamar mandi.",
+        "h": "",
+        "o": 19,
+        "l": "24"
+    },
+    {
+        "id": "7003020",
+        "b": 7,
+        "c": 3,
+        "v": 25,
+        "t": "Tetapi, setelah lama menunggu dan raja tidak keluar juga, mereka menjadi kuatir lalu mengambil kunci. Ketika pintu terbuka mereka menemukan raja mereka terkapar di lantai tak bernyawa.",
+        "h": "",
+        "o": 20,
+        "l": "25"
+    },
+    {
+        "id": "7003021",
+        "b": 7,
+        "c": 3,
+        "v": 26,
+        "t": "Sementara itu Ehud berhasil meloloskan diri melewati tambang batu di Seira.",
+        "h": "",
+        "o": 21,
+        "l": "26"
+    },
+    {
+        "id": "7003022",
+        "b": 7,
+        "c": 3,
+        "v": 27,
+        "t": "Ketika ia tiba di daerah Pegunungan Efraim, ia meniup trompetnya sebagai aba-aba agar orang-orangnya berkumpul dengan bersenjata lengkap. Lalu ia mengepalai mereka turun bersama-sama dari situ.",
+        "h": "",
+        "o": 22,
+        "l": "27"
+    },
+    {
+        "id": "7003023",
+        "b": 7,
+        "c": 3,
+        "v": 28,
+        "t": "\"Ikutlah aku,\" perintahnya, \"karena TUHAN telah menyerahkan musuh kalian, orang-orang Moab itu, ke dalam tangan kalian!\" Pasukan itu maju dan merebut benteng pertahanan di Sungai Yordan di dekat Moab, sehingga orang tidak dapat menyeberang.",
+        "h": "",
+        "o": 23,
+        "l": "28"
+    },
+    {
+        "id": "7003024",
+        "b": 7,
+        "c": 3,
+        "v": 29,
+        "t": "Lalu mereka menyerang orang-orang Moab dan membunuh kira-kira sepuluh ribu pahlawan Moab yang terkuat dan paling tangkas, tanpa membiarkan seorang pun lolos.",
+        "h": "",
+        "o": 24,
+        "l": "29"
+    },
+    {
+        "id": "7003025",
+        "b": 7,
+        "c": 3,
+        "v": 30,
+        "t": "Demikianlah pada hari itu Moab telah ditaklukkan oleh orang Israel. Sejak itu, selama delapan puluh tahun, negeri itu aman tentram.",
+        "h": "",
+        "o": 25,
+        "l": "30"
+    },
+    {
+        "id": "7003026",
+        "b": 7,
+        "c": 3,
+        "v": 31,
+        "t": "Sesudah Ehud, Samgar putra Anat menjadi hakim menggantikan dia. Ia pernah membunuh enam ratus orang Filistin dengan tongkat penghalau sapi sehingga orang Israel terhindar dari malapetaka.",
+        "h": "Samgar",
+        "o": 26,
+        "l": "31"
+    },
+    {
+        "id": "7004001",
+        "b": 7,
+        "c": 4,
+        "v": 1,
+        "t": "SETELAH Ehud meninggal, orang-orang Israel mulai berbuat dosa lagi kepada TUHAN.",
+        "h": "Debora dan Barak",
+        "o": 1,
+        "l": "1"
+    },
+    {
+        "id": "7004002",
+        "b": 7,
+        "c": 4,
+        "v": 2,
+        "t": "Sebab itu, TUHAN membiarkan mereka ditaklukkan oleh Yabin raja Hazor, di Kanaan. Panglima bala tentaranya ialah Sisera, yang tinggal di Haroset-Hagoyim. Ia mempunyai sembilan ratus kereta besi. Selama dua puluh tahun ia membuat kehidupan bangsa Israel sangat menderita. Tetapi, akhirnya bangsa Israel memohon pertolongan TUHAN.",
+        "h": "",
+        "o": 2,
+        "l": "2-3"
+    },
+    {
+        "id": "7004003",
+        "b": 7,
+        "c": 4,
+        "v": 4,
+        "t": "Pada masa itu pemimpin bangsa Israel yang bertanggung jawab untuk membawa bangsa Israel kembali kepada Allah ialah Debora istri Lapidot, seorang nabiah.",
+        "h": "",
+        "o": 3,
+        "l": "4"
+    },
+    {
+        "id": "7004004",
+        "b": 7,
+        "c": 4,
+        "v": 5,
+        "t": "Ia biasa mengadakan sidang pengadilan di tempat yang sekarang disebut \"Pohon Kurma Debora\", di antara Rama dan Betel, di daerah Pegunungan Efraim. Orang-orang Israel datang kepadanya untuk menyelesaikan perselisihan mereka.",
+        "h": "",
+        "o": 4,
+        "l": "5"
+    },
+    {
+        "id": "7004005",
+        "b": 7,
+        "c": 4,
+        "v": 6,
+        "t": "Pada suatu hari ia memanggil Barak putra Abinoam, yang tinggal di Kedesy, di daerah Naftali, agar menghadap dia. Lalu ia berkata kepadanya, \"TUHAN Allah bangsa Israel telah memerintahkan agar engkau mengerahkan sepuluh ribu orang dari suku Naftali dan Zebulon. Pimpinlah mereka ke Gunung Tabor.",
+        "h": "",
+        "o": 5,
+        "l": "6"
+    },
+    {
+        "id": "7004006",
+        "b": 7,
+        "c": 4,
+        "v": 7,
+        "t": "Siapkan mereka untuk memerangi bala tentara Raja Yabin yang kuat dan perkasa dengan segala keretanya itu, yang dipimpin oleh Panglima Sisera. TUHAN berkata, 'Aku akan menggerakkan mereka ke Sungai Kison, dan kamu akan menaklukkan mereka di situ.'\"",
+        "h": "",
+        "o": 6,
+        "l": "7"
+    },
+    {
+        "id": "7004007",
+        "b": 7,
+        "c": 4,
+        "v": 8,
+        "t": "\"Aku akan pergi hanya bila engkau ikut dengan aku!\" kata Barak kepadanya.",
+        "h": "",
+        "o": 7,
+        "l": "8"
+    },
+    {
+        "id": "7004008",
+        "b": 7,
+        "c": 4,
+        "v": 9,
+        "t": "\"Baiklah, aku akan ikut dengan engkau,\" jawabnya. \"Tetapi aku memperingatkan engkau bahwa kehormatan yang diperoleh karena menaklukkan Sisera akan diserahkan kepada seorang perempuan, padahal seharusnya engkau yang menerimanya!\" Maka Debora pun ikut dengan Barak ke Kedesy.",
+        "h": "",
+        "o": 8,
+        "l": "9"
+    },
+    {
+        "id": "7004009",
+        "b": 7,
+        "c": 4,
+        "v": 10,
+        "t": "Ketika Barak mengerahkan suku Zebulon dan Naftali di Kedesy, sepuluh ribu orang mengajukan diri. Debora ikut dengan mereka.",
+        "h": "",
+        "o": 9,
+        "l": "10"
+    },
+    {
+        "id": "7004010",
+        "b": 7,
+        "c": 4,
+        "v": 11,
+        "t": "Ada seorang Keni bernama Heber yang telah memisahkan diri dari kaumnya -- orang Keni, keturunan Hobab ipar Musa (atau keturunan ayah mertua Musa) -- tempat tinggalnya berpindah-pindah sampai sejauh pohon tarbantin di Zaanaim, di dekat Kedesy.",
+        "h": "",
+        "o": 10,
+        "l": "11"
+    },
+    {
+        "id": "7004011",
+        "b": 7,
+        "c": 4,
+        "v": 12,
+        "t": "Ketika Panglima Sisera diberitahu bahwa Barak serta bala tentaranya berkemah di Gunung Tabor,",
+        "h": "",
+        "o": 11,
+        "l": "12"
+    },
+    {
+        "id": "7004012",
+        "b": 7,
+        "c": 4,
+        "v": 13,
+        "t": "ia mengerahkan seluruh bala tentaranya serta kesembilan ratus kereta besinya, dan bergerak dari Haroset-Hagoyim ke Sungai Kison.",
+        "h": "",
+        "o": 12,
+        "l": "13"
+    },
+    {
+        "id": "7004013",
+        "b": 7,
+        "c": 4,
+        "v": 14,
+        "t": "Debora berkata kepada Barak, \"Inilah saatnya untuk bertindak! Tuhanlah yang memimpin kita! Ia sudah menyerahkan Sisera ke dalam tangan kita!\" Barak memimpin kesepuluh ribu tentaranya menuruni lereng Gunung Tabor untuk berperang.",
+        "h": "",
+        "o": 13,
+        "l": "14"
+    },
+    {
+        "id": "7004014",
+        "b": 7,
+        "c": 4,
+        "v": 15,
+        "t": "Lalu TUHAN mengacaukan tentara Sisera, baik yang berjalan kaki maupun yang berkereta. Sisera lompat turun dari keretanya dan melarikan diri.",
+        "h": "",
+        "o": 14,
+        "l": "15"
+    },
+    {
+        "id": "7004015",
+        "b": 7,
+        "c": 4,
+        "v": 16,
+        "t": "Barak dan bala tentaranya mengejar musuh serta kereta-kereta itu sampai di Haroset-Hagoyim, dan segenap bala tentara Sisera itu ditumpas, tidak seorang pun dibiarkan hidup.",
+        "h": "",
+        "o": 15,
+        "l": "16"
+    },
+    {
+        "id": "7004016",
+        "b": 7,
+        "c": 4,
+        "v": 17,
+        "t": "Sementara itu Sisera berhasil melarikan diri sampai ke kemah Yael, istri Heber orang Keni, karena sudah ada suatu perjanjian damai antara Yabin raja Hazor dengan kaum Heber.",
+        "h": "",
+        "o": 16,
+        "l": "17"
+    },
+    {
+        "id": "7004017",
+        "b": 7,
+        "c": 4,
+        "v": 18,
+        "t": "Yael ke luar menemui Sisera dan berkata kepadanya, \"Singgahlah di kemahku, Tuan. Tuan akan aman di bawah perlindungan kami. Jangan takut.\" Maka masuklah Sisera ke dalam kemahnya dan Yael menutupi dia dengan sehelai selimut.",
+        "h": "",
+        "o": 17,
+        "l": "18"
+    },
+    {
+        "id": "7004018",
+        "b": 7,
+        "c": 4,
+        "v": 19,
+        "t": "\"Tolong beri aku minum, aku sangat haus,\" katanya. Maka Yael memberinya susu, lalu menutupi dia lagi.",
+        "h": "",
+        "o": 18,
+        "l": "19"
+    },
+    {
+        "id": "7004019",
+        "b": 7,
+        "c": 4,
+        "v": 20,
+        "t": "\"Berdirilah di pintu kemah,\" kata Sisera kepada Yael, \"dan kalau ada orang datang mencari aku, katakanlah bahwa aku tidak ada di sini.\"",
+        "h": "",
+        "o": 19,
+        "l": "20"
+    },
+    {
+        "id": "7004020",
+        "b": 7,
+        "c": 4,
+        "v": 21,
+        "t": "Secara diam-diam Yael mengambil sebatang patok kemah yang tajam dan sebuah palu. Dengan perlahan-lahan ia mendekati Sisera yang sedang tidur nyenyak karena keletihan. Lalu ia memalu patok itu ke dalam pelipis Sisera sampai menembus ke tanah. Maka matilah Sisera seketika itu juga.",
+        "h": "",
+        "o": 20,
+        "l": "21"
+    },
+    {
+        "id": "7004021",
+        "b": 7,
+        "c": 4,
+        "v": 22,
+        "t": "Ketika Barak datang untuk mencari Sisera, Yael menemui dia dan berkata, \"Mari, aku tunjukkan kepadamu orang yang sedang kaucari itu.\" Barak mengikuti Yael ke dalam kemahnya dan menjumpai mayat Sisera terbaring di situ dengan patok kemah menembus pelipisnya.",
+        "h": "",
+        "o": 21,
+        "l": "22"
+    },
+    {
+        "id": "7004022",
+        "b": 7,
+        "c": 4,
+        "v": 23,
+        "t": "Demikianlah, pada hari itu TUHAN telah memakai bangsa Israel untuk mengalahkan Yabin, raja orang Kanaan.",
+        "h": "",
+        "o": 22,
+        "l": "23"
+    },
+    {
+        "id": "7004023",
+        "b": 7,
+        "c": 4,
+        "v": 24,
+        "t": "Sejak itu bangsa Israel makin kuat mendesak serta menindas Raja Yabin, sampai dia dengan segenap rakyatnya dibinasakan.",
+        "h": "",
+        "o": 23,
+        "l": "24"
+    },
+    {
+        "id": "7005001",
+        "b": 7,
+        "c": 5,
+        "v": 1,
+        "t": "LALU Debora dan Barak putra Abinoam menyanyikan kemenangan itu, demikian:",
+        "h": "Nyanyian Debora",
+        "o": 1,
+        "l": "1"
+    },
+    {
+        "id": "7005002",
+        "b": 7,
+        "c": 5,
+        "v": 2,
+        "t": "\"Pujilah TUHAN! Para pemimpin Israel maju dengan perkasa; Rakyat ikut dengan penuh sukacita! Ya, pujilah TUHAN!",
+        "h": "",
+        "o": 2,
+        "l": "2"
+    },
+    {
+        "id": "7005003",
+        "b": 7,
+        "c": 5,
+        "v": 3,
+        "t": "Dengar, hai raja-raja dan orang-orang terkemuka, Aku akan bernyanyi dan bermazmur untuk TUHAN, Allah Israel.",
+        "h": "",
+        "o": 3,
+        "l": "3"
+    },
+    {
+        "id": "7005004",
+        "b": 7,
+        "c": 5,
+        "v": 4,
+        "t": "Ketika Engkau membawa kami keluar dari Seir, melintasi padang-padang di Edom, Bumi berguncang Dan langit mencurahkan hujan.",
+        "h": "",
+        "o": 4,
+        "l": "4"
+    },
+    {
+        "id": "7005005",
+        "b": 7,
+        "c": 5,
+        "v": 5,
+        "t": "Ya, bahkan Gunung Sinai pun gemetar di hadapan TUHAN Allah Israel!",
+        "h": "",
+        "o": 5,
+        "l": "5"
+    },
+    {
+        "id": "7005006",
+        "b": 7,
+        "c": 5,
+        "v": 6,
+        "t": "Pada masa Samgar putra Anat, dan pada masa Yael, jalan-jalan raya sunyi sepi. Orang-orang yang lalu lalang mengambil jalan sempit, yang berliku-liku.",
+        "h": "",
+        "o": 6,
+        "l": "6"
+    },
+    {
+        "id": "7005007",
+        "b": 7,
+        "c": 5,
+        "v": 7,
+        "t": "Penduduk desa-desa di Israel berdiam diri, sampai Debora bangkit menjadi ibu bagi Israel.",
+        "h": "",
+        "o": 7,
+        "l": "7"
+    },
+    {
+        "id": "7005008",
+        "b": 7,
+        "c": 5,
+        "v": 8,
+        "t": "Ketika Israel memilih allah-allah baru, di pintu gerbang terjadi peperangan. (Segala sesuatu hancur berantakan.) Para penjajah tidak suka bahwa kami memiliki perisai ataupun tombak. Di antara empat puluh ribu orang Israel, tidak terdapat satu senjata apa pun!",
+        "h": "",
+        "o": 8,
+        "l": "8"
+    },
+    {
+        "id": "7005009",
+        "b": 7,
+        "c": 5,
+        "v": 9,
+        "t": "Betapa sukacitanya aku akan para pemimpin Israel, yang telah mengajukan diri secara sukarela! Pujilah TUHAN!",
+        "h": "",
+        "o": 9,
+        "l": "9"
+    },
+    {
+        "id": "7005010",
+        "b": 7,
+        "c": 5,
+        "v": 10,
+        "t": "Biarlah seluruh bangsa Israel, kaya dan miskin, bersama-sama ikut memuji -- Mereka yang menunggang keledai putih, Dan yang duduk di atas permadani indah; Mereka yang miskin dan berjalan kaki.",
+        "h": "",
+        "o": 10,
+        "l": "10"
+    },
+    {
+        "id": "7005011",
+        "b": 7,
+        "c": 5,
+        "v": 11,
+        "t": "Di dekat sumur umum para penimba air menyanyikan kemenangan TUHAN. Berulang-ulang mereka menyanyikan kisah TUHAN menyelamatkan Israel dengan serombongan petani! Umat TUHAN berjalan melalui pintu-pintu gerbang!",
+        "h": "",
+        "o": 11,
+        "l": "11"
+    },
+    {
+        "id": "7005012",
+        "b": 7,
+        "c": 5,
+        "v": 12,
+        "t": "Bangunlah, hai Debora, dan menyanyilah! Bangkitlah, hai Barak! Hai putra Abinoam, giringlah tawananmu!",
+        "h": "",
+        "o": 12,
+        "l": "12"
+    },
+    {
+        "id": "7005013",
+        "b": 7,
+        "c": 5,
+        "v": 13,
+        "t": "Dari Gunung Tabor turunlah sisa-sisa orang bangsawan. Umat TUHAN berbaris turun Sebagai pahlawan-pahlawan, Untuk melawan orang-orang kuat.",
+        "h": "",
+        "o": 13,
+        "l": "13"
+    },
+    {
+        "id": "7005014",
+        "b": 7,
+        "c": 5,
+        "v": 14,
+        "t": "Mereka datang dari suku Efraim dan suku Benyamin, Dari bani Makhir, dan suku Zebulon.",
+        "h": "",
+        "o": 14,
+        "l": "14"
+    },
+    {
+        "id": "7005015",
+        "b": 7,
+        "c": 5,
+        "v": 15,
+        "t": "Turunlah ke lembah orang-orang terkemuka dari suku Isakhar Dengan Debora, suku Naftali, dan Barak. Atas perintah Allah mereka menyerbu ke lembah. Tetapi suku Ruben tidak pergi.",
+        "h": "",
+        "o": 15,
+        "l": "15"
+    },
+    {
+        "id": "7005016",
+        "b": 7,
+        "c": 5,
+        "v": 16,
+        "t": "Mengapa engkau duduk saja di rumah di antara kawanan dombamu, Sambil meniup suling gembalamu? Ya, suku Ruben memiliki banyak pertimbangan dan perasaan tidak tenang.",
+        "h": "",
+        "o": 16,
+        "l": "16"
+    },
+    {
+        "id": "7005017",
+        "b": 7,
+        "c": 5,
+        "v": 17,
+        "t": "Mengapa orang Gilead diam saja di seberang Yordan? Mengapa suku Dan tidak meninggalkan kapalnya? Mengapa suku Asyer duduk-duduk saja di pantai, tenang-tenang saja di dekat pelabuhan?",
+        "h": "",
+        "o": 17,
+        "l": "17"
+    },
+    {
+        "id": "7005018",
+        "b": 7,
+        "c": 5,
+        "v": 18,
+        "t": "Tetapi suku Zebulon dan suku Naftali berani mati di medan peperangan.",
+        "h": "",
+        "o": 18,
+        "l": "18"
+    },
+    {
+        "id": "7005019",
+        "b": 7,
+        "c": 5,
+        "v": 19,
+        "t": "Raja-raja dari Kanaan berperang di Taanakh Pada mata air Megido, Tetapi mereka tidak berhasil merebut kemenangan.",
+        "h": "",
+        "o": 19,
+        "l": "19"
+    },
+    {
+        "id": "7005020",
+        "b": 7,
+        "c": 5,
+        "v": 20,
+        "t": "Bintang-bintang di langit memerangi Sisera.",
+        "h": "",
+        "o": 20,
+        "l": "20"
+    },
+    {
+        "id": "7005021",
+        "b": 7,
+        "c": 5,
+        "v": 21,
+        "t": "Aliran Sungai Kison yang deras menghanyutkan mereka. Majulah jiwaku, dengan sekuat tenaga!",
+        "h": "",
+        "o": 21,
+        "l": "21"
+    },
+    {
+        "id": "7005022",
+        "b": 7,
+        "c": 5,
+        "v": 22,
+        "t": "Dengarlah derap kaki kuda musuh! Lihatlah kuda-kudanya lari dengan cepat!",
+        "h": "",
+        "o": 22,
+        "l": "22"
+    },
+    {
+        "id": "7005023",
+        "b": 7,
+        "c": 5,
+        "v": 23,
+        "t": "Tetapi Malaikat TUHAN telah mengutuk Kota Meros. 'Kutuklah penduduknya dengan tajam,' kata-Nya, 'Karena mereka tidak datang untuk membantu TUHAN melawan musuh-musuh-Nya.'",
+        "h": "",
+        "o": 23,
+        "l": "23"
+    },
+    {
+        "id": "7005024",
+        "b": 7,
+        "c": 5,
+        "v": 24,
+        "t": "Diberkatilah Yael, Istri Heber orang Keni. Ya, diberkati kiranya dia, Melebihi semua wanita yang tinggal di kemah-kemah.",
+        "h": "",
+        "o": 24,
+        "l": "24"
+    },
+    {
+        "id": "7005025",
+        "b": 7,
+        "c": 5,
+        "v": 25,
+        "t": "Orang itu minta air, Tetapi ia memberi susu dalam sebuah cangkir yang indah!",
+        "h": "",
+        "o": 25,
+        "l": "25"
+    },
+    {
+        "id": "7005026",
+        "b": 7,
+        "c": 5,
+        "v": 26,
+        "t": "Lalu ia mengambil sebuah patok kemah dan sebuah palu, Dan ditembusnya pelipis Sisera, Serta dihancurkannya kepalanya. Ia memalu patok kemah itu menembus kepalanya.",
+        "h": "",
+        "o": 26,
+        "l": "26"
+    },
+    {
+        "id": "7005027",
+        "b": 7,
+        "c": 5,
+        "v": 27,
+        "t": "Maka robohlah Sisera, Mati di dekat kakinya.",
+        "h": "",
+        "o": 27,
+        "l": "27"
+    },
+    {
+        "id": "7005028",
+        "b": 7,
+        "c": 5,
+        "v": 28,
+        "t": "Ibu Sisera melongok dari jendela menanti anaknya pulang. 'Mengapa keretanya belum datang juga? Mengapa kita tidak mendengar suara rodanya?'",
+        "h": "",
+        "o": 28,
+        "l": "28"
+    },
+    {
+        "id": "7005029",
+        "b": 7,
+        "c": 5,
+        "v": 29,
+        "t": "Tetapi para dayangnya, dan juga dia sendiri, menjawab,",
+        "h": "",
+        "o": 29,
+        "l": "29"
+    },
+    {
+        "id": "7005030",
+        "b": 7,
+        "c": 5,
+        "v": 30,
+        "t": "'Banyak jarahan yang harus dibagikan, Dan itu pasti memakan waktu. Setiap orang menerima satu atau dua orang gadis; Sisera akan mendapat jubah-jubah yang indah, Dan ia akan membawa pulang banyak hadiah untukku.'",
+        "h": "",
+        "o": 30,
+        "l": "30"
+    },
+    {
+        "id": "7005031",
+        "b": 7,
+        "c": 5,
+        "v": 31,
+        "t": "Ya TUHAN, semoga semua musuh-Mu binasa seperti Sisera, Tetapi semoga orang yang mengasihi TUHAN bersinar-sinar seperti matahari siang!\" Sesudah itu negeri itu aman dan tentram selama empat puluh tahun.",
+        "h": "",
+        "o": 31,
+        "l": "31"
+    },
+    {
+        "id": "7006001",
+        "b": 7,
+        "c": 6,
+        "v": 1,
+        "t": "LALU bangsa Israel mulai lagi menyembah allah-allah lain. Karena itu TUHAN membiarkan musuh-musuh merongrong mereka. Kali ini bangsa Midianlah yang mengganggu mereka tujuh tahun lamanya.",
+        "h": "Gideon",
+        "o": 1,
+        "l": "1"
+    },
+    {
+        "id": "7006002",
+        "b": 7,
+        "c": 6,
+        "v": 2,
+        "t": "Bangsa Midian itu begitu kejam sehingga orang Israel melarikan diri ke gunung-gunung dan tinggal di gua-gua serta di celah-celah gunung.",
+        "h": "",
+        "o": 2,
+        "l": "2"
+    },
+    {
+        "id": "7006003",
+        "b": 7,
+        "c": 6,
+        "v": 3,
+        "t": "Apabila orang Israel selesai menabur, datanglah para perampok dari Midian, Amalek, dan bangsa-bangsa lain di sekitarnya. Mereka merusak semua tanaman dan merampok daerah orang Israel itu sampai ke Gaza. Tidak ada sedikit pun bahan makanan yang tersisa untuk orang Israel. Domba, sapi, dan keledai juga diambil semua.",
+        "h": "",
+        "o": 3,
+        "l": "3-4"
+    },
+    {
+        "id": "7006004",
+        "b": 7,
+        "c": 6,
+        "v": 5,
+        "t": "Gerombolan musuh datang berbondong-bondong dengan menunggang unta, tak terhitung banyaknya seperti belalang. Mereka tinggal di situ sampai daerah itu habis sama sekali dan rusak.",
+        "h": "",
+        "o": 4,
+        "l": "5"
+    },
+    {
+        "id": "7006005",
+        "b": 7,
+        "c": 6,
+        "v": 6,
+        "t": "Demikianlah Israel direndahkan sampai menjadi sangat melarat karena orang-orang Midian itu. Akhirnya bangsa Israel mulai berseru kepada TUHAN minta pertolongan.",
+        "h": "",
+        "o": 5,
+        "l": "6-7"
+    },
+    {
+        "id": "7006006",
+        "b": 7,
+        "c": 6,
+        "v": 8,
+        "t": "Namun, melalui nabi yang diutus-Nya, TUHAN menjawab mereka demikian, \"Aku telah menuntun kamu keluar dari perbudakan di Mesir.",
+        "h": "",
+        "o": 6,
+        "l": "8"
+    },
+    {
+        "id": "7006007",
+        "b": 7,
+        "c": 6,
+        "v": 9,
+        "t": "Aku telah menyelamatkan kamu dari bangsa Mesir dan dari semua orang yang jahat terhadap kamu. Aku telah mengusir semua musuhmu dari hadapanmu dan memberikan tanah mereka kepadamu,",
+        "h": "",
+        "o": 7,
+        "l": "9"
+    },
+    {
+        "id": "7006008",
+        "b": 7,
+        "c": 6,
+        "v": 10,
+        "t": "Aku telah berfirman bahwa Akulah TUHAN Allahmu, dan bahwa kamu tidak boleh menyembah allah-allah orang Amori yang tinggal di sekitar kamu. Tetapi kamu tidak mau mendengarkan Aku.\"",
+        "h": "",
+        "o": 8,
+        "l": "10"
+    },
+    {
+        "id": "7006009",
+        "b": 7,
+        "c": 6,
+        "v": 11,
+        "t": "Pada suatu hari Malaikat TUHAN datang dan duduk di bawah pohon tarbantin di Ofra, di ladang Yoas orang Abiezer. Gideon, putra Yoas, sedang mengirik gandum di dasar lubang tempat pemerasan anggur supaya tidak kelihatan oleh orang Midian.",
+        "h": "",
+        "o": 9,
+        "l": "11"
+    },
+    {
+        "id": "7006010",
+        "b": 7,
+        "c": 6,
+        "v": 12,
+        "t": "Malaikat TUHAN menampakkan diri di hadapannya dan berfirman, \"Pahlawan yang perkasa, TUHAN menyertai engkau!\"",
+        "h": "",
+        "o": 10,
+        "l": "12"
+    },
+    {
+        "id": "7006011",
+        "b": 7,
+        "c": 6,
+        "v": 13,
+        "t": "\"Tuan,\" jawab Gideon, \"kalau TUHAN menyertai kami, mengapa kami ditimpa keadaan seperti ini? Di manakah semua mujizat yang diceritakan oleh nenek moyang kami -- seperti yang telah dialami mereka ketika Allah menuntun mereka keluar dari Mesir? Sekarang TUHAN telah membuang kami dan membiarkan bangsa Midian menghancurkan kami.\"",
+        "h": "",
+        "o": 11,
+        "l": "13"
+    },
+    {
+        "id": "7006012",
+        "b": 7,
+        "c": 6,
+        "v": 14,
+        "t": "Lalu TUHAN berpaling kepada Gideon dan berfirman, \"Aku akan membuat engkau menjadi kuat! Pergilah dan selamatkanlah orang Israel dari bangsa Midian! Akulah yang mengutus engkau!\"",
+        "h": "",
+        "o": 12,
+        "l": "14"
+    },
+    {
+        "id": "7006013",
+        "b": 7,
+        "c": 6,
+        "v": 15,
+        "t": "Tetapi Gideon menjawab, \"Tuan, bagaimana hamba, dapat menyelamatkan Israel? Keluarga hamba ini termiskin di antara seluruh suku Manasye, dan hamba sendiri paling muda di dalam seluruh keluarga!\"",
+        "h": "",
+        "o": 13,
+        "l": "15"
+    },
+    {
+        "id": "7006014",
+        "b": 7,
+        "c": 6,
+        "v": 16,
+        "t": "TUHAN berfirman kepadanya, \"Tetapi Aku, Yahweh, akan menyertai engkau! Dan engkau akan membinasakan orang-orang Midian itu!\"",
+        "h": "",
+        "o": 14,
+        "l": "16"
+    },
+    {
+        "id": "7006015",
+        "b": 7,
+        "c": 6,
+        "v": 17,
+        "t": "Gideon berkata, \"Jikalau benar hamba mendapat pengasihan TUHAN, berikanlah tanda bahwa Engkau sendiri yang sedang berbicara dengan hamba!",
+        "h": "",
+        "o": 15,
+        "l": "17"
+    },
+    {
+        "id": "7006016",
+        "b": 7,
+        "c": 6,
+        "v": 18,
+        "t": "Tetapi tinggallah di sini dulu, hamba akan mengambil persembahan untuk-Mu.\" \"Baiklah,\" jawab-Nya. \"Aku akan tinggal di sini sampai engkau kembali.\"",
+        "h": "",
+        "o": 16,
+        "l": "18"
+    },
+    {
+        "id": "7006017",
+        "b": 7,
+        "c": 6,
+        "v": 19,
+        "t": "Gideon cepat-cepat pulang untuk menyiapkan seekor anak kambing dan roti tidak beragi dari seefa (36 liter) tepung. Lalu daging itu dimasukkan ke dalam sebuah keranjang, sedangkan kaldunya ke dalam sebuah periuk. Kemudian ia membawanya ke luar, kepada Malaikat TUHAN yang sedang menunggu di bawah pohon tarbantin, dan menyajikannya kepada-Nya.",
+        "h": "",
+        "o": 17,
+        "l": "19"
+    },
+    {
+        "id": "7006018",
+        "b": 7,
+        "c": 6,
+        "v": 20,
+        "t": "Malaikat TUHAN berfirman kepadanya, \"Letakkan daging dan rotinya di atas batu di situ, dan curahkan kaldu itu ke atasnya.\" Gideon melakukan semua perintah-Nya.",
+        "h": "",
+        "o": 18,
+        "l": "20"
+    },
+    {
+        "id": "7006019",
+        "b": 7,
+        "c": 6,
+        "v": 21,
+        "t": "Lalu Malaikat TUHAN menyentuh daging dan roti itu dengan tongkat-Nya, maka timbullah api dari batu karang itu yang membakar daging dan roti itu sampai habis! Dan tiba-tiba Malaikat TUHAN itu lenyap dari pandangannya.",
+        "h": "",
+        "o": 19,
+        "l": "21"
+    },
+    {
+        "id": "7006020",
+        "b": 7,
+        "c": 6,
+        "v": 22,
+        "t": "Ketika Gideon menyadari bahwa ia benar-benar sedang berhadapan dengan Malaikat TUHAN, ia berseru, \"Ya, TUHAN Allah, celakalah aku karena aku sudah melihat Malaikat TUHAN muka dengan muka!\"",
+        "h": "",
+        "o": 20,
+        "l": "22"
+    },
+    {
+        "id": "7006021",
+        "b": 7,
+        "c": 6,
+        "v": 23,
+        "t": "\"Tenanglah,\" jawab TUHAN. \"Jangan takut! Engkau tidak akan mati.\"",
+        "h": "",
+        "o": 21,
+        "l": "23"
+    },
+    {
+        "id": "7006022",
+        "b": 7,
+        "c": 6,
+        "v": 24,
+        "t": "Kemudian di situ, di Ofra, kota orang Abiezer, Gideon membangun sebuah mezbah bagi TUHAN. Ia menamainya 'Perdamaian dengan Yahweh' dan mezbah itu masih ada sampai sekarang.",
+        "h": "",
+        "o": 22,
+        "l": "24"
+    },
+    {
+        "id": "7006023",
+        "b": 7,
+        "c": 6,
+        "v": 25,
+        "t": "Malam itu TUHAN berfirman kepada Gideon, \"Tambatkanlah seekor sapi jantan yang terbaik kepunyaan ayahmu, yang berumur tujuh tahun, yaitu sapi jantan yang kedua, pada mezbah Baal milik ayahmu. Lalu robohkanlah mezbah itu dan tumbangkan patung kayu Dewi Asyera yang ada di dekatnya.",
+        "h": "",
+        "o": 23,
+        "l": "25"
+    },
+    {
+        "id": "7006024",
+        "b": 7,
+        "c": 6,
+        "v": 26,
+        "t": "\"Gantilah dengan sebuah mezbah untuk TUHAN Allahmu. Buatlah mezbah itu di atas bukit ini, dan susunlah batu-batunya baik-baik. Lalu persembahkan sapi jantan itu di atas mezbah sebagai kurban bakaran kepada TUHAN, dengan memakai patung kayu itu sebagai kayu bakarnya.\"",
+        "h": "",
+        "o": 24,
+        "l": "26"
+    },
+    {
+        "id": "7006025",
+        "b": 7,
+        "c": 6,
+        "v": 27,
+        "t": "Gideon membawa sepuluh orang hambanya dan melaksanakan apa yang diperintahkan TUHAN kepadanya. Tetapi ia melakukannya pada malam hari karena takut terhadap anggota rumah tangga ayahnya, dan terhadap orang-orang di kota itu. Ia sudah dapat menduga apa yang akan terjadi kalau mereka mengetahui siapa yang telah berbuat demikian!",
+        "h": "",
+        "o": 25,
+        "l": "27"
+    },
+    {
+        "id": "7006026",
+        "b": 7,
+        "c": 6,
+        "v": 28,
+        "t": "Keesokan harinya, pagi-pagi, ketika penduduk kota itu bangun, mereka melihat bahwa mezbah Baal sudah hancur, patung di dekatnya lenyap, dan di situ telah didirikan sebuah mezbah baru dengan sisa-sisa kurban persembahan di atasnya.",
+        "h": "",
+        "o": 26,
+        "l": "28"
+    },
+    {
+        "id": "7006027",
+        "b": 7,
+        "c": 6,
+        "v": 29,
+        "t": "\"Perbuatan siapakah ini?\" tanya mereka seorang kepada yang lain. Akhirnya mereka mengetahui bahwa semua itu perbuatan Gideon, putra Yoas.",
+        "h": "",
+        "o": 27,
+        "l": "29"
+    },
+    {
+        "id": "7006028",
+        "b": 7,
+        "c": 6,
+        "v": 30,
+        "t": "\"Bawalah ke luar anakmu itu!\" seru mereka kepada Yoas. \"Ia harus mati karena menghina mezbah Baal, dan karena menumbangkan patung Asyera!\"",
+        "h": "",
+        "o": 28,
+        "l": "30"
+    },
+    {
+        "id": "7006029",
+        "b": 7,
+        "c": 6,
+        "v": 31,
+        "t": "Tetapi Yoas menjawab orang banyak itu, \"Apakah Baal memerlukan pertolongan kalian? Itu suatu penghinaan baginya kalau ia benar-benar allah! Kalianlah yang seharusnya mati karena menghina Baal! Seandainya Baal itu allah, biarlah ia mempertahankan dirinya sendiri dan membinasakan orang yang menghancurkan mezbahnya!\"",
+        "h": "",
+        "o": 29,
+        "l": "31"
+    },
+    {
+        "id": "7006030",
+        "b": 7,
+        "c": 6,
+        "v": 32,
+        "t": "Sejak itu Gideon disebut 'Yerubaal', satu nama julukan yang artinya 'Biarlah Baal mempertahankan dirinya sendiri!'",
+        "h": "",
+        "o": 30,
+        "l": "32"
+    },
+    {
+        "id": "7006031",
+        "b": 7,
+        "c": 6,
+        "v": 33,
+        "t": "Tidak lama sesudah itu bala tentara Midian, Amalek, dan bangsa-bangsa lain di sekitar kota itu bersatu melawan Israel. Mereka melintasi Sungai Yordan dan berkemah di Lembah Yizreel.",
+        "h": "",
+        "o": 31,
+        "l": "33"
+    },
+    {
+        "id": "7006032",
+        "b": 7,
+        "c": 6,
+        "v": 34,
+        "t": "Lalu Roh TUHAN memenuhi Gideon; dan ia meniup trompet tanda pasukan harus berkumpul untuk siap berperang. Orang-orang Abiezer datang bergabung dengan dia.",
+        "h": "",
+        "o": 32,
+        "l": "34"
+    },
+    {
+        "id": "7006033",
+        "b": 7,
+        "c": 6,
+        "v": 35,
+        "t": "Ia juga mengirimkan utusan-utusan ke Manasye, Asyer, Zebulon, dan Naftali, untuk mengerahkan seluruh bala tentara mereka agar bergabung dengan dia. Semuanya menyambut dengan baik.",
+        "h": "",
+        "o": 33,
+        "l": "35"
+    },
+    {
+        "id": "7006034",
+        "b": 7,
+        "c": 6,
+        "v": 36,
+        "t": "Lalu Gideon berkata kepada Allah, \"Kalau Engkau benar-benar hendak memakai hamba untuk menyelamatkan Israel sebagaimana yang telah Kaukatakan,",
+        "h": "",
+        "o": 34,
+        "l": "36"
+    },
+    {
+        "id": "7006035",
+        "b": 7,
+        "c": 6,
+        "v": 37,
+        "t": "buktikanlah hal itu kepada hamba dengan cara ini: Hamba akan meletakkan bulu domba di tempat pengirikan pada malam ini. Apabila besok pagi bulu itu basah, sedangkan tanah di sekitarnya kering, tahulah hamba bahwa Engkau akan menolong hamba untuk menyelamatkan Israel!\"",
+        "h": "",
+        "o": 35,
+        "l": "37"
+    },
+    {
+        "id": "7006036",
+        "b": 7,
+        "c": 6,
+        "v": 38,
+        "t": "Dan benarlah terjadi demikian! Ketika keesokan harinya, pagi-pagi, Gideon bangun lalu memeras bulu domba itu, ia dapat mengumpulkan air sampai semangkuk penuh.",
+        "h": "",
+        "o": 36,
+        "l": "38"
+    },
+    {
+        "id": "7006037",
+        "b": 7,
+        "c": 6,
+        "v": 39,
+        "t": "Maka berkatalah Gideon kepada Allah, \"Janganlah Engkau murka terhadap hamba, melainkan izinkan hamba menguji sekali lagi: Kali ini biarlah bulu domba itu tetap kering, sedangkan tanah di sekitarnya basah!\"",
+        "h": "",
+        "o": 37,
+        "l": "39"
+    },
+    {
+        "id": "7006038",
+        "b": 7,
+        "c": 6,
+        "v": 40,
+        "t": "Dan Allah mengabulkan permintaannya. Malam itu bulu domba itu tetap kering, tetapi tanah di sekitarnya basah oleh embun!",
+        "h": "",
+        "o": 38,
+        "l": "40"
+    },
+    {
+        "id": "7007001",
+        "b": 7,
+        "c": 7,
+        "v": 1,
+        "t": "YERUBAAL, yaitu Gideon, dan bala tentaranya segera berangkat sampai di mata air Harod. Bala tentara Midian berkemah di sebelah utara mereka, di lembah yang terletak dekat Bukit More.",
+        "h": "Gideon mengalahkan orang Midian",
+        "o": 1,
+        "l": "1"
+    },
+    {
+        "id": "7007002",
+        "b": 7,
+        "c": 7,
+        "v": 2,
+        "t": "Lalu TUHAN berkata kepada Gideon, \"Orang-orangmu terlalu banyak! Aku tidak akan mengirim mereka semuanya untuk memerangi orang-orang Midian, supaya bangsa Israel jangan membanggakan diri di hadapan-Ku dengan mengatakan bahwa mereka telah berhasil menyelamatkan diri dengan kekuatan sendiri!",
+        "h": "",
+        "o": 2,
+        "l": "2"
+    },
+    {
+        "id": "7007003",
+        "b": 7,
+        "c": 7,
+        "v": 3,
+        "t": "Suruhlah pulang orang-orangmu yang kurang berani dan takut.\" Ada 22.000 orang yang pulang, sehingga hanya 10.000 orang saja yang tinggal untuk berperang.",
+        "h": "",
+        "o": 3,
+        "l": "3"
+    },
+    {
+        "id": "7007004",
+        "b": 7,
+        "c": 7,
+        "v": 4,
+        "t": "Tetapi TUHAN berkata kepada Gideon, \"Masih terlalu banyak orang yang ikut! Bawalah mereka ke air, maka Aku akan menunjukkan kepadamu siapa yang akan pergi bersamamu dan siapa yang tidak.\"",
+        "h": "",
+        "o": 4,
+        "l": "4"
+    },
+    {
+        "id": "7007005",
+        "b": 7,
+        "c": 7,
+        "v": 5,
+        "t": "Gideon membawa mereka ke mata air. Di situ TUHAN berkata kepadanya, \"Kumpulkan dalam satu rombongan semua orang yang mencedok air dengan tangannya dan menghirup air itu seperti anjing sedang menjilat. Lalu kumpulkan dalam satu rombongan lain semua orang yang berlutut dan minum air itu langsung dengan mulutnya.\" Hanya tiga ratus orang yang minum dari tangannya; selebihnya minum langsung dengan mulutnya.",
+        "h": "",
+        "o": 5,
+        "l": "5-6"
+    },
+    {
+        "id": "7007006",
+        "b": 7,
+        "c": 7,
+        "v": 7,
+        "t": "\"Aku akan menaklukkan orang-orang Midian dengan ketiga ratus orang ini!\" kata TUHAN kepada Gideon. \"Suruhlah sisanya pulang!\"",
+        "h": "",
+        "o": 6,
+        "l": "7"
+    },
+    {
+        "id": "7007007",
+        "b": 7,
+        "c": 7,
+        "v": 8,
+        "t": "Sesudah Gideon mengumpulkan semua buyung tanah liat dan trompet yang ada pada mereka, ia menyuruh mereka semua pulang kecuali ketiga ratus orang itu. Pada malam harinya, sementara orang-orang Midian berkemah di lembah di bawah mereka, TUHAN berkata kepada Gideon, \"Bangunlah! Bawalah pasukanmu dan serbulah orang-orang Midian itu karena Aku akan menyerahkan mereka ke dalam tanganmu!",
+        "h": "",
+        "o": 7,
+        "l": "8-9"
+    },
+    {
+        "id": "7007008",
+        "b": 7,
+        "c": 7,
+        "v": 10,
+        "t": "Tetapi, kalau engkau takut, turunlah dulu ke perkemahan itu seorang diri saja -- bawalah Pura, hambamu, kalau engkau mau.",
+        "h": "",
+        "o": 8,
+        "l": "10"
+    },
+    {
+        "id": "7007009",
+        "b": 7,
+        "c": 7,
+        "v": 11,
+        "t": "Dengarkanlah apa yang dikatakan mereka di situ! Maka engkau akan mendapat semangat dan keberanian untuk menyerbu!\" Gideon membawa Pura turun di dalam kegelapan untuk menyelinap ke tempat-tempat penjagaan perkemahan musuh.",
+        "h": "",
+        "o": 9,
+        "l": "11"
+    },
+    {
+        "id": "7007010",
+        "b": 7,
+        "c": 7,
+        "v": 12,
+        "t": "Suatu bala tentara yang besar, yang terdiri dari orang Midian, Amalek, dan bangsa-bangsa lain dari timur, berkumpul di lembah itu seperti belalang banyaknya -- ya, seperti pasir di pantai. Unta-unta mereka juga tidak terhitung banyaknya! Mereka semua sedang tidur. Gideon merangkak ke salah satu kemah. Pada waktu itu seorang prajurit di dalam kemah itu terbangun karena mendapat mimpi buruk, dan ia sedang menceritakan mimpinya itu kepada teman sekemahnya. \"Aku mendapat mimpi yang aneh,\" katanya. \"Aku melihat sebuah roti besar jatuh menggelinding ke dalam kemah kita. Roti itu menerjang kemah kita sehingga kemah kita roboh ke tanah!\"",
+        "h": "",
+        "o": 10,
+        "l": "12-13"
+    },
+    {
+        "id": "7007011",
+        "b": 7,
+        "c": 7,
+        "v": 14,
+        "t": "Prajurit yang lainnya menjawab, \"Impianmu hanya mempunyai satu arti! Gideon anak Yoas, orang Israel itu, akan datang dan membunuh kita semua karena Allah telah menyerahkan seluruh bangsa Midian dan sekutunya ke dalam tangannya!\"",
+        "h": "",
+        "o": 11,
+        "l": "14"
+    },
+    {
+        "id": "7007012",
+        "b": 7,
+        "c": 7,
+        "v": 15,
+        "t": "Ketika Gideon mendengar impian serta tafsirannya itu, ia sujud menyembah Allah! Ia kembali kepada orang-orangnya dan berseru, \"Bangunlah, karena TUHAN telah menyerahkan seluruh bala tentara Midian yang besar itu ke dalam tanganmu!\"",
+        "h": "",
+        "o": 12,
+        "l": "15"
+    },
+    {
+        "id": "7007013",
+        "b": 7,
+        "c": 7,
+        "v": 16,
+        "t": "Ia membagi ketiga ratus orangnya menjadi tiga pasukan dan memberi kepada mereka masing-masing sebuah trompet dan buyung kosong dengan obor di dalamnya.",
+        "h": "",
+        "o": 13,
+        "l": "16"
+    },
+    {
+        "id": "7007014",
+        "b": 7,
+        "c": 7,
+        "v": 17,
+        "t": "Lalu ia menjelaskan rencananya kepada mereka demikian: \"Pada waktu kita tiba di dekat pos penjagaan perkemahan itu, ikutilah apa yang aku lakukan.",
+        "h": "",
+        "o": 14,
+        "l": "17"
+    },
+    {
+        "id": "7007015",
+        "b": 7,
+        "c": 7,
+        "v": 18,
+        "t": "Kemudian, bila aku dengan orang-orang di dalam rombonganku meniup trompet, tiuplah juga trompetmu dari semua penjuru perkemahan dan berserulah, 'Demi TUHAN dan demi Gideon!'\"",
+        "h": "",
+        "o": 15,
+        "l": "18"
+    },
+    {
+        "id": "7007016",
+        "b": 7,
+        "c": 7,
+        "v": 19,
+        "t": "Pada tengah malam, ketika para penjaga musuh baru diganti, Gideon dan seratus orang dalam rombongannya merangkak ke dekat batas perkemahan orang Midian itu. Ketika itu lewat tengah malam dan para penjaga baru diganti.",
+        "h": "",
+        "o": 16,
+        "l": "19"
+    },
+    {
+        "id": "7007017",
+        "b": 7,
+        "c": 7,
+        "v": 20,
+        "t": "Secara serentak mereka meniup trompet masing-masing dan memecahkan buyungnya, sehingga obor-obor mereka menyala-nyala di malam yang gelap. Lalu kedua ratus orangnya dalam pasukan yang lain berbuat hal yang sama: mereka meniup trompet dengan tangan kanan dan membawa obor yang berkobar-kobar di tangan kirinya, sambil berseru, \"Demi TUHAN dan demi Gideon!\"",
+        "h": "",
+        "o": 17,
+        "l": "20"
+    },
+    {
+        "id": "7007018",
+        "b": 7,
+        "c": 7,
+        "v": 21,
+        "t": "Sementara itu mereka berdiri saja dan memperhatikan apa yang terjadi. Seluruh bala tentara musuh yang sangat besar itu menjadi kalut. Prajurit-prajurit Midian itu berteriak-teriak dan lari ke sana ke mari.",
+        "h": "",
+        "o": 18,
+        "l": "21"
+    },
+    {
+        "id": "7007019",
+        "b": 7,
+        "c": 7,
+        "v": 22,
+        "t": "Dalam kekalutan itu TUHAN telah membuat pasukan musuh saling memerangi dan saling membunuh di seluruh perkemahan itu. Ada pula di antara mereka yang melarikan diri dalam kegelapan sampai sejauh Bet-Sita di dekat Zerera, bahkan sampai ke perbatasan Abel-Mehola di dekat Tabat.",
+        "h": "",
+        "o": 19,
+        "l": "22"
+    },
+    {
+        "id": "7007020",
+        "b": 7,
+        "c": 7,
+        "v": 23,
+        "t": "Sesudah itu Gideon menyuruh orang memanggil pasukan Naftali, Asyer, dan Manasye. Ia menyuruh mereka datang untuk mengejar serta menumpas bala tentara Midian yang melarikan diri.",
+        "h": "",
+        "o": 20,
+        "l": "23"
+    },
+    {
+        "id": "7007021",
+        "b": 7,
+        "c": 7,
+        "v": 24,
+        "t": "Gideon juga mengirimkan beberapa utusan ke seluruh Pegunungan Efraim agar mereka mengerahkan pasukannya untuk merebut benteng pertahanan Sungai Yordan di Bet-Bara. Demikianlah orang-orang Midian itu tidak dapat lolos dengan jalan menyeberang.",
+        "h": "",
+        "o": 21,
+        "l": "24"
+    },
+    {
+        "id": "7007022",
+        "b": 7,
+        "c": 7,
+        "v": 25,
+        "t": "Oreb dan Zeeb, kedua panglima orang Midian, tertangkap. Oreb dibunuh di dekat batu karang yang kemudian disebut Oreb, dan Zeeb dibunuh di tempat pemerasan anggur yang kemudian disebut Zeeb. Lalu orang-orang Israel membawa kepala Oreb dan Zeeb ke seberang Yordan kepada Gideon.",
+        "h": "",
+        "o": 22,
+        "l": "25"
+    },
+    {
+        "id": "7008001",
+        "b": 7,
+        "c": 8,
+        "v": 1,
+        "t": "TETAPI para pemimpin suku Efraim sangat marah kepada Gideon. \"Apa sebabnya engkau tidak memanggil kami ketika engkau pergi untuk memerangi orang Midian?\" tegor mereka.",
+        "h": "Orang Efraim marah kepada Gideon",
+        "o": 1,
+        "l": "1"
+    },
+    {
+        "id": "7008002",
+        "b": 7,
+        "c": 8,
+        "v": 2,
+        "t": "Tetapi Gideon menjawab, \"Bukankah Allah telah menyuruh kalian menangkap Oreb dan Zeeb, panglima bala tentara Midian? Apa kelebihan perbuatanku, jika dibandingkan dengan perbuatan kalian? Perbuatan kalian pada akhir peperangan itu lebih penting daripada apa yang terjadi pada permulaannya!\" Maka amarah mereka pun redalah.",
+        "h": "",
+        "o": 2,
+        "l": "2-3"
+    },
+    {
+        "id": "7008003",
+        "b": 7,
+        "c": 8,
+        "v": 4,
+        "t": "Lalu Gideon menyeberangi Sungai Yordan dengan ketiga ratus orangnya. Mereka sangat lelah, tetapi masih terus mengejar musuh.",
+        "h": "Zebah dan Salmuna dibunuh",
+        "o": 3,
+        "l": "4"
+    },
+    {
+        "id": "7008004",
+        "b": 7,
+        "c": 8,
+        "v": 5,
+        "t": "Mereka berkata kepada orang-orang Sukot, \"Berilah kami sedikit makanan. Kami sedang kepayahan karena mengejar Zebah dan Salmuna, raja-raja Midian.\"",
+        "h": "",
+        "o": 4,
+        "l": "5"
+    },
+    {
+        "id": "7008005",
+        "b": 7,
+        "c": 8,
+        "v": 6,
+        "t": "Tetapi para pemimpin Sukot menjawab, \"Kalian belum berhasil menangkap mereka! Apabila kami memberi kalian makanan, lalu kalian tidak berhasil mengejar mereka, maka pastilah mereka akan berbalik memusnahkan kami.\"",
+        "h": "",
+        "o": 5,
+        "l": "6"
+    },
+    {
+        "id": "7008006",
+        "b": 7,
+        "c": 8,
+        "v": 7,
+        "t": "Gideon menyahut, \"Apabila TUHAN sudah menyerahkan mereka ke dalam tangan kami, aku akan kembali dan merobek-robek daging kalian dengan duri dan onak dari padang gurun.\"",
+        "h": "",
+        "o": 6,
+        "l": "7"
+    },
+    {
+        "id": "7008007",
+        "b": 7,
+        "c": 8,
+        "v": 8,
+        "t": "Gideon berjalan terus ke Pnuel dan minta sedikit makanan di situ, tetapi ia memperoleh jawaban yang sama.",
+        "h": "",
+        "o": 7,
+        "l": "8"
+    },
+    {
+        "id": "7008008",
+        "b": 7,
+        "c": 8,
+        "v": 9,
+        "t": "Kepada mereka pun Gideon berkata, \"Apabila semua perkara ini sudah selesai, aku akan kembali dan merobohkan menaramu.\"",
+        "h": "",
+        "o": 8,
+        "l": "9"
+    },
+    {
+        "id": "7008009",
+        "b": 7,
+        "c": 8,
+        "v": 10,
+        "t": "Sementara itu Raja Zebah dan Raja Salmuna dengan sisa pasukan sebesar lima belas ribu orang berada di Karkor. Hanya itulah sisa bala tentara gabungan orang-orang dari timur karena sudah terbunuh seratus dua puluh ribu orang.",
+        "h": "",
+        "o": 9,
+        "l": "10"
+    },
+    {
+        "id": "7008010",
+        "b": 7,
+        "c": 8,
+        "v": 11,
+        "t": "Gideon berjalan memutar melalui jalan kafilah di sebelah timur Nobah dan Yogbeha, lalu menyergap bala tentara Midian itu.",
+        "h": "",
+        "o": 10,
+        "l": "11"
+    },
+    {
+        "id": "7008011",
+        "b": 7,
+        "c": 8,
+        "v": 12,
+        "t": "Kedua raja itu melarikan diri, tetapi Gideon mengejar serta menangkap mereka dan mengkocar-kacirkan seluruh bala tentara mereka.",
+        "h": "",
+        "o": 11,
+        "l": "12"
+    },
+    {
+        "id": "7008012",
+        "b": 7,
+        "c": 8,
+        "v": 13,
+        "t": "Lalu Gideon kembali melalui Terusan Heres.",
+        "h": "",
+        "o": 12,
+        "l": "13"
+    },
+    {
+        "id": "7008013",
+        "b": 7,
+        "c": 8,
+        "v": 14,
+        "t": "Di situ ia menangkap seorang pemuda dari Sukot dan menyuruh dia menuliskan nama ketujuh puluh tujuh orang pemimpin di kota itu.",
+        "h": "",
+        "o": 13,
+        "l": "14"
+    },
+    {
+        "id": "7008014",
+        "b": 7,
+        "c": 8,
+        "v": 15,
+        "t": "Kemudian ia kembali ke Sukot, dan berkata kepada para pemimpin kota itu, \"Kalian mencemoohkan aku dengan mengatakan bahwa aku tidak akan dapat menangkap Raja Zebah dan Raja Salmuna; kalian tidak mau memberi makanan kepada kami ketika kami letih serta lapar, inilah Zebah dan Salmuna!\"",
+        "h": "",
+        "o": 14,
+        "l": "15"
+    },
+    {
+        "id": "7008015",
+        "b": 7,
+        "c": 8,
+        "v": 16,
+        "t": "Setelah itu ia membawa para pemimpin kota itu dan memarut tubuh mereka dengan duri dan onak dari padang gurun sampai mati.",
+        "h": "",
+        "o": 15,
+        "l": "16"
+    },
+    {
+        "id": "7008016",
+        "b": 7,
+        "c": 8,
+        "v": 17,
+        "t": "Ia juga pergi ke Pnuel dan merobohkan menaranya serta membunuh semua orang laki-laki di kota itu.",
+        "h": "",
+        "o": 16,
+        "l": "17"
+    },
+    {
+        "id": "7008017",
+        "b": 7,
+        "c": 8,
+        "v": 18,
+        "t": "Lalu Gideon bertanya kepada Raja Zebah dan Raja Salmuna, \"Bagaimana rupa orang-orang yang kalian bunuh di Tabor itu?\" Mereka menjawab, \"Orang-orang itu seperti engkau, -- seperti anak-anak raja!\"",
+        "h": "",
+        "o": 17,
+        "l": "18"
+    },
+    {
+        "id": "7008018",
+        "b": 7,
+        "c": 8,
+        "v": 19,
+        "t": "\"Pastilah mereka itu saudara-saudaraku, anak-anak ibuku!\" kata Gideon. \"Demi TUHAN yang hidup, sekiranya kalian tidak membunuh mereka, maka aku pun tidak akan membunuh kalian.\"",
+        "h": "",
+        "o": 18,
+        "l": "19"
+    },
+    {
+        "id": "7008019",
+        "b": 7,
+        "c": 8,
+        "v": 20,
+        "t": "Lalu ia menoleh kepada Yeter, putra sulungnya, serta berkata, \"Bangunlah dan bunuhlah mereka\". Tetapi anak itu masih muda dan tidak berani melaksanakannya.",
+        "h": "",
+        "o": 19,
+        "l": "20"
+    },
+    {
+        "id": "7008020",
+        "b": 7,
+        "c": 8,
+        "v": 21,
+        "t": "Zebah dan Salmuna berkata kepada Gideon, \"Engkau sajalah yang membunuh kami, karena engkau memiliki kekuatan seorang perkasa!\" Maka Gideon membunuh mereka dan mengambil perhiasan yang terdapat pada leher unta mereka.",
+        "h": "",
+        "o": 20,
+        "l": "21"
+    },
+    {
+        "id": "7008021",
+        "b": 7,
+        "c": 8,
+        "v": 22,
+        "t": "Kemudian orang-orang Israel berkata kepada Gideon, \"Biarlah engkau memerintah kami! Engkau dan putra-putramu serta semua keturunanmu, karena engkau sudah menyelamatkan kami dari bangsa Midian.\"",
+        "h": "Akhir hidup Gideon",
+        "o": 21,
+        "l": "22"
+    },
+    {
+        "id": "7008022",
+        "b": 7,
+        "c": 8,
+        "v": 23,
+        "t": "Tetapi Gideon menyahut, \"Aku tidak mau memerintah kalian, anak-anakku pun tidak. Hanya TUHANlah yang memerintah kalian. Namun demikian aku mempunyai satu permintaan, yaitu setiap orang di antara kalian hendaknya memberikan kepadaku anting-anting yang telah diambil dari musuh.\" Pasukan Midian itu orang-orang keturunan Ismael dan mereka memakai anting-anting emas.",
+        "h": "",
+        "o": 22,
+        "l": "23-24"
+    },
+    {
+        "id": "7008023",
+        "b": 7,
+        "c": 8,
+        "v": 25,
+        "t": "\"Dengan senang hati!\" jawab mereka. Lalu mereka membentangkan sehelai kain untuk menaruh anting-anting emas yang telah dirampas mereka dari musuh.",
+        "h": "",
+        "o": 23,
+        "l": "25"
+    },
+    {
+        "id": "7008024",
+        "b": 7,
+        "c": 8,
+        "v": 26,
+        "t": "Semuanya mencapai 1.700 syikal emas (19,5 kilogram), belum termasuk bulan-bulanan, perhiasan telinga serta pakaian raja-raja, dan kalung rantai pada leher unta.",
+        "h": "",
+        "o": 24,
+        "l": "26"
+    },
+    {
+        "id": "7008025",
+        "b": 7,
+        "c": 8,
+        "v": 27,
+        "t": "Gideon membuat sebuah efod dari semua emas itu dan menaruhnya di Ofra, kampung halamannya. Tetapi tidak lama kemudian seluruh Israel mulai menyembah benda itu dan menyebabkan Gideon dan seisi rumahnya melakukan apa yang jahat dalam pandangan TUHAN.",
+        "h": "",
+        "o": 25,
+        "l": "27"
+    },
+    {
+        "id": "7008026",
+        "b": 7,
+        "c": 8,
+        "v": 28,
+        "t": "Itulah peristiwa bagaimana bangsa Midian ditaklukkan oleh orang Israel. Bangsa Midian tidak pernah jaya lagi dan tidak pernah mengganggu lagi, sehingga negeri itu menjadi aman tentram selama empat puluh tahun -- yaitu semasa hidup Gideon.",
+        "h": "",
+        "o": 26,
+        "l": "28"
+    },
+    {
+        "id": "7008027",
+        "b": 7,
+        "c": 8,
+        "v": 29,
+        "t": "Kemudian Yerubaal (Gideon) putra Yoas pulang ke rumahnya.",
+        "h": "",
+        "o": 27,
+        "l": "29"
+    },
+    {
+        "id": "7008028",
+        "b": 7,
+        "c": 8,
+        "v": 30,
+        "t": "Ia mempunyai tujuh puluh anak laki-laki karena ia mempunyai banyak istri.",
+        "h": "",
+        "o": 28,
+        "l": "30"
+    },
+    {
+        "id": "7008029",
+        "b": 7,
+        "c": 8,
+        "v": 31,
+        "t": "Ia juga mempunyai seorang gundik di Sikhem. Wanita itu melahirkan seorang putra baginya yang diberi nama Abimelekh.",
+        "h": "",
+        "o": 29,
+        "l": "31"
+    },
+    {
+        "id": "7008030",
+        "b": 7,
+        "c": 8,
+        "v": 32,
+        "t": "Akhirnya Gideon meninggal setelah mencapai umur yang sangat lanjut, dan dikuburkan di dekat makam ayahnya, Yoas, di Ofra, di tanah orang Abiezer.",
+        "h": "",
+        "o": 30,
+        "l": "32"
+    },
+    {
+        "id": "7008031",
+        "b": 7,
+        "c": 8,
+        "v": 33,
+        "t": "Sesudah Gideon meninggal, orang Israel mulai menyembah berhala-berhala, yaitu Baal dan Baal-Berit.",
+        "h": "",
+        "o": 31,
+        "l": "33"
+    },
+    {
+        "id": "7008032",
+        "b": 7,
+        "c": 8,
+        "v": 34,
+        "t": "Mereka tidak lagi memandang TUHAN sebagai Allah mereka, walaupun TUHAN telah menyelamatkan mereka dari semua musuh yang ada di sekitar mereka.",
+        "h": "",
+        "o": 32,
+        "l": "34"
+    },
+    {
+        "id": "7008033",
+        "b": 7,
+        "c": 8,
+        "v": 35,
+        "t": "Mereka juga tidak bersikap ramah terhadap keluarga Gideon, padahal begitu banyak kebaikan yang telah dilakukannya bagi mereka.",
+        "h": "",
+        "o": 33,
+        "l": "35"
+    },
+    {
+        "id": "7009001",
+        "b": 7,
+        "c": 9,
+        "v": 1,
+        "t": "PADA suatu hari Abimelekh putra Yerubaal mengunjungi paman-pamannya, saudara laki-laki ibunya, di Sikhem.",
+        "h": "Abimelekh",
+        "o": 1,
+        "l": "1"
+    },
+    {
+        "id": "7009002",
+        "b": 7,
+        "c": 9,
+        "v": 2,
+        "t": "Ia berkata kepada mereka, \"Pergilah kepada para penduduk Kota Sikhem dan tanyakan apakah mereka lebih suka diperintah oleh tujuh puluh orang raja -- yaitu semua anak Yerubaal -- atau oleh satu orang saja -- yaitu aku, darah dagingmu sendiri!\"",
+        "h": "",
+        "o": 2,
+        "l": "2"
+    },
+    {
+        "id": "7009003",
+        "b": 7,
+        "c": 9,
+        "v": 3,
+        "t": "Maka paman-pamannya pergi kepada seluruh penduduk Kota Sikhem dan mengajukan apa yang dikemukakan Abimelekh itu. Mereka memutuskan untuk memilih diperintah Abimelekh karena ibunya seorang penduduk asli kota itu. \"Dia saudara kita,\" kata mereka.",
+        "h": "",
+        "o": 3,
+        "l": "3"
+    },
+    {
+        "id": "7009004",
+        "b": 7,
+        "c": 9,
+        "v": 4,
+        "t": "Mereka memberi tujuh puluh uang perak (800 gram) kepadanya dari uang persembahan di kuil Baal-Berit. Abimelekh memakai perak itu untuk menyewa beberapa orang gelandangan yang tidak punya pekerjaan dan mau melakukan apa saja yang disuruhkan kepada mereka.",
+        "h": "",
+        "o": 4,
+        "l": "4"
+    },
+    {
+        "id": "7009005",
+        "b": 7,
+        "c": 9,
+        "v": 5,
+        "t": "Ia membawa mereka ke rumah ayahnya di Ofra. Di situ, di atas sebuah batu, mereka membunuh ketujuh puluh saudara tirinya itu, kecuali yang bungsu, Yotam, karena ia dapat lolos dan bersembunyi.",
+        "h": "",
+        "o": 5,
+        "l": "5"
+    },
+    {
+        "id": "7009006",
+        "b": 7,
+        "c": 9,
+        "v": 6,
+        "t": "Kemudian penduduk Sikhem dan Bet-Milo memanggil orang berkumpul di bawah pohon tarbantin, di sebelah tugu peringatan di Sikhem. Mereka mengangkat Abimelekh sebagai raja.",
+        "h": "",
+        "o": 6,
+        "l": "6"
+    },
+    {
+        "id": "7009007",
+        "b": 7,
+        "c": 9,
+        "v": 7,
+        "t": "Ketika Yotam mendengar tentang hal itu, ia berdiri di atas puncak Gunung Gerizim dan berseru kepada orang-orang Sikhem, \"Dengarkanlah aku, maka Allah akan mendengarkan kalian!",
+        "h": "",
+        "o": 7,
+        "l": "7"
+    },
+    {
+        "id": "7009008",
+        "b": 7,
+        "c": 9,
+        "v": 8,
+        "t": "Suatu ketika pohon-pohon sepakat untuk memilih seorang raja. Mula-mula mereka berkata kepada pohon zaitun, 'Jadilah raja kami!' Tetapi pohon itu menolak.",
+        "h": "",
+        "o": 8,
+        "l": "8"
+    },
+    {
+        "id": "7009009",
+        "b": 7,
+        "c": 9,
+        "v": 9,
+        "t": "\"'Apakah aku harus berhenti menghasilkan minyak yang dihargai oleh Allah dan manusia, hanya untuk melayang-layang di atas pohon-pohon lain?' tanyanya.",
+        "h": "",
+        "o": 9,
+        "l": "9"
+    },
+    {
+        "id": "7009010",
+        "b": 7,
+        "c": 9,
+        "v": 10,
+        "t": "\"Lalu mereka berkata kepada pohon ara, 'Jadilah raja kami!'",
+        "h": "",
+        "o": 10,
+        "l": "10"
+    },
+    {
+        "id": "7009011",
+        "b": 7,
+        "c": 9,
+        "v": 11,
+        "t": "\"Tapi pohon ara juga menolak. 'Apakah aku harus berhenti menghasilkan manisan dan buah-buah hanya untuk melayang-layang di atas pohon-pohon lain?' tanyanya.",
+        "h": "",
+        "o": 11,
+        "l": "11"
+    },
+    {
+        "id": "7009012",
+        "b": 7,
+        "c": 9,
+        "v": 12,
+        "t": "\"Lalu mereka berkata kepada pohon anggur, 'Jadilah raja kami!'",
+        "h": "",
+        "o": 12,
+        "l": "12"
+    },
+    {
+        "id": "7009013",
+        "b": 7,
+        "c": 9,
+        "v": 13,
+        "t": "\"Tetapi pohon anggur itu menjawab, 'Apakah aku harus meninggalkan anggur yang menyenangkan hati Allah dan manusia, hanya untuk melayang-layang di atas pohon-pohon lain?'",
+        "h": "",
+        "o": 13,
+        "l": "13"
+    },
+    {
+        "id": "7009014",
+        "b": 7,
+        "c": 9,
+        "v": 14,
+        "t": "\"Akhirnya semua pohon itu berpaling kepada semak duri. 'Jadilah raja kami!' kata mereka.",
+        "h": "",
+        "o": 14,
+        "l": "14"
+    },
+    {
+        "id": "7009015",
+        "b": 7,
+        "c": 9,
+        "v": 15,
+        "t": "\"Dan semak duri itu menjawab, 'Apabila kalian benar-benar menghendaki aku menjadi raja, datanglah dan rendahkan dirimu di bawah naunganku! Apabila kalian menolak, biarlah api keluar dari aku dan membakar habis pohon-pohon aras di Gunung Libanon!'",
+        "h": "",
+        "o": 15,
+        "l": "15"
+    },
+    {
+        "id": "7009016",
+        "b": 7,
+        "c": 9,
+        "v": 16,
+        "t": "\"Sekarang pikirkanlah baik-baik apakah dengan menjadikan Abimelekh itu raja kalian, kalian telah mengambil keputusan yang baik dan benar terhadap Yerubaal dan semua keturunannya, seimbang dengan jasanya,",
+        "h": "",
+        "o": 16,
+        "l": "16"
+    },
+    {
+        "id": "7009017",
+        "b": 7,
+        "c": 9,
+        "v": 17,
+        "t": "karena ayahku sudah berperang untuk kalian dengan mempertaruhkan nyawanya dan melepaskan kalian dari orang-orang Midian.",
+        "h": "",
+        "o": 17,
+        "l": "17"
+    },
+    {
+        "id": "7009018",
+        "b": 7,
+        "c": 9,
+        "v": 18,
+        "t": "Namun kalian telah memberontak terhadap dia dan membunuh ketujuh puluh anaknya di atas sebuah batu. Sekarang kalian telah memilih anak budak perempuannya, yaitu Abimelekh, untuk menjadi raja kalian, hanya karena kalian kaum keluarganya.",
+        "h": "",
+        "o": 18,
+        "l": "18"
+    },
+    {
+        "id": "7009019",
+        "b": 7,
+        "c": 9,
+        "v": 19,
+        "t": "Bila kalian merasa yakin telah melakukan hal yang baik dan benar demi Yerubaal dan demi keturunannya, kiranya kalian serta Abimelekh hidup berbahagia (dan panjang umur).",
+        "h": "",
+        "o": 19,
+        "l": "19"
+    },
+    {
+        "id": "7009020",
+        "b": 7,
+        "c": 9,
+        "v": 20,
+        "t": "Tetapi, bila tidak demikian, kiranya api keluar dari Abimelekh dan memusnahkan penduduk Kota Sikhem dan Bet-Milo; dan kiranya mereka juga mengeluarkan api untuk memusnahkan Abimelekh!\"",
+        "h": "",
+        "o": 20,
+        "l": "20"
+    },
+    {
+        "id": "7009021",
+        "b": 7,
+        "c": 9,
+        "v": 21,
+        "t": "Lalu Yotam melarikan diri dan hidup di Beer karena takut akan Abimelekh, saudaranya itu.",
+        "h": "",
+        "o": 21,
+        "l": "21"
+    },
+    {
+        "id": "7009022",
+        "b": 7,
+        "c": 9,
+        "v": 22,
+        "t": "Tiga tahun kemudian Allah menimbulkan perpecahan antara Raja Abimelekh dan penduduk Kota Sikhem, sehingga penduduk Kota Sikhem memberontak terhadap Abimelekh.",
+        "h": "",
+        "o": 22,
+        "l": "22-23"
+    },
+    {
+        "id": "7009023",
+        "b": 7,
+        "c": 9,
+        "v": 24,
+        "t": "Kejadian-kejadian selanjutnya menunjukkan bahwa Abimelekh dan penduduk Kota Sikhem yang telah membantu dia membunuh ketujuh puluh putra Gideon itu mendapat balasan yang setimpal atas perbuatan mereka.",
+        "h": "",
+        "o": 23,
+        "l": "24"
+    },
+    {
+        "id": "7009024",
+        "b": 7,
+        "c": 9,
+        "v": 25,
+        "t": "Orang-orang Sikhem menyiapkan penyergapan terhadap Abimelekh di jalan yang menuju ke puncak gunung. Sementara mereka menunggu dia lewat, mereka merampok setiap orang yang lalu di situ. Tetapi ada orang yang memberitahu Abimelekh mengenai rencana mereka.",
+        "h": "",
+        "o": 24,
+        "l": "25"
+    },
+    {
+        "id": "7009025",
+        "b": 7,
+        "c": 9,
+        "v": 26,
+        "t": "Pada waktu itu Gaal putra Ebed pindah ke Sikhem dengan saudara-saudaranya, dan ia menjadi salah seorang warga yang terkemuka.",
+        "h": "",
+        "o": 25,
+        "l": "26"
+    },
+    {
+        "id": "7009026",
+        "b": 7,
+        "c": 9,
+        "v": 27,
+        "t": "Selama pesta panen di Sikhem pada tahun itu, yang diadakan di sebuah kuil dewa orang-orang di situ, air anggur disediakan dengan berlimpah-limpah dan orang minum dengan bebas sambil menyumpahi Abimelekh.",
+        "h": "",
+        "o": 26,
+        "l": "27"
+    },
+    {
+        "id": "7009027",
+        "b": 7,
+        "c": 9,
+        "v": 28,
+        "t": "\"Siapakah Abimelekh itu,\" seru Gaal, \"dan mengapa dia yang harus menjadi raja kita? Mengapa kita jadi hambanya? Bukankah dia dan Zebul, temannya itu, seharusnya menjadi hamba Hemor, pendiri Kota Sikhem? Mengapa kita, keturunan Hemor, harus menjadi hambanya?",
+        "h": "",
+        "o": 27,
+        "l": "28"
+    },
+    {
+        "id": "7009028",
+        "b": 7,
+        "c": 9,
+        "v": 29,
+        "t": "Turunkan Abimelekh! Seandainya aku raja kalian, maka aku akan mengusir Abimelekh! Aku akan menantang dia serta berkata kepadanya, 'Kerahkanlah pasukan tentaramu dan keluarlah melawan aku!'\"",
+        "h": "",
+        "o": 28,
+        "l": "29"
+    },
+    {
+        "id": "7009029",
+        "b": 7,
+        "c": 9,
+        "v": 30,
+        "t": "Ketika Zebul, yang menjadi walikota di situ, mendengar perkataan Gaal, ia menjadi sangat marah.",
+        "h": "",
+        "o": 29,
+        "l": "30"
+    },
+    {
+        "id": "7009030",
+        "b": 7,
+        "c": 9,
+        "v": 31,
+        "t": "Ia mengutus orang kepada Abimelekh di Aruma dengan pesan demikian, \"Gaal putra Ebed telah datang ke Sikhem dengan kaum keluarganya untuk menetap di situ. Tetapi sekarang ia sedang menghasut kota untuk memberontak terhadap engkau.",
+        "h": "",
+        "o": 30,
+        "l": "31"
+    },
+    {
+        "id": "7009031",
+        "b": 7,
+        "c": 9,
+        "v": 32,
+        "t": "Karena itu datanglah pada malam hari dengan sepasukan tentara dan bersembunyilah di ladang-ladang.",
+        "h": "",
+        "o": 31,
+        "l": "32"
+    },
+    {
+        "id": "7009032",
+        "b": 7,
+        "c": 9,
+        "v": 33,
+        "t": "Keesokan harinya, pagi-pagi, pada waktu matahari terbit, serbulah kota itu. Apabila dia serta pengikutnya keluar memerangi engkau, engkau dapat berbuat sesukamu terhadap mereka!\"",
+        "h": "",
+        "o": 32,
+        "l": "33"
+    },
+    {
+        "id": "7009033",
+        "b": 7,
+        "c": 9,
+        "v": 34,
+        "t": "Maka pada malam hari Abimelekh dan bala tentaranya datang, lalu berpencar menjadi empat pasukan yang ditempatkan di sekitar kota.",
+        "h": "",
+        "o": 33,
+        "l": "34"
+    },
+    {
+        "id": "7009034",
+        "b": 7,
+        "c": 9,
+        "v": 35,
+        "t": "Keesokan harinya, pagi-pagi, ketika Gaal sedang berada di pintu gerbang kota, memperbincangkan bermacam-macam persoalan dengan para pemimpin setempat, Abimelekh dan orang-orangnya berangkat menuju ke kota.",
+        "h": "",
+        "o": 34,
+        "l": "35"
+    },
+    {
+        "id": "7009035",
+        "b": 7,
+        "c": 9,
+        "v": 36,
+        "t": "Gaal melihat mereka dan ia berkata kepada Zebul, \"Lihatlah ke gunung itu! Bukankah itu orang-orang yang sedang berjalan turun?\" \"Bukan!\" kata Zebul. \"Itu cuma bayangan yang tampak seperti orang!\"",
+        "h": "",
+        "o": 35,
+        "l": "36"
+    },
+    {
+        "id": "7009036",
+        "b": 7,
+        "c": 9,
+        "v": 37,
+        "t": "\"Bukan itu, lihatlah ke sebelah sana,\" kata Gaal. \"Aku yakin aku melihat orang banyak datang dari Gunung Pusat Tanah menuju ke sini. Dan lihatlah! Banyak lagi yang datang dari jalan yang melalui Pohon Tarbantin Peramal di Meonenim!\"",
+        "h": "",
+        "o": 36,
+        "l": "37"
+    },
+    {
+        "id": "7009037",
+        "b": 7,
+        "c": 9,
+        "v": 38,
+        "t": "Lalu Zebul berkata kepadanya, \"Manakah sekarang mulutmu yang besar, yang mengatakan, 'Siapakah Abimelekh itu, dan mengapa dia yang harus menjadi raja kita?' Orang-orang yang kautantang dan kausumpahi itu sedang berada di luar pintu kota! Ayo keluarlah dan lawanlah!\"",
+        "h": "",
+        "o": 37,
+        "l": "38"
+    },
+    {
+        "id": "7009038",
+        "b": 7,
+        "c": 9,
+        "v": 39,
+        "t": "Gaal memimpin orang-orang Sikhem itu berperang melawan Abimelekh,",
+        "h": "",
+        "o": 38,
+        "l": "39"
+    },
+    {
+        "id": "7009039",
+        "b": 7,
+        "c": 9,
+        "v": 40,
+        "t": "tetapi ia kalah. Banyak di antara orang Sikhem itu luka parah dan terkapar di sepanjang jalan sampai ke pintu kota.",
+        "h": "",
+        "o": 39,
+        "l": "40"
+    },
+    {
+        "id": "7009040",
+        "b": 7,
+        "c": 9,
+        "v": 41,
+        "t": "Pada waktu itu Abimelekh tinggal di Aruma. Zebul mengusir Gaal serta kaum keluarganya keluar dari Sikhem dan tidak mengizinkan dia tinggal di situ lagi.",
+        "h": "",
+        "o": 40,
+        "l": "41"
+    },
+    {
+        "id": "7009041",
+        "b": 7,
+        "c": 9,
+        "v": 42,
+        "t": "Keesokan harinya orang-orang Sikhem maju berperang lagi. Abimelekh diberitahu tentang rencana mereka itu,",
+        "h": "",
+        "o": 41,
+        "l": "42"
+    },
+    {
+        "id": "7009042",
+        "b": 7,
+        "c": 9,
+        "v": 43,
+        "t": "maka ia membagi bala tentaranya menjadi tiga pasukan yang bersembunyi di ladang-ladang. Ketika orang-orang dari kota itu keluar untuk berperang, ia serta pasukannya menyergap mereka dari tempat persembunyiannya dan membunuh mereka.",
+        "h": "",
+        "o": 42,
+        "l": "43"
+    },
+    {
+        "id": "7009043",
+        "b": 7,
+        "c": 9,
+        "v": 44,
+        "t": "Abimelekh menyerbu ke pintu gerbang kota untuk mencegah orang-orang Sikhem masuk kembali ke kota, sedangkan kedua pasukannya yang lain menumpas mereka di ladang-ladang.",
+        "h": "",
+        "o": 43,
+        "l": "44"
+    },
+    {
+        "id": "7009044",
+        "b": 7,
+        "c": 9,
+        "v": 45,
+        "t": "Pertempuran itu berlangsung sepanjang hari. Akhirnya Abimelekh menduduki kota itu dan membasmi penduduknya. Ia membumiratakan kota itu lalu menaburi tanahnya dengan garam.",
+        "h": "",
+        "o": 44,
+        "l": "45"
+    },
+    {
+        "id": "7009045",
+        "b": 7,
+        "c": 9,
+        "v": 46,
+        "t": "Orang-orang dari Kota Menara Sikhem (Migdal), yang letaknya dekat dari situ, melihat apa yang sedang terjadi. Mereka lari bersembunyi di lubang perlindungan di kuil Baal-Berit.",
+        "h": "",
+        "o": 45,
+        "l": "46"
+    },
+    {
+        "id": "7009046",
+        "b": 7,
+        "c": 9,
+        "v": 47,
+        "t": "Ketika Abimelekh mendengar hal itu, ia membawa bala tentaranya ke Gunung Zalmon. Di situ, dengan kapaknya, ia memotong dahan-dahan kayu lalu memikul dahan-dahan itu di atas bahunya. \"Turutilah perbuatanku ini,\" katanya kepada orang-orangnya.",
+        "h": "",
+        "o": 46,
+        "l": "47-48"
+    },
+    {
+        "id": "7009047",
+        "b": 7,
+        "c": 9,
+        "v": 49,
+        "t": "Orang-orang Abimelekh menurut; mereka segera memotong dahan-dahan kayu dan membawanya masuk ke kota. Kemudian mereka menumpukkannya di mulut lubang perlindungan itu dan membakarnya. Semua orang di dalam lubang itu pun matilah, kira-kira seribu orang banyaknya, laki-laki dan perempuan.",
+        "h": "",
+        "o": 47,
+        "l": "49"
+    },
+    {
+        "id": "7009048",
+        "b": 7,
+        "c": 9,
+        "v": 50,
+        "t": "Lalu Abimelekh menyerang Kota Tebes, dan mendudukinya.",
+        "h": "Abimelekh meninggal",
+        "o": 48,
+        "l": "50"
+    },
+    {
+        "id": "7009049",
+        "b": 7,
+        "c": 9,
+        "v": 51,
+        "t": "Tetapi di dalam kota itu ada sebuah menara yang kuat dan seluruh penduduk lari ke situ, menutup pintu-pintu gerbangnya, dan naik ke atapnya. Dari situ mereka memperhatikan Abimelekh.",
+        "h": "",
+        "o": 49,
+        "l": "51"
+    },
+    {
+        "id": "7009050",
+        "b": 7,
+        "c": 9,
+        "v": 52,
+        "t": "Abimelekh sampai ke pintu gerbang menara itu dan bersiap-siap untuk membakarnya,",
+        "h": "",
+        "o": 50,
+        "l": "52"
+    },
+    {
+        "id": "7009051",
+        "b": 7,
+        "c": 9,
+        "v": 53,
+        "t": "tetapi seorang perempuan melemparkan sebuah batu kilangan ke bawah. Batu itu menimpa kepala Abimelekh, memecahkan tulang tengkoraknya.",
+        "h": "",
+        "o": 51,
+        "l": "53"
+    },
+    {
+        "id": "7009052",
+        "b": 7,
+        "c": 9,
+        "v": 54,
+        "t": "\"Hunuslah pedangmu dan bunuhlah aku!\" katanya kepada anak muda pembawa senjatanya, \"Supaya jangan ada orang yang mengatakan bahwa Abimelekh telah dibunuh oleh seorang perempuan!\" Anak muda itu menusuk dia dengan pedangnya, maka Abimelekh pun matilah.",
+        "h": "",
+        "o": 52,
+        "l": "54"
+    },
+    {
+        "id": "7009053",
+        "b": 7,
+        "c": 9,
+        "v": 55,
+        "t": "Ketika orang-orang Abimelekh melihat bahwa ia telah meninggal, bubarlah mereka dan pulang ke rumah masing-masing.",
+        "h": "",
+        "o": 53,
+        "l": "55"
+    },
+    {
+        "id": "7009054",
+        "b": 7,
+        "c": 9,
+        "v": 56,
+        "t": "Demikianlah Allah menghukum Abimelekh dan orang-orang dari Sikhem itu atas dosa mereka, karena mereka telah membunuh ketujuh puluh putra Gideon. Kutukan Yotam putra Gideon menjadi kenyataan.",
+        "h": "",
+        "o": 54,
+        "l": "56-57"
+    },
+    {
+        "id": "7010001",
+        "b": 7,
+        "c": 10,
+        "v": 1,
+        "t": "SETELAH Abimelekh meninggal, Tola putra Pua, cucu Dodo, menjadi hakim bangsa Israel. Ia berasal dari suku Isakhar, tetapi tinggal di Kota Samir di Pegunungan Efraim.",
+        "h": "Tola",
+        "o": 1,
+        "l": "1"
+    },
+    {
+        "id": "7010002",
+        "b": 7,
+        "c": 10,
+        "v": 2,
+        "t": "Ia menjadi hakim Israel selama dua puluh tiga tahun. Ketika ia meninggal ia dikuburkan di Samir.",
+        "h": "",
+        "o": 2,
+        "l": "2"
+    },
+    {
+        "id": "7010003",
+        "b": 7,
+        "c": 10,
+        "v": 3,
+        "t": "Kemudian Yair orang Gilead menggantikan dia sebagai hakim Israel selama dua puluh dua tahun.",
+        "h": "Yair",
+        "o": 3,
+        "l": "3"
+    },
+    {
+        "id": "7010004",
+        "b": 7,
+        "c": 10,
+        "v": 4,
+        "t": "Ketiga puluh orang putranya giat berkeliling dengan mengendarai tiga puluh ekor keledai jantan, dan mereka memiliki tiga puluh kota di Tanah Gilead yang sampai sekarang disebut Hawot-Yair (\"Kota-kota Yair\").",
+        "h": "",
+        "o": 4,
+        "l": "4"
+    },
+    {
+        "id": "7010005",
+        "b": 7,
+        "c": 10,
+        "v": 5,
+        "t": "Ketika Yair meninggal ia dikuburkan di Kamon.",
+        "h": "",
+        "o": 5,
+        "l": "5"
+    },
+    {
+        "id": "7010006",
+        "b": 7,
+        "c": 10,
+        "v": 6,
+        "t": "Kemudian orang-orang Israel meninggalkan TUHAN lagi. Mereka menyembah dewa-dewa orang kafir, yaitu Baal dan Asytoret, dan allah-allah orang Aram, orang Sidon, orang Moab, orang Amon, dan orang Filistin. Bukan hanya itu saja; mereka sama sekali tidak lagi menyembah Yahweh, TUHAN.",
+        "h": "Bani Amon menindas Israel",
+        "o": 6,
+        "l": "6"
+    },
+    {
+        "id": "7010007",
+        "b": 7,
+        "c": 10,
+        "v": 7,
+        "t": "Hal ini menyebabkan Yahweh, TUHAN, sangat murka terhadap umat-Nya, sehingga Ia membiarkan orang Filistin dan orang Amon menguasai mereka.",
+        "h": "",
+        "o": 7,
+        "l": "7"
+    },
+    {
+        "id": "7010008",
+        "b": 7,
+        "c": 10,
+        "v": 8,
+        "t": "Serangan-serangan itu dimulai di sebelah timur Sungai Yordan di tanah orang Amori, yaitu di Gilead; juga di Yehuda, Benyamin, dan Efraim. Orang-orang Amon itu menyeberang Sungai Yordan untuk menyerang orang-orang Israel. Ini berlangsung terus-menerus selama delapan belas tahun.",
+        "h": "",
+        "o": 8,
+        "l": "8-9"
+    },
+    {
+        "id": "7010009",
+        "b": 7,
+        "c": 10,
+        "v": 10,
+        "t": "Akhirnya bangsa Israel kembali berseru kepada Yahweh, TUHAN, minta tolong. \"Kami telah berdosa kepada-Mu. Kami telah meninggalkan Engkau, Allah kami, dan menyembah berhala,\" kata mereka.",
+        "h": "",
+        "o": 9,
+        "l": "10"
+    },
+    {
+        "id": "7010010",
+        "b": 7,
+        "c": 10,
+        "v": 11,
+        "t": "Tetapi TUHAN menjawab, \"Bukankah Aku telah menyelamatkan kamu dari orang Mesir, orang Amori, orang Amon, orang Filistin,",
+        "h": "",
+        "o": 10,
+        "l": "11"
+    },
+    {
+        "id": "7010011",
+        "b": 7,
+        "c": 10,
+        "v": 12,
+        "t": "orang Sidon, orang Amalek, dan orang Maon? Pernahkah Aku tidak menyelamatkan kamu apabila kamu berseru kepada-Ku?",
+        "h": "",
+        "o": 11,
+        "l": "12"
+    },
+    {
+        "id": "7010012",
+        "b": 7,
+        "c": 10,
+        "v": 13,
+        "t": "Tetapi kamu terus-menerus meninggalkan Aku dan menyembah allah-allah lain. Sekarang pergilah; Aku tidak akan menyelamatkan kamu lagi.",
+        "h": "",
+        "o": 12,
+        "l": "13"
+    },
+    {
+        "id": "7010013",
+        "b": 7,
+        "c": 10,
+        "v": 14,
+        "t": "Pergilah memohon kepada allah-allah baru yang telah kamu pilih itu! Biarlah mereka yang menyelamatkan kamu pada waktu kamu tertindas!\"",
+        "h": "",
+        "o": 13,
+        "l": "14"
+    },
+    {
+        "id": "7010014",
+        "b": 7,
+        "c": 10,
+        "v": 15,
+        "t": "Mereka terus memohon kepada TUHAN, \"Kami telah berdosa. Hukumlah kami menurut apa yang baik pada pemandangan-Mu, tetapi selamatkanlah kami sekali lagi dari musuh-musuh kami.\"",
+        "h": "",
+        "o": 14,
+        "l": "15"
+    },
+    {
+        "id": "7010015",
+        "b": 7,
+        "c": 10,
+        "v": 16,
+        "t": "Lalu mereka menghancurkan berhala-berhala mereka; dan beribadah lagi kepada TUHAN. TUHAN sangat berduka karena penderitaan mereka.",
+        "h": "",
+        "o": 15,
+        "l": "16"
+    },
+    {
+        "id": "7010016",
+        "b": 7,
+        "c": 10,
+        "v": 17,
+        "t": "Pada waktu itu bala tentara Amon dikerahkan di Gilead untuk menyerang bala tentara Israel di Mizpa.",
+        "h": "",
+        "o": 16,
+        "l": "17"
+    },
+    {
+        "id": "7010017",
+        "b": 7,
+        "c": 10,
+        "v": 18,
+        "t": "\"Siapakah yang akan memimpin bala tentara kita melawan bangsa Amon?\" para pemimpin Gilead bertanya seorang kepada yang lain. \"Siapa saja yang mau akan diangkat sebagai kepala seluruh penduduk Gilead!\"",
+        "h": "",
+        "o": 17,
+        "l": "18"
+    },
+    {
+        "id": "7011001",
+        "b": 7,
+        "c": 11,
+        "v": 1,
+        "t": "PADA waktu itu ada seorang pahlawan besar bernama Yefta di Tanah Gilead, tetapi ibunya seorang pelacur. Ayahnya (yang bernama Gilead) mempunyai beberapa orang putra lagi dari istrinya yang sah. Ketika saudara-saudara tirinya meningkat dewasa, mereka mengusir Yefta keluar dari negeri itu. \"Kamu anak dari perempuan lain!\" kata mereka. \"Kamu tidak akan memperoleh tanah pusaka ayah kami.\"",
+        "h": "Yefta, putra Gilead",
+        "o": 1,
+        "l": "1-2"
+    },
+    {
+        "id": "7011002",
+        "b": 7,
+        "c": 11,
+        "v": 3,
+        "t": "Yefta lari dari rumah ayahnya dan tinggal di Tanah Tob. Tidak lama kemudian ia sudah mempunyai serombongan orang pemberontak sebagai pengikut-pengikutnya. Mereka hidup dari merampok.",
+        "h": "",
+        "o": 2,
+        "l": "3"
+    },
+    {
+        "id": "7011003",
+        "b": 7,
+        "c": 11,
+        "v": 4,
+        "t": "Kira-kira pada waktu itulah orang-orang Amon mulai berperang melawan Israel.",
+        "h": "",
+        "o": 3,
+        "l": "4"
+    },
+    {
+        "id": "7011004",
+        "b": 7,
+        "c": 11,
+        "v": 5,
+        "t": "Para pemimpin Gilead memanggil Yefta dan minta supaya dia datang untuk memimpin bala tentara mereka melawan orang-orang Amon.",
+        "h": "",
+        "o": 4,
+        "l": "5-6"
+    },
+    {
+        "id": "7011005",
+        "b": 7,
+        "c": 11,
+        "v": 7,
+        "t": "Tetapi Yefta berkata kepada mereka, \"Mengapa kalian datang kepadaku, padahal kalian membenci aku dan telah mengusir aku keluar dari rumah ayahku? Kenapa kalian sekarang datang kepadaku pada waktu kalian mendapat kesukaran?\"",
+        "h": "",
+        "o": 5,
+        "l": "7"
+    },
+    {
+        "id": "7011006",
+        "b": 7,
+        "c": 11,
+        "v": 8,
+        "t": "\"Kami memerlukan engkau,\" jawab mereka. \"Kalau engkau mau menjadi panglima perang kami untuk melawan bangsa Amon, maka kami akan menjadikan engkau kepala kami, seluruh penduduk Gilead.\"",
+        "h": "",
+        "o": 6,
+        "l": "8"
+    },
+    {
+        "id": "7011007",
+        "b": 7,
+        "c": 11,
+        "v": 9,
+        "t": "\"Apakah kalian kira aku akan percaya?\" kata Yefta.",
+        "h": "",
+        "o": 7,
+        "l": "9"
+    },
+    {
+        "id": "7011008",
+        "b": 7,
+        "c": 11,
+        "v": 10,
+        "t": "\"TUHAN saksinya, kami bersumpah,\" jawab mereka.",
+        "h": "",
+        "o": 8,
+        "l": "10"
+    },
+    {
+        "id": "7011009",
+        "b": 7,
+        "c": 11,
+        "v": 11,
+        "t": "Maka Yefta menerima tawaran itu. Ia dijadikan panglima perang dan kepala mereka. Perjanjian itu disahkan di hadapan TUHAN di Mizpa dengan disaksikan orang banyak.",
+        "h": "",
+        "o": 9,
+        "l": "11"
+    },
+    {
+        "id": "7011010",
+        "b": 7,
+        "c": 11,
+        "v": 12,
+        "t": "Lalu Yefta mengirimkan beberapa utusan kepada Raja Amon untuk meminta keterangan apa sebabnya Israel diperangi.",
+        "h": "Yefta mengalahkan bangsa Amon",
+        "o": 10,
+        "l": "12"
+    },
+    {
+        "id": "7011011",
+        "b": 7,
+        "c": 11,
+        "v": 13,
+        "t": "Raja Amon menjawab, \"Tanah itu sesungguhnya milik bangsa Amon yang telah dirampas dari kami, ketika kalian, orang Israel, datang dari Mesir. Seluruh daerah dari Sungai Arnon sampai Sungai Yabok dan Sungai Yordan adalah milik kami. Kembalikanlah tanah kami secara damai,\" katanya.",
+        "h": "",
+        "o": 11,
+        "l": "13"
+    },
+    {
+        "id": "7011012",
+        "b": 7,
+        "c": 11,
+        "v": 14,
+        "t": "Yefta menjawab, \"Israel tidak merampas tanah itu.",
+        "h": "",
+        "o": 12,
+        "l": "14-15"
+    },
+    {
+        "id": "7011013",
+        "b": 7,
+        "c": 11,
+        "v": 16,
+        "t": "Beginilah kejadiannya: Pada waktu orang Israel tiba di Kadesy, dalam perjalanan dari Mesir sesudah menyeberangi Laut Teberau (Laut Merah),",
+        "h": "",
+        "o": 13,
+        "l": "16"
+    },
+    {
+        "id": "7011014",
+        "b": 7,
+        "c": 11,
+        "v": 17,
+        "t": "mereka mengirimkan utusan kepada Raja Edom untuk minta izin melintasi tanahnya. Tetapi permohonan mereka ditolak. Lalu mereka mengajukan permohonan yang sama kepada Raja Moab. Jawaban yang mereka terima juga sama, sehingga orang Israel tinggal di Kadesy.",
+        "h": "",
+        "o": 14,
+        "l": "17"
+    },
+    {
+        "id": "7011015",
+        "b": 7,
+        "c": 11,
+        "v": 18,
+        "t": "\"Akhirnya mereka mengitari Edom dan Moab melalui padang gurun, dan berjalan di sebelah timur daerah itu sampai mereka tiba di seberang perbatasan Moab di Sungai Arnon. Tetapi mereka tidak pernah masuk ke Negeri Moab itu satu kali pun.",
+        "h": "",
+        "o": 15,
+        "l": "18"
+    },
+    {
+        "id": "7011016",
+        "b": 7,
+        "c": 11,
+        "v": 19,
+        "t": "Lalu Israel mengirimkan utusan kepada Raja Sihon, raja orang Amori yang tinggal di Hesybon, untuk minta izin melintasi tanahnya agar dapat sampai ke tempat tujuan.",
+        "h": "",
+        "o": 16,
+        "l": "19"
+    },
+    {
+        "id": "7011017",
+        "b": 7,
+        "c": 11,
+        "v": 20,
+        "t": "Tetapi Raja Sihon tidak mempercayai orang Israel. Malah ia mengerahkan bala tentaranya di Yahaz untuk menyerang mereka.",
+        "h": "",
+        "o": 17,
+        "l": "20"
+    },
+    {
+        "id": "7011018",
+        "b": 7,
+        "c": 11,
+        "v": 21,
+        "t": "Namun TUHAN Allah kami telah menolong Israel mengalahkan Raja Sihon serta seluruh bangsamu, maka bangsa Israel mengambil alih seluruh tanahmu dari Sungai Arnon sampai Yabok, dan dari padang gurun sampai Sungai Yordan.",
+        "h": "",
+        "o": 18,
+        "l": "21-22"
+    },
+    {
+        "id": "7011019",
+        "b": 7,
+        "c": 11,
+        "v": 23,
+        "t": "\"Jadi, jelaslah bahwa TUHAN Allah Israellah yang telah mengambil tanah itu dari orang-orang Amori dan memberikannya kepada bangsa Israel, umat-Nya. Karena itu, mengapa kami harus mengembalikannya kepadamu?",
+        "h": "",
+        "o": 19,
+        "l": "23"
+    },
+    {
+        "id": "7011020",
+        "b": 7,
+        "c": 11,
+        "v": 24,
+        "t": "Engkau mendapat apa yang telah diberikan oleh Dewa Kamos kepadamu, dan kami mendapat apa yang telah diberikan oleh Yahweh, Allah kami, kepada kami!",
+        "h": "",
+        "o": 20,
+        "l": "24"
+    },
+    {
+        "id": "7011021",
+        "b": 7,
+        "c": 11,
+        "v": 25,
+        "t": "Selain itu engkau kira engkau ini siapa? Apakah engkau lebih baik daripada Balak putra Zipor, raja orang Moab? Apakah ia mencoba untuk merebut kembali tanahnya sesudah orang Israel mengalahkan dia? Tentu saja tidak.",
+        "h": "",
+        "o": 21,
+        "l": "25"
+    },
+    {
+        "id": "7011022",
+        "b": 7,
+        "c": 11,
+        "v": 26,
+        "t": "Tetapi sekarang, sesudah tiga ratus tahun, engkau membangkit-bangkit lagi soal ini! Bukankah selama ini bangsa Israel mendiami seluruh tanah ini dari Hesybon sampai Aroer, dan sepanjang Sungai Arnon? Kenapa engkau tidak berusaha merebutnya kembali sejak dulu?",
+        "h": "",
+        "o": 22,
+        "l": "26"
+    },
+    {
+        "id": "7011023",
+        "b": 7,
+        "c": 11,
+        "v": 27,
+        "t": "Tidak, aku tidak bersalah kepadamu. Engkaulah yang bersalah kepadaku karena engkau datang memerangi aku. Yahweh, TUHAN, Hakim itu, akan segera menunjukkan siapa di antara kita yang benar: Israel atau Amon.\"",
+        "h": "",
+        "o": 23,
+        "l": "27"
+    },
+    {
+        "id": "7011024",
+        "b": 7,
+        "c": 11,
+        "v": 28,
+        "t": "Tetapi raja Amon tidak menggubris pesan Yefta.",
+        "h": "",
+        "o": 24,
+        "l": "28"
+    },
+    {
+        "id": "7011025",
+        "b": 7,
+        "c": 11,
+        "v": 29,
+        "t": "Pada masa itu Roh TUHAN turun ke atas Yefta. Lalu Yefta memimpin bala tentaranya melintasi Tanah Gilead dan Manasye, kemudian melalui Mizpa di Gilead, dan menyerang bala tentara Amon.",
+        "h": "Nazar Yefta",
+        "o": 25,
+        "l": "29"
+    },
+    {
+        "id": "7011026",
+        "b": 7,
+        "c": 11,
+        "v": 30,
+        "t": "Sementara itu Yefta telah bernazar kepada TUHAN demikian, \"Apabila Engkau mau menolong aku menaklukkan bangsa Amon dan aku dapat pulang ke rumahku dengan selamat, maka orang pertama yang keluar dari rumahku untuk menyambut aku akan kupersembahkan sebagai kurban bakaran kepada TUHAN!\"",
+        "h": "",
+        "o": 26,
+        "l": "30-31"
+    },
+    {
+        "id": "7011027",
+        "b": 7,
+        "c": 11,
+        "v": 32,
+        "t": "Lalu Yefta memimpin bala tentaranya melawan orang Amon dan TUHAN memberi kemenangan kepadanya.",
+        "h": "",
+        "o": 27,
+        "l": "32"
+    },
+    {
+        "id": "7011028",
+        "b": 7,
+        "c": 11,
+        "v": 33,
+        "t": "Ia membantai bangsa Amon secara besar-besaran sepanjang jalan dari Aroer sampai Minit, dua puluh kota banyaknya, sampai ke Perkebunan Anggur Abel-Keramim. Demikianlah orang Amon ditaklukkan oleh orang Israel.",
+        "h": "",
+        "o": 28,
+        "l": "33"
+    },
+    {
+        "id": "7011029",
+        "b": 7,
+        "c": 11,
+        "v": 34,
+        "t": "Ketika Yefta pulang ke rumahnya di Mizpa, putrinya -- yaitu anaknya yang tunggal -- lari menyongsong dia, sambil memukul rebana dan menari-nari kegirangan.",
+        "h": "",
+        "o": 29,
+        "l": "34"
+    },
+    {
+        "id": "7011030",
+        "b": 7,
+        "c": 11,
+        "v": 35,
+        "t": "Ketika melihat dia, Yefta merobek pakaiannya dengan hancur hati. \"Ah, Anakku!\" serunya. \"Engkau telah menghancurkan segala pengharapanku, karena aku telah bernazar kepada TUHAN dan aku tidak dapat menariknya kembali.\"",
+        "h": "",
+        "o": 30,
+        "l": "35"
+    },
+    {
+        "id": "7011031",
+        "b": 7,
+        "c": 11,
+        "v": 36,
+        "t": "Putrinya berkata, \"Ayah, Ayah harus melakukan apa yang sudah Ayah janjikan kepada TUHAN, karena Ia telah memberikan kemenangan yang besar kepada Ayah atas musuh-musuh Ayah, orang Amon itu.",
+        "h": "",
+        "o": 31,
+        "l": "36"
+    },
+    {
+        "id": "7011032",
+        "b": 7,
+        "c": 11,
+        "v": 37,
+        "t": "Tetapi, sebelum itu, izinkan aku naik ke gunung-gunung dan mengembara di sana dengan teman-temanku selama dua bulan untuk menangisi diriku, karena aku tidak akan pernah menikah.\"",
+        "h": "",
+        "o": 32,
+        "l": "37"
+    },
+    {
+        "id": "7011033",
+        "b": 7,
+        "c": 11,
+        "v": 38,
+        "t": "\"Ya, pergilah,\" jawab ayahnya. Maka pergilah anak itu untuk menangisi nasibnya selama dua bulan bersama-sama dengan teman-temannya.",
+        "h": "",
+        "o": 33,
+        "l": "38"
+    },
+    {
+        "id": "7011034",
+        "b": 7,
+        "c": 11,
+        "v": 39,
+        "t": "Sesudah itu ia kembali kepada ayahnya dan ayahnya berbuat seperti yang telah dinazarkannya. Dan anak perempuan itu pun tidak pernah menikah. Sejak itu ada kebiasaan di Israel,",
+        "h": "",
+        "o": 34,
+        "l": "39"
+    },
+    {
+        "id": "7011035",
+        "b": 7,
+        "c": 11,
+        "v": 40,
+        "t": "bahwa setiap tahun gadis-gadis remaja selama empat hari meratapi nasib putri Yefta.",
+        "h": "",
+        "o": 35,
+        "l": "40"
+    },
+    {
+        "id": "7012001",
+        "b": 7,
+        "c": 12,
+        "v": 1,
+        "t": "KEMUDIAN suku Efraim mengerahkan bala tentaranya di Zafon dan mengirimkan pesan ini kepada Yefta, \"Kenapa engkau tidak memanggil kami ketika engkau berperang dengan bangsa Amon? Kami akan membakar habis rumahmu bersama-sama dengan engkau!\"",
+        "h": "Yefta bermusuhan dengan Efraim",
+        "o": 1,
+        "l": "1"
+    },
+    {
+        "id": "7012002",
+        "b": 7,
+        "c": 12,
+        "v": 2,
+        "t": "\"Aku memanggil kalian, tetapi kalian tidak mau datang!\" jawab Yefta. \"Kalian tidak mau menolong kami ketika kami memerlukan pertolongan.",
+        "h": "",
+        "o": 2,
+        "l": "2"
+    },
+    {
+        "id": "7012003",
+        "b": 7,
+        "c": 12,
+        "v": 3,
+        "t": "Maka aku mempertaruhkan nyawaku dan pergi berperang tanpa kalian, dan TUHAN telah menolong aku menaklukkan musuh. Itukah alasanmu untuk memerangi kami?\"",
+        "h": "",
+        "o": 3,
+        "l": "3"
+    },
+    {
+        "id": "7012004",
+        "b": 7,
+        "c": 12,
+        "v": 4,
+        "t": "Orang Efraim mencemoohkan Yefta dengan mengatakan bahwa orang-orang Gilead adalah orang buangan dan sampah masyarakat, sehingga Yefta menjadi murka dan mengerahkan bala tentaranya untuk menyerang suku Efraim.",
+        "h": "",
+        "o": 4,
+        "l": "4"
+    },
+    {
+        "id": "7012005",
+        "b": 7,
+        "c": 12,
+        "v": 5,
+        "t": "Ia menduduki benteng-benteng di tepi Sungai Yordan, di seberang bala tentara Efraim. Kalau ada orang Efraim yang mencoba lari dengan menyeberangi sungai itu, maka orang Gilead yang menjaga di situ bertanya kepadanya, \"Apakah engkau orang Efraim?\" Dan kalau orang itu menjawab, \"Bukan,\"",
+        "h": "",
+        "o": 5,
+        "l": "5"
+    },
+    {
+        "id": "7012006",
+        "b": 7,
+        "c": 12,
+        "v": 6,
+        "t": "maka para penjaga itu berkata, \"Katakanlah syibolet.\" Apabila ia tidak dapat mengucapkan bunyi itu dengan tepat dan berkata \"sibolet\", bukan \"syibolet\", ia ditangkap lalu dibunuh. Pada waktu itu terbunuh empat puluh dua ribu orang Efraim.",
+        "h": "",
+        "o": 6,
+        "l": "6"
+    },
+    {
+        "id": "7012007",
+        "b": 7,
+        "c": 12,
+        "v": 7,
+        "t": "Yefta menjadi hakim Israel selama enam tahun. Kemudian ia meninggal dan dikuburkan di salah satu kota Gilead.",
+        "h": "",
+        "o": 7,
+        "l": "7"
+    },
+    {
+        "id": "7012008",
+        "b": 7,
+        "c": 12,
+        "v": 8,
+        "t": "Lalu Ebzan dari Betlehem menjadi hakim Israel.",
+        "h": "Ebzan",
+        "o": 8,
+        "l": "8"
+    },
+    {
+        "id": "7012009",
+        "b": 7,
+        "c": 12,
+        "v": 9,
+        "t": "Ia mempunyai tiga puluh orang putra dan tiga puluh orang putri. Ia menikahkan putri-putrinya dengan orang-orang dari luar kaumnya, dan mencari tiga puluh orang gadis dari luar kaumnya untuk menjadi istri putra-putranya. Ia menjadi hakim atas Israel selama tujuh tahun. Kemudian ia meninggal dan dikuburkan di Betlehem.",
+        "h": "",
+        "o": 9,
+        "l": "9-10"
+    },
+    {
+        "id": "7012010",
+        "b": 7,
+        "c": 12,
+        "v": 11,
+        "t": "Lalu Elon dari Zebulon menjadi hakim atas Israel selama sepuluh tahun. Kemudian ia meninggal dan dikuburkan di Ayalon, di Tanah Zebulon.",
+        "h": "Elon",
+        "o": 10,
+        "l": "11-12"
+    },
+    {
+        "id": "7012011",
+        "b": 7,
+        "c": 12,
+        "v": 13,
+        "t": "Lalu Abdon putra Hilel dari Piraton, menjadi hakim atas Israel.",
+        "h": "Abdon",
+        "o": 11,
+        "l": "13"
+    },
+    {
+        "id": "7012012",
+        "b": 7,
+        "c": 12,
+        "v": 14,
+        "t": "Ia mempunyai empat puluh orang putra dan tiga puluh orang cucu laki-laki, yang mengendarai tujuh puluh ekor keledai jantan. Ia menjadi hakim atas Israel selama delapan tahun.",
+        "h": "",
+        "o": 12,
+        "l": "14"
+    },
+    {
+        "id": "7012013",
+        "b": 7,
+        "c": 12,
+        "v": 15,
+        "t": "Kemudian ia meninggal dan dikuburkan di Piraton, di Efraim, di daerah pengunungan orang Amalek.",
+        "h": "",
+        "o": 13,
+        "l": "15"
+    },
+    {
+        "id": "7013001",
+        "b": 7,
+        "c": 13,
+        "v": 1,
+        "t": "LAGI-LAGI orang Israel berdosa terhadap TUHAN. Mereka menyembah allah-allah lain. Maka TUHAN membiarkan mereka ditaklukkan oleh bangsa Filistin dan dijajah selama empat puluh tahun.",
+        "h": "Simson lahir",
+        "o": 1,
+        "l": "1"
+    },
+    {
+        "id": "7013002",
+        "b": 7,
+        "c": 13,
+        "v": 2,
+        "t": "Pada waktu itu di Kota Zorah tinggal seorang bernama Manoah dari suku Dan. Ia tidak mempunyai anak, karena istrinya mandul.",
+        "h": "",
+        "o": 2,
+        "l": "2"
+    },
+    {
+        "id": "7013003",
+        "b": 7,
+        "c": 13,
+        "v": 3,
+        "t": "Pada suatu hari datanglah Malaikat TUHAN kepada istri Manoah dan berkata kepadanya, \"Selama ini engkau memang mandul, tetapi engkau akan segera mengandung dan melahirkan seorang anak laki-laki!",
+        "h": "",
+        "o": 3,
+        "l": "3"
+    },
+    {
+        "id": "7013004",
+        "b": 7,
+        "c": 13,
+        "v": 4,
+        "t": "Karena itu jagalah dirimu baik-baik. Jangan minum anggur atau minuman keras, dan jangan makan makanan yang haram.",
+        "h": "",
+        "o": 4,
+        "l": "4"
+    },
+    {
+        "id": "7013005",
+        "b": 7,
+        "c": 13,
+        "v": 5,
+        "t": "Jangan memotong rambut anak itu karena ia akan menjadi seorang nazir Allah, seorang hamba Allah yang dipilih sejak dalam kandungan. Ia akan mulai menyelamatkan bangsa Israel dari orang Filistin.\"",
+        "h": "",
+        "o": 5,
+        "l": "5"
+    },
+    {
+        "id": "7013006",
+        "b": 7,
+        "c": 13,
+        "v": 6,
+        "t": "Perempuan itu lari kepada suaminya dan berkata kepadanya, \"Seorang abdi Allah telah datang kepadaku. Pastilah dia seorang malaikat TUHAN, karena ia begitu mulia kelihatannya sehingga aku takut memandangnya. Aku tidak menanyakan dari mana asalnya dan ia pun tidak mengatakan siapa namanya.",
+        "h": "",
+        "o": 6,
+        "l": "6"
+    },
+    {
+        "id": "7013007",
+        "b": 7,
+        "c": 13,
+        "v": 7,
+        "t": "Tetapi ia berkata kepadaku, 'Engkau akan memperoleh seorang anak laki-laki!' Lalu ia berpesan agar aku jangan minum anggur atau minuman keras, juga jangan makan makanan yang haram, karena bayi itu akan menjadi seorang nazir Allah -- ia akan diserahkan kepada Allah sejak saat lahirnya sampai saat matinya!\"",
+        "h": "",
+        "o": 7,
+        "l": "7"
+    },
+    {
+        "id": "7013008",
+        "b": 7,
+        "c": 13,
+        "v": 8,
+        "t": "Lalu Manoah berdoa, \"Ya TUHAN, izinkan abdi Allah itu datang lagi kepada kami dan memberi petunjuk tentang anak yang akan Kauberikan kepada kami itu.\"",
+        "h": "",
+        "o": 8,
+        "l": "8"
+    },
+    {
+        "id": "7013009",
+        "b": 7,
+        "c": 13,
+        "v": 9,
+        "t": "TUHAN menjawab doanya. Malaikat Allah itu datang lagi kepada istrinya, ketika perempuan itu sedang duduk-duduk seorang diri di ladang. Kali ini pun Manoah, suaminya, tidak ada di dekatnya.",
+        "h": "",
+        "o": 9,
+        "l": "9"
+    },
+    {
+        "id": "7013010",
+        "b": 7,
+        "c": 13,
+        "v": 10,
+        "t": "Maka larilah ia cepat-cepat mencari suaminya dan berkata kepadanya, \"Orang itu datang lagi!\"",
+        "h": "",
+        "o": 10,
+        "l": "10"
+    },
+    {
+        "id": "7013011",
+        "b": 7,
+        "c": 13,
+        "v": 11,
+        "t": "Manoah ikut dengan istrinya, lalu bertanya kepada orang itu, \"Tuankah yang baru-baru ini bercakap-cakap dengan istriku?\" \"Ya, benar,\" sahut Malaikat TUHAN itu.",
+        "h": "",
+        "o": 11,
+        "l": "11"
+    },
+    {
+        "id": "7013012",
+        "b": 7,
+        "c": 13,
+        "v": 12,
+        "t": "\"Dapatkah Tuan memberi kami petunjuk khusus mengenai bagaimana anak itu harus dibesarkan?\" tanya Manoah lagi.",
+        "h": "",
+        "o": 12,
+        "l": "12"
+    },
+    {
+        "id": "7013013",
+        "b": 7,
+        "c": 13,
+        "v": 13,
+        "t": "Malaikat itu menjawab, \"Hendaklah istrimu mengikuti petunjuk-petunjuk yang telah kuberikan kepadanya. Ia tidak boleh makan buah anggur yang segar maupun yang kering, atau minum anggur maupun minuman keras, atau makan apa pun yang haram.\"",
+        "h": "",
+        "o": 13,
+        "l": "13-14"
+    },
+    {
+        "id": "7013014",
+        "b": 7,
+        "c": 13,
+        "v": 15,
+        "t": "Lalu Manoah berkata kepada Malaikat TUHAN itu, \"Tinggallah di sini; kami hendak menyiapkan kambing muda untuk Tuan.\"",
+        "h": "",
+        "o": 14,
+        "l": "15"
+    },
+    {
+        "id": "7013015",
+        "b": 7,
+        "c": 13,
+        "v": 16,
+        "t": "\"Aku akan menunggu di sini,\" jawab Malaikat TUHAN itu, \"tetapi aku tidak akan makan apa-apa. Namun demikian, kalau kalian ingin membawa sesuatu, bawalah sebuah kurban persembahan kepada TUHAN.\" Manoah masih belum menyadari bahwa orang itu Malaikat TUHAN.",
+        "h": "",
+        "o": 15,
+        "l": "16"
+    },
+    {
+        "id": "7013016",
+        "b": 7,
+        "c": 13,
+        "v": 17,
+        "t": "\"Siapakah nama Tuan?\" kata Manoah. \"Apabila semuanya benar-benar terjadi dan anak itu sudah lahir, kami pasti akan memuliakan Tuan!\"",
+        "h": "",
+        "o": 16,
+        "l": "17"
+    },
+    {
+        "id": "7013017",
+        "b": 7,
+        "c": 13,
+        "v": 18,
+        "t": "\"Jangan menanyakan namaku,\" sahut malaikat itu, \"karena hal itu dirahasiakan.\"",
+        "h": "",
+        "o": 17,
+        "l": "18"
+    },
+    {
+        "id": "7013018",
+        "b": 7,
+        "c": 13,
+        "v": 19,
+        "t": "Maka Manoah mengambil seekor kambing muda serta kurban sajian dan mempersembahkannya kepada TUHAN di atas batu. Lalu Malaikat TUHAN itu melakukan sesuatu yang sangat aneh dan ajaib.",
+        "h": "",
+        "o": 18,
+        "l": "19"
+    },
+    {
+        "id": "7013019",
+        "b": 7,
+        "c": 13,
+        "v": 20,
+        "t": "Sementara api dari mezbah itu menyala-nyala tinggi ke langit, dan Manoah serta istrinya memperhatikannya, Malaikat TUHAN itu naik ke langit di dalam nyala api itu! Melihat itu Manoah dan istrinya sujud dengan muka sampai ke tanah.",
+        "h": "",
+        "o": 19,
+        "l": "20"
+    },
+    {
+        "id": "7013020",
+        "b": 7,
+        "c": 13,
+        "v": 21,
+        "t": "Sejak itu mereka tidak pernah melihat Dia lagi. Maka sadarlah Manoah bahwa ia telah berbicara dengan Malaikat TUHAN.",
+        "h": "",
+        "o": 20,
+        "l": "21"
+    },
+    {
+        "id": "7013021",
+        "b": 7,
+        "c": 13,
+        "v": 22,
+        "t": "\"Kita pasti mati,\" seru Manoah kepada istrinya, \"karena kita telah melihat Allah!\"",
+        "h": "",
+        "o": 21,
+        "l": "22"
+    },
+    {
+        "id": "7013022",
+        "b": 7,
+        "c": 13,
+        "v": 23,
+        "t": "Tetapi istrinya berkata, \"Seandainya TUHAN berniat membunuh kita, Ia tidak akan menerima kurban bakaran kita dan tidak akan menampakkan diri kepada kita lalu memberitahukan perkara yang ajaib ini serta melakukan mujizat-mujizat seperti ini.\"",
+        "h": "",
+        "o": 22,
+        "l": "23"
+    },
+    {
+        "id": "7013023",
+        "b": 7,
+        "c": 13,
+        "v": 24,
+        "t": "Ketika anak itu lahir mereka menamai dia Simson. Anak itu makin besar dan TUHAN memberkati dia.",
+        "h": "",
+        "o": 23,
+        "l": "24"
+    },
+    {
+        "id": "7013024",
+        "b": 7,
+        "c": 13,
+        "v": 25,
+        "t": "Roh TUHAN mulai menggerakkan hatinya, ketika ia mengunjungi tempat bala tentara suku Dan berbaris di Mahane-Dan, yang terletak di antara kota-kota Zora dan Esytaol.",
+        "h": "",
+        "o": 24,
+        "l": "25"
+    },
+    {
+        "id": "7014001",
+        "b": 7,
+        "c": 14,
+        "v": 1,
+        "t": "PADA suatu hari, ketika Simson sedang berada di Timna, ia melihat seorang gadis Filistin.",
+        "h": "Pernikahan Simson",
+        "o": 1,
+        "l": "1"
+    },
+    {
+        "id": "7014002",
+        "b": 7,
+        "c": 14,
+        "v": 2,
+        "t": "Setiba di rumahnya ia memberitahu ayah dan ibunya bahwa ia ingin menikah dengan gadis itu.",
+        "h": "",
+        "o": 2,
+        "l": "2"
+    },
+    {
+        "id": "7014003",
+        "b": 7,
+        "c": 14,
+        "v": 3,
+        "t": "Mereka sangat berkeberatan. \"Mengapa engkau tidak menikah dengan seorang gadis dari bangsa kita sendiri saja?\" tanya mereka. \"Mengapa engkau mau mengambil seorang istri dari bangsa Filistin yang tidak mengenal TUHAN? Tidak adakah gadis bangsa Israel yang dapat kaujadikan istrimu?\" Tetapi Simson berkata kepada ayahnya, \"Dialah satu-satunya gadis yang kuingini. Lamarkan dia untukku.\"",
+        "h": "",
+        "o": 3,
+        "l": "3"
+    },
+    {
+        "id": "7014004",
+        "b": 7,
+        "c": 14,
+        "v": 4,
+        "t": "Ayah dan ibunya tidak tahu bahwa permintaan itu berasal dari TUHAN, karena TUHAN sedang memasang perangkap bagi orang-orang Filistin yang menjajah bangsa Israel.",
+        "h": "",
+        "o": 4,
+        "l": "4"
+    },
+    {
+        "id": "7014005",
+        "b": 7,
+        "c": 14,
+        "v": 5,
+        "t": "Pada waktu Simson dan orang tuanya bersama-sama pergi ke Timna, seekor singa muda menyergap Simson di kebun anggur, di pinggir kota.",
+        "h": "",
+        "o": 5,
+        "l": "5"
+    },
+    {
+        "id": "7014006",
+        "b": 7,
+        "c": 14,
+        "v": 6,
+        "t": "Pada saat itu Roh TUHAN turun ke atas Simson dengan kuasa-Nya, lalu Simson mencabik-cabik rahang singa itu dengan mudahnya tanpa menggunakan senjata apa pun, seakan-akan singa itu hanya seekor anak kambing! Tetapi ia tidak menceritakan kejadian itu kepada ayahnya ataupun ibunya.",
+        "h": "",
+        "o": 6,
+        "l": "6"
+    },
+    {
+        "id": "7014007",
+        "b": 7,
+        "c": 14,
+        "v": 7,
+        "t": "Pada waktu mereka tiba di Timna, Simson bercakap-cakap dengan gadis itu dan mendapati dia sesuai dengan idamannya. Maka ia pun mengadakan persiapan pernikahan.",
+        "h": "",
+        "o": 7,
+        "l": "7"
+    },
+    {
+        "id": "7014008",
+        "b": 7,
+        "c": 14,
+        "v": 8,
+        "t": "Beberapa waktu kemudian, ketika ia kembali untuk merayakan pernikahannya, ia menyimpang dari jalan untuk melihat bangkai singa itu. Ternyata di dalam bangkai itu ia menemukan sekawanan lebah dengan madu!",
+        "h": "",
+        "o": 8,
+        "l": "8"
+    },
+    {
+        "id": "7014009",
+        "b": 7,
+        "c": 14,
+        "v": 9,
+        "t": "Diambilnya sebagian madu itu dan sambil berjalan ia menikmatinya. Ia memberikan sebagian lagi kepada ayah dan ibunya. Tetapi ia tidak memberitahu mereka dari mana ia memperolehnya.",
+        "h": "",
+        "o": 9,
+        "l": "9"
+    },
+    {
+        "id": "7014010",
+        "b": 7,
+        "c": 14,
+        "v": 10,
+        "t": "Sementara ayahnya membuat persiapan terakhir untuk pernikahan itu, Simson menyelenggarakan sebuah pesta untuk kaum muda, sesuai dengan adat kebiasaan pada masa itu. Ia ditemani oleh tiga puluh orang pemuda dari desa itu.",
+        "h": "",
+        "o": 10,
+        "l": "10-11"
+    },
+    {
+        "id": "7014011",
+        "b": 7,
+        "c": 14,
+        "v": 12,
+        "t": "Simson berkata kepada mereka bahwa ia hendak mengajukan sebuah teka-teki dan mereka bersedia mendengarnya. \"Kalau kalian dapat menebak teka-tekiku dalam waktu tujuh hari, yaitu selama perayaan ini,\" katanya, \"aku akan memberi kalian tiga puluh helai jubah lenan dan tiga puluh helai pakaian kebesaran.",
+        "h": "",
+        "o": 11,
+        "l": "12"
+    },
+    {
+        "id": "7014012",
+        "b": 7,
+        "c": 14,
+        "v": 13,
+        "t": "Tetapi, kalau kalian tidak dapat menerkanya, kalianlah yang harus memberi aku jubah-jubah itu!\" \"Setuju!\" kata mereka, \"Silakan, kami ingin mendengarnya.\"",
+        "h": "",
+        "o": 12,
+        "l": "13"
+    },
+    {
+        "id": "7014013",
+        "b": 7,
+        "c": 14,
+        "v": 14,
+        "t": "\"Beginilah teka-teki itu: Makanan keluar dari yang makan, dan yang manis keluar dari yang kuat!\" Tiga hari telah berlalu dan mereka masih belum dapat menerkanya.",
+        "h": "",
+        "o": 13,
+        "l": "14"
+    },
+    {
+        "id": "7014014",
+        "b": 7,
+        "c": 14,
+        "v": 15,
+        "t": "Pada hari keempat mereka berkata kepada pengantin perempuan itu, \"Tanyakanlah jawabannya kepada suamimu; kalau tidak, kami akan membakar rumah ayahmu bersama-sama dengan engkau. Apakah kami diundang ke perjamuan ini supaya kami menjadi miskin?\"",
+        "h": "",
+        "o": 14,
+        "l": "15"
+    },
+    {
+        "id": "7014015",
+        "b": 7,
+        "c": 14,
+        "v": 16,
+        "t": "Maka istri Simson itu menangis di hadapan Simson dan berkata, \"Engkau sama sekali tidak mengasihi aku. Engkau membenci aku, karena engkau mengajukan sebuah teka-teki kepada bangsaku, tetapi engkau tidak memberitahu aku jawabnya!\" \"Kepada ayahku atau ibuku sekalipun, aku tidak menceritakannya; mengapa aku harus menceritakannya kepadamu?\" jawab Simson.",
+        "h": "",
+        "o": 15,
+        "l": "16"
+    },
+    {
+        "id": "7014016",
+        "b": 7,
+        "c": 14,
+        "v": 17,
+        "t": "Karena itu setiap kali perempuan itu berada bersama-sama dengan Simson, ia menangis. Demikianlah sikapnya selama perayaan itu. Akhirnya, pada hari ketujuh, Simson memberitahukan juga jawabannya kepada istrinya. Tentu saja perempuan itu segera menyampaikannya kepada para pemuda itu.",
+        "h": "",
+        "o": 16,
+        "l": "17"
+    },
+    {
+        "id": "7014017",
+        "b": 7,
+        "c": 14,
+        "v": 18,
+        "t": "Demikianlah sebelum matahari terbenam pada hari yang ketujuh itu mereka memberikan jawaban mereka kepada Simson. \"Apakah yang lebih manis daripada madu?\" kata mereka, \"dan apakah yang lebih kuat daripada singa?\" \"Sekiranya kalian tidak membajak dengan sapi betinaku, kalian tidak akan dapat menebak teka-tekiku!\" sahut Simson.",
+        "h": "",
+        "o": 17,
+        "l": "18"
+    },
+    {
+        "id": "7014018",
+        "b": 7,
+        "c": 14,
+        "v": 19,
+        "t": "Lalu Roh TUHAN turun ke atas Simson dan ia pergi ke Kota Askelon. Di situ ia membunuh tiga puluh orang, mengambil pakaian mereka, dan memberikannya kepada para pemuda yang telah berhasil menebak teka-tekinya. Tetapi ia sangat marah atas kejadian itu. Lalu ia meninggalkan istrinya dan pulang kembali kepada ayah dan ibunya.",
+        "h": "",
+        "o": 18,
+        "l": "19"
+    },
+    {
+        "id": "7014019",
+        "b": 7,
+        "c": 14,
+        "v": 20,
+        "t": "Sementara itu istrinya dinikahkan dengan kawan Simson, seorang pemuda yang menjadi pengiring pada waktu pesta pernikahannya.",
+        "h": "",
+        "o": 19,
+        "l": "20"
+    },
+    {
+        "id": "7015001",
+        "b": 7,
+        "c": 15,
+        "v": 1,
+        "t": "KEMUDIAN, pada waktu musim panen gandum, Simson mengambil seekor anak kambing untuk dibawa sebagai hadiah kepada istrinya. Ia bermaksud untuk bermalam di tempat istrinya, tetapi ayah istrinya tidak mengizinkan dia.",
+        "h": "Simson dan orang Filistin",
+        "o": 1,
+        "l": "1"
+    },
+    {
+        "id": "7015002",
+        "b": 7,
+        "c": 15,
+        "v": 2,
+        "t": "\"Aku kira engkau membenci dia,\" katanya, \"karena itu, aku telah menikahkan dia dengan pengiringmu. Tetapi lihatlah, adiknya lebih cantik. Ambillah dia sebagai gantinya.\"",
+        "h": "",
+        "o": 2,
+        "l": "2"
+    },
+    {
+        "id": "7015003",
+        "b": 7,
+        "c": 15,
+        "v": 3,
+        "t": "Tetapi Simson marah sekali. \"Jangan menyalahkan aku atas apa yang terjadi sekarang,\" serunya.",
+        "h": "",
+        "o": 3,
+        "l": "3"
+    },
+    {
+        "id": "7015004",
+        "b": 7,
+        "c": 15,
+        "v": 4,
+        "t": "Lalu ia keluar dan menangkap tiga ratus ekor anjing hutan. Ia mengikat setiap dua anjing pada ekornya, dan menaruh obor di tengah-tengah ikatan itu.",
+        "h": "",
+        "o": 4,
+        "l": "4"
+    },
+    {
+        "id": "7015005",
+        "b": 7,
+        "c": 15,
+        "v": 5,
+        "t": "Kemudian ia menyalakan obor itu dan melepas anjing-anjing hutan itu ke ladang-ladang orang Filistin, sehingga membakar segala tanaman, berkas-berkas serta tumpukan gandum, juga pohon-pohon zaitun.",
+        "h": "",
+        "o": 5,
+        "l": "5"
+    },
+    {
+        "id": "7015006",
+        "b": 7,
+        "c": 15,
+        "v": 6,
+        "t": "\"Perbuatan siapakah ini?\" tanya orang-orang Filistin itu. \"Simson, menantu orang Timna itu,\" sahut orang, \"karena mertuanya telah memberikan istri Simson kepada laki-laki lain.\" Maka datanglah orang-orang Filistin itu mengambil anak perempuan itu serta ayahnya, lalu membakar mereka hidup-hidup.",
+        "h": "",
+        "o": 6,
+        "l": "6"
+    },
+    {
+        "id": "7015007",
+        "b": 7,
+        "c": 15,
+        "v": 7,
+        "t": "\"Sekarang aku akan mengadakan pembalasan lagi terhadap kalian!\" kata Simson.",
+        "h": "",
+        "o": 7,
+        "l": "7"
+    },
+    {
+        "id": "7015008",
+        "b": 7,
+        "c": 15,
+        "v": 8,
+        "t": "Ia mengamuk serta menyerang mereka dan membunuh banyak orang. Sesudah itu ia pergi ke Gunung Batu Etam dan tinggal di situ di dalam sebuah gua.",
+        "h": "",
+        "o": 8,
+        "l": "8"
+    },
+    {
+        "id": "7015009",
+        "b": 7,
+        "c": 15,
+        "v": 9,
+        "t": "Pihak orang Filistin mengirimkan satu pasukan besar tentara ke Yehuda dan menyerbu Lehi.",
+        "h": "",
+        "o": 9,
+        "l": "9"
+    },
+    {
+        "id": "7015010",
+        "b": 7,
+        "c": 15,
+        "v": 10,
+        "t": "\"Kenapa kalian datang ke sini?\" tanya orang-orang Yehuda. Orang-orang Filistin itu menjawab, \"Untuk menangkap Simson dan memperlakukan dia sama seperti dia memperlakukan kami.\"",
+        "h": "",
+        "o": 10,
+        "l": "10"
+    },
+    {
+        "id": "7015011",
+        "b": 7,
+        "c": 15,
+        "v": 11,
+        "t": "Maka turunlah tiga ribu orang Yehuda untuk mengambil Simson dari gua di Gunung Batu Etam. \"Apakah yang sudah kaulakukan terhadap kami ini?\" tanya mereka kepadanya. \"Tidakkah engkau menyadari bahwa orang-orang Filistin itu berkuasa atas kita?\" Tetapi Simson menjawab, \"Aku hanya membalas perbuatan mereka terhadap aku.\"",
+        "h": "",
+        "o": 11,
+        "l": "11"
+    },
+    {
+        "id": "7015012",
+        "b": 7,
+        "c": 15,
+        "v": 12,
+        "t": "\"Kami sudah datang untuk menangkapmu dan membawamu kepada orang-orang Filistin,\" kata orang-orang Yehuda itu kepadanya. \"Baiklah,\" jawab Simson, \"tetapi berjanjilah bahwa kalian sendiri tidak akan membunuh aku.\" \"Tidak,\" jawab mereka, \"kami tidak akan berbuat demikian.\" Mereka mengikat dia dengan dua utas tali baru dan menggiringnya pergi.",
+        "h": "",
+        "o": 12,
+        "l": "12-13"
+    },
+    {
+        "id": "7015013",
+        "b": 7,
+        "c": 15,
+        "v": 14,
+        "t": "Ketika Simson dengan orang-orang yang menangkapnya tiba di Lehi, orang-orang Filistin bersorak-sorak mengejek dia. Tetapi Roh TUHAN menguasai Simson, dan tali-tali pengikat tangannya itu putus seperti benang sehingga ia terlepas!",
+        "h": "",
+        "o": 13,
+        "l": "14"
+    },
+    {
+        "id": "7015014",
+        "b": 7,
+        "c": 15,
+        "v": 15,
+        "t": "Lalu ia mengambil sebuah tulang rahang keledai dari tanah dan membunuh seribu orang Filistin dengan tulang itu.",
+        "h": "",
+        "o": 14,
+        "l": "15"
+    },
+    {
+        "id": "7015015",
+        "b": 7,
+        "c": 15,
+        "v": 16,
+        "t": "Sambil melemparkan tulang rahang itu ia berkata, \"Rombongan demi rombongan telah kuhajar Dengan rahang keledai! Seribu orang telah kubunuh Dengan rahang keledai!\" Sesudah itu ia melemparkan tulang rahang keledai itu. Sejak itu tempat itu disebut Ramat Lehi atau 'Bukit Rahang'.",
+        "h": "",
+        "o": 15,
+        "l": "16-17"
+    },
+    {
+        "id": "7015016",
+        "b": 7,
+        "c": 15,
+        "v": 18,
+        "t": "Ketika itu ia sangat haus, lalu ia berdoa kepada TUHAN, demikian, \"Hari ini Engkau telah memberi kelepasan yang luar biasa kepada bangsa Israel melalui aku! Apakah aku sekarang harus mati kehausan, dan jatuh ke dalam tangan orang-orang yang tidak bersunat itu?\"",
+        "h": "",
+        "o": 16,
+        "l": "18"
+    },
+    {
+        "id": "7015017",
+        "b": 7,
+        "c": 15,
+        "v": 19,
+        "t": "Maka TUHAN memancarkan air dari sebuah lekukan di tanah. Simson minum dan menjadi segar dan kuat kembali. Ia menamai tempat itu Mata Air Penyeru (artinya 'Mata Air Orang yang Berdoa'), dan mata air itu masih ada sampai sekarang.",
+        "h": "",
+        "o": 17,
+        "l": "19"
+    },
+    {
+        "id": "7015018",
+        "b": 7,
+        "c": 15,
+        "v": 20,
+        "t": "Sesudah itu Simson menjadi hakim Israel selama dua puluh tahun pada masa penjajahan orang Filistin atas negeri itu.",
+        "h": "",
+        "o": 18,
+        "l": "20"
+    },
+    {
+        "id": "7016001",
+        "b": 7,
+        "c": 16,
+        "v": 1,
+        "t": "PADA suatu hari Simson pergi ke Gaza, sebuah kota Filistin. Di situ ia tidur dengan seorang pelacur.",
+        "h": "Simson di Gaza",
+        "o": 1,
+        "l": "1"
+    },
+    {
+        "id": "7016002",
+        "b": 7,
+        "c": 16,
+        "v": 2,
+        "t": "Berita bahwa ia kelihatan di kota itu segera tersiar. Para penjaga kota siap siaga, juga banyak orang di kota itu menghadang sepanjang malam di pintu gerbang kota. Mereka berharap dapat menangkap Simson apabila ia akan meninggalkan kota itu. Mereka berpikir, \"Besok pagi, bila hari sudah cukup terang, kita akan mencari dia dan membunuhnya.\"",
+        "h": "",
+        "o": 2,
+        "l": "2"
+    },
+    {
+        "id": "7016003",
+        "b": 7,
+        "c": 16,
+        "v": 3,
+        "t": "Simson tidur dengan perempuan itu sampai tengah malam. Lalu ia bangun dan pergi ke pintu gerbang kota. Ia mencabut daun-daun pintu itu dari tanah beserta tiang-tiangnya, dan memanggulnya naik ke puncak gunung di seberang Hebron!",
+        "h": "",
+        "o": 3,
+        "l": "3"
+    },
+    {
+        "id": "7016004",
+        "b": 7,
+        "c": 16,
+        "v": 4,
+        "t": "Kemudian Simson jatuh cinta kepada seorang perempuan bernama Delila yang tinggal di Lembah Sorek.",
+        "h": "Simson dan Delila",
+        "o": 4,
+        "l": "4"
+    },
+    {
+        "id": "7016005",
+        "b": 7,
+        "c": 16,
+        "v": 5,
+        "t": "Kelima orang pemuka bangsa Filistin datang kepada Delila dan berkata, \"Bujuklah dia untuk memberitahukan kepadamu rahasia kekuatannya yang luar biasa itu, dan bagaimana kita dapat menaklukkan dia supaya kita dapat membelenggunya. \"Kami masing-masing akan membayar engkau seribu seratus uang perak (kira-kira 17,5 kilogram).\"",
+        "h": "",
+        "o": 5,
+        "l": "5"
+    },
+    {
+        "id": "7016006",
+        "b": 7,
+        "c": 16,
+        "v": 6,
+        "t": "Maka Delila merengek kepada Simson agar ia diberitahu rahasia kekuatannya. \"Ayolah, katakan kepadaku, Simson, apa sebabnya engkau sekuat ini,\" rengeknya. \"Dengan apakah engkau diikat supaya engkau harus dapat ditundukkan?\"",
+        "h": "",
+        "o": 6,
+        "l": "6"
+    },
+    {
+        "id": "7016007",
+        "b": 7,
+        "c": 16,
+        "v": 7,
+        "t": "Simson menjawab, \"Kalau aku diikat dengan tujuh utas tali busur dari kulit mentah, maka aku akan menjadi lemah, sama seperti orang lain.\"",
+        "h": "",
+        "o": 7,
+        "l": "7"
+    },
+    {
+        "id": "7016008",
+        "b": 7,
+        "c": 16,
+        "v": 8,
+        "t": "Para pemuka kota itu memberikan tujuh tali busur kepada Delila. Ketika Simson sedang tidur, Delila mengikat dia dengan tali-tali itu,",
+        "h": "",
+        "o": 8,
+        "l": "8"
+    },
+    {
+        "id": "7016009",
+        "b": 7,
+        "c": 16,
+        "v": 9,
+        "t": "sementara beberapa orang bersembunyi di dalam kamar lain. Sesudah mengikat Simson Delila berteriak, \"Simson! Orang-orang Filistin datang untuk menyergap engkau!\" Simson segera memutuskan tali busur itu dengan mudah seperti memutuskan benang jahit yang rapuh. Demikianlah rahasia mengenai kekuatannya tetap tersimpan.",
+        "h": "",
+        "o": 9,
+        "l": "9"
+    },
+    {
+        "id": "7016010",
+        "b": 7,
+        "c": 16,
+        "v": 10,
+        "t": "Sesudah peristiwa itu Delila berkata kepadanya, \"Engkau mempermainkan aku! Engkau berdusta kepadaku. Beritahukanlah kepadaku bagaimana caranya supaya engkau dapat diikat!\"",
+        "h": "",
+        "o": 10,
+        "l": "10"
+    },
+    {
+        "id": "7016011",
+        "b": 7,
+        "c": 16,
+        "v": 11,
+        "t": "\"Kalau aku diikat dengan tali yang masih baru yang belum pernah dipakai, maka aku akan menjadi lemah, sama seperti orang lain.\"",
+        "h": "",
+        "o": 11,
+        "l": "11"
+    },
+    {
+        "id": "7016012",
+        "b": 7,
+        "c": 16,
+        "v": 12,
+        "t": "Malam itu, ketika Simson sedang tidur, Delila mengambil tali yang masih baru dan mengikat dia. Orang-orang yang dulu itu bersembunyi lagi di kamar lain, seperti semula. Lalu Delila berteriak, \"Simson! Orang-orang Filistin datang untuk menyergap engkau!\" Tetapi Simson segera memutuskan tali-tali itu dari tangannya seperti memutuskan sarang laba-laba!",
+        "h": "",
+        "o": 12,
+        "l": "12"
+    },
+    {
+        "id": "7016013",
+        "b": 7,
+        "c": 16,
+        "v": 13,
+        "t": "\"Lagi-lagi engkau mempermainkan aku, dan berdusta kepadaku!\" Delila merengek. \"Sekarang katakanlah bagaimana engkau benar-benar dapat ditangkap.\" \"Kalau engkau menjalin rambutku menjadi tujuh jalinan dengan lungsin dan memperkuatnya dengan patok, maka aku akan menjadi lemah, sama seperti orang lain!\"",
+        "h": "",
+        "o": 13,
+        "l": "13"
+    },
+    {
+        "id": "7016014",
+        "b": 7,
+        "c": 16,
+        "v": 14,
+        "t": "Ketika Simson sedang tidur, Delila berbuat seperti yang dikatakan Simson, lalu berteriak, \"Simson! Orang-orang Filistin datang untuk menyergap engkau!\" Maka bangunlah Simson dan merenggut rambutnya serta mematahkan lungsin itu.",
+        "h": "",
+        "o": 14,
+        "l": "14"
+    },
+    {
+        "id": "7016015",
+        "b": 7,
+        "c": 16,
+        "v": 15,
+        "t": "\"Mana mungkin engkau mencintai aku kalau engkau tidak percaya kepadaku?\" Delila merajuk. \"Engkau sudah mempermainkan aku tiga kali, dan engkau tetap tidak memberitahukan kepadaku apa yang menyebabkan engkau sekuat ini!\"",
+        "h": "",
+        "o": 15,
+        "l": "15"
+    },
+    {
+        "id": "7016016",
+        "b": 7,
+        "c": 16,
+        "v": 16,
+        "t": "Delila merengek dan mengganggu dia setiap hari sampai akhirnya Simson tidak tahan lagi dan memberitahukan rahasianya. \"Rambutku belum pernah dipotong,\" demikian pengakuannya, \"karena aku seorang nazir Allah sejak aku masih dalam kandungan. Kalau rambutku dipotong, kekuatanku akan lenyap, maka aku akan menjadi lemah, sama seperti orang lain.\"",
+        "h": "",
+        "o": 16,
+        "l": "16-17"
+    },
+    {
+        "id": "7016017",
+        "b": 7,
+        "c": 16,
+        "v": 18,
+        "t": "Delila menyadari bahwa akhirnya Simson memberitahukan hal yang sebenarnya kepadanya, lalu ia memanggil kelima orang pemuka bangsa Filistin itu. \"Datanglah lagi sekali ini,\" katanya, \"karena sekarang Simson telah memberitahukan kepadaku segala-galanya.\" Maka mereka pun datang dengan membawa uang yang dijanjikan itu.",
+        "h": "",
+        "o": 17,
+        "l": "18"
+    },
+    {
+        "id": "7016018",
+        "b": 7,
+        "c": 16,
+        "v": 19,
+        "t": "Delila membuai Simson sampai tertidur dengan kepala di atas pangkuannya, lalu ia menyuruh memanggil seseorang untuk memotong rambut Simson. Kemudian Delila mulai memukuli Simson, dan ia melihat bahwa kekuatannya telah berangsur lenyap.",
+        "h": "",
+        "o": 18,
+        "l": "19"
+    },
+    {
+        "id": "7016019",
+        "b": 7,
+        "c": 16,
+        "v": 20,
+        "t": "Lalu Delila berteriak, \"Simson! Orang-orang Filistin datang untuk menyergap engkau!\" Maka bangunlah Simson dan berpikir, \"Aku akan berbuat seperti yang sudah-sudah; aku akan membebaskan diriku dengan mudah.\" Ia tidak tahu bahwa TUHAN sudah meninggalkan dia.",
+        "h": "",
+        "o": 19,
+        "l": "20"
+    },
+    {
+        "id": "7016020",
+        "b": 7,
+        "c": 16,
+        "v": 21,
+        "t": "Demikianlah orang-orang Filistin menangkap dia dan mencungkil matanya lalu membawa dia ke Gaza. Di situ ia diikat dengan dua utas rantai tembaga dan disuruh menggiling gandum di penjara.",
+        "h": "",
+        "o": 20,
+        "l": "21"
+    },
+    {
+        "id": "7016021",
+        "b": 7,
+        "c": 16,
+        "v": 22,
+        "t": "Tetapi tidak lama kemudian rambutnya sudah mulai panjang lagi.",
+        "h": "",
+        "o": 21,
+        "l": "22"
+    },
+    {
+        "id": "7016022",
+        "b": 7,
+        "c": 16,
+        "v": 23,
+        "t": "Sesudah itu para pemuka bangsa Filistin mengadakan pesta besar untuk merayakan penangkapan Simson. Orang-orang mempersembahkan kurban kepada Dewa Dagon, berhala mereka, dan memuji-muji dia dengan sangat gembira. \"Dagon, allah kita, telah menyerahkan Simson, musuh kita, kepada kita!\" Mereka bersorak-sorak memuji Dagon dan mengejek Simson, ketika melihat dia dibelenggu. \"Orang yang menghantui bangsa kita dan telah membunuh banyak orang kita, sekarang jatuh ke tangan kita!\"",
+        "h": "Kematian Simson",
+        "o": 22,
+        "l": "23-24"
+    },
+    {
+        "id": "7016023",
+        "b": 7,
+        "c": 16,
+        "v": 25,
+        "t": "Dalam keadaan setengah mabuk orang banyak itu berseru, \"Keluarkan Simson untuk menggembirakan kita!\" Simson dikeluarkan dari penjara dan disuruh berdiri di antara dua buah tiang penyangga atap di tengah-tengah gedung itu. Simson berkata kepada anak laki-laki yang menuntun dia, \"Biarkan aku memegang tiang-tiang gedung ini. Aku ingin bersandar.\"",
+        "h": "",
+        "o": 23,
+        "l": "25-26"
+    },
+    {
+        "id": "7016024",
+        "b": 7,
+        "c": 16,
+        "v": 27,
+        "t": "Sementara itu gedung penyembahan Dewa Dagon sudah penuh sesak dengan orang. Kelima pemuka bangsa Filistin itu juga hadir dengan tiga ribu orang, di tingkat kedua. Mereka sedang menonton Simson dipermainkan orang.",
+        "h": "",
+        "o": 24,
+        "l": "27"
+    },
+    {
+        "id": "7016025",
+        "b": 7,
+        "c": 16,
+        "v": 28,
+        "t": "Simson berdoa kepada TUHAN, \"Ya Yahweh, TUHAN, ingatlah kepadaku -- berilah aku kekuatan sekali lagi saja, supaya aku dapat membalas orang-orang Filistin itu atas kedua mataku yang telah hilang.\"",
+        "h": "",
+        "o": 25,
+        "l": "28"
+    },
+    {
+        "id": "7016026",
+        "b": 7,
+        "c": 16,
+        "v": 29,
+        "t": "Lalu Simson mendorong kedua tiang itu dengan sekuat tenaganya.",
+        "h": "",
+        "o": 26,
+        "l": "29"
+    },
+    {
+        "id": "7016027",
+        "b": 7,
+        "c": 16,
+        "v": 30,
+        "t": "\"Biarlah aku mati bersama-sama dengan orang Filistin ini,\" doanya. Gedung penyembahan Dewa Dagon itu runtuh menimpa para pemuka bangsa Filistin serta semua orang yang ada di situ. Demikianlah Simson menjelang matinya berhasil membunuh lebih banyak orang daripada semasa hidupnya.",
+        "h": "",
+        "o": 27,
+        "l": "30"
+    },
+    {
+        "id": "7016028",
+        "b": 7,
+        "c": 16,
+        "v": 31,
+        "t": "Sesudah itu saudara-saudaranya serta kaum kerabatnya datang untuk mengambil mayatnya, dan membawanya pulang. Ia dikuburkan di antara Zora dan Esytaol, tempat Manoah, ayahnya, dikuburkan. Ia telah menjadi hakim Israel selama dua puluh tahun.",
+        "h": "",
+        "o": 28,
+        "l": "31"
+    },
+    {
+        "id": "7017001",
+        "b": 7,
+        "c": 17,
+        "v": 1,
+        "t": "DI Pegunungan Efraim tinggal seorang bernama Mikha.",
+        "h": "Patung-patung kepunyaan Mikha",
+        "o": 1,
+        "l": "1"
+    },
+    {
+        "id": "7017002",
+        "b": 7,
+        "c": 17,
+        "v": 2,
+        "t": "Pada suatu hari ia berkata kepada ibunya, \"Uang perak yang seribu seratus itu (kira-kira 13 kilogram), yang Ibu sangka dicuri orang sehingga Ibu mengucapkan kutuk, akulah yang mengambilnya!\" \"Allah memberkati engkau karena pengakuanmu itu, Anakku,\" sahut ibunya.",
+        "h": "",
+        "o": 2,
+        "l": "2"
+    },
+    {
+        "id": "7017003",
+        "b": 7,
+        "c": 17,
+        "v": 3,
+        "t": "Mikha mengembalikan uang itu kepada ibunya. \"Aku akan mempersembahkannya kepada TUHAN sebagai suatu jaminan untukmu,\" kata ibunya. \"Aku akan membuatkan bagimu sebuah patung pahatan dan menyalutnya dengan perak.\"",
+        "h": "",
+        "o": 3,
+        "l": "3"
+    },
+    {
+        "id": "7017004",
+        "b": 7,
+        "c": 17,
+        "v": 4,
+        "t": "Lalu ibunya membawa dua ratus uang perak kepada seorang tukang perak untuk dijadikan patung. Kemudian patung itu ditaruh di kuil milik Mikha. Mikha telah mempunyai banyak patung, juga sebuah efod dan beberapa terafim. Ia mengangkat salah seorang putranya sebagai imam.",
+        "h": "",
+        "o": 4,
+        "l": "4-5"
+    },
+    {
+        "id": "7017005",
+        "b": 7,
+        "c": 17,
+        "v": 6,
+        "t": "Pada masa itu bangsa Israel tidak mempunyai raja. Setiap orang berbuat sesuka hatinya, apa saja yang baik menurut pandangannya sendiri.",
+        "h": "",
+        "o": 5,
+        "l": "6"
+    },
+    {
+        "id": "7017006",
+        "b": 7,
+        "c": 17,
+        "v": 7,
+        "t": "Pada suatu hari seorang muda keturunan Lewi datang dari Kota Betlehem di Yehuda ke daerah Efraim, mencari tempat yang baik untuk tinggal. Dalam perjalanan itu ia singgah di rumah Mikha.",
+        "h": "",
+        "o": 6,
+        "l": "7-8"
+    },
+    {
+        "id": "7017007",
+        "b": 7,
+        "c": 17,
+        "v": 9,
+        "t": "\"Dari manakah asalmu?\" tanya Mikha kepadanya. Orang itu menjawab, \"Aku orang Lewi dari Betlehem di Yehuda, dan aku sedang mencari tempat tinggal.\"",
+        "h": "",
+        "o": 7,
+        "l": "9"
+    },
+    {
+        "id": "7017008",
+        "b": 7,
+        "c": 17,
+        "v": 10,
+        "t": "\"Kalau begitu, tinggallah bersama kami,\" kata Mikha, \"dan engkau dapat menjadi imamku. Aku akan memberimu sepuluh uang perak (kira-kira 110 gram) setahun, seperangkat pakaian serta makanan dan tempat tinggal.\" Anak muda itu setuju, dan menjadi seperti anak sendiri bagi Mikha.",
+        "h": "",
+        "o": 8,
+        "l": "10-11"
+    },
+    {
+        "id": "7017009",
+        "b": 7,
+        "c": 17,
+        "v": 12,
+        "t": "Demikianlah Mikha mentahbiskan dia sebagai imam pribadinya.",
+        "h": "",
+        "o": 9,
+        "l": "12"
+    },
+    {
+        "id": "7017010",
+        "b": 7,
+        "c": 17,
+        "v": 13,
+        "t": "\"Aku yakin, TUHAN akan benar-benar memberkati aku,\" kata Mikha, \"karena sekarang aku mempunyai seorang imam keturunan Lewi yang bekerja untukku!\"",
+        "h": "",
+        "o": 10,
+        "l": "13"
+    },
+    {
+        "id": "7018001",
+        "b": 7,
+        "c": 18,
+        "v": 1,
+        "t": "SEPERTI sudah dikatakan sebelumnya, pada masa itu Israel tidak mempunyai raja. Suku Dan sedang berusaha mencari tempat tinggal karena mereka belum mengusir penduduk negeri yang telah ditentukan sebagai tanah pusaka mereka.",
+        "h": "Orang Dan memasuki Lais",
+        "o": 1,
+        "l": "1"
+    },
+    {
+        "id": "7018002",
+        "b": 7,
+        "c": 18,
+        "v": 2,
+        "t": "Lalu orang-orang Dan memilih lima orang pahlawan perang dari Kota Zora dan Esytaol untuk mengintai dan menjelajahi negeri yang seharusnya menjadi tempat tinggal mereka. Setibanya di Pegunungan Efraim kelima orang itu bermalam di rumah Mikha.",
+        "h": "",
+        "o": 2,
+        "l": "2"
+    },
+    {
+        "id": "7018003",
+        "b": 7,
+        "c": 18,
+        "v": 3,
+        "t": "Mengenali logat pemuda Lewi yang ada di situ mereka menanyai dia secara pribadi, \"Apakah yang sedang kaulakukan di sini? Untuk apa kaudatang ke mari?\"",
+        "h": "",
+        "o": 3,
+        "l": "3"
+    },
+    {
+        "id": "7018004",
+        "b": 7,
+        "c": 18,
+        "v": 4,
+        "t": "Pemuda itu menceritakan kepada mereka tentang perjanjian kerjanya dengan Mikha, dan bahwa ia telah menjadi imam pribadinya.",
+        "h": "",
+        "o": 4,
+        "l": "4"
+    },
+    {
+        "id": "7018005",
+        "b": 7,
+        "c": 18,
+        "v": 5,
+        "t": "\"Kalau begitu,\" kata mereka, \"tanyakan kepada Allah apakah perjalanan kami akan berhasil atau tidak.\"",
+        "h": "",
+        "o": 5,
+        "l": "5"
+    },
+    {
+        "id": "7018006",
+        "b": 7,
+        "c": 18,
+        "v": 6,
+        "t": "\"Ya,\" jawab imam itu, \"semuanya baik. TUHAN menyertai kalian.\"",
+        "h": "",
+        "o": 6,
+        "l": "6"
+    },
+    {
+        "id": "7018007",
+        "b": 7,
+        "c": 18,
+        "v": 7,
+        "t": "Kelima orang Dan itu meneruskan perjalanan mereka ke Kota Lais, dan melihat betapa aman dan tentramnya kehidupan orang-orang di situ. Cara hidup mereka seperti orang Fenisia, dan mereka kaya raya. Mereka hidup dengan tenang tanpa menduga adanya kemungkinan disergap, karena di daerah itu tidak ada suku yang cukup kuat. Mereka hidup sangat jauh dari kaum kerabat mereka di Sidon, dan hampir tidak bergaul dengan penduduk desa-desa di sekitarnya.",
+        "h": "",
+        "o": 7,
+        "l": "7"
+    },
+    {
+        "id": "7018008",
+        "b": 7,
+        "c": 18,
+        "v": 8,
+        "t": "Lalu pulanglah para pengintai itu kepada suku mereka di Zora dan Esytaol. Saudara-saudara mereka bertanya, \"Bagaimana keadaannya? Apakah yang kalian dapati di sana?\"",
+        "h": "",
+        "o": 8,
+        "l": "8"
+    },
+    {
+        "id": "7018009",
+        "b": 7,
+        "c": 18,
+        "v": 9,
+        "t": "Kelima orang itu menjawab, \"Marilah kita menyerang! Kami sudah melihat negeri itu; kita cuma perlu datang ke sana untuk mendudukinya. Tempat itu luas dan subur, juga sangat indah; tidak kurang suatu apa pun. Penduduknya tidak mempunyai persiapan untuk membela diri! Marilah kita ke sana, karena Allah telah memberikannya kepada kita!\"",
+        "h": "",
+        "o": 9,
+        "l": "9-10"
+    },
+    {
+        "id": "7018010",
+        "b": 7,
+        "c": 18,
+        "v": 11,
+        "t": "Lalu berangkatlah enam ratus orang suku Dan dengan bersenjata lengkap dari Zora dan Esytaol.",
+        "h": "",
+        "o": 10,
+        "l": "11"
+    },
+    {
+        "id": "7018011",
+        "b": 7,
+        "c": 18,
+        "v": 12,
+        "t": "Mereka berkemah di sebuah tempat di sebelah barat Kiryat-Yearim di Yehuda yang sampai sekarang disebut Mahane-Dan (artinya 'Perkemahan Dan').",
+        "h": "",
+        "o": 11,
+        "l": "12"
+    },
+    {
+        "id": "7018012",
+        "b": 7,
+        "c": 18,
+        "v": 13,
+        "t": "Dari situ mereka naik ke daerah Pegunungan Efraim sampai di rumah Mikha.",
+        "h": "",
+        "o": 12,
+        "l": "13"
+    },
+    {
+        "id": "7018013",
+        "b": 7,
+        "c": 18,
+        "v": 14,
+        "t": "Kelima orang pengintai itu bercerita kepada saudara-saudara sesukunya, \"Di situ ada sebuah kuil dengan sebuah efod, beberapa terafim, dan banyak patung pahatan serta patung tuangan. Jelaslah apa yang sepatutnya kita lakukan!\"",
+        "h": "",
+        "o": 13,
+        "l": "14"
+    },
+    {
+        "id": "7018014",
+        "b": 7,
+        "c": 18,
+        "v": 15,
+        "t": "Maka pergilah mereka ke kuil itu dengan seluruh pasukan mereka. Mereka berdiri di luar pintu gerbang, lalu berbicara dengan imam muda itu, dan menanyakan kepadanya bagaimana keadaannya selama ini.",
+        "h": "",
+        "o": 14,
+        "l": "15-16"
+    },
+    {
+        "id": "7018015",
+        "b": 7,
+        "c": 18,
+        "v": 17,
+        "t": "Sementara imam itu berdiri di pintu gerbang dan bercakap-cakap dengan pasukan bersenjata yang terdiri dari enam ratus orang, kelima orang pengintai itu memasuki kuil dan mengambil patung-patungnya, efodnya serta terafimnya.",
+        "h": "",
+        "o": 15,
+        "l": "17"
+    },
+    {
+        "id": "7018016",
+        "b": 7,
+        "c": 18,
+        "v": 18,
+        "t": "\"Apakah artinya perbuatan kalian ini?\" tanya imam muda itu, ketika ia melihat mereka membawa ke luar benda-benda itu.",
+        "h": "",
+        "o": 16,
+        "l": "18"
+    },
+    {
+        "id": "7018017",
+        "b": 7,
+        "c": 18,
+        "v": 19,
+        "t": "\"Diamlah, ikut saja dengan kami,\" kata mereka. \"Jadilah imam bagi kami semua. Bukankah lebih baik kalau engkau menjadi imam satu suku bangsa di Israel daripada hanya menjadi imam satu orang saja di rumahnya?\"",
+        "h": "",
+        "o": 17,
+        "l": "19"
+    },
+    {
+        "id": "7018018",
+        "b": 7,
+        "c": 18,
+        "v": 20,
+        "t": "Dengan senang hati imam muda itu ikut dengan mereka. Ia membawa serta efod, terafim, dan patung-patung itu.",
+        "h": "",
+        "o": 18,
+        "l": "20"
+    },
+    {
+        "id": "7018019",
+        "b": 7,
+        "c": 18,
+        "v": 21,
+        "t": "Mereka meneruskan perjalanan dengan menempatkan anak-anak, ternak, dan perabot rumah tangga di baris terdepan.",
+        "h": "",
+        "o": 19,
+        "l": "21"
+    },
+    {
+        "id": "7018020",
+        "b": 7,
+        "c": 18,
+        "v": 22,
+        "t": "Ketika mereka sudah berada cukup jauh dari rumah Mikha, datanglah Mikha dengan beberapa orang tetangganya mengejar mereka,",
+        "h": "",
+        "o": 20,
+        "l": "22"
+    },
+    {
+        "id": "7018021",
+        "b": 7,
+        "c": 18,
+        "v": 23,
+        "t": "sambil berseru-seru minta agar mereka berhenti. Orang-orang Dan itu menoleh dan bertanya, \"Mau apa kalian mengejar kami?\"",
+        "h": "",
+        "o": 21,
+        "l": "23"
+    },
+    {
+        "id": "7018022",
+        "b": 7,
+        "c": 18,
+        "v": 24,
+        "t": "Mikha menyahut, \"Apa maksud kalian ini? Mengapa kalian bertanya demikian? Bukankah kalian telah mengambil semua patungku dan juga imamku? Sekarang aku tidak mempunyai apa-apa lagi!\"",
+        "h": "",
+        "o": 22,
+        "l": "24"
+    },
+    {
+        "id": "7018023",
+        "b": 7,
+        "c": 18,
+        "v": 25,
+        "t": "Orang-orang Dan itu menjawab, \"Hati-hatilah dengan kata-katamu, Saudara. Sepantasnya ada orang yang marah dan membunuh engkau dengan seisi rumahmu.\"",
+        "h": "",
+        "o": 23,
+        "l": "25"
+    },
+    {
+        "id": "7018024",
+        "b": 7,
+        "c": 18,
+        "v": 26,
+        "t": "Lalu orang-orang Dan itu meneruskan perjalanannya. Ketika Mikha melihat bahwa jumlah mereka terlalu banyak sehingga sukar baginya untuk menghadapi mereka, ia pulang ke rumahnya.",
+        "h": "",
+        "o": 24,
+        "l": "26"
+    },
+    {
+        "id": "7018025",
+        "b": 7,
+        "c": 18,
+        "v": 27,
+        "t": "Dengan membawa patung-patung Mikha dan imamnya, orang-orang Dan itu tiba di Kota Lais. Kota itu tidak banyak penjaganya, karena penduduknya hidup dengan aman dan tentram. Maka masuklah orang-orang Dan itu lalu membunuh semua penduduknya dan membumihanguskan kotanya.",
+        "h": "",
+        "o": 25,
+        "l": "27"
+    },
+    {
+        "id": "7018026",
+        "b": 7,
+        "c": 18,
+        "v": 28,
+        "t": "Tidak ada seorang pun yang menolong penduduk kota itu. Mereka terlampau jauh dari Sidon, dan tidak mempunyai sekutu di sekitar mereka, karena mereka tidak mau bergaul dengan orang lain. Peristiwa ini terjadi di lembah di dekat Bet-Rehob. Lalu orang-orang dari suku Dan membangun kembali kota itu dan tinggal di situ.",
+        "h": "",
+        "o": 26,
+        "l": "28"
+    },
+    {
+        "id": "7018027",
+        "b": 7,
+        "c": 18,
+        "v": 29,
+        "t": "Kota itu diberi nama 'Dan' menurut nama nenek moyang mereka, putra Israel, sedangkan nama asalnya ialah Lais.",
+        "h": "",
+        "o": 27,
+        "l": "29"
+    },
+    {
+        "id": "7018028",
+        "b": 7,
+        "c": 18,
+        "v": 30,
+        "t": "Lalu mereka mengatur patung-patung itu dan mengangkat Yonatan putra Gersom, cucu Musa, serta putra-putranya sebagai imam bagi suku Dan. Keluarga ini menjadi imam sampai kota itu akhirnya ditaklukkan dan penduduknya diangkut sebagai tawanan oleh musuh-musuhnya.",
+        "h": "",
+        "o": 28,
+        "l": "30"
+    },
+    {
+        "id": "7018029",
+        "b": 7,
+        "c": 18,
+        "v": 31,
+        "t": "Demikianlah patung-patung Mikha itu disembah oleh suku Dan selama Kemah Pertemuan berada di Silo.",
+        "h": "",
+        "o": 29,
+        "l": "31"
+    },
+    {
+        "id": "7019001",
+        "b": 7,
+        "c": 19,
+        "v": 1,
+        "t": "PADA masa itu, sebelum Israel mempunyai seorang raja, ada seorang dari suku Lewi yang merantau ke daerah terjauh di Pegunungan Efraim dan tinggal di situ. Ia mengambil seorang gadis dari Betlehem di Yehuda sebagai gundiknya.",
+        "h": "Perbuatan jahat orang Benyamin di Gibea",
+        "o": 1,
+        "l": "1"
+    },
+    {
+        "id": "7019002",
+        "b": 7,
+        "c": 19,
+        "v": 2,
+        "t": "Tetapi perempuan itu menyeleweng, lalu lari pulang ke rumah ayahnya di Betlehem, dan tinggal di situ kira-kira empat bulan lamanya.",
+        "h": "",
+        "o": 2,
+        "l": "2"
+    },
+    {
+        "id": "7019003",
+        "b": 7,
+        "c": 19,
+        "v": 3,
+        "t": "Suaminya, dengan membawa seorang hamba dan seekor keledai tambahan, datang mengunjungi dia untuk membujuk dia kembali kepadanya. Setibanya di rumah perempuan itu, ia dipersilakan masuk oleh perempuan itu dan diperkenalkan kepada ayahnya. Ayah perempuan itu sangat senang bertemu dengan dia dan",
+        "h": "",
+        "o": 3,
+        "l": "3"
+    },
+    {
+        "id": "7019004",
+        "b": 7,
+        "c": 19,
+        "v": 4,
+        "t": "mendesak dia agar mau tinggal beberapa hari lamanya. Maka tinggallah orang Lewi itu di sana tiga hari lamanya, dan mereka berkumpul sambil bersenang-senang.",
+        "h": "",
+        "o": 4,
+        "l": "4"
+    },
+    {
+        "id": "7019005",
+        "b": 7,
+        "c": 19,
+        "v": 5,
+        "t": "Pada hari keempat mereka bangun pagi-pagi, siap untuk berangkat. Tetapi ayah perempuan itu mengajak mereka agar sarapan pagi dahulu.",
+        "h": "",
+        "o": 5,
+        "l": "5"
+    },
+    {
+        "id": "7019006",
+        "b": 7,
+        "c": 19,
+        "v": 6,
+        "t": "Kemudian ia memohon agar mereka mau tinggal sehari lagi, karena kegembiraan yang mereka rasakan bersama-sama.",
+        "h": "",
+        "o": 6,
+        "l": "6"
+    },
+    {
+        "id": "7019007",
+        "b": 7,
+        "c": 19,
+        "v": 7,
+        "t": "Mula-mula orang itu menolak, tetapi mertuanya terus-menerus mendesaknya sehingga ia mengalah.",
+        "h": "",
+        "o": 7,
+        "l": "7"
+    },
+    {
+        "id": "7019008",
+        "b": 7,
+        "c": 19,
+        "v": 8,
+        "t": "Pada keesokan harinya mereka bangun pagi-pagi. Lalu ayah perempuan itu sekali lagi memohon, \"Jangan berangkat sekarang, nanti sore saja.\" Mereka pun bergembira ria sehari lagi.",
+        "h": "",
+        "o": 8,
+        "l": "8"
+    },
+    {
+        "id": "7019009",
+        "b": 7,
+        "c": 19,
+        "v": 9,
+        "t": "Pada sore hari, ketika orang itu serta gundiknya dan hambanya sudah siap untuk berangkat, mertuanya berkata, \"Hari sudah gelap. Tinggallah semalam ini lagi, dan kita akan bersenang-senang bersama-sama. Besok engkau dapat bangun pagi-pagi dan berangkat.\"",
+        "h": "",
+        "o": 9,
+        "l": "9"
+    },
+    {
+        "id": "7019010",
+        "b": 7,
+        "c": 19,
+        "v": 10,
+        "t": "Tetapi kali ini orang Lewi itu tidak mau mengubah keputusannya. Mereka pun berangkatlah dan tiba di Yerusalem (yang juga disebut Yebus) sebelum hari gelap.",
+        "h": "",
+        "o": 10,
+        "l": "10"
+    },
+    {
+        "id": "7019011",
+        "b": 7,
+        "c": 19,
+        "v": 11,
+        "t": "Hamba orang itu berkata, \"Hari sudah terlalu gelap untuk dapat meneruskan perjalanan. Marilah kita bermalam di sini.\"",
+        "h": "",
+        "o": 11,
+        "l": "11"
+    },
+    {
+        "id": "7019012",
+        "b": 7,
+        "c": 19,
+        "v": 12,
+        "t": "\"Tidak,\" jawab majikannya, \"kita tidak bisa bermalam di kota orang-orang kafir ini. Di sini tidak ada orang Israel -- kita akan berjalan terus sampai ke Gibea, atau ke Rama.\"",
+        "h": "",
+        "o": 12,
+        "l": "12-13"
+    },
+    {
+        "id": "7019013",
+        "b": 7,
+        "c": 19,
+        "v": 14,
+        "t": "Mereka berjalan terus. Matahari mulai terbenam pada waktu mereka tiba di Gibea, desa suku Benyamin.",
+        "h": "",
+        "o": 13,
+        "l": "14"
+    },
+    {
+        "id": "7019014",
+        "b": 7,
+        "c": 19,
+        "v": 15,
+        "t": "Di situ mereka bermalam. Tetapi karena tidak ada orang yang mengundang mereka singgah di rumahnya, mereka memasang kemah di tanah lapang.",
+        "h": "",
+        "o": 14,
+        "l": "15"
+    },
+    {
+        "id": "7019015",
+        "b": 7,
+        "c": 19,
+        "v": 16,
+        "t": "Pada saat itu lewatlah seorang tua yang sedang berjalan pulang sehabis bekerja di ladang. Orang tua itu berasal dari daerah Pegunungan Efraim, tetapi sekarang tinggal di Gibea, walaupun kota itu terletak di wilayah suku Benyamin.",
+        "h": "",
+        "o": 15,
+        "l": "16"
+    },
+    {
+        "id": "7019016",
+        "b": 7,
+        "c": 19,
+        "v": 17,
+        "t": "Ketika ia melihat mereka berkemah di tanah lapang, ia bertanya dari mana mereka datang, dan ke mana mereka hendak pergi.",
+        "h": "",
+        "o": 16,
+        "l": "17"
+    },
+    {
+        "id": "7019017",
+        "b": 7,
+        "c": 19,
+        "v": 18,
+        "t": "\"Kami sedang dalam perjalanan pulang dari Betlehem, di Yudea,\" jawab orang itu. \"Aku tinggal di ujung daerah Pegunungan Efraim, di dekat Silo. Tetapi tidak ada orang yang memberi kami tumpangan di rumahnya,",
+        "h": "",
+        "o": 17,
+        "l": "18"
+    },
+    {
+        "id": "7019018",
+        "b": 7,
+        "c": 19,
+        "v": 19,
+        "t": "sungguhpun kami membawa makanan untuk keledai-keledai kami, dan juga banyak makanan serta anggur untuk kami sendiri.\"",
+        "h": "",
+        "o": 18,
+        "l": "19"
+    },
+    {
+        "id": "7019019",
+        "b": 7,
+        "c": 19,
+        "v": 20,
+        "t": "\"Jangan kuatir,\" kata orang tua itu, \"jadilah tamuku. Sebaiknya kalian tidak tinggal di tanah lapang ini karena sangat berbahaya.\"",
+        "h": "",
+        "o": 19,
+        "l": "20"
+    },
+    {
+        "id": "7019020",
+        "b": 7,
+        "c": 19,
+        "v": 21,
+        "t": "Maka ia pun membawa mereka pulang ke rumahnya. Ia memberi makan keledai-keledai itu sementara mereka membasuh kaki. Sesudah itu mereka makan malam bersama-sama.",
+        "h": "",
+        "o": 20,
+        "l": "21"
+    },
+    {
+        "id": "7019021",
+        "b": 7,
+        "c": 19,
+        "v": 22,
+        "t": "Pada saat mereka mulai bergembira dan merasa akrab, segerombolan orang dukana mengepung rumah itu. Mereka menggedor-gedor pintu dan berteriak-teriak kepada orang tua itu, meminta agar ia membawa ke luar orang Lewi yang menginap di rumahnya untuk diperkosa.",
+        "h": "",
+        "o": 21,
+        "l": "22"
+    },
+    {
+        "id": "7019022",
+        "b": 7,
+        "c": 19,
+        "v": 23,
+        "t": "Orang tua itu keluar dan berbicara kepada mereka. \"Janganlah melakukan perbuatan jahat dan keterlaluan yang semacam itu,\" ia memohon, \"karena ia tamuku.",
+        "h": "",
+        "o": 22,
+        "l": "23"
+    },
+    {
+        "id": "7019023",
+        "b": 7,
+        "c": 19,
+        "v": 24,
+        "t": "Ambillah anak gadisku serta gundik tamuku. Aku akan membawa mereka ke luar dan kalian boleh berbuat sesukanya terhadap mereka, tetapi janganlah berbuat jahat terhadap tamuku.\"",
+        "h": "",
+        "o": 23,
+        "l": "24"
+    },
+    {
+        "id": "7019024",
+        "b": 7,
+        "c": 19,
+        "v": 25,
+        "t": "Tetapi mereka tidak mau mendengarkan dia. Lalu orang Lewi itu mendorong gundiknya ke luar kepada mereka, dan mereka memperkosa perempuan itu sepanjang malam sampai pagi. Akhirnya, ketika fajar sudah merekah, mereka melepaskan dia.",
+        "h": "",
+        "o": 24,
+        "l": "25"
+    },
+    {
+        "id": "7019025",
+        "b": 7,
+        "c": 19,
+        "v": 26,
+        "t": "Ia tersungkur di depan rumah itu dan terkapar di situ sampai terang tanah.",
+        "h": "",
+        "o": 25,
+        "l": "26"
+    },
+    {
+        "id": "7019026",
+        "b": 7,
+        "c": 19,
+        "v": 27,
+        "t": "Ketika orang Lewi itu membuka pintu untuk melanjutkan perjalanan, ia mendapati gundiknya tersungkur di depan pintu dengan tangannya mencengkeram ambang pintu.",
+        "h": "",
+        "o": 26,
+        "l": "27"
+    },
+    {
+        "id": "7019027",
+        "b": 7,
+        "c": 19,
+        "v": 28,
+        "t": "\"Bangunlah,\" kata orang Lewi itu. \"Kita akan meneruskan perjalanan.\" Tetapi tidak ada jawaban, karena perempuan itu sudah mati. Orang Lewi itu meletakkan tubuh perempuan itu di atas keledainya, lalu membawanya pulang.",
+        "h": "",
+        "o": 27,
+        "l": "28"
+    },
+    {
+        "id": "7019028",
+        "b": 7,
+        "c": 19,
+        "v": 29,
+        "t": "Setibanya di rumahnya, ia mengambil sebilah pisau dan memotong-motong tubuh gundiknya itu menjadi dua belas potong. Lalu ia mengirimkan setiap potongan itu kepada masing-masing suku Israel.",
+        "h": "",
+        "o": 28,
+        "l": "29"
+    },
+    {
+        "id": "7019029",
+        "b": 7,
+        "c": 19,
+        "v": 30,
+        "t": "Maka segenap bangsa Israel bangkit amarahnya terhadap orang-orang Benyamin yang telah melakukan perbuatan sejahat itu. \"Tidak pernah ada kejahatan yang sekeji itu sejak Israel meninggalkan Mesir,\" kata semua orang. \"Kita harus mengambil tindakan.\"",
+        "h": "",
+        "o": 29,
+        "l": "30"
+    },
+    {
+        "id": "7020001",
+        "b": 7,
+        "c": 20,
+        "v": 1,
+        "t": "KEMUDIAN segenap bangsa Israel berkumpul dengan sehati di hadapan TUHAN di Mizpa. Mereka datang dari daerah-daerah sepanjang Dan sampai Bersyeba, juga dari seberang Tanah Gilead di Sungai Yordan.",
+        "h": "Orang Israel memerangi suku Benyamin",
+        "o": 1,
+        "l": "1"
+    },
+    {
+        "id": "7020002",
+        "b": 7,
+        "c": 20,
+        "v": 2,
+        "t": "Para pemuka bangsa Israel dengan 400.000 orang berjalan kaki yang bersenjata pedang bangkit di hadapan orang banyak dan menyatakan siap untuk mengadakan pembelaan.",
+        "h": "",
+        "o": 2,
+        "l": "2"
+    },
+    {
+        "id": "7020003",
+        "b": 7,
+        "c": 20,
+        "v": 3,
+        "t": "Berita tentang pengerahan bala tentara Israel di Mizpa segera sampai ke Tanah Benyamin. Para pemuka bangsa Israel memanggil suami perempuan yang terbunuh itu dan menanyai dia tentang apa sebenarnya yang telah terjadi.",
+        "h": "",
+        "o": 3,
+        "l": "3"
+    },
+    {
+        "id": "7020004",
+        "b": 7,
+        "c": 20,
+        "v": 4,
+        "t": "\"Pada suatu sore aku dan gundikku tiba di Gibea, sebuah desa di wilayah Benyamin dan bermalam di sana,\" kata orang Lewi itu.",
+        "h": "",
+        "o": 4,
+        "l": "4"
+    },
+    {
+        "id": "7020005",
+        "b": 7,
+        "c": 20,
+        "v": 5,
+        "t": "\"Malam itu orang-orang Gibea mengepung rumah tempat kami bermalam, dengan maksud membunuh aku. Mereka memperkosa gundikku sampai mati.",
+        "h": "",
+        "o": 5,
+        "l": "5"
+    },
+    {
+        "id": "7020006",
+        "b": 7,
+        "c": 20,
+        "v": 6,
+        "t": "Lalu aku memotong-motong tubuhnya menjadi dua belas potong dan mengirimkan potongan-potongannya ke seluruh Tanah Israel, karena orang-orang itu telah melakukan suatu kejahatan besar yang merupakan noda bagi bangsa Israel.",
+        "h": "",
+        "o": 6,
+        "l": "6"
+    },
+    {
+        "id": "7020007",
+        "b": 7,
+        "c": 20,
+        "v": 7,
+        "t": "Nah, kalian keturunan Israel, sekarang silakan mengemukakan pendapat dan nasihat kalian!\"",
+        "h": "",
+        "o": 7,
+        "l": "7"
+    },
+    {
+        "id": "7020008",
+        "b": 7,
+        "c": 20,
+        "v": 8,
+        "t": "Dengan serentak mereka menjawab, \"Tidak seorang pun di antara kami akan pulang sebelum kami menghukum Desa Gibea. Sepuluh dari setiap seratus orang akan diberi tugas membawa perbekalan makanan, sedangkan yang lainnya maju untuk menghancurkan Gibea-Benyamin atas perbuatan mereka yang sangat jahat itu.\"",
+        "h": "",
+        "o": 8,
+        "l": "8-10"
+    },
+    {
+        "id": "7020009",
+        "b": 7,
+        "c": 20,
+        "v": 11,
+        "t": "Segenap umat Israel bersatu untuk menghadapi orang-orang Benyamin itu.",
+        "h": "",
+        "o": 9,
+        "l": "11"
+    },
+    {
+        "id": "7020010",
+        "b": 7,
+        "c": 20,
+        "v": 12,
+        "t": "Lalu umat Israel mengutus beberapa orang kepada suku Benyamin untuk menyampaikan pesan ini: \"Tahukah kalian kejahatan macam apa yang telah dilakukan di tengah-tengah kalian?",
+        "h": "",
+        "o": 10,
+        "l": "12"
+    },
+    {
+        "id": "7020011",
+        "b": 7,
+        "c": 20,
+        "v": 13,
+        "t": "Serahkan orang-orang jahat dari Kota Gibea itu untuk kami hukum mati, supaya Israel disucikan dari kejahatannya.\" Tetapi orang-orang Benyamin itu tidak mau mendengar.",
+        "h": "",
+        "o": 11,
+        "l": "13"
+    },
+    {
+        "id": "7020012",
+        "b": 7,
+        "c": 20,
+        "v": 14,
+        "t": "Malah sebaliknya, orang-orang Benyamin dari kota-kota lain datang ke Gibea untuk bergabung dengan tujuh ratus orang penduduk setempat, dengan maksud mengadakan perlawanan terhadap suku-suku bangsa Israel yang lainnya. Mereka berjumlah 26.000 orang.",
+        "h": "",
+        "o": 12,
+        "l": "14-15"
+    },
+    {
+        "id": "7020013",
+        "b": 7,
+        "c": 20,
+        "v": 16,
+        "t": "Di antara mereka ada tujuh ratus orang yang kidal. Semuanya ahli menggunakan umban atau pengali-ali, sehingga tidak pernah meleset serambut pun dan selalu tepat kena sasarannya.",
+        "h": "",
+        "o": 13,
+        "l": "16"
+    },
+    {
+        "id": "7020014",
+        "b": 7,
+        "c": 20,
+        "v": 17,
+        "t": "Di lain pihak, jumlah bala tentara Israel tanpa suku Benyamin ada 400.000 orang.",
+        "h": "",
+        "o": 14,
+        "l": "17"
+    },
+    {
+        "id": "7020015",
+        "b": 7,
+        "c": 20,
+        "v": 18,
+        "t": "Sebelum berperang bala tentara Israel pergi ke Betel terlebih dulu untuk meminta petunjuk Allah. \"Suku manakah di antara kami yang harus memimpin kami melawan suku Benyamin?\" tanya mereka. TUHAN menjawab, \"Suku Yehuda yang harus pergi paling dulu.\"",
+        "h": "",
+        "o": 15,
+        "l": "18"
+    },
+    {
+        "id": "7020016",
+        "b": 7,
+        "c": 20,
+        "v": 19,
+        "t": "Keesokan harinya, pagi-pagi, seluruh bala tentara Israel berangkat menuju Gibea untuk menyerang orang-orang Benyamin.",
+        "h": "",
+        "o": 16,
+        "l": "19-20"
+    },
+    {
+        "id": "7020017",
+        "b": 7,
+        "c": 20,
+        "v": 21,
+        "t": "Tetapi orang-orang Benyamin yang mempertahankan kota itu menyerbu ke luar dan berhasil membunuh 22.000 ribu orang Israel pada hari itu.",
+        "h": "",
+        "o": 17,
+        "l": "21"
+    },
+    {
+        "id": "7020018",
+        "b": 7,
+        "c": 20,
+        "v": 22,
+        "t": "Maka menangislah bala tentara Israel di hadapan TUHAN sampai malam dan bertanya kepada-Nya, \"Apakah kami harus terus berperang melawan saudara kami, orang-orang Benyamin itu?\" TUHAN berkata, \"Ya, majulah!\" Maka orang-orang Israel itu memberanikan hati dan maju lagi pada keesokan harinya untuk berperang di tempat yang sama.",
+        "h": "",
+        "o": 18,
+        "l": "22-24"
+    },
+    {
+        "id": "7020019",
+        "b": 7,
+        "c": 20,
+        "v": 25,
+        "t": "Pada hari itu mereka kehilangan 18.000 ribu orang lagi, semuanya pahlawan-pahlawan perang yang berpengalaman.",
+        "h": "",
+        "o": 19,
+        "l": "25"
+    },
+    {
+        "id": "7020020",
+        "b": 7,
+        "c": 20,
+        "v": 26,
+        "t": "Lalu segenap bala tentara Israel itu pergi ke Betel. Mereka menangis di hadapan TUHAN dan berpuasa sampai petang dan mempersembahkan kurban bakaran serta kurban pendamaian.",
+        "h": "",
+        "o": 20,
+        "l": "26"
+    },
+    {
+        "id": "7020021",
+        "b": 7,
+        "c": 20,
+        "v": 27,
+        "t": "Pada masa itu tabut TUHAN berada di Betel dan Pinehas putra Eleazar, cucu Harun, menjadi imam di situ. Orang-orang Israel bertanya kepada TUHAN, \"Apakah kami harus maju berperang lagi melawan saudara kami, orang-orang Benyamin itu, ataukah kami harus berhenti?\" TUHAN berkata, \"Majulah, karena besok kamu akan sanggup mengalahkan mereka.\"",
+        "h": "",
+        "o": 21,
+        "l": "27-28"
+    },
+    {
+        "id": "7020022",
+        "b": 7,
+        "c": 20,
+        "v": 29,
+        "t": "Maka bala tentara Israel mengatur beberapa pasukan untuk melakukan serangan mendadak di sekitar kota itu.",
+        "h": "",
+        "o": 22,
+        "l": "29"
+    },
+    {
+        "id": "7020023",
+        "b": 7,
+        "c": 20,
+        "v": 30,
+        "t": "Pada hari ketiga mereka siap untuk maju perang lagi.",
+        "h": "",
+        "o": 23,
+        "l": "30"
+    },
+    {
+        "id": "7020024",
+        "b": 7,
+        "c": 20,
+        "v": 31,
+        "t": "Ketika orang-orang Benyamin keluar dari Kota Gibea untuk melawan, bala tentara Israel lari mundur. Orang-orang Benyamin mengejar terus sampai mereka terbawa jauh dari kota itu. Sama seperti yang telah mereka lakukan sebelumnya, mereka membunuh orang-orang Israel di sepanjang jalan antara Betel dengan Gibea, sehingga matilah sekitar tiga puluh orang Israel.",
+        "h": "",
+        "o": 24,
+        "l": "31"
+    },
+    {
+        "id": "7020025",
+        "b": 7,
+        "c": 20,
+        "v": 32,
+        "t": "Orang-orang Benyamin itu berseru, \"Kita berhasil memukul mundur mereka lagi!\" Sementara itu bala tentara Israel sudah bersepakat untuk pura-pura lari mundur supaya dikejar oleh orang-orang Benyamin, sehingga orang-orang Benyamin itu terpancing ke luar jauh dari Kota Gibea.",
+        "h": "",
+        "o": 25,
+        "l": "32"
+    },
+    {
+        "id": "7020026",
+        "b": 7,
+        "c": 20,
+        "v": 33,
+        "t": "Ketika sampai di Baal Tamar, pasukan Israel yang dikejar itu berbalik menyerang orang-orang Benyamin. Lalu muncullah pasukan serangan mendadak itu dari tempat persembunyian mereka di sebelah barat Geba sebanyak sepuluh ribu orang. Mereka menyerang barisan belakang orang-orang Benyamin, yang masih belum menyadari akan malapetaka yang sedang mengancam mereka.",
+        "h": "",
+        "o": 26,
+        "l": "33-34"
+    },
+    {
+        "id": "7020027",
+        "b": 7,
+        "c": 20,
+        "v": 35,
+        "t": "Demikianlah TUHAN menolong Israel mengalahkan suku Benyamin. Bala tentara Israel menewaskan 25.100 orang Benyamin pada hari itu sehingga yang masih hidup hanya tinggal sejumlah kecil saja. Bala tentara Israel mundur menghadapi orang-orang Benyamin itu dengan maksud memberi kesempatan kepada pasukan serangan mendadak untuk menjalankan siasat mereka. Ketika orang-orang Benyamin telah membunuh kira-kira tiga puluh orang Israel, mereka merasa yakin akan dapat membunuh lagi sejumlah besar tentara Israel seperti pada hari-hari sebelumnya. Tetapi, pasukan serangan mendadak dari bala tentara Israel menyerbu Kota Gibea dan membunuh semua orang di dalamnya lalu membakar kota itu. Asap tebal yang membubung ke angkasa merupakan tanda bagi bala tentara Israel untuk berbalik menyerang orang-orang Benyamin.",
+        "h": "",
+        "o": 27,
+        "l": "35-39"
+    },
+    {
+        "id": "7020028",
+        "b": 7,
+        "c": 20,
+        "v": 40,
+        "t": "Ketika orang-orang Benyamin itu menoleh ke belakang, mereka sangat terkejut melihat kota mereka telah berkobar-kobar. Mereka menyadari bahwa keadaan sudah gawat,",
+        "h": "",
+        "o": 28,
+        "l": "40-41"
+    },
+    {
+        "id": "7020029",
+        "b": 7,
+        "c": 20,
+        "v": 42,
+        "t": "maka mereka lari ke padang gurun. Tetapi bala tentara Israel mengejar mereka. Juga pasukan serangan mendadak itu ikut keluar dan membunuh orang-orang Benyamin itu dari belakang.",
+        "h": "",
+        "o": 29,
+        "l": "42"
+    },
+    {
+        "id": "7020030",
+        "b": 7,
+        "c": 20,
+        "v": 43,
+        "t": "Mereka mengurung orang-orang Benyamin di sebelah timur Gibea, dan membunuh sebagian besar di antaranya.",
+        "h": "",
+        "o": 30,
+        "l": "43"
+    },
+    {
+        "id": "7020031",
+        "b": 7,
+        "c": 20,
+        "v": 44,
+        "t": "Pada hari itu 18.000 orang Benyamin mati dalam peperangan.",
+        "h": "",
+        "o": 31,
+        "l": "44"
+    },
+    {
+        "id": "7020032",
+        "b": 7,
+        "c": 20,
+        "v": 45,
+        "t": "Sisa orang Benyamin itu lari ke padang gurun menuju Bukit Batu Rimon, tetapi mereka masih terus dikejar. Lima ribu orang terbunuh di sepanjang jalan ke situ, dan dua ribu orang lainnya terbunuh di dekat Gideom.",
+        "h": "",
+        "o": 32,
+        "l": "45"
+    },
+    {
+        "id": "7020033",
+        "b": 7,
+        "c": 20,
+        "v": 46,
+        "t": "Demikianlah suku Benyamin telah kehilangan 25.000 pahlawan perang yang gagah berani pada hari itu. Sisanya hanya enam ratus orang, yang telah berhasil melarikan diri ke Bukit Batu Rimon. Mereka tinggal di situ selama empat bulan.",
+        "h": "",
+        "o": 33,
+        "l": "46-47"
+    },
+    {
+        "id": "7020034",
+        "b": 7,
+        "c": 20,
+        "v": 48,
+        "t": "Bala tentara Israel kembali kepada orang-orang Benyamin dan membunuh mereka -- laki-laki, perempuan, anak-anak, ternak -- dan membakar setiap kota serta desa di daerah-daerah itu.",
+        "h": "",
+        "o": 34,
+        "l": "48"
+    },
+    {
+        "id": "7021001",
+        "b": 7,
+        "c": 21,
+        "v": 1,
+        "t": "DI Mizpa para pemuka bangsa Israel telah bersumpah untuk tidak menikahkan anak-anak perempuan mereka dengan orang laki-laki dari suku Benyamin.",
+        "h": "Orang-orang Benyamin dicarikan istri",
+        "o": 1,
+        "l": "1"
+    },
+    {
+        "id": "7021002",
+        "b": 7,
+        "c": 21,
+        "v": 2,
+        "t": "Mereka berkumpul di Betel dan duduk di hadapan Allah sampai petang, sambil menangis dengan sangat sedih.",
+        "h": "",
+        "o": 2,
+        "l": "2"
+    },
+    {
+        "id": "7021003",
+        "b": 7,
+        "c": 21,
+        "v": 3,
+        "t": "\"Ya TUHAN, Allah Israel,\" seru mereka, \"apa sebabnya sampai terjadi hal seperti ini? Mengapa salah satu suku bangsa kami lenyap?\"",
+        "h": "",
+        "o": 3,
+        "l": "3"
+    },
+    {
+        "id": "7021004",
+        "b": 7,
+        "c": 21,
+        "v": 4,
+        "t": "Keesokan harinya mereka bangun pagi-pagi dan mendirikan sebuah mezbah, lalu mempersembahkan kurban bakaran dan kurban pendamaian di atasnya.",
+        "h": "",
+        "o": 4,
+        "l": "4"
+    },
+    {
+        "id": "7021005",
+        "b": 7,
+        "c": 21,
+        "v": 5,
+        "t": "Mereka berkata seorang kepada yang lain, \"Mana ada di antara suku bangsa Israel yang tidak mengirimkan wakilnya pada waktu kita mengadakan musyawarah di hadapan TUHAN di Mizpa?\" Karena pada waktu itu mereka telah bersepakat dengan bersumpah bahwa siapa tidak mau datang menghadirinya harus dihukum mati.",
+        "h": "",
+        "o": 5,
+        "l": "5"
+    },
+    {
+        "id": "7021006",
+        "b": 7,
+        "c": 21,
+        "v": 6,
+        "t": "Kesedihan yang besar meliputi seluruh bangsa Israel karena suku Benyamin, saudara mereka, hampir punah. \"Pada hari ini hampir punah salah satu suku bangsa Israel,\" kata mereka.",
+        "h": "",
+        "o": 6,
+        "l": "6"
+    },
+    {
+        "id": "7021007",
+        "b": 7,
+        "c": 21,
+        "v": 7,
+        "t": "\"Bagaimana kita dapat mencarikan istri bagi orang-orang Benyamin yang masih hidup itu, karena kita sudah bersumpah demi TUHAN bahwa kita tidak akan memberikan anak-anak perempuan kita kepada mereka?\"",
+        "h": "",
+        "o": 7,
+        "l": "7"
+    },
+    {
+        "id": "7021008",
+        "b": 7,
+        "c": 21,
+        "v": 8,
+        "t": "Lalu mereka teringat akan sumpah mereka untuk membunuh siapa saja yang tidak mau datang ke Mizpa dan mereka mendapati bahwa dari Yabesy-Gilead tidak ada yang datang.",
+        "h": "",
+        "o": 8,
+        "l": "8-9"
+    },
+    {
+        "id": "7021009",
+        "b": 7,
+        "c": 21,
+        "v": 10,
+        "t": "Maka mereka pun mengirimkan dua belas ribu tentara mereka yang paling perkasa untuk membinasakan penduduk Yabesy-Gilead. Semua orang laki-laki, perempuan yang telah bersuami serta anak-anak dibunuh, tetapi anak-anak gadis yang cukup umur untuk dinikahkan dibiarkan hidup. Semuanya ada empat ratus anak gadis, dan mereka dibawa ke perkemahan yang di Silo, di Tanah Kanaan.",
+        "h": "",
+        "o": 9,
+        "l": "10-12"
+    },
+    {
+        "id": "7021010",
+        "b": 7,
+        "c": 21,
+        "v": 13,
+        "t": "Lalu orang Israel mengirim utusan untuk mengadakan perdamaian dengan sisa orang Benyamin yang tinggal sedikit itu di Bukit Batu Rimon.",
+        "h": "",
+        "o": 10,
+        "l": "13"
+    },
+    {
+        "id": "7021011",
+        "b": 7,
+        "c": 21,
+        "v": 14,
+        "t": "Keempat ratus anak gadis itu diberikan kepada mereka untuk dijadikan istri. Suku Benyamin itu pun pulang ke rumah masing-masing. Tetapi jumlah anak-anak gadis itu masih kurang.",
+        "h": "",
+        "o": 11,
+        "l": "14"
+    },
+    {
+        "id": "7021012",
+        "b": 7,
+        "c": 21,
+        "v": 15,
+        "t": "Sungguh menyedihkan keadaan masa itu di Israel karena TUHAN telah membuat perpecahan di antara suku-suku bangsa Israel.",
+        "h": "",
+        "o": 12,
+        "l": "15"
+    },
+    {
+        "id": "7021013",
+        "b": 7,
+        "c": 21,
+        "v": 16,
+        "t": "\"Apakah yang harus kita lakukan untuk memperoleh calon-calon istri bagi sisa suku Benyamin, karena semua perempuan dari suku itu sudah mati?\" tanya para pemuka bangsa Israel.",
+        "h": "",
+        "o": 13,
+        "l": "16"
+    },
+    {
+        "id": "7021014",
+        "b": 7,
+        "c": 21,
+        "v": 17,
+        "t": "\"Kita harus mencari jalan untuk mendapatkan istri bagi mereka, supaya jangan ada suku bangsa Israel yang akan punah sama sekali.",
+        "h": "",
+        "o": 14,
+        "l": "17"
+    },
+    {
+        "id": "7021015",
+        "b": 7,
+        "c": 21,
+        "v": 18,
+        "t": "Tetapi kita tidak dapat memberikan anak-anak perempuan kita sendiri kepada mereka, karena kita sudah bersumpah bahwa orang yang berbuat demikian akan dikutuk oleh Allah.\"",
+        "h": "",
+        "o": 15,
+        "l": "18"
+    },
+    {
+        "id": "7021016",
+        "b": 7,
+        "c": 21,
+        "v": 19,
+        "t": "Tiba-tiba mereka teringat akan upacara agama yang dirayakan setahun sekali di ladang-ladang di Silo, antara Lebona dan Betel, di sebelah timur jalan dari Betel ke Sikhem.",
+        "h": "",
+        "o": 16,
+        "l": "19"
+    },
+    {
+        "id": "7021017",
+        "b": 7,
+        "c": 21,
+        "v": 20,
+        "t": "Mereka berkata kepada orang-orang Benyamin yang masih belum mendapat istri itu, \"Pergilah bersembunyi di kebun-kebun anggur.",
+        "h": "",
+        "o": 17,
+        "l": "20"
+    },
+    {
+        "id": "7021018",
+        "b": 7,
+        "c": 21,
+        "v": 21,
+        "t": "Apabila gadis-gadis dari Silo keluar untuk menari-nari, keluarlah dan tangkaplah masing-masing seorang dan bawalah pulang untuk kaujadikan istrimu!",
+        "h": "",
+        "o": 18,
+        "l": "21"
+    },
+    {
+        "id": "7021019",
+        "b": 7,
+        "c": 21,
+        "v": 22,
+        "t": "Apabila ayah serta saudara laki-laki mereka mengadu kepada kami, maka kami akan berkata kepada mereka, 'Relakanlah putri-putrimu diambil oleh orang-orang Benyamin itu untuk dijadikan istri mereka, karena ketika kami membinasakan Yabesy-Gilead kami tidak memperoleh cukup banyak anak gadis untuk dijadikan istri mereka. Kalian sendiri tidak mungkin memberikan putri kalian karena kalian akan dianggap bersalah.'\"",
+        "h": "",
+        "o": 19,
+        "l": "22"
+    },
+    {
+        "id": "7021020",
+        "b": 7,
+        "c": 21,
+        "v": 23,
+        "t": "Maka orang-orang Benyamin itu berbuat seperti yang disarankan kepada mereka. Mereka menculik anak-anak gadis yang ikut dalam upacara keagamaan itu dan melarikan mereka ke tanah pusaka mereka. Lalu mereka membangun kembali kota-kota mereka dan tinggal di situ.",
+        "h": "",
+        "o": 20,
+        "l": "23"
+    },
+    {
+        "id": "7021021",
+        "b": 7,
+        "c": 21,
+        "v": 24,
+        "t": "Maka pulanglah bangsa Israel ke rumahnya masing-masing.",
+        "h": "",
+        "o": 21,
+        "l": "24"
+    },
+    {
+        "id": "7021022",
+        "b": 7,
+        "c": 21,
+        "v": 25,
+        "t": "Pada masa itu di Israel belum ada raja, dan setiap orang berbuat apa saja yang benar menurut pandangannya sendiri.",
+        "h": "",
+        "o": 22,
+        "l": "25"
+    }
+]

@@ -1,0 +1,1542 @@
+[
+  {
+    "id": "32001001",
+    "b": 32,
+    "c": 1,
+    "v": 1,
+    "t": "Hélas ! la voici abandonnée, cette ville autrefois si peuplée ! Elle est comme une veuve, celle qui était si célèbre parmi tous les peuples. La voilà esclave, celle qui était une reine parmi les provinces !",
+    "h": "Jérusalem est comme une veuve abandonnée !",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "32001002",
+    "b": 32,
+    "c": 1,
+    "v": 2,
+    "t": "Elle passe ses nuits à pleurer, et ses joues sont couvertes de larmes. Parmi ceux qui l’aimaient, personne ne la console. Tous ses amis l’ont trahie, ils sont maintenant ses ennemis.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "32001003",
+    "b": 32,
+    "c": 1,
+    "v": 3,
+    "t": "Toute la population de Juda est en exil, elle est écrasée de misère, sous le poids d’un dur esclavage. Elle vit parmi les autres peuples, mais elle ne trouve pas où s’installer. Ceux qui la poursuivaient l’ont rattrapée dans un chemin sans issue.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "32001004",
+    "b": 32,
+    "c": 1,
+    "v": 4,
+    "t": "Les routes qui vont à Sion sont en deuil, personne ne vient plus pour les jours de fête, ses places publiques sont vides. Ses prêtres gémissent, ses jeunes filles sont dans la tristesse, Sion elle-même est remplie d’une douleur amère.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "32001005",
+    "b": 32,
+    "c": 1,
+    "v": 5,
+    "t": "Ses adversaires ont été les plus forts, ses ennemis sont bien tranquilles. C’est le SEIGNEUR qui la fait souffrir à cause de ses nombreuses fautes. Ses jeunes enfants, prisonniers, s’en vont, poussés par les vainqueurs.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "32001006",
+    "b": 32,
+    "c": 1,
+    "v": 6,
+    "t": "La ville de Sion voit partir tout ce qui faisait sa grandeur. Ses ministres sont comme des animaux qui ne trouvent pas d’herbe à manger. Ils s’enfuient sans force devant ceux qui les poursuivent.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "32001007",
+    "b": 32,
+    "c": 1,
+    "v": 7,
+    "t": "Jérusalem, dans son malheur, ne sait pas où aller. Alors, elle se souvient de toutes les choses précieuses qu’elle possédait autrefois. Quand son peuple est tombé au pouvoir de ses ennemis, personne n’est venu l’aider. Ses ennemis la regardaient et ils riaient parce qu’elle était détruite.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "32001008",
+    "b": 32,
+    "c": 1,
+    "v": 8,
+    "t": "Jérusalem a commis des fautes graves, c’est pourquoi elle est devenue une ordure. Tous ceux qui la respectaient la méprisent, parce qu’ils la voient toute nue. Elle, elle tourne le dos et gémit.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "32001009",
+    "b": 32,
+    "c": 1,
+    "v": 9,
+    "t": "Tout le monde voit sur elle qu’elle est impure. Elle n’avait pas prévu ce qui allait arriver. Elle est étonnée d’être tombée si bas, et personne ne la console. Elle dit : « SEIGNEUR, regarde ma misère, car mon ennemi se vante de sa force. »",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "32001010",
+    "b": 32,
+    "c": 1,
+    "v": 10,
+    "t": "Les vainqueurs ont pris tous les trésors de Jérusalem. Cette ville a même vu les autres peuples entrer dans son lieu saint. Pourtant, SEIGNEUR, tu leur avais défendu d’entrer dans ton assemblée.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "32001011",
+    "b": 32,
+    "c": 1,
+    "v": 11,
+    "t": "Tous ses habitants gémissent, ils cherchent de la nourriture. Ils donnent ce qu’ils ont de plus précieux pour avoir à manger, pour reprendre des forces. Jérusalem dit : « SEIGNEUR, regarde et vois combien je suis méprisée. » *",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "32001012",
+    "b": 32,
+    "c": 1,
+    "v": 12,
+    "t": "Vous tous qui passez par ici, ce malheur ne vous a pas atteints. Regardez et voyez : est-ce qu’il y a une douleur pareille à ma douleur, pareille à celle que le SEIGNEUR a fait tomber sur moi le jour où sa violente colère a éclaté ?",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "32001013",
+    "b": 32,
+    "c": 1,
+    "v": 13,
+    "t": "De là-haut, il a envoyé un feu, qu’il a fait descendre dans mon corps. Il a tendu un piège sous mes pieds et m’a fait tomber en arrière. Il a fait de moi une personne isolée, sans cesse malade.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "32001014",
+    "b": 32,
+    "c": 1,
+    "v": 14,
+    "t": "Il voit de près toutes mes fautes. Il les a attachées ensemble et les fait peser sur mes épaules. Le Seigneur a diminué mes forces, il m’a livré à des gens contre lesquels je ne peux pas me défendre.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "32001015",
+    "b": 32,
+    "c": 1,
+    "v": 15,
+    "t": "Le Seigneur a rejeté avec mépris tous les combattants courageux qui étaient chez moi. Il a réuni une armée contre moi pour briser mes jeunes soldats. Il m’a écrasée comme du raisin au pressoir, moi, la belle Jérusalem, ville de Juda.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "32001016",
+    "b": 32,
+    "c": 1,
+    "v": 16,
+    "t": "Voilà pourquoi je pleure. Mes yeux sont noyés de larmes, car celui qui peut me consoler et me rendre la vie est loin de moi. Mes enfants sont perdus, parce que l’ennemi a été le plus fort. *",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "32001017",
+    "b": 32,
+    "c": 1,
+    "v": 17,
+    "t": "Sion tend les mains, mais il n’y a personne pour la consoler ! Le SEIGNEUR a donné l’ordre aux voisins d’Israël d’attaquer ce peuple. Au milieu d’eux, Jérusalem est devenue une ordure. *",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "32001018",
+    "b": 32,
+    "c": 1,
+    "v": 18,
+    "t": "« Le SEIGNEUR a eu raison d’agir ainsi, car je me suis révoltée contre ses ordres. Écoutez donc, tous les peuples, et voyez ma douleur. Mes jeunes filles et mes jeunes gens ont été déportés.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "32001019",
+    "b": 32,
+    "c": 1,
+    "v": 19,
+    "t": "J’ai appelé ceux qui m’aimaient, mais ils ne veulent plus de moi. Mes prêtres et mes anciens sont morts dans la ville, pendant qu’ils cherchaient à manger pour reprendre des forces.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "32001020",
+    "b": 32,
+    "c": 1,
+    "v": 20,
+    "t": "SEIGNEUR, regarde mon malheur ! Mon corps tremble de fièvre, et je suis toute bouleversée, car je me suis vraiment révoltée ! Dans les rues, l’épée m’a enlevé mes enfants, à la maison, on se croirait chez les morts.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "32001021",
+    "b": 32,
+    "c": 1,
+    "v": 21,
+    "t": "On m’entend gémir, personne ne me console ! Mes ennemis ont tous appris mon malheur. Ils se réjouissent de ce que tu m’as fait. Fais donc venir le jour que tu as annoncé, pour qu’ils deviennent comme moi !",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "32001022",
+    "b": 32,
+    "c": 1,
+    "v": 22,
+    "t": "Regarde bien toute leur méchanceté et traite-les comme tu m’as traitée à cause de tous mes péchés ! Oui, je passe mon temps à gémir et je suis bien malade. »",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "32002001",
+    "b": 32,
+    "c": 2,
+    "v": 1,
+    "t": "Hélas ! Le Seigneur, dans sa colère, a couvert de nuages la ville de Sion ! Du haut du ciel, il a jeté jusqu’à terre ce qui faisait l’honneur d’Israël. Quand sa colère a éclaté contre Sion, il a oublié qu’elle était l’endroit où il pose ses pieds.",
+    "h": "Le Seigneur a agi comme un ennemi de son peuple !",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "32002002",
+    "b": 32,
+    "c": 2,
+    "v": 2,
+    "t": "Le Seigneur a fait disparaître sans pitié toutes les habitations de Jacob, son peuple. Dans sa fureur, il a détruit les villes bien protégées de Juda. Il a renversé le royaume et ses chefs et les a traités avec mépris.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "32002003",
+    "b": 32,
+    "c": 2,
+    "v": 3,
+    "t": "Dans sa violente colère, il a brisé toute la puissance d’Israël. Quand l’ennemi est arrivé, le SEIGNEUR n’a pas voulu aider son peuple. Mais il a allumé un incendie qui a tout brûlé autour de lui.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "32002004",
+    "b": 32,
+    "c": 2,
+    "v": 4,
+    "t": "Comme un ennemi, il a tendu son arc, la main droite prête à tirer. Comme un adversaire, il a tué tous ceux que nous aimions regarder. Il a répandu sa colère comme un feu sur le temple de Sion.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "32002005",
+    "b": 32,
+    "c": 2,
+    "v": 5,
+    "t": "Le Seigneur a agi comme un ennemi. Il a détruit Israël et tous ses palais. Il a démoli ses murs de protection et il a répandu partout tristesse et malheur dans le peuple de Juda.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "32002006",
+    "b": 32,
+    "c": 2,
+    "v": 6,
+    "t": "Il est entré de force dans son enclos, il a démoli le lieu où il nous rencontrait. À Sion, le SEIGNEUR a fait oublier les jours de fête et de sabbat. Dans sa violente colère, il a traité avec mépris le roi et les prêtres.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "32002007",
+    "b": 32,
+    "c": 2,
+    "v": 7,
+    "t": "Le Seigneur a rejeté son autel, il a abandonné son lieu saint. Les murs de ses palais, il les a livrés aux mains de l’ennemi. Dans son temple, il y avait autant de bruit qu’un jour de fête.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "32002008",
+    "b": 32,
+    "c": 2,
+    "v": 8,
+    "t": "Le SEIGNEUR avait décidé de détruire les murs qui protégeaient la ville de Sion. Il ne s’est pas arrêté de détruire jusqu’à ce que tout disparaisse. Il a frappé les deux murs, et tous deux sont tombés.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "32002009",
+    "b": 32,
+    "c": 2,
+    "v": 9,
+    "t": "Les portes de la ville se sont écroulées, le SEIGNEUR a cassé leurs verrous. Son roi et ses ministres sont prisonniers chez les autres peuples. Plus personne ne donne l’enseignement du SEIGNEUR. Même les prophètes ne reçoivent plus de message de sa part.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "32002010",
+    "b": 32,
+    "c": 2,
+    "v": 10,
+    "t": "Les anciens de la ville de Sion sont assis par terre, ils ne disent rien. Ils ont la tête couverte de poussière, ils portent des habits de deuil. Les jeunes filles de Jérusalem baissent la tête vers la terre. *",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "32002011",
+    "b": 32,
+    "c": 2,
+    "v": 11,
+    "t": "Mes yeux se fatiguent à pleurer, je suis bouleversé, mon cœur n’en peut plus devant la catastrophe qui touche mon peuple. En effet, les tout petits enfants perdent leurs forces sur les places de la ville.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "32002012",
+    "b": 32,
+    "c": 2,
+    "v": 12,
+    "t": "Ils demandent à leur mère où trouver à manger et à boire. Ils tombent comme des blessés sur les places de la ville et ils meurent dans les bras de leur mère. *",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "32002013",
+    "b": 32,
+    "c": 2,
+    "v": 13,
+    "t": "Jérusalem, je ne sais plus quoi te dire. Ta situation ne ressemble à aucune autre. Quel exemple te donner pour te consoler, belle ville de Sion ? Ton malheur est immense comme la mer. Qui peut te guérir ?",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "32002014",
+    "b": 32,
+    "c": 2,
+    "v": 14,
+    "t": "Tes prophètes n’ont vu pour toi que des choses fausses et sans valeur. Ils n’ont pas dénoncé ta faute, ce qui aurait pu changer ta situation. Ils ont inventé pour toi mensonges et paroles trompeuses.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "32002015",
+    "b": 32,
+    "c": 2,
+    "v": 15,
+    "t": "Tous ceux qui passent près de toi, Jérusalem, applaudissent parce que tu es détruite. Ils poussent des cris d’horreur et secouent la tête : « Est-ce bien la ville qu’on appelait “beauté parfaite” et “joie de toute la terre” ? »",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "32002016",
+    "b": 32,
+    "c": 2,
+    "v": 16,
+    "t": "Tous tes ennemis parlent contre toi. Avec mépris, ils montrent leurs dents menaçantes en disant : « Nous l’avons avalée ! Voici enfin le jour que nous attendions. Nous y sommes, nous le voyons ! »",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "32002017",
+    "b": 32,
+    "c": 2,
+    "v": 17,
+    "t": "Le SEIGNEUR a fait ce qu’il avait projeté, il a réalisé ce qu’il avait annoncé, ce qu’il avait décidé depuis longtemps : il a détruit sans pitié. Il a réjoui l’ennemi par ton malheur, il a augmenté la puissance de tes adversaires. *",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "32002018",
+    "b": 32,
+    "c": 2,
+    "v": 18,
+    "t": "Peuple de Sion, crie d’un seul cœur vers le Seigneur. Mur qui protèges la ville, laisse couler tes larmes comme un torrent, jour et nuit. Ne te repose pas, ne t’arrête pas de pleurer.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "32002019",
+    "b": 32,
+    "c": 2,
+    "v": 19,
+    "t": "Lève-toi, crie à toutes les heures de la nuit. Vide ton cœur en présence du Seigneur. Élève tes mains vers lui pour sauver tes jeunes enfants qui meurent de faim à tous les carrefours. *",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "32002020",
+    "b": 32,
+    "c": 2,
+    "v": 20,
+    "t": "Regarde, SEIGNEUR, et vois : qui as-tu traité de cette façon ? Faut-il vraiment que des femmes mangent leurs enfants, leurs petits tendrement aimés ? Faut-il que des prêtres et des prophètes soient tués dans ton lieu saint ?",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "32002021",
+    "b": 32,
+    "c": 2,
+    "v": 21,
+    "t": "Jeunes et vieux sont étendus par terre dans les rues. Mes jeunes filles et mes jeunes gens sont tombés, tués par l’épée. Le jour où ta colère a éclaté, tu les as tués, assassinés sans pitié.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "32002022",
+    "b": 32,
+    "c": 2,
+    "v": 22,
+    "t": "Comme pour un jour de fête, tu as invité mes terribles voisins. Le jour où ta colère a éclaté, SEIGNEUR, personne n’a pu échapper, personne n’est resté en vie. Ceux que j’avais élevés et aimés tendrement, mon ennemi les a détruits.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "32003001",
+    "b": 32,
+    "c": 3,
+    "v": 1,
+    "t": "Je suis l’homme qui a connu le malheur sous les coups de la fureur du SEIGNEUR.",
+    "h": "Un homme dans le malheur espère malgré tout dans le Seigneur",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "32003002",
+    "b": 32,
+    "c": 3,
+    "v": 2,
+    "t": "Il m’a poussé devant lui, il m’a fait marcher non dans la lumière mais dans la nuit.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "32003003",
+    "b": 32,
+    "c": 3,
+    "v": 3,
+    "t": "Oui, tous les jours, il fait peser sa main sur moi, et sur moi seul.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "32003004",
+    "b": 32,
+    "c": 3,
+    "v": 4,
+    "t": "Il m’a usé de la tête aux pieds, il m’a brisé les os.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "32003005",
+    "b": 32,
+    "c": 3,
+    "v": 5,
+    "t": "Il m’a enfermé en m’entourant de peine et de difficultés.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "32003006",
+    "b": 32,
+    "c": 3,
+    "v": 6,
+    "t": "Il m’a fait habiter dans l’obscurité, comme ceux qui sont morts depuis longtemps.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "32003007",
+    "b": 32,
+    "c": 3,
+    "v": 7,
+    "t": "Le SEIGNEUR m’a entouré d’un mur pour m’empêcher de sortir, il m’a chargé de lourdes chaînes.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "32003008",
+    "b": 32,
+    "c": 3,
+    "v": 8,
+    "t": "Même quand je crie et appelle au secours, il ferme ses oreilles à ma prière.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "32003009",
+    "b": 32,
+    "c": 3,
+    "v": 9,
+    "t": "Il m’a barré la route avec de grosses pierres, il m’a conduit sur une fausse piste.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "32003010",
+    "b": 32,
+    "c": 3,
+    "v": 10,
+    "t": "Le SEIGNEUR est pour moi comme un animal sauvage prêt à bondir, comme un lion caché dans un buisson.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "32003011",
+    "b": 32,
+    "c": 3,
+    "v": 11,
+    "t": "Il m’a fait perdre mon chemin, il m’a déchiré et détruit.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "32003012",
+    "b": 32,
+    "c": 3,
+    "v": 12,
+    "t": "Il a tendu son arc et dirigé ses flèches contre moi.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "32003013",
+    "b": 32,
+    "c": 3,
+    "v": 13,
+    "t": "Il a planté toutes ses flèches dans mes reins.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "32003014",
+    "b": 32,
+    "c": 3,
+    "v": 14,
+    "t": "Tout mon peuple rit de moi. Tous les jours, les gens chantent des chansons pour se moquer de moi.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "32003015",
+    "b": 32,
+    "c": 3,
+    "v": 15,
+    "t": "Le SEIGNEUR m’a rempli d’une souffrance amère, il m’a donné du poison à boire.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "32003016",
+    "b": 32,
+    "c": 3,
+    "v": 16,
+    "t": "Il m’a obligé à briser des cailloux avec les dents, il m’a écrasé dans la poussière.",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "32003017",
+    "b": 32,
+    "c": 3,
+    "v": 17,
+    "t": "Il m’a enlevé la paix, j’ai oublié le bonheur.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "32003018",
+    "b": 32,
+    "c": 3,
+    "v": 18,
+    "t": "Alors je dis : Je n’ai plus d’avenir, je n’attends plus rien du SEIGNEUR.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "32003019",
+    "b": 32,
+    "c": 3,
+    "v": 19,
+    "t": "Je suis dans le malheur et je ne sais pas où je vais. Penser à mon malheur est pour moi comme un poison amer.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "32003020",
+    "b": 32,
+    "c": 3,
+    "v": 20,
+    "t": "J’y pense sans arrêt, je ne peux pas oublier, et je suis abattu.",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "32003021",
+    "b": 32,
+    "c": 3,
+    "v": 21,
+    "t": "Mais voici la pensée qui me vient à l’esprit, voici pourquoi j’espère :",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "32003022",
+    "b": 32,
+    "c": 3,
+    "v": 22,
+    "t": "La bonté du SEIGNEUR n’est pas épuisée, il n’a pas fini de montrer son amour.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "32003023",
+    "b": 32,
+    "c": 3,
+    "v": 23,
+    "t": "Chaque matin, sa bonté et son amour sont tout neufs. Oui, ta fidélité est immense !",
+    "h": "",
+    "o": 23,
+    "l": "23"
+  },
+  {
+    "id": "32003024",
+    "b": 32,
+    "c": 3,
+    "v": 24,
+    "t": "Je me dis : « Le SEIGNEUR est mon trésor. » C’est pourquoi je compte sur lui.",
+    "h": "",
+    "o": 24,
+    "l": "24"
+  },
+  {
+    "id": "32003025",
+    "b": 32,
+    "c": 3,
+    "v": 25,
+    "t": "Le SEIGNEUR est bon pour celui qui met sa confiance en lui, pour celui qui le cherche.",
+    "h": "",
+    "o": 25,
+    "l": "25"
+  },
+  {
+    "id": "32003026",
+    "b": 32,
+    "c": 3,
+    "v": 26,
+    "t": "C’est une bonne chose d’attendre en silence le secours du SEIGNEUR.",
+    "h": "",
+    "o": 26,
+    "l": "26"
+  },
+  {
+    "id": "32003027",
+    "b": 32,
+    "c": 3,
+    "v": 27,
+    "t": "C’est une bonne chose pour l’être humain de se soumettre à des règles dès sa jeunesse.",
+    "h": "",
+    "o": 27,
+    "l": "27"
+  },
+  {
+    "id": "32003028",
+    "b": 32,
+    "c": 3,
+    "v": 28,
+    "t": "Quand le SEIGNEUR le fait souffrir, il doit s’asseoir à l’écart et se taire.",
+    "h": "",
+    "o": 28,
+    "l": "28"
+  },
+  {
+    "id": "32003029",
+    "b": 32,
+    "c": 3,
+    "v": 29,
+    "t": "Qu’il s’abaisse, le visage dans la poussière ! Il y a peut-être de l’espoir !",
+    "h": "",
+    "o": 29,
+    "l": "29"
+  },
+  {
+    "id": "32003030",
+    "b": 32,
+    "c": 3,
+    "v": 30,
+    "t": "Qu’il tende la joue à celui qui le frappe, qu’il se laisse couvrir d’insultes !",
+    "h": "",
+    "o": 30,
+    "l": "30"
+  },
+  {
+    "id": "32003031",
+    "b": 32,
+    "c": 3,
+    "v": 31,
+    "t": "En effet, le Seigneur ne rejette pas les humains pour toujours.",
+    "h": "",
+    "o": 31,
+    "l": "31"
+  },
+  {
+    "id": "32003032",
+    "b": 32,
+    "c": 3,
+    "v": 32,
+    "t": "Même s’il fait souffrir, il est plein d’amour, car sa bonté est immense.",
+    "h": "",
+    "o": 32,
+    "l": "32"
+  },
+  {
+    "id": "32003033",
+    "b": 32,
+    "c": 3,
+    "v": 33,
+    "t": "Non, ce n’est pas de bon cœur que le Seigneur abaisse les humains et les fait souffrir. *",
+    "h": "",
+    "o": 33,
+    "l": "33"
+  },
+  {
+    "id": "32003034",
+    "b": 32,
+    "c": 3,
+    "v": 34,
+    "t": "Quand on écrase tous les prisonniers d’un pays,",
+    "h": "",
+    "o": 34,
+    "l": "34"
+  },
+  {
+    "id": "32003035",
+    "b": 32,
+    "c": 3,
+    "v": 35,
+    "t": "quand on méprise les droits d’un être humain sous les yeux du Dieu très-haut,",
+    "h": "",
+    "o": 35,
+    "l": "35"
+  },
+  {
+    "id": "32003036",
+    "b": 32,
+    "c": 3,
+    "v": 36,
+    "t": "quand on fausse la justice dans un procès, est-ce que le Seigneur ne le voit pas ?",
+    "h": "",
+    "o": 36,
+    "l": "36"
+  },
+  {
+    "id": "32003037",
+    "b": 32,
+    "c": 3,
+    "v": 37,
+    "t": "Qui peut faire exister les choses par sa seule parole ? Est-ce que ce n’est pas le Seigneur qui décide ?",
+    "h": "",
+    "o": 37,
+    "l": "37"
+  },
+  {
+    "id": "32003038",
+    "b": 32,
+    "c": 3,
+    "v": 38,
+    "t": "C’est bien par la parole du Dieu très-haut que tout arrive, le malheur et le bonheur.",
+    "h": "",
+    "o": 38,
+    "l": "38"
+  },
+  {
+    "id": "32003039",
+    "b": 32,
+    "c": 3,
+    "v": 39,
+    "t": "Alors celui qui reste en vie malgré ses fautes, pourquoi est-ce qu’il se plaint ?",
+    "h": "",
+    "o": 39,
+    "l": "39"
+  },
+  {
+    "id": "32003040",
+    "b": 32,
+    "c": 3,
+    "v": 40,
+    "t": "Examinons à fond notre conduite et revenons au SEIGNEUR.",
+    "h": "",
+    "o": 40,
+    "l": "40"
+  },
+  {
+    "id": "32003041",
+    "b": 32,
+    "c": 3,
+    "v": 41,
+    "t": "Prions de tout notre cœur en élevant les mains vers le Dieu qui est au ciel.",
+    "h": "",
+    "o": 41,
+    "l": "41"
+  },
+  {
+    "id": "32003042",
+    "b": 32,
+    "c": 3,
+    "v": 42,
+    "t": "Nous avons commis des fautes, nous nous sommes révoltés, et toi, tu n’as pas pardonné !",
+    "h": "",
+    "o": 42,
+    "l": "42"
+  },
+  {
+    "id": "32003043",
+    "b": 32,
+    "c": 3,
+    "v": 43,
+    "t": "Tu t’es enveloppé de colère, tu nous as poursuivis et tu nous as tués sans pitié.",
+    "h": "",
+    "o": 43,
+    "l": "43"
+  },
+  {
+    "id": "32003044",
+    "b": 32,
+    "c": 3,
+    "v": 44,
+    "t": "Tu t’es caché dans un nuage pour empêcher nos prières de parvenir jusqu’à toi.",
+    "h": "",
+    "o": 44,
+    "l": "44"
+  },
+  {
+    "id": "32003045",
+    "b": 32,
+    "c": 3,
+    "v": 45,
+    "t": "Tu as fait de nous des ordures, des objets dégoûtants parmi les autres peuples.",
+    "h": "",
+    "o": 45,
+    "l": "45"
+  },
+  {
+    "id": "32003046",
+    "b": 32,
+    "c": 3,
+    "v": 46,
+    "t": "Tous nos ennemis parlent contre nous.",
+    "h": "",
+    "o": 46,
+    "l": "46"
+  },
+  {
+    "id": "32003047",
+    "b": 32,
+    "c": 3,
+    "v": 47,
+    "t": "Ce qui tombe sur nous, c’est la peur et l’horreur, la destruction et la catastrophe.",
+    "h": "",
+    "o": 47,
+    "l": "47"
+  },
+  {
+    "id": "32003048",
+    "b": 32,
+    "c": 3,
+    "v": 48,
+    "t": "Mes yeux sont inondés de larmes à cause de la catastrophe qui frappe mon peuple.",
+    "h": "",
+    "o": 48,
+    "l": "48"
+  },
+  {
+    "id": "32003049",
+    "b": 32,
+    "c": 3,
+    "v": 49,
+    "t": "Mes yeux pleurent sans arrêt. Il n’y a pas de repos,",
+    "h": "",
+    "o": 49,
+    "l": "49"
+  },
+  {
+    "id": "32003050",
+    "b": 32,
+    "c": 3,
+    "v": 50,
+    "t": "jusqu’à ce que le SEIGNEUR se penche du haut du ciel et regarde.",
+    "h": "",
+    "o": 50,
+    "l": "50"
+  },
+  {
+    "id": "32003051",
+    "b": 32,
+    "c": 3,
+    "v": 51,
+    "t": "Mes yeux me font mal quand je vois ce qui arrive aux villages voisins. *",
+    "h": "",
+    "o": 51,
+    "l": "51"
+  },
+  {
+    "id": "32003052",
+    "b": 32,
+    "c": 3,
+    "v": 52,
+    "t": "Ceux qui m’en veulent sans raison m’ont poursuivi comme s’ils chassaient un oiseau.",
+    "h": "",
+    "o": 52,
+    "l": "52"
+  },
+  {
+    "id": "32003053",
+    "b": 32,
+    "c": 3,
+    "v": 53,
+    "t": "Ils m’ont enfermé tout vivant dans une citerne, et ils ont bouché l’ouverture avec une pierre.",
+    "h": "",
+    "o": 53,
+    "l": "53"
+  },
+  {
+    "id": "32003054",
+    "b": 32,
+    "c": 3,
+    "v": 54,
+    "t": "L’eau montait plus haut que ma tête, et j’ai dit : « Je suis perdu. »",
+    "h": "",
+    "o": 54,
+    "l": "54"
+  },
+  {
+    "id": "32003055",
+    "b": 32,
+    "c": 3,
+    "v": 55,
+    "t": "Au fond du trou, j’ai fait appel à toi, SEIGNEUR.",
+    "h": "",
+    "o": 55,
+    "l": "55"
+  },
+  {
+    "id": "32003056",
+    "b": 32,
+    "c": 3,
+    "v": 56,
+    "t": "Tu m’as entendu dire : « Ne ferme pas tes oreilles à mes soupirs et à mes cris. »",
+    "h": "",
+    "o": 56,
+    "l": "56"
+  },
+  {
+    "id": "32003057",
+    "b": 32,
+    "c": 3,
+    "v": 57,
+    "t": "Quand je t’ai appelé, tu t’es approché et tu m’as dit : « N’aie pas peur ! »",
+    "h": "",
+    "o": 57,
+    "l": "57"
+  },
+  {
+    "id": "32003058",
+    "b": 32,
+    "c": 3,
+    "v": 58,
+    "t": "Seigneur, tu as pris ma défense, tu m’as sauvé la vie.",
+    "h": "",
+    "o": 58,
+    "l": "58"
+  },
+  {
+    "id": "32003059",
+    "b": 32,
+    "c": 3,
+    "v": 59,
+    "t": "Tu as vu, SEIGNEUR, le tort que les gens m’ont fait. Rends-moi justice.",
+    "h": "",
+    "o": 59,
+    "l": "59"
+  },
+  {
+    "id": "32003060",
+    "b": 32,
+    "c": 3,
+    "v": 60,
+    "t": "Tu as vu comment ils se sont vengés de moi, tout ce qu’ils ont préparé contre moi.",
+    "h": "",
+    "o": 60,
+    "l": "60"
+  },
+  {
+    "id": "32003061",
+    "b": 32,
+    "c": 3,
+    "v": 61,
+    "t": "Tu as entendu leurs insultes, SEIGNEUR, tout ce qu’ils ont préparé contre moi.",
+    "h": "",
+    "o": 61,
+    "l": "61"
+  },
+  {
+    "id": "32003062",
+    "b": 32,
+    "c": 3,
+    "v": 62,
+    "t": "Mes ennemis ont de mauvaises intentions et ils parlent contre moi tous les jours.",
+    "h": "",
+    "o": 62,
+    "l": "62"
+  },
+  {
+    "id": "32003063",
+    "b": 32,
+    "c": 3,
+    "v": 63,
+    "t": "Qu’ils soient assis ou debout, regarde-les : ils font des chansons sur moi.",
+    "h": "",
+    "o": 63,
+    "l": "63"
+  },
+  {
+    "id": "32003064",
+    "b": 32,
+    "c": 3,
+    "v": 64,
+    "t": "Rends-leur ce qu’ils m’ont fait, SEIGNEUR.",
+    "h": "",
+    "o": 64,
+    "l": "64"
+  },
+  {
+    "id": "32003065",
+    "b": 32,
+    "c": 3,
+    "v": 65,
+    "t": "Ferme leur cœur. Ce sera ta malédiction sur eux !",
+    "h": "",
+    "o": 65,
+    "l": "65"
+  },
+  {
+    "id": "32003066",
+    "b": 32,
+    "c": 3,
+    "v": 66,
+    "t": "Poursuis-les avec colère et chasse-les de la terre !",
+    "h": "",
+    "o": 66,
+    "l": "66"
+  },
+  {
+    "id": "32004001",
+    "b": 32,
+    "c": 4,
+    "v": 1,
+    "t": "Hélas ! L’or ne brille plus, ce métal précieux a perdu son éclat. Les pierres consacrées se retrouvent n’importe où.",
+    "h": "Jérusalem est détruite !",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "32004002",
+    "b": 32,
+    "c": 4,
+    "v": 2,
+    "t": "Les habitants de Sion, aussi précieux que l’or pur, sont considérés comme de simples plats en terre, fabriqués par un potier. Hélas !",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "32004003",
+    "b": 32,
+    "c": 4,
+    "v": 3,
+    "t": "Même chez les chacals les mères présentent leurs mamelles et allaitent leurs petits. Mais mon peuple est comme une mère cruelle, comme l’autruche dans le désert.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "32004004",
+    "b": 32,
+    "c": 4,
+    "v": 4,
+    "t": "La langue du bébé colle à son palais, à cause de la soif. Les jeunes enfants demandent de la nourriture, mais personne ne leur en donne.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "32004005",
+    "b": 32,
+    "c": 4,
+    "v": 5,
+    "t": "Ceux qui mangeaient des plats délicieux meurent dans les rues. Ceux qui ont été élevés dans la richesse fouillent de leurs mains les tas d’ordures.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "32004006",
+    "b": 32,
+    "c": 4,
+    "v": 6,
+    "t": "Les fautes de mon peuple sont plus graves que les péchés de Sodome. Cette ville a été détruite en un instant, et personne n’a eu le temps de faire quelque chose.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "32004007",
+    "b": 32,
+    "c": 4,
+    "v": 7,
+    "t": "Nos princes étaient plus purs que la neige, leur peau était plus blanche que le lait. Leur corps était plus éclatant que le corail, leurs veines ressemblaient au saphir.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "32004008",
+    "b": 32,
+    "c": 4,
+    "v": 8,
+    "t": "Mais maintenant, leur visage est plus noir que le charbon, dans les rues on ne les reconnaît plus. Ils n’ont plus que la peau sur les os, une peau sèche comme du bois.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "32004009",
+    "b": 32,
+    "c": 4,
+    "v": 9,
+    "t": "Il vaut mieux mourir à la guerre que mourir de faim, épuisé par manque de nourriture.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "32004010",
+    "b": 32,
+    "c": 4,
+    "v": 10,
+    "t": "Au moment où la catastrophe a frappé mon peuple, des mères pourtant pleines de tendresse ont elles-mêmes fait cuire leurs enfants pour les manger. *",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "32004011",
+    "b": 32,
+    "c": 4,
+    "v": 11,
+    "t": "Le SEIGNEUR est allé jusqu’au bout de sa colère. Il a répandu sa violente colère, à Sion, il a allumé un incendie qui a brûlé la ville jusqu’aux fondations.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "32004012",
+    "b": 32,
+    "c": 4,
+    "v": 12,
+    "t": "Aucun roi de la terre ni personne d’autre au monde ne croyait que l’ennemi victorieux allait entrer par les portes de Jérusalem.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "32004013",
+    "b": 32,
+    "c": 4,
+    "v": 13,
+    "t": "Cela est arrivé à cause des péchés des prophètes et des fautes des prêtres. En effet, ils ont tué en pleine ville ceux qui obéissaient à Dieu.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "32004014",
+    "b": 32,
+    "c": 4,
+    "v": 14,
+    "t": "Et maintenant, les prophètes et les prêtres vont en tous sens dans les rues, comme des aveugles. Leurs vêtements sont tachés de sang, et personne ne doit les toucher.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "32004015",
+    "b": 32,
+    "c": 4,
+    "v": 15,
+    "t": "Quand ils arrivent, on crie : « Éloignez-vous, ils sont impurs ! Éloignez-vous ! Éloignez-vous ! Ne les touchez pas ! » Ils fuient et ne savent pas où aller. Mais les autres peuples disent : « Ils ne peuvent pas rester chez nous. »",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "32004016",
+    "b": 32,
+    "c": 4,
+    "v": 16,
+    "t": "Le SEIGNEUR ne voulait plus les voir. Il les a lui-même chassés de tous côtés. Alors, plus personne n’a respecté les prêtres, personne n’a eu pitié des vieillards. *",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "32004017",
+    "b": 32,
+    "c": 4,
+    "v": 17,
+    "t": "Sans cesse, nos yeux se fatiguent à attendre un secours qui ne vient pas. De nos postes de garde, nous attendons l’arrivée d’un peuple qui ne vient pas nous sauver.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "32004018",
+    "b": 32,
+    "c": 4,
+    "v": 18,
+    "t": "On surveille nos pas, nous ne pouvons donc pas aller sur nos places. Notre fin est proche, notre vie est terminée, c’est la fin.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "32004019",
+    "b": 32,
+    "c": 4,
+    "v": 19,
+    "t": "Ceux qui nous poursuivent sont plus rapides que les aigles du ciel. Ils nous rattrapent dans les montagnes, ils nous tendent des pièges dans le désert.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "32004020",
+    "b": 32,
+    "c": 4,
+    "v": 20,
+    "t": "Celui qui nous faisait vivre est maintenant pris dans leurs pièges. C’était le roi consacré par le SEIGNEUR, et nous disions de lui : « Sous sa protection, nous vivrons au milieu des autres peuples. » *",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "32004021",
+    "b": 32,
+    "c": 4,
+    "v": 21,
+    "t": "Tu peux bien te réjouir et danser de joie, peuple d’Édom, toi qui habites le pays d’Ous ! Pourtant, toi aussi, tu boiras la coupe de la colère de Dieu. Tu deviendras ivre et tu te montreras tout nu.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "32004022",
+    "b": 32,
+    "c": 4,
+    "v": 22,
+    "t": "Ville de Sion, tu as été assez punie. On ne t’emmènera plus en déportation. Mais toi, Édom, le Seigneur punira ta faute, il fera apparaître clairement tes péchés.",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  },
+  {
+    "id": "32005001",
+    "b": 32,
+    "c": 5,
+    "v": 1,
+    "t": "SEIGNEUR, n’oublie pas ce qui nous est arrivé. Regarde et vois comme on nous insulte.",
+    "h": "Les Israélites exilés prient le Seigneur",
+    "o": 1,
+    "l": "1"
+  },
+  {
+    "id": "32005002",
+    "b": 32,
+    "c": 5,
+    "v": 2,
+    "t": "Le pays que tu nous as donné est passé à des étrangers, nos maisons sont entre les mains d’inconnus.",
+    "h": "",
+    "o": 2,
+    "l": "2"
+  },
+  {
+    "id": "32005003",
+    "b": 32,
+    "c": 5,
+    "v": 3,
+    "t": "Nos pères ne sont plus là, nous voilà orphelins. Nos mères sont comme des veuves.",
+    "h": "",
+    "o": 3,
+    "l": "3"
+  },
+  {
+    "id": "32005004",
+    "b": 32,
+    "c": 5,
+    "v": 4,
+    "t": "Notre eau, nous ne pouvons la boire qu’en l’achetant, notre bois, nous ne pouvons l’avoir qu’en le payant.",
+    "h": "",
+    "o": 4,
+    "l": "4"
+  },
+  {
+    "id": "32005005",
+    "b": 32,
+    "c": 5,
+    "v": 5,
+    "t": "Ceux qui nous font souffrir ne nous lâchent pas. Nous sommes épuisés, il n’y a pas de repos pour nous.",
+    "h": "",
+    "o": 5,
+    "l": "5"
+  },
+  {
+    "id": "32005006",
+    "b": 32,
+    "c": 5,
+    "v": 6,
+    "t": "Nous tendons la main vers l’Égypte et l’Assyrie pour avoir assez à manger.",
+    "h": "",
+    "o": 6,
+    "l": "6"
+  },
+  {
+    "id": "32005007",
+    "b": 32,
+    "c": 5,
+    "v": 7,
+    "t": "Nos parents ont péché. Ils ne sont plus là, et c’est nous qui portons le poids de leurs fautes.",
+    "h": "",
+    "o": 7,
+    "l": "7"
+  },
+  {
+    "id": "32005008",
+    "b": 32,
+    "c": 5,
+    "v": 8,
+    "t": "Des esclaves sont nos maîtres, et il n’y a personne pour nous arracher à leur pouvoir.",
+    "h": "",
+    "o": 8,
+    "l": "8"
+  },
+  {
+    "id": "32005009",
+    "b": 32,
+    "c": 5,
+    "v": 9,
+    "t": "À cause des bandits du désert nous risquons notre vie pour avoir de la nourriture.",
+    "h": "",
+    "o": 9,
+    "l": "9"
+  },
+  {
+    "id": "32005010",
+    "b": 32,
+    "c": 5,
+    "v": 10,
+    "t": "À cause de la faim, notre peau est brûlante de fièvre, comme si nous étions dans un four.",
+    "h": "",
+    "o": 10,
+    "l": "10"
+  },
+  {
+    "id": "32005011",
+    "b": 32,
+    "c": 5,
+    "v": 11,
+    "t": "Nos ennemis ont fait violence aux femmes dans Sion, et aux jeunes filles dans les villes de Juda.",
+    "h": "",
+    "o": 11,
+    "l": "11"
+  },
+  {
+    "id": "32005012",
+    "b": 32,
+    "c": 5,
+    "v": 12,
+    "t": "Ils ont eux-mêmes pendu des ministres, ils n’ont montré aucun respect pour les anciens.",
+    "h": "",
+    "o": 12,
+    "l": "12"
+  },
+  {
+    "id": "32005013",
+    "b": 32,
+    "c": 5,
+    "v": 13,
+    "t": "Des jeunes gens portent la pierre qui sert à écraser le grain, des garçons perdent l’équilibre en transportant du bois.",
+    "h": "",
+    "o": 13,
+    "l": "13"
+  },
+  {
+    "id": "32005014",
+    "b": 32,
+    "c": 5,
+    "v": 14,
+    "t": "Les vieillards ne vont plus à la porte de la ville, et les jeunes gens ont cessé de chanter.",
+    "h": "",
+    "o": 14,
+    "l": "14"
+  },
+  {
+    "id": "32005015",
+    "b": 32,
+    "c": 5,
+    "v": 15,
+    "t": "La joie a disparu de notre cœur, nos danses joyeuses se sont changées en deuil.",
+    "h": "",
+    "o": 15,
+    "l": "15"
+  },
+  {
+    "id": "32005016",
+    "b": 32,
+    "c": 5,
+    "v": 16,
+    "t": "Nous avons perdu notre honneur. Nous avons péché, quel malheur pour nous !",
+    "h": "",
+    "o": 16,
+    "l": "16"
+  },
+  {
+    "id": "32005017",
+    "b": 32,
+    "c": 5,
+    "v": 17,
+    "t": "Notre cœur est malade, et nous ne voyons plus clair.",
+    "h": "",
+    "o": 17,
+    "l": "17"
+  },
+  {
+    "id": "32005018",
+    "b": 32,
+    "c": 5,
+    "v": 18,
+    "t": "En effet, la montagne de Sion est devenue un désert où les renards se promènent.",
+    "h": "",
+    "o": 18,
+    "l": "18"
+  },
+  {
+    "id": "32005019",
+    "b": 32,
+    "c": 5,
+    "v": 19,
+    "t": "Mais toi, SEIGNEUR, tu es roi pour toujours, ton pouvoir royal dure de génération en génération.",
+    "h": "",
+    "o": 19,
+    "l": "19"
+  },
+  {
+    "id": "32005020",
+    "b": 32,
+    "c": 5,
+    "v": 20,
+    "t": "Est-ce possible que tu nous oublies pour toujours, que tu nous abandonnes pour toute la vie ?",
+    "h": "",
+    "o": 20,
+    "l": "20"
+  },
+  {
+    "id": "32005021",
+    "b": 32,
+    "c": 5,
+    "v": 21,
+    "t": "Fais-nous revenir vers toi, SEIGNEUR, et nous reviendrons vraiment. Renouvelle notre vie, rends-la semblable à celle d’autrefois.",
+    "h": "",
+    "o": 21,
+    "l": "21"
+  },
+  {
+    "id": "32005022",
+    "b": 32,
+    "c": 5,
+    "v": 22,
+    "t": "Est-ce que tu nous as vraiment rejetés pour toujours ? Est-ce que ta colère dépasse tout ?",
+    "h": "",
+    "o": 22,
+    "l": "22"
+  }
+]
