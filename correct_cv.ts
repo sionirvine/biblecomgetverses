@@ -39,7 +39,7 @@ import { mkdir } from "node:fs/promises";
     HTB: 75, // Het Boek ✔️
   };
 
-  const VERSION_TO_GET: string = "聖書新共同訳";
+  const VERSION_TO_GET: string = "TB";
   const INPUT_FILE_DETAIL = `output/${VERSION_TO_GET}_detail.json`;
   const INPUT_FILE_VERSES = `output/${VERSION_TO_GET}_verses.json`;
   const OUTPUT_FILE_DETAIL = `output_fix/${VERSION_TO_GET}_detail.json`;

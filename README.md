@@ -180,3 +180,8 @@ notes:
 error:
 
 - GEN.14.HFA -> MISSING PAGE, but GEN.14 is available
+
+wtf's, page error:
+
+- GEN.14.HFA -> MISSING PAGE, but "GEN.14" (without HFA) is available
+- PSA.22.RCUV -> the NEXT CHAPTER button, when clicked, points to GEN.1.RCUV. causing parser to goes on an infinite loop. (this is currently fixed now)

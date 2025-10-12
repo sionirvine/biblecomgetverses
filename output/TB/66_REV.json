@@ -1,4052 +1,495 @@
-[
-  {
-    "id": "66001001",
-    "b": 66,
-    "c": 1,
-    "v": 1,
-    "t": "Inilah wahyu Yesus Kristus, yang dikaruniakan Allah kepada-Nya, supaya ditunjukkan-Nya kepada hamba-hamba-Nya apa yang harus segera terjadi. Dan oleh malaikat-Nya yang diutus-Nya, Ia telah menyatakannya kepada hamba-Nya Yohanes.",
-    "h": "Judul\n1:1-3",
-    "o": 1,
-    "l": "1"
-  },
-  {
-    "id": "66001002",
-    "b": 66,
-    "c": 1,
-    "v": 2,
-    "t": "Yohanes telah bersaksi tentang firman Allah dan tentang kesaksian yang diberikan oleh Yesus Kristus, yaitu segala sesuatu yang telah dilihatnya.",
-    "h": "",
-    "o": 2,
-    "l": "2"
-  },
-  {
-    "id": "66001003",
-    "b": 66,
-    "c": 1,
-    "v": 3,
-    "t": "Berbahagialah ia yang membacakan dan mereka yang mendengarkan kata-kata nubuat ini, dan yang menuruti apa yang ada tertulis di dalamnya, sebab waktunya sudah dekat.",
-    "h": "",
-    "o": 3,
-    "l": "3"
-  },
-  {
-    "id": "66001004",
-    "b": 66,
-    "c": 1,
-    "v": 4,
-    "t": "Dari Yohanes kepada ketujuh jemaat yang di Asia Kecil: Kasih karunia dan damai sejahtera menyertai kamu, dari Dia, yang ada dan yang sudah ada dan yang akan datang, dan dari ketujuh roh yang ada di hadapan takhta-Nya,",
-    "h": "Salam kepada ketujuh jemaat\n1:4-8",
-    "o": 4,
-    "l": "4"
-  },
-  {
-    "id": "66001005",
-    "b": 66,
-    "c": 1,
-    "v": 5,
-    "t": "dan dari Yesus Kristus, Saksi yang setia, yang pertama bangkit dari antara orang mati dan yang berkuasa atas raja-raja bumi ini. Bagi Dia, yang mengasihi kita dan yang telah melepaskan kita dari dosa kita oleh darah-Nya –",
-    "h": "",
-    "o": 5,
-    "l": "5"
-  },
-  {
-    "id": "66001006",
-    "b": 66,
-    "c": 1,
-    "v": 6,
-    "t": "dan yang telah membuat kita menjadi suatu kerajaan, menjadi imam-imam bagi Allah, Bapa-Nya, – bagi Dialah kemuliaan dan kuasa sampai selama-lamanya. Amin.",
-    "h": "",
-    "o": 6,
-    "l": "6"
-  },
-  {
-    "id": "66001007",
-    "b": 66,
-    "c": 1,
-    "v": 7,
-    "t": "Lihatlah, Ia datang dengan awan-awan dan setiap mata akan melihat Dia, juga mereka yang telah menikam Dia. Dan semua bangsa di bumi akan meratapi Dia. Ya, amin.",
-    "h": "",
-    "o": 7,
-    "l": "7"
-  },
-  {
-    "id": "66001008",
-    "b": 66,
-    "c": 1,
-    "v": 8,
-    "t": "”Aku adalah Alfa dan Omega, firman Tuhan Allah, yang ada dan yang sudah ada dan yang akan datang, Yang Mahakuasa.”",
-    "h": "",
-    "o": 8,
-    "l": "8"
-  },
-  {
-    "id": "66001009",
-    "b": 66,
-    "c": 1,
-    "v": 9,
-    "t": "Aku, Yohanes, saudara dan sekutumu dalam kesusahan, dalam Kerajaan dan dalam ketekunan menantikan Yesus, berada di pulau yang bernama Patmos oleh karena firman Allah dan kesaksian yang diberikan oleh Yesus.",
-    "h": "Penglihatan Yohanes di Patmos\n1:9-20",
-    "o": 9,
-    "l": "9"
-  },
-  {
-    "id": "66001010",
-    "b": 66,
-    "c": 1,
-    "v": 10,
-    "t": "Pada hari Tuhan aku dikuasai oleh Roh dan aku mendengar dari belakangku suatu suara yang nyaring, seperti bunyi sangkakala,",
-    "h": "",
-    "o": 10,
-    "l": "10"
-  },
-  {
-    "id": "66001011",
-    "b": 66,
-    "c": 1,
-    "v": 11,
-    "t": "katanya: ”Apa yang engkau lihat, tuliskanlah di dalam sebuah kitab dan kirimkanlah kepada ketujuh jemaat ini: ke Efesus, ke Smirna, ke Pergamus, ke Tiatira, ke Sardis, ke Filadelfia dan ke Laodikia.”",
-    "h": "",
-    "o": 11,
-    "l": "11"
-  },
-  {
-    "id": "66001012",
-    "b": 66,
-    "c": 1,
-    "v": 12,
-    "t": "Lalu aku berpaling untuk melihat suara yang berbicara kepadaku. Dan setelah aku berpaling, tampaklah kepadaku tujuh kaki dian dari emas.",
-    "h": "",
-    "o": 12,
-    "l": "12"
-  },
-  {
-    "id": "66001013",
-    "b": 66,
-    "c": 1,
-    "v": 13,
-    "t": "Dan di tengah-tengah kaki dian itu ada seorang serupa Anak Manusia, berpakaian jubah yang panjangnya sampai di kaki, dan dadanya berlilitkan ikat pinggang dari emas.",
-    "h": "",
-    "o": 13,
-    "l": "13"
-  },
-  {
-    "id": "66001014",
-    "b": 66,
-    "c": 1,
-    "v": 14,
-    "t": "Kepala dan rambut-Nya putih bagaikan bulu yang putih metah, dan mata-Nya bagaikan nyala api.",
-    "h": "",
-    "o": 14,
-    "l": "14"
-  },
-  {
-    "id": "66001015",
-    "b": 66,
-    "c": 1,
-    "v": 15,
-    "t": "Dan kaki-Nya mengkilap bagaikan tembaga membara di dalam perapian; suara-Nya bagaikan desau air bah.",
-    "h": "",
-    "o": 15,
-    "l": "15"
-  },
-  {
-    "id": "66001016",
-    "b": 66,
-    "c": 1,
-    "v": 16,
-    "t": "Dan di tangan kanan-Nya Ia memegang tujuh bintang dan dari mulut-Nya keluar sebilah pedang tajam bermata dua, dan wajah-Nya bersinar-sinar bagaikan matahari yang terik.",
-    "h": "",
-    "o": 16,
-    "l": "16"
-  },
-  {
-    "id": "66001017",
-    "b": 66,
-    "c": 1,
-    "v": 17,
-    "t": "Ketika aku melihat Dia, tersungkurlah aku di depan kaki-Nya sama seperti orang yang mati; tetapi Ia meletakkan tangan kanan-Nya di atasku, lalu berkata: ”Jangan takut! Aku adalah Yang Awal dan Yang Akhir,",
-    "h": "",
-    "o": 17,
-    "l": "17"
-  },
-  {
-    "id": "66001018",
-    "b": 66,
-    "c": 1,
-    "v": 18,
-    "t": "dan Yang Hidup. Aku telah mati, namun lihatlah, Aku hidup, sampai selama-lamanya dan Aku memegang segala kunci maut dan kerajaan maut.",
-    "h": "",
-    "o": 18,
-    "l": "18"
-  },
-  {
-    "id": "66001019",
-    "b": 66,
-    "c": 1,
-    "v": 19,
-    "t": "Karena itu tuliskanlah apa yang telah kaulihat, baik yang terjadi sekarang maupun yang akan terjadi sesudah ini.",
-    "h": "",
-    "o": 19,
-    "l": "19"
-  },
-  {
-    "id": "66001020",
-    "b": 66,
-    "c": 1,
-    "v": 20,
-    "t": "Dan rahasia ketujuh bintang yang telah kaulihat pada tangan kanan-Ku dan ketujuh kaki dian emas itu: ketujuh bintang itu ialah malaikat ketujuh jemaat dan ketujuh kaki dian itu ialah ketujuh jemaat.”",
-    "h": "",
-    "o": 20,
-    "l": "20"
-  },
-  {
-    "id": "66002001",
-    "b": 66,
-    "c": 2,
-    "v": 1,
-    "t": "”Tuliskanlah kepada malaikat jemaat di Efesus: Inilah firman dari Dia, yang memegang ketujuh bintang itu di tangan kanan-Nya dan berjalan di antara ketujuh kaki dian emas itu.",
-    "h": "Kepada jemaat di Efesus\n2:1-7",
-    "o": 1,
-    "l": "1"
-  },
-  {
-    "id": "66002002",
-    "b": 66,
-    "c": 2,
-    "v": 2,
-    "t": "Aku tahu segala pekerjaanmu: baik jerih payahmu maupun ketekunanmu. Aku tahu, bahwa engkau tidak dapat sabar terhadap orang-orang jahat, bahwa engkau telah mencobai mereka yang menyebut dirinya rasul, tetapi yang sebenarnya tidak demikian, bahwa engkau telah mendapati mereka pendusta.",
-    "h": "",
-    "o": 2,
-    "l": "2"
-  },
-  {
-    "id": "66002003",
-    "b": 66,
-    "c": 2,
-    "v": 3,
-    "t": "Dan engkau tetap sabar dan menderita oleh karena nama-Ku; dan engkau tidak mengenal lelah.",
-    "h": "",
-    "o": 3,
-    "l": "3"
-  },
-  {
-    "id": "66002004",
-    "b": 66,
-    "c": 2,
-    "v": 4,
-    "t": "Namun demikian Aku mencela engkau, karena engkau telah meninggalkan kasihmu yang semula.",
-    "h": "",
-    "o": 4,
-    "l": "4"
-  },
-  {
-    "id": "66002005",
-    "b": 66,
-    "c": 2,
-    "v": 5,
-    "t": "Sebab itu ingatlah betapa dalamnya engkau telah jatuh! Bertobatlah dan lakukanlah lagi apa yang semula engkau lakukan. Jika tidak demikian, Aku akan datang kepadamu dan Aku akan mengambil kaki dianmu dari tempatnya, jikalau engkau tidak bertobat.",
-    "h": "",
-    "o": 5,
-    "l": "5"
-  },
-  {
-    "id": "66002006",
-    "b": 66,
-    "c": 2,
-    "v": 6,
-    "t": "Tetapi ini yang ada padamu, yaitu engkau membenci segala perbuatan pengikut-pengikut Nikolaus, yang juga Kubenci.",
-    "h": "",
-    "o": 6,
-    "l": "6"
-  },
-  {
-    "id": "66002007",
-    "b": 66,
-    "c": 2,
-    "v": 7,
-    "t": "Siapa bertelinga, hendaklah ia mendengarkan apa yang dikatakan Roh kepada jemaat-jemaat: Barangsiapa menang, dia akan Kuberi makan dari pohon kehidupan yang ada di Taman Firdaus Allah.”",
-    "h": "",
-    "o": 7,
-    "l": "7"
-  },
-  {
-    "id": "66002008",
-    "b": 66,
-    "c": 2,
-    "v": 8,
-    "t": "”Dan tuliskanlah kepada malaikat jemaat di Smirna: Inilah firman dari Yang Awal dan Yang Akhir, yang telah mati dan hidup kembali:",
-    "h": "Kepada jemaat di Smirna\n2:8-11",
-    "o": 8,
-    "l": "8"
-  },
-  {
-    "id": "66002009",
-    "b": 66,
-    "c": 2,
-    "v": 9,
-    "t": "Aku tahu kesusahanmu dan kemiskinanmu – namun engkau kaya – dan fitnah mereka, yang menyebut dirinya orang Yahudi, tetapi yang sebenarnya tidak demikian: sebaliknya mereka adalah jemaah Iblis.",
-    "h": "",
-    "o": 9,
-    "l": "9"
-  },
-  {
-    "id": "66002010",
-    "b": 66,
-    "c": 2,
-    "v": 10,
-    "t": "Jangan takut terhadap apa yang harus engkau derita! Sesungguhnya Iblis akan melemparkan beberapa orang dari antaramu ke dalam penjara supaya kamu dicobai dan kamu akan beroleh kesusahan selama sepuluh hari. Hendaklah engkau setia sampai mati, dan Aku akan mengaruniakan kepadamu mahkota kehidupan.",
-    "h": "",
-    "o": 10,
-    "l": "10"
-  },
-  {
-    "id": "66002011",
-    "b": 66,
-    "c": 2,
-    "v": 11,
-    "t": "Siapa bertelinga, hendaklah ia mendengarkan apa yang dikatakan Roh kepada jemaat-jemaat: Barangsiapa menang, ia tidak akan menderita apa-apa oleh kematian yang kedua.”",
-    "h": "",
-    "o": 11,
-    "l": "11"
-  },
-  {
-    "id": "66002012",
-    "b": 66,
-    "c": 2,
-    "v": 12,
-    "t": "”Dan tuliskanlah kepada malaikat jemaat di Pergamus: Inilah firman Dia, yang memakai pedang yang tajam dan bermata dua:",
-    "h": "Kepada jemaat di Pergamus\n2:12-17",
-    "o": 12,
-    "l": "12"
-  },
-  {
-    "id": "66002013",
-    "b": 66,
-    "c": 2,
-    "v": 13,
-    "t": "Aku tahu di mana engkau diam, yaitu di sana, di tempat takhta Iblis; dan engkau berpegang kepada nama-Ku, dan engkau tidak menyangkal imanmu kepada-Ku, juga tidak pada zaman Antipas, saksi-Ku, yang setia kepada-Ku, yang dibunuh di hadapan kamu, di mana Iblis diam.",
-    "h": "",
-    "o": 13,
-    "l": "13"
-  },
-  {
-    "id": "66002014",
-    "b": 66,
-    "c": 2,
-    "v": 14,
-    "t": "Tetapi Aku mempunyai beberapa keberatan terhadap engkau: di antaramu ada beberapa orang yang menganut ajaran Bileam, yang memberi nasihat kepada Balak untuk menyesatkan orang Israel, supaya mereka makan persembahan berhala dan berbuat zinah.",
-    "h": "",
-    "o": 14,
-    "l": "14"
-  },
-  {
-    "id": "66002015",
-    "b": 66,
-    "c": 2,
-    "v": 15,
-    "t": "Demikian juga ada padamu orang-orang yang berpegang kepada ajaran pengikut Nikolaus.",
-    "h": "",
-    "o": 15,
-    "l": "15"
-  },
-  {
-    "id": "66002016",
-    "b": 66,
-    "c": 2,
-    "v": 16,
-    "t": "Sebab itu bertobatlah! Jika tidak demikian, Aku akan segera datang kepadamu dan Aku akan memerangi mereka dengan pedang yang di mulut-Ku ini.",
-    "h": "",
-    "o": 16,
-    "l": "16"
-  },
-  {
-    "id": "66002017",
-    "b": 66,
-    "c": 2,
-    "v": 17,
-    "t": "Siapa bertelinga, hendaklah ia mendengarkan apa yang dikatakan Roh kepada jemaat-jemaat: Barangsiapa menang, kepadanya akan Kuberikan dari manna yang tersembunyi; dan Aku akan mengaruniakan kepadanya batu putih, yang di atasnya tertulis nama baru, yang tidak diketahui oleh siapa pun, selain oleh yang menerimanya.”",
-    "h": "",
-    "o": 17,
-    "l": "17"
-  },
-  {
-    "id": "66002018",
-    "b": 66,
-    "c": 2,
-    "v": 18,
-    "t": "”Dan tuliskanlah kepada malaikat jemaat di Tiatira: Inilah firman Anak Allah, yang mata-Nya bagaikan nyala api dan kaki-Nya bagaikan tembaga:",
-    "h": "Kepada jemaat di Tiatira\n2:18-29",
-    "o": 18,
-    "l": "18"
-  },
-  {
-    "id": "66002019",
-    "b": 66,
-    "c": 2,
-    "v": 19,
-    "t": "Aku tahu segala pekerjaanmu: baik kasihmu maupun imanmu, baik pelayananmu maupun ketekunanmu. Aku tahu, bahwa pekerjaanmu yang terakhir lebih banyak dari pada yang pertama.",
-    "h": "",
-    "o": 19,
-    "l": "19"
-  },
-  {
-    "id": "66002020",
-    "b": 66,
-    "c": 2,
-    "v": 20,
-    "t": "Tetapi Aku mencela engkau, karena engkau membiarkan wanita Izebel, yang menyebut dirinya nabiah, mengajar dan menyesatkan hamba-hamba-Ku supaya berbuat zinah dan makan persembahan-persembahan berhala.",
-    "h": "",
-    "o": 20,
-    "l": "20"
-  },
-  {
-    "id": "66002021",
-    "b": 66,
-    "c": 2,
-    "v": 21,
-    "t": "Dan Aku telah memberikan dia waktu untuk bertobat, tetapi ia tidak mau bertobat dari zinahnya.",
-    "h": "",
-    "o": 21,
-    "l": "21"
-  },
-  {
-    "id": "66002022",
-    "b": 66,
-    "c": 2,
-    "v": 22,
-    "t": "Lihatlah, Aku akan melemparkan dia ke atas ranjang orang sakit dan mereka yang berbuat zinah dengan dia akan Kulemparkan ke dalam kesukaran besar, jika mereka tidak bertobat dari perbuatan-perbuatan perempuan itu.",
-    "h": "",
-    "o": 22,
-    "l": "22"
-  },
-  {
-    "id": "66002023",
-    "b": 66,
-    "c": 2,
-    "v": 23,
-    "t": "Dan anak-anaknya akan Kumatikan dan semua jemaat akan mengetahui, bahwa Akulah yang menguji batin dan hati orang, dan bahwa Aku akan membalaskan kepada kamu setiap orang menurut perbuatannya.",
-    "h": "",
-    "o": 23,
-    "l": "23"
-  },
-  {
-    "id": "66002024",
-    "b": 66,
-    "c": 2,
-    "v": 24,
-    "t": "Tetapi kepada kamu, yaitu orang-orang lain di Tiatira, yang tidak mengikuti ajaran itu dan yang tidak menyelidiki apa yang mereka sebut seluk-beluk Iblis, kepada kamu Aku berkata: Aku tidak mau menanggungkan beban lain kepadamu.",
-    "h": "",
-    "o": 24,
-    "l": "24"
-  },
-  {
-    "id": "66002025",
-    "b": 66,
-    "c": 2,
-    "v": 25,
-    "t": "Tetapi apa yang ada padamu, peganglah itu sampai Aku datang.",
-    "h": "",
-    "o": 25,
-    "l": "25"
-  },
-  {
-    "id": "66002026",
-    "b": 66,
-    "c": 2,
-    "v": 26,
-    "t": "Dan barangsiapa menang dan melakukan pekerjaan-Ku sampai kesudahannya, kepadanya akan Kukaruniakan kuasa atas bangsa-bangsa;",
-    "h": "",
-    "o": 26,
-    "l": "26"
-  },
-  {
-    "id": "66002027",
-    "b": 66,
-    "c": 2,
-    "v": 27,
-    "t": "dan ia akan memerintah mereka dengan tongkat besi; mereka akan diremukkan seperti tembikar tukang periuk – sama seperti yang Kuterima dari Bapa-Ku –",
-    "h": "",
-    "o": 27,
-    "l": "27"
-  },
-  {
-    "id": "66002028",
-    "b": 66,
-    "c": 2,
-    "v": 28,
-    "t": "dan kepadanya akan Kukaruniakan bintang timur.",
-    "h": "",
-    "o": 28,
-    "l": "28"
-  },
-  {
-    "id": "66002029",
-    "b": 66,
-    "c": 2,
-    "v": 29,
-    "t": "Siapa bertelinga, hendaklah ia mendengarkan apa yang dikatakan Roh kepada jemaat-jemaat.”",
-    "h": "",
-    "o": 29,
-    "l": "29"
-  },
-  {
-    "id": "66003001",
-    "b": 66,
-    "c": 3,
-    "v": 1,
-    "t": "”Dan tuliskanlah kepada malaikat jemaat di Sardis: Inilah firman Dia, yang memiliki ketujuh Roh Allah dan ketujuh bintang itu: Aku tahu segala pekerjaanmu: engkau dikatakan hidup, padahal engkau mati!",
-    "h": "Kepada jemaat di Sardis\n3:1-6",
-    "o": 1,
-    "l": "1"
-  },
-  {
-    "id": "66003002",
-    "b": 66,
-    "c": 3,
-    "v": 2,
-    "t": "Bangunlah, dan kuatkanlah apa yang masih tinggal yang sudah hampir mati, sebab tidak satu pun dari pekerjaanmu Aku dapati sempurna di hadapan Allah-Ku.",
-    "h": "",
-    "o": 2,
-    "l": "2"
-  },
-  {
-    "id": "66003003",
-    "b": 66,
-    "c": 3,
-    "v": 3,
-    "t": "Karena itu ingatlah, bagaimana engkau telah menerima dan mendengarnya; turutilah itu dan bertobatlah! Karena jikalau engkau tidak berjaga-jaga, Aku akan datang seperti pencuri dan engkau tidak tahu pada waktu manakah Aku tiba-tiba datang kepadamu.",
-    "h": "",
-    "o": 3,
-    "l": "3"
-  },
-  {
-    "id": "66003004",
-    "b": 66,
-    "c": 3,
-    "v": 4,
-    "t": "Tetapi di Sardis ada beberapa orang yang tidak mencemarkan pakaiannya; mereka akan berjalan dengan Aku dalam pakaian putih, karena mereka adalah layak untuk itu.",
-    "h": "",
-    "o": 4,
-    "l": "4"
-  },
-  {
-    "id": "66003005",
-    "b": 66,
-    "c": 3,
-    "v": 5,
-    "t": "Barangsiapa menang, ia akan dikenakan pakaian putih yang demikian; Aku tidak akan menghapus namanya dari kitab kehidupan, melainkan Aku akan mengaku namanya di hadapan Bapa-Ku dan di hadapan para malaikat-Nya.",
-    "h": "",
-    "o": 5,
-    "l": "5"
-  },
-  {
-    "id": "66003006",
-    "b": 66,
-    "c": 3,
-    "v": 6,
-    "t": "Siapa bertelinga, hendaklah ia mendengarkan apa yang dikatakan Roh kepada jemaat-jemaat.”",
-    "h": "",
-    "o": 6,
-    "l": "6"
-  },
-  {
-    "id": "66003007",
-    "b": 66,
-    "c": 3,
-    "v": 7,
-    "t": "”Dan tuliskanlah kepada malaikat jemaat di Filadelfia: Inilah firman dari Yang Kudus, Yang Benar, yang memegang kunci Daud; apabila Ia membuka, tidak ada yang dapat menutup; apabila Ia menutup, tidak ada yang dapat membuka.",
-    "h": "Kepada jemaat di Filadelfia\n3:7-13",
-    "o": 7,
-    "l": "7"
-  },
-  {
-    "id": "66003008",
-    "b": 66,
-    "c": 3,
-    "v": 8,
-    "t": "Aku tahu segala pekerjaanmu: lihatlah, Aku telah membuka pintu bagimu, yang tidak dapat ditutup oleh seorang pun. Aku tahu bahwa kekuatanmu tidak seberapa, namun engkau menuruti firman-Ku dan engkau tidak menyangkal nama-Ku.",
-    "h": "",
-    "o": 8,
-    "l": "8"
-  },
-  {
-    "id": "66003009",
-    "b": 66,
-    "c": 3,
-    "v": 9,
-    "t": "Lihatlah, beberapa orang dari jemaah Iblis, yaitu mereka yang menyebut dirinya orang Yahudi, tetapi yang sebenarnya tidak demikian, melainkan berdusta, akan Kuserahkan kepadamu. Sesungguhnya Aku akan menyuruh mereka datang dan tersungkur di depan kakimu dan mengaku, bahwa Aku mengasihi engkau.",
-    "h": "",
-    "o": 9,
-    "l": "9"
-  },
-  {
-    "id": "66003010",
-    "b": 66,
-    "c": 3,
-    "v": 10,
-    "t": "Karena engkau menuruti firman-Ku, untuk tekun menantikan Aku, maka Aku pun akan melindungi engkau dari hari pencobaan yang akan datang atas seluruh dunia untuk mencobai mereka yang diam di bumi.",
-    "h": "",
-    "o": 10,
-    "l": "10"
-  },
-  {
-    "id": "66003011",
-    "b": 66,
-    "c": 3,
-    "v": 11,
-    "t": "Aku datang segera. Peganglah apa yang ada padamu, supaya tidak seorang pun mengambil mahkotamu.",
-    "h": "",
-    "o": 11,
-    "l": "11"
-  },
-  {
-    "id": "66003012",
-    "b": 66,
-    "c": 3,
-    "v": 12,
-    "t": "Barangsiapa menang, ia akan Kujadikan sokoguru di dalam Bait Suci Allah-Ku, dan ia tidak akan keluar lagi dari situ; dan padanya akan Kutuliskan nama Allah-Ku, nama kota Allah-Ku, yaitu Yerusalem baru, yang turun dari sorga dari Allah-Ku, dan nama-Ku yang baru.",
-    "h": "",
-    "o": 12,
-    "l": "12"
-  },
-  {
-    "id": "66003013",
-    "b": 66,
-    "c": 3,
-    "v": 13,
-    "t": "Siapa bertelinga, hendaklah ia mendengarkan apa yang dikatakan Roh kepada jemaat-jemaat.”",
-    "h": "",
-    "o": 13,
-    "l": "13"
-  },
-  {
-    "id": "66003014",
-    "b": 66,
-    "c": 3,
-    "v": 14,
-    "t": "”Dan tuliskanlah kepada malaikat jemaat di Laodikia: Inilah firman dari Amin, Saksi yang setia dan benar, permulaan dari ciptaan Allah:",
-    "h": "Kepada jemaat di Laodikia\n3:14-22",
-    "o": 14,
-    "l": "14"
-  },
-  {
-    "id": "66003015",
-    "b": 66,
-    "c": 3,
-    "v": 15,
-    "t": "Aku tahu segala pekerjaanmu: engkau tidak dingin dan tidak panas. Alangkah baiknya jika engkau dingin atau panas!",
-    "h": "",
-    "o": 15,
-    "l": "15"
-  },
-  {
-    "id": "66003016",
-    "b": 66,
-    "c": 3,
-    "v": 16,
-    "t": "Jadi karena engkau suam-suam kuku, dan tidak dingin atau panas, Aku akan memuntahkan engkau dari mulut-Ku.",
-    "h": "",
-    "o": 16,
-    "l": "16"
-  },
-  {
-    "id": "66003017",
-    "b": 66,
-    "c": 3,
-    "v": 17,
-    "t": "Karena engkau berkata: Aku kaya dan aku telah memperkayakan diriku dan aku tidak kekurangan apa-apa, dan karena engkau tidak tahu, bahwa engkau melarat, dan malang, miskin, buta dan telanjang,",
-    "h": "",
-    "o": 17,
-    "l": "17"
-  },
-  {
-    "id": "66003018",
-    "b": 66,
-    "c": 3,
-    "v": 18,
-    "t": "maka Aku menasihatkan engkau, supaya engkau membeli dari pada-Ku emas yang telah dimurnikan dalam api, agar engkau menjadi kaya, dan juga pakaian putih, supaya engkau memakainya, agar jangan kelihatan ketelanjanganmu yang memalukan; dan lagi minyak untuk melumas matamu, supaya engkau dapat melihat.",
-    "h": "",
-    "o": 18,
-    "l": "18"
-  },
-  {
-    "id": "66003019",
-    "b": 66,
-    "c": 3,
-    "v": 19,
-    "t": "Barangsiapa Kukasihi, ia Kutegor dan Kuhajar; sebab itu relakanlah hatimu dan bertobatlah!",
-    "h": "",
-    "o": 19,
-    "l": "19"
-  },
-  {
-    "id": "66003020",
-    "b": 66,
-    "c": 3,
-    "v": 20,
-    "t": "Lihat, Aku berdiri di muka pintu dan mengetok; jikalau ada orang yang mendengar suara-Ku dan membukakan pintu, Aku akan masuk mendapatkannya dan Aku makan bersama-sama dengan dia, dan ia bersama-sama dengan Aku.",
-    "h": "",
-    "o": 20,
-    "l": "20"
-  },
-  {
-    "id": "66003021",
-    "b": 66,
-    "c": 3,
-    "v": 21,
-    "t": "Barangsiapa menang, ia akan Kududukkan bersama-sama dengan Aku di atas takhta-Ku, sebagaimana Aku pun telah menang dan duduk bersama-sama dengan Bapa-Ku di atas takhta-Nya.",
-    "h": "",
-    "o": 21,
-    "l": "21"
-  },
-  {
-    "id": "66003022",
-    "b": 66,
-    "c": 3,
-    "v": 22,
-    "t": "Siapa bertelinga, hendaklah ia mendengarkan apa yang dikatakan Roh kepada jemaat-jemaat.”",
-    "h": "",
-    "o": 22,
-    "l": "22"
-  },
-  {
-    "id": "66004001",
-    "b": 66,
-    "c": 4,
-    "v": 1,
-    "t": "Kemudian dari pada itu aku melihat: Sesungguhnya, sebuah pintu terbuka di sorga dan suara yang dahulu yang telah kudengar, berkata kepadaku seperti bunyi sangkakala, katanya: Naiklah ke mari dan Aku akan menunjukkan kepadamu apa yang harus terjadi sesudah ini.",
-    "h": "Kedua puluh empat tua-tua dan keempat binatang\n4:1-11",
-    "o": 1,
-    "l": "1"
-  },
-  {
-    "id": "66004002",
-    "b": 66,
-    "c": 4,
-    "v": 2,
-    "t": "Segera aku dikuasai oleh Roh dan lihatlah, sebuah takhta terdiri di sorga, dan di takhta itu duduk Seorang.",
-    "h": "",
-    "o": 2,
-    "l": "2"
-  },
-  {
-    "id": "66004003",
-    "b": 66,
-    "c": 4,
-    "v": 3,
-    "t": "Dan Dia yang duduk di takhta itu nampaknya bagaikan permata yaspis dan permata sardis; dan suatu pelangi melingkungi takhta itu gilang-gemilang bagaikan zamrud rupanya.",
-    "h": "",
-    "o": 3,
-    "l": "3"
-  },
-  {
-    "id": "66004004",
-    "b": 66,
-    "c": 4,
-    "v": 4,
-    "t": "Dan sekeliling takhta itu ada dua puluh empat takhta, dan di takhta-takhta itu duduk dua puluh empat tua-tua, yang memakai pakaian putih dan mahkota emas di kepala mereka.",
-    "h": "",
-    "o": 4,
-    "l": "4"
-  },
-  {
-    "id": "66004005",
-    "b": 66,
-    "c": 4,
-    "v": 5,
-    "t": "Dan dari takhta itu keluar kilat dan bunyi guruh yang menderu, dan tujuh obor menyala-nyala di hadapan takhta itu: itulah ketujuh Roh Allah.",
-    "h": "",
-    "o": 5,
-    "l": "5"
-  },
-  {
-    "id": "66004006",
-    "b": 66,
-    "c": 4,
-    "v": 6,
-    "t": "Dan di hadapan takhta itu ada lautan kaca bagaikan kristal; di tengah-tengah takhta itu dan di sekelilingnya ada empat makhluk penuh dengan mata, di sebelah muka dan di sebelah belakang.",
-    "h": "",
-    "o": 6,
-    "l": "6"
-  },
-  {
-    "id": "66004007",
-    "b": 66,
-    "c": 4,
-    "v": 7,
-    "t": "Adapun makhluk yang pertama sama seperti singa, dan makhluk yang kedua sama seperti anak lembu, dan makhluk yang ketiga mempunyai muka seperti muka manusia, dan makhluk yang keempat sama seperti burung nasar yang sedang terbang.",
-    "h": "",
-    "o": 7,
-    "l": "7"
-  },
-  {
-    "id": "66004008",
-    "b": 66,
-    "c": 4,
-    "v": 8,
-    "t": "Dan keempat makhluk itu masing-masing bersayap enam, sekelilingnya dan di sebelah dalamnya penuh dengan mata, dan dengan tidak berhenti-hentinya mereka berseru siang dan malam: ”Kudus, kudus, kuduslah Tuhan Allah, Yang Mahakuasa, yang sudah ada dan yang ada dan yang akan datang.”",
-    "h": "",
-    "o": 8,
-    "l": "8"
-  },
-  {
-    "id": "66004009",
-    "b": 66,
-    "c": 4,
-    "v": 9,
-    "t": "Dan setiap kali makhluk-makhluk itu mempersembahkan puji-pujian, dan hormat dan ucapan syukur kepada Dia, yang duduk di atas takhta itu dan yang hidup sampai selama-lamanya,",
-    "h": "",
-    "o": 9,
-    "l": "9"
-  },
-  {
-    "id": "66004010",
-    "b": 66,
-    "c": 4,
-    "v": 10,
-    "t": "maka tersungkurlah kedua puluh empat tua-tua itu di hadapan Dia yang duduk di atas takhta itu, dan mereka menyembah Dia yang hidup sampai selama-lamanya. Dan mereka melemparkan mahkotanya di hadapan takhta itu, sambil berkata:",
-    "h": "",
-    "o": 10,
-    "l": "10"
-  },
-  {
-    "id": "66004011",
-    "b": 66,
-    "c": 4,
-    "v": 11,
-    "t": "”Ya Tuhan dan Allah kami, Engkau layak menerima puji-pujian dan hormat dan kuasa; sebab Engkau telah menciptakan segala sesuatu; dan oleh karena kehendak-Mu semuanya itu ada dan diciptakan.”",
-    "h": "",
-    "o": 11,
-    "l": "11"
-  },
-  {
-    "id": "66005001",
-    "b": 66,
-    "c": 5,
-    "v": 1,
-    "t": "Maka aku melihat di tangan kanan Dia yang duduk di atas takhta itu, sebuah gulungan kitab, yang ditulisi sebelah dalam dan sebelah luarnya dan dimeterai dengan tujuh meterai.",
-    "h": "Kitab yang dimeterai dan Anak Domba\n5:1-14",
-    "o": 1,
-    "l": "1"
-  },
-  {
-    "id": "66005002",
-    "b": 66,
-    "c": 5,
-    "v": 2,
-    "t": "Dan aku melihat seorang malaikat yang gagah, yang berseru dengan suara nyaring, katanya: ”Siapakah yang layak membuka gulungan kitab itu dan membuka meterai-meterainya?”",
-    "h": "",
-    "o": 2,
-    "l": "2"
-  },
-  {
-    "id": "66005003",
-    "b": 66,
-    "c": 5,
-    "v": 3,
-    "t": "Tetapi tidak ada seorang pun yang di sorga atau yang di bumi atau yang di bawah bumi, yang dapat membuka gulungan kitab itu atau yang dapat melihat sebelah dalamnya.",
-    "h": "",
-    "o": 3,
-    "l": "3"
-  },
-  {
-    "id": "66005004",
-    "b": 66,
-    "c": 5,
-    "v": 4,
-    "t": "Maka menangislah aku dengan amat sedihnya, karena tidak ada seorang pun yang dianggap layak untuk membuka gulungan kitab itu ataupun melihat sebelah dalamnya.",
-    "h": "",
-    "o": 4,
-    "l": "4"
-  },
-  {
-    "id": "66005005",
-    "b": 66,
-    "c": 5,
-    "v": 5,
-    "t": "Lalu berkatalah seorang dari tua-tua itu kepadaku: ”Jangan engkau menangis! Sesungguhnya, singa dari suku Yehuda, yaitu tunas Daud, telah menang, sehingga Ia dapat membuka gulungan kitab itu dan membuka ketujuh meterainya.”",
-    "h": "",
-    "o": 5,
-    "l": "5"
-  },
-  {
-    "id": "66005006",
-    "b": 66,
-    "c": 5,
-    "v": 6,
-    "t": "Maka aku melihat di tengah-tengah takhta dan keempat makhluk itu dan di tengah-tengah tua-tua itu berdiri seekor Anak Domba seperti telah disembelih, bertanduk tujuh dan bermata tujuh: itulah ketujuh Roh Allah yang diutus ke seluruh bumi.",
-    "h": "",
-    "o": 6,
-    "l": "6"
-  },
-  {
-    "id": "66005007",
-    "b": 66,
-    "c": 5,
-    "v": 7,
-    "t": "Lalu datanglah Anak Domba itu dan menerima gulungan kitab itu dari tangan Dia yang duduk di atas takhta itu.",
-    "h": "",
-    "o": 7,
-    "l": "7"
-  },
-  {
-    "id": "66005008",
-    "b": 66,
-    "c": 5,
-    "v": 8,
-    "t": "Ketika Ia mengambil gulungan kitab itu, tersungkurlah keempat makhluk dan kedua puluh empat tua-tua itu di hadapan Anak Domba itu, masing-masing memegang satu kecapi dan satu cawan emas, penuh dengan kemenyan: itulah doa orang-orang kudus.",
-    "h": "",
-    "o": 8,
-    "l": "8"
-  },
-  {
-    "id": "66005009",
-    "b": 66,
-    "c": 5,
-    "v": 9,
-    "t": "Dan mereka menyanyikan suatu nyanyian baru katanya: ”Engkau layak menerima gulungan kitab itu dan membuka meterai-meterainya; karena Engkau telah disembelih dan dengan darah-Mu Engkau telah membeli mereka bagi Allah dari tiap-tiap suku dan bahasa dan kaum dan bangsa.",
-    "h": "",
-    "o": 9,
-    "l": "9"
-  },
-  {
-    "id": "66005010",
-    "b": 66,
-    "c": 5,
-    "v": 10,
-    "t": "Dan Engkau telah membuat mereka menjadi suatu kerajaan, dan menjadi imam-imam bagi Allah kita, dan mereka akan memerintah sebagai raja di bumi.”",
-    "h": "",
-    "o": 10,
-    "l": "10"
-  },
-  {
-    "id": "66005011",
-    "b": 66,
-    "c": 5,
-    "v": 11,
-    "t": "Maka aku melihat dan mendengar suara banyak malaikat sekeliling takhta, makhluk-makhluk dan tua-tua itu; jumlah mereka berlaksa-laksa dan beribu-ribu laksa,",
-    "h": "",
-    "o": 11,
-    "l": "11"
-  },
-  {
-    "id": "66005012",
-    "b": 66,
-    "c": 5,
-    "v": 12,
-    "t": "katanya dengan suara nyaring: ”Anak Domba yang disembelih itu layak untuk menerima kuasa, dan kekayaan, dan hikmat, dan kekuatan, dan hormat, dan kemuliaan, dan puji-pujian!”",
-    "h": "",
-    "o": 12,
-    "l": "12"
-  },
-  {
-    "id": "66005013",
-    "b": 66,
-    "c": 5,
-    "v": 13,
-    "t": "Dan aku mendengar semua makhluk yang di sorga dan yang di bumi dan yang di bawah bumi dan yang di laut dan semua yang ada di dalamnya, berkata: ”Bagi Dia yang duduk di atas takhta dan bagi Anak Domba, adalah puji-pujian dan hormat dan kemuliaan dan kuasa sampai selama-lamanya!”",
-    "h": "",
-    "o": 13,
-    "l": "13"
-  },
-  {
-    "id": "66005014",
-    "b": 66,
-    "c": 5,
-    "v": 14,
-    "t": "Dan keempat makhluk itu berkata: ”Amin”. Dan tua-tua itu jatuh tersungkur dan menyembah.",
-    "h": "",
-    "o": 14,
-    "l": "14"
-  },
-  {
-    "id": "66006001",
-    "b": 66,
-    "c": 6,
-    "v": 1,
-    "t": "Maka aku melihat Anak Domba itu membuka yang pertama dari ketujuh meterai itu, dan aku mendengar yang pertama dari keempat makhluk itu berkata dengan suara bagaikan bunyi guruh: ”Mari!”",
-    "h": "Keenam meterai pertama dibuka\n6:1-17",
-    "o": 1,
-    "l": "1"
-  },
-  {
-    "id": "66006002",
-    "b": 66,
-    "c": 6,
-    "v": 2,
-    "t": "Dan aku melihat: sesungguhnya, ada seekor kuda putih dan orang yang menungganginya memegang sebuah panah dan kepadanya dikaruniakan sebuah mahkota. Lalu ia maju sebagai pemenang untuk merebut kemenangan.",
-    "h": "",
-    "o": 2,
-    "l": "2"
-  },
-  {
-    "id": "66006003",
-    "b": 66,
-    "c": 6,
-    "v": 3,
-    "t": "Dan ketika Anak Domba itu membuka meterai yang kedua, aku mendengar makhluk yang kedua berkata: ”Mari!”",
-    "h": "",
-    "o": 3,
-    "l": "3"
-  },
-  {
-    "id": "66006004",
-    "b": 66,
-    "c": 6,
-    "v": 4,
-    "t": "Dan majulah seekor kuda lain, seekor kuda merah padam dan orang yang menungganginya dikaruniakan kuasa untuk mengambil damai sejahtera dari atas bumi, sehingga mereka saling membunuh, dan kepadanya dikaruniakan sebilah pedang yang besar.",
-    "h": "",
-    "o": 4,
-    "l": "4"
-  },
-  {
-    "id": "66006005",
-    "b": 66,
-    "c": 6,
-    "v": 5,
-    "t": "Dan ketika Anak Domba itu membuka meterai yang ketiga, aku mendengar makhluk yang ketiga berkata: ”Mari!” Dan aku melihat: sesungguhnya, ada seekor kuda hitam dan orang yang menungganginya memegang sebuah timbangan di tangannya.",
-    "h": "",
-    "o": 5,
-    "l": "5"
-  },
-  {
-    "id": "66006006",
-    "b": 66,
-    "c": 6,
-    "v": 6,
-    "t": "Dan aku mendengar seperti ada suara di tengah-tengah keempat makhluk itu berkata: ”Secupak gandum sedinar, dan tiga cupak jelai sedinar. Tetapi janganlah rusakkan minyak dan anggur itu.”",
-    "h": "",
-    "o": 6,
-    "l": "6"
-  },
-  {
-    "id": "66006007",
-    "b": 66,
-    "c": 6,
-    "v": 7,
-    "t": "Dan ketika Anak Domba itu membuka meterai yang keempat, aku mendengar suara makhluk yang keempat berkata: ”Mari!”",
-    "h": "",
-    "o": 7,
-    "l": "7"
-  },
-  {
-    "id": "66006008",
-    "b": 66,
-    "c": 6,
-    "v": 8,
-    "t": "Dan aku melihat: sesungguhnya, ada seekor kuda hijau kuning dan orang yang menungganginya bernama Maut dan kerajaan maut mengikutinya. Dan kepada mereka diberikan kuasa atas seperempat dari bumi untuk membunuh dengan pedang, dan dengan kelaparan dan sampar, dan dengan binatang-binatang buas yang di bumi.",
-    "h": "",
-    "o": 8,
-    "l": "8"
-  },
-  {
-    "id": "66006009",
-    "b": 66,
-    "c": 6,
-    "v": 9,
-    "t": "Dan ketika Anak Domba itu membuka meterai yang kelima, aku melihat di bawah mezbah jiwa-jiwa mereka yang telah dibunuh oleh karena firman Allah dan oleh karena kesaksian yang mereka miliki.",
-    "h": "",
-    "o": 9,
-    "l": "9"
-  },
-  {
-    "id": "66006010",
-    "b": 66,
-    "c": 6,
-    "v": 10,
-    "t": "Dan mereka berseru dengan suara nyaring, katanya: ”Berapa lamakah lagi, ya Penguasa yang kudus dan benar, Engkau tidak menghakimi dan tidak membalaskan darah kami kepada mereka yang diam di bumi?”",
-    "h": "",
-    "o": 10,
-    "l": "10"
-  },
-  {
-    "id": "66006011",
-    "b": 66,
-    "c": 6,
-    "v": 11,
-    "t": "Dan kepada mereka masing-masing diberikan sehelai jubah putih, dan kepada mereka dikatakan, bahwa mereka harus beristirahat sedikit waktu lagi hingga genap jumlah kawan-kawan pelayan dan saudara-saudara mereka, yang akan dibunuh sama seperti mereka.",
-    "h": "",
-    "o": 11,
-    "l": "11"
-  },
-  {
-    "id": "66006012",
-    "b": 66,
-    "c": 6,
-    "v": 12,
-    "t": "Maka aku melihat, ketika Anak Domba itu membuka meterai yang keenam, sesungguhnya terjadilah gempa bumi yang dahsyat dan matahari menjadi hitam bagaikan karung rambut dan bulan menjadi merah seluruhnya bagaikan darah.",
-    "h": "",
-    "o": 12,
-    "l": "12"
-  },
-  {
-    "id": "66006013",
-    "b": 66,
-    "c": 6,
-    "v": 13,
-    "t": "Dan bintang-bintang di langit berjatuhan ke atas bumi bagaikan pohon ara menggugurkan buah-buahnya yang mentah, apabila ia digoncang angin yang kencang.",
-    "h": "",
-    "o": 13,
-    "l": "13"
-  },
-  {
-    "id": "66006014",
-    "b": 66,
-    "c": 6,
-    "v": 14,
-    "t": "Maka menyusutlah langit bagaikan gulungan kitab yang digulung dan tergeserlah gunung-gunung dan pulau-pulau dari tempatnya.",
-    "h": "",
-    "o": 14,
-    "l": "14"
-  },
-  {
-    "id": "66006015",
-    "b": 66,
-    "c": 6,
-    "v": 15,
-    "t": "Dan raja-raja di bumi dan pembesar-pembesar serta perwira-perwira, dan orang-orang kaya serta orang-orang berkuasa, dan semua budak serta orang merdeka bersembunyi ke dalam gua-gua dan celah-celah batu karang di gunung.",
-    "h": "",
-    "o": 15,
-    "l": "15"
-  },
-  {
-    "id": "66006016",
-    "b": 66,
-    "c": 6,
-    "v": 16,
-    "t": "Dan mereka berkata kepada gunung-gunung dan kepada batu-batu karang itu: ”Runtuhlah menimpa kami dan sembunyikanlah kami terhadap Dia, yang duduk di atas takhta dan terhadap murka Anak Domba itu.”",
-    "h": "",
-    "o": 16,
-    "l": "16"
-  },
-  {
-    "id": "66006017",
-    "b": 66,
-    "c": 6,
-    "v": 17,
-    "t": "Sebab sudah tiba hari besar murka mereka dan siapakah yang dapat bertahan?",
-    "h": "",
-    "o": 17,
-    "l": "17"
-  },
-  {
-    "id": "66007001",
-    "b": 66,
-    "c": 7,
-    "v": 1,
-    "t": "Kemudian dari pada itu aku melihat empat malaikat berdiri pada keempat penjuru bumi dan mereka menahan keempat angin bumi, supaya jangan ada angin bertiup di darat, atau di laut atau di pohon-pohon.",
-    "h": "Orang-orang yang dimeteraikan dari bangsa Israel\n7:1-8",
-    "o": 1,
-    "l": "1"
-  },
-  {
-    "id": "66007002",
-    "b": 66,
-    "c": 7,
-    "v": 2,
-    "t": "Dan aku melihat seorang malaikat lain muncul dari tempat matahari terbit. Ia membawa meterai Allah yang hidup; dan ia berseru dengan suara nyaring kepada keempat malaikat yang ditugaskan untuk merusakkan bumi dan laut,",
-    "h": "",
-    "o": 2,
-    "l": "2"
-  },
-  {
-    "id": "66007003",
-    "b": 66,
-    "c": 7,
-    "v": 3,
-    "t": "katanya: ”Janganlah merusakkan bumi atau laut atau pohon-pohon sebelum kami memeteraikan hamba-hamba Allah kami pada dahi mereka!”",
-    "h": "",
-    "o": 3,
-    "l": "3"
-  },
-  {
-    "id": "66007004",
-    "b": 66,
-    "c": 7,
-    "v": 4,
-    "t": "Dan aku mendengar jumlah mereka yang dimeteraikan itu: seratus empat puluh empat ribu yang telah dimeteraikan dari semua suku keturunan Israel.",
-    "h": "",
-    "o": 4,
-    "l": "4"
-  },
-  {
-    "id": "66007005",
-    "b": 66,
-    "c": 7,
-    "v": 5,
-    "t": "Dari suku Yehuda dua belas ribu yang dimeteraikan, dari suku Ruben dua belas ribu, dari suku Gad dua belas ribu,",
-    "h": "",
-    "o": 5,
-    "l": "5"
-  },
-  {
-    "id": "66007006",
-    "b": 66,
-    "c": 7,
-    "v": 6,
-    "t": "dari suku Asyer dua belas ribu, dari suku Naftali dua belas ribu, dari suku Manasye dua belas ribu,",
-    "h": "",
-    "o": 6,
-    "l": "6"
-  },
-  {
-    "id": "66007007",
-    "b": 66,
-    "c": 7,
-    "v": 7,
-    "t": "dari suku Simeon dua belas ribu, dari suku Lewi dua belas ribu, dari suku Isakhar dua belas ribu,",
-    "h": "",
-    "o": 7,
-    "l": "7"
-  },
-  {
-    "id": "66007008",
-    "b": 66,
-    "c": 7,
-    "v": 8,
-    "t": "dari suku Zebulon dua belas ribu, dari suku Yusuf dua belas ribu, dari suku Benyamin dua belas ribu.",
-    "h": "",
-    "o": 8,
-    "l": "8"
-  },
-  {
-    "id": "66007009",
-    "b": 66,
-    "c": 7,
-    "v": 9,
-    "t": "Kemudian dari pada itu aku melihat: sesungguhnya, suatu kumpulan besar orang banyak yang tidak dapat terhitung banyaknya, dari segala bangsa dan suku dan kaum dan bahasa, berdiri di hadapan takhta dan di hadapan Anak Domba, memakai jubah putih dan memegang daun-daun palem di tangan mereka.",
-    "h": "Orang banyak yang tidak terhitung banyaknya\n7:9-17",
-    "o": 9,
-    "l": "9"
-  },
-  {
-    "id": "66007010",
-    "b": 66,
-    "c": 7,
-    "v": 10,
-    "t": "Dan dengan suara nyaring mereka berseru: ”Keselamatan bagi Allah kami yang duduk di atas takhta dan bagi Anak Domba!”",
-    "h": "",
-    "o": 10,
-    "l": "10"
-  },
-  {
-    "id": "66007011",
-    "b": 66,
-    "c": 7,
-    "v": 11,
-    "t": "Dan semua malaikat berdiri mengelilingi takhta dan tua-tua dan keempat makhluk itu; mereka tersungkur di hadapan takhta itu dan menyembah Allah,",
-    "h": "",
-    "o": 11,
-    "l": "11"
-  },
-  {
-    "id": "66007012",
-    "b": 66,
-    "c": 7,
-    "v": 12,
-    "t": "sambil berkata: ”Amin! puji-pujian dan kemuliaan, dan hikmat dan syukur, dan hormat dan kekuasaan dan kekuatan bagi Allah kita sampai selama-lamanya! Amin!”",
-    "h": "",
-    "o": 12,
-    "l": "12"
-  },
-  {
-    "id": "66007013",
-    "b": 66,
-    "c": 7,
-    "v": 13,
-    "t": "Dan seorang dari antara tua-tua itu berkata kepadaku: ”Siapakah mereka yang memakai jubah putih itu dan dari manakah mereka datang?”",
-    "h": "",
-    "o": 13,
-    "l": "13"
-  },
-  {
-    "id": "66007014",
-    "b": 66,
-    "c": 7,
-    "v": 14,
-    "t": "Maka kataku kepadanya: ”Tuanku, tuan mengetahuinya.” Lalu ia berkata kepadaku: ”Mereka ini adalah orang-orang yang keluar dari kesusahan yang besar; dan mereka telah mencuci jubah mereka dan membuatnya putih di dalam darah Anak Domba.",
-    "h": "",
-    "o": 14,
-    "l": "14"
-  },
-  {
-    "id": "66007015",
-    "b": 66,
-    "c": 7,
-    "v": 15,
-    "t": "Karena itu mereka berdiri di hadapan takhta Allah dan melayani Dia siang malam di Bait Suci-Nya. Dan Ia yang duduk di atas takhta itu akan membentangkan kemah-Nya di atas mereka.",
-    "h": "",
-    "o": 15,
-    "l": "15"
-  },
-  {
-    "id": "66007016",
-    "b": 66,
-    "c": 7,
-    "v": 16,
-    "t": "Mereka tidak akan menderita lapar dan dahaga lagi, dan matahari atau panas terik tidak akan menimpa mereka lagi.",
-    "h": "",
-    "o": 16,
-    "l": "16"
-  },
-  {
-    "id": "66007017",
-    "b": 66,
-    "c": 7,
-    "v": 17,
-    "t": "Sebab Anak Domba yang di tengah-tengah takhta itu, akan menggembalakan mereka dan akan menuntun mereka ke mata air kehidupan. Dan Allah akan menghapus segala air mata dari mata mereka.”",
-    "h": "",
-    "o": 17,
-    "l": "17"
-  },
-  {
-    "id": "66008001",
-    "b": 66,
-    "c": 8,
-    "v": 1,
-    "t": "Dan ketika Anak Domba itu membuka meterai yang ketujuh, maka sunyi senyaplah di sorga, kira-kira setengah jam lamanya.",
-    "h": "Meterai yang ketujuh\n8:1-5",
-    "o": 1,
-    "l": "1"
-  },
-  {
-    "id": "66008002",
-    "b": 66,
-    "c": 8,
-    "v": 2,
-    "t": "Lalu aku melihat ketujuh malaikat, yang berdiri di hadapan Allah, dan kepada mereka diberikan tujuh sangkakala.",
-    "h": "",
-    "o": 2,
-    "l": "2"
-  },
-  {
-    "id": "66008003",
-    "b": 66,
-    "c": 8,
-    "v": 3,
-    "t": "Maka datanglah seorang malaikat lain, dan ia pergi berdiri dekat mezbah dengan sebuah pedupaan emas. Dan kepadanya diberikan banyak kemenyan untuk dipersembahkannya bersama-sama dengan doa semua orang kudus di atas mezbah emas di hadapan takhta itu.",
-    "h": "",
-    "o": 3,
-    "l": "3"
-  },
-  {
-    "id": "66008004",
-    "b": 66,
-    "c": 8,
-    "v": 4,
-    "t": "Maka naiklah asap kemenyan bersama-sama dengan doa orang-orang kudus itu dari tangan malaikat itu ke hadapan Allah.",
-    "h": "",
-    "o": 4,
-    "l": "4"
-  },
-  {
-    "id": "66008005",
-    "b": 66,
-    "c": 8,
-    "v": 5,
-    "t": "Lalu malaikat itu mengambil pedupaan itu, mengisinya dengan api dari mezbah, dan melemparkannya ke bumi. Maka meledaklah bunyi guruh, disertai halilintar dan gempa bumi.",
-    "h": "",
-    "o": 5,
-    "l": "5"
-  },
-  {
-    "id": "66008006",
-    "b": 66,
-    "c": 8,
-    "v": 6,
-    "t": "Dan ketujuh malaikat yang memegang ketujuh sangkakala itu bersiap-siap untuk meniup sangkakala.",
-    "h": "Keempat sangkakala yang pertama\n8:6-13",
-    "o": 6,
-    "l": "6"
-  },
-  {
-    "id": "66008007",
-    "b": 66,
-    "c": 8,
-    "v": 7,
-    "t": "Lalu malaikat yang pertama meniup sangkakalanya dan terjadilah hujan es, dan api, bercampur darah; dan semuanya itu dilemparkan ke bumi; maka terbakarlah sepertiga dari bumi dan sepertiga dari pohon-pohon dan hanguslah seluruh rumput-rumputan hijau.",
-    "h": "",
-    "o": 7,
-    "l": "7"
-  },
-  {
-    "id": "66008008",
-    "b": 66,
-    "c": 8,
-    "v": 8,
-    "t": "Lalu malaikat yang kedua meniup sangkakalanya dan ada sesuatu seperti gunung besar, yang menyala-nyala oleh api, dilemparkan ke dalam laut. Dan sepertiga dari laut itu menjadi darah,",
-    "h": "",
-    "o": 8,
-    "l": "8"
-  },
-  {
-    "id": "66008009",
-    "b": 66,
-    "c": 8,
-    "v": 9,
-    "t": "dan matilah sepertiga dari segala makhluk yang bernyawa di dalam laut dan binasalah sepertiga dari semua kapal.",
-    "h": "",
-    "o": 9,
-    "l": "9"
-  },
-  {
-    "id": "66008010",
-    "b": 66,
-    "c": 8,
-    "v": 10,
-    "t": "Lalu malaikat yang ketiga meniup sangkakalanya dan jatuhlah dari langit sebuah bintang besar, menyala-nyala seperti obor, dan ia menimpa sepertiga dari sungai-sungai dan mata-mata air.",
-    "h": "",
-    "o": 10,
-    "l": "10"
-  },
-  {
-    "id": "66008011",
-    "b": 66,
-    "c": 8,
-    "v": 11,
-    "t": "Nama bintang itu ialah Apsintus. Dan sepertiga dari semua air menjadi apsintus, dan banyak orang mati karena air itu, sebab sudah menjadi pahit.",
-    "h": "",
-    "o": 11,
-    "l": "11"
-  },
-  {
-    "id": "66008012",
-    "b": 66,
-    "c": 8,
-    "v": 12,
-    "t": "Lalu malaikat yang keempat meniup sangkakalanya dan terpukullah sepertiga dari matahari dan sepertiga dari bulan dan sepertiga dari bintang-bintang, sehingga sepertiga dari padanya menjadi gelap dan sepertiga dari siang hari tidak terang dan demikian juga malam hari.",
-    "h": "",
-    "o": 12,
-    "l": "12"
-  },
-  {
-    "id": "66008013",
-    "b": 66,
-    "c": 8,
-    "v": 13,
-    "t": "Lalu aku melihat: aku mendengar seekor burung nasar terbang di tengah langit dan berkata dengan suara nyaring: ”Celaka, celaka, celakalah mereka yang diam di atas bumi oleh karena bunyi sangkakala ketiga malaikat lain, yang masih akan meniup sangkakalanya.”",
-    "h": "",
-    "o": 13,
-    "l": "13"
-  },
-  {
-    "id": "66009001",
-    "b": 66,
-    "c": 9,
-    "v": 1,
-    "t": "Lalu malaikat yang kelima meniup sangkakalanya, dan aku melihat sebuah bintang yang jatuh dari langit ke atas bumi, dan kepadanya diberikan anak kunci lobang jurang maut.",
-    "h": "Sangkakala yang kelima\n9:1-12",
-    "o": 1,
-    "l": "1"
-  },
-  {
-    "id": "66009002",
-    "b": 66,
-    "c": 9,
-    "v": 2,
-    "t": "Maka dibukanyalah pintu lobang jurang maut itu, lalu naiklah asap dari lobang itu bagaikan asap tanur besar, dan matahari dan angkasa menjadi gelap oleh asap lobang itu.",
-    "h": "",
-    "o": 2,
-    "l": "2"
-  },
-  {
-    "id": "66009003",
-    "b": 66,
-    "c": 9,
-    "v": 3,
-    "t": "Dan dari asap itu berkeluaranlah belalang-belalang ke atas bumi dan kepada mereka diberikan kuasa sama seperti kuasa kalajengking-kalajengking di bumi.",
-    "h": "",
-    "o": 3,
-    "l": "3"
-  },
-  {
-    "id": "66009004",
-    "b": 66,
-    "c": 9,
-    "v": 4,
-    "t": "Dan kepada mereka dipesankan, supaya mereka jangan merusakkan rumput-rumput di bumi atau tumbuh-tumbuhan ataupun pohon-pohon, melainkan hanya manusia yang tidak memakai meterai Allah di dahinya.",
-    "h": "",
-    "o": 4,
-    "l": "4"
-  },
-  {
-    "id": "66009005",
-    "b": 66,
-    "c": 9,
-    "v": 5,
-    "t": "Dan mereka diperkenankan bukan untuk membunuh manusia, melainkan hanya untuk menyiksa mereka lima bulan lamanya, dan siksaan itu seperti siksaan kalajengking, apabila ia menyengat manusia.",
-    "h": "",
-    "o": 5,
-    "l": "5"
-  },
-  {
-    "id": "66009006",
-    "b": 66,
-    "c": 9,
-    "v": 6,
-    "t": "Dan pada masa itu orang-orang akan mencari maut, tetapi mereka tidak akan menemukannya, dan mereka akan ingin mati, tetapi maut lari dari mereka.",
-    "h": "",
-    "o": 6,
-    "l": "6"
-  },
-  {
-    "id": "66009007",
-    "b": 66,
-    "c": 9,
-    "v": 7,
-    "t": "Dan rupa belalang-belalang itu sama seperti kuda yang disiapkan untuk peperangan, dan di atas kepala mereka ada sesuatu yang menyerupai mahkota emas, dan muka mereka sama seperti muka manusia,",
-    "h": "",
-    "o": 7,
-    "l": "7"
-  },
-  {
-    "id": "66009008",
-    "b": 66,
-    "c": 9,
-    "v": 8,
-    "t": "dan rambut mereka sama seperti rambut perempuan dan gigi mereka sama seperti gigi singa,",
-    "h": "",
-    "o": 8,
-    "l": "8"
-  },
-  {
-    "id": "66009009",
-    "b": 66,
-    "c": 9,
-    "v": 9,
-    "t": "dan dada mereka sama seperti baju zirah, dan bunyi sayap mereka bagaikan bunyi kereta-kereta yang ditarik banyak kuda, yang sedang lari ke medan peperangan.",
-    "h": "",
-    "o": 9,
-    "l": "9"
-  },
-  {
-    "id": "66009010",
-    "b": 66,
-    "c": 9,
-    "v": 10,
-    "t": "Dan ekor mereka sama seperti kalajengking dan ada sengatnya, dan di dalam ekor mereka itu terdapat kuasa mereka untuk menyakiti manusia, lima bulan lamanya.",
-    "h": "",
-    "o": 10,
-    "l": "10"
-  },
-  {
-    "id": "66009011",
-    "b": 66,
-    "c": 9,
-    "v": 11,
-    "t": "Dan raja yang memerintah mereka ialah malaikat jurang maut; namanya dalam bahasa Ibrani ialah Abadon dan dalam bahasa Yunani ialah Apolion.",
-    "h": "",
-    "o": 11,
-    "l": "11"
-  },
-  {
-    "id": "66009012",
-    "b": 66,
-    "c": 9,
-    "v": 12,
-    "t": "Celaka yang pertama sudah lewat. Sekarang akan menyusul dua celaka lagi.",
-    "h": "",
-    "o": 12,
-    "l": "12"
-  },
-  {
-    "id": "66009013",
-    "b": 66,
-    "c": 9,
-    "v": 13,
-    "t": "Lalu malaikat yang keenam meniup sangkakalanya, dan aku mendengar suatu suara keluar dari keempat tanduk mezbah emas yang di hadapan Allah,",
-    "h": "Sangkakala yang keenam\n9:13-21",
-    "o": 13,
-    "l": "13"
-  },
-  {
-    "id": "66009014",
-    "b": 66,
-    "c": 9,
-    "v": 14,
-    "t": "dan berkata kepada malaikat yang keenam yang memegang sangkakala itu: ”Lepaskanlah keempat malaikat yang terikat dekat sungai besar Efrat itu.”",
-    "h": "",
-    "o": 14,
-    "l": "14"
-  },
-  {
-    "id": "66009015",
-    "b": 66,
-    "c": 9,
-    "v": 15,
-    "t": "Maka dilepaskanlah keempat malaikat yang telah disiapkan bagi jam dan hari, bulan dan tahun untuk membunuh sepertiga dari umat manusia.",
-    "h": "",
-    "o": 15,
-    "l": "15"
-  },
-  {
-    "id": "66009016",
-    "b": 66,
-    "c": 9,
-    "v": 16,
-    "t": "Dan jumlah tentara itu ialah dua puluh ribu laksa pasukan berkuda; aku mendengar jumlah mereka.",
-    "h": "",
-    "o": 16,
-    "l": "16"
-  },
-  {
-    "id": "66009017",
-    "b": 66,
-    "c": 9,
-    "v": 17,
-    "t": "Maka demikianlah aku melihat dalam penglihatan ini kuda-kuda dan orang-orang yang menungganginya; mereka memakai baju zirah, merah api dan biru dan kuning belerang warnanya; kepala kuda-kuda itu sama seperti kepala singa, dan dari mulutnya keluar api, dan asap dan belerang.",
-    "h": "",
-    "o": 17,
-    "l": "17"
-  },
-  {
-    "id": "66009018",
-    "b": 66,
-    "c": 9,
-    "v": 18,
-    "t": "Oleh ketiga malapetaka ini dibunuh sepertiga dari umat manusia, yaitu oleh api, dan asap dan belerang, yang keluar dari mulutnya.",
-    "h": "",
-    "o": 18,
-    "l": "18"
-  },
-  {
-    "id": "66009019",
-    "b": 66,
-    "c": 9,
-    "v": 19,
-    "t": "Sebab kuasa kuda-kuda itu terdapat di dalam mulutnya dan di dalam ekornya. Sebab ekornya sama seperti ular; mereka berkepala dan dengan kepala mereka itu mereka mendatangkan kerusakan.",
-    "h": "",
-    "o": 19,
-    "l": "19"
-  },
-  {
-    "id": "66009020",
-    "b": 66,
-    "c": 9,
-    "v": 20,
-    "t": "Tetapi manusia lain, yang tidak mati oleh malapetaka itu, tidak juga bertobat dari perbuatan tangan mereka: mereka tidak berhenti menyembah roh-roh jahat dan berhala-berhala dari emas dan perak, dari tembaga, batu dan kayu yang tidak dapat melihat atau mendengar atau berjalan,",
-    "h": "",
-    "o": 20,
-    "l": "20"
-  },
-  {
-    "id": "66009021",
-    "b": 66,
-    "c": 9,
-    "v": 21,
-    "t": "dan mereka tidak bertobat dari pada pembunuhan, sihir, percabulan dan pencurian.",
-    "h": "",
-    "o": 21,
-    "l": "21"
-  },
-  {
-    "id": "66010001",
-    "b": 66,
-    "c": 10,
-    "v": 1,
-    "t": "Dan aku melihat seorang malaikat lain yang kuat turun dari sorga, berselubungkan awan, dan pelangi ada di atas kepalanya dan mukanya sama seperti matahari, dan kakinya bagaikan tiang api.",
-    "h": "Kitab terbuka\n10:1-11",
-    "o": 1,
-    "l": "1"
-  },
-  {
-    "id": "66010002",
-    "b": 66,
-    "c": 10,
-    "v": 2,
-    "t": "Dalam tangannya ia memegang sebuah gulungan kitab kecil yang terbuka. Ia menginjakkan kaki kanannya di atas laut dan kaki kirinya di atas bumi,",
-    "h": "",
-    "o": 2,
-    "l": "2"
-  },
-  {
-    "id": "66010003",
-    "b": 66,
-    "c": 10,
-    "v": 3,
-    "t": "dan ia berseru dengan suara nyaring sama seperti singa yang mengaum. Dan sesudah ia berseru, ketujuh guruh itu memperdengarkan suaranya.",
-    "h": "",
-    "o": 3,
-    "l": "3"
-  },
-  {
-    "id": "66010004",
-    "b": 66,
-    "c": 10,
-    "v": 4,
-    "t": "Dan sesudah ketujuh guruh itu selesai berbicara, aku mau menuliskannya, tetapi aku mendengar suatu suara dari sorga berkata: ”Meteraikanlah apa yang dikatakan oleh ketujuh guruh itu dan janganlah engkau menuliskannya!”",
-    "h": "",
-    "o": 4,
-    "l": "4"
-  },
-  {
-    "id": "66010005",
-    "b": 66,
-    "c": 10,
-    "v": 5,
-    "t": "Dan malaikat yang kulihat berdiri di atas laut dan di atas bumi, mengangkat tangan kanannya ke langit,",
-    "h": "",
-    "o": 5,
-    "l": "5"
-  },
-  {
-    "id": "66010006",
-    "b": 66,
-    "c": 10,
-    "v": 6,
-    "t": "dan ia bersumpah demi Dia yang hidup sampai selama-lamanya, yang telah menciptakan langit dan segala isinya, dan bumi dan segala isinya, dan laut dan segala isinya, katanya: ”Tidak akan ada penundaan lagi!",
-    "h": "",
-    "o": 6,
-    "l": "6"
-  },
-  {
-    "id": "66010007",
-    "b": 66,
-    "c": 10,
-    "v": 7,
-    "t": "Tetapi pada waktu bunyi sangkakala dari malaikat yang ketujuh, yaitu apabila ia meniup sangkakalanya, maka akan genaplah keputusan rahasia Allah, seperti yang telah Ia beritakan kepada hamba-hamba-Nya, yaitu para nabi.”",
-    "h": "",
-    "o": 7,
-    "l": "7"
-  },
-  {
-    "id": "66010008",
-    "b": 66,
-    "c": 10,
-    "v": 8,
-    "t": "Dan suara yang telah kudengar dari langit itu, berkata pula kepadaku, katanya: ”Pergilah, ambillah gulungan kitab yang terbuka di tangan malaikat, yang berdiri di atas laut dan di atas bumi itu.”",
-    "h": "",
-    "o": 8,
-    "l": "8"
-  },
-  {
-    "id": "66010009",
-    "b": 66,
-    "c": 10,
-    "v": 9,
-    "t": "Lalu aku pergi kepada malaikat itu dan meminta kepadanya, supaya ia memberikan gulungan kitab itu kepadaku. Katanya kepadaku: ”Ambillah dan makanlah dia; ia akan membuat perutmu terasa pahit, tetapi di dalam mulutmu ia akan terasa manis seperti madu.”",
-    "h": "",
-    "o": 9,
-    "l": "9"
-  },
-  {
-    "id": "66010010",
-    "b": 66,
-    "c": 10,
-    "v": 10,
-    "t": "Lalu aku mengambil kitab itu dari tangan malaikat itu, dan memakannya: di dalam mulutku ia terasa manis seperti madu, tetapi sesudah aku memakannya, perutku menjadi pahit rasanya.",
-    "h": "",
-    "o": 10,
-    "l": "10"
-  },
-  {
-    "id": "66010011",
-    "b": 66,
-    "c": 10,
-    "v": 11,
-    "t": "Maka ia berkata kepadaku: ”Engkau harus bernubuat lagi kepada banyak bangsa dan kaum dan bahasa dan raja.”",
-    "h": "",
-    "o": 11,
-    "l": "11"
-  },
-  {
-    "id": "66011001",
-    "b": 66,
-    "c": 11,
-    "v": 1,
-    "t": "Kemudian diberikanlah kepadaku sebatang buluh, seperti tongkat pengukur rupanya, dengan kata-kata yang berikut: ”Bangunlah dan ukurlah Bait Suci Allah dan mezbah dan mereka yang beribadah di dalamnya.",
-    "h": "Dua saksi Allah\n11:1-14",
-    "o": 1,
-    "l": "1"
-  },
-  {
-    "id": "66011002",
-    "b": 66,
-    "c": 11,
-    "v": 2,
-    "t": "Tetapi kecualikan pelataran Bait Suci yang di sebelah luar, janganlah engkau mengukurnya, karena ia telah diberikan kepada bangsa-bangsa lain dan mereka akan menginjak-injak Kota Suci empat puluh dua bulan lamanya.”",
-    "h": "",
-    "o": 2,
-    "l": "2"
-  },
-  {
-    "id": "66011003",
-    "b": 66,
-    "c": 11,
-    "v": 3,
-    "t": "Dan Aku akan memberi tugas kepada dua saksi-Ku, supaya mereka bernubuat sambil berkabung, seribu dua ratus enam puluh hari lamanya.",
-    "h": "",
-    "o": 3,
-    "l": "3"
-  },
-  {
-    "id": "66011004",
-    "b": 66,
-    "c": 11,
-    "v": 4,
-    "t": "Mereka adalah kedua pohon zaitun dan kedua kaki dian yang berdiri di hadapan Tuhan semesta alam.",
-    "h": "",
-    "o": 4,
-    "l": "4"
-  },
-  {
-    "id": "66011005",
-    "b": 66,
-    "c": 11,
-    "v": 5,
-    "t": "Dan jikalau ada orang yang hendak menyakiti mereka, keluarlah api dari mulut mereka menghanguskan semua musuh mereka. Dan jikalau ada orang yang hendak menyakiti mereka, maka orang itu harus mati secara itu.",
-    "h": "",
-    "o": 5,
-    "l": "5"
-  },
-  {
-    "id": "66011006",
-    "b": 66,
-    "c": 11,
-    "v": 6,
-    "t": "Mereka mempunyai kuasa menutup langit, supaya jangan turun hujan selama mereka bernubuat; dan mereka mempunyai kuasa atas segala air untuk mengubahnya menjadi darah, dan untuk memukul bumi dengan segala jenis malapetaka, setiap kali mereka menghendakinya.",
-    "h": "",
-    "o": 6,
-    "l": "6"
-  },
-  {
-    "id": "66011007",
-    "b": 66,
-    "c": 11,
-    "v": 7,
-    "t": "Dan apabila mereka telah menyelesaikan kesaksian mereka, maka binatang yang muncul dari jurang maut, akan memerangi mereka dan mengalahkan serta membunuh mereka.",
-    "h": "",
-    "o": 7,
-    "l": "7"
-  },
-  {
-    "id": "66011008",
-    "b": 66,
-    "c": 11,
-    "v": 8,
-    "t": "Dan mayat mereka akan terletak di atas jalan raya kota besar, yang secara rohani disebut Sodom dan Mesir, di mana juga Tuhan mereka disalibkan.",
-    "h": "",
-    "o": 8,
-    "l": "8"
-  },
-  {
-    "id": "66011009",
-    "b": 66,
-    "c": 11,
-    "v": 9,
-    "t": "Dan orang-orang dari segala bangsa dan suku dan bahasa dan kaum, melihat mayat mereka tiga setengah hari lamanya dan orang-orang itu tidak memperbolehkan mayat mereka dikuburkan.",
-    "h": "",
-    "o": 9,
-    "l": "9"
-  },
-  {
-    "id": "66011010",
-    "b": 66,
-    "c": 11,
-    "v": 10,
-    "t": "Dan mereka yang diam di atas bumi bergembira dan bersukacita atas mereka itu dan berpesta dan saling mengirim hadiah, karena kedua nabi itu telah merupakan siksaan bagi semua orang yang diam di atas bumi.",
-    "h": "",
-    "o": 10,
-    "l": "10"
-  },
-  {
-    "id": "66011011",
-    "b": 66,
-    "c": 11,
-    "v": 11,
-    "t": "Tiga setengah hari kemudian masuklah roh kehidupan dari Allah ke dalam mereka, sehingga mereka bangkit dan semua orang yang melihat mereka menjadi sangat takut.",
-    "h": "",
-    "o": 11,
-    "l": "11"
-  },
-  {
-    "id": "66011012",
-    "b": 66,
-    "c": 11,
-    "v": 12,
-    "t": "Dan orang-orang itu mendengar suatu suara yang nyaring dari sorga berkata kepada mereka: ”Naiklah ke mari!” Lalu naiklah mereka ke langit, diselubungi awan, disaksikan oleh musuh-musuh mereka.",
-    "h": "",
-    "o": 12,
-    "l": "12"
-  },
-  {
-    "id": "66011013",
-    "b": 66,
-    "c": 11,
-    "v": 13,
-    "t": "Pada saat itu terjadilah gempa bumi yang dahsyat dan sepersepuluh bagian dari kota itu rubuh, dan tujuh ribu orang mati oleh gempa bumi itu dan orang-orang lain sangat ketakutan, lalu memuliakan Allah yang di sorga.",
-    "h": "",
-    "o": 13,
-    "l": "13"
-  },
-  {
-    "id": "66011014",
-    "b": 66,
-    "c": 11,
-    "v": 14,
-    "t": "Celaka yang kedua sudah lewat: lihatlah, celaka yang ketiga segera menyusul.",
-    "h": "",
-    "o": 14,
-    "l": "14"
-  },
-  {
-    "id": "66011015",
-    "b": 66,
-    "c": 11,
-    "v": 15,
-    "t": "Lalu malaikat yang ketujuh meniup sangkakalanya, dan terdengarlah suara-suara nyaring di dalam sorga, katanya: ”Pemerintahan atas dunia dipegang oleh Tuhan kita dan Dia yang diurapi-Nya, dan Ia akan memerintah sebagai raja sampai selama-lamanya.”",
-    "h": "Sangkakala yang ketujuh\nNyanyian puji-pujian para tua-tua\n11:15-19",
-    "o": 15,
-    "l": "15"
-  },
-  {
-    "id": "66011016",
-    "b": 66,
-    "c": 11,
-    "v": 16,
-    "t": "Dan kedua puluh empat tua-tua, yang duduk di hadapan Allah di atas takhta mereka, tersungkur dan menyembah Allah,",
-    "h": "",
-    "o": 16,
-    "l": "16"
-  },
-  {
-    "id": "66011017",
-    "b": 66,
-    "c": 11,
-    "v": 17,
-    "t": "sambil berkata: ”Kami mengucap syukur kepada-Mu, ya Tuhan, Allah, Yang Mahakuasa, yang ada dan yang sudah ada, karena Engkau telah memangku kuasa-Mu yang besar dan telah mulai memerintah sebagai raja",
-    "h": "",
-    "o": 17,
-    "l": "17"
-  },
-  {
-    "id": "66011018",
-    "b": 66,
-    "c": 11,
-    "v": 18,
-    "t": "dan semua bangsa telah marah, tetapi amarah-Mu telah datang dan saat bagi orang-orang mati untuk dihakimi dan untuk memberi upah kepada hamba-hamba-Mu, nabi-nabi dan orang-orang kudus dan kepada mereka yang takut akan nama-Mu, kepada orang-orang kecil dan orang-orang besar dan untuk membinasakan barangsiapa yang membinasakan bumi.”",
-    "h": "",
-    "o": 18,
-    "l": "18"
-  },
-  {
-    "id": "66011019",
-    "b": 66,
-    "c": 11,
-    "v": 19,
-    "t": "Maka terbukalah Bait Suci Allah yang di sorga, dan kelihatanlah tabut perjanjian-Nya di dalam Bait Suci itu dan terjadilah kilat dan deru guruh dan gempa bumi dan hujan es lebat.",
-    "h": "",
-    "o": 19,
-    "l": "19"
-  },
-  {
-    "id": "66012001",
-    "b": 66,
-    "c": 12,
-    "v": 1,
-    "t": "Maka tampaklah suatu tanda besar di langit: Seorang perempuan berselubungkan matahari, dengan bulan di bawah kakinya dan sebuah mahkota dari dua belas bintang di atas kepalanya.",
-    "h": "Perempuan dan naga\n12:1-6",
-    "o": 1,
-    "l": "1"
-  },
-  {
-    "id": "66012002",
-    "b": 66,
-    "c": 12,
-    "v": 2,
-    "t": "Ia sedang mengandung dan dalam keluhan dan penderitaannya hendak melahirkan ia berteriak kesakitan.",
-    "h": "",
-    "o": 2,
-    "l": "2"
-  },
-  {
-    "id": "66012003",
-    "b": 66,
-    "c": 12,
-    "v": 3,
-    "t": "Maka tampaklah suatu tanda yang lain di langit; dan lihatlah, seekor naga merah padam yang besar, berkepala tujuh dan bertanduk sepuluh, dan di atas kepalanya ada tujuh mahkota.",
-    "h": "",
-    "o": 3,
-    "l": "3"
-  },
-  {
-    "id": "66012004",
-    "b": 66,
-    "c": 12,
-    "v": 4,
-    "t": "Dan ekornya menyeret sepertiga dari bintang-bintang di langit dan melemparkannya ke atas bumi. Dan naga itu berdiri di hadapan perempuan yang hendak melahirkan itu, untuk menelan Anaknya, segera sesudah perempuan itu melahirkan-Nya.",
-    "h": "",
-    "o": 4,
-    "l": "4"
-  },
-  {
-    "id": "66012005",
-    "b": 66,
-    "c": 12,
-    "v": 5,
-    "t": "Maka ia melahirkan seorang Anak laki-laki, yang akan menggembalakan semua bangsa dengan gada besi; tiba-tiba Anaknya itu dirampas dan dibawa lari kepada Allah dan ke takhta-Nya.",
-    "h": "",
-    "o": 5,
-    "l": "5"
-  },
-  {
-    "id": "66012006",
-    "b": 66,
-    "c": 12,
-    "v": 6,
-    "t": "Perempuan itu lari ke padang gurun, di mana telah disediakan suatu tempat baginya oleh Allah, supaya ia dipelihara di situ seribu dua ratus enam puluh hari lamanya.",
-    "h": "",
-    "o": 6,
-    "l": "6"
-  },
-  {
-    "id": "66012007",
-    "b": 66,
-    "c": 12,
-    "v": 7,
-    "t": "Maka timbullah peperangan di sorga. Mikhael dan malaikat-malaikatnya berperang melawan naga itu, dan naga itu dibantu oleh malaikat-malaikatnya,",
-    "h": "Naga dikalahkan\n12:7-9",
-    "o": 7,
-    "l": "7"
-  },
-  {
-    "id": "66012008",
-    "b": 66,
-    "c": 12,
-    "v": 8,
-    "t": "tetapi mereka tidak dapat bertahan; mereka tidak mendapat tempat lagi di sorga.",
-    "h": "",
-    "o": 8,
-    "l": "8"
-  },
-  {
-    "id": "66012009",
-    "b": 66,
-    "c": 12,
-    "v": 9,
-    "t": "Dan naga besar itu, si ular tua, yang disebut Iblis atau Satan, yang menyesatkan seluruh dunia, dilemparkan ke bawah; ia dilemparkan ke bumi, bersama-sama dengan malaikat-malaikatnya.",
-    "h": "",
-    "o": 9,
-    "l": "9"
-  },
-  {
-    "id": "66012010",
-    "b": 66,
-    "c": 12,
-    "v": 10,
-    "t": "Dan aku mendengar suara yang nyaring di sorga berkata: ”Sekarang telah tiba keselamatan dan kuasa dan pemerintahan Allah kita, dan kekuasaan Dia yang diurapi-Nya, karena telah dilemparkan ke bawah pendakwa saudara-saudara kita, yang mendakwa mereka siang dan malam di hadapan Allah kita.",
-    "h": "Nyanyian kemenangan\n12:10-12",
-    "o": 10,
-    "l": "10"
-  },
-  {
-    "id": "66012011",
-    "b": 66,
-    "c": 12,
-    "v": 11,
-    "t": "Dan mereka mengalahkan dia oleh darah Anak Domba, dan oleh perkataan kesaksian mereka. Karena mereka tidak mengasihi nyawa mereka sampai ke dalam maut.",
-    "h": "",
-    "o": 11,
-    "l": "11"
-  },
-  {
-    "id": "66012012",
-    "b": 66,
-    "c": 12,
-    "v": 12,
-    "t": "Karena itu bersukacitalah, hai sorga dan hai kamu sekalian yang diam di dalamnya, celakalah kamu, hai bumi dan laut! karena Iblis telah turun kepadamu, dalam geramnya yang dahsyat, karena ia tahu, bahwa waktunya sudah singkat.”",
-    "h": "",
-    "o": 12,
-    "l": "12"
-  },
-  {
-    "id": "66012013",
-    "b": 66,
-    "c": 12,
-    "v": 13,
-    "t": "Dan ketika naga itu sadar, bahwa ia telah dilemparkan di atas bumi, ia memburu perempuan yang melahirkan Anak laki-laki itu.",
-    "h": "Naga memburu perempuan itu\n12:13-18",
-    "o": 13,
-    "l": "13"
-  },
-  {
-    "id": "66012014",
-    "b": 66,
-    "c": 12,
-    "v": 14,
-    "t": "Kepada perempuan itu diberikan kedua sayap dari burung nasar yang besar, supaya ia terbang ke tempatnya di padang gurun, di mana ia dipelihara jauh dari tempat ular itu selama satu masa dan dua masa dan setengah masa.",
-    "h": "",
-    "o": 14,
-    "l": "14"
-  },
-  {
-    "id": "66012015",
-    "b": 66,
-    "c": 12,
-    "v": 15,
-    "t": "Lalu ular itu menyemburkan dari mulutnya air, sebesar sungai, ke arah perempuan itu, supaya ia dihanyutkan sungai itu.",
-    "h": "",
-    "o": 15,
-    "l": "15"
-  },
-  {
-    "id": "66012016",
-    "b": 66,
-    "c": 12,
-    "v": 16,
-    "t": "Tetapi bumi datang menolong perempuan itu. Ia membuka mulutnya, dan menelan sungai yang disemburkan naga itu dari mulutnya.",
-    "h": "",
-    "o": 16,
-    "l": "16"
-  },
-  {
-    "id": "66012017",
-    "b": 66,
-    "c": 12,
-    "v": 17,
-    "t": "Maka marahlah naga itu kepada perempuan itu, lalu pergi memerangi keturunannya yang lain, yang menuruti hukum-hukum Allah dan memiliki kesaksian Yesus.",
-    "h": "",
-    "o": 17,
-    "l": "17"
-  },
-  {
-    "id": "66012018",
-    "b": 66,
-    "c": 12,
-    "v": 18,
-    "t": "Dan ia tinggal berdiri di pantai laut.",
-    "h": "",
-    "o": 18,
-    "l": "18"
-  },
-  {
-    "id": "66013001",
-    "b": 66,
-    "c": 13,
-    "v": 1,
-    "t": "Lalu aku melihat seekor binatang keluar dari dalam laut, bertanduk sepuluh dan berkepala tujuh; di atas tanduk-tanduknya terdapat sepuluh mahkota dan pada kepalanya tertulis nama-nama hujat.",
-    "h": "Binatang yang keluar dari dalam laut\n13:1-10",
-    "o": 1,
-    "l": "1"
-  },
-  {
-    "id": "66013002",
-    "b": 66,
-    "c": 13,
-    "v": 2,
-    "t": "Binatang yang kulihat itu serupa dengan macan tutul, dan kakinya seperti kaki beruang dan mulutnya seperti mulut singa. Dan naga itu memberikan kepadanya kekuatannya, dan takhtanya dan kekuasaannya yang besar.",
-    "h": "",
-    "o": 2,
-    "l": "2"
-  },
-  {
-    "id": "66013003",
-    "b": 66,
-    "c": 13,
-    "v": 3,
-    "t": "Maka tampaklah kepadaku satu dari kepala-kepalanya seperti kena luka yang membahayakan hidupnya, tetapi luka yang membahayakan hidupnya itu sembuh. Seluruh dunia heran, lalu mengikut binatang itu.",
-    "h": "",
-    "o": 3,
-    "l": "3"
-  },
-  {
-    "id": "66013004",
-    "b": 66,
-    "c": 13,
-    "v": 4,
-    "t": "Dan mereka menyembah naga itu, karena ia memberikan kekuasaan kepada binatang itu. Dan mereka menyembah binatang itu, sambil berkata: ”Siapakah yang sama seperti binatang ini? Dan siapakah yang dapat berperang melawan dia?”",
-    "h": "",
-    "o": 4,
-    "l": "4"
-  },
-  {
-    "id": "66013005",
-    "b": 66,
-    "c": 13,
-    "v": 5,
-    "t": "Dan kepada binatang itu diberikan mulut, yang penuh kesombongan dan hujat; kepadanya diberikan juga kuasa untuk melakukannya empat puluh dua bulan lamanya.",
-    "h": "",
-    "o": 5,
-    "l": "5"
-  },
-  {
-    "id": "66013006",
-    "b": 66,
-    "c": 13,
-    "v": 6,
-    "t": "Lalu ia membuka mulutnya untuk menghujat Allah, menghujat nama-Nya dan kemah kediaman-Nya dan semua mereka yang diam di sorga.",
-    "h": "",
-    "o": 6,
-    "l": "6"
-  },
-  {
-    "id": "66013007",
-    "b": 66,
-    "c": 13,
-    "v": 7,
-    "t": "Dan ia diperkenankan untuk berperang melawan orang-orang kudus dan untuk mengalahkan mereka; dan kepadanya diberikan kuasa atas setiap suku dan umat dan bahasa dan bangsa.",
-    "h": "",
-    "o": 7,
-    "l": "7"
-  },
-  {
-    "id": "66013008",
-    "b": 66,
-    "c": 13,
-    "v": 8,
-    "t": "Dan semua orang yang diam di atas bumi akan menyembahnya, yaitu setiap orang yang namanya tidak tertulis sejak dunia dijadikan di dalam kitab kehidupan dari Anak Domba, yang telah disembelih.",
-    "h": "",
-    "o": 8,
-    "l": "8"
-  },
-  {
-    "id": "66013009",
-    "b": 66,
-    "c": 13,
-    "v": 9,
-    "t": "Barangsiapa bertelinga, hendaklah ia mendengar!",
-    "h": "",
-    "o": 9,
-    "l": "9"
-  },
-  {
-    "id": "66013010",
-    "b": 66,
-    "c": 13,
-    "v": 10,
-    "t": "Barangsiapa ditentukan untuk ditawan, ia akan ditawan; barangsiapa ditentukan untuk dibunuh dengan pedang, ia harus dibunuh dengan pedang. Yang penting di sini ialah ketabahan dan iman orang-orang kudus.",
-    "h": "",
-    "o": 10,
-    "l": "10"
-  },
-  {
-    "id": "66013011",
-    "b": 66,
-    "c": 13,
-    "v": 11,
-    "t": "Dan aku melihat seekor binatang lain keluar dari dalam bumi dan bertanduk dua sama seperti anak domba dan ia berbicara seperti seekor naga.",
-    "h": "Binatang yang keluar dari dalam bumi\n13:11-18",
-    "o": 11,
-    "l": "11"
-  },
-  {
-    "id": "66013012",
-    "b": 66,
-    "c": 13,
-    "v": 12,
-    "t": "Dan seluruh kuasa binatang yang pertama itu dijalankannya di depan matanya. Ia menyebabkan seluruh bumi dan semua penghuninya menyembah binatang pertama, yang luka parahnya telah sembuh.",
-    "h": "",
-    "o": 12,
-    "l": "12"
-  },
-  {
-    "id": "66013013",
-    "b": 66,
-    "c": 13,
-    "v": 13,
-    "t": "Dan ia mengadakan tanda-tanda yang dahsyat, bahkan ia menurunkan api dari langit ke bumi di depan mata semua orang.",
-    "h": "",
-    "o": 13,
-    "l": "13"
-  },
-  {
-    "id": "66013014",
-    "b": 66,
-    "c": 13,
-    "v": 14,
-    "t": "Ia menyesatkan mereka yang diam di bumi dengan tanda-tanda, yang telah diberikan kepadanya untuk dilakukannya di depan mata binatang itu. Dan ia menyuruh mereka yang diam di bumi, supaya mereka mendirikan patung untuk menghormati binatang yang luka oleh pedang, namun yang tetap hidup itu.",
-    "h": "",
-    "o": 14,
-    "l": "14"
-  },
-  {
-    "id": "66013015",
-    "b": 66,
-    "c": 13,
-    "v": 15,
-    "t": "Dan kepadanya diberikan kuasa untuk memberikan nyawa kepada patung binatang itu, sehingga patung binatang itu berbicara juga, dan bertindak begitu rupa, sehingga semua orang, yang tidak menyembah patung binatang itu, dibunuh.",
-    "h": "",
-    "o": 15,
-    "l": "15"
-  },
-  {
-    "id": "66013016",
-    "b": 66,
-    "c": 13,
-    "v": 16,
-    "t": "Dan ia menyebabkan, sehingga kepada semua orang, kecil atau besar, kaya atau miskin, merdeka atau hamba, diberi tanda pada tangan kanannya atau pada dahinya,",
-    "h": "",
-    "o": 16,
-    "l": "16"
-  },
-  {
-    "id": "66013017",
-    "b": 66,
-    "c": 13,
-    "v": 17,
-    "t": "dan tidak seorang pun yang dapat membeli atau menjual selain dari pada mereka yang memakai tanda itu, yaitu nama binatang itu atau bilangan namanya.",
-    "h": "",
-    "o": 17,
-    "l": "17"
-  },
-  {
-    "id": "66013018",
-    "b": 66,
-    "c": 13,
-    "v": 18,
-    "t": "Yang penting di sini ialah hikmat: barangsiapa yang bijaksana, baiklah ia menghitung bilangan binatang itu, karena bilangan itu adalah bilangan seorang manusia, dan bilangannya ialah enam ratus enam puluh enam.",
-    "h": "",
-    "o": 18,
-    "l": "18"
-  },
-  {
-    "id": "66014001",
-    "b": 66,
-    "c": 14,
-    "v": 1,
-    "t": "Dan aku melihat: sesungguhnya, Anak Domba berdiri di bukit Sion dan bersama-sama dengan Dia seratus empat puluh empat ribu orang dan di dahi mereka tertulis nama-Nya dan nama Bapa-Nya.",
-    "h": "Anak Domba dan pengikut-Nya yang ditebus-Nya\n14:1-5",
-    "o": 1,
-    "l": "1"
-  },
-  {
-    "id": "66014002",
-    "b": 66,
-    "c": 14,
-    "v": 2,
-    "t": "Dan aku mendengar suatu suara dari langit bagaikan desau air bah dan bagaikan deru guruh yang dahsyat. Dan suara yang kudengar itu seperti bunyi pemain-pemain kecapi yang memetik kecapinya.",
-    "h": "",
-    "o": 2,
-    "l": "2"
-  },
-  {
-    "id": "66014003",
-    "b": 66,
-    "c": 14,
-    "v": 3,
-    "t": "Mereka menyanyikan suatu nyanyian baru di hadapan takhta dan di depan keempat makhluk dan tua-tua itu, dan tidak seorang pun yang dapat mempelajari nyanyian itu selain dari pada seratus empat puluh empat ribu orang yang telah ditebus dari bumi itu.",
-    "h": "",
-    "o": 3,
-    "l": "3"
-  },
-  {
-    "id": "66014004",
-    "b": 66,
-    "c": 14,
-    "v": 4,
-    "t": "Mereka adalah orang-orang yang tidak mencemarkan dirinya dengan perempuan-perempuan, karena mereka murni sama seperti perawan. Mereka adalah orang-orang yang mengikuti Anak Domba itu ke mana saja Ia pergi. Mereka ditebus dari antara manusia sebagai korban-korban sulung bagi Allah dan bagi Anak Domba itu.",
-    "h": "",
-    "o": 4,
-    "l": "4"
-  },
-  {
-    "id": "66014005",
-    "b": 66,
-    "c": 14,
-    "v": 5,
-    "t": "Dan di dalam mulut mereka tidak terdapat dusta; mereka tidak bercela.",
-    "h": "",
-    "o": 5,
-    "l": "5"
-  },
-  {
-    "id": "66014006",
-    "b": 66,
-    "c": 14,
-    "v": 6,
-    "t": "Dan aku melihat seorang malaikat lain terbang di tengah-tengah langit dan padanya ada Injil yang kekal untuk diberitakannya kepada mereka yang diam di atas bumi dan kepada semua bangsa dan suku dan bahasa dan kaum,",
-    "h": "Pemberitahuan tentang penghakiman\n14:6-13",
-    "o": 6,
-    "l": "6"
-  },
-  {
-    "id": "66014007",
-    "b": 66,
-    "c": 14,
-    "v": 7,
-    "t": "dan ia berseru dengan suara nyaring: ”Takutlah akan Allah dan muliakanlah Dia, karena telah tiba saat penghakiman-Nya, dan sembahlah Dia yang telah menjadikan langit dan bumi dan laut dan semua mata air.”",
-    "h": "",
-    "o": 7,
-    "l": "7"
-  },
-  {
-    "id": "66014008",
-    "b": 66,
-    "c": 14,
-    "v": 8,
-    "t": "Dan seorang malaikat lain, malaikat kedua, menyusul dia dan berkata: ”Sudah rubuh, sudah rubuh Babel, kota besar itu, yang telah memabukkan segala bangsa dengan anggur hawa nafsu cabulnya.”",
-    "h": "",
-    "o": 8,
-    "l": "8"
-  },
-  {
-    "id": "66014009",
-    "b": 66,
-    "c": 14,
-    "v": 9,
-    "t": "Dan seorang malaikat lain, malaikat ketiga, menyusul mereka, dan berkata dengan suara nyaring: ”Jikalau seorang menyembah binatang dan patungnya itu, dan menerima tanda pada dahinya atau pada tangannya,",
-    "h": "",
-    "o": 9,
-    "l": "9"
-  },
-  {
-    "id": "66014010",
-    "b": 66,
-    "c": 14,
-    "v": 10,
-    "t": "maka ia akan minum dari anggur murka Allah, yang disediakan tanpa campuran dalam cawan murka-Nya; dan ia akan disiksa dengan api dan belerang di depan mata malaikat-malaikat kudus dan di depan mata Anak Domba.",
-    "h": "",
-    "o": 10,
-    "l": "10"
-  },
-  {
-    "id": "66014011",
-    "b": 66,
-    "c": 14,
-    "v": 11,
-    "t": "Maka asap api yang menyiksa mereka itu naik ke atas sampai selama-lamanya, dan siang malam mereka tidak henti-hentinya disiksa, yaitu mereka yang menyembah binatang serta patungnya itu, dan barangsiapa yang telah menerima tanda namanya.”",
-    "h": "",
-    "o": 11,
-    "l": "11"
-  },
-  {
-    "id": "66014012",
-    "b": 66,
-    "c": 14,
-    "v": 12,
-    "t": "Yang penting di sini ialah ketekunan orang-orang kudus, yang menuruti perintah Allah dan iman kepada Yesus.",
-    "h": "",
-    "o": 12,
-    "l": "12"
-  },
-  {
-    "id": "66014013",
-    "b": 66,
-    "c": 14,
-    "v": 13,
-    "t": "Dan aku mendengar suara dari sorga berkata: Tuliskan: ”Berbahagialah orang-orang mati yang mati dalam Tuhan, sejak sekarang ini.” ”Sungguh,” kata Roh, ”supaya mereka boleh beristirahat dari jerih lelah mereka, karena segala perbuatan mereka menyertai mereka.”",
-    "h": "",
-    "o": 13,
-    "l": "13"
-  },
-  {
-    "id": "66014014",
-    "b": 66,
-    "c": 14,
-    "v": 14,
-    "t": "Dan aku melihat: sesungguhnya, ada suatu awan putih, dan di atas awan itu duduk seorang seperti Anak Manusia dengan sebuah mahkota emas di atas kepala-Nya dan sebilah sabit tajam di tangan-Nya.",
-    "h": "Tuaian di bumi\n14:14-20",
-    "o": 14,
-    "l": "14"
-  },
-  {
-    "id": "66014015",
-    "b": 66,
-    "c": 14,
-    "v": 15,
-    "t": "Maka keluarlah seorang malaikat lain dari Bait Suci; dan ia berseru dengan suara nyaring kepada Dia yang duduk di atas awan itu: ”Ayunkanlah sabit-Mu itu dan tuailah, karena sudah tiba saatnya untuk menuai; sebab tuaian di bumi sudah masak.”",
-    "h": "",
-    "o": 15,
-    "l": "15"
-  },
-  {
-    "id": "66014016",
-    "b": 66,
-    "c": 14,
-    "v": 16,
-    "t": "Dan Ia, yang duduk di atas awan itu, mengayunkan sabit-Nya ke atas bumi, dan bumi pun dituailah.",
-    "h": "",
-    "o": 16,
-    "l": "16"
-  },
-  {
-    "id": "66014017",
-    "b": 66,
-    "c": 14,
-    "v": 17,
-    "t": "Dan seorang malaikat lain keluar dari Bait Suci yang di sorga; juga padanya ada sebilah sabit tajam.",
-    "h": "",
-    "o": 17,
-    "l": "17"
-  },
-  {
-    "id": "66014018",
-    "b": 66,
-    "c": 14,
-    "v": 18,
-    "t": "Dan seorang malaikat lain datang dari mezbah; ia berkuasa atas api dan ia berseru dengan suara nyaring kepada malaikat yang memegang sabit tajam itu, katanya: ”Ayunkanlah sabitmu yang tajam itu dan potonglah buah-buah pohon anggur di bumi, karena buahnya sudah masak.”",
-    "h": "",
-    "o": 18,
-    "l": "18"
-  },
-  {
-    "id": "66014019",
-    "b": 66,
-    "c": 14,
-    "v": 19,
-    "t": "Lalu malaikat itu mengayunkan sabitnya ke atas bumi, dan memotong buah pohon anggur di bumi dan melemparkannya ke dalam kilangan besar, yaitu murka Allah.",
-    "h": "",
-    "o": 19,
-    "l": "19"
-  },
-  {
-    "id": "66014020",
-    "b": 66,
-    "c": 14,
-    "v": 20,
-    "t": "Dan buah-buah anggur itu dikilang di luar kota dan dari kilangan itu mengalir darah, tingginya sampai ke kekang kuda dan jauhnya dua ratus mil.",
-    "h": "",
-    "o": 20,
-    "l": "20"
-  },
-  {
-    "id": "66015001",
-    "b": 66,
-    "c": 15,
-    "v": 1,
-    "t": "Dan aku melihat suatu tanda lain di langit, besar dan ajaib: tujuh malaikat dengan tujuh malapetaka terakhir, karena dengan itu berakhirlah murka Allah.",
-    "h": "Nyanyian mereka yang menang\n15:1-4",
-    "o": 1,
-    "l": "1"
-  },
-  {
-    "id": "66015002",
-    "b": 66,
-    "c": 15,
-    "v": 2,
-    "t": "Dan aku melihat sesuatu bagaikan lautan kaca bercampur api, dan di tepi lautan kaca itu berdiri orang-orang yang telah mengalahkan binatang itu dan patungnya dan bilangan namanya. Pada mereka ada kecapi Allah.",
-    "h": "",
-    "o": 2,
-    "l": "2"
-  },
-  {
-    "id": "66015003",
-    "b": 66,
-    "c": 15,
-    "v": 3,
-    "t": "Dan mereka menyanyikan nyanyian Musa, hamba Allah, dan nyanyian Anak Domba, bunyinya: ”Besar dan ajaib segala pekerjaan-Mu, ya Tuhan, Allah, Yang Mahakuasa! Adil dan benar segala jalan-Mu, ya Raja segala bangsa!",
-    "h": "",
-    "o": 3,
-    "l": "3"
-  },
-  {
-    "id": "66015004",
-    "b": 66,
-    "c": 15,
-    "v": 4,
-    "t": "Siapakah yang tidak takut, ya Tuhan, dan yang tidak memuliakan nama-Mu? Sebab Engkau saja yang kudus; karena semua bangsa akan datang dan sujud menyembah Engkau, sebab telah nyata kebenaran segala penghakiman-Mu.”",
-    "h": "",
-    "o": 4,
-    "l": "4"
-  },
-  {
-    "id": "66015005",
-    "b": 66,
-    "c": 15,
-    "v": 5,
-    "t": "Kemudian dari pada itu aku melihat orang membuka Bait Suci – kemah kesaksian – di sorga.",
-    "h": "Tujuh malaikat dengan tujuh cawan murka Allah\n15:5-8",
-    "o": 5,
-    "l": "5"
-  },
-  {
-    "id": "66015006",
-    "b": 66,
-    "c": 15,
-    "v": 6,
-    "t": "Dan ketujuh malaikat dengan ketujuh malapetaka itu, keluar dari Bait Suci, berpakaian lenan yang putih bersih dan berkilau-kilauan dan dadanya berlilitkan ikat pinggang dari emas.",
-    "h": "",
-    "o": 6,
-    "l": "6"
-  },
-  {
-    "id": "66015007",
-    "b": 66,
-    "c": 15,
-    "v": 7,
-    "t": "Dan satu dari keempat makhluk itu memberikan kepada ketujuh malaikat itu tujuh cawan dari emas yang penuh berisi murka Allah, yaitu Allah yang hidup sampai selama-lamanya.",
-    "h": "",
-    "o": 7,
-    "l": "7"
-  },
-  {
-    "id": "66015008",
-    "b": 66,
-    "c": 15,
-    "v": 8,
-    "t": "Dan Bait Suci itu dipenuhi asap karena kemuliaan Allah dan karena kuasa-Nya, dan seorang pun tidak dapat memasuki Bait Suci itu, sebelum berakhir ketujuh malapetaka dari ketujuh malaikat itu.",
-    "h": "",
-    "o": 8,
-    "l": "8"
-  },
-  {
-    "id": "66016001",
-    "b": 66,
-    "c": 16,
-    "v": 1,
-    "t": "Dan aku mendengar suara yang nyaring dari dalam Bait Suci berkata kepada ketujuh malaikat itu: ”Pergilah dan tumpahkanlah ketujuh cawan murka Allah itu ke atas bumi.”",
-    "h": "Ketujuh malapetaka\n16:1-21",
-    "o": 1,
-    "l": "1"
-  },
-  {
-    "id": "66016002",
-    "b": 66,
-    "c": 16,
-    "v": 2,
-    "t": "Maka pergilah malaikat yang pertama dan ia menumpahkan cawannya ke atas bumi; maka timbullah bisul yang jahat dan yang berbahaya pada semua orang yang memakai tanda dari binatang itu dan yang menyembah patungnya.",
-    "h": "",
-    "o": 2,
-    "l": "2"
-  },
-  {
-    "id": "66016003",
-    "b": 66,
-    "c": 16,
-    "v": 3,
-    "t": "Dan malaikat yang kedua menumpahkan cawannya ke atas laut; maka airnya menjadi darah, seperti darah orang mati dan matilah segala yang bernyawa, yang hidup di dalam laut.",
-    "h": "",
-    "o": 3,
-    "l": "3"
-  },
-  {
-    "id": "66016004",
-    "b": 66,
-    "c": 16,
-    "v": 4,
-    "t": "Dan malaikat yang ketiga menumpahkan cawannya atas sungai-sungai dan mata-mata air, dan semuanya menjadi darah.",
-    "h": "",
-    "o": 4,
-    "l": "4"
-  },
-  {
-    "id": "66016005",
-    "b": 66,
-    "c": 16,
-    "v": 5,
-    "t": "Dan aku mendengar malaikat yang berkuasa atas air itu berkata: ”Adil Engkau, Engkau yang ada dan yang sudah ada, Engkau yang kudus, yang telah menjatuhkan hukuman ini.",
-    "h": "",
-    "o": 5,
-    "l": "5"
-  },
-  {
-    "id": "66016006",
-    "b": 66,
-    "c": 16,
-    "v": 6,
-    "t": "Karena mereka telah menumpahkan darah orang-orang kudus dan para nabi, Engkau juga telah memberi mereka minum darah; hal itu wajar bagi mereka!”",
-    "h": "",
-    "o": 6,
-    "l": "6"
-  },
-  {
-    "id": "66016007",
-    "b": 66,
-    "c": 16,
-    "v": 7,
-    "t": "Dan aku mendengar mezbah itu berkata: ”Ya Tuhan, Allah, Yang Mahakuasa, benar dan adil segala penghakiman-Mu.”",
-    "h": "",
-    "o": 7,
-    "l": "7"
-  },
-  {
-    "id": "66016008",
-    "b": 66,
-    "c": 16,
-    "v": 8,
-    "t": "Dan malaikat yang keempat menumpahkan cawannya ke atas matahari, dan kepadanya diberi kuasa untuk menghanguskan manusia dengan api.",
-    "h": "",
-    "o": 8,
-    "l": "8"
-  },
-  {
-    "id": "66016009",
-    "b": 66,
-    "c": 16,
-    "v": 9,
-    "t": "Dan manusia dihanguskan oleh panas api yang dahsyat, dan mereka menghujat nama Allah yang berkuasa atas malapetaka-malapetaka itu dan mereka tidak bertobat untuk memuliakan Dia.",
-    "h": "",
-    "o": 9,
-    "l": "9"
-  },
-  {
-    "id": "66016010",
-    "b": 66,
-    "c": 16,
-    "v": 10,
-    "t": "Dan malaikat yang kelima menumpahkan cawannya ke atas takhta binatang itu dan kerajaannya menjadi gelap, dan mereka menggigit lidah mereka karena kesakitan,",
-    "h": "",
-    "o": 10,
-    "l": "10"
-  },
-  {
-    "id": "66016011",
-    "b": 66,
-    "c": 16,
-    "v": 11,
-    "t": "dan mereka menghujat Allah yang di sorga karena kesakitan dan karena bisul mereka, tetapi mereka tidak bertobat dari perbuatan-perbuatan mereka.",
-    "h": "",
-    "o": 11,
-    "l": "11"
-  },
-  {
-    "id": "66016012",
-    "b": 66,
-    "c": 16,
-    "v": 12,
-    "t": "Dan malaikat yang keenam menumpahkan cawannya ke atas sungai yang besar, sungai Efrat, lalu keringlah airnya, supaya siaplah jalan bagi raja-raja yang datang dari sebelah timur.",
-    "h": "",
-    "o": 12,
-    "l": "12"
-  },
-  {
-    "id": "66016013",
-    "b": 66,
-    "c": 16,
-    "v": 13,
-    "t": "Dan aku melihat dari mulut naga dan dari mulut binatang dan dari mulut nabi palsu itu keluar tiga roh najis yang menyerupai katak.",
-    "h": "",
-    "o": 13,
-    "l": "13"
-  },
-  {
-    "id": "66016014",
-    "b": 66,
-    "c": 16,
-    "v": 14,
-    "t": "Itulah roh-roh setan yang mengadakan perbuatan-perbuatan ajaib, dan mereka pergi mendapatkan raja-raja di seluruh dunia, untuk mengumpulkan mereka guna peperangan pada hari besar, yaitu hari Allah Yang Mahakuasa.",
-    "h": "",
-    "o": 14,
-    "l": "14"
-  },
-  {
-    "id": "66016015",
-    "b": 66,
-    "c": 16,
-    "v": 15,
-    "t": "”Lihatlah, Aku datang seperti pencuri. Berbahagialah dia, yang berjaga-jaga dan yang memperhatikan pakaiannya, supaya ia jangan berjalan dengan telanjang dan jangan kelihatan kemaluannya.”",
-    "h": "",
-    "o": 15,
-    "l": "15"
-  },
-  {
-    "id": "66016016",
-    "b": 66,
-    "c": 16,
-    "v": 16,
-    "t": "Lalu ia mengumpulkan mereka di tempat, yang dalam bahasa Ibrani disebut Harmagedon.",
-    "h": "",
-    "o": 16,
-    "l": "16"
-  },
-  {
-    "id": "66016017",
-    "b": 66,
-    "c": 16,
-    "v": 17,
-    "t": "Dan malaikat yang ketujuh menumpahkan cawannya ke angkasa. Dan dari dalam Bait Suci kedengaranlah suara yang nyaring dari takhta itu, katanya: ”Sudah terlaksana.”",
-    "h": "",
-    "o": 17,
-    "l": "17"
-  },
-  {
-    "id": "66016018",
-    "b": 66,
-    "c": 16,
-    "v": 18,
-    "t": "Maka memancarlah kilat dan menderulah bunyi guruh, dan terjadilah gempa bumi yang dahsyat seperti belum pernah terjadi sejak manusia ada di atas bumi. Begitu hebatnya gempa bumi itu.",
-    "h": "",
-    "o": 18,
-    "l": "18"
-  },
-  {
-    "id": "66016019",
-    "b": 66,
-    "c": 16,
-    "v": 19,
-    "t": "Lalu terbelahlah kota besar itu menjadi tiga bagian dan runtuhlah kota-kota bangsa-bangsa yang tidak mengenal Allah. Maka teringatlah Allah akan Babel yang besar itu untuk memberikan kepadanya cawan yang penuh dengan anggur kegeraman murka-Nya.",
-    "h": "",
-    "o": 19,
-    "l": "19"
-  },
-  {
-    "id": "66016020",
-    "b": 66,
-    "c": 16,
-    "v": 20,
-    "t": "Dan semua pulau hilang lenyap, dan tidak ditemukan lagi gunung-gunung.",
-    "h": "",
-    "o": 20,
-    "l": "20"
-  },
-  {
-    "id": "66016021",
-    "b": 66,
-    "c": 16,
-    "v": 21,
-    "t": "Dan hujan es besar, seberat seratus pon, jatuh dari langit menimpa manusia, dan manusia menghujat Allah karena malapetaka hujan es itu, sebab malapetaka itu sangat dahsyat.",
-    "h": "",
-    "o": 21,
-    "l": "21"
-  },
-  {
-    "id": "66017001",
-    "b": 66,
-    "c": 17,
-    "v": 1,
-    "t": "Lalu datanglah seorang dari ketujuh malaikat, yang membawa ketujuh cawan itu dan berkata kepadaku: ”Mari ke sini, aku akan menunjukkan kepadamu putusan atas pelacur besar, yang duduk di tempat yang banyak airnya.",
-    "h": "Penghakiman atas Babel\n17:1-18",
-    "o": 1,
-    "l": "1"
-  },
-  {
-    "id": "66017002",
-    "b": 66,
-    "c": 17,
-    "v": 2,
-    "t": "Dengan dia raja-raja di bumi telah berbuat cabul, dan penghuni-penghuni bumi telah mabuk oleh anggur percabulannya.”",
-    "h": "",
-    "o": 2,
-    "l": "2"
-  },
-  {
-    "id": "66017003",
-    "b": 66,
-    "c": 17,
-    "v": 3,
-    "t": "Dalam roh aku dibawanya ke padang gurun. Dan aku melihat seorang perempuan duduk di atas seekor binatang yang merah ungu, yang penuh tertulis dengan nama-nama hujat. Binatang itu mempunyai tujuh kepala dan sepuluh tanduk.",
-    "h": "",
-    "o": 3,
-    "l": "3"
-  },
-  {
-    "id": "66017004",
-    "b": 66,
-    "c": 17,
-    "v": 4,
-    "t": "Dan perempuan itu memakai kain ungu dan kain kirmizi yang dihiasi dengan emas, permata dan mutiara, dan di tangannya ada suatu cawan emas penuh dengan segala kekejian dan kenajisan percabulannya.",
-    "h": "",
-    "o": 4,
-    "l": "4"
-  },
-  {
-    "id": "66017005",
-    "b": 66,
-    "c": 17,
-    "v": 5,
-    "t": "Dan pada dahinya tertulis suatu nama, suatu rahasia: ”Babel besar, ibu dari wanita-wanita pelacur dan dari kekejian bumi.”",
-    "h": "",
-    "o": 5,
-    "l": "5"
-  },
-  {
-    "id": "66017006",
-    "b": 66,
-    "c": 17,
-    "v": 6,
-    "t": "Dan aku melihat perempuan itu mabuk oleh darah orang-orang kudus dan darah saksi-saksi Yesus. Dan ketika aku melihatnya, aku sangat heran.",
-    "h": "",
-    "o": 6,
-    "l": "6"
-  },
-  {
-    "id": "66017007",
-    "b": 66,
-    "c": 17,
-    "v": 7,
-    "t": "Lalu kata malaikat itu kepadaku: ”Mengapa engkau heran? Aku akan mengatakan kepadamu rahasia perempuan itu dan rahasia binatang yang memikulnya, binatang yang berkepala tujuh dan bertanduk sepuluh itu.",
-    "h": "",
-    "o": 7,
-    "l": "7"
-  },
-  {
-    "id": "66017008",
-    "b": 66,
-    "c": 17,
-    "v": 8,
-    "t": "Adapun binatang yang telah kaulihat itu, telah ada, namun tidak ada, ia akan muncul dari jurang maut, dan ia menuju kepada kebinasaan. Dan mereka yang diam di bumi, yaitu mereka yang tidak tertulis di dalam kitab kehidupan sejak dunia dijadikan, akan heran, apabila mereka melihat, bahwa binatang itu telah ada, namun tidak ada, dan akan muncul lagi.",
-    "h": "",
-    "o": 8,
-    "l": "8"
-  },
-  {
-    "id": "66017009",
-    "b": 66,
-    "c": 17,
-    "v": 9,
-    "t": "Yang penting di sini ialah akal yang mengandung hikmat: ketujuh kepala itu adalah tujuh gunung, yang di atasnya perempuan itu duduk,",
-    "h": "",
-    "o": 9,
-    "l": "9"
-  },
-  {
-    "id": "66017010",
-    "b": 66,
-    "c": 17,
-    "v": 10,
-    "t": "ketujuhnya adalah juga tujuh raja: lima di antaranya sudah jatuh, yang satu ada dan yang lain belum datang, dan jika ia datang, ia akan tinggal seketika saja.",
-    "h": "",
-    "o": 10,
-    "l": "10"
-  },
-  {
-    "id": "66017011",
-    "b": 66,
-    "c": 17,
-    "v": 11,
-    "t": "Dan binatang yang pernah ada dan yang sekarang tidak ada itu, ia sendiri adalah raja kedelapan dan namun demikian satu dari ketujuh itu dan ia menuju kepada kebinasaan.",
-    "h": "",
-    "o": 11,
-    "l": "11"
-  },
-  {
-    "id": "66017012",
-    "b": 66,
-    "c": 17,
-    "v": 12,
-    "t": "Dan kesepuluh tanduk yang telah kaulihat itu adalah sepuluh raja, yang belum mulai memerintah, tetapi satu jam lamanya mereka akan menerima kuasa sebagai raja, bersama-sama dengan binatang itu.",
-    "h": "",
-    "o": 12,
-    "l": "12"
-  },
-  {
-    "id": "66017013",
-    "b": 66,
-    "c": 17,
-    "v": 13,
-    "t": "Mereka seia sekata, kekuatan dan kekuasaan mereka mereka berikan kepada binatang itu.",
-    "h": "",
-    "o": 13,
-    "l": "13"
-  },
-  {
-    "id": "66017014",
-    "b": 66,
-    "c": 17,
-    "v": 14,
-    "t": "Mereka akan berperang melawan Anak Domba. Tetapi Anak Domba akan mengalahkan mereka, karena Ia adalah Tuan di atas segala tuan dan Raja di atas segala raja. Mereka bersama-sama dengan Dia juga akan menang, yaitu mereka yang terpanggil, yang telah dipilih dan yang setia.”",
-    "h": "",
-    "o": 14,
-    "l": "14"
-  },
-  {
-    "id": "66017015",
-    "b": 66,
-    "c": 17,
-    "v": 15,
-    "t": "Lalu ia berkata kepadaku: ”Semua air yang telah kaulihat, di mana wanita pelacur itu duduk, adalah bangsa-bangsa dan rakyat banyak dan kaum dan bahasa.",
-    "h": "",
-    "o": 15,
-    "l": "15"
-  },
-  {
-    "id": "66017016",
-    "b": 66,
-    "c": 17,
-    "v": 16,
-    "t": "Dan kesepuluh tanduk yang telah kaulihat itu serta binatang itu akan membenci pelacur itu dan mereka akan membuat dia menjadi sunyi dan telanjang, dan mereka akan memakan dagingnya dan membakarnya dengan api.",
-    "h": "",
-    "o": 16,
-    "l": "16"
-  },
-  {
-    "id": "66017017",
-    "b": 66,
-    "c": 17,
-    "v": 17,
-    "t": "Sebab Allah telah menerangi hati mereka untuk melakukan kehendak-Nya dengan seia sekata dan untuk memberikan pemerintahan mereka kepada binatang itu, sampai segala firman Allah telah digenapi.",
-    "h": "",
-    "o": 17,
-    "l": "17"
-  },
-  {
-    "id": "66017018",
-    "b": 66,
-    "c": 17,
-    "v": 18,
-    "t": "Dan perempuan yang telah kaulihat itu, adalah kota besar yang memerintah atas raja-raja di bumi.”",
-    "h": "",
-    "o": 18,
-    "l": "18"
-  },
-  {
-    "id": "66018001",
-    "b": 66,
-    "c": 18,
-    "v": 1,
-    "t": "Kemudian dari pada itu aku melihat seorang malaikat lain turun dari sorga. Ia mempunyai kekuasaan besar dan bumi menjadi terang oleh kemuliaannya.",
-    "h": "Jatuhnya Babel\n18:1-20",
-    "o": 1,
-    "l": "1"
-  },
-  {
-    "id": "66018002",
-    "b": 66,
-    "c": 18,
-    "v": 2,
-    "t": "Dan ia berseru dengan suara yang kuat, katanya: ”Sudah rubuh, sudah rubuh Babel, kota besar itu, dan ia telah menjadi tempat kediaman roh-roh jahat dan tempat bersembunyi semua roh najis dan tempat bersembunyi segala burung yang najis dan yang dibenci,",
-    "h": "",
-    "o": 2,
-    "l": "2"
-  },
-  {
-    "id": "66018003",
-    "b": 66,
-    "c": 18,
-    "v": 3,
-    "t": "karena semua bangsa telah minum dari anggur hawa nafsu cabulnya dan raja-raja di bumi telah berbuat cabul dengan dia, dan pedagang-pedagang di bumi telah menjadi kaya oleh kelimpahan hawa nafsunya.”",
-    "h": "",
-    "o": 3,
-    "l": "3"
-  },
-  {
-    "id": "66018004",
-    "b": 66,
-    "c": 18,
-    "v": 4,
-    "t": "Lalu aku mendengar suara lain dari sorga berkata: ”Pergilah kamu, hai umat-Ku, pergilah dari padanya supaya kamu jangan mengambil bagian dalam dosa-dosanya, dan supaya kamu jangan turut ditimpa malapetaka-malapetakanya.",
-    "h": "",
-    "o": 4,
-    "l": "4"
-  },
-  {
-    "id": "66018005",
-    "b": 66,
-    "c": 18,
-    "v": 5,
-    "t": "Sebab dosa-dosanya telah bertimbun-timbun sampai ke langit, dan Allah telah mengingat segala kejahatannya.",
-    "h": "",
-    "o": 5,
-    "l": "5"
-  },
-  {
-    "id": "66018006",
-    "b": 66,
-    "c": 18,
-    "v": 6,
-    "t": "Balaskanlah kepadanya, sama seperti dia juga membalaskan, dan berikanlah kepadanya dua kali lipat menurut pekerjaannya, campurkanlah baginya dua kali lipat di dalam cawan pencampurannya;",
-    "h": "",
-    "o": 6,
-    "l": "6"
-  },
-  {
-    "id": "66018007",
-    "b": 66,
-    "c": 18,
-    "v": 7,
-    "t": "berikanlah kepadanya siksaan dan perkabungan, sebanyak kemuliaan dan kemewahan, yang telah ia nikmati. Sebab ia berkata di dalam hatinya: Aku bertakhta seperti ratu, aku bukan janda, dan aku tidak akan pernah berkabung.",
-    "h": "",
-    "o": 7,
-    "l": "7"
-  },
-  {
-    "id": "66018008",
-    "b": 66,
-    "c": 18,
-    "v": 8,
-    "t": "Sebab itu segala malapetakanya akan datang dalam satu hari, yaitu sampar dan perkabungan dan kelaparan; dan ia akan dibakar dengan api, karena Tuhan Allah, yang menghakimi dia, adalah kuat.”",
-    "h": "",
-    "o": 8,
-    "l": "8"
-  },
-  {
-    "id": "66018009",
-    "b": 66,
-    "c": 18,
-    "v": 9,
-    "t": "Dan raja-raja di bumi, yang telah berbuat cabul dan hidup dalam kelimpahan dengan dia, akan menangisi dan meratapinya, apabila mereka melihat asap api yang membakarnya.",
-    "h": "",
-    "o": 9,
-    "l": "9"
-  },
-  {
-    "id": "66018010",
-    "b": 66,
-    "c": 18,
-    "v": 10,
-    "t": "Mereka akan berdiri jauh-jauh karena takut akan siksaannya dan mereka akan berkata: ”Celaka, celaka engkau, hai kota yang besar, Babel, hai kota yang kuat, sebab dalam satu jam saja sudah berlangsung penghakimanmu!”",
-    "h": "",
-    "o": 10,
-    "l": "10"
-  },
-  {
-    "id": "66018011",
-    "b": 66,
-    "c": 18,
-    "v": 11,
-    "t": "Dan pedagang-pedagang di bumi menangis dan berkabung karena dia, sebab tidak ada orang lagi yang membeli barang-barang mereka,",
-    "h": "",
-    "o": 11,
-    "l": "11"
-  },
-  {
-    "id": "66018012",
-    "b": 66,
-    "c": 18,
-    "v": 12,
-    "t": "yaitu barang-barang dagangan dari emas dan perak, permata dan mutiara, dari lenan halus dan kain ungu, dari sutera dan kain kirmizi, pelbagai jenis barang dari kayu yang harum baunya, pelbagai jenis barang dari gading, pelbagai jenis barang dari kayu yang mahal, dari tembaga, besi dan pualam,",
-    "h": "",
-    "o": 12,
-    "l": "12"
-  },
-  {
-    "id": "66018013",
-    "b": 66,
-    "c": 18,
-    "v": 13,
-    "t": "kulit manis dan rempah-rempah, wangi-wangian, mur dan kemenyan, anggur, minyak, tepung halus dan gandum, lembu sapi, domba, kuda dan kereta, budak dan bahkan nyawa manusia.",
-    "h": "",
-    "o": 13,
-    "l": "13"
-  },
-  {
-    "id": "66018014",
-    "b": 66,
-    "c": 18,
-    "v": 14,
-    "t": "Dan mereka akan berkata: ”Sudah lenyap buah-buahan yang diingini hatimu, dan segala yang mewah dan indah telah hilang dari padamu, dan tidak akan ditemukan lagi.”",
-    "h": "",
-    "o": 14,
-    "l": "14"
-  },
-  {
-    "id": "66018015",
-    "b": 66,
-    "c": 18,
-    "v": 15,
-    "t": "Mereka yang memperdagangkan barang-barang itu, yang telah menjadi kaya oleh dia, akan berdiri jauh-jauh karena takut akan siksaannya, dan sambil menangis dan meratap,",
-    "h": "",
-    "o": 15,
-    "l": "15"
-  },
-  {
-    "id": "66018016",
-    "b": 66,
-    "c": 18,
-    "v": 16,
-    "t": "mereka berkata: ”Celaka, celaka, kota besar, yang berpakaian lenan halus, dan kain ungu dan kain kirmizi, dan yang dihiasi dengan emas, dan permata dan mutiara, sebab dalam satu jam saja kekayaan sebanyak itu sudah binasa.”",
-    "h": "",
-    "o": 16,
-    "l": "16"
-  },
-  {
-    "id": "66018017",
-    "b": 66,
-    "c": 18,
-    "v": 17,
-    "t": "Dan setiap nakhoda dan pelayar dan anak-anak kapal dan semua orang yang mata pencahariannya di laut, berdiri jauh-jauh,",
-    "h": "",
-    "o": 17,
-    "l": "17"
-  },
-  {
-    "id": "66018018",
-    "b": 66,
-    "c": 18,
-    "v": 18,
-    "t": "dan berseru, ketika mereka melihat asap api yang membakarnya, katanya: ”Kota manakah yang sama dengan kota besar ini?”",
-    "h": "",
-    "o": 18,
-    "l": "18"
-  },
-  {
-    "id": "66018019",
-    "b": 66,
-    "c": 18,
-    "v": 19,
-    "t": "Dan mereka menghamburkan debu ke atas kepala mereka dan berseru, sambil menangis dan meratap, katanya: ”Celaka, celaka, kota besar, yang olehnya semua orang, yang mempunyai kapal di laut, telah menjadi kaya oleh barangnya yang mahal, sebab dalam satu jam saja ia sudah binasa.",
-    "h": "",
-    "o": 19,
-    "l": "19"
-  },
-  {
-    "id": "66018020",
-    "b": 66,
-    "c": 18,
-    "v": 20,
-    "t": "Bersukacitalah atas dia, hai sorga, dan kamu, hai orang-orang kudus, rasul-rasul dan nabi-nabi, karena Allah telah menjatuhkan hukuman atas dia karena kamu.”",
-    "h": "",
-    "o": 20,
-    "l": "20"
-  },
-  {
-    "id": "66018021",
-    "b": 66,
-    "c": 18,
-    "v": 21,
-    "t": "Dan seorang malaikat yang kuat, mengangkat sebuah batu sebesar batu kilangan, lalu melemparkannya ke dalam laut, katanya: ”Demikianlah Babel, kota besar itu, akan dilemparkan dengan keras ke bawah, dan ia tidak akan ditemukan lagi.",
-    "h": "Babel tidak akan bangkit lagi\n18:21-24",
-    "o": 21,
-    "l": "21"
-  },
-  {
-    "id": "66018022",
-    "b": 66,
-    "c": 18,
-    "v": 22,
-    "t": "Dan suara pemain-pemain kecapi dan penyanyi-penyanyi, dan peniup-peniup seruling dan sangkakala, tidak akan kedengaran lagi di dalammu, dan seorang yang ahli dalam sesuatu kesenian tidak akan ditemukan lagi di dalammu, dan suara kilangan tidak akan kedengaran lagi di dalammu.",
-    "h": "",
-    "o": 22,
-    "l": "22"
-  },
-  {
-    "id": "66018023",
-    "b": 66,
-    "c": 18,
-    "v": 23,
-    "t": "Dan cahaya lampu tidak akan bersinar lagi di dalammu, dan suara mempelai laki-laki dan pengantin perempuan tidak akan kedengaran lagi di dalammu. Karena pedagang-pedagangmu adalah pembesar-pembesar di bumi, oleh ilmu sihirmu semua bangsa disesatkan.”",
-    "h": "",
-    "o": 23,
-    "l": "23"
-  },
-  {
-    "id": "66018024",
-    "b": 66,
-    "c": 18,
-    "v": 24,
-    "t": "Dan di dalamnya terdapat darah nabi-nabi dan orang-orang kudus dan darah semua orang, yang dibunuh di bumi.",
-    "h": "",
-    "o": 24,
-    "l": "24"
-  },
-  {
-    "id": "66019001",
-    "b": 66,
-    "c": 19,
-    "v": 1,
-    "t": "Kemudian dari pada itu aku mendengar seperti suara yang nyaring dari himpunan besar orang banyak di sorga, katanya: ”Haleluya! Keselamatan dan kemuliaan dan kekuasaan adalah pada Allah kita,",
-    "h": "Nyanyian atas jatuhnya Babel\n19:1-5",
-    "o": 1,
-    "l": "1"
-  },
-  {
-    "id": "66019002",
-    "b": 66,
-    "c": 19,
-    "v": 2,
-    "t": "sebab benar dan adil segala penghakiman-Nya, karena Ialah yang telah menghakimi pelacur besar itu, yang merusakkan bumi dengan percabulannya; dan Ialah yang telah membalaskan darah hamba-hamba-Nya atas pelacur itu.”",
-    "h": "",
-    "o": 2,
-    "l": "2"
-  },
-  {
-    "id": "66019003",
-    "b": 66,
-    "c": 19,
-    "v": 3,
-    "t": "Dan untuk kedua kalinya mereka berkata: ”Haleluya! Ya, asapnya naik sampai selama-lamanya.”",
-    "h": "",
-    "o": 3,
-    "l": "3"
-  },
-  {
-    "id": "66019004",
-    "b": 66,
-    "c": 19,
-    "v": 4,
-    "t": "Dan kedua puluh empat tua-tua dan keempat makhluk itu tersungkur dan menyembah Allah yang duduk di atas takhta itu, dan mereka berkata: ”Amin, Haleluya.”",
-    "h": "",
-    "o": 4,
-    "l": "4"
-  },
-  {
-    "id": "66019005",
-    "b": 66,
-    "c": 19,
-    "v": 5,
-    "t": "Maka kedengaranlah suatu suara dari takhta itu: ”Pujilah Allah kita, hai kamu semua hamba-Nya, kamu yang takut akan Dia, baik kecil maupun besar!”",
-    "h": "",
-    "o": 5,
-    "l": "5"
-  },
-  {
-    "id": "66019006",
-    "b": 66,
-    "c": 19,
-    "v": 6,
-    "t": "Lalu aku mendengar seperti suara himpunan besar orang banyak, seperti desau air bah dan seperti deru guruh yang hebat, katanya: ”Haleluya! Karena Tuhan, Allah kita, Yang Mahakuasa, telah menjadi raja.",
-    "h": "Perjamuan kawin Anak Domba\n19:6-10",
-    "o": 6,
-    "l": "6"
-  },
-  {
-    "id": "66019007",
-    "b": 66,
-    "c": 19,
-    "v": 7,
-    "t": "Marilah kita bersukacita dan bersorak-sorai, dan memuliakan Dia! Karena hari perkawinan Anak Domba telah tiba, dan pengantin-Nya telah siap sedia.",
-    "h": "",
-    "o": 7,
-    "l": "7"
-  },
-  {
-    "id": "66019008",
-    "b": 66,
-    "c": 19,
-    "v": 8,
-    "t": "Dan kepadanya dikaruniakan supaya memakai kain lenan halus yang berkilau-kilauan dan yang putih bersih!” [Lenan halus itu adalah perbuatan-perbuatan yang benar dari orang-orang kudus.]",
-    "h": "",
-    "o": 8,
-    "l": "8"
-  },
-  {
-    "id": "66019009",
-    "b": 66,
-    "c": 19,
-    "v": 9,
-    "t": "Lalu ia berkata kepadaku: ”Tuliskanlah: Berbahagialah mereka yang diundang ke perjamuan kawin Anak Domba.” Katanya lagi kepadaku: ”Perkataan ini adalah benar, perkataan-perkataan dari Allah.”",
-    "h": "",
-    "o": 9,
-    "l": "9"
-  },
-  {
-    "id": "66019010",
-    "b": 66,
-    "c": 19,
-    "v": 10,
-    "t": "Maka tersungkurlah aku di depan kakinya untuk menyembah dia, tetapi ia berkata kepadaku: ”Janganlah berbuat demikian! Aku adalah hamba, sama dengan engkau dan saudara-saudaramu, yang memiliki kesaksian Yesus. Sembahlah Allah! Karena kesaksian Yesus adalah roh nubuat.”",
-    "h": "",
-    "o": 10,
-    "l": "10"
-  },
-  {
-    "id": "66019011",
-    "b": 66,
-    "c": 19,
-    "v": 11,
-    "t": "Lalu aku melihat sorga terbuka: sesungguhnya, ada seekor kuda putih; dan Ia yang menungganginya bernama: ”Yang Setia dan Yang Benar”, Ia menghakimi dan berperang dengan adil.",
-    "h": "Firman Allah\n19:11-16",
-    "o": 11,
-    "l": "11"
-  },
-  {
-    "id": "66019012",
-    "b": 66,
-    "c": 19,
-    "v": 12,
-    "t": "Dan mata-Nya bagaikan nyala api dan di atas kepala-Nya terdapat banyak mahkota dan pada-Nya ada tertulis suatu nama yang tidak diketahui seorang pun, kecuali Ia sendiri.",
-    "h": "",
-    "o": 12,
-    "l": "12"
-  },
-  {
-    "id": "66019013",
-    "b": 66,
-    "c": 19,
-    "v": 13,
-    "t": "Dan Ia memakai jubah yang telah dicelup dalam darah dan nama-Nya ialah: ”Firman Allah.”",
-    "h": "",
-    "o": 13,
-    "l": "13"
-  },
-  {
-    "id": "66019014",
-    "b": 66,
-    "c": 19,
-    "v": 14,
-    "t": "Dan semua pasukan yang di sorga mengikuti Dia; mereka menunggang kuda putih dan memakai lenan halus yang putih bersih.",
-    "h": "",
-    "o": 14,
-    "l": "14"
-  },
-  {
-    "id": "66019015",
-    "b": 66,
-    "c": 19,
-    "v": 15,
-    "t": "Dan dari mulut-Nya keluarlah sebilah pedang tajam yang akan memukul segala bangsa. Dan Ia akan menggembalakan mereka dengan gada besi dan Ia akan memeras anggur dalam kilangan anggur, yaitu kegeraman murka Allah, Yang Mahakuasa.",
-    "h": "",
-    "o": 15,
-    "l": "15"
-  },
-  {
-    "id": "66019016",
-    "b": 66,
-    "c": 19,
-    "v": 16,
-    "t": "Dan pada jubah-Nya dan paha-Nya tertulis suatu nama, yaitu: ”Raja segala raja dan Tuan di atas segala tuan.”",
-    "h": "",
-    "o": 16,
-    "l": "16"
-  },
-  {
-    "id": "66019017",
-    "b": 66,
-    "c": 19,
-    "v": 17,
-    "t": "Lalu aku melihat seorang malaikat berdiri di dalam matahari dan ia berseru dengan suara nyaring kepada semua burung yang terbang di tengah langit, katanya: ”Marilah ke sini dan berkumpullah untuk turut dalam perjamuan Allah, perjamuan yang besar,",
-    "h": "Binatang serta nabinya dikalahkan\n19:17-21",
-    "o": 17,
-    "l": "17"
-  },
-  {
-    "id": "66019018",
-    "b": 66,
-    "c": 19,
-    "v": 18,
-    "t": "supaya kamu makan daging semua raja dan daging semua panglima dan daging semua pahlawan dan daging semua kuda dan daging semua penunggangnya dan daging semua orang, baik yang merdeka maupun hamba, baik yang kecil maupun yang besar.”",
-    "h": "",
-    "o": 18,
-    "l": "18"
-  },
-  {
-    "id": "66019019",
-    "b": 66,
-    "c": 19,
-    "v": 19,
-    "t": "Dan aku melihat binatang itu dan raja-raja di bumi serta tentara-tentara mereka telah berkumpul untuk melakukan peperangan melawan Penunggang kuda itu dan tentara-Nya.",
-    "h": "",
-    "o": 19,
-    "l": "19"
-  },
-  {
-    "id": "66019020",
-    "b": 66,
-    "c": 19,
-    "v": 20,
-    "t": "Maka tertangkaplah binatang itu dan bersama-sama dengan dia nabi palsu, yang telah mengadakan tanda-tanda di depan matanya, dan dengan demikian ia menyesatkan mereka yang telah menerima tanda dari binatang itu dan yang telah menyembah patungnya. Keduanya dilemparkan hidup-hidup ke dalam lautan api yang menyala-nyala oleh belerang.",
-    "h": "",
-    "o": 20,
-    "l": "20"
-  },
-  {
-    "id": "66019021",
-    "b": 66,
-    "c": 19,
-    "v": 21,
-    "t": "Dan semua orang lain dibunuh dengan pedang, yang keluar dari mulut Penunggang kuda itu; dan semua burung kenyang oleh daging mereka.",
-    "h": "",
-    "o": 21,
-    "l": "21"
-  },
-  {
-    "id": "66020001",
-    "b": 66,
-    "c": 20,
-    "v": 1,
-    "t": "Lalu aku melihat seorang malaikat turun dari sorga memegang anak kunci jurang maut dan suatu rantai besar di tangannya;",
-    "h": "Kerajaan seribu tahun\n20:1-6",
-    "o": 1,
-    "l": "1"
-  },
-  {
-    "id": "66020002",
-    "b": 66,
-    "c": 20,
-    "v": 2,
-    "t": "ia menangkap naga, si ular tua itu, yaitu Iblis dan Satan. Dan ia mengikatnya seribu tahun lamanya,",
-    "h": "",
-    "o": 2,
-    "l": "2"
-  },
-  {
-    "id": "66020003",
-    "b": 66,
-    "c": 20,
-    "v": 3,
-    "t": "lalu melemparkannya ke dalam jurang maut, dan menutup jurang maut itu dan memeteraikannya di atasnya, supaya ia jangan lagi menyesatkan bangsa-bangsa, sebelum berakhir masa seribu tahun itu; kemudian dari pada itu ia akan dilepaskan untuk sedikit waktu lamanya.",
-    "h": "",
-    "o": 3,
-    "l": "3"
-  },
-  {
-    "id": "66020004",
-    "b": 66,
-    "c": 20,
-    "v": 4,
-    "t": "Lalu aku melihat takhta-takhta dan orang-orang yang duduk di atasnya; kepada mereka diserahkan kuasa untuk menghakimi. Aku juga melihat jiwa-jiwa mereka, yang telah dipenggal kepalanya karena kesaksian tentang Yesus dan karena firman Allah; yang tidak menyembah binatang itu dan patungnya dan yang tidak juga menerima tandanya pada dahi dan tangan mereka; dan mereka hidup kembali dan memerintah sebagai raja bersama-sama dengan Kristus untuk masa seribu tahun.",
-    "h": "",
-    "o": 4,
-    "l": "4"
-  },
-  {
-    "id": "66020005",
-    "b": 66,
-    "c": 20,
-    "v": 5,
-    "t": "Tetapi orang-orang mati yang lain tidak bangkit sebelum berakhir masa yang seribu tahun itu. Inilah kebangkitan pertama.",
-    "h": "",
-    "o": 5,
-    "l": "5"
-  },
-  {
-    "id": "66020006",
-    "b": 66,
-    "c": 20,
-    "v": 6,
-    "t": "Berbahagia dan kuduslah ia, yang mendapat bagian dalam kebangkitan pertama itu. Kematian yang kedua tidak berkuasa lagi atas mereka, tetapi mereka akan menjadi imam-imam Allah dan Kristus, dan mereka akan memerintah sebagai raja bersama-sama dengan Dia, seribu tahun lamanya.",
-    "h": "",
-    "o": 6,
-    "l": "6"
-  },
-  {
-    "id": "66020007",
-    "b": 66,
-    "c": 20,
-    "v": 7,
-    "t": "Dan setelah masa seribu tahun itu berakhir, Iblis akan dilepaskan dari penjaranya,",
-    "h": "Iblis dihukum\n20:7-10",
-    "o": 7,
-    "l": "7"
-  },
-  {
-    "id": "66020008",
-    "b": 66,
-    "c": 20,
-    "v": 8,
-    "t": "dan ia akan pergi menyesatkan bangsa-bangsa pada keempat penjuru bumi, yaitu Gog dan Magog, dan mengumpulkan mereka untuk berperang dan jumlah mereka sama dengan banyaknya pasir di laut.",
-    "h": "",
-    "o": 8,
-    "l": "8"
-  },
-  {
-    "id": "66020009",
-    "b": 66,
-    "c": 20,
-    "v": 9,
-    "t": "Maka naiklah mereka ke seluruh dataran bumi, lalu mengepung perkemahan tentara orang-orang kudus dan kota yang dikasihi itu. Tetapi dari langit turunlah api menghanguskan mereka,",
-    "h": "",
-    "o": 9,
-    "l": "9"
-  },
-  {
-    "id": "66020010",
-    "b": 66,
-    "c": 20,
-    "v": 10,
-    "t": "dan Iblis, yang menyesatkan mereka, dilemparkan ke dalam lautan api dan belerang, yaitu tempat binatang dan nabi palsu itu, dan mereka disiksa siang malam sampai selama-lamanya.",
-    "h": "",
-    "o": 10,
-    "l": "10"
-  },
-  {
-    "id": "66020011",
-    "b": 66,
-    "c": 20,
-    "v": 11,
-    "t": "Lalu aku melihat suatu takhta putih yang besar dan Dia, yang duduk di atasnya. Dari hadapan-Nya lenyaplah bumi dan langit dan tidak ditemukan lagi tempatnya.",
-    "h": "Hukuman yang terakhir\n20:11-15",
-    "o": 11,
-    "l": "11"
-  },
-  {
-    "id": "66020012",
-    "b": 66,
-    "c": 20,
-    "v": 12,
-    "t": "Dan aku melihat orang-orang mati, besar dan kecil, berdiri di depan takhta itu. Lalu dibuka semua kitab. Dan dibuka juga sebuah kitab lain, yaitu kitab kehidupan. Dan orang-orang mati dihakimi menurut perbuatan mereka, berdasarkan apa yang ada tertulis di dalam kitab-kitab itu.",
-    "h": "",
-    "o": 12,
-    "l": "12"
-  },
-  {
-    "id": "66020013",
-    "b": 66,
-    "c": 20,
-    "v": 13,
-    "t": "Maka laut menyerahkan orang-orang mati yang ada di dalamnya, dan maut dan kerajaan maut menyerahkan orang-orang mati yang ada di dalamnya, dan mereka dihakimi masing-masing menurut perbuatannya.",
-    "h": "",
-    "o": 13,
-    "l": "13"
-  },
-  {
-    "id": "66020014",
-    "b": 66,
-    "c": 20,
-    "v": 14,
-    "t": "Lalu maut dan kerajaan maut itu dilemparkanlah ke dalam lautan api. Itulah kematian yang kedua: lautan api.",
-    "h": "",
-    "o": 14,
-    "l": "14"
-  },
-  {
-    "id": "66020015",
-    "b": 66,
-    "c": 20,
-    "v": 15,
-    "t": "Dan setiap orang yang tidak ditemukan namanya tertulis di dalam kitab kehidupan itu, ia dilemparkan ke dalam lautan api itu.",
-    "h": "",
-    "o": 15,
-    "l": "15"
-  },
-  {
-    "id": "66021001",
-    "b": 66,
-    "c": 21,
-    "v": 1,
-    "t": "Lalu aku melihat langit yang baru dan bumi yang baru, sebab langit yang pertama dan bumi yang pertama telah berlalu, dan laut pun tidak ada lagi.",
-    "h": "Langit yang baru dan bumi yang baru\n21:1-8",
-    "o": 1,
-    "l": "1"
-  },
-  {
-    "id": "66021002",
-    "b": 66,
-    "c": 21,
-    "v": 2,
-    "t": "Dan aku melihat kota yang kudus, Yerusalem yang baru, turun dari sorga, dari Allah, yang berhias bagaikan pengantin perempuan yang berdandan untuk suaminya.",
-    "h": "",
-    "o": 2,
-    "l": "2"
-  },
-  {
-    "id": "66021003",
-    "b": 66,
-    "c": 21,
-    "v": 3,
-    "t": "Lalu aku mendengar suara yang nyaring dari takhta itu berkata: ”Lihatlah, kemah Allah ada di tengah-tengah manusia dan Ia akan diam bersama-sama dengan mereka. Mereka akan menjadi umat-Nya dan Ia akan menjadi Allah mereka.",
-    "h": "",
-    "o": 3,
-    "l": "3"
-  },
-  {
-    "id": "66021004",
-    "b": 66,
-    "c": 21,
-    "v": 4,
-    "t": "Dan Ia akan menghapus segala air mata dari mata mereka, dan maut tidak akan ada lagi; tidak akan ada lagi perkabungan, atau ratap tangis, atau dukacita, sebab segala sesuatu yang lama itu telah berlalu.”",
-    "h": "",
-    "o": 4,
-    "l": "4"
-  },
-  {
-    "id": "66021005",
-    "b": 66,
-    "c": 21,
-    "v": 5,
-    "t": "Ia yang duduk di atas takhta itu berkata: ”Lihatlah, Aku menjadikan segala sesuatu baru!” Dan firman-Nya: ”Tuliskanlah, karena segala perkataan ini adalah tepat dan benar.”",
-    "h": "",
-    "o": 5,
-    "l": "5"
-  },
-  {
-    "id": "66021006",
-    "b": 66,
-    "c": 21,
-    "v": 6,
-    "t": "Firman-Nya lagi kepadaku: ”Semuanya telah terjadi. Aku adalah Alfa dan Omega, Yang Awal dan Yang Akhir. Orang yang haus akan Kuberi minum dengan cuma-cuma dari mata air kehidupan.",
-    "h": "",
-    "o": 6,
-    "l": "6"
-  },
-  {
-    "id": "66021007",
-    "b": 66,
-    "c": 21,
-    "v": 7,
-    "t": "Barangsiapa menang, ia akan memperoleh semuanya ini, dan Aku akan menjadi Allahnya dan ia akan menjadi anak-Ku.",
-    "h": "",
-    "o": 7,
-    "l": "7"
-  },
-  {
-    "id": "66021008",
-    "b": 66,
-    "c": 21,
-    "v": 8,
-    "t": "Tetapi orang-orang penakut, orang-orang yang tidak percaya, orang-orang keji, orang-orang pembunuh, orang-orang sundal, tukang-tukang sihir, penyembah-penyembah berhala dan semua pendusta, mereka akan mendapat bagian mereka di dalam lautan yang menyala-nyala oleh api dan belerang; inilah kematian yang kedua.”",
-    "h": "",
-    "o": 8,
-    "l": "8"
-  },
-  {
-    "id": "66021009",
-    "b": 66,
-    "c": 21,
-    "v": 9,
-    "t": "Maka datanglah seorang dari ketujuh malaikat yang memegang ketujuh cawan, yang penuh dengan ketujuh malapetaka terakhir itu, lalu ia berkata kepadaku, katanya: ”Marilah ke sini, aku akan menunjukkan kepadamu pengantin perempuan, mempelai Anak Domba.”",
-    "h": "Yerusalem yang baru\n21:9–22:5",
-    "o": 9,
-    "l": "9"
-  },
-  {
-    "id": "66021010",
-    "b": 66,
-    "c": 21,
-    "v": 10,
-    "t": "Lalu, di dalam roh ia membawa aku ke atas sebuah gunung yang besar lagi tinggi dan ia menunjukkan kepadaku kota yang kudus itu, Yerusalem, turun dari sorga, dari Allah.",
-    "h": "",
-    "o": 10,
-    "l": "10"
-  },
-  {
-    "id": "66021011",
-    "b": 66,
-    "c": 21,
-    "v": 11,
-    "t": "Kota itu penuh dengan kemuliaan Allah dan cahayanya sama seperti permata yang paling indah, bagaikan permata yaspis, jernih seperti kristal.",
-    "h": "",
-    "o": 11,
-    "l": "11"
-  },
-  {
-    "id": "66021012",
-    "b": 66,
-    "c": 21,
-    "v": 12,
-    "t": "Dan temboknya besar lagi tinggi dan pintu gerbangnya dua belas buah; dan di atas pintu-pintu gerbang itu ada dua belas malaikat dan di atasnya tertulis nama kedua belas suku Israel.",
-    "h": "",
-    "o": 12,
-    "l": "12"
-  },
-  {
-    "id": "66021013",
-    "b": 66,
-    "c": 21,
-    "v": 13,
-    "t": "Di sebelah timur terdapat tiga pintu gerbang dan di sebelah utara tiga pintu gerbang dan di sebelah selatan tiga pintu gerbang dan di sebelah barat tiga pintu gerbang.",
-    "h": "",
-    "o": 13,
-    "l": "13"
-  },
-  {
-    "id": "66021014",
-    "b": 66,
-    "c": 21,
-    "v": 14,
-    "t": "Dan tembok kota itu mempunyai dua belas batu dasar dan di atasnya tertulis kedua belas nama kedua belas rasul Anak Domba itu.",
-    "h": "",
-    "o": 14,
-    "l": "14"
-  },
-  {
-    "id": "66021015",
-    "b": 66,
-    "c": 21,
-    "v": 15,
-    "t": "Dan ia, yang berkata-kata dengan aku, mempunyai suatu tongkat pengukur dari emas untuk mengukur kota itu serta pintu-pintu gerbangnya dan temboknya.",
-    "h": "",
-    "o": 15,
-    "l": "15"
-  },
-  {
-    "id": "66021016",
-    "b": 66,
-    "c": 21,
-    "v": 16,
-    "t": "Kota itu bentuknya empat persegi, panjangnya sama dengan lebarnya. Dan ia mengukur kota itu dengan tongkat itu: dua belas ribu stadia; panjangnya dan lebarnya dan tingginya sama.",
-    "h": "",
-    "o": 16,
-    "l": "16"
-  },
-  {
-    "id": "66021017",
-    "b": 66,
-    "c": 21,
-    "v": 17,
-    "t": "Lalu ia mengukur temboknya: seratus empat puluh empat hasta, menurut ukuran manusia, yang adalah juga ukuran malaikat.",
-    "h": "",
-    "o": 17,
-    "l": "17"
-  },
-  {
-    "id": "66021018",
-    "b": 66,
-    "c": 21,
-    "v": 18,
-    "t": "Tembok itu terbuat dari permata yaspis; dan kota itu sendiri dari emas tulen, bagaikan kaca murni.",
-    "h": "",
-    "o": 18,
-    "l": "18"
-  },
-  {
-    "id": "66021019",
-    "b": 66,
-    "c": 21,
-    "v": 19,
-    "t": "Dan dasar-dasar tembok kota itu dihiasi dengan segala jenis permata. Dasar yang pertama batu yaspis, dasar yang kedua batu nilam, dasar yang ketiga batu mirah, dasar yang keempat batu zamrud,",
-    "h": "",
-    "o": 19,
-    "l": "19"
-  },
-  {
-    "id": "66021020",
-    "b": 66,
-    "c": 21,
-    "v": 20,
-    "t": "dasar yang kelima batu unam, dasar yang keenam batu sardis, dasar yang ketujuh batu ratna cempaka, yang kedelapan batu beril, yang kesembilan batu krisolit, yang kesepuluh batu krisopras, yang kesebelas batu lazuardi dan yang kedua belas batu kecubung.",
-    "h": "",
-    "o": 20,
-    "l": "20"
-  },
-  {
-    "id": "66021021",
-    "b": 66,
-    "c": 21,
-    "v": 21,
-    "t": "Dan kedua belas pintu gerbang itu adalah dua belas mutiara: setiap pintu gerbang terdiri dari satu mutiara dan jalan-jalan kota itu dari emas murni bagaikan kaca bening.",
-    "h": "",
-    "o": 21,
-    "l": "21"
-  },
-  {
-    "id": "66021022",
-    "b": 66,
-    "c": 21,
-    "v": 22,
-    "t": "Dan aku tidak melihat Bait Suci di dalamnya; sebab Allah, Tuhan Yang Mahakuasa, adalah Bait Sucinya, demikian juga Anak Domba itu.",
-    "h": "",
-    "o": 22,
-    "l": "22"
-  },
-  {
-    "id": "66021023",
-    "b": 66,
-    "c": 21,
-    "v": 23,
-    "t": "Dan kota itu tidak memerlukan matahari dan bulan untuk menyinarinya, sebab kemuliaan Allah meneranginya dan Anak Domba itu adalah lampunya.",
-    "h": "",
-    "o": 23,
-    "l": "23"
-  },
-  {
-    "id": "66021024",
-    "b": 66,
-    "c": 21,
-    "v": 24,
-    "t": "Dan bangsa-bangsa akan berjalan di dalam cahayanya dan raja-raja di bumi membawa kekayaan mereka kepadanya;",
-    "h": "",
-    "o": 24,
-    "l": "24"
-  },
-  {
-    "id": "66021025",
-    "b": 66,
-    "c": 21,
-    "v": 25,
-    "t": "dan pintu-pintu gerbangnya tidak akan ditutup pada siang hari, sebab malam tidak akan ada lagi di sana;",
-    "h": "",
-    "o": 25,
-    "l": "25"
-  },
-  {
-    "id": "66021026",
-    "b": 66,
-    "c": 21,
-    "v": 26,
-    "t": "dan kekayaan dan hormat bangsa-bangsa akan dibawa kepadanya.",
-    "h": "",
-    "o": 26,
-    "l": "26"
-  },
-  {
-    "id": "66021027",
-    "b": 66,
-    "c": 21,
-    "v": 27,
-    "t": "Tetapi tidak akan masuk ke dalamnya sesuatu yang najis, atau orang yang melakukan kekejian atau dusta, tetapi hanya mereka yang namanya tertulis di dalam kitab kehidupan Anak Domba itu.",
-    "h": "",
-    "o": 27,
-    "l": "27"
-  },
-  {
-    "id": "66022001",
-    "b": 66,
-    "c": 22,
-    "v": 1,
-    "t": "Lalu ia menunjukkan kepadaku sungai air kehidupan, yang jernih bagaikan kristal, dan mengalir ke luar dari takhta Allah dan takhta Anak Domba itu.",
-    "h": "",
-    "o": 1,
-    "l": "1"
-  },
-  {
-    "id": "66022002",
-    "b": 66,
-    "c": 22,
-    "v": 2,
-    "t": "Di tengah-tengah jalan kota itu, yaitu di seberang-menyeberang sungai itu, ada pohon-pohon kehidupan yang berbuah dua belas kali, tiap-tiap bulan sekali; dan daun pohon-pohon itu dipakai untuk menyembuhkan bangsa-bangsa.",
-    "h": "",
-    "o": 2,
-    "l": "2"
-  },
-  {
-    "id": "66022003",
-    "b": 66,
-    "c": 22,
-    "v": 3,
-    "t": "Maka tidak akan ada lagi laknat. Takhta Allah dan takhta Anak Domba akan ada di dalamnya dan hamba-hamba-Nya akan beribadah kepada-Nya,",
-    "h": "",
-    "o": 3,
-    "l": "3"
-  },
-  {
-    "id": "66022004",
-    "b": 66,
-    "c": 22,
-    "v": 4,
-    "t": "dan mereka akan melihat wajah-Nya, dan nama-Nya akan tertulis di dahi mereka.",
-    "h": "",
-    "o": 4,
-    "l": "4"
-  },
-  {
-    "id": "66022005",
-    "b": 66,
-    "c": 22,
-    "v": 5,
-    "t": "Dan malam tidak akan ada lagi di sana, dan mereka tidak memerlukan cahaya lampu dan cahaya matahari, sebab Tuhan Allah akan menerangi mereka, dan mereka akan memerintah sebagai raja sampai selama-lamanya.",
-    "h": "",
-    "o": 5,
-    "l": "5"
-  },
-  {
-    "id": "66022006",
-    "b": 66,
-    "c": 22,
-    "v": 6,
-    "t": "Lalu Ia berkata kepadaku: ”Perkataan-perkataan ini tepat dan benar, dan Tuhan, Allah yang memberi roh kepada para nabi, telah mengutus malaikat-Nya untuk menunjukkan kepada hamba-hamba-Nya apa yang harus segera terjadi.”",
-    "h": "Kedatangan Tuhan Yesus\n22:6-17",
-    "o": 6,
-    "l": "6"
-  },
-  {
-    "id": "66022007",
-    "b": 66,
-    "c": 22,
-    "v": 7,
-    "t": "”Sesungguhnya Aku datang segera. Berbahagialah orang yang menuruti perkataan-perkataan nubuat kitab ini!”",
-    "h": "",
-    "o": 7,
-    "l": "7"
-  },
-  {
-    "id": "66022008",
-    "b": 66,
-    "c": 22,
-    "v": 8,
-    "t": "Dan aku, Yohanes, akulah yang telah mendengar dan melihat semuanya itu. Dan setelah aku mendengar dan melihatnya, aku tersungkur di depan kaki malaikat, yang telah menunjukkan semuanya itu kepadaku, untuk menyembahnya.",
-    "h": "",
-    "o": 8,
-    "l": "8"
-  },
-  {
-    "id": "66022009",
-    "b": 66,
-    "c": 22,
-    "v": 9,
-    "t": "Tetapi ia berkata kepadaku: ”Jangan berbuat demikian! Aku adalah hamba, sama seperti engkau dan saudara-saudaramu, para nabi dan semua mereka yang menuruti segala perkataan kitab ini. Sembahlah Allah!”",
-    "h": "",
-    "o": 9,
-    "l": "9"
-  },
-  {
-    "id": "66022010",
-    "b": 66,
-    "c": 22,
-    "v": 10,
-    "t": "Lalu ia berkata kepadaku: ”Jangan memeteraikan perkataan-perkataan nubuat dari kitab ini, sebab waktunya sudah dekat.",
-    "h": "",
-    "o": 10,
-    "l": "10"
-  },
-  {
-    "id": "66022011",
-    "b": 66,
-    "c": 22,
-    "v": 11,
-    "t": "Barangsiapa yang berbuat jahat, biarlah ia terus berbuat jahat; barangsiapa yang cemar, biarlah ia terus cemar; dan barangsiapa yang benar, biarlah ia terus berbuat kebenaran; barangsiapa yang kudus, biarlah ia terus menguduskan dirinya!”",
-    "h": "",
-    "o": 11,
-    "l": "11"
-  },
-  {
-    "id": "66022012",
-    "b": 66,
-    "c": 22,
-    "v": 12,
-    "t": "”Sesungguhnya Aku datang segera dan Aku membawa upah-Ku untuk membalaskan kepada setiap orang menurut perbuatannya.",
-    "h": "",
-    "o": 12,
-    "l": "12"
-  },
-  {
-    "id": "66022013",
-    "b": 66,
-    "c": 22,
-    "v": 13,
-    "t": "Aku adalah Alfa dan Omega, Yang Pertama dan Yang Terkemudian, Yang Awal dan Yang Akhir.”",
-    "h": "",
-    "o": 13,
-    "l": "13"
-  },
-  {
-    "id": "66022014",
-    "b": 66,
-    "c": 22,
-    "v": 14,
-    "t": "Berbahagialah mereka yang membasuh jubahnya. Mereka akan memperoleh hak atas pohon-pohon kehidupan dan masuk melalui pintu-pintu gerbang ke dalam kota itu.",
-    "h": "",
-    "o": 14,
-    "l": "14"
-  },
-  {
-    "id": "66022015",
-    "b": 66,
-    "c": 22,
-    "v": 15,
-    "t": "Tetapi anjing-anjing dan tukang-tukang sihir, orang-orang sundal, orang-orang pembunuh, penyembah-penyembah berhala dan setiap orang yang mencintai dusta dan yang melakukannya, tinggal di luar.",
-    "h": "",
-    "o": 15,
-    "l": "15"
-  },
-  {
-    "id": "66022016",
-    "b": 66,
-    "c": 22,
-    "v": 16,
-    "t": "”Aku, Yesus, telah mengutus malaikat-Ku untuk memberi kesaksian tentang semuanya ini kepadamu bagi jemaat-jemaat. Aku adalah tunas, yaitu keturunan Daud, bintang timur yang gilang-gemilang.”",
-    "h": "",
-    "o": 16,
-    "l": "16"
-  },
-  {
-    "id": "66022017",
-    "b": 66,
-    "c": 22,
-    "v": 17,
-    "t": "Roh dan pengantin perempuan itu berkata: ”Marilah!” Dan barangsiapa yang mendengarnya, hendaklah ia berkata: ”Marilah!” Dan barangsiapa yang haus, hendaklah ia datang, dan barangsiapa yang mau, hendaklah ia mengambil air kehidupan dengan cuma-cuma!",
-    "h": "",
-    "o": 17,
-    "l": "17"
-  },
-  {
-    "id": "66022018",
-    "b": 66,
-    "c": 22,
-    "v": 18,
-    "t": "Aku bersaksi kepada setiap orang yang mendengar perkataan-perkataan nubuat dari kitab ini: ”Jika seorang menambahkan sesuatu kepada perkataan-perkataan ini, maka Allah akan menambahkan kepadanya malapetaka-malapetaka yang tertulis di dalam kitab ini.",
-    "h": "Penutup\n22:18-21",
-    "o": 18,
-    "l": "18"
-  },
-  {
-    "id": "66022019",
-    "b": 66,
-    "c": 22,
-    "v": 19,
-    "t": "Dan jikalau seorang mengurangkan sesuatu dari perkataan-perkataan dari kitab nubuat ini, maka Allah akan mengambil bagiannya dari pohon kehidupan dan dari kota kudus, seperti yang tertulis di dalam kitab ini.”",
-    "h": "",
-    "o": 19,
-    "l": "19"
-  },
-  {
-    "id": "66022020",
-    "b": 66,
-    "c": 22,
-    "v": 20,
-    "t": "Ia yang memberi kesaksian tentang semuanya ini, berfirman: ”Ya, Aku datang segera!” Amin, datanglah, Tuhan Yesus!",
-    "h": "",
-    "o": 20,
-    "l": "20"
-  },
-  {
-    "id": "66022021",
-    "b": 66,
-    "c": 22,
-    "v": 21,
-    "t": "Kasih karunia Tuhan Yesus menyertai kamu sekalian! Amin.",
-    "h": "",
-    "o": 21,
-    "l": "21"
-  }
-]
+{
+  "_id": "TB.REV",
+  "verses": [
+    {
+      "id": 66001001,
+      "b": 66,
+      "c": 1,
+      "v": 1,
+      "t": "Inilah wahyu Yesus Kristus, yang dikaruniakan Allah kepada-Nya, supaya ditunjukkan-Nya kepada hamba-hamba-Nya apa yang harus segera terjadi. Dan oleh malaikat-Nya yang diutus-Nya, Ia telah menyatakannya kepada hamba-Nya Yohanes.",
+      "h": "Judul\n1:1-3",
+      "o": 1,
+      "l": "1"
+    },
+    {
+      "id": 66001002,
+      "b": 66,
+      "c": 1,
+      "v": 2,
+      "t": "Yohanes telah bersaksi tentang firman Allah dan tentang kesaksian yang diberikan oleh Yesus Kristus, yaitu segala sesuatu yang telah dilihatnya.",
+      "h": "",
+      "o": 2,
+      "l": "2"
+    },
+    {
+      "id": 66001003,
+      "b": 66,
+      "c": 1,
+      "v": 3,
+      "t": "Berbahagialah ia yang membacakan dan mereka yang mendengarkan kata-kata nubuat ini, dan yang menuruti apa yang ada tertulis di dalamnya, sebab waktunya sudah dekat.",
+      "h": "",
+      "o": 3,
+      "l": "3"
+    },
+    {
+      "id": 66001004,
+      "b": 66,
+      "c": 1,
+      "v": 4,
+      "t": "Dari Yohanes kepada ketujuh jemaat yang di Asia Kecil: Kasih karunia dan damai sejahtera menyertai kamu, dari Dia, yang ada dan yang sudah ada dan yang akan datang, dan dari ketujuh roh yang ada di hadapan takhta-Nya,",
+      "h": "Salam kepada ketujuh jemaat\n1:4-8",
+      "o": 4,
+      "l": "4"
+    },
+    {
+      "id": 66001005,
+      "b": 66,
+      "c": 1,
+      "v": 5,
+      "t": "dan dari Yesus Kristus, Saksi yang setia, yang pertama bangkit dari antara orang mati dan yang berkuasa atas raja-raja bumi ini. Bagi Dia, yang mengasihi kita dan yang telah melepaskan kita dari dosa kita oleh darah-Nya –",
+      "h": "",
+      "o": 5,
+      "l": "5"
+    },
+    {
+      "id": 66001006,
+      "b": 66,
+      "c": 1,
+      "v": 6,
+      "t": "dan yang telah membuat kita menjadi suatu kerajaan, menjadi imam-imam bagi Allah, Bapa-Nya, – bagi Dialah kemuliaan dan kuasa sampai selama-lamanya. Amin.",
+      "h": "",
+      "o": 6,
+      "l": "6"
+    },
+    {
+      "id": 66001007,
+      "b": 66,
+      "c": 1,
+      "v": 7,
+      "t": "Lihatlah, Ia datang dengan awan-awan dan setiap mata akan melihat Dia, juga mereka yang telah menikam Dia. Dan semua bangsa di bumi akan meratapi Dia. Ya, amin.",
+      "h": "",
+      "o": 7,
+      "l": "7"
+    },
+    {
+      "id": 66001008,
+      "b": 66,
+      "c": 1,
+      "v": 8,
+      "t": "”Aku adalah Alfa dan Omega, firman Tuhan Allah, yang ada dan yang sudah ada dan yang akan datang, Yang Mahakuasa.”",
+      "h": "",
+      "o": 8,
+      "l": "8"
+    },
+    {
+      "id": 66001009,
+      "b": 66,
+      "c": 1,
+      "v": 9,
+      "t": "Aku, Yohanes, saudara dan sekutumu dalam kesusahan, dalam Kerajaan dan dalam ketekunan menantikan Yesus, berada di pulau yang bernama Patmos oleh karena firman Allah dan kesaksian yang diberikan oleh Yesus.",
+      "h": "Penglihatan Yohanes di Patmos\n1:9-20",
+      "o": 9,
+      "l": "9"
+    },
+    {
+      "id": 66001010,
+      "b": 66,
+      "c": 1,
+      "v": 10,
+      "t": "Pada hari Tuhan aku dikuasai oleh Roh dan aku mendengar dari belakangku suatu suara yang nyaring, seperti bunyi sangkakala,",
+      "h": "",
+      "o": 10,
+      "l": "10"
+    },
+    {
+      "id": 66001011,
+      "b": 66,
+      "c": 1,
+      "v": 11,
+      "t": "katanya: ”Apa yang engkau lihat, tuliskanlah di dalam sebuah kitab dan kirimkanlah kepada ketujuh jemaat ini: ke Efesus, ke Smirna, ke Pergamus, ke Tiatira, ke Sardis, ke Filadelfia dan ke Laodikia.”",
+      "h": "",
+      "o": 11,
+      "l": "11"
+    },
+    {
+      "id": 66001012,
+      "b": 66,
+      "c": 1,
+      "v": 12,
+      "t": "Lalu aku berpaling untuk melihat suara yang berbicara kepadaku. Dan setelah aku berpaling, tampaklah kepadaku tujuh kaki dian dari emas.",
+      "h": "",
+      "o": 12,
+      "l": "12"
+    },
+    {
+      "id": 66001013,
+      "b": 66,
+      "c": 1,
+      "v": 13,
+      "t": "Dan di tengah-tengah kaki dian itu ada seorang serupa Anak Manusia, berpakaian jubah yang panjangnya sampai di kaki, dan dadanya berlilitkan ikat pinggang dari emas.",
+      "h": "",
+      "o": 13,
+      "l": "13"
+    },
+    {
+      "id": 66001014,
+      "b": 66,
+      "c": 1,
+      "v": 14,
+      "t": "Kepala dan rambut-Nya putih bagaikan bulu yang putih metah, dan mata-Nya bagaikan nyala api.",
+      "h": "",
+      "o": 14,
+      "l": "14"
+    },
+    {
+      "id": 66001015,
+      "b": 66,
+      "c": 1,
+      "v": 15,
+      "t": "Dan kaki-Nya mengkilap bagaikan tembaga membara di dalam perapian; suara-Nya bagaikan desau air bah.",
+      "h": "",
+      "o": 15,
+      "l": "15"
+    },
+    {
+      "id": 66001016,
+      "b": 66,
+      "c": 1,
+      "v": 16,
+      "t": "Dan di tangan kanan-Nya Ia memegang tujuh bintang dan dari mulut-Nya keluar sebilah pedang tajam bermata dua, dan wajah-Nya bersinar-sinar bagaikan matahari yang terik.",
+      "h": "",
+      "o": 16,
+      "l": "16"
+    },
+    {
+      "id": 66001017,
+      "b": 66,
+      "c": 1,
+      "v": 17,
+      "t": "Ketika aku melihat Dia, tersungkurlah aku di depan kaki-Nya sama seperti orang yang mati; tetapi Ia meletakkan tangan kanan-Nya di atasku, lalu berkata: ”Jangan takut! Aku adalah Yang Awal dan Yang Akhir,",
+      "h": "",
+      "o": 17,
+      "l": "17"
+    },
+    {
+      "id": 66001018,
+      "b": 66,
+      "c": 1,
+      "v": 18,
+      "t": "dan Yang Hidup. Aku telah mati, namun lihatlah, Aku hidup, sampai selama-lamanya dan Aku memegang segala kunci maut dan kerajaan maut.",
+      "h": "",
+      "o": 18,
+      "l": "18"
+    },
+    {
+      "id": 66001019,
+      "b": 66,
+      "c": 1,
+      "v": 19,
+      "t": "Karena itu tuliskanlah apa yang telah kaulihat, baik yang terjadi sekarang maupun yang akan terjadi sesudah ini.",
+      "h": "",
+      "o": 19,
+      "l": "19"
+    },
+    {
+      "id": 66001020,
+      "b": 66,
+      "c": 1,
+      "v": 20,
+      "t": "Dan rahasia ketujuh bintang yang telah kaulihat pada tangan kanan-Ku dan ketujuh kaki dian emas itu: ketujuh bintang itu ialah malaikat ketujuh jemaat dan ketujuh kaki dian itu ialah ketujuh jemaat.”",
+      "h": "",
+      "o": 20,
+      "l": "20"
+    },
+    {
+      "id": 66002001,
+      "b": 66,
+      "c": 2,
+      "v": 1,
+      "t": "”Tuliskanlah kepada malaikat jemaat di Efesus: Inilah firman dari Dia, yang memegang ketujuh bintang itu di tangan kanan-Nya dan berjalan di antara ketujuh kaki dian emas itu.",
+      "h": "Kepada jemaat di Efesus\n2:1-7",
+      "o": 1,
+      "l": "1"
+    },
+    {
+      "id": 66002002,
+      "b": 66,
+      "c": 2,
+      "v": 2,
+      "t": "Aku tahu segala pekerjaanmu: baik jerih payahmu maupun ketekunanmu. Aku tahu, bahwa engkau tidak dapat sabar terhadap orang-orang jahat, bahwa engkau telah mencobai mereka yang menyebut dirinya rasul, tetapi yang sebenarnya tidak demikian, bahwa engkau telah mendapati mereka pendusta.",
+      "h": "",
+      "o": 2,
+      "l": "2"
+    },
+    {
+      "id": 66002003,
+      "b": 66,
+      "c": 2,
+      "v": 3,
+      "t": "Dan engkau tetap sabar dan menderita oleh karena nama-Ku; dan engkau tidak mengenal lelah.",
+      "h": "",
+      "o": 3,
+      "l": "3"
+    },
+    {
+      "id": 66002004,
+      "b": 66,
+      "c": 2,
+      "v": 4,
+      "t": "Namun demikian Aku mencela engkau, karena engkau telah meninggalkan kasihmu yang semula.",
+      "h": "",
+      "o": 4,
+      "l": "4"
+    },
+    {
+      "id": 66002005,
+      "b": 66,
+      "c": 2,
+      "v": 5,
+      "t": "Sebab itu ingatlah betapa dalamnya engkau telah jatuh! Bertobatlah dan lakukanlah lagi apa yang semula engkau lakukan. Jika tidak demikian, Aku akan datang kepadamu dan Aku akan mengambil kaki dianmu dari tempatnya, jikalau engkau tidak bertobat.",
+      "h": "",
+      "o": 5,
+      "l": "5"
+    },
+    {
+      "id": 66002006,
+      "b": 66,
+      "c": 2,
+      "v": 6,
+      "t": "Tetapi ini yang ada padamu, yaitu engkau membenci segala perbuatan pengikut-pengikut Nikolaus, yang juga Kubenci.",
+      "h": "",
+      "o": 6,
+      "l": "6"
+    },
+    {
+      "id": 66002007,
+      "b": 66,
+      "c": 2,
+      "v": 7,
+      "t": "Siapa bertelinga, hendaklah ia mendengarkan apa yang dikatakan Roh kepada jemaat-jemaat: Barangsiapa menang, dia akan Kuberi makan dari pohon kehidupan yang ada di Taman Firdaus Allah.”",
+      "h": "",
+      "o": 7,
+      "l": "7"
+    },
+    {
+      "id": 66002008,
+      "b": 66,
+      "c": 2,
+      "v": 8,
+      "t": "”Dan tuliskanlah kepada malaikat jemaat di Smirna: Inilah firman dari Yang Awal dan Yang Akhir, yang telah mati dan hidup kembali:",
+      "h": "Kepada jemaat di Smirna\n2:8-11",
+      "o": 8,
+      "l": "8"
+    },
+    {
+      "id": 66002009,
+      "b": 66,
+      "c": 2,
+      "v": 9,
+      "t": "Aku tahu kesusahanmu dan kemiskinanmu – namun engkau kaya – dan fitnah mereka, yang menyebut dirinya orang Yahudi, tetapi yang sebenarnya tidak demikian: sebaliknya mereka adalah jemaah Iblis.",
+      "h": "",
+      "o": 9,
+      "l": "9"
+    },
+    {
+      "id": 66002010,
+      "b": 66,
+      "c": 2,
+      "v": 10,
+      "t": "Jangan takut terhadap apa yang harus engkau derita! Sesungguhnya Iblis akan melemparkan beberapa orang dari antaramu ke dalam penjara supaya kamu dicobai dan kamu akan beroleh kesusahan selama sepuluh hari. Hendaklah engkau setia sampai mati, dan Aku akan mengaruniakan kepadamu mahkota kehidupan.",
+      "h": "",
+      "o": 10,
+      "l": "10"
+    },
+    {
+      "id": 66002011,
+      "b": 66,
+      "c": 2,
+      "v": 11,
+      "t": "Siapa bertelinga, hendaklah ia mendengarkan apa yang dikatakan Roh kepada jemaat-jemaat: Barangsiapa menang, ia tidak akan menderita apa-apa oleh kematian yang kedua.”",
+      "h": "",
+      "o": 11,
+      "l": "11"
+    },
+    {
+      "id": 66002012,
+      "b": 66,
+      "c": 2,
+      "v": 12,
+      "t": "”Dan tuliskanlah kepada malaikat jemaat di Pergamus: Inilah firman Dia, yang memakai pedang yang tajam dan bermata dua:",
+      "h": "Kepada jemaat di Pergamus\n2:12-17",
+      "o": 12,
+      "l": "12"
+    },
+    {
+      "id": 66002013,
+      "b": 66,
+      "c": 2,
+      "v": 13,
+      "t": "Aku tahu di mana engkau diam, yaitu di sana, di tempat takhta Iblis; dan engkau berpegang kepada nama-Ku, dan engkau tidak menyangkal imanmu kepada-Ku, juga tidak pada zaman Antipas, saksi-Ku, yang setia kepada-Ku, yang dibunuh di hadapan kamu, di mana Iblis diam.",
+      "h": "",
+      "o": 13,
+      "l": "13"
+    },
+    {
+      "id": 66002014,
+      "b": 66,
+      "c": 2,
+      "v": 14,
+      "t": "Tetapi Aku mempunyai beberapa keberatan terhadap engkau: di antaramu ada beberapa orang yang menganut ajaran Bileam, yang memberi nasihat kepada Balak untuk menyesatkan orang Israel, supaya mereka makan persembahan berhala dan berbuat zinah.",
+      "h": "",
+      "o": 14,
+      "l": "14"
+    },
+    {
+      "id": 66002015,
+      "b": 66,
+      "c": 2,
+      "v": 15,
+      "t": "Demikian juga ada padamu orang-orang yang berpegang kepada ajaran pengikut Nikolaus.",
+      "h": "",
+      "o": 15,
+      "l": "15"
+    },
+    {
+      "id": 66002016,
+      "b": 66,
+      "c": 2,
+      "v": 16,
+      "t": "Sebab itu bertobatlah! Jika tidak demikian, Aku akan segera datang kepadamu dan Aku akan memerangi mereka dengan pedang yang di mulut-Ku ini.",
+      "h": "",
+      "o": 16,
+      "l": "16"
+    },
+    {
+      "id": 66002017,
+      "b": 66,
+      "c": 2,
+      "v": 17,
+      "t": "Siapa bertelinga, hendaklah ia mendengarkan apa yang dikatakan Roh kepada jemaat-jemaat: Barangsiapa menang, kepadanya akan Kuberikan dari manna yang tersembunyi; dan Aku akan mengaruniakan kepadanya batu putih, yang di atasnya tertulis nama baru, yang tidak diketahui oleh siapa pun, selain oleh yang menerimanya.”",
+      "h": "",
+      "o": 17,
+      "l": "17"
+    },
+    {
+      "id": 66002018,
+      "b": 66,
+      "c": 2,
+      "v": 18,
+      "t": "”Dan tuliskanlah kepada malaikat jemaat di Tiatira: Inilah firman Anak Allah, yang mata-Nya bagaikan nyala api dan kaki-Nya bagaikan tembaga:",
+      "h": "Kepada jemaat di Tiatira\n2:18-29",
+      "o": 18,
+      "l": "18"
+    },
+    {
+      "id": 66002019,
+      "b": 66,
+      "c": 2,
+      "v": 19,
+      "t": "Aku tahu segala pekerjaanmu: baik kasihmu maupun imanmu, baik pelayananmu maupun ketekunanmu. Aku tahu, bahwa pekerjaanmu yang terakhir lebih banyak dari pada yang pertama.",
+      "h": "",
+      "o": 19,
+      "l": "19"
+    },
+    {
+      "id": 66002020,
+      "b": 66,
+      "c": 2,
+      "v": 20,
+      "t": "Tetapi Aku mencela engkau, karena engkau membiarkan wanita Izebel, yang menyebut dirinya nabiah, mengajar dan menyesatkan hamba-hamba-Ku supaya berbuat zinah dan makan persembahan-persembahan berhala.",
+      "h": "",
+      "o": 20,
+      "l": "20"
+    },
+    {
+      "id": 66002021,
+      "b": 66,
+      "c": 2,
+      "v": 21,
+      "t": "Dan Aku telah memberikan dia waktu untuk bertobat, tetapi ia tidak mau bertobat dari zinahnya.",
+      "h": "",
+      "o": 21,
+      "l": "21"
+    },
+    {
+      "id": 66002022,
+      "b": 66,
+      "c": 2,
+      "v": 22,
+      "t": "Lihatlah, Aku akan melemparkan dia ke atas ranjang orang sakit dan mereka yang berbuat zinah dengan dia akan Kulemparkan ke dalam kesukaran besar, jika mereka tidak bertobat dari perbuatan-perbuatan perempuan itu.",
+      "h": "",
+      "o": 22,
+      "l": "22"
+    },
+    {
+      "id": 66002023,
+      "b": 66,
+      "c": 2,
+      "v": 23,
+      "t": "Dan anak-anaknya akan Kumatikan dan semua jemaat akan mengetahui, bahwa Akulah yang menguji batin dan hati orang, dan bahwa Aku akan membalaskan kepada kamu setiap orang menurut perbuatannya.",
+      "h": "",
+      "o": 23,
+      "l": "23"
+    },
+    {
+      "id": 66002024,
+      "b": 66,
+      "c": 2,
+      "v": 24,
+      "t": "Tetapi kepada kamu, yaitu orang-orang lain di Tiatira, yang tidak mengikuti ajaran itu dan yang tidak menyelidiki apa yang mereka sebut seluk-beluk Iblis, kepada kamu Aku berkata: Aku tidak mau menanggungkan beban lain kepadamu.",
+      "h": "",
+      "o": 24,
+      "l": "24"
+    },
+    {
+      "id": 66002025,
+      "b": 66,
+      "c": 2,
+      "v": 25,
+      "t": "Tetapi apa yang ada padamu, peganglah itu sampai Aku datang.",
+      "h": "",
+      "o": 25,
+      "l": "25"
+    },
+    {
+      "id": 66002026,
+      "b": 66,
+      "c": 2,
+      "v": 26,
+      "t": "Dan barangsiapa menang dan melakukan pekerjaan-Ku sampai kesudahannya, kepadanya akan Kukaruniakan kuasa atas bangsa-bangsa;",
+      "h": "",
+      "o": 26,
+      "l": "26"
+    },
+    {
+      "id": 66002027,
+      "b": 66,
+      "c": 2,
+      "v": 27,
+      "t": "dan ia akan memerintah mereka dengan tongkat besi; mereka akan diremukkan seperti tembikar tukang periuk – sama seperti yang Kuterima dari Bapa-Ku –",
+      "h": "",
+      "o": 27,
+      "l": "27"
+    },
+    {
+      "id": 66002028,
+      "b": 66,
+      "c": 2,
+      "v": 28,
+      "t": "dan kepadanya akan Kukaruniakan bintang timur.",
+      "h": "",
+      "o": 28,
+      "l": "28"
+    },
+    {
+      "id": 66002029,
+      "b": 66,
+      "c": 2,
+      "v": 29,
+      "t": "Siapa bertelinga, hendaklah ia mendengarkan apa yang dikatakan Roh kepada jemaat-jemaat.”",
+      "h": "",
+      "o": 29,
+      "l": "29"
+    }
+  ]
+}

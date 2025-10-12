@@ -1,1132 +1,515 @@
-[
-  {
-    "id": "54001001",
-    "b": 54,
-    "c": 1,
-    "v": 1,
-    "t": "Dari Paulus, rasul Kristus Yesus menurut perintah Allah, Juruselamat kita, dan Kristus Yesus, dasar pengharapan kita,",
-    "h": "Salam\n1:1-2",
-    "o": 1,
-    "l": "1"
-  },
-  {
-    "id": "54001002",
-    "b": 54,
-    "c": 1,
-    "v": 2,
-    "t": "kepada Timotius, anakku yang sah di dalam iman: kasih karunia, rahmat dan damai sejahtera dari Allah Bapa dan Kristus Yesus, Tuhan kita, menyertai engkau.",
-    "h": "",
-    "o": 2,
-    "l": "2"
-  },
-  {
-    "id": "54001003",
-    "b": 54,
-    "c": 1,
-    "v": 3,
-    "t": "Ketika aku hendak meneruskan perjalananku ke wilayah Makedonia, aku telah mendesak engkau supaya engkau tinggal di Efesus dan menasihatkan orang-orang tertentu, agar mereka jangan mengajarkan ajaran lain",
-    "h": "Mengenai ajaran sesat\n1:3-11",
-    "o": 3,
-    "l": "3"
-  },
-  {
-    "id": "54001004",
-    "b": 54,
-    "c": 1,
-    "v": 4,
-    "t": "ataupun sibuk dengan dongeng dan silsilah yang tiada putus-putusnya, yang hanya menghasilkan persoalan belaka, dan bukan tertib hidup keselamatan yang diberikan Allah dalam iman.",
-    "h": "",
-    "o": 4,
-    "l": "4"
-  },
-  {
-    "id": "54001005",
-    "b": 54,
-    "c": 1,
-    "v": 5,
-    "t": "Tujuan nasihat itu ialah kasih yang timbul dari hati yang suci, dari hati nurani yang murni dan dari iman yang tulus ikhlas.",
-    "h": "",
-    "o": 5,
-    "l": "5"
-  },
-  {
-    "id": "54001006",
-    "b": 54,
-    "c": 1,
-    "v": 6,
-    "t": "Tetapi ada orang yang tidak sampai pada tujuan itu dan yang sesat dalam omongan yang sia-sia.",
-    "h": "",
-    "o": 6,
-    "l": "6"
-  },
-  {
-    "id": "54001007",
-    "b": 54,
-    "c": 1,
-    "v": 7,
-    "t": "Mereka itu hendak menjadi pengajar hukum Taurat tanpa mengerti perkataan mereka sendiri dan pokok-pokok yang secara mutlak mereka kemukakan.",
-    "h": "",
-    "o": 7,
-    "l": "7"
-  },
-  {
-    "id": "54001008",
-    "b": 54,
-    "c": 1,
-    "v": 8,
-    "t": "Kita tahu bahwa hukum Taurat itu baik kalau tepat digunakan,",
-    "h": "",
-    "o": 8,
-    "l": "8"
-  },
-  {
-    "id": "54001009",
-    "b": 54,
-    "c": 1,
-    "v": 9,
-    "t": "yakni dengan keinsafan bahwa hukum Taurat itu bukanlah bagi orang yang benar, melainkan bagi orang durhaka dan orang lalim, bagi orang fasik dan orang berdosa, bagi orang duniawi dan yang tak beragama, bagi pembunuh bapa dan pembunuh ibu, bagi pembunuh pada umumnya,",
-    "h": "",
-    "o": 9,
-    "l": "9"
-  },
-  {
-    "id": "54001010",
-    "b": 54,
-    "c": 1,
-    "v": 10,
-    "t": "bagi orang cabul dan pemburit, bagi penculik, bagi pendusta, bagi orang makan sumpah dan seterusnya segala sesuatu yang bertentangan dengan ajaran sehat",
-    "h": "",
-    "o": 10,
-    "l": "10"
-  },
-  {
-    "id": "54001011",
-    "b": 54,
-    "c": 1,
-    "v": 11,
-    "t": "yang berdasarkan Injil dari Allah yang mulia dan maha bahagia, seperti yang telah dipercayakan kepadaku.",
-    "h": "",
-    "o": 11,
-    "l": "11"
-  },
-  {
-    "id": "54001012",
-    "b": 54,
-    "c": 1,
-    "v": 12,
-    "t": "Aku bersyukur kepada Dia, yang menguatkan aku, yaitu Kristus Yesus, Tuhan kita, karena Ia menganggap aku setia dan mempercayakan pelayanan ini kepadaku –",
-    "h": "Ucapan syukur atas kasih karunia Allah\n1:12-17",
-    "o": 12,
-    "l": "12"
-  },
-  {
-    "id": "54001013",
-    "b": 54,
-    "c": 1,
-    "v": 13,
-    "t": "aku yang tadinya seorang penghujat dan seorang penganiaya dan seorang ganas, tetapi aku telah dikasihani-Nya, karena semuanya itu telah kulakukan tanpa pengetahuan yaitu di luar iman.",
-    "h": "",
-    "o": 13,
-    "l": "13"
-  },
-  {
-    "id": "54001014",
-    "b": 54,
-    "c": 1,
-    "v": 14,
-    "t": "Malah kasih karunia Tuhan kita itu telah dikaruniakan dengan limpahnya kepadaku dengan iman dan kasih dalam Kristus Yesus.",
-    "h": "",
-    "o": 14,
-    "l": "14"
-  },
-  {
-    "id": "54001015",
-    "b": 54,
-    "c": 1,
-    "v": 15,
-    "t": "Perkataan ini benar dan patut diterima sepenuhnya: ”Kristus Yesus datang ke dunia untuk menyelamatkan orang berdosa,” dan di antara mereka akulah yang paling berdosa.",
-    "h": "",
-    "o": 15,
-    "l": "15"
-  },
-  {
-    "id": "54001016",
-    "b": 54,
-    "c": 1,
-    "v": 16,
-    "t": "Tetapi justru karena itu aku dikasihani, agar dalam diriku ini, sebagai orang yang paling berdosa, Yesus Kristus menunjukkan seluruh kesabaran-Nya. Dengan demikian aku menjadi contoh bagi mereka yang kemudian percaya kepada-Nya dan mendapat hidup yang kekal.",
-    "h": "",
-    "o": 16,
-    "l": "16"
-  },
-  {
-    "id": "54001017",
-    "b": 54,
-    "c": 1,
-    "v": 17,
-    "t": "Hormat dan kemuliaan sampai selama-lamanya bagi Raja segala zaman, Allah yang kekal, yang tak nampak, yang esa! Amin.",
-    "h": "",
-    "o": 17,
-    "l": "17"
-  },
-  {
-    "id": "54001018",
-    "b": 54,
-    "c": 1,
-    "v": 18,
-    "t": "Tugas ini kuberikan kepadamu, Timotius anakku, sesuai dengan apa yang telah dinubuatkan tentang dirimu, supaya dikuatkan oleh nubuat itu engkau memperjuangkan perjuangan yang baik dengan iman dan hati nurani yang murni.",
-    "h": "Tugas Timotius\n1:18-20",
-    "o": 18,
-    "l": "18"
-  },
-  {
-    "id": "54001019",
-    "b": 54,
-    "c": 1,
-    "v": 19,
-    "t": "Beberapa orang telah menolak hati nuraninya yang murni itu, dan karena itu kandaslah iman mereka,",
-    "h": "",
-    "o": 19,
-    "l": "19"
-  },
-  {
-    "id": "54001020",
-    "b": 54,
-    "c": 1,
-    "v": 20,
-    "t": "di antaranya Himeneus dan Aleksander, yang telah kuserahkan kepada Iblis, supaya jera mereka menghujat.",
-    "h": "",
-    "o": 20,
-    "l": "20"
-  },
-  {
-    "id": "54002001",
-    "b": 54,
-    "c": 2,
-    "v": 1,
-    "t": "Pertama-tama aku menasihatkan: Naikkanlah permohonan, doa syafaat dan ucapan syukur untuk semua orang,",
-    "h": "Mengenai doa jemaat\n2:1-7",
-    "o": 1,
-    "l": "1"
-  },
-  {
-    "id": "54002002",
-    "b": 54,
-    "c": 2,
-    "v": 2,
-    "t": "untuk raja-raja dan untuk semua pembesar, agar kita dapat hidup tenang dan tenteram dalam segala kesalehan dan kehormatan.",
-    "h": "",
-    "o": 2,
-    "l": "2"
-  },
-  {
-    "id": "54002003",
-    "b": 54,
-    "c": 2,
-    "v": 3,
-    "t": "Itulah yang baik dan yang berkenan kepada Allah, Juruselamat kita,",
-    "h": "",
-    "o": 3,
-    "l": "3"
-  },
-  {
-    "id": "54002004",
-    "b": 54,
-    "c": 2,
-    "v": 4,
-    "t": "yang menghendaki supaya semua orang diselamatkan dan memperoleh pengetahuan akan kebenaran.",
-    "h": "",
-    "o": 4,
-    "l": "4"
-  },
-  {
-    "id": "54002005",
-    "b": 54,
-    "c": 2,
-    "v": 5,
-    "t": "Karena Allah itu esa dan esa pula Dia yang menjadi pengantara antara Allah dan manusia, yaitu manusia Kristus Yesus,",
-    "h": "",
-    "o": 5,
-    "l": "5"
-  },
-  {
-    "id": "54002006",
-    "b": 54,
-    "c": 2,
-    "v": 6,
-    "t": "yang telah menyerahkan diri-Nya sebagai tebusan bagi semua manusia: itu kesaksian pada waktu yang ditentukan.",
-    "h": "",
-    "o": 6,
-    "l": "6"
-  },
-  {
-    "id": "54002007",
-    "b": 54,
-    "c": 2,
-    "v": 7,
-    "t": "Untuk kesaksian itulah aku telah ditetapkan sebagai pemberita dan rasul – yang kukatakan ini benar, aku tidak berdusta – dan sebagai pengajar orang-orang bukan Yahudi, dalam iman dan kebenaran.",
-    "h": "",
-    "o": 7,
-    "l": "7"
-  },
-  {
-    "id": "54002008",
-    "b": 54,
-    "c": 2,
-    "v": 8,
-    "t": "Oleh karena itu aku ingin, supaya di mana-mana orang laki-laki berdoa dengan menadahkan tangan yang suci, tanpa marah dan tanpa perselisihan.",
-    "h": "Mengenai sikap orang laki-laki dan perempuan dalam ibadah jemaat\n2:8-15",
-    "o": 8,
-    "l": "8"
-  },
-  {
-    "id": "54002009",
-    "b": 54,
-    "c": 2,
-    "v": 9,
-    "t": "Demikian juga hendaknya perempuan. Hendaklah ia berdandan dengan pantas, dengan sopan dan sederhana, rambutnya jangan berkepang-kepang, jangan memakai emas atau mutiara ataupun pakaian yang mahal-mahal,",
-    "h": "",
-    "o": 9,
-    "l": "9"
-  },
-  {
-    "id": "54002010",
-    "b": 54,
-    "c": 2,
-    "v": 10,
-    "t": "tetapi hendaklah ia berdandan dengan perbuatan baik, seperti yang layak bagi perempuan yang beribadah.",
-    "h": "",
-    "o": 10,
-    "l": "10"
-  },
-  {
-    "id": "54002011",
-    "b": 54,
-    "c": 2,
-    "v": 11,
-    "t": "Seharusnyalah perempuan berdiam diri dan menerima ajaran dengan patuh.",
-    "h": "",
-    "o": 11,
-    "l": "11"
-  },
-  {
-    "id": "54002012",
-    "b": 54,
-    "c": 2,
-    "v": 12,
-    "t": "Aku tidak mengizinkan perempuan mengajar dan juga tidak mengizinkannya memerintah laki-laki; hendaklah ia berdiam diri.",
-    "h": "",
-    "o": 12,
-    "l": "12"
-  },
-  {
-    "id": "54002013",
-    "b": 54,
-    "c": 2,
-    "v": 13,
-    "t": "Karena Adam yang pertama dijadikan, kemudian barulah Hawa.",
-    "h": "",
-    "o": 13,
-    "l": "13"
-  },
-  {
-    "id": "54002014",
-    "b": 54,
-    "c": 2,
-    "v": 14,
-    "t": "Lagipula bukan Adam yang tergoda, melainkan perempuan itulah yang tergoda dan jatuh ke dalam dosa.",
-    "h": "",
-    "o": 14,
-    "l": "14"
-  },
-  {
-    "id": "54002015",
-    "b": 54,
-    "c": 2,
-    "v": 15,
-    "t": "Tetapi perempuan akan diselamatkan karena melahirkan anak, asal ia bertekun dalam iman dan kasih dan pengudusan dengan segala kesederhanaan.",
-    "h": "",
-    "o": 15,
-    "l": "15"
-  },
-  {
-    "id": "54003001",
-    "b": 54,
-    "c": 3,
-    "v": 1,
-    "t": "Benarlah perkataan ini: ”Orang yang menghendaki jabatan penilik jemaat menginginkan pekerjaan yang indah.”",
-    "h": "Syarat-syarat bagi penilik jemaat\n3:1-7",
-    "o": 1,
-    "l": "1"
-  },
-  {
-    "id": "54003002",
-    "b": 54,
-    "c": 3,
-    "v": 2,
-    "t": "Karena itu penilik jemaat haruslah seorang yang tak bercacat, suami dari satu isteri, dapat menahan diri, bijaksana, sopan, suka memberi tumpangan, cakap mengajar orang,",
-    "h": "",
-    "o": 2,
-    "l": "2"
-  },
-  {
-    "id": "54003003",
-    "b": 54,
-    "c": 3,
-    "v": 3,
-    "t": "bukan peminum, bukan pemarah melainkan peramah, pendamai, bukan hamba uang,",
-    "h": "",
-    "o": 3,
-    "l": "3"
-  },
-  {
-    "id": "54003004",
-    "b": 54,
-    "c": 3,
-    "v": 4,
-    "t": "seorang kepala keluarga yang baik, disegani dan dihormati oleh anak-anaknya.",
-    "h": "",
-    "o": 4,
-    "l": "4"
-  },
-  {
-    "id": "54003005",
-    "b": 54,
-    "c": 3,
-    "v": 5,
-    "t": "Jikalau seorang tidak tahu mengepalai keluarganya sendiri, bagaimanakah ia dapat mengurus Jemaat Allah?",
-    "h": "",
-    "o": 5,
-    "l": "5"
-  },
-  {
-    "id": "54003006",
-    "b": 54,
-    "c": 3,
-    "v": 6,
-    "t": "Janganlah ia seorang yang baru bertobat, agar jangan ia menjadi sombong dan kena hukuman Iblis.",
-    "h": "",
-    "o": 6,
-    "l": "6"
-  },
-  {
-    "id": "54003007",
-    "b": 54,
-    "c": 3,
-    "v": 7,
-    "t": "Hendaklah ia juga mempunyai nama baik di luar jemaat, agar jangan ia digugat orang dan jatuh ke dalam jerat Iblis.",
-    "h": "",
-    "o": 7,
-    "l": "7"
-  },
-  {
-    "id": "54003008",
-    "b": 54,
-    "c": 3,
-    "v": 8,
-    "t": "Demikian juga diaken-diaken haruslah orang terhormat, jangan bercabang lidah, jangan penggemar anggur, jangan serakah,",
-    "h": "Syarat-syarat bagi diaken\n3:8-13",
-    "o": 8,
-    "l": "8"
-  },
-  {
-    "id": "54003009",
-    "b": 54,
-    "c": 3,
-    "v": 9,
-    "t": "melainkan orang yang memelihara rahasia iman dalam hati nurani yang suci.",
-    "h": "",
-    "o": 9,
-    "l": "9"
-  },
-  {
-    "id": "54003010",
-    "b": 54,
-    "c": 3,
-    "v": 10,
-    "t": "Mereka juga harus diuji dahulu, baru ditetapkan dalam pelayanan itu setelah ternyata mereka tak bercacat.",
-    "h": "",
-    "o": 10,
-    "l": "10"
-  },
-  {
-    "id": "54003011",
-    "b": 54,
-    "c": 3,
-    "v": 11,
-    "t": "Demikian pula isteri-isteri hendaklah orang terhormat, jangan pemfitnah, hendaklah dapat menahan diri dan dapat dipercayai dalam segala hal.",
-    "h": "",
-    "o": 11,
-    "l": "11"
-  },
-  {
-    "id": "54003012",
-    "b": 54,
-    "c": 3,
-    "v": 12,
-    "t": "Diaken haruslah suami dari satu isteri dan mengurus anak-anaknya dan keluarganya dengan baik.",
-    "h": "",
-    "o": 12,
-    "l": "12"
-  },
-  {
-    "id": "54003013",
-    "b": 54,
-    "c": 3,
-    "v": 13,
-    "t": "Karena mereka yang melayani dengan baik beroleh kedudukan yang baik sehingga dalam iman kepada Kristus Yesus mereka dapat bersaksi dengan leluasa.",
-    "h": "",
-    "o": 13,
-    "l": "13"
-  },
-  {
-    "id": "54003014",
-    "b": 54,
-    "c": 3,
-    "v": 14,
-    "t": "Semuanya itu kutuliskan kepadamu, walaupun kuharap segera dapat mengunjungi engkau.",
-    "h": "Jemaat Allah, dasar dan penopang kebenaran\n3:14-16",
-    "o": 14,
-    "l": "14"
-  },
-  {
-    "id": "54003015",
-    "b": 54,
-    "c": 3,
-    "v": 15,
-    "t": "Jadi jika aku terlambat, sudahlah engkau tahu bagaimana orang harus hidup sebagai keluarga Allah, yakni jemaat dari Allah yang hidup, tiang penopang dan dasar kebenaran.",
-    "h": "",
-    "o": 15,
-    "l": "15"
-  },
-  {
-    "id": "54003016",
-    "b": 54,
-    "c": 3,
-    "v": 16,
-    "t": "Dan sesungguhnya agunglah rahasia ibadah kita: ”Dia, yang telah menyatakan diri-Nya dalam rupa manusia, dibenarkan dalam Roh; yang menampakkan diri-Nya kepada malaikat-malaikat, diberitakan di antara bangsa-bangsa yang tidak mengenal Allah; yang dipercayai di dalam dunia, diangkat dalam kemuliaan.”",
-    "h": "",
-    "o": 16,
-    "l": "16"
-  },
-  {
-    "id": "54004001",
-    "b": 54,
-    "c": 4,
-    "v": 1,
-    "t": "Tetapi Roh dengan tegas mengatakan bahwa di waktu-waktu kemudian, ada orang yang akan murtad lalu mengikuti roh-roh penyesat dan ajaran setan-setan",
-    "h": "Tugas Timotius dalam menghadapi pengajar sesat\n4:1-16",
-    "o": 1,
-    "l": "1"
-  },
-  {
-    "id": "54004002",
-    "b": 54,
-    "c": 4,
-    "v": 2,
-    "t": "oleh tipu daya pendusta-pendusta yang hati nuraninya memakai cap mereka.",
-    "h": "",
-    "o": 2,
-    "l": "2"
-  },
-  {
-    "id": "54004003",
-    "b": 54,
-    "c": 4,
-    "v": 3,
-    "t": "Mereka itu melarang orang kawin, melarang orang makan makanan yang diciptakan Allah supaya dengan pengucapan syukur dimakan oleh orang yang percaya dan yang telah mengenal kebenaran.",
-    "h": "",
-    "o": 3,
-    "l": "3"
-  },
-  {
-    "id": "54004004",
-    "b": 54,
-    "c": 4,
-    "v": 4,
-    "t": "Karena semua yang diciptakan Allah itu baik dan suatu pun tidak ada yang haram, jika diterima dengan ucapan syukur,",
-    "h": "",
-    "o": 4,
-    "l": "4"
-  },
-  {
-    "id": "54004005",
-    "b": 54,
-    "c": 4,
-    "v": 5,
-    "t": "sebab semuanya itu dikuduskan oleh firman Allah dan oleh doa.",
-    "h": "",
-    "o": 5,
-    "l": "5"
-  },
-  {
-    "id": "54004006",
-    "b": 54,
-    "c": 4,
-    "v": 6,
-    "t": "Dengan selalu mengingatkan hal-hal itu kepada saudara-saudara kita, engkau akan menjadi seorang pelayan Kristus Yesus yang baik, terdidik dalam soal-soal pokok iman kita dan dalam ajaran sehat yang telah kauikuti selama ini.",
-    "h": "",
-    "o": 6,
-    "l": "6"
-  },
-  {
-    "id": "54004007",
-    "b": 54,
-    "c": 4,
-    "v": 7,
-    "t": "Tetapi jauhilah takhayul dan dongeng nenek-nenek tua. Latihlah dirimu beribadah.",
-    "h": "",
-    "o": 7,
-    "l": "7"
-  },
-  {
-    "id": "54004008",
-    "b": 54,
-    "c": 4,
-    "v": 8,
-    "t": "Latihan badani terbatas gunanya, tetapi ibadah itu berguna dalam segala hal, karena mengandung janji, baik untuk hidup ini maupun untuk hidup yang akan datang.",
-    "h": "",
-    "o": 8,
-    "l": "8"
-  },
-  {
-    "id": "54004009",
-    "b": 54,
-    "c": 4,
-    "v": 9,
-    "t": "Perkataan ini benar dan patut diterima sepenuhnya.",
-    "h": "",
-    "o": 9,
-    "l": "9"
-  },
-  {
-    "id": "54004010",
-    "b": 54,
-    "c": 4,
-    "v": 10,
-    "t": "Itulah sebabnya kita berjerih payah dan berjuang, karena kita menaruh pengharapan kita kepada Allah yang hidup, Juruselamat semua manusia, terutama mereka yang percaya.",
-    "h": "",
-    "o": 10,
-    "l": "10"
-  },
-  {
-    "id": "54004011",
-    "b": 54,
-    "c": 4,
-    "v": 11,
-    "t": "Beritakanlah dan ajarkanlah semuanya itu.",
-    "h": "",
-    "o": 11,
-    "l": "11"
-  },
-  {
-    "id": "54004012",
-    "b": 54,
-    "c": 4,
-    "v": 12,
-    "t": "Jangan seorang pun menganggap engkau rendah karena engkau muda. Jadilah teladan bagi orang-orang percaya, dalam perkataanmu, dalam tingkah lakumu, dalam kasihmu, dalam kesetiaanmu dan dalam kesucianmu.",
-    "h": "",
-    "o": 12,
-    "l": "12"
-  },
-  {
-    "id": "54004013",
-    "b": 54,
-    "c": 4,
-    "v": 13,
-    "t": "Sementara itu, sampai aku datang bertekunlah dalam membaca Kitab-kitab Suci, dalam membangun dan dalam mengajar.",
-    "h": "",
-    "o": 13,
-    "l": "13"
-  },
-  {
-    "id": "54004014",
-    "b": 54,
-    "c": 4,
-    "v": 14,
-    "t": "Jangan lalai dalam mempergunakan karunia yang ada padamu, yang telah diberikan kepadamu oleh nubuat dan dengan penumpangan tangan sidang penatua.",
-    "h": "",
-    "o": 14,
-    "l": "14"
-  },
-  {
-    "id": "54004015",
-    "b": 54,
-    "c": 4,
-    "v": 15,
-    "t": "Perhatikanlah semuanya itu, hiduplah di dalamnya supaya kemajuanmu nyata kepada semua orang.",
-    "h": "",
-    "o": 15,
-    "l": "15"
-  },
-  {
-    "id": "54004016",
-    "b": 54,
-    "c": 4,
-    "v": 16,
-    "t": "Awasilah dirimu sendiri dan awasilah ajaranmu. Bertekunlah dalam semuanya itu, karena dengan berbuat demikian engkau akan menyelamatkan dirimu dan semua orang yang mendengar engkau.",
-    "h": "",
-    "o": 16,
-    "l": "16"
-  },
-  {
-    "id": "54005001",
-    "b": 54,
-    "c": 5,
-    "v": 1,
-    "t": "Janganlah engkau keras terhadap orang yang tua, melainkan tegorlah dia sebagai bapa. Tegorlah orang-orang muda sebagai saudaramu,",
-    "h": "Mengenai saudara-saudara seiman\n5:1-2",
-    "o": 1,
-    "l": "1"
-  },
-  {
-    "id": "54005002",
-    "b": 54,
-    "c": 5,
-    "v": 2,
-    "t": "perempuan-perempuan tua sebagai ibu dan perempuan-perempuan muda sebagai adikmu dengan penuh kemurnian.",
-    "h": "",
-    "o": 2,
-    "l": "2"
-  },
-  {
-    "id": "54005003",
-    "b": 54,
-    "c": 5,
-    "v": 3,
-    "t": "Hormatilah janda-janda yang benar-benar janda.",
-    "h": "Mengenai janda\n5:3-16",
-    "o": 3,
-    "l": "3"
-  },
-  {
-    "id": "54005004",
-    "b": 54,
-    "c": 5,
-    "v": 4,
-    "t": "Tetapi jikalau seorang janda mempunyai anak atau cucu, hendaknya mereka itu pertama-tama belajar berbakti kepada kaum keluarganya sendiri dan membalas budi orang tua dan nenek mereka, karena itulah yang berkenan kepada Allah.",
-    "h": "",
-    "o": 4,
-    "l": "4"
-  },
-  {
-    "id": "54005005",
-    "b": 54,
-    "c": 5,
-    "v": 5,
-    "t": "Sedangkan seorang janda yang benar-benar janda, yang ditinggalkan seorang diri, menaruh harapannya kepada Allah dan bertekun dalam permohonan dan doa siang malam.",
-    "h": "",
-    "o": 5,
-    "l": "5"
-  },
-  {
-    "id": "54005006",
-    "b": 54,
-    "c": 5,
-    "v": 6,
-    "t": "Tetapi seorang janda yang hidup mewah dan berlebih-lebihan, ia sudah mati selagi hidup.",
-    "h": "",
-    "o": 6,
-    "l": "6"
-  },
-  {
-    "id": "54005007",
-    "b": 54,
-    "c": 5,
-    "v": 7,
-    "t": "Peringatkanlah hal-hal ini juga kepada janda-janda itu agar mereka hidup dengan tidak bercela.",
-    "h": "",
-    "o": 7,
-    "l": "7"
-  },
-  {
-    "id": "54005008",
-    "b": 54,
-    "c": 5,
-    "v": 8,
-    "t": "Tetapi jika ada seorang yang tidak memeliharakan sanak saudaranya, apalagi seisi rumahnya, orang itu murtad dan lebih buruk dari orang yang tidak beriman.",
-    "h": "",
-    "o": 8,
-    "l": "8"
-  },
-  {
-    "id": "54005009",
-    "b": 54,
-    "c": 5,
-    "v": 9,
-    "t": "Yang didaftarkan sebagai janda, hanyalah mereka yang tidak kurang dari enam puluh tahun, yang hanya satu kali bersuami",
-    "h": "",
-    "o": 9,
-    "l": "9"
-  },
-  {
-    "id": "54005010",
-    "b": 54,
-    "c": 5,
-    "v": 10,
-    "t": "dan yang terbukti telah melakukan pekerjaan yang baik, seperti mengasuh anak, memberi tumpangan, membasuh kaki saudara-saudara seiman, menolong orang yang hidup dalam kesesakan – pendeknya mereka yang telah menggunakan segala kesempatan untuk berbuat baik.",
-    "h": "",
-    "o": 10,
-    "l": "10"
-  },
-  {
-    "id": "54005011",
-    "b": 54,
-    "c": 5,
-    "v": 11,
-    "t": "Tolaklah pendaftaran janda-janda yang lebih muda. Karena apabila mereka sekali digairahkan oleh keberahian yang menceraikan mereka dari Kristus, mereka itu ingin kawin",
-    "h": "",
-    "o": 11,
-    "l": "11"
-  },
-  {
-    "id": "54005012",
-    "b": 54,
-    "c": 5,
-    "v": 12,
-    "t": "dan dengan memungkiri kesetiaan mereka yang semula kepada-Nya, mereka mendatangkan hukuman atas dirinya.",
-    "h": "",
-    "o": 12,
-    "l": "12"
-  },
-  {
-    "id": "54005013",
-    "b": 54,
-    "c": 5,
-    "v": 13,
-    "t": "Lagipula dengan keluar masuk rumah orang, mereka membiasakan diri bermalas-malas dan bukan hanya bermalas-malas saja, tetapi juga meleter dan mencampuri soal orang lain dan mengatakan hal-hal yang tidak pantas.",
-    "h": "",
-    "o": 13,
-    "l": "13"
-  },
-  {
-    "id": "54005014",
-    "b": 54,
-    "c": 5,
-    "v": 14,
-    "t": "Karena itu aku mau supaya janda-janda yang muda kawin lagi, beroleh anak, memimpin rumah tangganya dan jangan memberi alasan kepada lawan untuk memburuk-burukkan nama kita.",
-    "h": "",
-    "o": 14,
-    "l": "14"
-  },
-  {
-    "id": "54005015",
-    "b": 54,
-    "c": 5,
-    "v": 15,
-    "t": "Karena beberapa janda telah tersesat mengikut Iblis.",
-    "h": "",
-    "o": 15,
-    "l": "15"
-  },
-  {
-    "id": "54005016",
-    "b": 54,
-    "c": 5,
-    "v": 16,
-    "t": "Jika seorang laki-laki atau perempuan yang percaya mempunyai anggota keluarga yang janda, hendaklah ia membantu mereka sehingga mereka jangan menjadi beban bagi jemaat. Dengan demikian jemaat dapat membantu mereka yang benar-benar janda.",
-    "h": "",
-    "o": 16,
-    "l": "16"
-  },
-  {
-    "id": "54005017",
-    "b": 54,
-    "c": 5,
-    "v": 17,
-    "t": "Penatua-penatua yang baik pimpinannya patut dihormati dua kali lipat, terutama mereka yang dengan jerih payah berkhotbah dan mengajar.",
-    "h": "Beberapa petunjuk dan nasihat lagi\n5:17–6:2a",
-    "o": 17,
-    "l": "17"
-  },
-  {
-    "id": "54005018",
-    "b": 54,
-    "c": 5,
-    "v": 18,
-    "t": "Bukankah Kitab Suci berkata: ”Janganlah engkau memberangus mulut lembu yang sedang mengirik,” dan lagi ”seorang pekerja patut mendapat upahnya.”",
-    "h": "",
-    "o": 18,
-    "l": "18"
-  },
-  {
-    "id": "54005019",
-    "b": 54,
-    "c": 5,
-    "v": 19,
-    "t": "Janganlah engkau menerima tuduhan atas seorang penatua kecuali kalau didukung dua atau tiga orang saksi.",
-    "h": "",
-    "o": 19,
-    "l": "19"
-  },
-  {
-    "id": "54005020",
-    "b": 54,
-    "c": 5,
-    "v": 20,
-    "t": "Mereka yang berbuat dosa hendaklah kautegor di depan semua orang agar yang lain itu pun takut.",
-    "h": "",
-    "o": 20,
-    "l": "20"
-  },
-  {
-    "id": "54005021",
-    "b": 54,
-    "c": 5,
-    "v": 21,
-    "t": "Di hadapan Allah dan Kristus Yesus dan malaikat-malaikat pilihan-Nya kupesankan dengan sungguh kepadamu: camkanlah petunjuk ini tanpa prasangka dan bertindaklah dalam segala sesuatu tanpa memihak.",
-    "h": "",
-    "o": 21,
-    "l": "21"
-  },
-  {
-    "id": "54005022",
-    "b": 54,
-    "c": 5,
-    "v": 22,
-    "t": "Janganlah engkau terburu-buru menumpangkan tangan atas seseorang dan janganlah terbawa-bawa ke dalam dosa orang lain. Jagalah kemurnian dirimu.",
-    "h": "",
-    "o": 22,
-    "l": "22"
-  },
-  {
-    "id": "54005023",
-    "b": 54,
-    "c": 5,
-    "v": 23,
-    "t": "Janganlah lagi minum air saja, melainkan tambahkanlah anggur sedikit, berhubung pencernaanmu terganggu dan tubuhmu sering lemah.",
-    "h": "",
-    "o": 23,
-    "l": "23"
-  },
-  {
-    "id": "54005024",
-    "b": 54,
-    "c": 5,
-    "v": 24,
-    "t": "Dosa beberapa orang mencolok, seakan-akan mendahului mereka ke pengadilan, tetapi dosa beberapa orang lagi baru menjadi nyata kemudian.",
-    "h": "",
-    "o": 24,
-    "l": "24"
-  },
-  {
-    "id": "54005025",
-    "b": 54,
-    "c": 5,
-    "v": 25,
-    "t": "Demikian pun perbuatan baik itu segera nyata dan kalau tidak demikian, ia tidak dapat terus tinggal tersembunyi.",
-    "h": "",
-    "o": 25,
-    "l": "25"
-  },
-  {
-    "id": "54006001",
-    "b": 54,
-    "c": 6,
-    "v": 1,
-    "t": "Semua orang yang menanggung beban perbudakan hendaknya menganggap tuan mereka layak mendapat segala penghormatan, agar nama Allah dan ajaran kita jangan dihujat orang.",
-    "h": "",
-    "o": 1,
-    "l": "1"
-  },
-  {
-    "id": "54006002",
-    "b": 54,
-    "c": 6,
-    "v": 2,
-    "t": "Jika tuan mereka seorang percaya, janganlah ia kurang disegani karena bersaudara dalam Kristus, melainkan hendaklah ia dilayani mereka dengan lebih baik lagi, karena tuan yang menerima berkat pelayanan mereka ialah saudara yang percaya dan yang kekasih. Ajarkanlah dan nasihatkanlah semuanya ini.",
-    "h": "",
-    "o": 2,
-    "l": "2b"
-  },
-  {
-    "id": "54006003",
-    "b": 54,
-    "c": 6,
-    "v": 3,
-    "t": "Jika seorang mengajarkan ajaran lain dan tidak menurut perkataan sehat – yakni perkataan Tuhan kita Yesus Kristus – dan tidak menurut ajaran yang sesuai dengan ibadah kita,",
-    "h": "Mengenai penyakit bersilat kata dan mengenai cinta uang\n6:2b-10",
-    "o": 3,
-    "l": "3"
-  },
-  {
-    "id": "54006004",
-    "b": 54,
-    "c": 6,
-    "v": 4,
-    "t": "ia adalah seorang yang berlagak tahu padahal tidak tahu apa-apa. Penyakitnya ialah mencari-cari soal dan bersilat kata, yang menyebabkan dengki, cidera, fitnah, curiga,",
-    "h": "",
-    "o": 4,
-    "l": "4"
-  },
-  {
-    "id": "54006005",
-    "b": 54,
-    "c": 6,
-    "v": 5,
-    "t": "percekcokan antara orang-orang yang tidak lagi berpikiran sehat dan yang kehilangan kebenaran, yang mengira ibadah itu adalah suatu sumber keuntungan.",
-    "h": "",
-    "o": 5,
-    "l": "5"
-  },
-  {
-    "id": "54006006",
-    "b": 54,
-    "c": 6,
-    "v": 6,
-    "t": "Memang ibadah itu kalau disertai rasa cukup, memberi keuntungan besar.",
-    "h": "",
-    "o": 6,
-    "l": "6"
-  },
-  {
-    "id": "54006007",
-    "b": 54,
-    "c": 6,
-    "v": 7,
-    "t": "Sebab kita tidak membawa sesuatu apa ke dalam dunia dan kita pun tidak dapat membawa apa-apa ke luar.",
-    "h": "",
-    "o": 7,
-    "l": "7"
-  },
-  {
-    "id": "54006008",
-    "b": 54,
-    "c": 6,
-    "v": 8,
-    "t": "Asal ada makanan dan pakaian, cukuplah.",
-    "h": "",
-    "o": 8,
-    "l": "8"
-  },
-  {
-    "id": "54006009",
-    "b": 54,
-    "c": 6,
-    "v": 9,
-    "t": "Tetapi mereka yang ingin kaya terjatuh ke dalam pencobaan, ke dalam jerat dan ke dalam berbagai-bagai nafsu yang hampa dan yang mencelakakan, yang menenggelamkan manusia ke dalam keruntuhan dan kebinasaan.",
-    "h": "",
-    "o": 9,
-    "l": "9"
-  },
-  {
-    "id": "54006010",
-    "b": 54,
-    "c": 6,
-    "v": 10,
-    "t": "Karena akar segala kejahatan ialah cinta uang. Sebab oleh memburu uanglah beberapa orang telah menyimpang dari iman dan menyiksa dirinya dengan berbagai-bagai duka.",
-    "h": "",
-    "o": 10,
-    "l": "10"
-  },
-  {
-    "id": "54006011",
-    "b": 54,
-    "c": 6,
-    "v": 11,
-    "t": "Tetapi engkau hai manusia Allah, jauhilah semuanya itu, kejarlah keadilan, ibadah, kesetiaan, kasih, kesabaran dan kelembutan.",
-    "h": "Pesan penutup\n6:11-21",
-    "o": 11,
-    "l": "11"
-  },
-  {
-    "id": "54006012",
-    "b": 54,
-    "c": 6,
-    "v": 12,
-    "t": "Bertandinglah dalam pertandingan iman yang benar dan rebutlah hidup yang kekal. Untuk itulah engkau telah dipanggil dan telah engkau ikrarkan ikrar yang benar di depan banyak saksi.",
-    "h": "",
-    "o": 12,
-    "l": "12"
-  },
-  {
-    "id": "54006013",
-    "b": 54,
-    "c": 6,
-    "v": 13,
-    "t": "Di hadapan Allah yang memberikan hidup kepada segala sesuatu dan di hadapan Kristus Yesus yang telah mengikrarkan ikrar yang benar itu juga di muka Pontius Pilatus, kuserukan kepadamu:",
-    "h": "",
-    "o": 13,
-    "l": "13"
-  },
-  {
-    "id": "54006014",
-    "b": 54,
-    "c": 6,
-    "v": 14,
-    "t": "Turutilah perintah ini, dengan tidak bercacat dan tidak bercela, hingga pada saat Tuhan kita Yesus Kristus menyatakan diri-Nya,",
-    "h": "",
-    "o": 14,
-    "l": "14"
-  },
-  {
-    "id": "54006015",
-    "b": 54,
-    "c": 6,
-    "v": 15,
-    "t": "yaitu saat yang akan ditentukan oleh Penguasa yang satu-satunya dan yang penuh bahagia, Raja di atas segala raja dan Tuan di atas segala tuan.",
-    "h": "",
-    "o": 15,
-    "l": "15"
-  },
-  {
-    "id": "54006016",
-    "b": 54,
-    "c": 6,
-    "v": 16,
-    "t": "Dialah satu-satunya yang tidak takluk kepada maut, bersemayam dalam terang yang tak terhampiri. Seorang pun tak pernah melihat Dia dan memang manusia tidak dapat melihat Dia. Bagi-Nyalah hormat dan kuasa yang kekal! Amin.",
-    "h": "",
-    "o": 16,
-    "l": "16"
-  },
-  {
-    "id": "54006017",
-    "b": 54,
-    "c": 6,
-    "v": 17,
-    "t": "Peringatkanlah kepada orang-orang kaya di dunia ini agar mereka jangan tinggi hati dan jangan berharap pada sesuatu yang tak tentu seperti kekayaan, melainkan pada Allah yang dalam kekayaan-Nya memberikan kepada kita segala sesuatu untuk dinikmati.",
-    "h": "",
-    "o": 17,
-    "l": "17"
-  },
-  {
-    "id": "54006018",
-    "b": 54,
-    "c": 6,
-    "v": 18,
-    "t": "Peringatkanlah agar mereka itu berbuat baik, menjadi kaya dalam kebajikan, suka memberi dan membagi",
-    "h": "",
-    "o": 18,
-    "l": "18"
-  },
-  {
-    "id": "54006019",
-    "b": 54,
-    "c": 6,
-    "v": 19,
-    "t": "dan dengan demikian mengumpulkan suatu harta sebagai dasar yang baik bagi dirinya di waktu yang akan datang untuk mencapai hidup yang sebenarnya.",
-    "h": "",
-    "o": 19,
-    "l": "19"
-  },
-  {
-    "id": "54006020",
-    "b": 54,
-    "c": 6,
-    "v": 20,
-    "t": "Hai Timotius, peliharalah apa yang telah dipercayakan kepadamu. Hindarilah omongan yang kosong dan yang tidak suci dan pertentangan-pertentangan yang berasal dari apa yang disebut pengetahuan,",
-    "h": "",
-    "o": 20,
-    "l": "20"
-  },
-  {
-    "id": "54006021",
-    "b": 54,
-    "c": 6,
-    "v": 21,
-    "t": "karena ada beberapa orang yang mengajarkannya dan dengan demikian telah menyimpang dari iman. Kasih karunia menyertai kamu!",
-    "h": "",
-    "o": 21,
-    "l": "21"
-  }
-]
+{
+  "_id": "TB.1TI",
+  "verses": [
+    {
+      "id": 54001001,
+      "b": 54,
+      "c": 1,
+      "v": 1,
+      "t": "Dari Paulus, rasul Kristus Yesus menurut perintah Allah, Juruselamat kita, dan Kristus Yesus, dasar pengharapan kita,",
+      "h": "Salam\n1:1-2",
+      "o": 1,
+      "l": "1"
+    },
+    {
+      "id": 54001002,
+      "b": 54,
+      "c": 1,
+      "v": 2,
+      "t": "kepada Timotius, anakku yang sah di dalam iman: kasih karunia, rahmat dan damai sejahtera dari Allah Bapa dan Kristus Yesus, Tuhan kita, menyertai engkau.",
+      "h": "",
+      "o": 2,
+      "l": "2"
+    },
+    {
+      "id": 54001003,
+      "b": 54,
+      "c": 1,
+      "v": 3,
+      "t": "Ketika aku hendak meneruskan perjalananku ke wilayah Makedonia, aku telah mendesak engkau supaya engkau tinggal di Efesus dan menasihatkan orang-orang tertentu, agar mereka jangan mengajarkan ajaran lain",
+      "h": "Mengenai ajaran sesat\n1:3-11",
+      "o": 3,
+      "l": "3"
+    },
+    {
+      "id": 54001004,
+      "b": 54,
+      "c": 1,
+      "v": 4,
+      "t": "ataupun sibuk dengan dongeng dan silsilah yang tiada putus-putusnya, yang hanya menghasilkan persoalan belaka, dan bukan tertib hidup keselamatan yang diberikan Allah dalam iman.",
+      "h": "",
+      "o": 4,
+      "l": "4"
+    },
+    {
+      "id": 54001005,
+      "b": 54,
+      "c": 1,
+      "v": 5,
+      "t": "Tujuan nasihat itu ialah kasih yang timbul dari hati yang suci, dari hati nurani yang murni dan dari iman yang tulus ikhlas.",
+      "h": "",
+      "o": 5,
+      "l": "5"
+    },
+    {
+      "id": 54001006,
+      "b": 54,
+      "c": 1,
+      "v": 6,
+      "t": "Tetapi ada orang yang tidak sampai pada tujuan itu dan yang sesat dalam omongan yang sia-sia.",
+      "h": "",
+      "o": 6,
+      "l": "6"
+    },
+    {
+      "id": 54001007,
+      "b": 54,
+      "c": 1,
+      "v": 7,
+      "t": "Mereka itu hendak menjadi pengajar hukum Taurat tanpa mengerti perkataan mereka sendiri dan pokok-pokok yang secara mutlak mereka kemukakan.",
+      "h": "",
+      "o": 7,
+      "l": "7"
+    },
+    {
+      "id": 54001008,
+      "b": 54,
+      "c": 1,
+      "v": 8,
+      "t": "Kita tahu bahwa hukum Taurat itu baik kalau tepat digunakan,",
+      "h": "",
+      "o": 8,
+      "l": "8"
+    },
+    {
+      "id": 54001009,
+      "b": 54,
+      "c": 1,
+      "v": 9,
+      "t": "yakni dengan keinsafan bahwa hukum Taurat itu bukanlah bagi orang yang benar, melainkan bagi orang durhaka dan orang lalim, bagi orang fasik dan orang berdosa, bagi orang duniawi dan yang tak beragama, bagi pembunuh bapa dan pembunuh ibu, bagi pembunuh pada umumnya,",
+      "h": "",
+      "o": 9,
+      "l": "9"
+    },
+    {
+      "id": 54001010,
+      "b": 54,
+      "c": 1,
+      "v": 10,
+      "t": "bagi orang cabul dan pemburit, bagi penculik, bagi pendusta, bagi orang makan sumpah dan seterusnya segala sesuatu yang bertentangan dengan ajaran sehat",
+      "h": "",
+      "o": 10,
+      "l": "10"
+    },
+    {
+      "id": 54001011,
+      "b": 54,
+      "c": 1,
+      "v": 11,
+      "t": "yang berdasarkan Injil dari Allah yang mulia dan maha bahagia, seperti yang telah dipercayakan kepadaku.",
+      "h": "",
+      "o": 11,
+      "l": "11"
+    },
+    {
+      "id": 54001012,
+      "b": 54,
+      "c": 1,
+      "v": 12,
+      "t": "Aku bersyukur kepada Dia, yang menguatkan aku, yaitu Kristus Yesus, Tuhan kita, karena Ia menganggap aku setia dan mempercayakan pelayanan ini kepadaku –",
+      "h": "Ucapan syukur atas kasih karunia Allah\n1:12-17",
+      "o": 12,
+      "l": "12"
+    },
+    {
+      "id": 54001013,
+      "b": 54,
+      "c": 1,
+      "v": 13,
+      "t": "aku yang tadinya seorang penghujat dan seorang penganiaya dan seorang ganas, tetapi aku telah dikasihani-Nya, karena semuanya itu telah kulakukan tanpa pengetahuan yaitu di luar iman.",
+      "h": "",
+      "o": 13,
+      "l": "13"
+    },
+    {
+      "id": 54001014,
+      "b": 54,
+      "c": 1,
+      "v": 14,
+      "t": "Malah kasih karunia Tuhan kita itu telah dikaruniakan dengan limpahnya kepadaku dengan iman dan kasih dalam Kristus Yesus.",
+      "h": "",
+      "o": 14,
+      "l": "14"
+    },
+    {
+      "id": 54001015,
+      "b": 54,
+      "c": 1,
+      "v": 15,
+      "t": "Perkataan ini benar dan patut diterima sepenuhnya: ”Kristus Yesus datang ke dunia untuk menyelamatkan orang berdosa,” dan di antara mereka akulah yang paling berdosa.",
+      "h": "",
+      "o": 15,
+      "l": "15"
+    },
+    {
+      "id": 54001016,
+      "b": 54,
+      "c": 1,
+      "v": 16,
+      "t": "Tetapi justru karena itu aku dikasihani, agar dalam diriku ini, sebagai orang yang paling berdosa, Yesus Kristus menunjukkan seluruh kesabaran-Nya. Dengan demikian aku menjadi contoh bagi mereka yang kemudian percaya kepada-Nya dan mendapat hidup yang kekal.",
+      "h": "",
+      "o": 16,
+      "l": "16"
+    },
+    {
+      "id": 54001017,
+      "b": 54,
+      "c": 1,
+      "v": 17,
+      "t": "Hormat dan kemuliaan sampai selama-lamanya bagi Raja segala zaman, Allah yang kekal, yang tak nampak, yang esa! Amin.",
+      "h": "",
+      "o": 17,
+      "l": "17"
+    },
+    {
+      "id": 54001018,
+      "b": 54,
+      "c": 1,
+      "v": 18,
+      "t": "Tugas ini kuberikan kepadamu, Timotius anakku, sesuai dengan apa yang telah dinubuatkan tentang dirimu, supaya dikuatkan oleh nubuat itu engkau memperjuangkan perjuangan yang baik dengan iman dan hati nurani yang murni.",
+      "h": "Tugas Timotius\n1:18-20",
+      "o": 18,
+      "l": "18"
+    },
+    {
+      "id": 54001019,
+      "b": 54,
+      "c": 1,
+      "v": 19,
+      "t": "Beberapa orang telah menolak hati nuraninya yang murni itu, dan karena itu kandaslah iman mereka,",
+      "h": "",
+      "o": 19,
+      "l": "19"
+    },
+    {
+      "id": 54001020,
+      "b": 54,
+      "c": 1,
+      "v": 20,
+      "t": "di antaranya Himeneus dan Aleksander, yang telah kuserahkan kepada Iblis, supaya jera mereka menghujat.",
+      "h": "",
+      "o": 20,
+      "l": "20"
+    },
+    {
+      "id": 54002001,
+      "b": 54,
+      "c": 2,
+      "v": 1,
+      "t": "Pertama-tama aku menasihatkan: Naikkanlah permohonan, doa syafaat dan ucapan syukur untuk semua orang,",
+      "h": "Mengenai doa jemaat\n2:1-7",
+      "o": 1,
+      "l": "1"
+    },
+    {
+      "id": 54002002,
+      "b": 54,
+      "c": 2,
+      "v": 2,
+      "t": "untuk raja-raja dan untuk semua pembesar, agar kita dapat hidup tenang dan tenteram dalam segala kesalehan dan kehormatan.",
+      "h": "",
+      "o": 2,
+      "l": "2"
+    },
+    {
+      "id": 54002003,
+      "b": 54,
+      "c": 2,
+      "v": 3,
+      "t": "Itulah yang baik dan yang berkenan kepada Allah, Juruselamat kita,",
+      "h": "",
+      "o": 3,
+      "l": "3"
+    },
+    {
+      "id": 54002004,
+      "b": 54,
+      "c": 2,
+      "v": 4,
+      "t": "yang menghendaki supaya semua orang diselamatkan dan memperoleh pengetahuan akan kebenaran.",
+      "h": "",
+      "o": 4,
+      "l": "4"
+    },
+    {
+      "id": 54002005,
+      "b": 54,
+      "c": 2,
+      "v": 5,
+      "t": "Karena Allah itu esa dan esa pula Dia yang menjadi pengantara antara Allah dan manusia, yaitu manusia Kristus Yesus,",
+      "h": "",
+      "o": 5,
+      "l": "5"
+    },
+    {
+      "id": 54002006,
+      "b": 54,
+      "c": 2,
+      "v": 6,
+      "t": "yang telah menyerahkan diri-Nya sebagai tebusan bagi semua manusia: itu kesaksian pada waktu yang ditentukan.",
+      "h": "",
+      "o": 6,
+      "l": "6"
+    },
+    {
+      "id": 54002007,
+      "b": 54,
+      "c": 2,
+      "v": 7,
+      "t": "Untuk kesaksian itulah aku telah ditetapkan sebagai pemberita dan rasul – yang kukatakan ini benar, aku tidak berdusta – dan sebagai pengajar orang-orang bukan Yahudi, dalam iman dan kebenaran.",
+      "h": "",
+      "o": 7,
+      "l": "7"
+    },
+    {
+      "id": 54002008,
+      "b": 54,
+      "c": 2,
+      "v": 8,
+      "t": "Oleh karena itu aku ingin, supaya di mana-mana orang laki-laki berdoa dengan menadahkan tangan yang suci, tanpa marah dan tanpa perselisihan.",
+      "h": "Mengenai sikap orang laki-laki dan perempuan dalam ibadah jemaat\n2:8-15",
+      "o": 8,
+      "l": "8"
+    },
+    {
+      "id": 54002009,
+      "b": 54,
+      "c": 2,
+      "v": 9,
+      "t": "Demikian juga hendaknya perempuan. Hendaklah ia berdandan dengan pantas, dengan sopan dan sederhana, rambutnya jangan berkepang-kepang, jangan memakai emas atau mutiara ataupun pakaian yang mahal-mahal,",
+      "h": "",
+      "o": 9,
+      "l": "9"
+    },
+    {
+      "id": 54002010,
+      "b": 54,
+      "c": 2,
+      "v": 10,
+      "t": "tetapi hendaklah ia berdandan dengan perbuatan baik, seperti yang layak bagi perempuan yang beribadah.",
+      "h": "",
+      "o": 10,
+      "l": "10"
+    },
+    {
+      "id": 54002011,
+      "b": 54,
+      "c": 2,
+      "v": 11,
+      "t": "Seharusnyalah perempuan berdiam diri dan menerima ajaran dengan patuh.",
+      "h": "",
+      "o": 11,
+      "l": "11"
+    },
+    {
+      "id": 54002012,
+      "b": 54,
+      "c": 2,
+      "v": 12,
+      "t": "Aku tidak mengizinkan perempuan mengajar dan juga tidak mengizinkannya memerintah laki-laki; hendaklah ia berdiam diri.",
+      "h": "",
+      "o": 12,
+      "l": "12"
+    },
+    {
+      "id": 54002013,
+      "b": 54,
+      "c": 2,
+      "v": 13,
+      "t": "Karena Adam yang pertama dijadikan, kemudian barulah Hawa.",
+      "h": "",
+      "o": 13,
+      "l": "13"
+    },
+    {
+      "id": 54002014,
+      "b": 54,
+      "c": 2,
+      "v": 14,
+      "t": "Lagipula bukan Adam yang tergoda, melainkan perempuan itulah yang tergoda dan jatuh ke dalam dosa.",
+      "h": "",
+      "o": 14,
+      "l": "14"
+    },
+    {
+      "id": 54002015,
+      "b": 54,
+      "c": 2,
+      "v": 15,
+      "t": "Tetapi perempuan akan diselamatkan karena melahirkan anak, asal ia bertekun dalam iman dan kasih dan pengudusan dengan segala kesederhanaan.",
+      "h": "",
+      "o": 15,
+      "l": "15"
+    },
+    {
+      "id": 54003001,
+      "b": 54,
+      "c": 3,
+      "v": 1,
+      "t": "Benarlah perkataan ini: ”Orang yang menghendaki jabatan penilik jemaat menginginkan pekerjaan yang indah.”",
+      "h": "Syarat-syarat bagi penilik jemaat\n3:1-7",
+      "o": 1,
+      "l": "1"
+    },
+    {
+      "id": 54003002,
+      "b": 54,
+      "c": 3,
+      "v": 2,
+      "t": "Karena itu penilik jemaat haruslah seorang yang tak bercacat, suami dari satu isteri, dapat menahan diri, bijaksana, sopan, suka memberi tumpangan, cakap mengajar orang,",
+      "h": "",
+      "o": 2,
+      "l": "2"
+    },
+    {
+      "id": 54003003,
+      "b": 54,
+      "c": 3,
+      "v": 3,
+      "t": "bukan peminum, bukan pemarah melainkan peramah, pendamai, bukan hamba uang,",
+      "h": "",
+      "o": 3,
+      "l": "3"
+    },
+    {
+      "id": 54003004,
+      "b": 54,
+      "c": 3,
+      "v": 4,
+      "t": "seorang kepala keluarga yang baik, disegani dan dihormati oleh anak-anaknya.",
+      "h": "",
+      "o": 4,
+      "l": "4"
+    },
+    {
+      "id": 54003005,
+      "b": 54,
+      "c": 3,
+      "v": 5,
+      "t": "Jikalau seorang tidak tahu mengepalai keluarganya sendiri, bagaimanakah ia dapat mengurus Jemaat Allah?",
+      "h": "",
+      "o": 5,
+      "l": "5"
+    },
+    {
+      "id": 54003006,
+      "b": 54,
+      "c": 3,
+      "v": 6,
+      "t": "Janganlah ia seorang yang baru bertobat, agar jangan ia menjadi sombong dan kena hukuman Iblis.",
+      "h": "",
+      "o": 6,
+      "l": "6"
+    },
+    {
+      "id": 54003007,
+      "b": 54,
+      "c": 3,
+      "v": 7,
+      "t": "Hendaklah ia juga mempunyai nama baik di luar jemaat, agar jangan ia digugat orang dan jatuh ke dalam jerat Iblis.",
+      "h": "",
+      "o": 7,
+      "l": "7"
+    },
+    {
+      "id": 54003008,
+      "b": 54,
+      "c": 3,
+      "v": 8,
+      "t": "Demikian juga diaken-diaken haruslah orang terhormat, jangan bercabang lidah, jangan penggemar anggur, jangan serakah,",
+      "h": "Syarat-syarat bagi diaken\n3:8-13",
+      "o": 8,
+      "l": "8"
+    },
+    {
+      "id": 54003009,
+      "b": 54,
+      "c": 3,
+      "v": 9,
+      "t": "melainkan orang yang memelihara rahasia iman dalam hati nurani yang suci.",
+      "h": "",
+      "o": 9,
+      "l": "9"
+    },
+    {
+      "id": 54003010,
+      "b": 54,
+      "c": 3,
+      "v": 10,
+      "t": "Mereka juga harus diuji dahulu, baru ditetapkan dalam pelayanan itu setelah ternyata mereka tak bercacat.",
+      "h": "",
+      "o": 10,
+      "l": "10"
+    },
+    {
+      "id": 54003011,
+      "b": 54,
+      "c": 3,
+      "v": 11,
+      "t": "Demikian pula isteri-isteri hendaklah orang terhormat, jangan pemfitnah, hendaklah dapat menahan diri dan dapat dipercayai dalam segala hal.",
+      "h": "",
+      "o": 11,
+      "l": "11"
+    },
+    {
+      "id": 54003012,
+      "b": 54,
+      "c": 3,
+      "v": 12,
+      "t": "Diaken haruslah suami dari satu isteri dan mengurus anak-anaknya dan keluarganya dengan baik.",
+      "h": "",
+      "o": 12,
+      "l": "12"
+    },
+    {
+      "id": 54003013,
+      "b": 54,
+      "c": 3,
+      "v": 13,
+      "t": "Karena mereka yang melayani dengan baik beroleh kedudukan yang baik sehingga dalam iman kepada Kristus Yesus mereka dapat bersaksi dengan leluasa.",
+      "h": "",
+      "o": 13,
+      "l": "13"
+    },
+    {
+      "id": 54003014,
+      "b": 54,
+      "c": 3,
+      "v": 14,
+      "t": "Semuanya itu kutuliskan kepadamu, walaupun kuharap segera dapat mengunjungi engkau.",
+      "h": "Jemaat Allah, dasar dan penopang kebenaran\n3:14-16",
+      "o": 14,
+      "l": "14"
+    },
+    {
+      "id": 54003015,
+      "b": 54,
+      "c": 3,
+      "v": 15,
+      "t": "Jadi jika aku terlambat, sudahlah engkau tahu bagaimana orang harus hidup sebagai keluarga Allah, yakni jemaat dari Allah yang hidup, tiang penopang dan dasar kebenaran.",
+      "h": "",
+      "o": 15,
+      "l": "15"
+    },
+    {
+      "id": 54003016,
+      "b": 54,
+      "c": 3,
+      "v": 16,
+      "t": "Dan sesungguhnya agunglah rahasia ibadah kita: ”Dia, yang telah menyatakan diri-Nya dalam rupa manusia, dibenarkan dalam Roh; yang menampakkan diri-Nya kepada malaikat-malaikat, diberitakan di antara bangsa-bangsa yang tidak mengenal Allah; yang dipercayai di dalam dunia, diangkat dalam kemuliaan.”",
+      "h": "",
+      "o": 16,
+      "l": "16"
+    }
+  ]
+}

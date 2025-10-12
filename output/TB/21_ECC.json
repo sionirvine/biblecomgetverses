@@ -1,2222 +1,665 @@
-[
-  {
-    "id": "21001001",
-    "b": 21,
-    "c": 1,
-    "v": 1,
-    "t": "Inilah perkataan Pengkhotbah, anak Daud, raja di Yerusalem.",
-    "h": "Segala sesuatu sia-sia\n1:1-11",
-    "o": 1,
-    "l": "1"
-  },
-  {
-    "id": "21001002",
-    "b": 21,
-    "c": 1,
-    "v": 2,
-    "t": "Kesia-siaan belaka, kata Pengkhotbah, kesia-siaan belaka, segala sesuatu adalah sia-sia.",
-    "h": "",
-    "o": 2,
-    "l": "2"
-  },
-  {
-    "id": "21001003",
-    "b": 21,
-    "c": 1,
-    "v": 3,
-    "t": "Apakah gunanya manusia berusaha dengan jerih payah di bawah matahari?",
-    "h": "",
-    "o": 3,
-    "l": "3"
-  },
-  {
-    "id": "21001004",
-    "b": 21,
-    "c": 1,
-    "v": 4,
-    "t": "Keturunan yang satu pergi dan keturunan yang lain datang, tetapi bumi tetap ada.",
-    "h": "",
-    "o": 4,
-    "l": "4"
-  },
-  {
-    "id": "21001005",
-    "b": 21,
-    "c": 1,
-    "v": 5,
-    "t": "Matahari terbit, matahari terbenam, lalu terburu-buru menuju tempat ia terbit kembali.",
-    "h": "",
-    "o": 5,
-    "l": "5"
-  },
-  {
-    "id": "21001006",
-    "b": 21,
-    "c": 1,
-    "v": 6,
-    "t": "Angin bertiup ke selatan, lalu berputar ke utara, terus-menerus ia berputar, dan dalam putarannya angin itu kembali.",
-    "h": "",
-    "o": 6,
-    "l": "6"
-  },
-  {
-    "id": "21001007",
-    "b": 21,
-    "c": 1,
-    "v": 7,
-    "t": "Semua sungai mengalir ke laut, tetapi laut tidak juga menjadi penuh; ke mana sungai mengalir, ke situ sungai mengalir selalu.",
-    "h": "",
-    "o": 7,
-    "l": "7"
-  },
-  {
-    "id": "21001008",
-    "b": 21,
-    "c": 1,
-    "v": 8,
-    "t": "Segala sesuatu menjemukan, sehingga tak terkatakan oleh manusia; mata tidak kenyang melihat, telinga tidak puas mendengar.",
-    "h": "",
-    "o": 8,
-    "l": "8"
-  },
-  {
-    "id": "21001009",
-    "b": 21,
-    "c": 1,
-    "v": 9,
-    "t": "Apa yang pernah ada akan ada lagi, dan apa yang pernah dibuat akan dibuat lagi; tak ada sesuatu yang baru di bawah matahari.",
-    "h": "",
-    "o": 9,
-    "l": "9"
-  },
-  {
-    "id": "21001010",
-    "b": 21,
-    "c": 1,
-    "v": 10,
-    "t": "Adakah sesuatu yang dapat dikatakan: ”Lihatlah, ini baru!”? Tetapi itu sudah ada dulu, lama sebelum kita ada.",
-    "h": "",
-    "o": 10,
-    "l": "10"
-  },
-  {
-    "id": "21001011",
-    "b": 21,
-    "c": 1,
-    "v": 11,
-    "t": "Kenang-kenangan dari masa lampau tidak ada, dan dari masa depan yang masih akan datang pun tidak akan ada kenang-kenangan pada mereka yang hidup sesudahnya.",
-    "h": "",
-    "o": 11,
-    "l": "11"
-  },
-  {
-    "id": "21001012",
-    "b": 21,
-    "c": 1,
-    "v": 12,
-    "t": "Aku, Pengkhotbah, adalah raja atas Israel di Yerusalem.",
-    "h": "Pengejaran hikmat adalah sia-sia\n1:12-18",
-    "o": 12,
-    "l": "12"
-  },
-  {
-    "id": "21001013",
-    "b": 21,
-    "c": 1,
-    "v": 13,
-    "t": "Aku membulatkan hatiku untuk memeriksa dan menyelidiki dengan hikmat segala yang terjadi di bawah langit. Itu pekerjaan yang menyusahkan yang diberikan Allah kepada anak-anak manusia untuk melelahkan diri.",
-    "h": "",
-    "o": 13,
-    "l": "13"
-  },
-  {
-    "id": "21001014",
-    "b": 21,
-    "c": 1,
-    "v": 14,
-    "t": "Aku telah melihat segala perbuatan yang dilakukan orang di bawah matahari, tetapi lihatlah, segala sesuatu adalah kesia-siaan dan usaha menjaring angin.",
-    "h": "",
-    "o": 14,
-    "l": "14"
-  },
-  {
-    "id": "21001015",
-    "b": 21,
-    "c": 1,
-    "v": 15,
-    "t": "Yang bongkok tak dapat diluruskan, dan yang tidak ada tak dapat dihitung.",
-    "h": "",
-    "o": 15,
-    "l": "15"
-  },
-  {
-    "id": "21001016",
-    "b": 21,
-    "c": 1,
-    "v": 16,
-    "t": "Aku berkata dalam hati: ”Lihatlah, aku telah memperbesar dan menambah hikmat lebih dari pada semua orang yang memerintah atas Yerusalem sebelum aku, dan hatiku telah memperoleh banyak hikmat dan pengetahuan.”",
-    "h": "",
-    "o": 16,
-    "l": "16"
-  },
-  {
-    "id": "21001017",
-    "b": 21,
-    "c": 1,
-    "v": 17,
-    "t": "Aku telah membulatkan hatiku untuk memahami hikmat dan pengetahuan, kebodohan dan kebebalan. Tetapi aku menyadari bahwa hal ini pun adalah usaha menjaring angin,",
-    "h": "",
-    "o": 17,
-    "l": "17"
-  },
-  {
-    "id": "21001018",
-    "b": 21,
-    "c": 1,
-    "v": 18,
-    "t": "karena di dalam banyak hikmat ada banyak susah hati, dan siapa memperbanyak pengetahuan, memperbanyak kesedihan.",
-    "h": "",
-    "o": 18,
-    "l": "18"
-  },
-  {
-    "id": "21002001",
-    "b": 21,
-    "c": 2,
-    "v": 1,
-    "t": "Aku berkata dalam hati: ”Mari, aku hendak menguji kegirangan! Nikmatilah kesenangan! Tetapi lihat, juga itu pun sia-sia.”",
-    "h": "Hikmat dan kebodohan adalah hal yang sia-sia\n2:1-26",
-    "o": 1,
-    "l": "1"
-  },
-  {
-    "id": "21002002",
-    "b": 21,
-    "c": 2,
-    "v": 2,
-    "t": "Tentang tertawa aku berkata: ”Itu bodoh!”, dan mengenai kegirangan: ”Apa gunanya?”",
-    "h": "",
-    "o": 2,
-    "l": "2"
-  },
-  {
-    "id": "21002003",
-    "b": 21,
-    "c": 2,
-    "v": 3,
-    "t": "Aku menyelidiki diriku dengan menyegarkan tubuhku dengan anggur, – sedang akal budiku tetap memimpin dengan hikmat –, dan dengan memperoleh kebebalan, sampai aku mengetahui apa yang baik bagi anak-anak manusia untuk dilakukan di bawah langit selama hidup mereka yang pendek itu.",
-    "h": "",
-    "o": 3,
-    "l": "3"
-  },
-  {
-    "id": "21002004",
-    "b": 21,
-    "c": 2,
-    "v": 4,
-    "t": "Aku melakukan pekerjaan-pekerjaan besar, mendirikan bagiku rumah-rumah, menanami bagiku kebun-kebun anggur;",
-    "h": "",
-    "o": 4,
-    "l": "4"
-  },
-  {
-    "id": "21002005",
-    "b": 21,
-    "c": 2,
-    "v": 5,
-    "t": "aku mengusahakan bagiku kebun-kebun dan taman-taman, dan menanaminya dengan rupa-rupa pohon buah-buahan;",
-    "h": "",
-    "o": 5,
-    "l": "5"
-  },
-  {
-    "id": "21002006",
-    "b": 21,
-    "c": 2,
-    "v": 6,
-    "t": "aku menggali bagiku kolam-kolam untuk mengairi dari situ tanaman pohon-pohon muda.",
-    "h": "",
-    "o": 6,
-    "l": "6"
-  },
-  {
-    "id": "21002007",
-    "b": 21,
-    "c": 2,
-    "v": 7,
-    "t": "Aku membeli budak-budak laki-laki dan perempuan, dan ada budak-budak yang lahir di rumahku; aku mempunyai juga banyak sapi dan kambing domba melebihi siapa pun yang pernah hidup di Yerusalem sebelum aku.",
-    "h": "",
-    "o": 7,
-    "l": "7"
-  },
-  {
-    "id": "21002008",
-    "b": 21,
-    "c": 2,
-    "v": 8,
-    "t": "Aku mengumpulkan bagiku juga perak dan emas, harta benda raja-raja dan daerah-daerah. Aku mencari bagiku biduan-biduan dan biduanita-biduanita, dan yang menyenangkan anak-anak manusia, yakni banyak gundik.",
-    "h": "",
-    "o": 8,
-    "l": "8"
-  },
-  {
-    "id": "21002009",
-    "b": 21,
-    "c": 2,
-    "v": 9,
-    "t": "Dengan demikian aku menjadi besar, bahkan lebih besar dari pada siapa pun yang pernah hidup di Yerusalem sebelum aku; dalam pada itu hikmatku tinggal tetap padaku.",
-    "h": "",
-    "o": 9,
-    "l": "9"
-  },
-  {
-    "id": "21002010",
-    "b": 21,
-    "c": 2,
-    "v": 10,
-    "t": "Aku tidak merintangi mataku dari apa pun yang dikehendakinya, dan aku tidak menahan hatiku dari sukacita apa pun, sebab hatiku bersukacita karena segala jerih payahku. Itulah buah segala jerih payahku.",
-    "h": "",
-    "o": 10,
-    "l": "10"
-  },
-  {
-    "id": "21002011",
-    "b": 21,
-    "c": 2,
-    "v": 11,
-    "t": "Ketika aku meneliti segala pekerjaan yang telah dilakukan tanganku dan segala usaha yang telah kulakukan untuk itu dengan jerih payah, lihatlah, segala sesuatu adalah kesia-siaan dan usaha menjaring angin; memang tak ada keuntungan di bawah matahari.",
-    "h": "",
-    "o": 11,
-    "l": "11"
-  },
-  {
-    "id": "21002012",
-    "b": 21,
-    "c": 2,
-    "v": 12,
-    "t": "Lalu aku berpaling untuk meninjau hikmat, kebodohan dan kebebalan, sebab apa yang dapat dilakukan orang yang menggantikan raja? Hanya apa yang telah dilakukan orang.",
-    "h": "",
-    "o": 12,
-    "l": "12"
-  },
-  {
-    "id": "21002013",
-    "b": 21,
-    "c": 2,
-    "v": 13,
-    "t": "Dan aku melihat bahwa hikmat melebihi kebodohan, seperti terang melebihi kegelapan.",
-    "h": "",
-    "o": 13,
-    "l": "13"
-  },
-  {
-    "id": "21002014",
-    "b": 21,
-    "c": 2,
-    "v": 14,
-    "t": "Mata orang berhikmat ada di kepalanya, sedangkan orang yang bodoh berjalan dalam kegelapan, tetapi aku tahu juga bahwa nasib yang sama menimpa mereka semua.",
-    "h": "",
-    "o": 14,
-    "l": "14"
-  },
-  {
-    "id": "21002015",
-    "b": 21,
-    "c": 2,
-    "v": 15,
-    "t": "Maka aku berkata dalam hati: ”Nasib yang menimpa orang bodoh juga akan menimpa aku. Untuk apa aku ini dulu begitu berhikmat?” Lalu aku berkata dalam hati, bahwa ini pun sia-sia.",
-    "h": "",
-    "o": 15,
-    "l": "15"
-  },
-  {
-    "id": "21002016",
-    "b": 21,
-    "c": 2,
-    "v": 16,
-    "t": "Karena tidak ada kenang-kenangan yang kekal baik dari orang yang berhikmat, maupun dari orang yang bodoh, sebab pada hari-hari yang akan datang kesemuanya sudah lama dilupakan. Dan, ah, orang yang berhikmat mati juga seperti orang yang bodoh!",
-    "h": "",
-    "o": 16,
-    "l": "16"
-  },
-  {
-    "id": "21002017",
-    "b": 21,
-    "c": 2,
-    "v": 17,
-    "t": "Oleh sebab itu aku membenci hidup, karena aku menganggap menyusahkan apa yang dilakukan di bawah matahari, sebab segala sesuatu adalah kesia-siaan dan usaha menjaring angin.",
-    "h": "",
-    "o": 17,
-    "l": "17"
-  },
-  {
-    "id": "21002018",
-    "b": 21,
-    "c": 2,
-    "v": 18,
-    "t": "Aku membenci segala usaha yang kulakukan dengan jerih payah di bawah matahari, sebab aku harus meninggalkannya kepada orang yang datang sesudah aku.",
-    "h": "",
-    "o": 18,
-    "l": "18"
-  },
-  {
-    "id": "21002019",
-    "b": 21,
-    "c": 2,
-    "v": 19,
-    "t": "Dan siapakah yang mengetahui apakah orang itu berhikmat atau bodoh? Meskipun demikian ia akan berkuasa atas segala usaha yang kulakukan di bawah matahari dengan jerih payah dan dengan mempergunakan hikmat. Ini pun sia-sia.",
-    "h": "",
-    "o": 19,
-    "l": "19"
-  },
-  {
-    "id": "21002020",
-    "b": 21,
-    "c": 2,
-    "v": 20,
-    "t": "Dengan demikian aku mulai putus asa terhadap segala usaha yang kulakukan dengan jerih payah di bawah matahari.",
-    "h": "",
-    "o": 20,
-    "l": "20"
-  },
-  {
-    "id": "21002021",
-    "b": 21,
-    "c": 2,
-    "v": 21,
-    "t": "Sebab, kalau ada orang berlelah-lelah dengan hikmat, pengetahuan dan kecakapan, maka ia harus meninggalkan bahagiannya kepada orang yang tidak berlelah-lelah untuk itu. Ini pun kesia-siaan dan kemalangan yang besar.",
-    "h": "",
-    "o": 21,
-    "l": "21"
-  },
-  {
-    "id": "21002022",
-    "b": 21,
-    "c": 2,
-    "v": 22,
-    "t": "Apakah faedahnya yang diperoleh manusia dari segala usaha yang dilakukannya dengan jerih payah di bawah matahari dan dari keinginan hatinya?",
-    "h": "",
-    "o": 22,
-    "l": "22"
-  },
-  {
-    "id": "21002023",
-    "b": 21,
-    "c": 2,
-    "v": 23,
-    "t": "Seluruh hidupnya penuh kesedihan dan pekerjaannya penuh kesusahan hati, bahkan pada malam hari hatinya tidak tenteram. Ini pun sia-sia.",
-    "h": "",
-    "o": 23,
-    "l": "23"
-  },
-  {
-    "id": "21002024",
-    "b": 21,
-    "c": 2,
-    "v": 24,
-    "t": "Tak ada yang lebih baik bagi manusia dari pada makan dan minum dan bersenang-senang dalam jerih payahnya. Aku menyadari bahwa ini pun dari tangan Allah.",
-    "h": "",
-    "o": 24,
-    "l": "24"
-  },
-  {
-    "id": "21002025",
-    "b": 21,
-    "c": 2,
-    "v": 25,
-    "t": "Karena siapa dapat makan dan merasakan kenikmatan di luar Dia?",
-    "h": "",
-    "o": 25,
-    "l": "25"
-  },
-  {
-    "id": "21002026",
-    "b": 21,
-    "c": 2,
-    "v": 26,
-    "t": "Karena kepada orang yang dikenan-Nya Ia mengaruniakan hikmat, pengetahuan dan kesukaan, tetapi orang berdosa ditugaskan-Nya untuk menghimpun dan menimbun sesuatu yang kemudian harus diberikannya kepada orang yang dikenan Allah. Ini pun kesia-siaan dan usaha menjaring angin.",
-    "h": "",
-    "o": 26,
-    "l": "26"
-  },
-  {
-    "id": "21003001",
-    "b": 21,
-    "c": 3,
-    "v": 1,
-    "t": "Untuk segala sesuatu ada masanya, untuk apa pun di bawah langit ada waktunya.",
-    "h": "Untuk segala sesuatu ada waktunya\n3:1-15",
-    "o": 1,
-    "l": "1"
-  },
-  {
-    "id": "21003002",
-    "b": 21,
-    "c": 3,
-    "v": 2,
-    "t": "Ada waktu untuk lahir, ada waktu untuk meninggal, ada waktu untuk menanam, ada waktu untuk mencabut yang ditanam;",
-    "h": "",
-    "o": 2,
-    "l": "2"
-  },
-  {
-    "id": "21003003",
-    "b": 21,
-    "c": 3,
-    "v": 3,
-    "t": "ada waktu untuk membunuh, ada waktu untuk menyembuhkan; ada waktu untuk merombak, ada waktu untuk membangun;",
-    "h": "",
-    "o": 3,
-    "l": "3"
-  },
-  {
-    "id": "21003004",
-    "b": 21,
-    "c": 3,
-    "v": 4,
-    "t": "ada waktu untuk menangis, ada waktu untuk tertawa; ada waktu untuk meratap; ada waktu untuk menari;",
-    "h": "",
-    "o": 4,
-    "l": "4"
-  },
-  {
-    "id": "21003005",
-    "b": 21,
-    "c": 3,
-    "v": 5,
-    "t": "ada waktu untuk membuang batu, ada waktu untuk mengumpulkan batu; ada waktu untuk memeluk, ada waktu untuk menahan diri dari memeluk;",
-    "h": "",
-    "o": 5,
-    "l": "5"
-  },
-  {
-    "id": "21003006",
-    "b": 21,
-    "c": 3,
-    "v": 6,
-    "t": "ada waktu untuk mencari, ada waktu untuk membiarkan rugi; ada waktu untuk menyimpan, ada waktu untuk membuang;",
-    "h": "",
-    "o": 6,
-    "l": "6"
-  },
-  {
-    "id": "21003007",
-    "b": 21,
-    "c": 3,
-    "v": 7,
-    "t": "ada waktu untuk merobek, ada waktu untuk menjahit; ada waktu untuk berdiam diri, ada waktu untuk berbicara;",
-    "h": "",
-    "o": 7,
-    "l": "7"
-  },
-  {
-    "id": "21003008",
-    "b": 21,
-    "c": 3,
-    "v": 8,
-    "t": "ada waktu untuk mengasihi, ada waktu untuk membenci; ada waktu untuk perang, ada waktu untuk damai.",
-    "h": "",
-    "o": 8,
-    "l": "8"
-  },
-  {
-    "id": "21003009",
-    "b": 21,
-    "c": 3,
-    "v": 9,
-    "t": "Apakah untung pekerja dari yang dikerjakannya dengan berjerih payah?",
-    "h": "",
-    "o": 9,
-    "l": "9"
-  },
-  {
-    "id": "21003010",
-    "b": 21,
-    "c": 3,
-    "v": 10,
-    "t": "Aku telah melihat pekerjaan yang diberikan Allah kepada anak-anak manusia untuk melelahkan dirinya.",
-    "h": "",
-    "o": 10,
-    "l": "10"
-  },
-  {
-    "id": "21003011",
-    "b": 21,
-    "c": 3,
-    "v": 11,
-    "t": "Ia membuat segala sesuatu indah pada waktunya, bahkan Ia memberikan kekekalan dalam hati mereka. Tetapi manusia tidak dapat menyelami pekerjaan yang dilakukan Allah dari awal sampai akhir.",
-    "h": "",
-    "o": 11,
-    "l": "11"
-  },
-  {
-    "id": "21003012",
-    "b": 21,
-    "c": 3,
-    "v": 12,
-    "t": "Aku tahu bahwa untuk mereka tak ada yang lebih baik dari pada bersuka-suka dan menikmati kesenangan dalam hidup mereka.",
-    "h": "",
-    "o": 12,
-    "l": "12"
-  },
-  {
-    "id": "21003013",
-    "b": 21,
-    "c": 3,
-    "v": 13,
-    "t": "Dan bahwa setiap orang dapat makan, minum dan menikmati kesenangan dalam segala jerih payahnya, itu juga adalah pemberian Allah.",
-    "h": "",
-    "o": 13,
-    "l": "13"
-  },
-  {
-    "id": "21003014",
-    "b": 21,
-    "c": 3,
-    "v": 14,
-    "t": "Aku tahu bahwa segala sesuatu yang dilakukan Allah akan tetap ada untuk selamanya; itu tak dapat ditambah dan tak dapat dikurangi; Allah berbuat demikian, supaya manusia takut akan Dia.",
-    "h": "",
-    "o": 14,
-    "l": "14"
-  },
-  {
-    "id": "21003015",
-    "b": 21,
-    "c": 3,
-    "v": 15,
-    "t": "Yang sekarang ada dulu sudah ada, dan yang akan ada sudah lama ada; dan Allah mencari yang sudah lalu.",
-    "h": "",
-    "o": 15,
-    "l": "15"
-  },
-  {
-    "id": "21003016",
-    "b": 21,
-    "c": 3,
-    "v": 16,
-    "t": "Ada lagi yang kulihat di bawah matahari: di tempat pengadilan, di situ pun terdapat ketidakadilan, dan di tempat keadilan, di situ pun terdapat ketidakadilan.",
-    "h": "Ketidakadilan dalam hidup\n3:16–4:6",
-    "o": 16,
-    "l": "16"
-  },
-  {
-    "id": "21003017",
-    "b": 21,
-    "c": 3,
-    "v": 17,
-    "t": "Berkatalah aku dalam hati: ”Allah akan mengadili baik orang yang benar maupun yang tidak adil, karena untuk segala hal dan segala pekerjaan ada waktunya.”",
-    "h": "",
-    "o": 17,
-    "l": "17"
-  },
-  {
-    "id": "21003018",
-    "b": 21,
-    "c": 3,
-    "v": 18,
-    "t": "Tentang anak-anak manusia aku berkata dalam hati: ”Allah hendak menguji mereka dan memperlihatkan kepada mereka bahwa mereka hanyalah binatang.”",
-    "h": "",
-    "o": 18,
-    "l": "18"
-  },
-  {
-    "id": "21003019",
-    "b": 21,
-    "c": 3,
-    "v": 19,
-    "t": "Karena nasib manusia adalah sama dengan nasib binatang, nasib yang sama menimpa mereka; sebagaimana yang satu mati, demikian juga yang lain. Kedua-duanya mempunyai nafas yang sama, dan manusia tak mempunyai kelebihan atas binatang, karena segala sesuatu adalah sia-sia.",
-    "h": "",
-    "o": 19,
-    "l": "19"
-  },
-  {
-    "id": "21003020",
-    "b": 21,
-    "c": 3,
-    "v": 20,
-    "t": "Kedua-duanya menuju satu tempat; kedua-duanya terjadi dari debu dan kedua-duanya kembali kepada debu.",
-    "h": "",
-    "o": 20,
-    "l": "20"
-  },
-  {
-    "id": "21003021",
-    "b": 21,
-    "c": 3,
-    "v": 21,
-    "t": "Siapakah yang mengetahui, apakah nafas manusia naik ke atas dan nafas binatang turun ke bawah bumi.",
-    "h": "",
-    "o": 21,
-    "l": "21"
-  },
-  {
-    "id": "21003022",
-    "b": 21,
-    "c": 3,
-    "v": 22,
-    "t": "Aku melihat bahwa tidak ada yang lebih baik bagi manusia dari pada bergembira dalam pekerjaannya, sebab itu adalah bahagiannya. Karena siapa akan memperlihatkan kepadanya apa yang akan terjadi sesudah dia?",
-    "h": "",
-    "o": 22,
-    "l": "22"
-  },
-  {
-    "id": "21004001",
-    "b": 21,
-    "c": 4,
-    "v": 1,
-    "t": "Lagi aku melihat segala penindasan yang terjadi di bawah matahari, dan lihatlah, air mata orang-orang yang ditindas dan tak ada yang menghibur mereka, karena di fihak orang-orang yang menindas ada kekuasaan.",
-    "h": "",
-    "o": 1,
-    "l": "1"
-  },
-  {
-    "id": "21004002",
-    "b": 21,
-    "c": 4,
-    "v": 2,
-    "t": "Oleh sebab itu aku menganggap orang-orang mati, yang sudah lama meninggal, lebih bahagia dari pada orang-orang hidup, yang sekarang masih hidup.",
-    "h": "",
-    "o": 2,
-    "l": "2"
-  },
-  {
-    "id": "21004003",
-    "b": 21,
-    "c": 4,
-    "v": 3,
-    "t": "Tetapi yang lebih bahagia dari pada kedua-duanya itu kuanggap orang yang belum ada, yang belum melihat perbuatan jahat, yang terjadi di bawah matahari.",
-    "h": "",
-    "o": 3,
-    "l": "3"
-  },
-  {
-    "id": "21004004",
-    "b": 21,
-    "c": 4,
-    "v": 4,
-    "t": "Dan aku melihat bahwa segala jerih payah dan segala kecakapan dalam pekerjaan adalah iri hati seseorang terhadap yang lain. Ini pun kesia-siaan dan usaha menjaring angin.",
-    "h": "",
-    "o": 4,
-    "l": "4"
-  },
-  {
-    "id": "21004005",
-    "b": 21,
-    "c": 4,
-    "v": 5,
-    "t": "Orang yang bodoh melipat tangannya dan memakan dagingnya sendiri.",
-    "h": "",
-    "o": 5,
-    "l": "5"
-  },
-  {
-    "id": "21004006",
-    "b": 21,
-    "c": 4,
-    "v": 6,
-    "t": "Segenggam ketenangan lebih baik dari pada dua genggam jerih payah dan usaha menjaring angin.",
-    "h": "",
-    "o": 6,
-    "l": "6"
-  },
-  {
-    "id": "21004007",
-    "b": 21,
-    "c": 4,
-    "v": 7,
-    "t": "Aku melihat lagi kesia-siaan di bawah matahari:",
-    "h": "Kesia-siaan dalam hidup\n4:7-16",
-    "o": 7,
-    "l": "7"
-  },
-  {
-    "id": "21004008",
-    "b": 21,
-    "c": 4,
-    "v": 8,
-    "t": "ada seorang sendirian, ia tidak mempunyai anak laki-laki atau saudara laki-laki, dan tidak henti-hentinya ia berlelah-lelah, matanya pun tidak puas dengan kekayaan; – untuk siapa aku berlelah-lelah dan menolak kesenangan? – Ini pun kesia-siaan dan hal yang menyusahkan.",
-    "h": "",
-    "o": 8,
-    "l": "8"
-  },
-  {
-    "id": "21004009",
-    "b": 21,
-    "c": 4,
-    "v": 9,
-    "t": "Berdua lebih baik dari pada seorang diri, karena mereka menerima upah yang baik dalam jerih payah mereka.",
-    "h": "",
-    "o": 9,
-    "l": "9"
-  },
-  {
-    "id": "21004010",
-    "b": 21,
-    "c": 4,
-    "v": 10,
-    "t": "Karena kalau mereka jatuh, yang seorang mengangkat temannya, tetapi wai orang yang jatuh, yang tidak mempunyai orang lain untuk mengangkatnya!",
-    "h": "",
-    "o": 10,
-    "l": "10"
-  },
-  {
-    "id": "21004011",
-    "b": 21,
-    "c": 4,
-    "v": 11,
-    "t": "Juga kalau orang tidur berdua, mereka menjadi panas, tetapi bagaimana seorang saja dapat menjadi panas?",
-    "h": "",
-    "o": 11,
-    "l": "11"
-  },
-  {
-    "id": "21004012",
-    "b": 21,
-    "c": 4,
-    "v": 12,
-    "t": "Dan bilamana seorang dapat dialahkan, dua orang akan dapat bertahan. Tali tiga lembar tak mudah diputuskan.",
-    "h": "",
-    "o": 12,
-    "l": "12"
-  },
-  {
-    "id": "21004013",
-    "b": 21,
-    "c": 4,
-    "v": 13,
-    "t": "Lebih baik seorang muda miskin tetapi berhikmat dari pada seorang raja tua tetapi bodoh, yang tak mau diberi peringatan lagi.",
-    "h": "",
-    "o": 13,
-    "l": "13"
-  },
-  {
-    "id": "21004014",
-    "b": 21,
-    "c": 4,
-    "v": 14,
-    "t": "Karena dari penjara orang muda itu keluar untuk menjadi raja, biarpun ia dilahirkan miskin semasa pemerintahan orang yang tua itu.",
-    "h": "",
-    "o": 14,
-    "l": "14"
-  },
-  {
-    "id": "21004015",
-    "b": 21,
-    "c": 4,
-    "v": 15,
-    "t": "Aku melihat semua orang yang hidup di bawah matahari berjalan bersama-sama dengan orang muda tadi, yang akan menjadi pengganti raja itu.",
-    "h": "",
-    "o": 15,
-    "l": "15"
-  },
-  {
-    "id": "21004016",
-    "b": 21,
-    "c": 4,
-    "v": 16,
-    "t": "Tiada habis-habisnya rakyat yang dipimpinnya, namun orang yang datang kemudian tidak menyukai dia. Oleh sebab itu, ini pun kesia-siaan dan usaha menjaring angin.",
-    "h": "",
-    "o": 16,
-    "l": "16"
-  },
-  {
-    "id": "21004017",
-    "b": 21,
-    "c": 4,
-    "v": 17,
-    "t": "Jagalah langkahmu, kalau engkau berjalan ke rumah Allah! Menghampiri untuk mendengar adalah lebih baik dari pada mempersembahkan korban yang dilakukan oleh orang-orang bodoh, karena mereka tidak tahu, bahwa mereka berbuat jahat.",
-    "h": "Takutlah akan Allah\n4:17–5:6",
-    "o": 17,
-    "l": "17"
-  },
-  {
-    "id": "21005001",
-    "b": 21,
-    "c": 5,
-    "v": 1,
-    "t": "Janganlah terburu-buru dengan mulutmu, dan janganlah hatimu lekas-lekas mengeluarkan perkataan di hadapan Allah, karena Allah ada di sorga dan engkau di bumi; oleh sebab itu, biarlah perkataanmu sedikit.",
-    "h": "",
-    "o": 1,
-    "l": "1"
-  },
-  {
-    "id": "21005002",
-    "b": 21,
-    "c": 5,
-    "v": 2,
-    "t": "Karena sebagaimana mimpi disebabkan oleh banyak kesibukan, demikian pula percakapan bodoh disebabkan oleh banyak perkataan.",
-    "h": "",
-    "o": 2,
-    "l": "2"
-  },
-  {
-    "id": "21005003",
-    "b": 21,
-    "c": 5,
-    "v": 3,
-    "t": "Kalau engkau bernazar kepada Allah, janganlah menunda-nunda menepatinya, karena Ia tidak senang kepada orang-orang bodoh. Tepatilah nazarmu.",
-    "h": "",
-    "o": 3,
-    "l": "3"
-  },
-  {
-    "id": "21005004",
-    "b": 21,
-    "c": 5,
-    "v": 4,
-    "t": "Lebih baik engkau tidak bernazar dari pada bernazar tetapi tidak menepatinya.",
-    "h": "",
-    "o": 4,
-    "l": "4"
-  },
-  {
-    "id": "21005005",
-    "b": 21,
-    "c": 5,
-    "v": 5,
-    "t": "Janganlah mulutmu membawa engkau ke dalam dosa, dan janganlah berkata di hadapan utusan Allah bahwa engkau khilaf. Apakah perlu Allah menjadi murka atas ucapan-ucapanmu dan merusakkan pekerjaan tanganmu?",
-    "h": "",
-    "o": 5,
-    "l": "5"
-  },
-  {
-    "id": "21005006",
-    "b": 21,
-    "c": 5,
-    "v": 6,
-    "t": "Karena sebagaimana mimpi banyak, demikian juga perkataan sia-sia banyak. Tetapi takutlah akan Allah.",
-    "h": "",
-    "o": 6,
-    "l": "6"
-  },
-  {
-    "id": "21005007",
-    "b": 21,
-    "c": 5,
-    "v": 7,
-    "t": "Kalau engkau melihat dalam suatu daerah orang miskin ditindas dan hukum serta keadilan diperkosa, janganlah heran akan perkara itu, karena pejabat tinggi yang satu mengawasi yang lain, begitu pula pejabat-pejabat yang lebih tinggi mengawasi mereka.",
-    "h": "Kesia-siaan kekayaan\n5:7–6:12",
-    "o": 7,
-    "l": "7"
-  },
-  {
-    "id": "21005008",
-    "b": 21,
-    "c": 5,
-    "v": 8,
-    "t": "Suatu keuntungan bagi negara dalam keadaan demikian ialah, kalau rajanya dihormati di daerah itu.",
-    "h": "",
-    "o": 8,
-    "l": "8"
-  },
-  {
-    "id": "21005009",
-    "b": 21,
-    "c": 5,
-    "v": 9,
-    "t": "Siapa mencintai uang tidak akan puas dengan uang, dan siapa mencintai kekayaan tidak akan puas dengan penghasilannya. Ini pun sia-sia.",
-    "h": "",
-    "o": 9,
-    "l": "9"
-  },
-  {
-    "id": "21005010",
-    "b": 21,
-    "c": 5,
-    "v": 10,
-    "t": "Dengan bertambahnya harta, bertambah pula orang-orang yang menghabiskannya. Dan apakah keuntungan pemiliknya selain dari pada melihatnya?",
-    "h": "",
-    "o": 10,
-    "l": "10"
-  },
-  {
-    "id": "21005011",
-    "b": 21,
-    "c": 5,
-    "v": 11,
-    "t": "Enak tidurnya orang yang bekerja, baik ia makan sedikit maupun banyak; tetapi kekenyangan orang kaya sekali-kali tidak membiarkan dia tidur.",
-    "h": "",
-    "o": 11,
-    "l": "11"
-  },
-  {
-    "id": "21005012",
-    "b": 21,
-    "c": 5,
-    "v": 12,
-    "t": "Ada kemalangan yang menyedihkan kulihat di bawah matahari: kekayaan yang disimpan oleh pemiliknya menjadi kecelakaannya sendiri.",
-    "h": "",
-    "o": 12,
-    "l": "12"
-  },
-  {
-    "id": "21005013",
-    "b": 21,
-    "c": 5,
-    "v": 13,
-    "t": "Dan kekayaan itu binasa oleh kemalangan, sehingga tak ada suatu pun padanya untuk anaknya.",
-    "h": "",
-    "o": 13,
-    "l": "13"
-  },
-  {
-    "id": "21005014",
-    "b": 21,
-    "c": 5,
-    "v": 14,
-    "t": "Sebagaimana ia keluar dari kandungan ibunya, demikian juga ia akan pergi, telanjang seperti ketika ia datang, dan tak diperolehnya dari jerih payahnya suatu pun yang dapat dibawa dalam tangannya.",
-    "h": "",
-    "o": 14,
-    "l": "14"
-  },
-  {
-    "id": "21005015",
-    "b": 21,
-    "c": 5,
-    "v": 15,
-    "t": "Ini pun kemalangan yang menyedihkan. Sebagaimana ia datang, demikian pun ia akan pergi. Dan apakah keuntungan orang tadi yang telah berlelah-lelah menjaring angin?",
-    "h": "",
-    "o": 15,
-    "l": "15"
-  },
-  {
-    "id": "21005016",
-    "b": 21,
-    "c": 5,
-    "v": 16,
-    "t": "Malah sepanjang umurnya ia berada dalam kegelapan dan kesedihan, mengalami banyak kesusahan, penderitaan dan kekesalan.",
-    "h": "",
-    "o": 16,
-    "l": "16"
-  },
-  {
-    "id": "21005017",
-    "b": 21,
-    "c": 5,
-    "v": 17,
-    "t": "Lihatlah, yang kuanggap baik dan tepat ialah, kalau orang makan minum dan bersenang-senang dalam segala usaha yang dilakukan dengan jerih payah di bawah matahari selama hidup yang pendek, yang dikaruniakan Allah kepadanya, sebab itulah bahagiannya.",
-    "h": "",
-    "o": 17,
-    "l": "17"
-  },
-  {
-    "id": "21005018",
-    "b": 21,
-    "c": 5,
-    "v": 18,
-    "t": "Setiap orang yang dikaruniai Allah kekayaan dan harta benda dan kuasa untuk menikmatinya, untuk menerima bahagiannya, dan untuk bersukacita dalam jerih payahnya – juga itu pun karunia Allah.",
-    "h": "",
-    "o": 18,
-    "l": "18"
-  },
-  {
-    "id": "21005019",
-    "b": 21,
-    "c": 5,
-    "v": 19,
-    "t": "Tidak sering ia mengingat umurnya, karena Allah membiarkan dia sibuk dengan kesenangan hatinya.",
-    "h": "",
-    "o": 19,
-    "l": "19"
-  },
-  {
-    "id": "21006001",
-    "b": 21,
-    "c": 6,
-    "v": 1,
-    "t": "Ada suatu kemalangan yang telah kulihat di bawah matahari, yang sangat menekan manusia:",
-    "h": "",
-    "o": 1,
-    "l": "1"
-  },
-  {
-    "id": "21006002",
-    "b": 21,
-    "c": 6,
-    "v": 2,
-    "t": "orang yang dikaruniai Allah kekayaan, harta benda dan kemuliaan, sehingga ia tak kekurangan suatu pun yang diingininya, tetapi orang itu tidak dikaruniai kuasa oleh Allah untuk menikmatinya, melainkan orang lain yang menikmatinya! Inilah kesia-siaan dan penderitaan yang pahit.",
-    "h": "",
-    "o": 2,
-    "l": "2"
-  },
-  {
-    "id": "21006003",
-    "b": 21,
-    "c": 6,
-    "v": 3,
-    "t": "Jika orang memperoleh seratus anak dan hidup lama sampai mencapai umur panjang, tetapi ia tidak puas dengan kesenangan, bahkan tidak mendapat penguburan, kataku, anak gugur lebih baik dari pada orang ini.",
-    "h": "",
-    "o": 3,
-    "l": "3"
-  },
-  {
-    "id": "21006004",
-    "b": 21,
-    "c": 6,
-    "v": 4,
-    "t": "Sebab anak gugur itu datang dalam kesia-siaan dan pergi dalam kegelapan, dan namanya ditutupi kegelapan.",
-    "h": "",
-    "o": 4,
-    "l": "4"
-  },
-  {
-    "id": "21006005",
-    "b": 21,
-    "c": 6,
-    "v": 5,
-    "t": "Lagipula ia tidak melihat matahari dan tidak mengetahui apa-apa. Ia lebih tenteram dari pada orang tadi.",
-    "h": "",
-    "o": 5,
-    "l": "5"
-  },
-  {
-    "id": "21006006",
-    "b": 21,
-    "c": 6,
-    "v": 6,
-    "t": "Biarpun ia hidup dua kali seribu tahun, kalau ia tidak menikmati kesenangan: bukankah segala sesuatu menuju satu tempat?",
-    "h": "",
-    "o": 6,
-    "l": "6"
-  },
-  {
-    "id": "21006007",
-    "b": 21,
-    "c": 6,
-    "v": 7,
-    "t": "Segala jerih payah manusia adalah untuk mulutnya, namun keinginannya tidak terpuaskan.",
-    "h": "",
-    "o": 7,
-    "l": "7"
-  },
-  {
-    "id": "21006008",
-    "b": 21,
-    "c": 6,
-    "v": 8,
-    "t": "Karena apakah kelebihan orang yang berhikmat dari pada orang yang bodoh? Apakah kelebihan orang miskin yang tahu berperilaku di hadapan orang?",
-    "h": "",
-    "o": 8,
-    "l": "8"
-  },
-  {
-    "id": "21006009",
-    "b": 21,
-    "c": 6,
-    "v": 9,
-    "t": "Lebih baik melihat saja dari pada menuruti nafsu. Ini pun kesia-siaan dan usaha menjaring angin.",
-    "h": "",
-    "o": 9,
-    "l": "9"
-  },
-  {
-    "id": "21006010",
-    "b": 21,
-    "c": 6,
-    "v": 10,
-    "t": "Apa pun yang ada, sudah lama disebut namanya. Dan sudah diketahui siapa manusia, yaitu bahwa ia tidak dapat mengadakan perkara dengan yang lebih kuat dari padanya.",
-    "h": "",
-    "o": 10,
-    "l": "10"
-  },
-  {
-    "id": "21006011",
-    "b": 21,
-    "c": 6,
-    "v": 11,
-    "t": "Karena makin banyak kata-kata, makin banyak kesia-siaan. Apakah faedahnya untuk manusia?",
-    "h": "",
-    "o": 11,
-    "l": "11"
-  },
-  {
-    "id": "21006012",
-    "b": 21,
-    "c": 6,
-    "v": 12,
-    "t": "Karena siapakah yang mengetahui apa yang baik bagi manusia sepanjang waktu yang pendek dari hidupnya yang sia-sia, yang ditempuhnya seperti bayangan? Siapakah yang dapat mengatakan kepada manusia apa yang akan terjadi di bawah matahari sesudah dia?",
-    "h": "",
-    "o": 12,
-    "l": "12"
-  },
-  {
-    "id": "21007001",
-    "b": 21,
-    "c": 7,
-    "v": 1,
-    "t": "Nama yang harum lebih baik dari pada minyak yang mahal, dan hari kematian lebih baik dari pada hari kelahiran.",
-    "h": "Hikmat yang benar\n7:1-22",
-    "o": 1,
-    "l": "1"
-  },
-  {
-    "id": "21007002",
-    "b": 21,
-    "c": 7,
-    "v": 2,
-    "t": "Pergi ke rumah duka lebih baik dari pada pergi ke rumah pesta, karena di rumah dukalah kesudahan setiap manusia; hendaknya orang yang hidup memperhatikannya.",
-    "h": "",
-    "o": 2,
-    "l": "2"
-  },
-  {
-    "id": "21007003",
-    "b": 21,
-    "c": 7,
-    "v": 3,
-    "t": "Bersedih lebih baik dari pada tertawa, karena muka muram membuat hati lega.",
-    "h": "",
-    "o": 3,
-    "l": "3"
-  },
-  {
-    "id": "21007004",
-    "b": 21,
-    "c": 7,
-    "v": 4,
-    "t": "Orang berhikmat senang berada di rumah duka, tetapi orang bodoh senang berada di rumah tempat bersukaria.",
-    "h": "",
-    "o": 4,
-    "l": "4"
-  },
-  {
-    "id": "21007005",
-    "b": 21,
-    "c": 7,
-    "v": 5,
-    "t": "Mendengar hardikan orang berhikmat lebih baik dari pada mendengar nyanyian orang bodoh.",
-    "h": "",
-    "o": 5,
-    "l": "5"
-  },
-  {
-    "id": "21007006",
-    "b": 21,
-    "c": 7,
-    "v": 6,
-    "t": "Karena seperti bunyi duri terbakar di bawah kuali, demikian tertawa orang bodoh. Ini pun sia-sia.",
-    "h": "",
-    "o": 6,
-    "l": "6"
-  },
-  {
-    "id": "21007007",
-    "b": 21,
-    "c": 7,
-    "v": 7,
-    "t": "Sungguh, pemerasan membodohkan orang berhikmat, dan uang suap merusakkan hati.",
-    "h": "",
-    "o": 7,
-    "l": "7"
-  },
-  {
-    "id": "21007008",
-    "b": 21,
-    "c": 7,
-    "v": 8,
-    "t": "Akhir suatu hal lebih baik dari pada awalnya. Panjang sabar lebih baik dari pada tinggi hati.",
-    "h": "",
-    "o": 8,
-    "l": "8"
-  },
-  {
-    "id": "21007009",
-    "b": 21,
-    "c": 7,
-    "v": 9,
-    "t": "Janganlah lekas-lekas marah dalam hati, karena amarah menetap dalam dada orang bodoh.",
-    "h": "",
-    "o": 9,
-    "l": "9"
-  },
-  {
-    "id": "21007010",
-    "b": 21,
-    "c": 7,
-    "v": 10,
-    "t": "Janganlah mengatakan: ”Mengapa zaman dulu lebih baik dari pada zaman sekarang?” Karena bukannya berdasarkan hikmat engkau menanyakan hal itu.",
-    "h": "",
-    "o": 10,
-    "l": "10"
-  },
-  {
-    "id": "21007011",
-    "b": 21,
-    "c": 7,
-    "v": 11,
-    "t": "Hikmat adalah sama baiknya dengan warisan dan merupakan suatu keuntungan bagi orang-orang yang melihat matahari.",
-    "h": "",
-    "o": 11,
-    "l": "11"
-  },
-  {
-    "id": "21007012",
-    "b": 21,
-    "c": 7,
-    "v": 12,
-    "t": "Karena perlindungan hikmat adalah seperti perlindungan uang. Dan beruntunglah yang mengetahui bahwa hikmat memelihara hidup pemilik-pemiliknya.",
-    "h": "",
-    "o": 12,
-    "l": "12"
-  },
-  {
-    "id": "21007013",
-    "b": 21,
-    "c": 7,
-    "v": 13,
-    "t": "Perhatikanlah pekerjaan Allah! Siapakah dapat meluruskan apa yang telah dibengkokkan-Nya?",
-    "h": "",
-    "o": 13,
-    "l": "13"
-  },
-  {
-    "id": "21007014",
-    "b": 21,
-    "c": 7,
-    "v": 14,
-    "t": "Pada hari mujur bergembiralah, tetapi pada hari malang ingatlah, bahwa hari malang ini pun dijadikan Allah seperti juga hari mujur, supaya manusia tidak dapat menemukan sesuatu mengenai masa depannya.",
-    "h": "",
-    "o": 14,
-    "l": "14"
-  },
-  {
-    "id": "21007015",
-    "b": 21,
-    "c": 7,
-    "v": 15,
-    "t": "Dalam hidupku yang sia-sia aku telah melihat segala hal ini: ada orang saleh yang binasa dalam kesalehannya, ada orang fasik yang hidup lama dalam kejahatannya.",
-    "h": "",
-    "o": 15,
-    "l": "15"
-  },
-  {
-    "id": "21007016",
-    "b": 21,
-    "c": 7,
-    "v": 16,
-    "t": "Janganlah terlalu saleh, janganlah perilakumu terlalu berhikmat; mengapa engkau akan membinasakan dirimu sendiri?",
-    "h": "",
-    "o": 16,
-    "l": "16"
-  },
-  {
-    "id": "21007017",
-    "b": 21,
-    "c": 7,
-    "v": 17,
-    "t": "Janganlah terlalu fasik, janganlah bodoh! Mengapa engkau mau mati sebelum waktumu?",
-    "h": "",
-    "o": 17,
-    "l": "17"
-  },
-  {
-    "id": "21007018",
-    "b": 21,
-    "c": 7,
-    "v": 18,
-    "t": "Adalah baik kalau engkau memegang yang satu, dan juga tidak melepaskan yang lain, karena orang yang takut akan Allah luput dari kedua-duanya.",
-    "h": "",
-    "o": 18,
-    "l": "18"
-  },
-  {
-    "id": "21007019",
-    "b": 21,
-    "c": 7,
-    "v": 19,
-    "t": "Hikmat memberi kepada yang memilikinya lebih banyak kekuatan dari pada sepuluh penguasa dalam kota.",
-    "h": "",
-    "o": 19,
-    "l": "19"
-  },
-  {
-    "id": "21007020",
-    "b": 21,
-    "c": 7,
-    "v": 20,
-    "t": "Sesungguhnya, di bumi tidak ada orang yang saleh: yang berbuat baik dan tak pernah berbuat dosa!",
-    "h": "",
-    "o": 20,
-    "l": "20"
-  },
-  {
-    "id": "21007021",
-    "b": 21,
-    "c": 7,
-    "v": 21,
-    "t": "Juga janganlah memperhatikan segala perkataan yang diucapkan orang, supaya engkau tidak mendengar pelayanmu mengutuki engkau.",
-    "h": "",
-    "o": 21,
-    "l": "21"
-  },
-  {
-    "id": "21007022",
-    "b": 21,
-    "c": 7,
-    "v": 22,
-    "t": "Karena hatimu tahu bahwa engkau juga telah kerapkali mengutuki orang-orang lain.",
-    "h": "",
-    "o": 22,
-    "l": "22"
-  },
-  {
-    "id": "21007023",
-    "b": 21,
-    "c": 7,
-    "v": 23,
-    "t": "Kesemuanya ini telah kuuji untuk mencapai hikmat. Kataku: ”Aku hendak memperoleh hikmat,” tetapi hikmat itu jauh dari padaku.",
-    "h": "Pengejaran hikmat yang mengecewakan\n7:23–8:1",
-    "o": 23,
-    "l": "23"
-  },
-  {
-    "id": "21007024",
-    "b": 21,
-    "c": 7,
-    "v": 24,
-    "t": "Apa yang ada, itu jauh dan dalam, sangat dalam, siapa yang dapat menemukannya?",
-    "h": "",
-    "o": 24,
-    "l": "24"
-  },
-  {
-    "id": "21007025",
-    "b": 21,
-    "c": 7,
-    "v": 25,
-    "t": "Aku tujukan perhatianku untuk memahami, menyelidiki, dan mencari hikmat dan kesimpulan, serta untuk mengetahui bahwa kefasikan itu kebodohan dan kebebalan itu kegilaan.",
-    "h": "",
-    "o": 25,
-    "l": "25"
-  },
-  {
-    "id": "21007026",
-    "b": 21,
-    "c": 7,
-    "v": 26,
-    "t": "Dan aku menemukan sesuatu yang lebih pahit dari pada maut: perempuan yang adalah jala, yang hatinya adalah jerat dan tangannya adalah belenggu. Orang yang dikenan Allah terhindar dari padanya, tetapi orang yang berdosa ditangkapnya.",
-    "h": "",
-    "o": 26,
-    "l": "26"
-  },
-  {
-    "id": "21007027",
-    "b": 21,
-    "c": 7,
-    "v": 27,
-    "t": "Lihatlah, ini yang kudapati, kata Pengkhotbah: Sementara menyatukan yang satu dengan yang lain untuk mendapat kesimpulan,",
-    "h": "",
-    "o": 27,
-    "l": "27"
-  },
-  {
-    "id": "21007028",
-    "b": 21,
-    "c": 7,
-    "v": 28,
-    "t": "yang masih kucari tetapi tidak kudapati, kudapati seorang laki-laki di antara seribu, tetapi tidak kudapati seorang perempuan di antara mereka.",
-    "h": "",
-    "o": 28,
-    "l": "28"
-  },
-  {
-    "id": "21007029",
-    "b": 21,
-    "c": 7,
-    "v": 29,
-    "t": "Lihatlah, hanya ini yang kudapati: bahwa Allah telah menjadikan manusia yang jujur, tetapi mereka mencari banyak dalih.",
-    "h": "",
-    "o": 29,
-    "l": "29"
-  },
-  {
-    "id": "21008001",
-    "b": 21,
-    "c": 8,
-    "v": 1,
-    "t": "Siapakah seperti orang berhikmat? Dan siapakah yang mengetahui keterangan setiap perkara? Hikmat manusia menjadikan wajahnya bercahaya dan berubahlah kekerasan wajahnya.",
-    "h": "",
-    "o": 1,
-    "l": "1"
-  },
-  {
-    "id": "21008002",
-    "b": 21,
-    "c": 8,
-    "v": 2,
-    "t": "Patuhilah perintah raja demi sumpahmu kepada Allah.",
-    "h": "Kepatuhan kepada raja\n8:2-8",
-    "o": 2,
-    "l": "2"
-  },
-  {
-    "id": "21008003",
-    "b": 21,
-    "c": 8,
-    "v": 3,
-    "t": "Janganlah tergesa-gesa pergi dari hadapannya, janganlah bertahan dalam perkara yang jahat, karena ia berbuat apa yang dikehendakinya.",
-    "h": "",
-    "o": 3,
-    "l": "3"
-  },
-  {
-    "id": "21008004",
-    "b": 21,
-    "c": 8,
-    "v": 4,
-    "t": "Karena titah raja berkuasa; siapakah yang akan mengatakan kepadanya: ”Apakah yang baginda buat?”",
-    "h": "",
-    "o": 4,
-    "l": "4"
-  },
-  {
-    "id": "21008005",
-    "b": 21,
-    "c": 8,
-    "v": 5,
-    "t": "Siapa yang mematuhi perintah tidak akan mengalami perkara yang mencelakakan, dan hati orang berhikmat mengetahui waktu pengadilan,",
-    "h": "",
-    "o": 5,
-    "l": "5"
-  },
-  {
-    "id": "21008006",
-    "b": 21,
-    "c": 8,
-    "v": 6,
-    "t": "karena untuk segala sesuatu ada waktu pengadilan, dan kejahatan manusia menekan dirinya.",
-    "h": "",
-    "o": 6,
-    "l": "6"
-  },
-  {
-    "id": "21008007",
-    "b": 21,
-    "c": 8,
-    "v": 7,
-    "t": "Sesungguhnya, ia tak mengetahui apa yang akan terjadi, karena siapakah yang akan mengatakan kepadanya bagaimana itu akan terjadi?",
-    "h": "",
-    "o": 7,
-    "l": "7"
-  },
-  {
-    "id": "21008008",
-    "b": 21,
-    "c": 8,
-    "v": 8,
-    "t": "Tiada seorang pun berkuasa menahan angin dan tiada seorang pun berkuasa atas hari kematian. Tak ada istirahat dalam peperangan, dan kefasikan tidak melepaskan orang yang melakukannya.",
-    "h": "",
-    "o": 8,
-    "l": "8"
-  },
-  {
-    "id": "21008009",
-    "b": 21,
-    "c": 8,
-    "v": 9,
-    "t": "Semua ini telah kulihat dan aku memberi perhatian kepada segala perbuatan yang dilakukan di bawah matahari, ketika orang yang satu menguasai orang yang lain hingga ia celaka.",
-    "h": "Pekerjaan Allah tidak dapat diselami manusia\n8:9-17",
-    "o": 9,
-    "l": "9"
-  },
-  {
-    "id": "21008010",
-    "b": 21,
-    "c": 8,
-    "v": 10,
-    "t": "Aku melihat juga orang-orang fasik yang akan dikuburkan boleh masuk, sedangkan orang yang berlaku benar harus pergi dari tempat yang kudus dan dilupakan dalam kota. Ini pun sia-sia.",
-    "h": "",
-    "o": 10,
-    "l": "10"
-  },
-  {
-    "id": "21008011",
-    "b": 21,
-    "c": 8,
-    "v": 11,
-    "t": "Oleh karena hukuman terhadap perbuatan jahat tidak segera dilaksanakan, maka hati manusia penuh niat untuk berbuat jahat.",
-    "h": "",
-    "o": 11,
-    "l": "11"
-  },
-  {
-    "id": "21008012",
-    "b": 21,
-    "c": 8,
-    "v": 12,
-    "t": "Walaupun orang yang berdosa dan yang berbuat jahat seratus kali hidup lama, namun aku tahu, bahwa orang yang takut akan Allah akan beroleh kebahagiaan, sebab mereka takut terhadap hadirat-Nya.",
-    "h": "",
-    "o": 12,
-    "l": "12"
-  },
-  {
-    "id": "21008013",
-    "b": 21,
-    "c": 8,
-    "v": 13,
-    "t": "Tetapi orang yang fasik tidak akan beroleh kebahagiaan dan seperti bayang-bayang ia tidak akan panjang umur, karena ia tidak takut terhadap hadirat Allah.",
-    "h": "",
-    "o": 13,
-    "l": "13"
-  },
-  {
-    "id": "21008014",
-    "b": 21,
-    "c": 8,
-    "v": 14,
-    "t": "Ada suatu kesia-siaan yang terjadi di atas bumi: ada orang-orang benar, yang menerima ganjaran yang layak untuk perbuatan orang fasik, dan ada orang-orang fasik yang menerima pahala yang layak untuk perbuatan orang benar. Aku berkata: ”Ini pun sia-sia!”",
-    "h": "",
-    "o": 14,
-    "l": "14"
-  },
-  {
-    "id": "21008015",
-    "b": 21,
-    "c": 8,
-    "v": 15,
-    "t": "Oleh sebab itu aku memuji kesukaan, karena tak ada kebahagiaan lain bagi manusia di bawah matahari, kecuali makan dan minum dan bersukaria. Itu yang menyertainya di dalam jerih payahnya seumur hidupnya yang diberikan Allah kepadanya di bawah matahari.",
-    "h": "",
-    "o": 15,
-    "l": "15"
-  },
-  {
-    "id": "21008016",
-    "b": 21,
-    "c": 8,
-    "v": 16,
-    "t": "Ketika aku memberi perhatianku untuk memahami hikmat dan melihat kegiatan yang dilakukan orang di dunia tanpa mengantuk siang malam,",
-    "h": "",
-    "o": 16,
-    "l": "16"
-  },
-  {
-    "id": "21008017",
-    "b": 21,
-    "c": 8,
-    "v": 17,
-    "t": "maka nyatalah kepadaku, bahwa manusia tidak dapat menyelami segala pekerjaan Allah, yang dilakukan-Nya di bawah matahari. Bagaimanapun juga manusia berlelah-lelah mencarinya, ia tidak akan menyelaminya. Walaupun orang yang berhikmat mengatakan, bahwa ia mengetahuinya, namun ia tidak dapat menyelaminya.",
-    "h": "",
-    "o": 17,
-    "l": "17"
-  },
-  {
-    "id": "21009001",
-    "b": 21,
-    "c": 9,
-    "v": 1,
-    "t": "Sesungguhnya, semua ini telah kuperhatikan, semua ini telah kuperiksa, yakni bahwa orang-orang yang benar dan orang-orang yang berhikmat dan perbuatan-perbuatan mereka, baik kasih maupun kebencian, ada di tangan Allah; manusia tidak mengetahui apa pun yang dihadapinya.",
-    "h": "Nasib semua orang sama\n9:1-12",
-    "o": 1,
-    "l": "1"
-  },
-  {
-    "id": "21009002",
-    "b": 21,
-    "c": 9,
-    "v": 2,
-    "t": "Segala sesuatu sama bagi sekalian; nasib orang sama: baik orang yang benar maupun orang yang fasik, orang yang baik maupun orang yang jahat, orang yang tahir maupun orang yang najis, orang yang mempersembahkan korban maupun yang tidak mempersembahkan korban. Sebagaimana orang yang baik, begitu pula orang yang berdosa; sebagaimana orang yang bersumpah, begitu pula orang yang takut untuk bersumpah.",
-    "h": "",
-    "o": 2,
-    "l": "2"
-  },
-  {
-    "id": "21009003",
-    "b": 21,
-    "c": 9,
-    "v": 3,
-    "t": "Inilah yang celaka dalam segala sesuatu yang terjadi di bawah matahari; nasib semua orang sama. Hati anak-anak manusia pun penuh dengan kejahatan, dan kebebalan ada dalam hati mereka seumur hidup, dan kemudian mereka menuju alam orang mati.",
-    "h": "",
-    "o": 3,
-    "l": "3"
-  },
-  {
-    "id": "21009004",
-    "b": 21,
-    "c": 9,
-    "v": 4,
-    "t": "Tetapi siapa yang termasuk orang hidup mempunyai harapan, karena anjing yang hidup lebih baik dari pada singa yang mati.",
-    "h": "",
-    "o": 4,
-    "l": "4"
-  },
-  {
-    "id": "21009005",
-    "b": 21,
-    "c": 9,
-    "v": 5,
-    "t": "Karena orang-orang yang hidup tahu bahwa mereka akan mati, tetapi orang yang mati tak tahu apa-apa, tak ada upah lagi bagi mereka, bahkan kenangan kepada mereka sudah lenyap.",
-    "h": "",
-    "o": 5,
-    "l": "5"
-  },
-  {
-    "id": "21009006",
-    "b": 21,
-    "c": 9,
-    "v": 6,
-    "t": "Baik kasih mereka, maupun kebencian dan kecemburuan mereka sudah lama hilang, dan untuk selama-lamanya tak ada lagi bahagian mereka dalam segala sesuatu yang terjadi di bawah matahari.",
-    "h": "",
-    "o": 6,
-    "l": "6"
-  },
-  {
-    "id": "21009007",
-    "b": 21,
-    "c": 9,
-    "v": 7,
-    "t": "Mari, makanlah rotimu dengan sukaria, dan minumlah anggurmu dengan hati yang senang, karena Allah sudah lama berkenan akan perbuatanmu.",
-    "h": "",
-    "o": 7,
-    "l": "7"
-  },
-  {
-    "id": "21009008",
-    "b": 21,
-    "c": 9,
-    "v": 8,
-    "t": "Biarlah selalu putih pakaianmu dan jangan tidak ada minyak di atas kepalamu.",
-    "h": "",
-    "o": 8,
-    "l": "8"
-  },
-  {
-    "id": "21009009",
-    "b": 21,
-    "c": 9,
-    "v": 9,
-    "t": "Nikmatilah hidup dengan isteri yang kaukasihi seumur hidupmu yang sia-sia, yang dikaruniakan TUHAN kepadamu di bawah matahari, karena itulah bahagianmu dalam hidup dan dalam usaha yang engkau lakukan dengan jerih payah di bawah matahari.",
-    "h": "",
-    "o": 9,
-    "l": "9"
-  },
-  {
-    "id": "21009010",
-    "b": 21,
-    "c": 9,
-    "v": 10,
-    "t": "Segala sesuatu yang dijumpai tanganmu untuk dikerjakan, kerjakanlah itu sekuat tenaga, karena tak ada pekerjaan, pertimbangan, pengetahuan dan hikmat dalam dunia orang mati, ke mana engkau akan pergi.",
-    "h": "",
-    "o": 10,
-    "l": "10"
-  },
-  {
-    "id": "21009011",
-    "b": 21,
-    "c": 9,
-    "v": 11,
-    "t": "Lagi aku melihat di bawah matahari bahwa kemenangan perlombaan bukan untuk yang cepat, dan keunggulan perjuangan bukan untuk yang kuat, juga roti bukan untuk yang berhikmat, kekayaan bukan untuk yang cerdas, dan karunia bukan untuk yang cerdik cendekia, karena waktu dan nasib dialami mereka semua.",
-    "h": "",
-    "o": 11,
-    "l": "11"
-  },
-  {
-    "id": "21009012",
-    "b": 21,
-    "c": 9,
-    "v": 12,
-    "t": "Karena manusia tidak mengetahui waktunya. Seperti ikan yang tertangkap dalam jala yang mencelakakan, dan seperti burung yang tertangkap dalam jerat, begitulah anak-anak manusia terjerat pada waktu yang malang, kalau hal itu menimpa mereka secara tiba-tiba.",
-    "h": "",
-    "o": 12,
-    "l": "12"
-  },
-  {
-    "id": "21009013",
-    "b": 21,
-    "c": 9,
-    "v": 13,
-    "t": "Hal ini juga kupandang sebagai hikmat di bawah matahari dan nampaknya besar bagiku;",
-    "h": "Hikmat lebih baik dari pada kuasa\n9:13-18",
-    "o": 13,
-    "l": "13"
-  },
-  {
-    "id": "21009014",
-    "b": 21,
-    "c": 9,
-    "v": 14,
-    "t": "ada sebuah kota yang kecil, penduduknya tidak seberapa; seorang raja yang agung menyerang, mengepungnya dan mendirikan tembok-tembok pengepungan yang besar terhadapnya;",
-    "h": "",
-    "o": 14,
-    "l": "14"
-  },
-  {
-    "id": "21009015",
-    "b": 21,
-    "c": 9,
-    "v": 15,
-    "t": "di situ terdapat seorang miskin yang berhikmat, dengan hikmatnya ia menyelamatkan kota itu, tetapi tak ada orang yang mengingat orang yang miskin itu.",
-    "h": "",
-    "o": 15,
-    "l": "15"
-  },
-  {
-    "id": "21009016",
-    "b": 21,
-    "c": 9,
-    "v": 16,
-    "t": "Kataku: ”Hikmat lebih baik dari pada keperkasaan, tetapi hikmat orang miskin dihina dan perkataannya tidak didengar orang.”",
-    "h": "",
-    "o": 16,
-    "l": "16"
-  },
-  {
-    "id": "21009017",
-    "b": 21,
-    "c": 9,
-    "v": 17,
-    "t": "Perkataan orang berhikmat yang didengar dengan tenang, lebih baik dari pada teriakan orang yang berkuasa di antara orang bodoh.",
-    "h": "",
-    "o": 17,
-    "l": "17"
-  },
-  {
-    "id": "21009018",
-    "b": 21,
-    "c": 9,
-    "v": 18,
-    "t": "Hikmat lebih baik dari pada alat-alat perang, tetapi satu orang yang keliru dapat merusakkan banyak hal yang baik.",
-    "h": "",
-    "o": 18,
-    "l": "18"
-  },
-  {
-    "id": "21010001",
-    "b": 21,
-    "c": 10,
-    "v": 1,
-    "t": "Lalat yang mati menyebabkan urapan dari pembuat urapan berbau busuk; demikian juga sedikit kebodohan lebih berpengaruh dari pada hikmat dan kehormatan.",
-    "h": "Akibat-akibat kebodohan\n10:1-20",
-    "o": 1,
-    "l": "1"
-  },
-  {
-    "id": "21010002",
-    "b": 21,
-    "c": 10,
-    "v": 2,
-    "t": "Hati orang berhikmat menuju ke kanan, tetapi hati orang bodoh ke kiri.",
-    "h": "",
-    "o": 2,
-    "l": "2"
-  },
-  {
-    "id": "21010003",
-    "b": 21,
-    "c": 10,
-    "v": 3,
-    "t": "Juga kalau ia berjalan di lorong orang bodoh itu tumpul pikirannya, dan ia berkata kepada setiap orang: ”Orang itu bodoh!”",
-    "h": "",
-    "o": 3,
-    "l": "3"
-  },
-  {
-    "id": "21010004",
-    "b": 21,
-    "c": 10,
-    "v": 4,
-    "t": "Jika amarah penguasa menimpa engkau, janganlah meninggalkan tempatmu, karena kesabaran mencegah kesalahan-kesalahan besar.",
-    "h": "",
-    "o": 4,
-    "l": "4"
-  },
-  {
-    "id": "21010005",
-    "b": 21,
-    "c": 10,
-    "v": 5,
-    "t": "Ada suatu kejahatan yang kulihat di bawah matahari sebagai kekhilafan yang berasal dari seorang penguasa:",
-    "h": "",
-    "o": 5,
-    "l": "5"
-  },
-  {
-    "id": "21010006",
-    "b": 21,
-    "c": 10,
-    "v": 6,
-    "t": "pada banyak tempat yang tinggi, didudukkan orang bodoh, sedangkan tempat yang rendah diduduki orang kaya.",
-    "h": "",
-    "o": 6,
-    "l": "6"
-  },
-  {
-    "id": "21010007",
-    "b": 21,
-    "c": 10,
-    "v": 7,
-    "t": "Aku melihat budak-budak menunggang kuda dan pembesar-pembesar berjalan kaki seperti budak-budak.",
-    "h": "",
-    "o": 7,
-    "l": "7"
-  },
-  {
-    "id": "21010008",
-    "b": 21,
-    "c": 10,
-    "v": 8,
-    "t": "Barangsiapa menggali lobang akan jatuh ke dalamnya, dan barangsiapa mendobrak tembok akan dipagut ular.",
-    "h": "",
-    "o": 8,
-    "l": "8"
-  },
-  {
-    "id": "21010009",
-    "b": 21,
-    "c": 10,
-    "v": 9,
-    "t": "Barangsiapa memecahkan batu akan dilukainya; barangsiapa membelah kayu akan dibahayakannya.",
-    "h": "",
-    "o": 9,
-    "l": "9"
-  },
-  {
-    "id": "21010010",
-    "b": 21,
-    "c": 10,
-    "v": 10,
-    "t": "Jika besi menjadi tumpul dan tidak diasah, maka orang harus memperbesar tenaga, tetapi yang terpenting untuk berhasil adalah hikmat.",
-    "h": "",
-    "o": 10,
-    "l": "10"
-  },
-  {
-    "id": "21010011",
-    "b": 21,
-    "c": 10,
-    "v": 11,
-    "t": "Jika ular memagut sebelum mantera diucapkan, maka tukang mantera tidak akan berhasil.",
-    "h": "",
-    "o": 11,
-    "l": "11"
-  },
-  {
-    "id": "21010012",
-    "b": 21,
-    "c": 10,
-    "v": 12,
-    "t": "Perkataan mulut orang berhikmat menarik, tetapi bibir orang bodoh menelan orang itu sendiri.",
-    "h": "",
-    "o": 12,
-    "l": "12"
-  },
-  {
-    "id": "21010013",
-    "b": 21,
-    "c": 10,
-    "v": 13,
-    "t": "Awal perkataan yang keluar dari mulutnya adalah kebodohan, dan akhir bicaranya adalah kebebalan yang mencelakakan.",
-    "h": "",
-    "o": 13,
-    "l": "13"
-  },
-  {
-    "id": "21010014",
-    "b": 21,
-    "c": 10,
-    "v": 14,
-    "t": "Orang yang bodoh banyak bicaranya, meskipun orang tidak tahu apa yang akan terjadi, dan siapakah yang akan mengatakan kepadanya apa yang akan terjadi sesudah dia?",
-    "h": "",
-    "o": 14,
-    "l": "14"
-  },
-  {
-    "id": "21010015",
-    "b": 21,
-    "c": 10,
-    "v": 15,
-    "t": "Jerih payah orang bodoh melelahkan orang itu sendiri, karena ia tidak mengetahui jalan ke kota.",
-    "h": "",
-    "o": 15,
-    "l": "15"
-  },
-  {
-    "id": "21010016",
-    "b": 21,
-    "c": 10,
-    "v": 16,
-    "t": "Wahai engkau tanah, kalau rajamu seorang kanak-kanak, dan pemimpin-pemimpinmu pagi-pagi sudah makan!",
-    "h": "",
-    "o": 16,
-    "l": "16"
-  },
-  {
-    "id": "21010017",
-    "b": 21,
-    "c": 10,
-    "v": 17,
-    "t": "Berbahagialah engkau tanah, kalau rajamu seorang yang berasal dari kaum pemuka, dan pemimpin-pemimpinmu makan pada waktunya dalam keperkasaan dan bukan dalam kemabukan!",
-    "h": "",
-    "o": 17,
-    "l": "17"
-  },
-  {
-    "id": "21010018",
-    "b": 21,
-    "c": 10,
-    "v": 18,
-    "t": "Oleh karena kemalasan runtuhlah atap, dan oleh karena kelambanan tangan bocorlah rumah.",
-    "h": "",
-    "o": 18,
-    "l": "18"
-  },
-  {
-    "id": "21010019",
-    "b": 21,
-    "c": 10,
-    "v": 19,
-    "t": "Untuk tertawa orang menghidangkan makanan; anggur meriangkan hidup dan uang memungkinkan semuanya itu.",
-    "h": "",
-    "o": 19,
-    "l": "19"
-  },
-  {
-    "id": "21010020",
-    "b": 21,
-    "c": 10,
-    "v": 20,
-    "t": "Dalam pikiran pun janganlah engkau mengutuki raja, dan dalam kamar tidur janganlah engkau mengutuki orang kaya, karena burung di udara mungkin akan menyampaikan ucapanmu, dan segala yang bersayap dapat menyampaikan apa yang kauucapkan.",
-    "h": "",
-    "o": 20,
-    "l": "20"
-  },
-  {
-    "id": "21011001",
-    "b": 21,
-    "c": 11,
-    "v": 1,
-    "t": "Lemparkanlah rotimu ke air, maka engkau akan mendapatnya kembali lama setelah itu.",
-    "h": "Pedoman-pedoman hikmat\n11:1-8",
-    "o": 1,
-    "l": "1"
-  },
-  {
-    "id": "21011002",
-    "b": 21,
-    "c": 11,
-    "v": 2,
-    "t": "Berikanlah bahagian kepada tujuh, bahkan kepada delapan orang, karena engkau tidak tahu malapetaka apa yang akan terjadi di atas bumi.",
-    "h": "",
-    "o": 2,
-    "l": "2"
-  },
-  {
-    "id": "21011003",
-    "b": 21,
-    "c": 11,
-    "v": 3,
-    "t": "Bila awan-awan sarat mengandung hujan, maka hujan itu dicurahkannya ke atas bumi; dan bila pohon tumbang ke selatan atau ke utara, di tempat pohon itu jatuh, di situ ia tinggal terletak.",
-    "h": "",
-    "o": 3,
-    "l": "3"
-  },
-  {
-    "id": "21011004",
-    "b": 21,
-    "c": 11,
-    "v": 4,
-    "t": "Siapa senantiasa memperhatikan angin tidak akan menabur; dan siapa senantiasa melihat awan tidak akan menuai.",
-    "h": "",
-    "o": 4,
-    "l": "4"
-  },
-  {
-    "id": "21011005",
-    "b": 21,
-    "c": 11,
-    "v": 5,
-    "t": "Sebagaimana engkau tidak mengetahui jalan angin dan tulang-tulang dalam rahim seorang perempuan yang mengandung, demikian juga engkau tidak mengetahui pekerjaan Allah yang melakukan segala sesuatu.",
-    "h": "",
-    "o": 5,
-    "l": "5"
-  },
-  {
-    "id": "21011006",
-    "b": 21,
-    "c": 11,
-    "v": 6,
-    "t": "Taburkanlah benihmu pagi-pagi hari, dan janganlah memberi istirahat kepada tanganmu pada petang hari, karena engkau tidak mengetahui apakah ini atau itu yang akan berhasil, atau kedua-duanya sama baik.",
-    "h": "",
-    "o": 6,
-    "l": "6"
-  },
-  {
-    "id": "21011007",
-    "b": 21,
-    "c": 11,
-    "v": 7,
-    "t": "Terang itu menyenangkan dan melihat matahari itu baik bagi mata;",
-    "h": "",
-    "o": 7,
-    "l": "7"
-  },
-  {
-    "id": "21011008",
-    "b": 21,
-    "c": 11,
-    "v": 8,
-    "t": "oleh sebab itu jikalau orang panjang umurnya, biarlah ia bersukacita di dalamnya, tetapi hendaklah ia ingat akan hari-hari yang gelap, karena banyak jumlahnya. Segala sesuatu yang datang adalah kesia-siaan.",
-    "h": "",
-    "o": 8,
-    "l": "8"
-  },
-  {
-    "id": "21011009",
-    "b": 21,
-    "c": 11,
-    "v": 9,
-    "t": "Bersukarialah, hai pemuda, dalam kemudaanmu, biarlah hatimu bersuka pada masa mudamu, dan turutilah keinginan hatimu dan pandangan matamu, tetapi ketahuilah bahwa karena segala hal ini Allah akan membawa engkau ke pengadilan!",
-    "h": "Nasihat bagi pemuda-pemudi\n11:9–12:8",
-    "o": 9,
-    "l": "9"
-  },
-  {
-    "id": "21011010",
-    "b": 21,
-    "c": 11,
-    "v": 10,
-    "t": "Buanglah kesedihan dari hatimu dan jauhkanlah penderitaan dari tubuhmu, karena kemudaan dan fajar hidup adalah kesia-siaan.",
-    "h": "",
-    "o": 10,
-    "l": "10"
-  },
-  {
-    "id": "21012001",
-    "b": 21,
-    "c": 12,
-    "v": 1,
-    "t": "Ingatlah akan Penciptamu pada masa mudamu, sebelum tiba hari-hari yang malang dan mendekat tahun-tahun yang kaukatakan: ”Tak ada kesenangan bagiku di dalamnya!”,",
-    "h": "",
-    "o": 1,
-    "l": "1"
-  },
-  {
-    "id": "21012002",
-    "b": 21,
-    "c": 12,
-    "v": 2,
-    "t": "sebelum matahari dan terang, bulan dan bintang-bintang menjadi gelap, dan awan-awan datang kembali sesudah hujan,",
-    "h": "",
-    "o": 2,
-    "l": "2"
-  },
-  {
-    "id": "21012003",
-    "b": 21,
-    "c": 12,
-    "v": 3,
-    "t": "pada waktu penjaga-penjaga rumah gemetar, dan orang-orang kuat membungkuk, dan perempuan-perempuan penggiling berhenti karena berkurang jumlahnya, dan yang melihat dari jendela semuanya menjadi kabur,",
-    "h": "",
-    "o": 3,
-    "l": "3"
-  },
-  {
-    "id": "21012004",
-    "b": 21,
-    "c": 12,
-    "v": 4,
-    "t": "dan pintu-pintu di tepi jalan tertutup, dan bunyi penggilingan menjadi lemah, dan suara menjadi seperti kicauan burung, dan semua penyanyi perempuan tunduk,",
-    "h": "",
-    "o": 4,
-    "l": "4"
-  },
-  {
-    "id": "21012005",
-    "b": 21,
-    "c": 12,
-    "v": 5,
-    "t": "juga orang menjadi takut tinggi, dan ketakutan ada di jalan, pohon badam berbunga, belalang menyeret dirinya dengan susah payah dan nafsu makan tak dapat dibangkitkan lagi – karena manusia pergi ke rumahnya yang kekal dan peratap-peratap berkeliaran di jalan,",
-    "h": "",
-    "o": 5,
-    "l": "5"
-  },
-  {
-    "id": "21012006",
-    "b": 21,
-    "c": 12,
-    "v": 6,
-    "t": "sebelum rantai perak diputuskan dan pelita emas dipecahkan, sebelum tempayan dihancurkan dekat mata air dan roda timba dirusakkan di atas sumur,",
-    "h": "",
-    "o": 6,
-    "l": "6"
-  },
-  {
-    "id": "21012007",
-    "b": 21,
-    "c": 12,
-    "v": 7,
-    "t": "dan debu kembali menjadi tanah seperti semula dan roh kembali kepada Allah yang mengaruniakannya.",
-    "h": "",
-    "o": 7,
-    "l": "7"
-  },
-  {
-    "id": "21012008",
-    "b": 21,
-    "c": 12,
-    "v": 8,
-    "t": "Kesia-siaan atas kesia-siaan, kata Pengkhotbah, segala sesuatu adalah sia-sia.",
-    "h": "",
-    "o": 8,
-    "l": "8"
-  },
-  {
-    "id": "21012009",
-    "b": 21,
-    "c": 12,
-    "v": 9,
-    "t": "Selain Pengkhotbah berhikmat, ia mengajarkan juga kepada umat itu pengetahuan. Ia menimbang, menguji dan menyusun banyak amsal.",
-    "h": "Akhir kata\n12:9-14",
-    "o": 9,
-    "l": "9"
-  },
-  {
-    "id": "21012010",
-    "b": 21,
-    "c": 12,
-    "v": 10,
-    "t": "Pengkhotbah berusaha mendapat kata-kata yang menyenangkan dan menulis kata-kata kebenaran secara jujur.",
-    "h": "",
-    "o": 10,
-    "l": "10"
-  },
-  {
-    "id": "21012011",
-    "b": 21,
-    "c": 12,
-    "v": 11,
-    "t": "Kata-kata orang berhikmat seperti kusa dan kumpulan-kumpulannya seperti paku-paku yang tertancap, diberikan oleh satu gembala.",
-    "h": "",
-    "o": 11,
-    "l": "11"
-  },
-  {
-    "id": "21012012",
-    "b": 21,
-    "c": 12,
-    "v": 12,
-    "t": "Lagipula, anakku, waspadalah! Membuat banyak buku tak akan ada akhirnya, dan banyak belajar melelahkan badan.",
-    "h": "",
-    "o": 12,
-    "l": "12"
-  },
-  {
-    "id": "21012013",
-    "b": 21,
-    "c": 12,
-    "v": 13,
-    "t": "Akhir kata dari segala yang didengar ialah: takutlah akan Allah dan berpeganglah pada perintah-perintah-Nya, karena ini adalah kewajiban setiap orang.",
-    "h": "",
-    "o": 13,
-    "l": "13"
-  },
-  {
-    "id": "21012014",
-    "b": 21,
-    "c": 12,
-    "v": 14,
-    "t": "Karena Allah akan membawa setiap perbuatan ke pengadilan yang berlaku atas segala sesuatu yang tersembunyi, entah itu baik, entah itu jahat.",
-    "h": "",
-    "o": 14,
-    "l": "14"
-  }
-]
+{
+  "_id": "TB.ECC",
+  "verses": [
+    {
+      "id": 21001001,
+      "b": 21,
+      "c": 1,
+      "v": 1,
+      "t": "Inilah perkataan Pengkhotbah, anak Daud, raja di Yerusalem.",
+      "h": "Segala sesuatu sia-sia\n1:1-11",
+      "o": 1,
+      "l": "1"
+    },
+    {
+      "id": 21001002,
+      "b": 21,
+      "c": 1,
+      "v": 2,
+      "t": "Kesia-siaan belaka, kata Pengkhotbah, kesia-siaan belaka, segala sesuatu adalah sia-sia.",
+      "h": "",
+      "o": 2,
+      "l": "2"
+    },
+    {
+      "id": 21001003,
+      "b": 21,
+      "c": 1,
+      "v": 3,
+      "t": "Apakah gunanya manusia berusaha dengan jerih payah di bawah matahari?",
+      "h": "",
+      "o": 3,
+      "l": "3"
+    },
+    {
+      "id": 21001004,
+      "b": 21,
+      "c": 1,
+      "v": 4,
+      "t": "Keturunan yang satu pergi dan keturunan yang lain datang, tetapi bumi tetap ada.",
+      "h": "",
+      "o": 4,
+      "l": "4"
+    },
+    {
+      "id": 21001005,
+      "b": 21,
+      "c": 1,
+      "v": 5,
+      "t": "Matahari terbit, matahari terbenam, lalu terburu-buru menuju tempat ia terbit kembali.",
+      "h": "",
+      "o": 5,
+      "l": "5"
+    },
+    {
+      "id": 21001006,
+      "b": 21,
+      "c": 1,
+      "v": 6,
+      "t": "Angin bertiup ke selatan, lalu berputar ke utara, terus-menerus ia berputar, dan dalam putarannya angin itu kembali.",
+      "h": "",
+      "o": 6,
+      "l": "6"
+    },
+    {
+      "id": 21001007,
+      "b": 21,
+      "c": 1,
+      "v": 7,
+      "t": "Semua sungai mengalir ke laut, tetapi laut tidak juga menjadi penuh; ke mana sungai mengalir, ke situ sungai mengalir selalu.",
+      "h": "",
+      "o": 7,
+      "l": "7"
+    },
+    {
+      "id": 21001008,
+      "b": 21,
+      "c": 1,
+      "v": 8,
+      "t": "Segala sesuatu menjemukan, sehingga tak terkatakan oleh manusia; mata tidak kenyang melihat, telinga tidak puas mendengar.",
+      "h": "",
+      "o": 8,
+      "l": "8"
+    },
+    {
+      "id": 21001009,
+      "b": 21,
+      "c": 1,
+      "v": 9,
+      "t": "Apa yang pernah ada akan ada lagi, dan apa yang pernah dibuat akan dibuat lagi; tak ada sesuatu yang baru di bawah matahari.",
+      "h": "",
+      "o": 9,
+      "l": "9"
+    },
+    {
+      "id": 21001010,
+      "b": 21,
+      "c": 1,
+      "v": 10,
+      "t": "Adakah sesuatu yang dapat dikatakan: ”Lihatlah, ini baru!”? Tetapi itu sudah ada dulu, lama sebelum kita ada.",
+      "h": "",
+      "o": 10,
+      "l": "10"
+    },
+    {
+      "id": 21001011,
+      "b": 21,
+      "c": 1,
+      "v": 11,
+      "t": "Kenang-kenangan dari masa lampau tidak ada, dan dari masa depan yang masih akan datang pun tidak akan ada kenang-kenangan pada mereka yang hidup sesudahnya.",
+      "h": "",
+      "o": 11,
+      "l": "11"
+    },
+    {
+      "id": 21001012,
+      "b": 21,
+      "c": 1,
+      "v": 12,
+      "t": "Aku, Pengkhotbah, adalah raja atas Israel di Yerusalem.",
+      "h": "Pengejaran hikmat adalah sia-sia\n1:12-18",
+      "o": 12,
+      "l": "12"
+    },
+    {
+      "id": 21001013,
+      "b": 21,
+      "c": 1,
+      "v": 13,
+      "t": "Aku membulatkan hatiku untuk memeriksa dan menyelidiki dengan hikmat segala yang terjadi di bawah langit. Itu pekerjaan yang menyusahkan yang diberikan Allah kepada anak-anak manusia untuk melelahkan diri.",
+      "h": "",
+      "o": 13,
+      "l": "13"
+    },
+    {
+      "id": 21001014,
+      "b": 21,
+      "c": 1,
+      "v": 14,
+      "t": "Aku telah melihat segala perbuatan yang dilakukan orang di bawah matahari, tetapi lihatlah, segala sesuatu adalah kesia-siaan dan usaha menjaring angin.",
+      "h": "",
+      "o": 14,
+      "l": "14"
+    },
+    {
+      "id": 21001015,
+      "b": 21,
+      "c": 1,
+      "v": 15,
+      "t": "Yang bongkok tak dapat diluruskan, dan yang tidak ada tak dapat dihitung.",
+      "h": "",
+      "o": 15,
+      "l": "15"
+    },
+    {
+      "id": 21001016,
+      "b": 21,
+      "c": 1,
+      "v": 16,
+      "t": "Aku berkata dalam hati: ”Lihatlah, aku telah memperbesar dan menambah hikmat lebih dari pada semua orang yang memerintah atas Yerusalem sebelum aku, dan hatiku telah memperoleh banyak hikmat dan pengetahuan.”",
+      "h": "",
+      "o": 16,
+      "l": "16"
+    },
+    {
+      "id": 21001017,
+      "b": 21,
+      "c": 1,
+      "v": 17,
+      "t": "Aku telah membulatkan hatiku untuk memahami hikmat dan pengetahuan, kebodohan dan kebebalan. Tetapi aku menyadari bahwa hal ini pun adalah usaha menjaring angin,",
+      "h": "",
+      "o": 17,
+      "l": "17"
+    },
+    {
+      "id": 21001018,
+      "b": 21,
+      "c": 1,
+      "v": 18,
+      "t": "karena di dalam banyak hikmat ada banyak susah hati, dan siapa memperbanyak pengetahuan, memperbanyak kesedihan.",
+      "h": "",
+      "o": 18,
+      "l": "18"
+    },
+    {
+      "id": 21002001,
+      "b": 21,
+      "c": 2,
+      "v": 1,
+      "t": "Aku berkata dalam hati: ”Mari, aku hendak menguji kegirangan! Nikmatilah kesenangan! Tetapi lihat, juga itu pun sia-sia.”",
+      "h": "Hikmat dan kebodohan adalah hal yang sia-sia\n2:1-26",
+      "o": 1,
+      "l": "1"
+    },
+    {
+      "id": 21002002,
+      "b": 21,
+      "c": 2,
+      "v": 2,
+      "t": "Tentang tertawa aku berkata: ”Itu bodoh!”, dan mengenai kegirangan: ”Apa gunanya?”",
+      "h": "",
+      "o": 2,
+      "l": "2"
+    },
+    {
+      "id": 21002003,
+      "b": 21,
+      "c": 2,
+      "v": 3,
+      "t": "Aku menyelidiki diriku dengan menyegarkan tubuhku dengan anggur, – sedang akal budiku tetap memimpin dengan hikmat –, dan dengan memperoleh kebebalan, sampai aku mengetahui apa yang baik bagi anak-anak manusia untuk dilakukan di bawah langit selama hidup mereka yang pendek itu.",
+      "h": "",
+      "o": 3,
+      "l": "3"
+    },
+    {
+      "id": 21002004,
+      "b": 21,
+      "c": 2,
+      "v": 4,
+      "t": "Aku melakukan pekerjaan-pekerjaan besar, mendirikan bagiku rumah-rumah, menanami bagiku kebun-kebun anggur;",
+      "h": "",
+      "o": 4,
+      "l": "4"
+    },
+    {
+      "id": 21002005,
+      "b": 21,
+      "c": 2,
+      "v": 5,
+      "t": "aku mengusahakan bagiku kebun-kebun dan taman-taman, dan menanaminya dengan rupa-rupa pohon buah-buahan;",
+      "h": "",
+      "o": 5,
+      "l": "5"
+    },
+    {
+      "id": 21002006,
+      "b": 21,
+      "c": 2,
+      "v": 6,
+      "t": "aku menggali bagiku kolam-kolam untuk mengairi dari situ tanaman pohon-pohon muda.",
+      "h": "",
+      "o": 6,
+      "l": "6"
+    },
+    {
+      "id": 21002007,
+      "b": 21,
+      "c": 2,
+      "v": 7,
+      "t": "Aku membeli budak-budak laki-laki dan perempuan, dan ada budak-budak yang lahir di rumahku; aku mempunyai juga banyak sapi dan kambing domba melebihi siapa pun yang pernah hidup di Yerusalem sebelum aku.",
+      "h": "",
+      "o": 7,
+      "l": "7"
+    },
+    {
+      "id": 21002008,
+      "b": 21,
+      "c": 2,
+      "v": 8,
+      "t": "Aku mengumpulkan bagiku juga perak dan emas, harta benda raja-raja dan daerah-daerah. Aku mencari bagiku biduan-biduan dan biduanita-biduanita, dan yang menyenangkan anak-anak manusia, yakni banyak gundik.",
+      "h": "",
+      "o": 8,
+      "l": "8"
+    },
+    {
+      "id": 21002009,
+      "b": 21,
+      "c": 2,
+      "v": 9,
+      "t": "Dengan demikian aku menjadi besar, bahkan lebih besar dari pada siapa pun yang pernah hidup di Yerusalem sebelum aku; dalam pada itu hikmatku tinggal tetap padaku.",
+      "h": "",
+      "o": 9,
+      "l": "9"
+    },
+    {
+      "id": 21002010,
+      "b": 21,
+      "c": 2,
+      "v": 10,
+      "t": "Aku tidak merintangi mataku dari apa pun yang dikehendakinya, dan aku tidak menahan hatiku dari sukacita apa pun, sebab hatiku bersukacita karena segala jerih payahku. Itulah buah segala jerih payahku.",
+      "h": "",
+      "o": 10,
+      "l": "10"
+    },
+    {
+      "id": 21002011,
+      "b": 21,
+      "c": 2,
+      "v": 11,
+      "t": "Ketika aku meneliti segala pekerjaan yang telah dilakukan tanganku dan segala usaha yang telah kulakukan untuk itu dengan jerih payah, lihatlah, segala sesuatu adalah kesia-siaan dan usaha menjaring angin; memang tak ada keuntungan di bawah matahari.",
+      "h": "",
+      "o": 11,
+      "l": "11"
+    },
+    {
+      "id": 21002012,
+      "b": 21,
+      "c": 2,
+      "v": 12,
+      "t": "Lalu aku berpaling untuk meninjau hikmat, kebodohan dan kebebalan, sebab apa yang dapat dilakukan orang yang menggantikan raja? Hanya apa yang telah dilakukan orang.",
+      "h": "",
+      "o": 12,
+      "l": "12"
+    },
+    {
+      "id": 21002013,
+      "b": 21,
+      "c": 2,
+      "v": 13,
+      "t": "Dan aku melihat bahwa hikmat melebihi kebodohan, seperti terang melebihi kegelapan.",
+      "h": "",
+      "o": 13,
+      "l": "13"
+    },
+    {
+      "id": 21002014,
+      "b": 21,
+      "c": 2,
+      "v": 14,
+      "t": "Mata orang berhikmat ada di kepalanya, sedangkan orang yang bodoh berjalan dalam kegelapan, tetapi aku tahu juga bahwa nasib yang sama menimpa mereka semua.",
+      "h": "",
+      "o": 14,
+      "l": "14"
+    },
+    {
+      "id": 21002015,
+      "b": 21,
+      "c": 2,
+      "v": 15,
+      "t": "Maka aku berkata dalam hati: ”Nasib yang menimpa orang bodoh juga akan menimpa aku. Untuk apa aku ini dulu begitu berhikmat?” Lalu aku berkata dalam hati, bahwa ini pun sia-sia.",
+      "h": "",
+      "o": 15,
+      "l": "15"
+    },
+    {
+      "id": 21002016,
+      "b": 21,
+      "c": 2,
+      "v": 16,
+      "t": "Karena tidak ada kenang-kenangan yang kekal baik dari orang yang berhikmat, maupun dari orang yang bodoh, sebab pada hari-hari yang akan datang kesemuanya sudah lama dilupakan. Dan, ah, orang yang berhikmat mati juga seperti orang yang bodoh!",
+      "h": "",
+      "o": 16,
+      "l": "16"
+    },
+    {
+      "id": 21002017,
+      "b": 21,
+      "c": 2,
+      "v": 17,
+      "t": "Oleh sebab itu aku membenci hidup, karena aku menganggap menyusahkan apa yang dilakukan di bawah matahari, sebab segala sesuatu adalah kesia-siaan dan usaha menjaring angin.",
+      "h": "",
+      "o": 17,
+      "l": "17"
+    },
+    {
+      "id": 21002018,
+      "b": 21,
+      "c": 2,
+      "v": 18,
+      "t": "Aku membenci segala usaha yang kulakukan dengan jerih payah di bawah matahari, sebab aku harus meninggalkannya kepada orang yang datang sesudah aku.",
+      "h": "",
+      "o": 18,
+      "l": "18"
+    },
+    {
+      "id": 21002019,
+      "b": 21,
+      "c": 2,
+      "v": 19,
+      "t": "Dan siapakah yang mengetahui apakah orang itu berhikmat atau bodoh? Meskipun demikian ia akan berkuasa atas segala usaha yang kulakukan di bawah matahari dengan jerih payah dan dengan mempergunakan hikmat. Ini pun sia-sia.",
+      "h": "",
+      "o": 19,
+      "l": "19"
+    },
+    {
+      "id": 21002020,
+      "b": 21,
+      "c": 2,
+      "v": 20,
+      "t": "Dengan demikian aku mulai putus asa terhadap segala usaha yang kulakukan dengan jerih payah di bawah matahari.",
+      "h": "",
+      "o": 20,
+      "l": "20"
+    },
+    {
+      "id": 21002021,
+      "b": 21,
+      "c": 2,
+      "v": 21,
+      "t": "Sebab, kalau ada orang berlelah-lelah dengan hikmat, pengetahuan dan kecakapan, maka ia harus meninggalkan bahagiannya kepada orang yang tidak berlelah-lelah untuk itu. Ini pun kesia-siaan dan kemalangan yang besar.",
+      "h": "",
+      "o": 21,
+      "l": "21"
+    },
+    {
+      "id": 21002022,
+      "b": 21,
+      "c": 2,
+      "v": 22,
+      "t": "Apakah faedahnya yang diperoleh manusia dari segala usaha yang dilakukannya dengan jerih payah di bawah matahari dan dari keinginan hatinya?",
+      "h": "",
+      "o": 22,
+      "l": "22"
+    },
+    {
+      "id": 21002023,
+      "b": 21,
+      "c": 2,
+      "v": 23,
+      "t": "Seluruh hidupnya penuh kesedihan dan pekerjaannya penuh kesusahan hati, bahkan pada malam hari hatinya tidak tenteram. Ini pun sia-sia.",
+      "h": "",
+      "o": 23,
+      "l": "23"
+    },
+    {
+      "id": 21002024,
+      "b": 21,
+      "c": 2,
+      "v": 24,
+      "t": "Tak ada yang lebih baik bagi manusia dari pada makan dan minum dan bersenang-senang dalam jerih payahnya. Aku menyadari bahwa ini pun dari tangan Allah.",
+      "h": "",
+      "o": 24,
+      "l": "24"
+    },
+    {
+      "id": 21002025,
+      "b": 21,
+      "c": 2,
+      "v": 25,
+      "t": "Karena siapa dapat makan dan merasakan kenikmatan di luar Dia?",
+      "h": "",
+      "o": 25,
+      "l": "25"
+    },
+    {
+      "id": 21002026,
+      "b": 21,
+      "c": 2,
+      "v": 26,
+      "t": "Karena kepada orang yang dikenan-Nya Ia mengaruniakan hikmat, pengetahuan dan kesukaan, tetapi orang berdosa ditugaskan-Nya untuk menghimpun dan menimbun sesuatu yang kemudian harus diberikannya kepada orang yang dikenan Allah. Ini pun kesia-siaan dan usaha menjaring angin.",
+      "h": "",
+      "o": 26,
+      "l": "26"
+    },
+    {
+      "id": 21003001,
+      "b": 21,
+      "c": 3,
+      "v": 1,
+      "t": "Untuk segala sesuatu ada masanya, untuk apa pun di bawah langit ada waktunya.",
+      "h": "Untuk segala sesuatu ada waktunya\n3:1-15",
+      "o": 1,
+      "l": "1"
+    },
+    {
+      "id": 21003002,
+      "b": 21,
+      "c": 3,
+      "v": 2,
+      "t": "Ada waktu untuk lahir, ada waktu untuk meninggal, ada waktu untuk menanam, ada waktu untuk mencabut yang ditanam;",
+      "h": "",
+      "o": 2,
+      "l": "2"
+    },
+    {
+      "id": 21003003,
+      "b": 21,
+      "c": 3,
+      "v": 3,
+      "t": "ada waktu untuk membunuh, ada waktu untuk menyembuhkan; ada waktu untuk merombak, ada waktu untuk membangun;",
+      "h": "",
+      "o": 3,
+      "l": "3"
+    },
+    {
+      "id": 21003004,
+      "b": 21,
+      "c": 3,
+      "v": 4,
+      "t": "ada waktu untuk menangis, ada waktu untuk tertawa; ada waktu untuk meratap; ada waktu untuk menari;",
+      "h": "",
+      "o": 4,
+      "l": "4"
+    },
+    {
+      "id": 21003005,
+      "b": 21,
+      "c": 3,
+      "v": 5,
+      "t": "ada waktu untuk membuang batu, ada waktu untuk mengumpulkan batu; ada waktu untuk memeluk, ada waktu untuk menahan diri dari memeluk;",
+      "h": "",
+      "o": 5,
+      "l": "5"
+    },
+    {
+      "id": 21003006,
+      "b": 21,
+      "c": 3,
+      "v": 6,
+      "t": "ada waktu untuk mencari, ada waktu untuk membiarkan rugi; ada waktu untuk menyimpan, ada waktu untuk membuang;",
+      "h": "",
+      "o": 6,
+      "l": "6"
+    },
+    {
+      "id": 21003007,
+      "b": 21,
+      "c": 3,
+      "v": 7,
+      "t": "ada waktu untuk merobek, ada waktu untuk menjahit; ada waktu untuk berdiam diri, ada waktu untuk berbicara;",
+      "h": "",
+      "o": 7,
+      "l": "7"
+    },
+    {
+      "id": 21003008,
+      "b": 21,
+      "c": 3,
+      "v": 8,
+      "t": "ada waktu untuk mengasihi, ada waktu untuk membenci; ada waktu untuk perang, ada waktu untuk damai.",
+      "h": "",
+      "o": 8,
+      "l": "8"
+    },
+    {
+      "id": 21003009,
+      "b": 21,
+      "c": 3,
+      "v": 9,
+      "t": "Apakah untung pekerja dari yang dikerjakannya dengan berjerih payah?",
+      "h": "",
+      "o": 9,
+      "l": "9"
+    },
+    {
+      "id": 21003010,
+      "b": 21,
+      "c": 3,
+      "v": 10,
+      "t": "Aku telah melihat pekerjaan yang diberikan Allah kepada anak-anak manusia untuk melelahkan dirinya.",
+      "h": "",
+      "o": 10,
+      "l": "10"
+    },
+    {
+      "id": 21003011,
+      "b": 21,
+      "c": 3,
+      "v": 11,
+      "t": "Ia membuat segala sesuatu indah pada waktunya, bahkan Ia memberikan kekekalan dalam hati mereka. Tetapi manusia tidak dapat menyelami pekerjaan yang dilakukan Allah dari awal sampai akhir.",
+      "h": "",
+      "o": 11,
+      "l": "11"
+    },
+    {
+      "id": 21003012,
+      "b": 21,
+      "c": 3,
+      "v": 12,
+      "t": "Aku tahu bahwa untuk mereka tak ada yang lebih baik dari pada bersuka-suka dan menikmati kesenangan dalam hidup mereka.",
+      "h": "",
+      "o": 12,
+      "l": "12"
+    },
+    {
+      "id": 21003013,
+      "b": 21,
+      "c": 3,
+      "v": 13,
+      "t": "Dan bahwa setiap orang dapat makan, minum dan menikmati kesenangan dalam segala jerih payahnya, itu juga adalah pemberian Allah.",
+      "h": "",
+      "o": 13,
+      "l": "13"
+    },
+    {
+      "id": 21003014,
+      "b": 21,
+      "c": 3,
+      "v": 14,
+      "t": "Aku tahu bahwa segala sesuatu yang dilakukan Allah akan tetap ada untuk selamanya; itu tak dapat ditambah dan tak dapat dikurangi; Allah berbuat demikian, supaya manusia takut akan Dia.",
+      "h": "",
+      "o": 14,
+      "l": "14"
+    },
+    {
+      "id": 21003015,
+      "b": 21,
+      "c": 3,
+      "v": 15,
+      "t": "Yang sekarang ada dulu sudah ada, dan yang akan ada sudah lama ada; dan Allah mencari yang sudah lalu.",
+      "h": "",
+      "o": 15,
+      "l": "15"
+    },
+    {
+      "id": 21003016,
+      "b": 21,
+      "c": 3,
+      "v": 16,
+      "t": "Ada lagi yang kulihat di bawah matahari: di tempat pengadilan, di situ pun terdapat ketidakadilan, dan di tempat keadilan, di situ pun terdapat ketidakadilan.",
+      "h": "Ketidakadilan dalam hidup\n3:16–4:6",
+      "o": 16,
+      "l": "16"
+    },
+    {
+      "id": 21003017,
+      "b": 21,
+      "c": 3,
+      "v": 17,
+      "t": "Berkatalah aku dalam hati: ”Allah akan mengadili baik orang yang benar maupun yang tidak adil, karena untuk segala hal dan segala pekerjaan ada waktunya.”",
+      "h": "",
+      "o": 17,
+      "l": "17"
+    },
+    {
+      "id": 21003018,
+      "b": 21,
+      "c": 3,
+      "v": 18,
+      "t": "Tentang anak-anak manusia aku berkata dalam hati: ”Allah hendak menguji mereka dan memperlihatkan kepada mereka bahwa mereka hanyalah binatang.”",
+      "h": "",
+      "o": 18,
+      "l": "18"
+    },
+    {
+      "id": 21003019,
+      "b": 21,
+      "c": 3,
+      "v": 19,
+      "t": "Karena nasib manusia adalah sama dengan nasib binatang, nasib yang sama menimpa mereka; sebagaimana yang satu mati, demikian juga yang lain. Kedua-duanya mempunyai nafas yang sama, dan manusia tak mempunyai kelebihan atas binatang, karena segala sesuatu adalah sia-sia.",
+      "h": "",
+      "o": 19,
+      "l": "19"
+    },
+    {
+      "id": 21003020,
+      "b": 21,
+      "c": 3,
+      "v": 20,
+      "t": "Kedua-duanya menuju satu tempat; kedua-duanya terjadi dari debu dan kedua-duanya kembali kepada debu.",
+      "h": "",
+      "o": 20,
+      "l": "20"
+    },
+    {
+      "id": 21003021,
+      "b": 21,
+      "c": 3,
+      "v": 21,
+      "t": "Siapakah yang mengetahui, apakah nafas manusia naik ke atas dan nafas binatang turun ke bawah bumi.",
+      "h": "",
+      "o": 21,
+      "l": "21"
+    },
+    {
+      "id": 21003022,
+      "b": 21,
+      "c": 3,
+      "v": 22,
+      "t": "Aku melihat bahwa tidak ada yang lebih baik bagi manusia dari pada bergembira dalam pekerjaannya, sebab itu adalah bahagiannya. Karena siapa akan memperlihatkan kepadanya apa yang akan terjadi sesudah dia?",
+      "h": "",
+      "o": 22,
+      "l": "22"
+    }
+  ]
+}

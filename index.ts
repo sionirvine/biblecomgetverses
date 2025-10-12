@@ -35,6 +35,7 @@ interface CliArgs {
   headless?: boolean;
   help?: boolean;
   books?: string[];
+  pouchdb?: boolean;
 }
 
 // Abstract interfaces for testing
@@ -160,6 +161,7 @@ function parseCliArguments(): CliArgs {
       headless: { type: "boolean" },
       help: { type: "boolean", short: "h" },
       books: { type: "string", multiple: true, short: "b" },
+      pouchdb: { type: "boolean" },
     },
     allowPositionals: true,
   });
@@ -178,6 +180,7 @@ Options:
   -p, --parallel <number>    Number of parallel tabs (1-10)
   -b, --books <books>        Specific books to scrape (comma-separated or multiple flags)
   --headless                Run browser in headless mode
+  --pouchdb                 Output in PouchDB JSON structure format
   -h, --help                Show this help message
 
 Available versions: ${Object.keys(BIBLE_VERSION_IDS).join(", ")}
@@ -187,6 +190,7 @@ Examples:
   bun run index.ts --version KJV --debug --parallel 6 --headless
   bun run index.ts --version ESV --books GEN,EXO,LEV
   bun run index.ts --version NIV -b GEN -b EXO -b MAT
+  bun run index.ts --version TB --pouchdb
     `);
     process.exit(0);
   }
@@ -211,6 +215,7 @@ Examples:
     headless: values.headless,
     help: values.help,
     books: booksToProcess,
+    pouchdb: values.pouchdb,
   } as CliArgs;
 }
 
@@ -318,9 +323,9 @@ class InputValidator {
   static validateConfig(config: Partial<ScraperConfig>): void {
     if (
       config.maxConcurrentTabs &&
-      (config.maxConcurrentTabs < 1 || config.maxConcurrentTabs > 10)
+      (config.maxConcurrentTabs < 1 || config.maxConcurrentTabs > 100)
     ) {
-      throw new Error("maxConcurrentTabs must be between 1 and 10");
+      throw new Error("maxConcurrentTabs must be between 1 and 100");
     }
 
     if (config.pageTimeout && config.pageTimeout < 1000) {
@@ -549,6 +554,83 @@ class ResourceManager {
   async cleanup(): Promise<void> {
     await this.gracefulShutdown();
   }
+
+  /**
+   * Close and recreate a tab after book processing to prevent memory leaks and stale state
+   */
+  async clearTab(
+    page: Page,
+    tabNumber: number,
+    config: ScraperConfig
+  ): Promise<Page> {
+    try {
+      Logger.debug(
+        `Closing and recreating tab ${tabNumber} after book completion`,
+        "ResourceManager"
+      );
+
+      if (!this.browser) {
+        throw new Error("Browser not initialized");
+      }
+
+      // Find the index of this page in our pages array
+      const pageIndex = this.pages.indexOf(page);
+
+      if (pageIndex === -1) {
+        Logger.warn(
+          `Tab ${tabNumber} not found in pages array`,
+          "ResourceManager"
+        );
+        return page;
+      }
+
+      // Close the old page
+      await page.close();
+
+      // Create a new page with the same configuration
+      const newPage = await this.browser.newPage();
+
+      // Set reasonable defaults (same as in createTabPool)
+      await newPage.setDefaultTimeout(config.pageTimeout);
+      await newPage.setDefaultNavigationTimeout(config.navigationTimeout);
+
+      // Add error handling
+      newPage.on("error", (err) => {
+        Logger.error(`Page error in tab ${tabNumber}`, "ResourceManager", err);
+      });
+
+      newPage.on("pageerror", (err) => {
+        Logger.error(
+          `Page script error in tab ${tabNumber}: ${err.message}`,
+          "ResourceManager"
+        );
+      });
+
+      newPage.on("console", (msg) => {
+        if (msg.type() === "error") {
+          Logger.debug(
+            `Browser console error in tab ${tabNumber}: ${msg.text()}`,
+            "ResourceManager"
+          );
+        }
+      });
+
+      // Replace the old page in our pages array
+      this.pages[pageIndex] = newPage;
+
+      Logger.debug(
+        `Tab ${tabNumber} closed and recreated successfully`,
+        "ResourceManager"
+      );
+      return newPage;
+    } catch (error) {
+      Logger.warn(
+        `Failed to close and recreate tab ${tabNumber}: ${error}`,
+        "ResourceManager"
+      );
+      return page; // Return the original page if recreation fails
+    }
+  }
 }
 
 // File system implementations
@@ -769,11 +851,13 @@ class BibleScraper {
   private readonly browserManager: IBrowserManager;
   private readonly fileSystem: IFileSystem;
   private readonly specificBooks?: string[];
+  private readonly pouchdbFormat: boolean;
 
   constructor(
     versionKey: string,
     config: Partial<ScraperConfig> = {},
     specificBooks?: string[],
+    pouchdbFormat: boolean = false,
     browserManager: IBrowserManager = new PuppeteerBrowserManager(),
     fileSystem: IFileSystem = new BunFileSystem()
   ) {
@@ -785,6 +869,7 @@ class BibleScraper {
     this.bibleVersionId = BIBLE_VERSION_IDS[versionKey];
     this.config = { ...DEFAULT_CONFIG, ...config };
     this.specificBooks = specificBooks;
+    this.pouchdbFormat = pouchdbFormat;
     this.outputDetailFile = `${this.config.outputDirectory}/${versionKey}_detail.json`;
     this.outputVersesFile = `${this.config.outputDirectory}/${versionKey}_verses.json`;
     this.baseUrl = `https://www.bible.com/bible/${this.bibleVersionId}/REV.1.${versionKey}`;
@@ -912,7 +997,9 @@ class BibleScraper {
     }
   }
 
-  private async getBookList(page: Page): Promise<string[]> {
+  private async getBookList(
+    page: Page
+  ): Promise<{ bookNames: string[]; bookCodes: string[] }> {
     Logger.info(
       "Discovering available books from Bible navigation",
       "BibleScraper"
@@ -922,6 +1009,7 @@ class BibleScraper {
     );
 
     let generatedBookList: string[] = [];
+    let booksArray: string[] = [];
 
     if (selectBooksButton) {
       Logger.debug("Opening book selection menu", "BibleScraper");
@@ -932,7 +1020,7 @@ class BibleScraper {
       );
 
       if (listOfBooksUl) {
-        const booksArray = await page.$$eval(
+        booksArray = await page.$$eval(
           `div[id^="headlessui-popover-panel-"] > div[class*="overflow-y-auto"] > ul li`,
           (elements) => elements.map((el) => el.textContent || "")
         );
@@ -996,7 +1084,7 @@ class BibleScraper {
       }
     }
 
-    return generatedBookList;
+    return { bookNames: booksArray || [], bookCodes: generatedBookList };
   }
 
   private async processBook(
@@ -1142,6 +1230,7 @@ class BibleScraper {
       `:is(:scope > div, :scope > table)`
     );
     let lastVerseUsfm = "";
+    let lastVerseLabel = "";
     let resultVerse: Verse = {
       id: "",
       b: bookNumber,
@@ -1192,6 +1281,7 @@ class BibleScraper {
           const processed = await this.processVerse(
             ccsp,
             lastVerseUsfm,
+            lastVerseLabel,
             resultVerse,
             saveHeaders,
             chapterVerseOrderCounter,
@@ -1202,6 +1292,7 @@ class BibleScraper {
 
           if (processed.newVerse) {
             lastVerseUsfm = processed.verseUsfm;
+            lastVerseLabel = processed.verseLabel;
             chapterVerseOrderCounter = processed.chapterVerseOrderCounter;
             headerOrderCounter = processed.headerOrderCounter;
           }
@@ -1263,6 +1354,7 @@ class BibleScraper {
   private async processVerse(
     ccsp: any,
     lastVerseUsfm: string,
+    lastVerseLabel: string,
     resultVerse: Verse,
     saveHeaders: HeaderItem[],
     chapterVerseOrderCounter: number,
@@ -1272,6 +1364,7 @@ class BibleScraper {
   ): Promise<{
     newVerse: boolean;
     verseUsfm: string;
+    verseLabel: string;
     chapterVerseOrderCounter: number;
     headerOrderCounter: number;
   }> {
@@ -1283,15 +1376,55 @@ class BibleScraper {
       return {
         newVerse: false,
         verseUsfm: lastVerseUsfm,
+        verseLabel: lastVerseLabel,
         chapterVerseOrderCounter,
         headerOrderCounter,
       };
     }
 
+    // Extract the current verse label to check if it's different
+    let currentLabel = "";
+    const labelCheckSpans = await ccsp.$$(`:scope > span`);
+    for (let k = 0; k < labelCheckSpans.length; k++) {
+      const ccspsp = labelCheckSpans[k];
+      const childVersesType = BibleScraperUtils.cleanChapterContentClass(
+        await (await ccspsp.getProperty("className")).jsonValue()
+      );
+
+      if (childVersesType === "label") {
+        const getLabelText = await ccspsp.evaluate((el: any) => el.textContent);
+        if (getLabelText) {
+          currentLabel = getLabelText;
+          break; // Take the first label found
+        }
+      }
+    }
+
+    // Determine if we need to create a new verse entry
+    let shouldCreateNewVerse = false;
+
     if (lastVerseUsfm === "") {
+      // First verse
       lastVerseUsfm = verseUsfm;
+      lastVerseLabel = currentLabel;
       headerOrderCounter += 1;
     } else if (verseUsfm !== lastVerseUsfm) {
+      // Different USFM, definitely a new verse
+      shouldCreateNewVerse = true;
+    } else if (
+      verseUsfm === lastVerseUsfm &&
+      currentLabel !== "" &&
+      currentLabel !== lastVerseLabel
+    ) {
+      // Same USFM but different label (e.g., "4a" vs "4b"), create new verse with incremented order
+      shouldCreateNewVerse = true;
+      Logger.debug(
+        `Detected same USFM (${verseUsfm}) but different label: "${lastVerseLabel}" -> "${currentLabel}". Creating new verse.`,
+        "BibleScraper"
+      );
+    }
+
+    if (shouldCreateNewVerse) {
       chapterVerseOrderCounter += 1;
       headerOrderCounter += 1;
 
@@ -1321,6 +1454,7 @@ class BibleScraper {
       resultVerse.h = "";
       resultVerse.t = "";
       lastVerseUsfm = verseUsfm;
+      lastVerseLabel = currentLabel;
     }
 
     const vusplit = verseUsfm.replaceAll("+", ".").split(".");
@@ -1357,6 +1491,7 @@ class BibleScraper {
     return {
       newVerse: true,
       verseUsfm,
+      verseLabel: currentLabel || lastVerseLabel,
       chapterVerseOrderCounter,
       headerOrderCounter,
     };
@@ -1502,20 +1637,32 @@ class BibleScraper {
       await BibleScraperUtils.waitTillHTMLRendered(page);
 
       // Get book list
-      const generatedBookList = await this.getBookList(page);
-      bibleDetail.books_usfm = generatedBookList;
+      const bookListResult = await this.getBookList(page);
+      bibleDetail.books_usfm = bookListResult.bookCodes;
+      bibleDetail.books = bookListResult.bookNames;
+
+      // Close and recreate the first tab to clear memory after getting book list
+      Logger.debug(
+        "Closing first tab after book list extraction to free memory",
+        "BibleScraper"
+      );
+      await page.close();
+      const newPage = await browser.newPage();
+      await newPage.setDefaultTimeout(this.config.pageTimeout);
+      await newPage.setDefaultNavigationTimeout(this.config.navigationTimeout);
+      Logger.debug("First tab recreated successfully", "BibleScraper");
 
       // Filter books if specific books are requested
-      let booksToProcess = generatedBookList;
+      let booksToProcess = bookListResult.bookCodes;
       if (this.specificBooks && this.specificBooks.length > 0) {
-        booksToProcess = generatedBookList.filter((book) =>
+        booksToProcess = bookListResult.bookCodes.filter((book) =>
           this.specificBooks!.includes(book.toUpperCase())
         );
 
         // Validate that all requested books exist
         const missingBooks = this.specificBooks.filter(
           (book) =>
-            !generatedBookList
+            !bookListResult.bookCodes
               .map((b) => b.toUpperCase())
               .includes(book.toUpperCase())
         );
@@ -1528,7 +1675,9 @@ class BibleScraper {
             "BibleScraper"
           );
           Logger.info(
-            `Available books in this version: ${generatedBookList.join(", ")}`,
+            `Available books in this version: ${bookListResult.bookCodes.join(
+              ", "
+            )}`,
             "BibleScraper"
           );
         }
@@ -1572,18 +1721,27 @@ class BibleScraper {
         result: BookResult;
       }[] = [];
 
-      for (
-        let i = 0;
-        i < booksToProcess.length;
-        i += this.config.maxConcurrentTabs
-      ) {
-        const chunk = booksToProcess.slice(
-          i,
-          i + this.config.maxConcurrentTabs
-        );
-        const chunkPromises = chunk.map(async (bookUsfm, index) => {
-          const bookNumber = i + index + 1;
-          const tabIndex = index % tabPool.length;
+      // Queue-based processing: each tab picks up the next book as soon as it's done
+      let bookIndex = 0;
+      let completedCount = 0;
+
+      // Create worker function for each tab
+      const processNextBook = async (
+        tabPage: Page,
+        tabId: number
+      ): Promise<void> => {
+        while (bookIndex < booksToProcess.length) {
+          // Get the next book to process
+          const currentBookIndex = bookIndex++;
+          if (currentBookIndex >= booksToProcess.length) break;
+
+          const bookUsfm = booksToProcess[currentBookIndex];
+          const bookNumber = currentBookIndex + 1;
+
+          Logger.debug(
+            `Tab ${tabId} starting book ${bookNumber}/${booksToProcess.length}: ${bookUsfm}`,
+            "BibleScraper"
+          );
 
           // Start metrics tracking for this book
           if (metrics) metrics.startBook(bookUsfm);
@@ -1592,40 +1750,63 @@ class BibleScraper {
             const result = await this.processBookWithRetry(
               bookUsfm,
               bookNumber,
-              tabPool[tabIndex]
+              tabPage
             );
 
             // Save individual book result immediately
             await this.saveIndividualBookResult(bookNumber, bookUsfm, result);
 
+            // Close and recreate the tab after successful book processing to prevent memory leaks
+            tabPage = await this.resourceManager.clearTab(
+              tabPage,
+              bookNumber,
+              this.config
+            );
+
             // Complete metrics tracking
             if (metrics) metrics.completeBook(bookUsfm, result.verses.length);
 
-            return { bookNumber, bookUsfm, result };
+            // Store result
+            processResults.push({ bookNumber, bookUsfm, result });
+            completedCount++;
+
+            Logger.info(
+              `Tab ${tabId} completed book ${bookNumber}/${booksToProcess.length}: ${bookUsfm} (${completedCount}/${booksToProcess.length} total)`,
+              "BibleScraper"
+            );
           } catch (error) {
+            // Close and recreate the tab even if processing failed to reset state
+            tabPage = await this.resourceManager.clearTab(
+              tabPage,
+              bookNumber,
+              this.config
+            );
+
             if (metrics)
               metrics.recordError(
                 `Processing book ${bookUsfm}`,
                 error as Error
               );
-            throw error;
+
+            Logger.error(
+              `Tab ${tabId} failed to process book ${bookNumber}: ${bookUsfm}`,
+              "BibleScraper",
+              error as Error
+            );
+            // Continue to next book even after error
           }
-        });
+        }
 
-        const chunkResults = await Promise.all(chunkPromises);
-        processResults.push(...chunkResults);
+        Logger.info(`Tab ${tabId} finished all assigned work`, "BibleScraper");
+      };
 
-        const currentChunk = Math.floor(i / this.config.maxConcurrentTabs) + 1;
-        const totalChunks = Math.ceil(
-          booksToProcess.length / this.config.maxConcurrentTabs
-        );
-        Logger.progress(
-          currentChunk,
-          totalChunks,
-          `Completed parallel processing chunk`,
-          "BibleScraper"
-        );
-      }
+      // Start all workers in parallel
+      const workerPromises = tabPool.map((tabPage, index) =>
+        processNextBook(tabPage, index + 1)
+      );
+
+      // Wait for all workers to complete
+      await Promise.all(workerPromises);
 
       // Sort results by book number
       processResults.sort((a, b) => a.bookNumber - b.bookNumber);
@@ -1654,12 +1835,36 @@ class BibleScraper {
     bookUsfm: string,
     result: BookResult
   ): Promise<void> {
-    // Write individual book files
     const bookFilePath = `${this.config.outputDirectory}/${this.versionToGet}/${bookNumber}_${bookUsfm}.json`;
+
+    let outputData: any;
+
+    if (this.pouchdbFormat) {
+      // PouchDB format: {"_id": "VERSION.BOOKUSFM", "verses": [...]}
+      // Convert verse IDs from string to number
+      const versesWithNumberIds = result.verses.map((verse) => ({
+        ...verse,
+        id: parseInt(verse.id, 10),
+      }));
+
+      outputData = {
+        _id: `${this.versionToGet}.${bookUsfm}`,
+        verses: versesWithNumberIds,
+      };
+
+      Logger.debug(
+        `Writing book in PouchDB format with _id: ${outputData._id}`,
+        "BibleScraper"
+      );
+    } else {
+      // Default format: just the verses array
+      outputData = result.verses;
+    }
+
     Logger.debug(`Writing book verses to ${bookFilePath}`, "BibleScraper");
     await this.fileSystem.writeFile(
       bookFilePath,
-      JSON.stringify(result.verses, null, 2)
+      JSON.stringify(outputData, null, 2)
     );
 
     Logger.info(
@@ -1678,13 +1883,8 @@ class BibleScraper {
     Logger.info(`Saving results for ${results.length} books`, "BibleScraper");
 
     for (const { bookNumber, bookUsfm, result } of results) {
-      // Write individual book files
-      const bookFilePath = `${this.config.outputDirectory}/${this.versionToGet}/${bookNumber}_${bookUsfm}.json`;
-      Logger.debug(`Writing book verses to ${bookFilePath}`, "BibleScraper");
-      await this.fileSystem.writeFile(
-        bookFilePath,
-        JSON.stringify(result.verses, null, 2)
-      );
+      // Individual book files are already written by saveIndividualBookResult during parallel processing
+      // No need to overwrite them here
 
       // Add to final result
       finalResult.push(...result.verses);
@@ -1813,7 +2013,12 @@ async function main() {
     );
 
     // Create and run scraper
-    const scraper = new BibleScraper(args.version, finalConfig, args.books);
+    const scraper = new BibleScraper(
+      args.version,
+      finalConfig,
+      args.books,
+      args.pouchdb || false
+    );
     await scraper.initializeOutputDirectory();
     await scraper.scrapeAllBooks();
 
