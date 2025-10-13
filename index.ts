@@ -61,6 +61,7 @@ interface ChapterVerseCount {
 }
 
 interface BibleDetail {
+  _id?: string;
   name: string;
   abbreviation: string;
   language: string;
@@ -113,6 +114,7 @@ const BIBLE_VERSION_IDS: BibleVersionIds = {
   GNT: 68, // Good News Translation, for checking JOB.3.GNT
   ESV: 59, // English Standard Version 2016
   AFV: 4253, // A Faithful Version
+  CSB: 1713, // Christian Standard Bible
 
   // German
   HFA: 73, // Hoffnung Fur Alle ✔️
@@ -915,6 +917,20 @@ class BibleScraper {
     }
   }
 
+  /** this function is make sure the final abbreviation does not include unicode characters because pouchdb cannot handle unicode characters in its _id.  */
+  private convertUnicodeAbbreviation(abbr: string): string {
+    return (
+      abbr
+        ?.trim()
+        .replaceAll(" ", "")
+        .replace("神", "SHEN")
+        .replace("上帝", "SHANGDI")
+        .replace("聖書新共同訳", "SeishoShinkyoudoyaku")
+        .replace("新共同訳", "SeishoShinkyoudoyaku")
+        .toUpperCase() || ""
+    );
+  }
+
   private async getBibleDetails(page: Page): Promise<BibleDetail> {
     Logger.info("Extracting Bible metadata from page", "BibleScraper");
 
@@ -980,14 +996,17 @@ class BibleScraper {
       ).split("-");
 
       bibleDetail.name = filteredVersion[0].trim();
-      bibleDetail.abbreviation =
+      // bibleDetail.abbreviation =
+      //   filteredVersion[1]
+      //     ?.trim()
+      //     .replaceAll(" ", "")
+      //     .replace("神", "SHEN")
+      //     .replace("上帝", "SHANGDI")
+      //     .replace("新共同訳", "SeishoShinkyoudoyaku")
+      //     .toUpperCase() || "";
+      bibleDetail.abbreviation = this.convertUnicodeAbbreviation(
         filteredVersion[1]
-          ?.trim()
-          .replaceAll(" ", "")
-          .replace("神", "SHEN")
-          .replace("上帝", "SHANGDI")
-          .replace("新共同訳", "SeishoShinkyoudoyaku")
-          .toUpperCase() || "";
+      );
 
       Logger.debug(`Bible name: ${bibleDetail.name}`, "BibleScraper");
       Logger.debug(
@@ -997,9 +1016,11 @@ class BibleScraper {
     }
   }
 
-  private async getBookList(
-    page: Page
-  ): Promise<{ bookNames: string[]; bookCodes: string[] }> {
+  private async getBookList(page: Page): Promise<{
+    bookNames: string[];
+    bookCodes: string[];
+    chapterCounts: number[];
+  }> {
     Logger.info(
       "Discovering available books from Bible navigation",
       "BibleScraper"
@@ -1010,6 +1031,7 @@ class BibleScraper {
 
     let generatedBookList: string[] = [];
     let booksArray: string[] = [];
+    let chapterCountsArray: number[] = [];
 
     if (selectBooksButton) {
       Logger.debug("Opening book selection menu", "BibleScraper");
@@ -1047,6 +1069,10 @@ class BibleScraper {
             `div[id^="headlessui-popover-panel-"] > div[class*="overflow-y-auto"] > ul li`
           );
 
+          let chapterLength = allChapters.length;
+
+          Logger.debug(`chapters: ${chapterLength}`, "BibleScraper");
+
           const firstChapter = await allChapters[0].$("a");
           if (firstChapter) {
             const hrefText = await firstChapter.evaluate((el) =>
@@ -1058,8 +1084,17 @@ class BibleScraper {
               const lastPart = segments[segments.length - 1];
               const bookCode = lastPart.split(".")[0];
 
-              Logger.debug(`Extracted book code: ${bookCode}`, "BibleScraper");
+              // if we detect INTRO from first chapter, then decrease the number of detected chapter by 1, as we do not include the introduction page when scraping.
+              if (lastPart.split(".")[1].toLowerCase().includes("intro")) {
+                chapterLength -= 1;
+              }
+
+              Logger.debug(
+                `Extracted book code: ${bookCode} with ${chapterLength} chapters`,
+                "BibleScraper"
+              );
               generatedBookList.push(bookCode);
+              chapterCountsArray.push(chapterLength);
             }
           }
 
@@ -1084,16 +1119,25 @@ class BibleScraper {
       }
     }
 
-    return { bookNames: booksArray || [], bookCodes: generatedBookList };
+    return {
+      bookNames: booksArray || [],
+      bookCodes: generatedBookList,
+      chapterCounts: chapterCountsArray,
+    };
   }
 
   private async processBook(
     bookUsfm: string,
     bookNumber: number,
-    tabPage: Page
+    tabPage: Page,
+    expectedChapterCount?: number
   ): Promise<BookResult> {
     Logger.info(
-      `Starting processing of book: ${bookUsfm}`,
+      `Starting processing of book: ${bookUsfm}${
+        expectedChapterCount
+          ? ` (expecting ${expectedChapterCount} chapters)`
+          : ""
+      }`,
       `Tab-${bookNumber}`
     );
 
@@ -1132,6 +1176,7 @@ class BibleScraper {
     let currentChapter = 0;
     let currentChapterString = "0";
     let nextChapterButtonFound = true;
+    let chaptersProcessed = 0;
 
     // Process all chapters in this book
     while (nextChapterButtonFound) {
@@ -1194,6 +1239,7 @@ class BibleScraper {
             currentChapter,
             bookResult
           );
+          chaptersProcessed++;
           await BibleScraperUtils.delay(300);
         }
       } else {
@@ -1211,10 +1257,27 @@ class BibleScraper {
         currentChapter,
         bookResult
       );
+
+      // Check if we've reached the expected chapter count
+      if (expectedChapterCount && chaptersProcessed >= expectedChapterCount) {
+        Logger.info(
+          `Reached expected chapter count (${expectedChapterCount}) for ${bookUsfm}`,
+          `Tab-${bookNumber}`
+        );
+        nextChapterButtonFound = false;
+      }
+    }
+
+    // Validate chapter count
+    if (expectedChapterCount && chaptersProcessed !== expectedChapterCount) {
+      Logger.warn(
+        `Book ${bookUsfm}: Expected ${expectedChapterCount} chapters but processed ${chaptersProcessed}`,
+        `Tab-${bookNumber}`
+      );
     }
 
     Logger.success(
-      `Completed book ${bookUsfm} with ${bookResult.verses.length} verses`,
+      `Completed book ${bookUsfm} with ${bookResult.verses.length} verses (${chaptersProcessed} chapters)`,
       `Tab-${bookNumber}`
     );
     return bookResult;
@@ -1636,10 +1699,25 @@ class BibleScraper {
       const bibleDetail = await this.getBibleDetails(page);
       await BibleScraperUtils.waitTillHTMLRendered(page);
 
+      // Add _id for PouchDB format
+      if (this.pouchdbFormat && bibleDetail.abbreviation) {
+        bibleDetail._id = bibleDetail.abbreviation;
+        Logger.debug(
+          `Added _id to bibleDetail: ${bibleDetail._id}`,
+          "BibleScraper"
+        );
+      }
+
       // Get book list
       const bookListResult = await this.getBookList(page);
       bibleDetail.books_usfm = bookListResult.bookCodes;
       bibleDetail.books = bookListResult.bookNames;
+
+      // Create a map of book codes to chapter counts for easy lookup
+      const chapterCountMap = new Map<string, number>();
+      bookListResult.bookCodes.forEach((code, index) => {
+        chapterCountMap.set(code, bookListResult.chapterCounts[index]);
+      });
 
       // Close and recreate the first tab to clear memory after getting book list
       Logger.debug(
@@ -1737,9 +1815,14 @@ class BibleScraper {
 
           const bookUsfm = booksToProcess[currentBookIndex];
           const bookNumber = currentBookIndex + 1;
+          const expectedChapterCount = chapterCountMap.get(bookUsfm);
 
           Logger.debug(
-            `Tab ${tabId} starting book ${bookNumber}/${booksToProcess.length}: ${bookUsfm}`,
+            `Tab ${tabId} starting book ${bookNumber}/${
+              booksToProcess.length
+            }: ${bookUsfm}${
+              expectedChapterCount ? ` (${expectedChapterCount} chapters)` : ""
+            }`,
             "BibleScraper"
           );
 
@@ -1750,7 +1833,8 @@ class BibleScraper {
             const result = await this.processBookWithRetry(
               bookUsfm,
               bookNumber,
-              tabPage
+              tabPage,
+              expectedChapterCount
             );
 
             // Save individual book result immediately
@@ -1848,7 +1932,9 @@ class BibleScraper {
       }));
 
       outputData = {
-        _id: `${this.versionToGet}.${bookUsfm}`,
+        _id: `${this.convertUnicodeAbbreviation(
+          this.versionToGet
+        )}.${bookUsfm}`,
         verses: versesWithNumberIds,
       };
 
@@ -1927,10 +2013,12 @@ class BibleScraper {
   private async processBookWithRetry(
     bookUsfm: string,
     bookNumber: number,
-    tabPage: Page
+    tabPage: Page,
+    expectedChapterCount?: number
   ): Promise<BookResult> {
     return await BibleScraperUtils.retryOperation(
-      () => this.processBook(bookUsfm, bookNumber, tabPage),
+      () =>
+        this.processBook(bookUsfm, bookNumber, tabPage, expectedChapterCount),
       this.config.retryAttempts,
       this.config.delayBetweenOperations,
       `Processing book ${bookUsfm}`
