@@ -1,462 +1,465 @@
-[
-  {
-    "id": "56001001",
-    "b": 56,
-    "c": 1,
-    "v": 1,
-    "t": "Paul, a bond-servant of God and an apostle of Jesus Christ, for the faith of those chosen of God and the knowledge of the truth which is according to godliness,",
-    "h": "Salutation",
-    "o": 1,
-    "l": "1"
-  },
-  {
-    "id": "56001002",
-    "b": 56,
-    "c": 1,
-    "v": 2,
-    "t": "in the hope of eternal life, which God, who cannot lie, promised long ages ago,",
-    "h": "",
-    "o": 2,
-    "l": "2"
-  },
-  {
-    "id": "56001003",
-    "b": 56,
-    "c": 1,
-    "v": 3,
-    "t": "but at the proper time manifested, even His word, in the proclamation with which I was entrusted according to the commandment of God our Savior,",
-    "h": "",
-    "o": 3,
-    "l": "3"
-  },
-  {
-    "id": "56001004",
-    "b": 56,
-    "c": 1,
-    "v": 4,
-    "t": "To Titus, my true child in a common faith: Grace and peace from God the Father and Christ Jesus our Savior.",
-    "h": "",
-    "o": 4,
-    "l": "4"
-  },
-  {
-    "id": "56001005",
-    "b": 56,
-    "c": 1,
-    "v": 5,
-    "t": "For this reason I left you in Crete, that you would set in order what remains and appoint elders in every city as I directed you,",
-    "h": "Qualifications of Elders",
-    "o": 5,
-    "l": "5"
-  },
-  {
-    "id": "56001006",
-    "b": 56,
-    "c": 1,
-    "v": 6,
-    "t": "namely, if any man is above reproach, the husband of one wife, having children who believe, not accused of dissipation or rebellion.",
-    "h": "",
-    "o": 6,
-    "l": "6"
-  },
-  {
-    "id": "56001007",
-    "b": 56,
-    "c": 1,
-    "v": 7,
-    "t": "For the overseer must be above reproach as God’s steward, not self-willed, not quick-tempered, not addicted to wine, not pugnacious, not fond of sordid gain,",
-    "h": "",
-    "o": 7,
-    "l": "7"
-  },
-  {
-    "id": "56001008",
-    "b": 56,
-    "c": 1,
-    "v": 8,
-    "t": "but hospitable, loving what is good, sensible, just, devout, self-controlled,",
-    "h": "",
-    "o": 8,
-    "l": "8"
-  },
-  {
-    "id": "56001009",
-    "b": 56,
-    "c": 1,
-    "v": 9,
-    "t": "holding fast the faithful word which is in accordance with the teaching, so that he will be able both to exhort in sound doctrine and to refute those who contradict.",
-    "h": "",
-    "o": 9,
-    "l": "9"
-  },
-  {
-    "id": "56001010",
-    "b": 56,
-    "c": 1,
-    "v": 10,
-    "t": "For there are many rebellious men, empty talkers and deceivers, especially those of the circumcision,",
-    "h": "",
-    "o": 10,
-    "l": "10"
-  },
-  {
-    "id": "56001011",
-    "b": 56,
-    "c": 1,
-    "v": 11,
-    "t": "who must be silenced because they are upsetting whole families, teaching things they should not teach for the sake of sordid gain.",
-    "h": "",
-    "o": 11,
-    "l": "11"
-  },
-  {
-    "id": "56001012",
-    "b": 56,
-    "c": 1,
-    "v": 12,
-    "t": "One of themselves, a prophet of their own, said, “Cretans are always liars, evil beasts, lazy gluttons.”",
-    "h": "",
-    "o": 12,
-    "l": "12"
-  },
-  {
-    "id": "56001013",
-    "b": 56,
-    "c": 1,
-    "v": 13,
-    "t": "This testimony is true. For this reason reprove them severely so that they may be sound in the faith,",
-    "h": "",
-    "o": 13,
-    "l": "13"
-  },
-  {
-    "id": "56001014",
-    "b": 56,
-    "c": 1,
-    "v": 14,
-    "t": "not paying attention to Jewish myths and commandments of men who turn away from the truth.",
-    "h": "",
-    "o": 14,
-    "l": "14"
-  },
-  {
-    "id": "56001015",
-    "b": 56,
-    "c": 1,
-    "v": 15,
-    "t": "To the pure, all things are pure; but to those who are defiled and unbelieving, nothing is pure, but both their mind and their conscience are defiled.",
-    "h": "",
-    "o": 15,
-    "l": "15"
-  },
-  {
-    "id": "56001016",
-    "b": 56,
-    "c": 1,
-    "v": 16,
-    "t": "They profess to know God, but by their deeds they deny Him, being detestable and disobedient and worthless for any good deed.",
-    "h": "",
-    "o": 16,
-    "l": "16"
-  },
-  {
-    "id": "56002001",
-    "b": 56,
-    "c": 2,
-    "v": 1,
-    "t": "But as for you, speak the things which are fitting for sound doctrine.",
-    "h": "Duties of the Older and Younger",
-    "o": 1,
-    "l": "1"
-  },
-  {
-    "id": "56002002",
-    "b": 56,
-    "c": 2,
-    "v": 2,
-    "t": "Older men are to be temperate, dignified, sensible, sound in faith, in love, in perseverance.",
-    "h": "",
-    "o": 2,
-    "l": "2"
-  },
-  {
-    "id": "56002003",
-    "b": 56,
-    "c": 2,
-    "v": 3,
-    "t": "Older women likewise are to be reverent in their behavior, not malicious gossips nor enslaved to much wine, teaching what is good,",
-    "h": "",
-    "o": 3,
-    "l": "3"
-  },
-  {
-    "id": "56002004",
-    "b": 56,
-    "c": 2,
-    "v": 4,
-    "t": "so that they may encourage the young women to love their husbands, to love their children,",
-    "h": "",
-    "o": 4,
-    "l": "4"
-  },
-  {
-    "id": "56002005",
-    "b": 56,
-    "c": 2,
-    "v": 5,
-    "t": "to be sensible, pure, workers at home, kind, being subject to their own husbands, so that the word of God will not be dishonored.",
-    "h": "",
-    "o": 5,
-    "l": "5"
-  },
-  {
-    "id": "56002006",
-    "b": 56,
-    "c": 2,
-    "v": 6,
-    "t": "Likewise urge the young men to be sensible;",
-    "h": "",
-    "o": 6,
-    "l": "6"
-  },
-  {
-    "id": "56002007",
-    "b": 56,
-    "c": 2,
-    "v": 7,
-    "t": "in all things show yourself to be an example of good deeds, with purity in doctrine, dignified,",
-    "h": "",
-    "o": 7,
-    "l": "7"
-  },
-  {
-    "id": "56002008",
-    "b": 56,
-    "c": 2,
-    "v": 8,
-    "t": "sound in speech which is beyond reproach, so that the opponent will be put to shame, having nothing bad to say about us.",
-    "h": "",
-    "o": 8,
-    "l": "8"
-  },
-  {
-    "id": "56002009",
-    "b": 56,
-    "c": 2,
-    "v": 9,
-    "t": "Urge bondslaves to be subject to their own masters in everything, to be well-pleasing, not argumentative,",
-    "h": "",
-    "o": 9,
-    "l": "9"
-  },
-  {
-    "id": "56002010",
-    "b": 56,
-    "c": 2,
-    "v": 10,
-    "t": "not pilfering, but showing all good faith so that they will adorn the doctrine of God our Savior in every respect.",
-    "h": "",
-    "o": 10,
-    "l": "10"
-  },
-  {
-    "id": "56002011",
-    "b": 56,
-    "c": 2,
-    "v": 11,
-    "t": "For the grace of God has appeared, bringing salvation to all men,",
-    "h": "",
-    "o": 11,
-    "l": "11"
-  },
-  {
-    "id": "56002012",
-    "b": 56,
-    "c": 2,
-    "v": 12,
-    "t": "instructing us to deny ungodliness and worldly desires and to live sensibly, righteously and godly in the present age,",
-    "h": "",
-    "o": 12,
-    "l": "12"
-  },
-  {
-    "id": "56002013",
-    "b": 56,
-    "c": 2,
-    "v": 13,
-    "t": "looking for the blessed hope and the appearing of the glory of our great God and Savior, Christ Jesus,",
-    "h": "",
-    "o": 13,
-    "l": "13"
-  },
-  {
-    "id": "56002014",
-    "b": 56,
-    "c": 2,
-    "v": 14,
-    "t": "who gave Himself for us to redeem us from every lawless deed, and to purify for Himself a people for His own possession, zealous for good deeds.",
-    "h": "",
-    "o": 14,
-    "l": "14"
-  },
-  {
-    "id": "56002015",
-    "b": 56,
-    "c": 2,
-    "v": 15,
-    "t": "These things speak and exhort and reprove with all authority. Let no one disregard you.",
-    "h": "",
-    "o": 15,
-    "l": "15"
-  },
-  {
-    "id": "56003001",
-    "b": 56,
-    "c": 3,
-    "v": 1,
-    "t": "Remind them to be subject to rulers, to authorities, to be obedient, to be ready for every good deed,",
-    "h": "Godly Living",
-    "o": 1,
-    "l": "1"
-  },
-  {
-    "id": "56003002",
-    "b": 56,
-    "c": 3,
-    "v": 2,
-    "t": "to malign no one, to be peaceable, gentle, showing every consideration for all men.",
-    "h": "",
-    "o": 2,
-    "l": "2"
-  },
-  {
-    "id": "56003003",
-    "b": 56,
-    "c": 3,
-    "v": 3,
-    "t": "For we also once were foolish ourselves, disobedient, deceived, enslaved to various lusts and pleasures, spending our life in malice and envy, hateful, hating one another.",
-    "h": "",
-    "o": 3,
-    "l": "3"
-  },
-  {
-    "id": "56003004",
-    "b": 56,
-    "c": 3,
-    "v": 4,
-    "t": "But when the kindness of God our Savior and His love for mankind appeared,",
-    "h": "",
-    "o": 4,
-    "l": "4"
-  },
-  {
-    "id": "56003005",
-    "b": 56,
-    "c": 3,
-    "v": 5,
-    "t": "He saved us, not on the basis of deeds which we have done in righteousness, but according to His mercy, by the washing of regeneration and renewing by the Holy Spirit,",
-    "h": "",
-    "o": 5,
-    "l": "5"
-  },
-  {
-    "id": "56003006",
-    "b": 56,
-    "c": 3,
-    "v": 6,
-    "t": "whom He poured out upon us richly through Jesus Christ our Savior,",
-    "h": "",
-    "o": 6,
-    "l": "6"
-  },
-  {
-    "id": "56003007",
-    "b": 56,
-    "c": 3,
-    "v": 7,
-    "t": "so that being justified by His grace we would be made heirs according to the hope of eternal life.",
-    "h": "",
-    "o": 7,
-    "l": "7"
-  },
-  {
-    "id": "56003008",
-    "b": 56,
-    "c": 3,
-    "v": 8,
-    "t": "This is a trustworthy statement; and concerning these things I want you to speak confidently, so that those who have believed God will be careful to engage in good deeds. These things are good and profitable for men.",
-    "h": "",
-    "o": 8,
-    "l": "8"
-  },
-  {
-    "id": "56003009",
-    "b": 56,
-    "c": 3,
-    "v": 9,
-    "t": "But avoid foolish controversies and genealogies and strife and disputes about the Law, for they are unprofitable and worthless.",
-    "h": "",
-    "o": 9,
-    "l": "9"
-  },
-  {
-    "id": "56003010",
-    "b": 56,
-    "c": 3,
-    "v": 10,
-    "t": "Reject a factious man after a first and second warning,",
-    "h": "",
-    "o": 10,
-    "l": "10"
-  },
-  {
-    "id": "56003011",
-    "b": 56,
-    "c": 3,
-    "v": 11,
-    "t": "knowing that such a man is perverted and is sinning, being self-condemned.",
-    "h": "",
-    "o": 11,
-    "l": "11"
-  },
-  {
-    "id": "56003012",
-    "b": 56,
-    "c": 3,
-    "v": 12,
-    "t": "When I send Artemas or Tychicus to you, make every effort to come to me at Nicopolis, for I have decided to spend the winter there.",
-    "h": "Personal Concerns",
-    "o": 12,
-    "l": "12"
-  },
-  {
-    "id": "56003013",
-    "b": 56,
-    "c": 3,
-    "v": 13,
-    "t": "Diligently help Zenas the lawyer and Apollos on their way so that nothing is lacking for them.",
-    "h": "",
-    "o": 13,
-    "l": "13"
-  },
-  {
-    "id": "56003014",
-    "b": 56,
-    "c": 3,
-    "v": 14,
-    "t": "Our people must also learn to engage in good deeds to meet pressing needs, so that they will not be unfruitful.",
-    "h": "",
-    "o": 14,
-    "l": "14"
-  },
-  {
-    "id": "56003015",
-    "b": 56,
-    "c": 3,
-    "v": 15,
-    "t": "All who are with me greet you. Greet those who love us in the faith. G race be with you all.",
-    "h": "",
-    "o": 15,
-    "l": "15"
-  }
-]
+{
+  "_id": "NASB1995.TIT",
+  "verses": [
+    {
+      "id": 56001001,
+      "b": 56,
+      "c": 1,
+      "v": 1,
+      "t": "Paul, a bond-servant of God and an apostle of Jesus Christ, for the faith of those chosen of God and the knowledge of the truth which is according to godliness,",
+      "h": "Salutation",
+      "o": 1,
+      "l": "1"
+    },
+    {
+      "id": 56001002,
+      "b": 56,
+      "c": 1,
+      "v": 2,
+      "t": "in the hope of eternal life, which God, who cannot lie, promised long ages ago,",
+      "h": "",
+      "o": 2,
+      "l": "2"
+    },
+    {
+      "id": 56001003,
+      "b": 56,
+      "c": 1,
+      "v": 3,
+      "t": "but at the proper time manifested, even His word, in the proclamation with which I was entrusted according to the commandment of God our Savior,",
+      "h": "",
+      "o": 3,
+      "l": "3"
+    },
+    {
+      "id": 56001004,
+      "b": 56,
+      "c": 1,
+      "v": 4,
+      "t": "To Titus, my true child in a common faith: Grace and peace from God the Father and Christ Jesus our Savior.",
+      "h": "",
+      "o": 4,
+      "l": "4"
+    },
+    {
+      "id": 56001005,
+      "b": 56,
+      "c": 1,
+      "v": 5,
+      "t": "For this reason I left you in Crete, that you would set in order what remains and appoint elders in every city as I directed you,",
+      "h": "Qualifications of Elders",
+      "o": 5,
+      "l": "5"
+    },
+    {
+      "id": 56001006,
+      "b": 56,
+      "c": 1,
+      "v": 6,
+      "t": "namely, if any man is above reproach, the husband of one wife, having children who believe, not accused of dissipation or rebellion.",
+      "h": "",
+      "o": 6,
+      "l": "6"
+    },
+    {
+      "id": 56001007,
+      "b": 56,
+      "c": 1,
+      "v": 7,
+      "t": "For the overseer must be above reproach as God’s steward, not self-willed, not quick-tempered, not addicted to wine, not pugnacious, not fond of sordid gain,",
+      "h": "",
+      "o": 7,
+      "l": "7"
+    },
+    {
+      "id": 56001008,
+      "b": 56,
+      "c": 1,
+      "v": 8,
+      "t": "but hospitable, loving what is good, sensible, just, devout, self-controlled,",
+      "h": "",
+      "o": 8,
+      "l": "8"
+    },
+    {
+      "id": 56001009,
+      "b": 56,
+      "c": 1,
+      "v": 9,
+      "t": "holding fast the faithful word which is in accordance with the teaching, so that he will be able both to exhort in sound doctrine and to refute those who contradict.",
+      "h": "",
+      "o": 9,
+      "l": "9"
+    },
+    {
+      "id": 56001010,
+      "b": 56,
+      "c": 1,
+      "v": 10,
+      "t": "For there are many rebellious men, empty talkers and deceivers, especially those of the circumcision,",
+      "h": "",
+      "o": 10,
+      "l": "10"
+    },
+    {
+      "id": 56001011,
+      "b": 56,
+      "c": 1,
+      "v": 11,
+      "t": "who must be silenced because they are upsetting whole families, teaching things they should not teach for the sake of sordid gain.",
+      "h": "",
+      "o": 11,
+      "l": "11"
+    },
+    {
+      "id": 56001012,
+      "b": 56,
+      "c": 1,
+      "v": 12,
+      "t": "One of themselves, a prophet of their own, said, “Cretans are always liars, evil beasts, lazy gluttons.”",
+      "h": "",
+      "o": 12,
+      "l": "12"
+    },
+    {
+      "id": 56001013,
+      "b": 56,
+      "c": 1,
+      "v": 13,
+      "t": "This testimony is true. For this reason reprove them severely so that they may be sound in the faith,",
+      "h": "",
+      "o": 13,
+      "l": "13"
+    },
+    {
+      "id": 56001014,
+      "b": 56,
+      "c": 1,
+      "v": 14,
+      "t": "not paying attention to Jewish myths and commandments of men who turn away from the truth.",
+      "h": "",
+      "o": 14,
+      "l": "14"
+    },
+    {
+      "id": 56001015,
+      "b": 56,
+      "c": 1,
+      "v": 15,
+      "t": "To the pure, all things are pure; but to those who are defiled and unbelieving, nothing is pure, but both their mind and their conscience are defiled.",
+      "h": "",
+      "o": 15,
+      "l": "15"
+    },
+    {
+      "id": 56001016,
+      "b": 56,
+      "c": 1,
+      "v": 16,
+      "t": "They profess to know God, but by their deeds they deny Him, being detestable and disobedient and worthless for any good deed.",
+      "h": "",
+      "o": 16,
+      "l": "16"
+    },
+    {
+      "id": 56002001,
+      "b": 56,
+      "c": 2,
+      "v": 1,
+      "t": "But as for you, speak the things which are fitting for sound doctrine.",
+      "h": "Duties of the Older and Younger",
+      "o": 1,
+      "l": "1"
+    },
+    {
+      "id": 56002002,
+      "b": 56,
+      "c": 2,
+      "v": 2,
+      "t": "Older men are to be temperate, dignified, sensible, sound in faith, in love, in perseverance.",
+      "h": "",
+      "o": 2,
+      "l": "2"
+    },
+    {
+      "id": 56002003,
+      "b": 56,
+      "c": 2,
+      "v": 3,
+      "t": "Older women likewise are to be reverent in their behavior, not malicious gossips nor enslaved to much wine, teaching what is good,",
+      "h": "",
+      "o": 3,
+      "l": "3"
+    },
+    {
+      "id": 56002004,
+      "b": 56,
+      "c": 2,
+      "v": 4,
+      "t": "so that they may encourage the young women to love their husbands, to love their children,",
+      "h": "",
+      "o": 4,
+      "l": "4"
+    },
+    {
+      "id": 56002005,
+      "b": 56,
+      "c": 2,
+      "v": 5,
+      "t": "to be sensible, pure, workers at home, kind, being subject to their own husbands, so that the word of God will not be dishonored.",
+      "h": "",
+      "o": 5,
+      "l": "5"
+    },
+    {
+      "id": 56002006,
+      "b": 56,
+      "c": 2,
+      "v": 6,
+      "t": "Likewise urge the young men to be sensible;",
+      "h": "",
+      "o": 6,
+      "l": "6"
+    },
+    {
+      "id": 56002007,
+      "b": 56,
+      "c": 2,
+      "v": 7,
+      "t": "in all things show yourself to be an example of good deeds, with purity in doctrine, dignified,",
+      "h": "",
+      "o": 7,
+      "l": "7"
+    },
+    {
+      "id": 56002008,
+      "b": 56,
+      "c": 2,
+      "v": 8,
+      "t": "sound in speech which is beyond reproach, so that the opponent will be put to shame, having nothing bad to say about us.",
+      "h": "",
+      "o": 8,
+      "l": "8"
+    },
+    {
+      "id": 56002009,
+      "b": 56,
+      "c": 2,
+      "v": 9,
+      "t": "Urge bondslaves to be subject to their own masters in everything, to be well-pleasing, not argumentative,",
+      "h": "",
+      "o": 9,
+      "l": "9"
+    },
+    {
+      "id": 56002010,
+      "b": 56,
+      "c": 2,
+      "v": 10,
+      "t": "not pilfering, but showing all good faith so that they will adorn the doctrine of God our Savior in every respect.",
+      "h": "",
+      "o": 10,
+      "l": "10"
+    },
+    {
+      "id": 56002011,
+      "b": 56,
+      "c": 2,
+      "v": 11,
+      "t": "For the grace of God has appeared, bringing salvation to all men,",
+      "h": "",
+      "o": 11,
+      "l": "11"
+    },
+    {
+      "id": 56002012,
+      "b": 56,
+      "c": 2,
+      "v": 12,
+      "t": "instructing us to deny ungodliness and worldly desires and to live sensibly, righteously and godly in the present age,",
+      "h": "",
+      "o": 12,
+      "l": "12"
+    },
+    {
+      "id": 56002013,
+      "b": 56,
+      "c": 2,
+      "v": 13,
+      "t": "looking for the blessed hope and the appearing of the glory of our great God and Savior, Christ Jesus,",
+      "h": "",
+      "o": 13,
+      "l": "13"
+    },
+    {
+      "id": 56002014,
+      "b": 56,
+      "c": 2,
+      "v": 14,
+      "t": "who gave Himself for us to redeem us from every lawless deed, and to purify for Himself a people for His own possession, zealous for good deeds.",
+      "h": "",
+      "o": 14,
+      "l": "14"
+    },
+    {
+      "id": 56002015,
+      "b": 56,
+      "c": 2,
+      "v": 15,
+      "t": "These things speak and exhort and reprove with all authority. Let no one disregard you.",
+      "h": "",
+      "o": 15,
+      "l": "15"
+    },
+    {
+      "id": 56003001,
+      "b": 56,
+      "c": 3,
+      "v": 1,
+      "t": "Remind them to be subject to rulers, to authorities, to be obedient, to be ready for every good deed,",
+      "h": "Godly Living",
+      "o": 1,
+      "l": "1"
+    },
+    {
+      "id": 56003002,
+      "b": 56,
+      "c": 3,
+      "v": 2,
+      "t": "to malign no one, to be peaceable, gentle, showing every consideration for all men.",
+      "h": "",
+      "o": 2,
+      "l": "2"
+    },
+    {
+      "id": 56003003,
+      "b": 56,
+      "c": 3,
+      "v": 3,
+      "t": "For we also once were foolish ourselves, disobedient, deceived, enslaved to various lusts and pleasures, spending our life in malice and envy, hateful, hating one another.",
+      "h": "",
+      "o": 3,
+      "l": "3"
+    },
+    {
+      "id": 56003004,
+      "b": 56,
+      "c": 3,
+      "v": 4,
+      "t": "But when the kindness of God our Savior and His love for mankind appeared,",
+      "h": "",
+      "o": 4,
+      "l": "4"
+    },
+    {
+      "id": 56003005,
+      "b": 56,
+      "c": 3,
+      "v": 5,
+      "t": "He saved us, not on the basis of deeds which we have done in righteousness, but according to His mercy, by the washing of regeneration and renewing by the Holy Spirit,",
+      "h": "",
+      "o": 5,
+      "l": "5"
+    },
+    {
+      "id": 56003006,
+      "b": 56,
+      "c": 3,
+      "v": 6,
+      "t": "whom He poured out upon us richly through Jesus Christ our Savior,",
+      "h": "",
+      "o": 6,
+      "l": "6"
+    },
+    {
+      "id": 56003007,
+      "b": 56,
+      "c": 3,
+      "v": 7,
+      "t": "so that being justified by His grace we would be made heirs according to the hope of eternal life.",
+      "h": "",
+      "o": 7,
+      "l": "7"
+    },
+    {
+      "id": 56003008,
+      "b": 56,
+      "c": 3,
+      "v": 8,
+      "t": "This is a trustworthy statement; and concerning these things I want you to speak confidently, so that those who have believed God will be careful to engage in good deeds. These things are good and profitable for men.",
+      "h": "",
+      "o": 8,
+      "l": "8"
+    },
+    {
+      "id": 56003009,
+      "b": 56,
+      "c": 3,
+      "v": 9,
+      "t": "But avoid foolish controversies and genealogies and strife and disputes about the Law, for they are unprofitable and worthless.",
+      "h": "",
+      "o": 9,
+      "l": "9"
+    },
+    {
+      "id": 56003010,
+      "b": 56,
+      "c": 3,
+      "v": 10,
+      "t": "Reject a factious man after a first and second warning,",
+      "h": "",
+      "o": 10,
+      "l": "10"
+    },
+    {
+      "id": 56003011,
+      "b": 56,
+      "c": 3,
+      "v": 11,
+      "t": "knowing that such a man is perverted and is sinning, being self-condemned.",
+      "h": "",
+      "o": 11,
+      "l": "11"
+    },
+    {
+      "id": 56003012,
+      "b": 56,
+      "c": 3,
+      "v": 12,
+      "t": "When I send Artemas or Tychicus to you, make every effort to come to me at Nicopolis, for I have decided to spend the winter there.",
+      "h": "Personal Concerns",
+      "o": 12,
+      "l": "12"
+    },
+    {
+      "id": 56003013,
+      "b": 56,
+      "c": 3,
+      "v": 13,
+      "t": "Diligently help Zenas the lawyer and Apollos on their way so that nothing is lacking for them.",
+      "h": "",
+      "o": 13,
+      "l": "13"
+    },
+    {
+      "id": 56003014,
+      "b": 56,
+      "c": 3,
+      "v": 14,
+      "t": "Our people must also learn to engage in good deeds to meet pressing needs, so that they will not be unfruitful.",
+      "h": "",
+      "o": 14,
+      "l": "14"
+    },
+    {
+      "id": 56003015,
+      "b": 56,
+      "c": 3,
+      "v": 15,
+      "t": "All who are with me greet you. Greet those who love us in the faith. G race be with you all.",
+      "h": "",
+      "o": 15,
+      "l": "15"
+    }
+  ]
+}

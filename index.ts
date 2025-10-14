@@ -95,34 +95,34 @@ interface HeaderItem {
 // Constants
 const BIBLE_VERSION_IDS: BibleVersionIds = {
   // Indonesian
-  TB: 306, // Alkitab Terjemahan Baru ✔️✔️
-  TSI: 320, // Terjemahan Sederhana Indonesia ✔️
-  FAYH: 2727, // Firman Allah Yang Hidup ✔️
-  BIMK: 27, // Bahasa Indonesia Masa Kini ✔️
+  TB: 306, // Alkitab Terjemahan Baru
+  TSI: 320, // Terjemahan Sederhana Indonesia
+  FAYH: 2727, // Firman Allah Yang Hidup
+  BIMK: 27, // Bahasa Indonesia Masa Kini
   AMD: 199, // Alkitab Mudah Dibaca
   PBTB2: 2863, // Perjanjian Baru Terjemahan Baru 2
 
   // English
-  KJV: 1, // ✔️✔️ fixed blank page on the end (ex. PSA.84.KJV) => not inserted
-  NKJV: 114, // New King James Version ✔️✔️
-  MSG: 97, // The Message ✔️
+  KJV: 1, // King James Version
+  NKJV: 114, // New King James Version
+  MSG: 97, // The Message
   NET: 107, // New English Translation
-  NIV: 111, // New International Version ✔️
-  NLT: 116, // New Living Translation ✔️
-  AMP: 1588, // Amplified Bible ✔️✔️
-  NASB1995: 100, // New American Standard Bible, 1995 ✔️
+  NIV: 111, // New International Version
+  NLT: 116, // New Living Translation
+  AMP: 1588, // Amplified Bible
+  NASB1995: 100, // New American Standard Bible, 1995
   GNT: 68, // Good News Translation, for checking JOB.3.GNT
   ESV: 59, // English Standard Version 2016
   AFV: 4253, // A Faithful Version
   CSB: 1713, // Christian Standard Bible
 
   // German
-  HFA: 73, // Hoffnung Fur Alle ✔️
+  HFA: 73, // Hoffnung Fur Alle
 
   // Chinese
-  RCUV: 139, // Revised Chinese Union Version ✔️✔️
-  RCUVSS: 140, // Revised Chinese Union Version, Simplified ✔️
-  "CUNP-神": 46, // Chinese Union Version with New Punctuation, Shén version ✔️
+  RCUV: 139, // Revised Chinese Union Version
+  RCUVSS: 140, // Revised Chinese Union Version, Simplified
+  "CUNP-神": 46, // Chinese Union Version with New Punctuation, Shén version
   "CUNPSS-神": 48, // Chinese Union Version with New Punctuation, Shén version, Simplified
   "CUNP-上帝": 414, // Chinese Union Version with New Punctuation, Shàngdì version
   "CUNPSS-上帝": 57, // Chinese Union Version with New Punctuation, Shàngdì version, Simplified
@@ -1543,6 +1543,9 @@ class BibleScraper {
         );
         if (getContentText) {
           if (childVersesType === "nd") {
+            resultVerse.t += getContentText.toUpperCase();
+          } else if (childVersesType === "sc") {
+            // Small caps - uppercase and don't add space, just append directly
             resultVerse.t += getContentText.toUpperCase();
           } else {
             resultVerse.t += " " + getContentText;

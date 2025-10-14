@@ -234,6 +234,7 @@ notes:
 - /133/GEN.INTRO1.PDV2017 -> there is INTRO page
 - /97/GEN.1.MSG -> multiple verses are combined into one (1-2, 3-4)
 - ACT.8.37.HFA -> is missing on the page, but ACT.8.36 contains notes about verse 37.
+- PSA.84.KJV => blank page on the end
 
 common error:
 
